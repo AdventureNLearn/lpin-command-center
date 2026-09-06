@@ -11,11 +11,28 @@
     "members": 0,
     "sitting": 0,
     "votes": 0,
-    "committees": 0
+    "committees": 0,
+    "key_votes": 0,
+    "sourced_quotes": 0,
+    "pledged": 0
   },
   "basis": "Evidence",
   "incomplete": true,
   "name": "Thailand",
   "region": "asia",
-  "note": "BATCH 1 map-only seed from _template. iso2/name/region only. Sitting 0 honest. No invented roster, pledges, or yeas. No leftover harvest yet."
+  "note": "Gold object shape 2026-09-06. Sitting 0 from Wikidata. Votes/pledges/money empty — not invented.",
+  "lane": "gold-kit-8103",
+  "honest_complete": false,
+  "capabilities": [
+    "members",
+    "pledges",
+    "votes",
+    "issues",
+    "gap",
+    "caucus",
+    "committees",
+    "ethics",
+    "money",
+    "method"
+  ]
 }
