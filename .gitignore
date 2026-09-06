@@ -1,0 +1,18 @@
+node_modules/
+.vercel/
+dist/
+.output/
+public/cesiumStatic/
+public/__grok/
+screenshots/
+artifacts/
+.grok/
+AGENTS.md
+AGENTS.project.md
+*.log
+.env
+.env.*
+# On-disk civic archive. Do not push to upstream groks-eye-view.
+vendor/kept/
+.node_modules.lock
+.project_id
