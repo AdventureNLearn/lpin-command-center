@@ -1,6 +1,18 @@
 {
   "iso2": "bg",
   "kit": "institutional",
-  "items": [],
-  "incomplete": true
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "houses": [],
+  "seats": 240,
+  "items": [
+    {
+      "id": "bg",
+      "name": "National Assembly of Bulgaria",
+      "kind": "parliament",
+      "seats": 240,
+      "url": "https://www.parliament.bg/"
+    }
+  ],
+  "note": "Unicameral national legislature."
 }

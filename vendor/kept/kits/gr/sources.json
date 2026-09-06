@@ -1,4 +1,20 @@
 {
   "iso2": "gr",
-  "items": []
+  "items": [
+    {
+      "id": "roster",
+      "label": "Hellenic Parliament",
+      "url": "https://www.wikidata.org/wiki/Q18915989",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official",
+      "label": "Hellenic Parliament site",
+      "url": "https://www.hellenicparliament.gr/",
+      "kind": "primary",
+      "basis": "Evidence"
+    }
+  ],
+  "incomplete": false
 }

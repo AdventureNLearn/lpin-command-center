@@ -1,9 +1,3737 @@
 {
   "iso2": "gr",
-  "sitting": false,
-  "source_url": "",
+  "sitting": true,
+  "source_url": "https://www.wikidata.org/wiki/Q18915989",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "claimed_seats": 0,
-  "items": []
+  "claimed_seats": 300,
+  "chambers": [
+    "Hellenic Parliament"
+  ],
+  "items": [
+    {
+      "id": "yannis-papathanasiou",
+      "name": "Yannis Papathanasiou",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q961952"
+    },
+    {
+      "id": "anastasios-papaligouras",
+      "name": "Anastasios Papaligouras",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1091143"
+    },
+    {
+      "id": "ioannis-rallis",
+      "name": "Ioannis Rallis",
+      "sitting": true,
+      "party_id": "people-s-party",
+      "caucus": "People's Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q707184"
+    },
+    {
+      "id": "aris-spiliotopoulos",
+      "name": "Aris Spiliotopoulos",
+      "sitting": true,
+      "party_id": "dimokrates-proodeftiko-kentro",
+      "caucus": "Dimokrátes - Proodeftikó Kéntro",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1069794"
+    },
+    {
+      "id": "dimitris-beis",
+      "name": "Dimitris Beis",
+      "sitting": true,
+      "party_id": "centre-union",
+      "caucus": "Centre Union",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1226012"
+    },
+    {
+      "id": "konstantinos-konstantopoulos",
+      "name": "Konstantinos Konstantopoulos",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q959468"
+    },
+    {
+      "id": "konstantinos-demertzis",
+      "name": "Konstantinos Demertzis",
+      "sitting": true,
+      "party_id": "liberal-party",
+      "caucus": "Liberal Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q708377"
+    },
+    {
+      "id": "stylianos-gonatas",
+      "name": "Stylianos Gonatas",
+      "sitting": true,
+      "party_id": "liberal-party",
+      "caucus": "Liberal Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q708293"
+    },
+    {
+      "id": "sofoklis-venizelos",
+      "name": "Sofoklis Venizelos",
+      "sitting": true,
+      "party_id": "liberal-party",
+      "caucus": "Liberal Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q708334"
+    },
+    {
+      "id": "christos-papoutsis",
+      "name": "Christos Papoutsis",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1087152"
+    },
+    {
+      "id": "fotis-kouvelis",
+      "name": "Fotis Kouvelis",
+      "sitting": true,
+      "party_id": "democratic-left",
+      "caucus": "Democratic Left",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q970854"
+    },
+    {
+      "id": "dimitris-partsalidis",
+      "name": "Dīmītrīs Partsalidīs",
+      "sitting": true,
+      "party_id": "communist-party-of-greece",
+      "caucus": "Communist Party of Greece",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1225998"
+    },
+    {
+      "id": "dimitris-reppas",
+      "name": "Dimitris Reppas",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1226051"
+    },
+    {
+      "id": "ioannis-zigdis",
+      "name": "Ioannis Zigdis",
+      "sitting": true,
+      "party_id": "democratic-center-union",
+      "caucus": "Democratic Center Union",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1363623"
+    },
+    {
+      "id": "panagiotis-kanellopoulos",
+      "name": "Panagiotis Kanellopoulos",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q708364"
+    },
+    {
+      "id": "georgios-kafantaris",
+      "name": "Georgios Kafantaris",
+      "sitting": true,
+      "party_id": "progressive-party",
+      "caucus": "Progressive Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1243858"
+    },
+    {
+      "id": "kostandinos-trikoupis",
+      "name": "Kostandinos Trikoupis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1114449"
+    },
+    {
+      "id": "konstantinos-triaridis",
+      "name": "Konstantinos Triaridis",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1090483"
+    },
+    {
+      "id": "c-a-trypanis",
+      "name": "C. A. Trypanis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1128026"
+    },
+    {
+      "id": "alexandros-koumoundouros",
+      "name": "Alexandros Koumoundouros",
+      "sitting": true,
+      "party_id": "national-party",
+      "caucus": "National Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q708318"
+    },
+    {
+      "id": "georgios-athanasiadis-novas",
+      "name": "Georgios Athanasiadis-Novas",
+      "sitting": true,
+      "party_id": "freethinkers-party",
+      "caucus": "Freethinkers' Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1371404"
+    },
+    {
+      "id": "konstantinos-tsaldaris",
+      "name": "Konstantinos Tsaldaris",
+      "sitting": true,
+      "party_id": "people-s-party",
+      "caucus": "People's Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q728875"
+    },
+    {
+      "id": "panagis-tsaldaris",
+      "name": "Panagis Tsaldaris",
+      "sitting": true,
+      "party_id": "people-s-party",
+      "caucus": "People's Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q728895"
+    },
+    {
+      "id": "alexandros-karapanos",
+      "name": "Alexandros Karapanos",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1223718"
+    },
+    {
+      "id": "sotirios-krokidas",
+      "name": "Sotirios Krokidas",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1243870"
+    },
+    {
+      "id": "sotirios-sotiropoulos",
+      "name": "Sotirios Sotiropoulos",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1243880"
+    },
+    {
+      "id": "emmanouil-tsouderos",
+      "name": "Emmanouil Tsouderos",
+      "sitting": true,
+      "party_id": "liberal-party",
+      "caucus": "Liberal Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q731193"
+    },
+    {
+      "id": "georgios-kartalis",
+      "name": "Georgios Kartalis",
+      "sitting": true,
+      "party_id": "people-s-party",
+      "caucus": "People's Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q826343"
+    },
+    {
+      "id": "panagiotis-danglis",
+      "name": "Panagiotis Danglis",
+      "sitting": true,
+      "party_id": "liberal-party",
+      "caucus": "Liberal Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1247258"
+    },
+    {
+      "id": "ioannis-paleokrassas",
+      "name": "Ioánnis Paleokrassás",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q722451"
+    },
+    {
+      "id": "filippos-petsalnikos",
+      "name": "Filippos Petsalnikos",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q704242"
+    },
+    {
+      "id": "ilias-kasidiaris",
+      "name": "Ilias Kasidiaris",
+      "sitting": true,
+      "party_id": "national-party-hellenes",
+      "caucus": "National Party – Hellenes",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1348030"
+    },
+    {
+      "id": "michalis-papakonstantinou",
+      "name": "Michalis Papakonstantinou",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q983656"
+    },
+    {
+      "id": "konstadinos-koukodimos",
+      "name": "Konstadinos Koukodimos",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q983862"
+    },
+    {
+      "id": "georgios-kaminis",
+      "name": "Georgios Kaminis",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q719130"
+    },
+    {
+      "id": "benizelos-rouphos",
+      "name": "Benizelos Rouphos",
+      "sitting": true,
+      "party_id": "french-party",
+      "caucus": "French Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q817367"
+    },
+    {
+      "id": "petros-molyviatis",
+      "name": "Petros Molyviatis",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1252175"
+    },
+    {
+      "id": "manolis-glezos",
+      "name": "Manolis Glezos",
+      "sitting": true,
+      "party_id": "communist-party-of-greece",
+      "caucus": "Communist Party of Greece",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q728169"
+    },
+    {
+      "id": "konstantinos-arvanitopoulos",
+      "name": "Konstantinos Arvanitopoulos",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q999421"
+    },
+    {
+      "id": "ion-dragoumis",
+      "name": "Ion Dragoumis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q737889"
+    },
+    {
+      "id": "asterios-rondoulis",
+      "name": "Asterios Rondoulis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q747600"
+    },
+    {
+      "id": "diomidis-kyriakos",
+      "name": "Diomidis Kyriakos",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q748810"
+    },
+    {
+      "id": "athanasios-eftaxias",
+      "name": "Athanasios Eftaxias",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q754775"
+    },
+    {
+      "id": "ilias-panagiotaros",
+      "name": "Ilias Panagiotaros",
+      "sitting": true,
+      "party_id": "golden-dawn",
+      "caucus": "Golden Dawn",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1289527"
+    },
+    {
+      "id": "athanasios-kanellopoulos",
+      "name": "Athanasios Kanellopoulos",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q754780"
+    },
+    {
+      "id": "komninos-pyromaglou",
+      "name": "Komninos Pyromaglou",
+      "sitting": true,
+      "party_id": "united-democratic-left",
+      "caucus": "United Democratic Left",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q834136"
+    },
+    {
+      "id": "petros-brailas-armenes",
+      "name": "Petros Brailas-Armenēs",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q964715"
+    },
+    {
+      "id": "konstantinos-papakonstantinou",
+      "name": "Konstantinos Papakonstantinou",
+      "sitting": true,
+      "party_id": "people-s-party",
+      "caucus": "People's Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1167929"
+    },
+    {
+      "id": "alexandros-papanastasiou",
+      "name": "Alexandros Papanastasiou",
+      "sitting": true,
+      "party_id": "liberal-party",
+      "caucus": "Liberal Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q734996"
+    },
+    {
+      "id": "haris-kastanidis",
+      "name": "Haris Kastanidis",
+      "sitting": true,
+      "party_id": "social-agreement",
+      "caucus": "Social Agreement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1063232"
+    },
+    {
+      "id": "giorgos-papakonstantinou",
+      "name": "Giorgos Papakonstantinou",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q929413"
+    },
+    {
+      "id": "georgios-theotokis",
+      "name": "Georgios Theotokis",
+      "sitting": true,
+      "party_id": "new-party",
+      "caucus": "New Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q708300"
+    },
+    {
+      "id": "stavros-xarchakos",
+      "name": "Stavros Xarchakos",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1347993"
+    },
+    {
+      "id": "kostis-chatzidakis",
+      "name": "Kostis Chatzidakis",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1348054"
+    },
+    {
+      "id": "stefanos-sarafis",
+      "name": "Stefanos Sarafis",
+      "sitting": true,
+      "party_id": "communist-party-of-greece",
+      "caucus": "Communist Party of Greece",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q935986"
+    },
+    {
+      "id": "dimitrios-maximos",
+      "name": "Dimitrios Maximos",
+      "sitting": true,
+      "party_id": "people-s-party",
+      "caucus": "People's Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1225994"
+    },
+    {
+      "id": "dimitris-avramopoulos",
+      "name": "Dimitris Avramopoulos",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q983664"
+    },
+    {
+      "id": "stefanos-skouloudis",
+      "name": "Stefanos Skouloudis",
+      "sitting": true,
+      "party_id": "new-party",
+      "caucus": "New Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q959554"
+    },
+    {
+      "id": "dionysios-zakythinos",
+      "name": "Dionysios Zakythinos",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1226990"
+    },
+    {
+      "id": "harilaos-trikoupis",
+      "name": "Harilaos Trikoupis",
+      "sitting": true,
+      "party_id": "new-party",
+      "caucus": "New Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q197692"
+    },
+    {
+      "id": "mikis-theodorakis",
+      "name": "Mikis Theodorakis",
+      "sitting": true,
+      "party_id": "united-left",
+      "caucus": "United Left",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q151976"
+    },
+    {
+      "id": "ioannis-metaxas",
+      "name": "Ioannis Metaxas",
+      "sitting": true,
+      "party_id": "freethinkers-party",
+      "caucus": "Freethinkers' Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q189139"
+    },
+    {
+      "id": "sofia-sakorafa",
+      "name": "Sofia Sakorafa",
+      "sitting": true,
+      "party_id": "syriza",
+      "caucus": "SYRIZA",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q437648"
+    },
+    {
+      "id": "georgios-souflias",
+      "name": "Georgios Souflias",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q459262"
+    },
+    {
+      "id": "thanos-plevris",
+      "name": "Thanos Plevris",
+      "sitting": true,
+      "party_id": "popular-orthodox-rally",
+      "caucus": "Popular Orthodox Rally",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q444093"
+    },
+    {
+      "id": "spiridon-markezinis",
+      "name": "Spiridon Markezinis",
+      "sitting": true,
+      "party_id": "centre-union",
+      "caucus": "Centre Union",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q455637"
+    },
+    {
+      "id": "katerina-batzeli",
+      "name": "Katerina Batzeli",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q451032"
+    },
+    {
+      "id": "dora-bakoyannis",
+      "name": "Dora Bakoyannis",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q464862"
+    },
+    {
+      "id": "eleftherios-venizelos",
+      "name": "Eleftherios Venizelos",
+      "sitting": true,
+      "party_id": "liberal-party",
+      "caucus": "Liberal Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q205545"
+    },
+    {
+      "id": "giorgos-papandreou",
+      "name": "Giorgos Papandreou",
+      "sitting": true,
+      "party_id": "movement-of-democratic-socialists",
+      "caucus": "Movement of Democratic Socialists",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q151917"
+    },
+    {
+      "id": "georgios-mavros",
+      "name": "Georgios Mavros",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q455293"
+    },
+    {
+      "id": "georgios-rallis",
+      "name": "Georgios Rallis",
+      "sitting": true,
+      "party_id": "greek-rally",
+      "caucus": "Greek Rally",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q252657"
+    },
+    {
+      "id": "aleka-papariga",
+      "name": "Aleka Papariga",
+      "sitting": true,
+      "party_id": "lambrakis-democratic-youth",
+      "caucus": "Lambrakis Democratic Youth",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q261762"
+    },
+    {
+      "id": "nikolaos-plastiras",
+      "name": "Nikolaos Plastiras",
+      "sitting": true,
+      "party_id": "national-progressive-center-union",
+      "caucus": "National Progressive Center Union",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q449445"
+    },
+    {
+      "id": "maria-damanaki",
+      "name": "Maria Damanaki",
+      "sitting": true,
+      "party_id": "communist-party-of-greece",
+      "caucus": "Communist Party of Greece",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q261709"
+    },
+    {
+      "id": "konstantinos-von-hosslin",
+      "name": "Konstantinos von Hösslin",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q126202"
+    },
+    {
+      "id": "thrasivoulos-zaimis",
+      "name": "Thrasivoulos Zaimis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q127366"
+    },
+    {
+      "id": "dimitrios-gounaris",
+      "name": "Dimitrios Gounaris",
+      "sitting": true,
+      "party_id": "people-s-party",
+      "caucus": "People's Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q209529"
+    },
+    {
+      "id": "konstantinos-tsatsos",
+      "name": "Konstantinos Tsatsos",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q365209"
+    },
+    {
+      "id": "alexandros-panagoulis",
+      "name": "Alexandros Panagoulis",
+      "sitting": true,
+      "party_id": "centre-union",
+      "caucus": "Centre Union",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q469985"
+    },
+    {
+      "id": "louka-katseli",
+      "name": "Louka Katseli",
+      "sitting": true,
+      "party_id": "social-agreement",
+      "caucus": "Social Agreement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q468064"
+    },
+    {
+      "id": "pyrros-dimas",
+      "name": "Pyrros Dimas",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q366824"
+    },
+    {
+      "id": "konstantinos-stephanopoulos",
+      "name": "Konstantinos Stephanopoulos",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q206421"
+    },
+    {
+      "id": "georgios-papandreou",
+      "name": "Georgios Papandreou",
+      "sitting": true,
+      "party_id": "liberal-party",
+      "caucus": "Liberal Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q311207"
+    },
+    {
+      "id": "mariliza-xenogiannakopoulou",
+      "name": "Mariliza Xenogiannakopoulou",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q467853"
+    },
+    {
+      "id": "vasso-papandreou",
+      "name": "Vasso Papandreou",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q468103"
+    },
+    {
+      "id": "dimitrios-rallis",
+      "name": "Dimitrios Rallis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q209144"
+    },
+    {
+      "id": "konstantinos-mitsotakis",
+      "name": "Konstantinos Mitsotakis",
+      "sitting": true,
+      "party_id": "liberal-party",
+      "caucus": "Liberal Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q312013"
+    },
+    {
+      "id": "costas-simitis",
+      "name": "Costas Simitis",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q155390"
+    },
+    {
+      "id": "konstantinos-kanaris",
+      "name": "Konstantinos Kanaris",
+      "sitting": true,
+      "party_id": "russian-party",
+      "caucus": "Russian Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q365201"
+    },
+    {
+      "id": "yanis-varoufakis",
+      "name": "Yanis Varoufakis",
+      "sitting": true,
+      "party_id": "syriza",
+      "caucus": "SYRIZA",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q40688"
+    },
+    {
+      "id": "athanasios-miaoulis",
+      "name": "Athanasios Miaoulis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q370465"
+    },
+    {
+      "id": "theodoros-pangalos",
+      "name": "Theodoros Pangalos",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q462542"
+    },
+    {
+      "id": "periklis-pierrakos-mavromichalis",
+      "name": "Periklis Pierrakos-Mavromichalis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q456079"
+    },
+    {
+      "id": "georgios-kondylis",
+      "name": "Georgios Kondylis",
+      "sitting": true,
+      "party_id": "national-democratic-party",
+      "caucus": "National Democratic Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q167278"
+    },
+    {
+      "id": "stavros-dimas",
+      "name": "Stavros Dimas",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58091"
+    },
+    {
+      "id": "michael-stasinopoulos",
+      "name": "Michael Stasinopoulos",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q373532"
+    },
+    {
+      "id": "andreas-papandreou",
+      "name": "Andreas Papandreou",
+      "sitting": true,
+      "party_id": "centre-union",
+      "caucus": "Centre Union",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q219256"
+    },
+    {
+      "id": "karolos-papoulias",
+      "name": "Karolos Papoulias",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57303"
+    },
+    {
+      "id": "nikolaos-stratos",
+      "name": "Nikolaos Stratos",
+      "sitting": true,
+      "party_id": "liberal-party",
+      "caucus": "Liberal Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q375380"
+    },
+    {
+      "id": "leonidas-kyrkos",
+      "name": "Leonidas Kyrkos",
+      "sitting": true,
+      "party_id": "united-democratic-left",
+      "caucus": "United Democratic Left",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q165319"
+    },
+    {
+      "id": "yianna-angelopoulos-daskalaki",
+      "name": "Yianna Angelopoulos-Daskalaki",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q289307"
+    },
+    {
+      "id": "agamemnon-schliemann",
+      "name": "Agamemnon Schliemann",
+      "sitting": true,
+      "party_id": "people-s-party",
+      "caucus": "People's Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q390410"
+    },
+    {
+      "id": "georgios-voulgarakis",
+      "name": "Georgios Voulgarakis",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q382096"
+    },
+    {
+      "id": "theodoros-roussopoulos",
+      "name": "Theodoros Roussopoulos",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q382093"
+    },
+    {
+      "id": "konstantinos-karamanlis",
+      "name": "Konstantinos Karamanlis",
+      "sitting": true,
+      "party_id": "people-s-party",
+      "caucus": "People's Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q156806"
+    },
+    {
+      "id": "melina-mercouri",
+      "name": "Melina Mercouri",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q228611"
+    },
+    {
+      "id": "maria-farantouri",
+      "name": "Maria Farantouri",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q234918"
+    },
+    {
+      "id": "stefanos-dragoumis",
+      "name": "Stefanos Dragoumis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q44132"
+    },
+    {
+      "id": "anna-diamantopoulou",
+      "name": "Anna Diamantopoulou",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q242305"
+    },
+    {
+      "id": "tzannis-tzannetakis",
+      "name": "Tzannis Tzannetakis",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q316235"
+    },
+    {
+      "id": "nikos-dendias",
+      "name": "Nikos Dendias",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q247424"
+    },
+    {
+      "id": "markos-vafiadis",
+      "name": "Markos Vafiadis",
+      "sitting": true,
+      "party_id": "communist-party-of-greece",
+      "caucus": "Communist Party of Greece",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q313432"
+    },
+    {
+      "id": "michalis-chrisochoidis",
+      "name": "Michalis Chrisochoidis",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q185945"
+    },
+    {
+      "id": "giorgos-kontogeorgis",
+      "name": "Giorgos Kontogeorgis",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q445545"
+    },
+    {
+      "id": "alexandros-papagos",
+      "name": "Alexandros Papagos",
+      "sitting": true,
+      "party_id": "greek-rally",
+      "caucus": "Greek Rally",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q312046"
+    },
+    {
+      "id": "dimitris-sioufas",
+      "name": "Dimitris Sioufas",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q451135"
+    },
+    {
+      "id": "yiannos-papantoniou",
+      "name": "Yiannos Papantoniou",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q321635"
+    },
+    {
+      "id": "alexandros-zaimis",
+      "name": "Alexandros Zaimis",
+      "sitting": true,
+      "party_id": "national-party",
+      "caucus": "National Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q332096"
+    },
+    {
+      "id": "georgios-kakoulidis",
+      "name": "Georgios Kakoulidis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3558381"
+    },
+    {
+      "id": "alekos-alavanos",
+      "name": "Alekos Alavanos",
+      "sitting": true,
+      "party_id": "communist-party-of-greece",
+      "caucus": "Communist Party of Greece",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2840739"
+    },
+    {
+      "id": "amalia-fleming",
+      "name": "Amalia Fleming",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2840961"
+    },
+    {
+      "id": "apostolos-katsifaras",
+      "name": "Apostolos Katsifaras",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2859088"
+    },
+    {
+      "id": "chrysovalandis-alexopoulos",
+      "name": "Chrysovalandis Alexopoulos",
+      "sitting": true,
+      "party_id": "golden-dawn",
+      "caucus": "Golden Dawn",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2967430"
+    },
+    {
+      "id": "christos-zois",
+      "name": "Christos Zois",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2967484"
+    },
+    {
+      "id": "athanasios-souliotis-nikolaidis",
+      "name": "Athanásios Souliótis-Nikolaïdis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2749862"
+    },
+    {
+      "id": "dimitris-koukoutsis",
+      "name": "Dimitris Koukoutsis",
+      "sitting": true,
+      "party_id": "golden-dawn",
+      "caucus": "Golden Dawn",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3028169"
+    },
+    {
+      "id": "vasilis-kondogiannopoulos",
+      "name": "Vasilis Kondogiannopoulos",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2987129"
+    },
+    {
+      "id": "konstantinos-conophagos",
+      "name": "Konstantinos Conophagos",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2994958"
+    },
+    {
+      "id": "dimitrios-doulis",
+      "name": "Dimitrios Doulis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3028204"
+    },
+    {
+      "id": "georgios-baltatzis",
+      "name": "Georgios Baltatzis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3104734"
+    },
+    {
+      "id": "iakovos-polylas",
+      "name": "Iákovos Polylás",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3156518"
+    },
+    {
+      "id": "efstathios-boukouras",
+      "name": "Efstathios Boukouras",
+      "sitting": true,
+      "party_id": "golden-dawn",
+      "caucus": "Golden Dawn",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3049102"
+    },
+    {
+      "id": "eleni-zaroulia",
+      "name": "Eleni Zaroulia",
+      "sitting": true,
+      "party_id": "golden-dawn",
+      "caucus": "Golden Dawn",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3051927"
+    },
+    {
+      "id": "georgios-tsontos",
+      "name": "Georgios Tsontos",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3394723"
+    },
+    {
+      "id": "pavlos-gyparis",
+      "name": "Pavlos Gyparis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3394858"
+    },
+    {
+      "id": "dimitrios-vakalis",
+      "name": "Dimitrios Vakalis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3553705"
+    },
+    {
+      "id": "ioannis-demestichas",
+      "name": "Ioannis Demestichas",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3556613"
+    },
+    {
+      "id": "christos-christovasilis",
+      "name": "Christos Christovasilis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3557220"
+    },
+    {
+      "id": "georgios-katechakis",
+      "name": "Georgios Katechakis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3558739"
+    },
+    {
+      "id": "dimitrios-galanos",
+      "name": "Dimitrios Galanos",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3565641"
+    },
+    {
+      "id": "nikolaos-petimezas",
+      "name": "Nikolaos Petimezas",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3565683"
+    },
+    {
+      "id": "elena-panaritis",
+      "name": "Elena Panaritis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3721473"
+    },
+    {
+      "id": "sideris-pratsikas",
+      "name": "Sideris Pratsikas",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3807861"
+    },
+    {
+      "id": "miltiadis-kanaris",
+      "name": "Miltiadis Kanaris",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4212186"
+    },
+    {
+      "id": "spiridon-karaiskakis",
+      "name": "Spiridon Karaiskakis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4213822"
+    },
+    {
+      "id": "lykourgos-logothetis",
+      "name": "Lykourgos Logothetis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4265217"
+    },
+    {
+      "id": "andreas-mamukas",
+      "name": "Andreas Mamukas",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4280069"
+    },
+    {
+      "id": "anna-psarouda-benaki",
+      "name": "Anna Psarouda - Benaki",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3577025"
+    },
+    {
+      "id": "yannis-lagos",
+      "name": "Yannis Lagos",
+      "sitting": true,
+      "party_id": "golden-dawn",
+      "caucus": "Golden Dawn",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3154049"
+    },
+    {
+      "id": "konstantinos-barbarousis",
+      "name": "Konstantinos Barbarousis",
+      "sitting": true,
+      "party_id": "golden-dawn",
+      "caucus": "Golden Dawn",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3198780"
+    },
+    {
+      "id": "christos-pappas",
+      "name": "Christos Pappas",
+      "sitting": true,
+      "party_id": "golden-dawn",
+      "caucus": "Golden Dawn",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2967481"
+    },
+    {
+      "id": "kostas-karras",
+      "name": "Kostas Karras",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3201181"
+    },
+    {
+      "id": "nikos-sifounakis",
+      "name": "Nikos Sifounakis",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3124878"
+    },
+    {
+      "id": "anna-synodinou",
+      "name": "Anna Synodinou",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3206907"
+    },
+    {
+      "id": "michail-arvanitis-avramis",
+      "name": "Michaíl Arvanítis-Avrámis",
+      "sitting": true,
+      "party_id": "golden-dawn",
+      "caucus": "Golden Dawn",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3308708"
+    },
+    {
+      "id": "alexandros-zannas",
+      "name": "Alexandros Zannas",
+      "sitting": true,
+      "party_id": "liberal-party",
+      "caucus": "Liberal Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2643846"
+    },
+    {
+      "id": "nikolaos-michos",
+      "name": "Nikolaos Michos",
+      "sitting": true,
+      "party_id": "golden-dawn",
+      "caucus": "Golden Dawn",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3341847"
+    },
+    {
+      "id": "nikos-kouzilos",
+      "name": "Nikos Kouzilos",
+      "sitting": true,
+      "party_id": "golden-dawn",
+      "caucus": "Golden Dawn",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3341845"
+    },
+    {
+      "id": "kostas-kazakos",
+      "name": "Kostas Kazakos",
+      "sitting": true,
+      "party_id": "communist-party-of-greece",
+      "caucus": "Communist Party of Greece",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3201184"
+    },
+    {
+      "id": "marietta-giannakou",
+      "name": "Marietta Giannakou",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3293913"
+    },
+    {
+      "id": "polivios-zisimopoulos",
+      "name": "Polivios Zisimópoulos",
+      "sitting": true,
+      "party_id": "golden-dawn",
+      "caucus": "Golden Dawn",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3395908"
+    },
+    {
+      "id": "diamanto-manolakou",
+      "name": "Diamanto Manolakou",
+      "sitting": true,
+      "party_id": "communist-party-of-greece",
+      "caucus": "Communist Party of Greece",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3247472"
+    },
+    {
+      "id": "nikos-nikolopoulos",
+      "name": "Níkos Nikolópoulos",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3347274"
+    },
+    {
+      "id": "liana-kanelli",
+      "name": "Liana Kanelli",
+      "sitting": true,
+      "party_id": "communist-party-of-greece",
+      "caucus": "Communist Party of Greece",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2628736"
+    },
+    {
+      "id": "panos-beglitis",
+      "name": "Panos Beglitis",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2629028"
+    },
+    {
+      "id": "prokopis-pavlopoulos",
+      "name": "Prokopis Pavlopoulos",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3407316"
+    },
+    {
+      "id": "giorgos-mavrotas",
+      "name": "Giorgos Mavrotas",
+      "sitting": true,
+      "party_id": "the-river",
+      "caucus": "The River",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3564488"
+    },
+    {
+      "id": "nikos-kitsikis",
+      "name": "Nikos Kitsikis",
+      "sitting": true,
+      "party_id": "united-democratic-left",
+      "caucus": "United Democratic Left",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3340477"
+    },
+    {
+      "id": "nikolaos-chountis",
+      "name": "Nikólaos Chountís",
+      "sitting": true,
+      "party_id": "popular-unity-insubordinate-left",
+      "caucus": "Popular Unity - Insubordinate Left",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3341844"
+    },
+    {
+      "id": "nikos-konstantopoulos",
+      "name": "Nikos Konstantopoulos",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3347276"
+    },
+    {
+      "id": "dimitris-papadimoulis",
+      "name": "Dimitris Papadimoulis",
+      "sitting": true,
+      "party_id": "new-left",
+      "caucus": "New Left",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3556414"
+    },
+    {
+      "id": "kostas-kotzias",
+      "name": "Kostas Kotzias",
+      "sitting": true,
+      "party_id": "politically-independent-alignment",
+      "caucus": "Politically Independent Alignment",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3566272"
+    },
+    {
+      "id": "niki-tzavela",
+      "name": "Niki Tzavela",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3557644"
+    },
+    {
+      "id": "nikolaos-martis",
+      "name": "Nikolaos Martis",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3563143"
+    },
+    {
+      "id": "spilios-spiliotopoulos",
+      "name": "Spilios Spiliotopoulos",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3564648"
+    },
+    {
+      "id": "panagiotis-psomiadis",
+      "name": "Panagiotis Psomiadis",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3565225"
+    },
+    {
+      "id": "stelios-papathemelis",
+      "name": "Stelios Papathemelis",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3565385"
+    },
+    {
+      "id": "ioannis-toumbas",
+      "name": "Ioannis Toumbas",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4465386"
+    },
+    {
+      "id": "doukas-gaitatzis",
+      "name": "Doukas Gaitatzis",
+      "sitting": true,
+      "party_id": "freethinkers-party",
+      "caucus": "Freethinkers' Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3401005"
+    },
+    {
+      "id": "miltiadis-papaioannou",
+      "name": "Miltiadis Papaioannou",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4344616"
+    },
+    {
+      "id": "sylvana-rapti",
+      "name": "Sylvána Rápti",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3507433"
+    },
+    {
+      "id": "georgios-gennimatas",
+      "name": "Georgios Gennimatas",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3561313"
+    },
+    {
+      "id": "mimis-androulakis",
+      "name": "Mimis Androulakis",
+      "sitting": true,
+      "party_id": "communist-party-of-greece",
+      "caucus": "Communist Party of Greece",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3567236"
+    },
+    {
+      "id": "giorgos-nikitiadis",
+      "name": "Giorgos Nikitiadis",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3559195"
+    },
+    {
+      "id": "giorgos-koutroumanis",
+      "name": "Giorgos Koutroumanis",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3559201"
+    },
+    {
+      "id": "georgios-petalotis",
+      "name": "Georgios Petalotis",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3559218"
+    },
+    {
+      "id": "yannis-diamantidis",
+      "name": "Yannis Diamantidis",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3559189"
+    },
+    {
+      "id": "dimitrios-pandermalis",
+      "name": "Dimitrios Pandermalis",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3562062"
+    },
+    {
+      "id": "mihalis-papagiannakis",
+      "name": "Mihalis Papagiannakis",
+      "sitting": true,
+      "party_id": "synaspismos",
+      "caucus": "Synaspismós",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3563281"
+    },
+    {
+      "id": "antonis-gregos",
+      "name": "Antonis Gregos",
+      "sitting": true,
+      "party_id": "golden-dawn",
+      "caucus": "Golden Dawn",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2857774"
+    },
+    {
+      "id": "grigoris-farakos",
+      "name": "Grigoris Farakos",
+      "sitting": true,
+      "party_id": "communist-party-of-greece",
+      "caucus": "Communist Party of Greece",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4481183"
+    },
+    {
+      "id": "artemios-matthaiopoulos",
+      "name": "Artemios Matthaiopoulos",
+      "sitting": true,
+      "party_id": "golden-dawn",
+      "caucus": "Golden Dawn",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2864872"
+    },
+    {
+      "id": "savvas-tsitouridis",
+      "name": "Savvas Tsitouridis",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3558750"
+    },
+    {
+      "id": "georgios-s-mercouris",
+      "name": "Georgios S. Mercouris",
+      "sitting": true,
+      "party_id": "greek-national-socialist-party",
+      "caucus": "Greek National Socialist Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5544179"
+    },
+    {
+      "id": "kostas-zouraris",
+      "name": "Kostas Zouraris",
+      "sitting": true,
+      "party_id": "independent-greeks",
+      "caucus": "Independent Greeks",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6433534"
+    },
+    {
+      "id": "kyriakos-velopoulos",
+      "name": "Kyriakos Velopoulos",
+      "sitting": true,
+      "party_id": "greek-solution",
+      "caucus": "Greek Solution",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6452486"
+    },
+    {
+      "id": "ioannis-antonopoulos",
+      "name": "Ioannis Antonopoulos",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6061985"
+    },
+    {
+      "id": "dimitrios-votsis",
+      "name": "Dimitrios Votsis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5277619"
+    },
+    {
+      "id": "michael-melas",
+      "name": "Michael Melas",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6835697"
+    },
+    {
+      "id": "nikolaos-makris",
+      "name": "Nikolaos Makris",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7036066"
+    },
+    {
+      "id": "georgios-krestenitis",
+      "name": "Georgios Krestenitis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5548394"
+    },
+    {
+      "id": "litsa-kouroupaki",
+      "name": "Litsa Kouroupaki",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6648724"
+    },
+    {
+      "id": "chrisanthos-sisinis",
+      "name": "Chrisanthos Sisinis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5114550"
+    },
+    {
+      "id": "manolis-kefalogiannis",
+      "name": "Manolis Kefalogiannis",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6751217"
+    },
+    {
+      "id": "likourgos-kallergis",
+      "name": "Likourgos Kallergis",
+      "sitting": true,
+      "party_id": "communist-party-of-greece",
+      "caucus": "Communist Party of Greece",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6707861"
+    },
+    {
+      "id": "ilias-iliou",
+      "name": "Ilias Iliou",
+      "sitting": true,
+      "party_id": "united-left",
+      "caucus": "United Left",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5998025"
+    },
+    {
+      "id": "christos-stefanopoulos",
+      "name": "Christos Stefanopoulos",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5113587"
+    },
+    {
+      "id": "christos-zalokostas",
+      "name": "Christos Zalokostas",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5113602"
+    },
+    {
+      "id": "kostas-douzinas",
+      "name": "Kostas Douzinas",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5175041"
+    },
+    {
+      "id": "dimitrios-deligeorgis",
+      "name": "Dimitrios Deligeorgis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5277571"
+    },
+    {
+      "id": "dimitrios-patrinos",
+      "name": "Dimitrios Patrinos",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5277608"
+    },
+    {
+      "id": "markos-natsinas",
+      "name": "Markos Natsinas",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6771308"
+    },
+    {
+      "id": "ioannis-kalogeras",
+      "name": "Ioannis Kalogeras",
+      "sitting": true,
+      "party_id": "liberal-party",
+      "caucus": "Liberal Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6062050"
+    },
+    {
+      "id": "konstantinos-manetas",
+      "name": "Konstantinos Manetas",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6430166"
+    },
+    {
+      "id": "georgios-mitzou",
+      "name": "Georgios Mitzou",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5548405"
+    },
+    {
+      "id": "georgios-roufos",
+      "name": "Georgios Roufos",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5548435"
+    },
+    {
+      "id": "georgios-tertsetis",
+      "name": "Georgios Tertsetis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5548450"
+    },
+    {
+      "id": "ioannis-pesmazoglou",
+      "name": "Ioannis Pesmazoglou",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6062130"
+    },
+    {
+      "id": "ioannis-sofianopoulos",
+      "name": "Ioannis Sofianopoulos",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6062146"
+    },
+    {
+      "id": "yannis-kefalogiannis",
+      "name": "Yannis Kefalogiannis",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6062066"
+    },
+    {
+      "id": "menios-koutsogiorgas",
+      "name": "Menios Koutsogiorgas",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6817098"
+    },
+    {
+      "id": "konstantinos-skenderis",
+      "name": "Konstantinos Skenderis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6430188"
+    },
+    {
+      "id": "kyriakos-kyritsis",
+      "name": "Kyriakos Kyritsis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6452476"
+    },
+    {
+      "id": "loukas-kanakaris-roufos",
+      "name": "Loukas Kanakaris-Roufos",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6689599"
+    },
+    {
+      "id": "miltiadis-goulimis",
+      "name": "Miltiadis Goulimis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6860874"
+    },
+    {
+      "id": "pafsanias-katsotas",
+      "name": "Pafsanias Katsotas",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7124125"
+    },
+    {
+      "id": "petros-zappas",
+      "name": "Petros Zappas",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7179103"
+    },
+    {
+      "id": "ilias-polatidis",
+      "name": "Ilias Polatidis",
+      "sitting": true,
+      "party_id": "popular-orthodox-rally",
+      "caucus": "Popular Orthodox Rally",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5998037"
+    },
+    {
+      "id": "evgenios-papadopoulos",
+      "name": "Evgenios Papadopoulos",
+      "sitting": true,
+      "party_id": "independent-greeks",
+      "caucus": "Independent Greeks",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5418255"
+    },
+    {
+      "id": "yannis-banias",
+      "name": "Yannis Banias",
+      "sitting": true,
+      "party_id": "communist-party-of-greece",
+      "caucus": "Communist Party of Greece",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6061994"
+    },
+    {
+      "id": "yannis-patakis",
+      "name": "Yannis Patakis",
+      "sitting": true,
+      "party_id": "communist-party-of-greece",
+      "caucus": "Communist Party of Greece",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6062136"
+    },
+    {
+      "id": "nakis-avgerinos",
+      "name": "Nakis Avgerinos",
+      "sitting": true,
+      "party_id": "centre-union",
+      "caucus": "Centre Union",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6960647"
+    },
+    {
+      "id": "nikolas-papapolitis",
+      "name": "Nikolas Papapolitis",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7026024"
+    },
+    {
+      "id": "nikos-christodoulakis",
+      "name": "Nikos Christodoulakis",
+      "sitting": true,
+      "party_id": "democratic-left",
+      "caucus": "Democratic Left",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7036594"
+    },
+    {
+      "id": "panagis-vourloumis",
+      "name": "Panagis Vourloumis",
+      "sitting": true,
+      "party_id": "liberal-party",
+      "caucus": "Liberal Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7129870"
+    },
+    {
+      "id": "moustafa-moustafa",
+      "name": "Moustafá Moustafá",
+      "sitting": true,
+      "party_id": "communist-party-of-greece",
+      "caucus": "Communist Party of Greece",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6943302"
+    },
+    {
+      "id": "panagiotis-adraktas",
+      "name": "Panagiotis Adraktas",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7129826"
+    },
+    {
+      "id": "panagiotis-chinofotis",
+      "name": "Panagiotis Chinofotis",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7129831"
+    },
+    {
+      "id": "dimitrios-gontikas",
+      "name": "Dimitrios Gontikas",
+      "sitting": true,
+      "party_id": "liberal-party",
+      "caucus": "Liberal Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5277577"
+    },
+    {
+      "id": "christos-verelis",
+      "name": "Christos Verelis",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5113601"
+    },
+    {
+      "id": "dionysia-theodora-avgerinopoulou",
+      "name": "Dionysia-Theodora Avgerinopoulou",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5279372"
+    },
+    {
+      "id": "dimitris-tsovolas",
+      "name": "Dimitris Tsovolas",
+      "sitting": true,
+      "party_id": "democratic-social-movement",
+      "caucus": "Democratic Social Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5277682"
+    },
+    {
+      "id": "petros-efthymiou",
+      "name": "Petros Efthymiou",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7179073"
+    },
+    {
+      "id": "periklis-korovesis",
+      "name": "Periklis Korovesis",
+      "sitting": true,
+      "party_id": "syriza",
+      "caucus": "SYRIZA",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7168492"
+    },
+    {
+      "id": "dimitris-glinos",
+      "name": "Dimitris Glinos",
+      "sitting": true,
+      "party_id": "communist-party-of-greece",
+      "caucus": "Communist Party of Greece",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5277641"
+    },
+    {
+      "id": "dimitris-tsiogkas",
+      "name": "Dimitris Tsiogkas",
+      "sitting": true,
+      "party_id": "communist-party-of-greece",
+      "caucus": "Communist Party of Greece",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5277680"
+    },
+    {
+      "id": "evangelos-basiakos",
+      "name": "Evangelos Basiakos",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5415838"
+    },
+    {
+      "id": "evi-christofilopoulou",
+      "name": "Evi Christofilopoulou",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5418301"
+    },
+    {
+      "id": "fotini-pipili",
+      "name": "Fotini Pipili",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5473954"
+    },
+    {
+      "id": "eleftherios-veryvakis",
+      "name": "Eleftherios Veryvakis",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5358635"
+    },
+    {
+      "id": "elpida-tsouri",
+      "name": "Elpida Tsouri",
+      "sitting": true,
+      "party_id": "panhellenic-socialist-movement",
+      "caucus": "Panhellenic Socialist Movement",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5367305"
+    },
+    {
+      "id": "georgios-emmanouil-kaldis",
+      "name": "Georgios Emmanouil Kaldis",
+      "sitting": true,
+      "party_id": "liberal-party",
+      "caucus": "Liberal Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5548351"
+    },
+    {
+      "id": "konstantinos-kallias",
+      "name": "Konstantinos Kallias",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6430148"
+    },
+    {
+      "id": "kostis-gontikas",
+      "name": "Kostis Gontikas",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6433554"
+    },
+    {
+      "id": "konstantinos-maniadakis",
+      "name": "Konstantinos Maniadakis",
+      "sitting": true,
+      "party_id": "national-radical-union",
+      "caucus": "National Radical Union",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6430167"
+    },
+    {
+      "id": "georgios-orfanos",
+      "name": "Georgios Orfanos",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5548410"
+    },
+    {
+      "id": "yannis-valinakis",
+      "name": "Yannis Valinakis",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5558288"
+    },
+    {
+      "id": "leonidas-iasonidis",
+      "name": "Leonidas Iasonidis",
+      "sitting": true,
+      "party_id": "liberal-party",
+      "caucus": "Liberal Party",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6526542"
+    },
+    {
+      "id": "georgios-higoumenakis",
+      "name": "Georgios Higoumenakis",
+      "sitting": true,
+      "party_id": "centre-union",
+      "caucus": "Centre Union",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5540597"
+    },
+    {
+      "id": "kostas-kappos",
+      "name": "Kostas Kappos",
+      "sitting": true,
+      "party_id": "communist-party-of-greece",
+      "caucus": "Communist Party of Greece",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6433500"
+    },
+    {
+      "id": "lefteris-zagoritis",
+      "name": "Lefteris Zagoritis",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6517035"
+    },
+    {
+      "id": "giorgos-hourmouziadis",
+      "name": "Giorgos Hourmouziadis",
+      "sitting": true,
+      "party_id": "communist-party-of-greece",
+      "caucus": "Communist Party of Greece",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5540762"
+    },
+    {
+      "id": "georgios-mavrikos",
+      "name": "Georgios Mavrikos",
+      "sitting": true,
+      "party_id": "communist-party-of-greece",
+      "caucus": "Communist Party of Greece",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5542254"
+    },
+    {
+      "id": "leonidas-kouris",
+      "name": "Leonidas Kouris",
+      "sitting": true,
+      "party_id": "new-democracy",
+      "caucus": "New Democracy",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6526550"
+    },
+    {
+      "id": "yannis-dragasakis",
+      "name": "Yannis Dragasakis",
+      "sitting": true,
+      "party_id": "communist-party-of-greece",
+      "caucus": "Communist Party of Greece",
+      "constituency_label": "",
+      "chamber": "Hellenic Parliament",
+      "lang": [
+        "el",
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5558236"
+    }
+  ]
 }

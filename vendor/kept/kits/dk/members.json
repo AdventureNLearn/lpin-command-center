@@ -1,9 +1,2421 @@
 {
   "iso2": "dk",
-  "sitting": false,
-  "source_url": "",
+  "sitting": true,
+  "source_url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Folketing,_2026–present",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "claimed_seats": 0,
-  "items": []
+  "claimed_seats": 179,
+  "chambers": [
+    "Folketing"
+  ],
+  "items": [
+    {
+      "id": "s-ren-gade",
+      "name": "Søren Gade",
+      "sitting": true,
+      "party_id": "speaker",
+      "caucus": "Speaker",
+      "constituency_label": "2026 Danish general election",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/S%C3%B8ren_Gade"
+    },
+    {
+      "id": "mette-frederiksen",
+      "name": "Mette Frederiksen",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "North Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Mette_Frederiksen"
+    },
+    {
+      "id": "nicolai-wammen",
+      "name": "Nicolai Wammen",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "East Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Nicolai_Wammen"
+    },
+    {
+      "id": "magnus-heunicke",
+      "name": "Magnus Heunicke",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Magnus_Heunicke"
+    },
+    {
+      "id": "bj-rn-brandenborg",
+      "name": "Bjørn Brandenborg",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "Funen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Bj%C3%B8rn_Brandenborg"
+    },
+    {
+      "id": "mattias-tesfaye",
+      "name": "Mattias Tesfaye",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "Copenhagen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Mattias_Tesfaye"
+    },
+    {
+      "id": "peter-hummelgaard",
+      "name": "Peter Hummelgaard",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "Copenhagen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Peter_Hummelgaard"
+    },
+    {
+      "id": "ida-auken",
+      "name": "Ida Auken",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "Greater Copenhagen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Ida_Auken"
+    },
+    {
+      "id": "simon-kollerup",
+      "name": "Simon Kollerup",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "North Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Simon_Kollerup"
+    },
+    {
+      "id": "trine-bramsen",
+      "name": "Trine Bramsen",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "Funen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Trine_Bramsen"
+    },
+    {
+      "id": "christian-rabjerg-madsen",
+      "name": "Christian Rabjerg Madsen",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "South Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Christian_Rabjerg_Madsen"
+    },
+    {
+      "id": "benny-engelbrecht",
+      "name": "Benny Engelbrecht",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "South Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Benny_Engelbrecht"
+    },
+    {
+      "id": "mogens-jensen",
+      "name": "Mogens Jensen",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "West Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Mogens_Jensen"
+    },
+    {
+      "id": "ane-halsboe-j-rgensen",
+      "name": "Ane Halsboe-Jørgensen",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "North Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Ane_Halsboe-J%C3%B8rgensen"
+    },
+    {
+      "id": "leif-lahn-jensen",
+      "name": "Leif Lahn Jensen",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "East Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Leif_Lahn_Jensen"
+    },
+    {
+      "id": "frederik-vad",
+      "name": "Frederik Vad",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Frederik_Vad"
+    },
+    {
+      "id": "anne-paulin",
+      "name": "Anne Paulin",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "West Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Anne_Paulin"
+    },
+    {
+      "id": "birgitte-vind",
+      "name": "Birgitte Vind",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "South Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Birgitte_Vind"
+    },
+    {
+      "id": "jesper-petersen",
+      "name": "Jesper Petersen",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "South Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Jesper_Petersen"
+    },
+    {
+      "id": "camilla-fabricius",
+      "name": "Camilla Fabricius",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "East Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Camilla_Fabricius"
+    },
+    {
+      "id": "kaare-dybvad-bek",
+      "name": "Kaare Dybvad Bek",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Kaare_Dybvad_Bek"
+    },
+    {
+      "id": "flemming-m-ller-mortensen",
+      "name": "Flemming Møller Mortensen",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "North Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Flemming_M%C3%B8ller_Mortensen"
+    },
+    {
+      "id": "fie-h-kkerup",
+      "name": "Fie Hækkerup",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "North Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Fie_H%C3%A6kkerup"
+    },
+    {
+      "id": "anders-kronborg",
+      "name": "Anders Kronborg",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "South Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Anders_Kronborg"
+    },
+    {
+      "id": "morten-b-dskov",
+      "name": "Morten Bødskov",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "Greater Copenhagen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Morten_B%C3%B8dskov"
+    },
+    {
+      "id": "jeppe-bruus",
+      "name": "Jeppe Bruus",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "Funen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Jeppe_Bruus"
+    },
+    {
+      "id": "katrine-evelyn-jensen",
+      "name": "Katrine Evelyn Jensen",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "West Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Katrine_Evelyn_Jensen"
+    },
+    {
+      "id": "thomas-monberg",
+      "name": "Thomas Monberg",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "East Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Thomas_Monberg"
+    },
+    {
+      "id": "rasmus-stoklund",
+      "name": "Rasmus Stoklund",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "North Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Rasmus_Stoklund"
+    },
+    {
+      "id": "kasper-roug",
+      "name": "Kasper Roug",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Kasper_Roug"
+    },
+    {
+      "id": "sofie-de-bretteville",
+      "name": "Sofie de Bretteville",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "Greater Copenhagen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Sofie_de_Bretteville"
+    },
+    {
+      "id": "malte-larsen",
+      "name": "Malte Larsen",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Malte_Larsen"
+    },
+    {
+      "id": "thomas-skriver-jensen",
+      "name": "Thomas Skriver Jensen",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "Funen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Thomas_Skriver_Jensen"
+    },
+    {
+      "id": "thomas-klimek",
+      "name": "Thomas Klimek",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "North Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Thomas_Klimek"
+    },
+    {
+      "id": "trine-birk-andersen",
+      "name": "Trine Birk Andersen",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Trine_Birk_Andersen"
+    },
+    {
+      "id": "anders-kuhnau",
+      "name": "Anders Kühnau",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "East Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Anders_K%C3%BChnau"
+    },
+    {
+      "id": "matilde-powers",
+      "name": "Matilde Powers",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "North Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Matilde_Powers"
+    },
+    {
+      "id": "lea-wermelin",
+      "name": "Lea Wermelin",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "Bornholm",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Lea_Wermelin"
+    },
+    {
+      "id": "sophie-h-storp-andersen",
+      "name": "Sophie Hæstorp Andersen",
+      "sitting": true,
+      "party_id": "social-democrats",
+      "caucus": "Social Democrats",
+      "constituency_label": "Copenhagen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Sophie_H%C3%A6storp_Andersen"
+    },
+    {
+      "id": "pia-olsen-dyhr",
+      "name": "Pia Olsen Dyhr",
+      "sitting": true,
+      "party_id": "green-left",
+      "caucus": "Green Left",
+      "constituency_label": "Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Pia_Olsen_Dyhr"
+    },
+    {
+      "id": "signe-munk",
+      "name": "Signe Munk",
+      "sitting": true,
+      "party_id": "green-left",
+      "caucus": "Green Left",
+      "constituency_label": "West Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Signe_Munk"
+    },
+    {
+      "id": "jacob-mark",
+      "name": "Jacob Mark",
+      "sitting": true,
+      "party_id": "green-left",
+      "caucus": "Green Left",
+      "constituency_label": "North Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Jacob_Mark"
+    },
+    {
+      "id": "kirsten-normann-andersen",
+      "name": "Kirsten Normann Andersen",
+      "sitting": true,
+      "party_id": "green-left",
+      "caucus": "Green Left",
+      "constituency_label": "East Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Kirsten_Normann_Andersen"
+    },
+    {
+      "id": "karina-lorentzen-dehnhardt",
+      "name": "Karina Lorentzen Dehnhardt",
+      "sitting": true,
+      "party_id": "green-left",
+      "caucus": "Green Left",
+      "constituency_label": "South Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Karina_Lorentzen_Dehnhardt"
+    },
+    {
+      "id": "lisbeth-bech-nielsen",
+      "name": "Lisbeth Bech-Nielsen",
+      "sitting": true,
+      "party_id": "green-left",
+      "caucus": "Green Left",
+      "constituency_label": "Copenhagen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Lisbeth_Bech-Nielsen"
+    },
+    {
+      "id": "karsten-h-nge",
+      "name": "Karsten Hønge",
+      "sitting": true,
+      "party_id": "green-left",
+      "caucus": "Green Left",
+      "constituency_label": "Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Karsten_H%C3%B8nge"
+    },
+    {
+      "id": "lise-muller",
+      "name": "Lise Müller",
+      "sitting": true,
+      "party_id": "green-left",
+      "caucus": "Green Left",
+      "constituency_label": "Funen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Lise_M%C3%BCller"
+    },
+    {
+      "id": "theresa-berg-andersen",
+      "name": "Theresa Berg Andersen",
+      "sitting": true,
+      "party_id": "green-left",
+      "caucus": "Green Left",
+      "constituency_label": "North Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Theresa_Berg_Andersen"
+    },
+    {
+      "id": "sofie-lippert",
+      "name": "Sofie Lippert",
+      "sitting": true,
+      "party_id": "green-left",
+      "caucus": "Green Left",
+      "constituency_label": "East Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Sofie_Lippert"
+    },
+    {
+      "id": "charlotte-broman-m-lb-k",
+      "name": "Charlotte Broman Mølbæk",
+      "sitting": true,
+      "party_id": "green-left",
+      "caucus": "Green Left",
+      "constituency_label": "East Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Charlotte_Broman_M%C3%B8lb%C3%A6k"
+    },
+    {
+      "id": "nanna-bonde",
+      "name": "Nanna Bonde",
+      "sitting": true,
+      "party_id": "green-left",
+      "caucus": "Green Left",
+      "constituency_label": "Copenhagen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Nanna_Bonde"
+    },
+    {
+      "id": "sigurd-agersnap",
+      "name": "Sigurd Agersnap",
+      "sitting": true,
+      "party_id": "green-left",
+      "caucus": "Green Left",
+      "constituency_label": "Greater Copenhagen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Sigurd_Agersnap"
+    },
+    {
+      "id": "sofie-f-villadsen",
+      "name": "Sofie F. Villadsen",
+      "sitting": true,
+      "party_id": "green-left",
+      "caucus": "Green Left",
+      "constituency_label": "Greater Copenhagen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Sofie_F._Villadsen"
+    },
+    {
+      "id": "carl-valentin",
+      "name": "Carl Valentin",
+      "sitting": true,
+      "party_id": "green-left",
+      "caucus": "Green Left",
+      "constituency_label": "Copenhagen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Carl_Valentin"
+    },
+    {
+      "id": "christina-lykke",
+      "name": "Christina Lykke",
+      "sitting": true,
+      "party_id": "green-left",
+      "caucus": "Green Left",
+      "constituency_label": "North Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Christina_Lykke"
+    },
+    {
+      "id": "marianne-bigum",
+      "name": "Marianne Bigum",
+      "sitting": true,
+      "party_id": "green-left",
+      "caucus": "Green Left",
+      "constituency_label": "North Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Marianne_Bigum"
+    },
+    {
+      "id": "astrid-car-e",
+      "name": "Astrid Carøe",
+      "sitting": true,
+      "party_id": "green-left",
+      "caucus": "Green Left",
+      "constituency_label": "Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Astrid_Car%C3%B8e"
+    },
+    {
+      "id": "anne-valentina-berthelsen",
+      "name": "Anne Valentina Berthelsen",
+      "sitting": true,
+      "party_id": "green-left",
+      "caucus": "Green Left",
+      "constituency_label": "Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Anne_Valentina_Berthelsen"
+    },
+    {
+      "id": "j-rgen-kvist",
+      "name": "Jørgen Kvist",
+      "sitting": true,
+      "party_id": "green-left",
+      "caucus": "Green Left",
+      "constituency_label": "South Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/J%C3%B8rgen_Kvist"
+    },
+    {
+      "id": "stephanie-lose",
+      "name": "Stephanie Lose",
+      "sitting": true,
+      "party_id": "venstre",
+      "caucus": "Venstre",
+      "constituency_label": "South Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Stephanie_Lose"
+    },
+    {
+      "id": "troels-lund-poulsen",
+      "name": "Troels Lund Poulsen",
+      "sitting": true,
+      "party_id": "venstre",
+      "caucus": "Venstre",
+      "constituency_label": "East Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Troels_Lund_Poulsen"
+    },
+    {
+      "id": "marie-bjerre",
+      "name": "Marie Bjerre",
+      "sitting": true,
+      "party_id": "venstre",
+      "caucus": "Venstre",
+      "constituency_label": "North Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Marie_Bjerre"
+    },
+    {
+      "id": "preben-bang-henriksen",
+      "name": "Preben Bang Henriksen",
+      "sitting": true,
+      "party_id": "venstre",
+      "caucus": "Venstre",
+      "constituency_label": "North Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Preben_Bang_Henriksen"
+    },
+    {
+      "id": "morten-dahlin",
+      "name": "Morten Dahlin",
+      "sitting": true,
+      "party_id": "venstre",
+      "caucus": "Venstre",
+      "constituency_label": "Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Morten_Dahlin"
+    },
+    {
+      "id": "sophie-l-hde",
+      "name": "Sophie Løhde",
+      "sitting": true,
+      "party_id": "venstre",
+      "caucus": "Venstre",
+      "constituency_label": "North Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Sophie_L%C3%B8hde"
+    },
+    {
+      "id": "anni-matthiesen",
+      "name": "Anni Matthiesen",
+      "sitting": true,
+      "party_id": "venstre",
+      "caucus": "Venstre",
+      "constituency_label": "South Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Anni_Matthiesen"
+    },
+    {
+      "id": "thomas-danielsen",
+      "name": "Thomas Danielsen",
+      "sitting": true,
+      "party_id": "venstre",
+      "caucus": "Venstre",
+      "constituency_label": "West Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Thomas_Danielsen"
+    },
+    {
+      "id": "trine-jepsen",
+      "name": "Trine Jepsen",
+      "sitting": true,
+      "party_id": "venstre",
+      "caucus": "Venstre",
+      "constituency_label": "West Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Trine_Jepsen"
+    },
+    {
+      "id": "marlene-ambo-rasmussen",
+      "name": "Marlene Ambo-Rasmussen",
+      "sitting": true,
+      "party_id": "venstre",
+      "caucus": "Venstre",
+      "constituency_label": "Funen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Marlene_Ambo-Rasmussen"
+    },
+    {
+      "id": "jacob-jensen",
+      "name": "Jacob Jensen",
+      "sitting": true,
+      "party_id": "venstre",
+      "caucus": "Venstre",
+      "constituency_label": "Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Jacob_Jensen"
+    },
+    {
+      "id": "christoffer-aagaard-melson",
+      "name": "Christoffer Aagaard Melson",
+      "sitting": true,
+      "party_id": "venstre",
+      "caucus": "Venstre",
+      "constituency_label": "South Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Christoffer_Aagaard_Melson"
+    },
+    {
+      "id": "louise-louring",
+      "name": "Louise Louring",
+      "sitting": true,
+      "party_id": "venstre",
+      "caucus": "Venstre",
+      "constituency_label": "East Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Louise_Louring"
+    },
+    {
+      "id": "amanda-heitmann",
+      "name": "Amanda Heitmann",
+      "sitting": true,
+      "party_id": "venstre",
+      "caucus": "Venstre",
+      "constituency_label": "Funen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Amanda_Heitmann"
+    },
+    {
+      "id": "peter-juel-jensen",
+      "name": "Peter Juel-Jensen",
+      "sitting": true,
+      "party_id": "venstre",
+      "caucus": "Venstre",
+      "constituency_label": "Bornholm",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Peter_Juel-Jensen"
+    },
+    {
+      "id": "marie-brixtofte",
+      "name": "Marie Brixtofte",
+      "sitting": true,
+      "party_id": "venstre",
+      "caucus": "Venstre",
+      "constituency_label": "Greater Copenhagen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Marie_Brixtofte"
+    },
+    {
+      "id": "mathilde-hjort-bressum",
+      "name": "Mathilde Hjort Bressum",
+      "sitting": true,
+      "party_id": "venstre",
+      "caucus": "Venstre",
+      "constituency_label": "East Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Mathilde_Hjort_Bressum"
+    },
+    {
+      "id": "alex-vanopslagh",
+      "name": "Alex Vanopslagh",
+      "sitting": true,
+      "party_id": "liberal-alliance",
+      "caucus": "Liberal Alliance",
+      "constituency_label": "East Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Alex_Vanopslagh"
+    },
+    {
+      "id": "solbj-rg-jakobsen",
+      "name": "Sólbjørg Jakobsen",
+      "sitting": true,
+      "party_id": "liberal-alliance",
+      "caucus": "Liberal Alliance",
+      "constituency_label": "North Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/S%C3%B3lbj%C3%B8rg_Jakobsen"
+    },
+    {
+      "id": "pernille-vermund",
+      "name": "Pernille Vermund",
+      "sitting": true,
+      "party_id": "liberal-alliance",
+      "caucus": "Liberal Alliance",
+      "constituency_label": "Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Pernille_Vermund"
+    },
+    {
+      "id": "mads-strange",
+      "name": "Mads Strange",
+      "sitting": true,
+      "party_id": "liberal-alliance",
+      "caucus": "Liberal Alliance",
+      "constituency_label": "Copenhagen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Mads_Strange"
+    },
+    {
+      "id": "ole-birk-olesen",
+      "name": "Ole Birk Olesen",
+      "sitting": true,
+      "party_id": "liberal-alliance",
+      "caucus": "Liberal Alliance",
+      "constituency_label": "Copenhagen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Ole_Birk_Olesen"
+    },
+    {
+      "id": "cecilie-liv-hansen",
+      "name": "Cecilie Liv Hansen",
+      "sitting": true,
+      "party_id": "liberal-alliance",
+      "caucus": "Liberal Alliance",
+      "constituency_label": "South Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Cecilie_Liv_Hansen"
+    },
+    {
+      "id": "helena-artmann-andresen",
+      "name": "Helena Artmann Andresen",
+      "sitting": true,
+      "party_id": "liberal-alliance",
+      "caucus": "Liberal Alliance",
+      "constituency_label": "South Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Helena_Artmann_Andresen"
+    },
+    {
+      "id": "jens-meilvang",
+      "name": "Jens Meilvang",
+      "sitting": true,
+      "party_id": "liberal-alliance",
+      "caucus": "Liberal Alliance",
+      "constituency_label": "East Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Jens_Meilvang"
+    },
+    {
+      "id": "katrine-daugaard",
+      "name": "Katrine Daugaard",
+      "sitting": true,
+      "party_id": "liberal-alliance",
+      "caucus": "Liberal Alliance",
+      "constituency_label": "Funen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Katrine_Daugaard"
+    },
+    {
+      "id": "carsten-bach",
+      "name": "Carsten Bach",
+      "sitting": true,
+      "party_id": "liberal-alliance",
+      "caucus": "Liberal Alliance",
+      "constituency_label": "West Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Carsten_Bach"
+    },
+    {
+      "id": "steffen-w-fr-lund",
+      "name": "Steffen W. Frølund",
+      "sitting": true,
+      "party_id": "liberal-alliance",
+      "caucus": "Liberal Alliance",
+      "constituency_label": "North Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Steffen_W._Fr%C3%B8lund"
+    },
+    {
+      "id": "thorbj-rn-jacobsen",
+      "name": "Thorbjørn Jacobsen",
+      "sitting": true,
+      "party_id": "liberal-alliance",
+      "caucus": "Liberal Alliance",
+      "constituency_label": "West Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Thorbj%C3%B8rn_Jacobsen"
+    },
+    {
+      "id": "lars-christian-brask",
+      "name": "Lars-Christian Brask",
+      "sitting": true,
+      "party_id": "liberal-alliance",
+      "caucus": "Liberal Alliance",
+      "constituency_label": "Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Lars-Christian_Brask"
+    },
+    {
+      "id": "freja-brandh-j",
+      "name": "Freja Brandhøj",
+      "sitting": true,
+      "party_id": "liberal-alliance",
+      "caucus": "Liberal Alliance",
+      "constituency_label": "Greater Copenhagen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Freja_Brandh%C3%B8j"
+    },
+    {
+      "id": "peter-larsen",
+      "name": "Peter Larsen",
+      "sitting": true,
+      "party_id": "liberal-alliance",
+      "caucus": "Liberal Alliance",
+      "constituency_label": "North Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Peter_Larsen"
+    },
+    {
+      "id": "joachim-riis",
+      "name": "Joachim Riis",
+      "sitting": true,
+      "party_id": "liberal-alliance",
+      "caucus": "Liberal Alliance",
+      "constituency_label": "Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Joachim_Riis"
+    },
+    {
+      "id": "danish-people-s-party",
+      "name": "Danish People's Party",
+      "sitting": true,
+      "party_id": "greater-copenhagen",
+      "caucus": "Greater Copenhagen",
+      "constituency_label": "Greater Copenhagen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Danish_People's_Party"
+    },
+    {
+      "id": "mikkel-bj-rn",
+      "name": "Mikkel Bjørn",
+      "sitting": true,
+      "party_id": "greater-copenhagen",
+      "caucus": "Greater Copenhagen",
+      "constituency_label": "Greater Copenhagen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Mikkel_Bj%C3%B8rn"
+    },
+    {
+      "id": "mette-thiesen",
+      "name": "Mette Thiesen",
+      "sitting": true,
+      "party_id": "north-zealand",
+      "caucus": "North Zealand",
+      "constituency_label": "North Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Mette_Thiesen"
+    },
+    {
+      "id": "anders-vistisen",
+      "name": "Anders Vistisen",
+      "sitting": true,
+      "party_id": "north-jutland",
+      "caucus": "North Jutland",
+      "constituency_label": "North Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Anders_Vistisen"
+    },
+    {
+      "id": "alex-ahrendtsen",
+      "name": "Alex Ahrendtsen",
+      "sitting": true,
+      "party_id": "funen",
+      "caucus": "Funen",
+      "constituency_label": "Funen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Alex_Ahrendtsen"
+    },
+    {
+      "id": "s-ren-boel-olesen",
+      "name": "Søren Boel Olesen",
+      "sitting": true,
+      "party_id": "west-jutland",
+      "caucus": "West Jutland",
+      "constituency_label": "West Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/S%C3%B8ren_Boel_Olesen"
+    },
+    {
+      "id": "michael-neders-e",
+      "name": "Michael Nedersøe",
+      "sitting": true,
+      "party_id": "east-jutland",
+      "caucus": "East Jutland",
+      "constituency_label": "East Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Michael_Neders%C3%B8e"
+    },
+    {
+      "id": "allan-feldt",
+      "name": "Allan Feldt",
+      "sitting": true,
+      "party_id": "copenhagen",
+      "caucus": "Copenhagen",
+      "constituency_label": "Copenhagen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Allan_Feldt"
+    },
+    {
+      "id": "rune-b-nnelykke",
+      "name": "Rune Bønnelykke",
+      "sitting": true,
+      "party_id": "south-jutland",
+      "caucus": "South Jutland",
+      "constituency_label": "South Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Rune_B%C3%B8nnelykke"
+    },
+    {
+      "id": "julie-jacobsen",
+      "name": "Julie Jacobsen",
+      "sitting": true,
+      "party_id": "julie-jacobsen",
+      "caucus": "Julie Jacobsen",
+      "constituency_label": "Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Julie_Jacobsen"
+    },
+    {
+      "id": "mikkel-dencker",
+      "name": "Mikkel Dencker",
+      "sitting": true,
+      "party_id": "greater-copenhagen",
+      "caucus": "Greater Copenhagen",
+      "constituency_label": "Greater Copenhagen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Mikkel_Dencker"
+    },
+    {
+      "id": "josephine-alstrup-kofod",
+      "name": "Josephine Alstrup Kofod",
+      "sitting": true,
+      "party_id": "south-jutland",
+      "caucus": "South Jutland",
+      "constituency_label": "South Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Josephine_Alstrup_Kofod"
+    },
+    {
+      "id": "jan-herskov",
+      "name": "Jan Herskov",
+      "sitting": true,
+      "party_id": "zealand",
+      "caucus": "Zealand",
+      "constituency_label": "Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Jan_Herskov"
+    },
+    {
+      "id": "lars-l-kke-rasmussen",
+      "name": "Lars Løkke Rasmussen",
+      "sitting": true,
+      "party_id": "moderates",
+      "caucus": "Moderates",
+      "constituency_label": "Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Lars_L%C3%B8kke_Rasmussen"
+    },
+    {
+      "id": "jakob-engel-schmidt",
+      "name": "Jakob Engel-Schmidt",
+      "sitting": true,
+      "party_id": "moderates",
+      "caucus": "Moderates",
+      "constituency_label": "Copenhagen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Jakob_Engel-Schmidt"
+    },
+    {
+      "id": "lars-aagaard",
+      "name": "Lars Aagaard",
+      "sitting": true,
+      "party_id": "moderates",
+      "caucus": "Moderates",
+      "constituency_label": "Funen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Lars_Aagaard"
+    },
+    {
+      "id": "monika-rubin",
+      "name": "Monika Rubin",
+      "sitting": true,
+      "party_id": "moderates",
+      "caucus": "Moderates",
+      "constituency_label": "Greater Copenhagen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Monika_Rubin"
+    },
+    {
+      "id": "henrik-frandsen",
+      "name": "Henrik Frandsen",
+      "sitting": true,
+      "party_id": "moderates",
+      "caucus": "Moderates",
+      "constituency_label": "South Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Henrik_Frandsen"
+    },
+    {
+      "id": "caroline-stage-olsen",
+      "name": "Caroline Stage Olsen",
+      "sitting": true,
+      "party_id": "moderates",
+      "caucus": "Moderates",
+      "constituency_label": "East Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Caroline_Stage_Olsen"
+    },
+    {
+      "id": "rasmus-lund-nielsen",
+      "name": "Rasmus Lund-Nielsen",
+      "sitting": true,
+      "party_id": "moderates",
+      "caucus": "Moderates",
+      "constituency_label": "North Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Rasmus_Lund-Nielsen"
+    },
+    {
+      "id": "christina-egelund",
+      "name": "Christina Egelund",
+      "sitting": true,
+      "party_id": "moderates",
+      "caucus": "Moderates",
+      "constituency_label": "East Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Christina_Egelund"
+    },
+    {
+      "id": "frida-bruun",
+      "name": "Frida Bruun",
+      "sitting": true,
+      "party_id": "moderates",
+      "caucus": "Moderates",
+      "constituency_label": "South Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Frida_Bruun"
+    },
+    {
+      "id": "charlotte-bagge-hansen",
+      "name": "Charlotte Bagge Hansen",
+      "sitting": true,
+      "party_id": "moderates",
+      "caucus": "Moderates",
+      "constituency_label": "Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Charlotte_Bagge_Hansen"
+    },
+    {
+      "id": "mohammad-rona",
+      "name": "Mohammad Rona",
+      "sitting": true,
+      "party_id": "moderates",
+      "caucus": "Moderates",
+      "constituency_label": "North Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Mohammad_Rona"
+    },
+    {
+      "id": "morten-e-g-brautsch",
+      "name": "Morten E. G. Brautsch",
+      "sitting": true,
+      "party_id": "moderates",
+      "caucus": "Moderates",
+      "constituency_label": "West Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Morten_E._G._Brautsch"
+    },
+    {
+      "id": "ellen-emilie",
+      "name": "Ellen Emilie",
+      "sitting": true,
+      "party_id": "moderates",
+      "caucus": "Moderates",
+      "constituency_label": "Copenhagen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Ellen_Emilie"
+    },
+    {
+      "id": "pernille-christensen",
+      "name": "Pernille Christensen",
+      "sitting": true,
+      "party_id": "moderates",
+      "caucus": "Moderates",
+      "constituency_label": "North Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Pernille_Christensen"
+    },
+    {
+      "id": "mona-juul",
+      "name": "Mona Juul",
+      "sitting": true,
+      "party_id": "conservatives",
+      "caucus": "Conservatives",
+      "constituency_label": "East Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Mona_Juul"
+    },
+    {
+      "id": "mette-abildgaard",
+      "name": "Mette Abildgaard",
+      "sitting": true,
+      "party_id": "conservatives",
+      "caucus": "Conservatives",
+      "constituency_label": "North Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Mette_Abildgaard"
+    },
+    {
+      "id": "lise-bertelsen",
+      "name": "Lise Bertelsen",
+      "sitting": true,
+      "party_id": "conservatives",
+      "caucus": "Conservatives",
+      "constituency_label": "West Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Lise_Bertelsen"
+    },
+    {
+      "id": "mai-mercado",
+      "name": "Mai Mercado",
+      "sitting": true,
+      "party_id": "conservatives",
+      "caucus": "Conservatives",
+      "constituency_label": "Funen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Mai_Mercado"
+    },
+    {
+      "id": "marcus-knuth",
+      "name": "Marcus Knuth",
+      "sitting": true,
+      "party_id": "conservatives",
+      "caucus": "Conservatives",
+      "constituency_label": "Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Marcus_Knuth"
+    },
+    {
+      "id": "christian-vigilius",
+      "name": "Christian Vigilius",
+      "sitting": true,
+      "party_id": "conservatives",
+      "caucus": "Conservatives",
+      "constituency_label": "Greater Copenhagen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Christian_Vigilius"
+    },
+    {
+      "id": "birgitte-bergman",
+      "name": "Birgitte Bergman",
+      "sitting": true,
+      "party_id": "conservatives",
+      "caucus": "Conservatives",
+      "constituency_label": "North Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Birgitte_Bergman"
+    },
+    {
+      "id": "anders-storgaard",
+      "name": "Anders Storgaard",
+      "sitting": true,
+      "party_id": "conservatives",
+      "caucus": "Conservatives",
+      "constituency_label": "Copenhagen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Anders_Storgaard"
+    },
+    {
+      "id": "helle-bonnesen",
+      "name": "Helle Bonnesen",
+      "sitting": true,
+      "party_id": "conservatives",
+      "caucus": "Conservatives",
+      "constituency_label": "Copenhagen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Helle_Bonnesen"
+    },
+    {
+      "id": "sofie-therese-svendsen",
+      "name": "Sofie Therese Svendsen",
+      "sitting": true,
+      "party_id": "conservatives",
+      "caucus": "Conservatives",
+      "constituency_label": "North Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Sofie_Therese_Svendsen"
+    },
+    {
+      "id": "frederik-bloch-munster",
+      "name": "Frederik Bloch Münster",
+      "sitting": true,
+      "party_id": "conservatives",
+      "caucus": "Conservatives",
+      "constituency_label": "South Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Frederik_Bloch_M%C3%BCnster"
+    },
+    {
+      "id": "rune-kristensen",
+      "name": "Rune Kristensen",
+      "sitting": true,
+      "party_id": "conservatives",
+      "caucus": "Conservatives",
+      "constituency_label": "Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Rune_Kristensen"
+    },
+    {
+      "id": "charlotte-green",
+      "name": "Charlotte Green",
+      "sitting": true,
+      "party_id": "conservatives",
+      "caucus": "Conservatives",
+      "constituency_label": "East Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Charlotte_Green"
+    },
+    {
+      "id": "pelle-dragsted",
+      "name": "Pelle Dragsted",
+      "sitting": true,
+      "party_id": "red-green-alliance",
+      "caucus": "Red–Green Alliance",
+      "constituency_label": "Copenhagen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Pelle_Dragsted"
+    },
+    {
+      "id": "rosa-lund",
+      "name": "Rosa Lund",
+      "sitting": true,
+      "party_id": "red-green-alliance",
+      "caucus": "Red–Green Alliance",
+      "constituency_label": "Copenhagen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Rosa_Lund"
+    },
+    {
+      "id": "victoria-velasquez",
+      "name": "Victoria Velásquez",
+      "sitting": true,
+      "party_id": "red-green-alliance",
+      "caucus": "Red–Green Alliance",
+      "constituency_label": "Funen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Victoria_Vel%C3%A1squez"
+    },
+    {
+      "id": "trine-mach",
+      "name": "Trine Mach",
+      "sitting": true,
+      "party_id": "red-green-alliance",
+      "caucus": "Red–Green Alliance",
+      "constituency_label": "East Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Trine_Mach"
+    },
+    {
+      "id": "eva-flyvholm",
+      "name": "Eva Flyvholm",
+      "sitting": true,
+      "party_id": "red-green-alliance",
+      "caucus": "Red–Green Alliance",
+      "constituency_label": "Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Eva_Flyvholm"
+    },
+    {
+      "id": "ibrahim-benli",
+      "name": "Ibrahim Benli",
+      "sitting": true,
+      "party_id": "red-green-alliance",
+      "caucus": "Red–Green Alliance",
+      "constituency_label": "Greater Copenhagen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Ibrahim_Benli"
+    },
+    {
+      "id": "peder-hvelplund",
+      "name": "Peder Hvelplund",
+      "sitting": true,
+      "party_id": "red-green-alliance",
+      "caucus": "Red–Green Alliance",
+      "constituency_label": "North Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Peder_Hvelplund"
+    },
+    {
+      "id": "leila-stockmarr",
+      "name": "Leila Stockmarr",
+      "sitting": true,
+      "party_id": "red-green-alliance",
+      "caucus": "Red–Green Alliance",
+      "constituency_label": "Copenhagen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Leila_Stockmarr"
+    },
+    {
+      "id": "sinem-dybvad-demir",
+      "name": "Sinem Dybvad Demir",
+      "sitting": true,
+      "party_id": "red-green-alliance",
+      "caucus": "Red–Green Alliance",
+      "constituency_label": "North Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Sinem_Dybvad_Demir"
+    },
+    {
+      "id": "rasmus-vestergaard-madsen",
+      "name": "Rasmus Vestergaard Madsen",
+      "sitting": true,
+      "party_id": "red-green-alliance",
+      "caucus": "Red–Green Alliance",
+      "constituency_label": "South Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Rasmus_Vestergaard_Madsen"
+    },
+    {
+      "id": "lisbeth-torfing",
+      "name": "Lisbeth Torfing",
+      "sitting": true,
+      "party_id": "red-green-alliance",
+      "caucus": "Red–Green Alliance",
+      "constituency_label": "West Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Lisbeth_Torfing"
+    },
+    {
+      "id": "samira-nawa",
+      "name": "Samira Nawa",
+      "sitting": true,
+      "party_id": "social-liberal-party",
+      "caucus": "Social Liberal Party",
+      "constituency_label": "Copenhagen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Samira_Nawa"
+    },
+    {
+      "id": "martin-lidegaard",
+      "name": "Martin Lidegaard",
+      "sitting": true,
+      "party_id": "social-liberal-party",
+      "caucus": "Social Liberal Party",
+      "constituency_label": "North Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Martin_Lidegaard"
+    },
+    {
+      "id": "katrine-robs-e",
+      "name": "Katrine Robsøe",
+      "sitting": true,
+      "party_id": "social-liberal-party",
+      "caucus": "Social Liberal Party",
+      "constituency_label": "East Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Katrine_Robs%C3%B8e"
+    },
+    {
+      "id": "magnus-georg-jensen",
+      "name": "Magnus Georg Jensen",
+      "sitting": true,
+      "party_id": "social-liberal-party",
+      "caucus": "Social Liberal Party",
+      "constituency_label": "Copenhagen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Magnus_Georg_Jensen"
+    },
+    {
+      "id": "zenia-stampe",
+      "name": "Zenia Stampe",
+      "sitting": true,
+      "party_id": "social-liberal-party",
+      "caucus": "Social Liberal Party",
+      "constituency_label": "Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Zenia_Stampe"
+    },
+    {
+      "id": "thomas-rohden",
+      "name": "Thomas Rohden",
+      "sitting": true,
+      "party_id": "social-liberal-party",
+      "caucus": "Social Liberal Party",
+      "constituency_label": "Copenhagen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Thomas_Rohden"
+    },
+    {
+      "id": "stinus-lindgreen",
+      "name": "Stinus Lindgreen",
+      "sitting": true,
+      "party_id": "social-liberal-party",
+      "caucus": "Social Liberal Party",
+      "constituency_label": "Greater Copenhagen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Stinus_Lindgreen"
+    },
+    {
+      "id": "anastasia-milthers",
+      "name": "Anastasia Milthers",
+      "sitting": true,
+      "party_id": "social-liberal-party",
+      "caucus": "Social Liberal Party",
+      "constituency_label": "Funen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Anastasia_Milthers"
+    },
+    {
+      "id": "philip-vivet",
+      "name": "Philip Vivet",
+      "sitting": true,
+      "party_id": "social-liberal-party",
+      "caucus": "Social Liberal Party",
+      "constituency_label": "West Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Philip_Vivet"
+    },
+    {
+      "id": "steffen-holme-helledie",
+      "name": "Steffen Holme Helledie",
+      "sitting": true,
+      "party_id": "social-liberal-party",
+      "caucus": "Social Liberal Party",
+      "constituency_label": "Copenhagen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Steffen_Holme_Helledie"
+    },
+    {
+      "id": "inger-st-jberg",
+      "name": "Inger Støjberg",
+      "sitting": true,
+      "party_id": "north-jutland",
+      "caucus": "North Jutland",
+      "constituency_label": "North Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Inger_St%C3%B8jberg"
+    },
+    {
+      "id": "mads-fuglede",
+      "name": "Mads Fuglede",
+      "sitting": true,
+      "party_id": "west-jutland",
+      "caucus": "West Jutland",
+      "constituency_label": "West Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Mads_Fuglede"
+    },
+    {
+      "id": "dennis-flydtkj-r",
+      "name": "Dennis Flydtkjær",
+      "sitting": true,
+      "party_id": "west-jutland",
+      "caucus": "West Jutland",
+      "constituency_label": "West Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Dennis_Flydtkj%C3%A6r"
+    },
+    {
+      "id": "karina-adsb-l",
+      "name": "Karina Adsbøl",
+      "sitting": true,
+      "party_id": "south-jutland",
+      "caucus": "South Jutland",
+      "constituency_label": "South Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Karina_Adsb%C3%B8l"
+    },
+    {
+      "id": "ulrik-knudsen",
+      "name": "Ulrik Knudsen",
+      "sitting": true,
+      "party_id": "south-jutland",
+      "caucus": "South Jutland",
+      "constituency_label": "South Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Ulrik_Knudsen"
+    },
+    {
+      "id": "susie-jessen",
+      "name": "Susie Jessen",
+      "sitting": true,
+      "party_id": "zealand",
+      "caucus": "Zealand",
+      "constituency_label": "Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Susie_Jessen"
+    },
+    {
+      "id": "hans-kristian-skibby",
+      "name": "Hans Kristian Skibby",
+      "sitting": true,
+      "party_id": "east-jutland",
+      "caucus": "East Jutland",
+      "constituency_label": "East Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Hans_Kristian_Skibby"
+    },
+    {
+      "id": "kim-edberg-andersen",
+      "name": "Kim Edberg Andersen",
+      "sitting": true,
+      "party_id": "north-jutland",
+      "caucus": "North Jutland",
+      "constituency_label": "North Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Kim_Edberg_Andersen"
+    },
+    {
+      "id": "jens-henrik-thulesen-dahl",
+      "name": "Jens Henrik Thulesen Dahl",
+      "sitting": true,
+      "party_id": "funen",
+      "caucus": "Funen",
+      "constituency_label": "Funen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Jens_Henrik_Thulesen_Dahl"
+    },
+    {
+      "id": "marlene-harps-e",
+      "name": "Marlene Harpsøe",
+      "sitting": true,
+      "party_id": "north-zealand",
+      "caucus": "North Zealand",
+      "constituency_label": "North Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Marlene_Harps%C3%B8e"
+    },
+    {
+      "id": "franciska-rosenkilde",
+      "name": "Franciska Rosenkilde",
+      "sitting": true,
+      "party_id": "the-alternative",
+      "caucus": "The Alternative",
+      "constituency_label": "Copenhagen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Franciska_Rosenkilde"
+    },
+    {
+      "id": "signe-wenneberg",
+      "name": "Signe Wenneberg",
+      "sitting": true,
+      "party_id": "the-alternative",
+      "caucus": "The Alternative",
+      "constituency_label": "Greater Copenhagen",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Signe_Wenneberg"
+    },
+    {
+      "id": "torsten-gejl",
+      "name": "Torsten Gejl",
+      "sitting": true,
+      "party_id": "the-alternative",
+      "caucus": "The Alternative",
+      "constituency_label": "East Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Torsten_Gejl"
+    },
+    {
+      "id": "elise-sydendal",
+      "name": "Elise Sydendal",
+      "sitting": true,
+      "party_id": "the-alternative",
+      "caucus": "The Alternative",
+      "constituency_label": "Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Elise_Sydendal"
+    },
+    {
+      "id": "anna-bjerre",
+      "name": "Anna Bjerre",
+      "sitting": true,
+      "party_id": "the-alternative",
+      "caucus": "The Alternative",
+      "constituency_label": "North Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Anna_Bjerre"
+    },
+    {
+      "id": "lars-boje-mathiesen",
+      "name": "Lars Boje Mathiesen",
+      "sitting": true,
+      "party_id": "citizens-party",
+      "caucus": "Citizens' Party",
+      "constituency_label": "East Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Lars_Boje_Mathiesen"
+    },
+    {
+      "id": "jacob-harris",
+      "name": "Jacob Harris",
+      "sitting": true,
+      "party_id": "citizens-party",
+      "caucus": "Citizens' Party",
+      "constituency_label": "Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Jacob_Harris"
+    },
+    {
+      "id": "nadja-natalie-isaksen",
+      "name": "Nadja Natalie Isaksen",
+      "sitting": true,
+      "party_id": "citizens-party",
+      "caucus": "Citizens' Party",
+      "constituency_label": "South Jutland",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Nadja_Natalie_Isaksen"
+    },
+    {
+      "id": "emilie-schytte",
+      "name": "Emilie Schytte",
+      "sitting": true,
+      "party_id": "citizens-party",
+      "caucus": "Citizens' Party",
+      "constituency_label": "North Zealand",
+      "chamber": "Folketing",
+      "lang": [
+        "da",
+        "en"
+      ],
+      "roster_url": "https://en.wikipedia.org/wiki/Emilie_Schytte"
+    }
+  ]
 }

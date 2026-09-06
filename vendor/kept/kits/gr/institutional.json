@@ -1,6 +1,18 @@
 {
   "iso2": "gr",
   "kit": "institutional",
-  "items": [],
-  "incomplete": true
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "houses": [],
+  "seats": 300,
+  "items": [
+    {
+      "id": "gr",
+      "name": "Hellenic Parliament",
+      "kind": "parliament",
+      "seats": 300,
+      "url": "https://www.hellenicparliament.gr/"
+    }
+  ],
+  "note": "Unicameral national legislature."
 }

@@ -1,4 +1,20 @@
 {
   "iso2": "bg",
-  "items": []
+  "items": [
+    {
+      "id": "roster",
+      "label": "National Assembly of Bulgaria",
+      "url": "https://www.wikidata.org/wiki/Q18924508",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official",
+      "label": "National Assembly of Bulgaria site",
+      "url": "https://www.parliament.bg/",
+      "kind": "primary",
+      "basis": "Evidence"
+    }
+  ],
+  "incomplete": false
 }

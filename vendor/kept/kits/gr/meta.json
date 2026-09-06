@@ -2,10 +2,10 @@
   "iso2": "gr",
   "name": "Greece",
   "region": "",
-  "chamber": "Legislature",
-  "houses": "",
+  "chamber": "Hellenic Parliament",
+  "houses": "unicameral",
   "system": "",
-  "seats": 0,
+  "seats": 300,
   "election": "",
   "session": "",
   "kit": "map",
@@ -14,20 +14,30 @@
   ],
   "threshold": 5,
   "counts": {
-    "members": 0,
-    "sitting": 0,
+    "members": 266,
+    "sitting": 266,
     "votes": 0,
     "committees": 0,
     "key_votes": 0,
-    "sourced_quotes": 0
+    "sourced_quotes": 0,
+    "pledged": 0
   },
   "capabilities": [
-    "members"
+    "members",
+    "pledges",
+    "votes",
+    "issues",
+    "gap",
+    "caucus",
+    "committees",
+    "ethics",
+    "money",
+    "method"
   ],
   "basis": "Evidence",
   "incomplete": true,
   "lane": "lpin-wikidata-fill",
   "source_live": null,
-  "note": "Pull failed (SPARQL 504). Honest empty.",
-  "roster_source": ""
+  "note": "Hellenic Parliament Wikidata P39 Q18915989 2026-09-06. Sitting 266 of 300. Vacancies not invented.",
+  "roster_source": "https://www.wikidata.org/wiki/Q18915989"
 }

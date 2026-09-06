@@ -1,4 +1,20 @@
 {
   "iso2": "dk",
-  "items": []
+  "items": [
+    {
+      "id": "roster",
+      "label": "Folketing",
+      "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Folketing,_2026–present",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official",
+      "label": "Folketing site",
+      "url": "https://www.ft.dk/",
+      "kind": "primary",
+      "basis": "Evidence"
+    }
+  ],
+  "incomplete": false
 }

@@ -1,6 +1,18 @@
 {
   "iso2": "dk",
   "kit": "institutional",
-  "items": [],
-  "incomplete": true
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "houses": [],
+  "seats": 179,
+  "items": [
+    {
+      "id": "dk",
+      "name": "Folketing",
+      "kind": "parliament",
+      "seats": 179,
+      "url": "https://www.ft.dk/"
+    }
+  ],
+  "note": "Unicameral national legislature."
 }
