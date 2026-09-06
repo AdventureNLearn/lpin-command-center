@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1854129"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1854129",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21295993",
+      "label": "Member of the National Assembly of Mauritius (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21295993",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1854129",
+      "label": "National Assembly of Mauritius",
+      "url": "https://mauritiusassembly.govmu.org/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1854129",
+      "label": "National Assembly of Mauritius (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1854129",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

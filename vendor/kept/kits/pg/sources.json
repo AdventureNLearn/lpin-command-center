@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q24563"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q24563",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21294916",
+      "label": "Member of the National Parliament of Papua New Guinea (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21294916",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q24563",
+      "label": "National Parliament of Papua New Guinea",
+      "url": "http://www.parliament.gov.pg",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q24563",
+      "label": "National Parliament of Papua New Guinea (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q24563",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

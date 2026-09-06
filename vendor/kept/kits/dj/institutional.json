@@ -1,0 +1,44 @@
+{
+  "iso2": "dj",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q977",
+  "bodies": [
+    {
+      "qid": "Q19252823",
+      "label": "Member of the National Assembly of Djibouti",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1139363",
+      "label": "National Assembly",
+      "seats": 65,
+      "web": "http://www.assemblee-nationale.dj",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Member of the National Assembly of Djibouti"
+  ],
+  "seats": 65,
+  "items": [
+    {
+      "id": "Q19252823",
+      "name": "Member of the National Assembly of Djibouti",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q19252823"
+    },
+    {
+      "id": "Q1139363",
+      "name": "National Assembly",
+      "kind": "parliament",
+      "seats": 65,
+      "url": "http://www.assemblee-nationale.dj"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

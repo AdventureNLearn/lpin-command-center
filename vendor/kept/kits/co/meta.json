@@ -3,9 +3,9 @@
   "name": "Colombia",
   "region": "",
   "chamber": "Congress of Colombia",
-  "houses": "",
+  "houses": "bicameral",
   "system": "",
-  "seats": 0,
+  "seats": 274,
   "election": "",
   "session": "",
   "kit": "map",
@@ -14,20 +14,30 @@
   ],
   "threshold": 5,
   "counts": {
-    "members": 0,
-    "sitting": 0,
+    "members": 409,
+    "sitting": 409,
     "votes": 0,
     "committees": 0,
     "key_votes": 0,
-    "sourced_quotes": 0
+    "sourced_quotes": 0,
+    "pledged": 0
   },
   "capabilities": [
-    "members"
+    "members",
+    "pledges",
+    "votes",
+    "issues",
+    "gap",
+    "caucus",
+    "committees",
+    "ethics",
+    "money",
+    "method"
   ],
   "basis": "Evidence",
   "incomplete": true,
   "lane": "lpin-wikidata-fill",
   "source_live": null,
-  "note": "Wikidata returned no sitting names. Honest empty. Not a complete roster.",
+  "note": "Full-ISO Wikidata fill 2026-09-06. 3 bodies. Sitting 409. Votes/pledges/ethics/money not invented.",
   "roster_source": "https://www.wikidata.org/wiki/Q1284236"
 }

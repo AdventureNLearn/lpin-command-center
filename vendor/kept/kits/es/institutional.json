@@ -1,7 +1,59 @@
 {
   "iso2": "es",
   "kit": "institutional",
-  "items": [],
   "incomplete": true,
-  "note": ":8103 claimed institutional_kits = 0."
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q29",
+  "bodies": [
+    {
+      "qid": "Q855343",
+      "label": "Senate of Spain",
+      "seats": 266,
+      "web": "http://www.senado.es",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q219692",
+      "label": "Cortes Generales",
+      "seats": 0,
+      "web": "http://www.cortesgenerales.es/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q539149",
+      "label": "Congress of Deputies",
+      "seats": 350,
+      "web": "https://www.congreso.es/",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Senate of Spain",
+    "Congress of Deputies"
+  ],
+  "seats": 616,
+  "items": [
+    {
+      "id": "Q855343",
+      "name": "Senate of Spain",
+      "kind": "chamber",
+      "seats": 266,
+      "url": "http://www.senado.es"
+    },
+    {
+      "id": "Q219692",
+      "name": "Cortes Generales",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "http://www.cortesgenerales.es/"
+    },
+    {
+      "id": "Q539149",
+      "name": "Congress of Deputies",
+      "kind": "chamber",
+      "seats": 350,
+      "url": "https://www.congreso.es/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

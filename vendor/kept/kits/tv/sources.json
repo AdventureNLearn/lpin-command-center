@@ -3,8 +3,25 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q897278"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q897278",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21294919",
+      "label": "Member of the Parliament of Tuvalu (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21294919",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q897278",
+      "label": "Parliament of Tuvalu (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q897278",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

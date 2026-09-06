@@ -1,0 +1,59 @@
+{
+  "iso2": "sz",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q1050",
+  "bodies": [
+    {
+      "qid": "Q2117771",
+      "label": "Senate of Eswatini",
+      "seats": 30,
+      "web": "https://www.parliament.gov.sz/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q7138942",
+      "label": "Parliament of Eswatini",
+      "seats": 0,
+      "web": "https://www.parliament.gov.sz/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q5914707",
+      "label": "House of Assembly of Eswatini",
+      "seats": 70,
+      "web": "https://www.parliament.gov.sz/",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Senate of Eswatini",
+    "House of Assembly of Eswatini"
+  ],
+  "seats": 100,
+  "items": [
+    {
+      "id": "Q2117771",
+      "name": "Senate of Eswatini",
+      "kind": "chamber",
+      "seats": 30,
+      "url": "https://www.parliament.gov.sz/"
+    },
+    {
+      "id": "Q7138942",
+      "name": "Parliament of Eswatini",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://www.parliament.gov.sz/"
+    },
+    {
+      "id": "Q5914707",
+      "name": "House of Assembly of Eswatini",
+      "kind": "chamber",
+      "seats": 70,
+      "url": "https://www.parliament.gov.sz/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

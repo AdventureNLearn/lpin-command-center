@@ -1,0 +1,59 @@
+{
+  "iso2": "ie",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q27",
+  "bodies": [
+    {
+      "qid": "Q129821",
+      "label": "Oireachtas",
+      "seats": 0,
+      "web": "http://www.oireachtas.ie",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q1127591",
+      "label": "Seanad Éireann",
+      "seats": 60,
+      "web": "https://www.oireachtas.ie/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q651981",
+      "label": "Dáil Éireann",
+      "seats": 174,
+      "web": "https://www.oireachtas.ie/",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Seanad Éireann",
+    "Dáil Éireann"
+  ],
+  "seats": 234,
+  "items": [
+    {
+      "id": "Q129821",
+      "name": "Oireachtas",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "http://www.oireachtas.ie"
+    },
+    {
+      "id": "Q1127591",
+      "name": "Seanad Éireann",
+      "kind": "chamber",
+      "seats": 60,
+      "url": "https://www.oireachtas.ie/"
+    },
+    {
+      "id": "Q651981",
+      "name": "Dáil Éireann",
+      "kind": "chamber",
+      "seats": 174,
+      "url": "https://www.oireachtas.ie/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

@@ -1,0 +1,44 @@
+{
+  "iso2": "az",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q227",
+  "bodies": [
+    {
+      "qid": "Q21269547",
+      "label": "member of the National Assembly of Azerbaijan",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q330600",
+      "label": "National Assembly of Azerbaijan",
+      "seats": 125,
+      "web": "https://meclis.gov.az",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "member of the National Assembly of Azerbaijan"
+  ],
+  "seats": 125,
+  "items": [
+    {
+      "id": "Q21269547",
+      "name": "member of the National Assembly of Azerbaijan",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q21269547"
+    },
+    {
+      "id": "Q330600",
+      "name": "National Assembly of Azerbaijan",
+      "kind": "parliament",
+      "seats": 125,
+      "url": "https://meclis.gov.az"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

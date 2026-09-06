@@ -1,0 +1,59 @@
+{
+  "iso2": "pk",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q843",
+  "bodies": [
+    {
+      "qid": "Q1518223",
+      "label": "National Assembly (Pakistan)",
+      "seats": 342,
+      "web": "http://www.na.gov.pk/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q2665089",
+      "label": "Parliament of Pakistan",
+      "seats": 0,
+      "web": "",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q2571392",
+      "label": "Senate of Pakistan",
+      "seats": 104,
+      "web": "https://senate.gov.pk/",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "National Assembly (Pakistan)",
+    "Senate of Pakistan"
+  ],
+  "seats": 446,
+  "items": [
+    {
+      "id": "Q1518223",
+      "name": "National Assembly (Pakistan)",
+      "kind": "chamber",
+      "seats": 342,
+      "url": "http://www.na.gov.pk/"
+    },
+    {
+      "id": "Q2665089",
+      "name": "Parliament of Pakistan",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q2665089"
+    },
+    {
+      "id": "Q2571392",
+      "name": "Senate of Pakistan",
+      "kind": "chamber",
+      "seats": 104,
+      "url": "https://senate.gov.pk/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

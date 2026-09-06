@@ -3,8 +3,53 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q2011165"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q2011165",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q9390763",
+      "label": "Assembly of Representatives",
+      "url": "https://parlament.tj/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q9390763",
+      "label": "Assembly of Representatives (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q9390763",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q19921131",
+      "label": "National Assembly of Tajikistan",
+      "url": "http://majmilli.tj",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q19921131",
+      "label": "National Assembly of Tajikistan (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q19921131",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q2011165",
+      "label": "Supreme Assembly",
+      "url": "https://parlament.tj/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q2011165",
+      "label": "Supreme Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q2011165",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

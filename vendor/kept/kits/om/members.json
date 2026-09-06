@@ -3,11 +3,42 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q5176472",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 1,
+  "incomplete": true,
+  "claimed_seats": 176,
+  "chambers": [
+    "state council of Oman",
+    "Council of Oman",
+    "Consultative Assembly of Oman"
+  ],
   "items": [
     {
-      "id": "ali-s-al-bimani",
+      "id": "rahila-al-riyami-q2117607",
+      "name": "Rahila Al Riyami",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "state council of Oman",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28701101"
+    },
+    {
+      "id": "lujaina-mohsin-darwish-q2117607",
+      "name": "Lujaina Mohsin Darwish",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "state council of Oman",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q104602826"
+    },
+    {
+      "id": "ali-s-al-bimani-q5176472",
       "name": "Ali S Al-Bimani",
       "sitting": true,
       "party_id": "unknown",
@@ -18,6 +49,58 @@
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q85892907"
+    },
+    {
+      "id": "hilal-al-sarmi-q818704",
+      "name": "Hilal Al Sarmi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Consultative Assembly of Oman",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q23940101"
+    },
+    {
+      "id": "rahila-al-riyami-q818704",
+      "name": "Rahila Al Riyami",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Consultative Assembly of Oman",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28701101"
+    },
+    {
+      "id": "shakour-bint-mohammed-al-ghamari-q818704",
+      "name": "Shakour bint Mohammed al-Ghamari",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Consultative Assembly of Oman",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q101482821"
+    },
+    {
+      "id": "lujaina-mohsin-darwish-q818704",
+      "name": "Lujaina Mohsin Darwish",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Consultative Assembly of Oman",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q104602826"
     }
   ]
 }

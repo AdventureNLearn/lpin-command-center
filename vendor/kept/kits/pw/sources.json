@@ -3,8 +3,39 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1384462"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1384462",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q2118228",
+      "label": "House of Delegates of Palau (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q2118228",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1384462",
+      "label": "Palau National Congress",
+      "url": "http://www.palauoek.com/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1384462",
+      "label": "Palau National Congress (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1384462",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q969494",
+      "label": "Senate of Palau (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q969494",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

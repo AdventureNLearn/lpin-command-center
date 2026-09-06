@@ -3,905 +3,2158 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q4902948",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 69,
+  "incomplete": true,
+  "claimed_seats": 458,
+  "chambers": [
+    "Council of States",
+    "National Legislature",
+    "National Assembly"
+  ],
   "items": [
     {
-      "id": "ali-mahmoud-abdul-rasool",
-      "name": "Ali Mahmoud Abdul-Rasool",
-      "sitting": true,
-      "party_id": "national-congress-party",
-      "caucus": "National Congress Party",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112325583"
-    },
-    {
-      "id": "aldu-aju-deng",
-      "name": "Aldu Aju Deng",
-      "sitting": true,
-      "party_id": "sudan-people-s-liberation-movement",
-      "caucus": "Sudan People's Liberation Movement",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678226"
-    },
-    {
-      "id": "alid-dyak-makul",
-      "name": "Alid Dyak Makul",
-      "sitting": true,
-      "party_id": "sudan-people-s-liberation-movement",
-      "caucus": "Sudan People's Liberation Movement",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678227"
-    },
-    {
-      "id": "anbi-ngok-anbi",
-      "name": "Anbi Ngok Anbi",
-      "sitting": true,
-      "party_id": "sudan-people-s-liberation-movement",
-      "caucus": "Sudan People's Liberation Movement",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678230"
-    },
-    {
-      "id": "chan-malwal-chan",
-      "name": "Chan Malwal Chan",
-      "sitting": true,
-      "party_id": "sudan-people-s-liberation-movement",
-      "caucus": "Sudan People's Liberation Movement",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678233"
-    },
-    {
-      "id": "diyakon-ricardu-augali",
-      "name": "Diyakon Ricardu Augali",
-      "sitting": true,
-      "party_id": "sudan-people-s-liberation-movement",
-      "caucus": "Sudan People's Liberation Movement",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678234"
-    },
-    {
-      "id": "clement-guya-janda",
-      "name": "Clement Guya Janda",
-      "sitting": true,
-      "party_id": "sudan-people-s-liberation-movement",
-      "caucus": "Sudan People's Liberation Movement",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678251"
-    },
-    {
-      "id": "donatu-dimo-wol",
-      "name": "Donatu Dimo Wol",
-      "sitting": true,
-      "party_id": "sudan-people-s-liberation-movement",
-      "caucus": "Sudan People's Liberation Movement",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678235"
-    },
-    {
-      "id": "gur-ghol-ngo-deng",
-      "name": "Gur Ghol Ngo Deng",
-      "sitting": true,
-      "party_id": "sudan-people-s-liberation-movement",
-      "caucus": "Sudan People's Liberation Movement",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678237"
-    },
-    {
-      "id": "hassan-abbas-abu-ras",
-      "name": "Hassan Abbas Abu Ras",
-      "sitting": true,
-      "party_id": "sudan-people-s-liberation-movement",
-      "caucus": "Sudan People's Liberation Movement",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678240"
-    },
-    {
-      "id": "izak-sumu-kalium-ramadan",
-      "name": "Izak Sumu Kalium Ramadan",
-      "sitting": true,
-      "party_id": "sudan-people-s-liberation-movement",
-      "caucus": "Sudan People's Liberation Movement",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678243"
-    },
-    {
-      "id": "jadain-jada-solomon",
-      "name": "Jadain Jada Solomon",
-      "sitting": true,
-      "party_id": "sudan-people-s-liberation-movement",
-      "caucus": "Sudan People's Liberation Movement",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678246"
-    },
-    {
-      "id": "james-magok-atier",
-      "name": "James Magok Atier",
-      "sitting": true,
-      "party_id": "sudan-people-s-liberation-movement",
-      "caucus": "Sudan People's Liberation Movement",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678247"
-    },
-    {
-      "id": "james-tok-aryal",
-      "name": "James Tok Aryal",
-      "sitting": true,
-      "party_id": "sudan-people-s-liberation-movement",
-      "caucus": "Sudan People's Liberation Movement",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678248"
-    },
-    {
-      "id": "joseph-abang-deng",
-      "name": "Joseph Abang Deng",
-      "sitting": true,
-      "party_id": "sudan-people-s-liberation-movement",
-      "caucus": "Sudan People's Liberation Movement",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678250"
-    },
-    {
-      "id": "john-goyal-paul",
-      "name": "John Goyal Paul",
-      "sitting": true,
-      "party_id": "sudan-people-s-liberation-movement",
-      "caucus": "Sudan People's Liberation Movement",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678249"
-    },
-    {
-      "id": "lweis-vitu-akwar",
-      "name": "Lweis Vitu Akwar",
-      "sitting": true,
-      "party_id": "sudan-people-s-liberation-movement",
-      "caucus": "Sudan People's Liberation Movement",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678253"
-    },
-    {
-      "id": "majak-machar-dulbai",
-      "name": "Majak Machar Dulbai",
-      "sitting": true,
-      "party_id": "sudan-people-s-liberation-movement",
-      "caucus": "Sudan People's Liberation Movement",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678255"
-    },
-    {
-      "id": "marco-luhai-lubuki",
-      "name": "Marco Luhai Lubuki",
-      "sitting": true,
-      "party_id": "sudan-people-s-liberation-movement",
-      "caucus": "Sudan People's Liberation Movement",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678256"
-    },
-    {
-      "id": "remi-ular-alurung",
-      "name": "Remi Ular AluRung",
-      "sitting": true,
-      "party_id": "sudan-people-s-liberation-movement",
-      "caucus": "Sudan People's Liberation Movement",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678261"
-    },
-    {
-      "id": "riyao-ghalit-gai",
-      "name": "Riyao Ghalit Gai",
-      "sitting": true,
-      "party_id": "sudan-people-s-liberation-movement",
-      "caucus": "Sudan People's Liberation Movement",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678262"
-    },
-    {
-      "id": "victor-edward",
-      "name": "Victor Edward",
-      "sitting": true,
-      "party_id": "sudan-people-s-liberation-movement",
-      "caucus": "Sudan People's Liberation Movement",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678267"
-    },
-    {
-      "id": "samia-ahmed-mohamed",
-      "name": "Samia Ahmed Mohamed",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q135230607"
-    },
-    {
-      "id": "afaf-tawir-kafi-abrass",
-      "name": "Afaf Tawir Kafi Abrass",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q135232470"
-    },
-    {
-      "id": "badria-suliman-abbas-hamid",
-      "name": "Badria Suliman Abbas Hamid",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q135232474"
-    },
-    {
-      "id": "hawa-abdelshafie-seneen-hussein",
-      "name": "Hawa Abdelshafie Seneen Hussein",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q135232634"
-    },
-    {
-      "id": "marwa-osman-ahmed-gaknoon",
-      "name": "Marwa Osman Ahmed Gaknoon",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q135232623"
-    },
-    {
-      "id": "umbashair-mahmoud-shareef-adam",
-      "name": "Umbashair Mahmoud Shareef Adam",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q135232626"
-    },
-    {
-      "id": "salih-mahmoud-osman",
-      "name": "Salih Mahmoud Osman",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1387498"
-    },
-    {
-      "id": "abdel-jabbar-adam-abd-el-karim-khamis",
-      "name": "Abdel Jabbar Adam Abd El Karim Khamis",
-      "sitting": true,
-      "party_id": "national-congress-party",
-      "caucus": "National Congress Party",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678224"
-    },
-    {
-      "id": "abla-mehadi-abd-el-moniem-ahmed",
-      "name": "Abla Mehadi Abd El Moniem Ahmed",
-      "sitting": true,
-      "party_id": "national-congress-party",
-      "caucus": "National Congress Party",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678225"
-    },
-    {
-      "id": "ambly-abdallah-el-ajab-ambly",
-      "name": "Ambly Abdallah El Ajab Ambly",
-      "sitting": true,
-      "party_id": "national-congress-party",
-      "caucus": "National Congress Party",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678228"
-    },
-    {
-      "id": "amnah-adam-barakah-abo",
-      "name": "Amnah Adam Barakah Abo",
-      "sitting": true,
-      "party_id": "national-congress-party",
-      "caucus": "National Congress Party",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678229"
-    },
-    {
-      "id": "awad-hag-alim-ahmed-a-razig",
-      "name": "Awad Hag Alim Ahmed A. Razig",
-      "sitting": true,
-      "party_id": "national-congress-party",
-      "caucus": "National Congress Party",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678231"
-    },
-    {
-      "id": "badawi-el-khair-idris-a-el-nour",
-      "name": "Badawi El‐Khair Idris A. El‐Nour",
-      "sitting": true,
-      "party_id": "national-congress-party",
-      "caucus": "National Congress Party",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678232"
-    },
-    {
-      "id": "el-sir-yousuf-abdallah-el-karyiel",
-      "name": "El Sir Yousuf Abdallah El Karyiel",
-      "sitting": true,
-      "party_id": "national-congress-party",
-      "caucus": "National Congress Party",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678236"
-    },
-    {
-      "id": "hajir-awad-el-seed-ahmed-masoud",
-      "name": "Hajir Awad El Seed Ahmed Masoud",
-      "sitting": true,
-      "party_id": "national-congress-party",
-      "caucus": "National Congress Party",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678238"
-    },
-    {
-      "id": "hamid-mohammed-adam-hamid",
-      "name": "Hamid Mohammed Adam Hamid",
-      "sitting": true,
-      "party_id": "national-congress-party",
-      "caucus": "National Congress Party",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678239"
-    },
-    {
-      "id": "husham-mohammed-ahmed-el-birair",
-      "name": "Husham Mohammed Ahmed El‐Birair",
-      "sitting": true,
-      "party_id": "national-congress-party",
-      "caucus": "National Congress Party",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678241"
-    },
-    {
-      "id": "ismail-el-hag-mousa",
-      "name": "Ismail El Hag Mousa",
-      "sitting": true,
-      "party_id": "national-congress-party",
-      "caucus": "National Congress Party",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678242"
-    },
-    {
-      "id": "jabir-abdel-gadir-a-el-mohsen-osman",
-      "name": "Jabir Abdel Gadir A. El Mohsen Osman",
-      "sitting": true,
-      "party_id": "national-congress-party",
-      "caucus": "National Congress Party",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678244"
-    },
-    {
-      "id": "jabr-allah-khamseen-fidaily-mohammed",
-      "name": "Jabr Allah Khamseen Fidaily Mohammed",
-      "sitting": true,
-      "party_id": "national-congress-party",
-      "caucus": "National Congress Party",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678245"
-    },
-    {
-      "id": "lg-adam-hamid-mousa",
-      "name": "LG. Adam Hamid Mousa",
-      "sitting": true,
-      "party_id": "national-congress-party",
-      "caucus": "National Congress Party",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678252"
-    },
-    {
-      "id": "mahmoud-mohammed-mahmoud-hamid",
-      "name": "Mahmoud Mohammed Mahmoud Hamid",
-      "sitting": true,
-      "party_id": "national-congress-party",
-      "caucus": "National Congress Party",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678254"
-    },
-    {
-      "id": "mohammed-el-sharif-ibrahim-el-tuhami",
-      "name": "Mohammed El Sharif Ibrahim El Tuhami",
-      "sitting": true,
-      "party_id": "national-congress-party",
-      "caucus": "National Congress Party",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678258"
-    },
-    {
-      "id": "mohammed-ishaq-ali-osman",
-      "name": "Mohammed Ishaq Ali Osman",
-      "sitting": true,
-      "party_id": "national-congress-party",
-      "caucus": "National Congress Party",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678259"
-    },
-    {
-      "id": "mirghani-el-muzamil-el-faki-mukhtar",
-      "name": "Mirghani El‐Muzamil El Faki Mukhtar",
-      "sitting": true,
-      "party_id": "national-congress-party",
-      "caucus": "National Congress Party",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678257"
-    },
-    {
-      "id": "mousa-jalis-adam-yagoub",
-      "name": "Mousa Jalis Adam Yagoub",
-      "sitting": true,
-      "party_id": "national-congress-party",
-      "caucus": "National Congress Party",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678260"
-    },
-    {
-      "id": "saadiah-mulah-mohammed-osman",
-      "name": "Saadiah Mulah Mohammed Osman",
-      "sitting": true,
-      "party_id": "national-congress-party",
-      "caucus": "National Congress Party",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678263"
-    },
-    {
-      "id": "salah-el-mohammed-el-hassan-mustafa",
-      "name": "Salah El‐ Mohammed El Hassan Mustafa",
-      "sitting": true,
-      "party_id": "national-congress-party",
-      "caucus": "National Congress Party",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678265"
-    },
-    {
-      "id": "sharif-mohamadain-adam-sabi",
-      "name": "Sharif Mohamadain Adam Sabi",
-      "sitting": true,
-      "party_id": "national-congress-party",
-      "caucus": "National Congress Party",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678266"
-    },
-    {
-      "id": "widad-yaboub-ibrahim-osman",
-      "name": "Widad Yaboub Ibrahim Osman",
-      "sitting": true,
-      "party_id": "national-congress-party",
-      "caucus": "National Congress Party",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112678268"
-    },
-    {
-      "id": "mohamed-adam-bahshain",
-      "name": "Mohamed Adam Bahshain",
-      "sitting": true,
-      "party_id": "democratic-unionist-party",
-      "caucus": "Democratic Unionist Party",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112861837"
-    },
-    {
-      "id": "osama-atta-al-manan",
-      "name": "Osama Atta al-Manan",
-      "sitting": true,
-      "party_id": "democratic-unionist-party",
-      "caucus": "Democratic Unionist Party",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112861842"
-    },
-    {
-      "id": "abu-al-gasim-bartam",
-      "name": "Abu al-Gasim Bartam",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112861827"
-    },
-    {
-      "id": "al-tayeb-ahmed-ali",
-      "name": "Al-Tayeb Ahmed Ali",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112861830"
-    },
-    {
-      "id": "ali-youssef-dafa-allah",
-      "name": "Ali Youssef Dafa’allah",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112861831"
-    },
-    {
-      "id": "hamid-sharif",
-      "name": "Hamid Sharif",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112861833"
-    },
-    {
-      "id": "harazim-ahmed-al-mahboub",
-      "name": "Harazim Ahmed al-Mahboub",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112861834"
-    },
-    {
-      "id": "mohamed-al-tahir-aseel",
-      "name": "Mohamed al-Tahir Aseel",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112861838"
-    },
-    {
-      "id": "mubarak-abas",
-      "name": "Mubarak Abas",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112861839"
-    },
-    {
-      "id": "mubarak-al-nour",
-      "name": "Mubarak al-Nour",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112861840"
-    },
-    {
-      "id": "salah-ahmed-al-nour",
-      "name": "Salah Ahmed al-Nour",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112861843"
-    },
-    {
-      "id": "abu-al-gasim-mohammed-ibrahim",
-      "name": "Abu al-Gasim Mohammed Ibrahim",
-      "sitting": true,
-      "party_id": "national-congress-party",
-      "caucus": "National Congress Party",
-      "constituency_label": "",
-      "chamber": "National Legislature",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q110917207"
-    },
-    {
-      "id": "salah-ali-al-ghali",
+      "id": "salah-ali-al-ghali-q2993867",
       "name": "Salah Ali Al-Ghali",
       "sitting": true,
-      "party_id": "national-congress-party",
-      "caucus": "National Congress Party",
+      "party_id": "unknown",
+      "caucus": "",
       "constituency_label": "",
-      "chamber": "National Legislature",
+      "chamber": "Council of States",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q7403428"
     },
     {
-      "id": "ahmed-barsham-mohamed",
+      "id": "abu-al-gasim-mohammed-ibrahim-q2993867",
+      "name": "Abu al-Gasim Mohammed Ibrahim",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110917207"
+    },
+    {
+      "id": "abdel-jabbar-adam-abd-el-karim-khamis-q2993867",
+      "name": "Abdel Jabbar Adam Abd El Karim Khamis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678224"
+    },
+    {
+      "id": "abla-mehadi-abd-el-moniem-ahmed-q2993867",
+      "name": "Abla Mehadi Abd El Moniem Ahmed",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678225"
+    },
+    {
+      "id": "aldu-aju-deng-q2993867",
+      "name": "Aldu Aju Deng",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678226"
+    },
+    {
+      "id": "alid-dyak-makul-q2993867",
+      "name": "Alid Dyak Makul",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678227"
+    },
+    {
+      "id": "anbi-ngok-anbi-q2993867",
+      "name": "Anbi Ngok Anbi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678230"
+    },
+    {
+      "id": "ambly-abdallah-el-ajab-ambly-q2993867",
+      "name": "Ambly Abdallah El Ajab Ambly",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678228"
+    },
+    {
+      "id": "amnah-adam-barakah-abo-q2993867",
+      "name": "Amnah Adam Barakah Abo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678229"
+    },
+    {
+      "id": "awad-hag-alim-ahmed-a-razig-q2993867",
+      "name": "Awad Hag Alim Ahmed A. Razig",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678231"
+    },
+    {
+      "id": "badawi-el-khair-idris-a-el-nour-q2993867",
+      "name": "Badawi El‐Khair Idris A. El‐Nour",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678232"
+    },
+    {
+      "id": "chan-malwal-chan-q2993867",
+      "name": "Chan Malwal Chan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678233"
+    },
+    {
+      "id": "diyakon-ricardu-augali-q2993867",
+      "name": "Diyakon Ricardu Augali",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678234"
+    },
+    {
+      "id": "clement-guya-janda-q2993867",
+      "name": "Clement Guya Janda",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678251"
+    },
+    {
+      "id": "donatu-dimo-wol-q2993867",
+      "name": "Donatu Dimo Wol",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678235"
+    },
+    {
+      "id": "el-sir-yousuf-abdallah-el-karyiel-q2993867",
+      "name": "El Sir Yousuf Abdallah El Karyiel",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678236"
+    },
+    {
+      "id": "hajir-awad-el-seed-ahmed-masoud-q2993867",
+      "name": "Hajir Awad El Seed Ahmed Masoud",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678238"
+    },
+    {
+      "id": "gur-ghol-ngo-deng-q2993867",
+      "name": "Gur Ghol Ngo Deng",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678237"
+    },
+    {
+      "id": "hamid-mohammed-adam-hamid-q2993867",
+      "name": "Hamid Mohammed Adam Hamid",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678239"
+    },
+    {
+      "id": "hassan-abbas-abu-ras-q2993867",
+      "name": "Hassan Abbas Abu Ras",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678240"
+    },
+    {
+      "id": "husham-mohammed-ahmed-el-birair-q2993867",
+      "name": "Husham Mohammed Ahmed El‐Birair",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678241"
+    },
+    {
+      "id": "ismail-el-hag-mousa-q2993867",
+      "name": "Ismail El Hag Mousa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678242"
+    },
+    {
+      "id": "izak-sumu-kalium-ramadan-q2993867",
+      "name": "Izak Sumu Kalium Ramadan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678243"
+    },
+    {
+      "id": "jadain-jada-solomon-q2993867",
+      "name": "Jadain Jada Solomon",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678246"
+    },
+    {
+      "id": "jabir-abdel-gadir-a-el-mohsen-osman-q2993867",
+      "name": "Jabir Abdel Gadir A. El Mohsen Osman",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678244"
+    },
+    {
+      "id": "jabr-allah-khamseen-fidaily-mohammed-q2993867",
+      "name": "Jabr Allah Khamseen Fidaily Mohammed",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678245"
+    },
+    {
+      "id": "james-magok-atier-q2993867",
+      "name": "James Magok Atier",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678247"
+    },
+    {
+      "id": "james-tok-aryal-q2993867",
+      "name": "James Tok Aryal",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678248"
+    },
+    {
+      "id": "joseph-abang-deng-q2993867",
+      "name": "Joseph Abang Deng",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678250"
+    },
+    {
+      "id": "john-goyal-paul-q2993867",
+      "name": "John Goyal Paul",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678249"
+    },
+    {
+      "id": "lg-adam-hamid-mousa-q2993867",
+      "name": "LG. Adam Hamid Mousa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678252"
+    },
+    {
+      "id": "mahmoud-mohammed-mahmoud-hamid-q2993867",
+      "name": "Mahmoud Mohammed Mahmoud Hamid",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678254"
+    },
+    {
+      "id": "lweis-vitu-akwar-q2993867",
+      "name": "Lweis Vitu Akwar",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678253"
+    },
+    {
+      "id": "majak-machar-dulbai-q2993867",
+      "name": "Majak Machar Dulbai",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678255"
+    },
+    {
+      "id": "marco-luhai-lubuki-q2993867",
+      "name": "Marco Luhai Lubuki",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678256"
+    },
+    {
+      "id": "mohammed-el-sharif-ibrahim-el-tuhami-q2993867",
+      "name": "Mohammed El Sharif Ibrahim El Tuhami",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678258"
+    },
+    {
+      "id": "mohammed-ishaq-ali-osman-q2993867",
+      "name": "Mohammed Ishaq Ali Osman",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678259"
+    },
+    {
+      "id": "mirghani-el-muzamil-el-faki-mukhtar-q2993867",
+      "name": "Mirghani El‐Muzamil El Faki Mukhtar",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678257"
+    },
+    {
+      "id": "mousa-jalis-adam-yagoub-q2993867",
+      "name": "Mousa Jalis Adam Yagoub",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678260"
+    },
+    {
+      "id": "remi-ular-alurung-q2993867",
+      "name": "Remi Ular AluRung",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678261"
+    },
+    {
+      "id": "riyao-ghalit-gai-q2993867",
+      "name": "Riyao Ghalit Gai",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678262"
+    },
+    {
+      "id": "saadiah-mulah-mohammed-osman-q2993867",
+      "name": "Saadiah Mulah Mohammed Osman",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678263"
+    },
+    {
+      "id": "salah-el-mohammed-el-hassan-mustafa-q2993867",
+      "name": "Salah El‐ Mohammed El Hassan Mustafa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678265"
+    },
+    {
+      "id": "sharif-mohamadain-adam-sabi-q2993867",
+      "name": "Sharif Mohamadain Adam Sabi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678266"
+    },
+    {
+      "id": "victor-edward-q2993867",
+      "name": "Victor Edward",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678267"
+    },
+    {
+      "id": "widad-yaboub-ibrahim-osman-q2993867",
+      "name": "Widad Yaboub Ibrahim Osman",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of States",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112678268"
+    },
+    {
+      "id": "lual-a-deng-q1969569",
+      "name": "Lual A. Deng",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q87522750"
+    },
+    {
+      "id": "nadia-arop-dudi-q1969569",
+      "name": "Nadia Arop Dudi",
+      "sitting": true,
+      "party_id": "sudan-people-s-liberation-movement",
+      "caucus": "Sudan People's Liberation Movement",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112685866"
+    },
+    {
+      "id": "salih-mahmoud-osman-q1969569",
+      "name": "Salih Mahmoud Osman",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1387498"
+    },
+    {
+      "id": "su-ad-al-fatih-al-badawi-q1969569",
+      "name": "Su'ad al-Fatih al-Badawi",
+      "sitting": true,
+      "party_id": "national-islamic-front",
+      "caucus": "National Islamic Front",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q27517197"
+    },
+    {
+      "id": "mayiik-ayii-deng-q1969569",
+      "name": "Mayiik Ayii Deng",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q48975135"
+    },
+    {
+      "id": "riek-gai-kok-q1969569",
+      "name": "Riek Gai Kok",
+      "sitting": true,
+      "party_id": "sudan-people-s-liberation-movement",
+      "caucus": "Sudan People's Liberation Movement",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16204805"
+    },
+    {
+      "id": "ali-mahmoud-abdul-rasool-q1969569",
+      "name": "Ali Mahmoud Abdul-Rasool",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112325583"
+    },
+    {
+      "id": "wek-mamer-kuol-q1969569",
+      "name": "Wek Mamer Kuol",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112712525"
+    },
+    {
+      "id": "abraham-albino-kuot-q1969569",
+      "name": "Abraham Albino Kuot",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729732"
+    },
+    {
+      "id": "agnes-nyoka-peter-q1969569",
+      "name": "Agnes Nyoka Peter",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729739"
+    },
+    {
+      "id": "adelino-michael-wani-q1969569",
+      "name": "Adelino Michael Wani",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729737"
+    },
+    {
+      "id": "ajok-wol-atak-deng-q1969569",
+      "name": "Ajok Wol Atak Deng",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729743"
+    },
+    {
+      "id": "alambeny-malith-riak-q1969569",
+      "name": "Alambeny Malith Riak",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729746"
+    },
+    {
+      "id": "akuar-gamar-ujieth-q1969569",
+      "name": "Akuar Gamar Ujieth",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729744"
+    },
+    {
+      "id": "ali-adillan-nur-aldin-q1969569",
+      "name": "Ali Adillan Nur-aldin",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729747"
+    },
+    {
+      "id": "akuot-chan-kuac-q1969569",
+      "name": "Akuot Chan Kuac",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729745"
+    },
+    {
+      "id": "alma-jervas-yak-q1969569",
+      "name": "Alma Jervas Yak",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729748"
+    },
+    {
+      "id": "ann-lino-wor-abyei-q1969569",
+      "name": "Ann Lino Wor Abyei",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729750"
+    },
+    {
+      "id": "anita-allah-jabu-mursal-q1969569",
+      "name": "Anita Allah-jabu Mursal",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729749"
+    },
+    {
+      "id": "anthony-kudus-justin-q1969569",
+      "name": "Anthony Kudus Justin",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729752"
+    },
+    {
+      "id": "atem-garang-d-dekuek-q1969569",
+      "name": "Atem Garang D. Dekuek",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729754"
+    },
+    {
+      "id": "augustino-mathok-thok-q1969569",
+      "name": "Augustino Mathok Thok",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729755"
+    },
+    {
+      "id": "asha-abdalsalam-alawad-q1969569",
+      "name": "Asha Abdalsalam Alawad",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729753"
+    },
+    {
+      "id": "ayak-ngor-malek-q1969569",
+      "name": "Ayak Ngor Malek",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729757"
+    },
+    {
+      "id": "benjamin-bol-q1969569",
+      "name": "Benjamin Bol",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729759"
+    },
+    {
+      "id": "bona-bak-nyang-q1969569",
+      "name": "Bona Bak Nyang",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729760"
+    },
+    {
+      "id": "bur-gatwich-kuny-q1969569",
+      "name": "Bur Gatwich Kuny",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729762"
+    },
+    {
+      "id": "bullen-kot-beny-adiak-q1969569",
+      "name": "Bullen Kot Beny Adiak",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729761"
+    },
+    {
+      "id": "caguor-aduong-manyang-q1969569",
+      "name": "Caguor Aduong Manyang",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729764"
+    },
+    {
+      "id": "cecilia-achuil-mathew-q1969569",
+      "name": "Cecilia Achuil Mathew",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729765"
+    },
+    {
+      "id": "daniel-dhieu-matuet-q1969569",
+      "name": "Daniel Dhieu Matuet",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729767"
+    },
+    {
+      "id": "deng-chol-deng-q1969569",
+      "name": "Deng Chol Deng",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729770"
+    },
+    {
+      "id": "david-allemy-poru-q1969569",
+      "name": "David Allemy Poru",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729768"
+    },
+    {
+      "id": "deng-goch-ayuel-q1969569",
+      "name": "Deng Goch Ayuel",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729771"
+    },
+    {
+      "id": "david-thil-chol-q1969569",
+      "name": "David Thil Chol",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729769"
+    },
+    {
+      "id": "deng-tong-kuol-q1969569",
+      "name": "Deng Tong Kuol",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729773"
+    },
+    {
+      "id": "eloren-allen-kulem-q1969569",
+      "name": "Eloren Allen Kulem",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729778"
+    },
+    {
+      "id": "elia-ullan-jongo-wako-q1969569",
+      "name": "Elia Ullan Jongo Wako",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729776"
+    },
+    {
+      "id": "elizabeth-john-kuol-q1969569",
+      "name": "Elizabeth John Kuol",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729777"
+    },
+    {
+      "id": "fatima-kur-chol-q1969569",
+      "name": "Fatima Kur Chol",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729780"
+    },
+    {
+      "id": "george-andrea-juma-q1969569",
+      "name": "George Andrea Juma",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729787"
+    },
+    {
+      "id": "george-bureng-nyombe-q1969569",
+      "name": "George Bureng Nyombe",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729788"
+    },
+    {
+      "id": "goc-makuac-mayol-q1969569",
+      "name": "Goc Makuac Mayol",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729791"
+    },
+    {
+      "id": "imelda-modi-tartisio-q1969569",
+      "name": "Imelda Modi Tartisio",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729792"
+    },
+    {
+      "id": "jacob-duang-wan-q1969569",
+      "name": "Jacob Duang Wan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729794"
+    },
+    {
+      "id": "james-aguer-alij-q1969569",
+      "name": "James Aguer Alij",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729798"
+    },
+    {
+      "id": "james-angelo-celerino-q1969569",
+      "name": "James Angelo Celerino",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729799"
+    },
+    {
+      "id": "jamal-juma-kakaya-q1969569",
+      "name": "Jamal Juma Kakaya",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729796"
+    },
+    {
+      "id": "jamal-lomongin-peter-q1969569",
+      "name": "Jamal Lomongin Peter",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729797"
+    },
+    {
+      "id": "john-badeng-chan-q1969569",
+      "name": "John Badeng Chan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729802"
+    },
+    {
+      "id": "john-gatnyai-thot-q1969569",
+      "name": "John Gatnyai Thot",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729803"
+    },
+    {
+      "id": "john-agany-deng-q1969569",
+      "name": "John Agany Deng",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729801"
+    },
+    {
+      "id": "jok-jak-bom-q1969569",
+      "name": "Jok Jak Bom",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729814"
+    },
+    {
+      "id": "jongkuc-johnson-kulang-q1969569",
+      "name": "Jongkuc Johnson Kulang",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729815"
+    },
+    {
+      "id": "johnson-ollami-q1969569",
+      "name": "Johnson Ollami",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729813"
+    },
+    {
+      "id": "joseph-dilli-lupara-q1969569",
+      "name": "Joseph Dilli Lupara",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729816"
+    },
+    {
+      "id": "justin-erat-kerepi-q1969569",
+      "name": "Justin Erat Kerepi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729819"
+    },
+    {
+      "id": "joseph-mathuc-mou-q1969569",
+      "name": "Joseph Mathuc Mou",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729817"
+    },
+    {
+      "id": "justin-joseph-marona-q1969569",
+      "name": "Justin Joseph Marona",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729820"
+    },
+    {
+      "id": "kuol-lual-awan-q1969569",
+      "name": "Kuol Lual Awan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729822"
+    },
+    {
+      "id": "ketura-yona-ambara-q1969569",
+      "name": "Ketura Yona Ambara",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729821"
+    },
+    {
+      "id": "lang-tap-lam-q1969569",
+      "name": "Lang Tap Lam",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729823"
+    },
+    {
+      "id": "lazarous-permena-farajalla-q1969569",
+      "name": "Lazarous Permena Farajalla",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729824"
+    },
+    {
+      "id": "lilly-kiden-eluzaya-q1969569",
+      "name": "Lilly Kiden Eluzaya",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729826"
+    },
+    {
+      "id": "lidia-jok-chol-q1969569",
+      "name": "Lidia Jok Chol",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729825"
+    },
+    {
+      "id": "majok-dau-chol-lak-q1969569",
+      "name": "Majok Dau Chol Lak",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729830"
+    },
+    {
+      "id": "luis-wille-atiol-q1969569",
+      "name": "Luis Wille Atiol",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729829"
+    },
+    {
+      "id": "maker-thiong-maal-q1969569",
+      "name": "Maker Thiong Maal",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729832"
+    },
+    {
+      "id": "marko-lolibas-lojore-q1969569",
+      "name": "Marko Lolibas Lojore",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729835"
+    },
+    {
+      "id": "mary-yual-badeng-q1969569",
+      "name": "Mary Yual Badeng",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729838"
+    },
+    {
+      "id": "mathias-loye-obura-q1969569",
+      "name": "Mathias Loye Obura",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729839"
+    },
+    {
+      "id": "mary-nyiyom-lual-q1969569",
+      "name": "Mary Nyiyom Lual",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729837"
+    },
+    {
+      "id": "michael-chot-lul-q1969569",
+      "name": "Michael Chot Lul",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729840"
+    },
+    {
+      "id": "michael-rut-koryom-q1969569",
+      "name": "Michael Rut Koryom",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729841"
+    },
+    {
+      "id": "munira-abdalwahab-q1969569",
+      "name": "Munira Abdalwahab",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729842"
+    },
+    {
+      "id": "murad-meseka-dourania-q1969569",
+      "name": "Murad Meseka Dourania",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729843"
+    },
+    {
+      "id": "nadia-mahajuob-babiker-q1969569",
+      "name": "Nadia Mahajuob Babiker",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729845"
+    },
+    {
+      "id": "natire-ann-grace-q1969569",
+      "name": "Natire Ann Grace",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729846"
+    },
+    {
+      "id": "oliver-mori-benjamin-q1969569",
+      "name": "Oliver Mori Benjamin",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729848"
+    },
+    {
+      "id": "pasquale-clement-batali-q1969569",
+      "name": "Pasquale Clement Batali",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729850"
+    },
+    {
+      "id": "paul-lotabu-mana-q1969569",
+      "name": "Paul Lotabu Mana",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729851"
+    },
+    {
+      "id": "paul-yoane-bonju-q1969569",
+      "name": "Paul Yoane Bonju",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729852"
+    },
+    {
+      "id": "puok-bol-mut-q1969569",
+      "name": "Puok Bol Mut",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729859"
+    },
+    {
+      "id": "rebecca-aluel-mayor-q1969569",
+      "name": "Rebecca Aluel Mayor",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729863"
+    },
+    {
+      "id": "ramadan-hassen-laku-q1969569",
+      "name": "Ramadan Hassen Laku",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729860"
+    },
+    {
+      "id": "rashid-adam-alallah-q1969569",
+      "name": "Rashid Adam Alallah",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729861"
+    },
+    {
+      "id": "remzi-monyping-cier-q1969569",
+      "name": "Remzi Monyping Cier",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729864"
+    },
+    {
+      "id": "rose-adau-deng-q1969569",
+      "name": "Rose Adau Deng",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729865"
+    },
+    {
+      "id": "salih-saeed-uko-q1969569",
+      "name": "Salih Saeed Uko",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729867"
+    },
+    {
+      "id": "samson-ezekiel-ndiko-q1969569",
+      "name": "Samson Ezekiel Ndiko",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729868"
+    },
+    {
+      "id": "siro-garjuok-marino-q1969569",
+      "name": "Siro Garjuok Marino",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729873"
+    },
+    {
+      "id": "suzan-solomon-mamur-q1969569",
+      "name": "Suzan Solomon Mamur",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729876"
+    },
+    {
+      "id": "thomas-wani-kundu-q1969569",
+      "name": "Thomas Wani Kundu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729878"
+    },
+    {
+      "id": "tut-kew-gatluak-q1969569",
+      "name": "Tut Kew Gatluak",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729879"
+    },
+    {
+      "id": "veronica-rodento-onzi-q1969569",
+      "name": "Veronica Rodento Onzi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729882"
+    },
+    {
+      "id": "veronica-luis-renzi-q1969569",
+      "name": "Veronica Luis Renzi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729881"
+    },
+    {
+      "id": "william-ajal-deng-gai-q1969569",
+      "name": "William Ajal Deng Gai",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112729883"
+    },
+    {
+      "id": "wol-deng-alew-q1969569",
+      "name": "Wol Deng Alew",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112752825"
+    },
+    {
+      "id": "abu-al-gasim-bartam-q1969569",
+      "name": "Abu al-Gasim Bartam",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112861827"
+    },
+    {
+      "id": "al-tayeb-ahmed-ali-q1969569",
+      "name": "Al-Tayeb Ahmed Ali",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112861830"
+    },
+    {
+      "id": "ahmed-barsham-mohamed-q1969569",
       "name": "Ahmed Barsham Mohamed",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "National Legislature",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q112861828"
     },
     {
-      "id": "fathi-mohamed-issa",
+      "id": "samia-ahmed-mohamed-q1969569",
+      "name": "Samia Ahmed Mohamed",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135230607"
+    },
+    {
+      "id": "afaf-tawir-kafi-abrass-q1969569",
+      "name": "Afaf Tawir Kafi Abrass",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135232470"
+    },
+    {
+      "id": "badria-suliman-abbas-hamid-q1969569",
+      "name": "Badria Suliman Abbas Hamid",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135232474"
+    },
+    {
+      "id": "hawa-abdelshafie-seneen-hussein-q1969569",
+      "name": "Hawa Abdelshafie Seneen Hussein",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135232634"
+    },
+    {
+      "id": "marwa-osman-ahmed-gaknoon-q1969569",
+      "name": "Marwa Osman Ahmed Gaknoon",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135232623"
+    },
+    {
+      "id": "umbashair-mahmoud-shareef-adam-q1969569",
+      "name": "Umbashair Mahmoud Shareef Adam",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135232626"
+    },
+    {
+      "id": "ali-youssef-dafa-allah-q1969569",
+      "name": "Ali Youssef Dafa’allah",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112861831"
+    },
+    {
+      "id": "fathi-mohamed-issa-q1969569",
       "name": "Fathi Mohamed Issa",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "National Legislature",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q112861832"
     },
     {
-      "id": "ismail-abdallah",
+      "id": "hamid-sharif-q1969569",
+      "name": "Hamid Sharif",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112861833"
+    },
+    {
+      "id": "harazim-ahmed-al-mahboub-q1969569",
+      "name": "Harazim Ahmed al-Mahboub",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112861834"
+    },
+    {
+      "id": "ismail-abdallah-q1969569",
       "name": "Ismail Abdallah",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "National Legislature",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q112861836"
     },
     {
-      "id": "omer-suleiman-adam",
+      "id": "mohamed-al-tahir-aseel-q1969569",
+      "name": "Mohamed al-Tahir Aseel",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112861838"
+    },
+    {
+      "id": "mohamed-adam-bahshain-q1969569",
+      "name": "Mohamed Adam Bahshain",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112861837"
+    },
+    {
+      "id": "mubarak-abas-q1969569",
+      "name": "Mubarak Abas",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112861839"
+    },
+    {
+      "id": "mubarak-al-nour-q1969569",
+      "name": "Mubarak al-Nour",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112861840"
+    },
+    {
+      "id": "osama-atta-al-manan-q1969569",
+      "name": "Osama Atta al-Manan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112861842"
+    },
+    {
+      "id": "omer-suleiman-adam-q1969569",
       "name": "Omer Suleiman Adam",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "National Legislature",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q112861841"
+    },
+    {
+      "id": "salah-ahmed-al-nour-q1969569",
+      "name": "Salah Ahmed al-Nour",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112861843"
     }
   ]
 }

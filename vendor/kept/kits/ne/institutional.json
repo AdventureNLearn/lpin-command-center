@@ -1,0 +1,44 @@
+{
+  "iso2": "ne",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q1032",
+  "bodies": [
+    {
+      "qid": "Q21295995",
+      "label": "Member of the National Assembly of Niger",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1969585",
+      "label": "National Assembly",
+      "seats": 171,
+      "web": "http://www.assemblee.ne",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Member of the National Assembly of Niger"
+  ],
+  "seats": 171,
+  "items": [
+    {
+      "id": "Q21295995",
+      "name": "Member of the National Assembly of Niger",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q21295995"
+    },
+    {
+      "id": "Q1969585",
+      "name": "National Assembly",
+      "kind": "parliament",
+      "seats": 171,
+      "url": "http://www.assemblee.ne"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1544714"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1544714",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21328637",
+      "label": "member of the State Great Khural (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21328637",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1544714",
+      "label": "State Great Khural",
+      "url": "https://www.parliament.mn/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1544714",
+      "label": "State Great Khural (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1544714",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

@@ -3,8 +3,53 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q4817650"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q4817650",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q557150",
+      "label": "Federal Council of Austria",
+      "url": "https://parlament.gv.at",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q557150",
+      "label": "Federal Council of Austria (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q557150",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q871363",
+      "label": "National Council of Austria",
+      "url": "https://www.parlament.gv.at/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q871363",
+      "label": "National Council of Austria (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q871363",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q4817650",
+      "label": "Austrian Parliament",
+      "url": "https://www.parlament.gv.at/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q4817650",
+      "label": "Austrian Parliament (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q4817650",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

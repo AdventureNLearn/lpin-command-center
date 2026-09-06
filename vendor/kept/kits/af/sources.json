@@ -3,8 +3,25 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q889"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1194049",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1194049",
+      "label": "House of Elders",
+      "url": "http://mj.parliament.af",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1194049",
+      "label": "House of Elders (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1194049",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

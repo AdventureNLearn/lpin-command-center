@@ -3,8 +3,53 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q122635"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q122635",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q27897650",
+      "label": "Senate of Jamaica",
+      "url": "https://www.japarliament.gov.jm/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q27897650",
+      "label": "Senate of Jamaica (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q27897650",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q20080342",
+      "label": "House of Representatives of Jamaica",
+      "url": "https://www.japarliament.gov.jm/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q20080342",
+      "label": "House of Representatives of Jamaica (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q20080342",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q122635",
+      "label": "Parliament of Jamaica",
+      "url": "http://japarliament.gov.jm",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q122635",
+      "label": "Parliament of Jamaica (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q122635",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

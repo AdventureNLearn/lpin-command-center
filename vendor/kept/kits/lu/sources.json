@@ -3,8 +3,39 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q517449"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q517449",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q517449",
+      "label": "Chamber of Deputies",
+      "url": "https://www.chd.lu/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q517449",
+      "label": "Chamber of Deputies (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q517449",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21328592",
+      "label": "Deputy of the Chamber of Deputies of Luxembourg (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21328592",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q51625452",
+      "label": "President of the Chamber of Deputies (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q51625452",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

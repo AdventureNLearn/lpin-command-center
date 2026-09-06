@@ -3,67 +3,19 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q727851",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 121,
+  "incomplete": true,
+  "claimed_seats": 50,
+  "chambers": [
+    "Member of the National Parliament of the Solomon Islands",
+    "National Parliament of Solomon Islands"
+  ],
   "items": [
     {
-      "id": "danny-philip",
-      "name": "Danny Philip",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "South New Georgia-Rendova-Tetepare",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q561575"
-    },
-    {
-      "id": "steve-abana",
-      "name": "Steve Abana",
-      "sitting": true,
-      "party_id": "democratic-alliance-party",
-      "caucus": "Democratic Alliance Party",
-      "constituency_label": "Fataleka",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q466573"
-    },
-    {
-      "id": "joseph-onika",
-      "name": "Joseph Onika",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "East Central Guadalcanal",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q11728470"
-    },
-    {
-      "id": "snyder-rini",
-      "name": "Snyder Rini",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Marovo",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1370998"
-    },
-    {
-      "id": "dickson-mua",
+      "id": "dickson-mua-q727851",
       "name": "Dickson Mua",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "ownership-unity-and-responsibility-party",
+      "caucus": "Ownership, Unity and Responsibility Party",
       "constituency_label": "Savo-Russells",
       "chamber": "National Parliament of Solomon Islands",
       "lang": [
@@ -72,33 +24,46 @@
       "roster_url": "http://www.wikidata.org/entity/Q2791876"
     },
     {
-      "id": "john-tuhaika",
-      "name": "John Tuhaika",
+      "id": "rick-hou-q727851",
+      "name": "Rick Hou",
       "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "Rennell Bellona",
+      "party_id": "democratic-party",
+      "caucus": "Democratic Party",
+      "constituency_label": "Small Malaita",
       "chamber": "National Parliament of Solomon Islands",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q125916410"
+      "roster_url": "http://www.wikidata.org/entity/Q7331464"
     },
     {
-      "id": "john-garo",
-      "name": "John Garo",
+      "id": "moses-garu-q727851",
+      "name": "Moses Garu",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
+      "party_id": "democratic-party",
+      "caucus": "Democratic Party",
+      "constituency_label": "West Guadalcanal",
       "chamber": "National Parliament of Solomon Islands",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q16017765"
+      "roster_url": "http://www.wikidata.org/entity/Q6915778"
     },
     {
-      "id": "francis-billy-hilly",
+      "id": "peter-shannel-agovaka-q727851",
+      "name": "Peter Shannel Agovaka",
+      "sitting": true,
+      "party_id": "association-of-independent-members",
+      "caucus": "Association of Independent Members",
+      "constituency_label": "Central Guadalcanal",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7176876"
+    },
+    {
+      "id": "francis-billy-hilly-q727851",
       "name": "Francis Billy Hilly",
       "sitting": true,
       "party_id": "unknown",
@@ -111,531 +76,11 @@
       "roster_url": "http://www.wikidata.org/entity/Q1369678"
     },
     {
-      "id": "ezekiel-alebua",
-      "name": "Ezekiel Alebua",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1379708"
-    },
-    {
-      "id": "solomon-mamaloni",
-      "name": "Solomon Mamaloni",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1380230"
-    },
-    {
-      "id": "alfred-ghiro",
-      "name": "Alfred Ghiro",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "East Makira",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4722723"
-    },
-    {
-      "id": "andrew-manepora",
-      "name": "Andrew Manepora",
-      "sitting": true,
-      "party_id": "kadare-party-of-solomon-islands",
-      "caucus": "Kadare Party of Solomon Islands",
-      "constituency_label": "East 'Are'are",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q42544918"
-    },
-    {
-      "id": "tozen-leokana",
-      "name": "Tozen Leokana",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "South Choiseul",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125934827"
-    },
-    {
-      "id": "william-marau",
-      "name": "William Marau",
-      "sitting": true,
-      "party_id": "people-s-alliance-party",
-      "caucus": "People's Alliance Party",
-      "constituency_label": "Ugi-Ulawa",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q59096286"
-    },
-    {
-      "id": "paul-bosawai",
-      "name": "Paul Bosawai",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "North Guadalcanal",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125936065"
-    },
-    {
-      "id": "nestor-ghiro",
-      "name": "Nestor Ghiro",
-      "sitting": true,
-      "party_id": "kadere-party-of-solomon-islands",
-      "caucus": "Kadere Party of Solomon Islands",
-      "constituency_label": "Central Makira",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q42547286"
-    },
-    {
-      "id": "johnson-koli",
-      "name": "Johnson Koli",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16185425"
-    },
-    {
-      "id": "franklyn-wasi",
-      "name": "Franklyn Wasi",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "East Makira",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125947830"
-    },
-    {
-      "id": "simeon-bouro",
-      "name": "Simeon Bouro",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16193020"
-    },
-    {
-      "id": "charles-dausabea",
-      "name": "Charles Dausabea",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16193539"
-    },
-    {
-      "id": "isaac-inoke-tosika",
-      "name": "Isaac Inoke Tosika",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16195831"
-    },
-    {
-      "id": "laurie-chan",
-      "name": "Laurie Chan",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16195943"
-    },
-    {
-      "id": "patrick-vahoe",
-      "name": "Patrick Vahoe",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16213317"
-    },
-    {
-      "id": "john-maneniaru",
-      "name": "John Maneniaru",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "West 'Are'are",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q42651821"
-    },
-    {
-      "id": "nollen-cornelius-leni",
-      "name": "Nollen Cornelius Leni",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16731388"
-    },
-    {
-      "id": "johnley-hatimoana",
-      "name": "Johnley Hatimoana",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Ngella",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16588782"
-    },
-    {
-      "id": "douglas-ete",
-      "name": "Douglas Ete",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "East Honiara",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5301444"
-    },
-    {
-      "id": "bartholomew-parapolo",
-      "name": "Bartholomew Parapolo",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "Nggella",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q42543823"
-    },
-    {
-      "id": "john-dean-kuku",
-      "name": "John Dean Kuku",
-      "sitting": true,
-      "party_id": "kadere-party-of-solomon-islands",
-      "caucus": "Kadere Party of Solomon Islands",
-      "constituency_label": "North New Georgia",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q42652376"
-    },
-    {
-      "id": "andrew-nori",
-      "name": "Andrew Nori",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4758133"
-    },
-    {
-      "id": "augustine-geve",
-      "name": "Augustine Geve",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4821173"
-    },
-    {
-      "id": "augustine-taneko",
-      "name": "Augustine Taneko",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4821217"
-    },
-    {
-      "id": "bernard-ghiro",
-      "name": "Bernard Ghiro",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4893163"
-    },
-    {
-      "id": "dick-ha-amori",
-      "name": "Dick Ha'amori",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "West Makira",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q59126889"
-    },
-    {
-      "id": "walter-folotalu",
-      "name": "Walter Folotalu",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Lau Mbaelelea",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q59126795"
-    },
-    {
-      "id": "connelly-sandakabatu",
-      "name": "Connelly Sandakabatu",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "North West Choiseul",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q59127705"
-    },
-    {
-      "id": "clement-kengava",
-      "name": "Clement Kengava",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5131352"
-    },
-    {
-      "id": "daniel-enele-kwanairara",
-      "name": "Daniel Enele Kwanairara",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5217072"
-    },
-    {
-      "id": "david-sitai",
-      "name": "David Sitai",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5239838"
-    },
-    {
-      "id": "edward-huni-ehu",
-      "name": "Edward Huni'ehu",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5343556"
-    },
-    {
-      "id": "francis-zama",
-      "name": "Francis Zama",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5482905"
-    },
-    {
-      "id": "fred-fono",
-      "name": "Fred Fono",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5495154"
-    },
-    {
-      "id": "vika-lusibaea",
-      "name": "Vika Lusibaea",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "North Malaita",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16731706"
-    },
-    {
-      "id": "hilda-kari",
-      "name": "Hilda Kari",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5761369"
-    },
-    {
-      "id": "derek-sikua",
-      "name": "Derek Sikua",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "North East Guadalcanal",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q379730"
-    },
-    {
-      "id": "trevor-mahaga",
-      "name": "Trevor Mahaga",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "Gao/Bugotu",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125959029"
-    },
-    {
-      "id": "jackson-fiulaua",
-      "name": "Jackson Fiulaua",
-      "sitting": true,
-      "party_id": "united-democratic-party",
-      "caucus": "United Democratic Party",
-      "constituency_label": "Central Kwara'ae",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6117107"
-    },
-    {
-      "id": "polycarp-paea",
-      "name": "Polycarp Paea",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "Malaita Outer Islands",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125948119"
-    },
-    {
-      "id": "elijah-doro-muala",
+      "id": "elijah-doro-muala-q727851",
       "name": "Elijah Doro Muala",
       "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
+      "party_id": "national-party",
+      "caucus": "National Party",
       "constituency_label": "South Choiseul",
       "chamber": "National Parliament of Solomon Islands",
       "lang": [
@@ -644,423 +89,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q5360910"
     },
     {
-      "id": "jimson-tanangada",
-      "name": "Jimson Tanangada",
+      "id": "matthew-wale-q727851",
+      "name": "Matthew Wale",
       "sitting": true,
-      "party_id": "ownership-unity-and-responsibility-party",
-      "caucus": "Ownership, Unity and Responsibility Party",
-      "constituency_label": "Gizo/Kolombangara",
+      "party_id": "democratic-party",
+      "caucus": "Democratic Party",
+      "constituency_label": "Aoke-Langalanga",
       "chamber": "National Parliament of Solomon Islands",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q59096666"
+      "roster_url": "http://www.wikidata.org/entity/Q6791373"
     },
     {
-      "id": "bradley-tovosia",
-      "name": "Bradley Tovosia",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "East Guadalcanal",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4954443"
-    },
-    {
-      "id": "augustine-auga",
-      "name": "Augustine Auga",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "Lau Mbaelelea",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q59096569"
-    },
-    {
-      "id": "culwick-togamana",
-      "name": "Culwick Togamana",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "Maringe-Kokota",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q59096690"
-    },
-    {
-      "id": "derrick-manuari",
-      "name": "Derrick Manuari",
-      "sitting": true,
-      "party_id": "solomon-islands-people-first-party",
-      "caucus": "Solomon Islands People First Party",
-      "constituency_label": "West Makira",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q59096264"
-    },
-    {
-      "id": "bodo-dettke",
-      "name": "Bodo Dettke",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "North West Guadalcanal",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4936699"
-    },
-    {
-      "id": "christopher-laore",
-      "name": "Christopher Laore",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Shortlands",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5112700"
-    },
-    {
-      "id": "ishmael-avui",
-      "name": "Ishmael Avui",
-      "sitting": true,
-      "party_id": "united-democratic-party",
-      "caucus": "United Democratic Party",
-      "constituency_label": "East Central Guadalcanal",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q59096046"
-    },
-    {
-      "id": "milner-tozaka",
-      "name": "Milner Tozaka",
-      "sitting": true,
-      "party_id": "people-s-alliance-party",
-      "caucus": "People's Alliance Party",
-      "constituency_label": "North Vella La Vella",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3314404"
-    },
-    {
-      "id": "frederick-kologeto",
-      "name": "Frederick Kologeto",
-      "sitting": true,
-      "party_id": "people-first-party",
-      "caucus": "People First Party",
-      "constituency_label": "South Vella La Vella",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q109910738"
-    },
-    {
-      "id": "dr-tautai-agikimu-a-kaitu-u",
-      "name": "Dr. Tautai Agikimu'a Kaitu'u",
-      "sitting": true,
-      "party_id": "united-democratic-party",
-      "caucus": "United Democratic Party",
-      "constituency_label": "Rennell Bellona",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q22005720"
-    },
-    {
-      "id": "lanelle-tanangada",
-      "name": "Lanelle Tanangada",
-      "sitting": true,
-      "party_id": "kadere-party-of-solomon-islands",
-      "caucus": "Kadere Party of Solomon Islands",
-      "constituency_label": "Gizo/Kolombangara",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q59125182"
-    },
-    {
-      "id": "choylin-yim-douglas",
-      "name": "Choylin Yim Douglas",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "Ngella",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125868455"
-    },
-    {
-      "id": "dudley-kopu",
-      "name": "Dudley Kopu",
-      "sitting": true,
-      "party_id": "united-democratic-party",
-      "caucus": "United Democratic Party",
-      "constituency_label": "Temotu Pele",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q59096136"
-    },
-    {
-      "id": "samson-maneka",
-      "name": "Samson Maneka",
-      "sitting": true,
-      "party_id": "united-democratic-party",
-      "caucus": "United Democratic Party",
-      "constituency_label": "North Guadalcanal",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q59096172"
-    },
-    {
-      "id": "jaimie-vokia",
-      "name": "Jaimie Vokia",
-      "sitting": true,
-      "party_id": "kadere-party-of-solomon-islands",
-      "caucus": "Kadere Party of Solomon Islands",
-      "constituency_label": "North East Guadalcanal",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q111397608"
-    },
-    {
-      "id": "james-tora",
-      "name": "James Tora",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Ugi-Ulawa",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6144355"
-    },
-    {
-      "id": "david-tome",
-      "name": "David Tome",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Baegu/Asifola",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5240457"
-    },
-    {
-      "id": "manasseh-sogavare",
-      "name": "Manasseh Sogavare",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "East Choiseul",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q536063"
-    },
-    {
-      "id": "clay-forau-soalaoi",
-      "name": "Clay Forau Soalaoi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Temotu Vatud",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5129896"
-    },
-    {
-      "id": "commins-mewa",
-      "name": "Commins Mewa",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Temotu Nende",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5152607"
-    },
-    {
-      "id": "wayne-ghemu",
-      "name": "Wayne Ghemu",
-      "sitting": true,
-      "party_id": "people-first-party",
-      "caucus": "People First Party",
-      "constituency_label": "Rannogga-Simbo",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125996614"
-    },
-    {
-      "id": "david-pacha",
-      "name": "David Pacha",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "South Guadalcanal",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5238339"
-    },
-    {
-      "id": "william-haomae",
-      "name": "William Haomae",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q58229"
-    },
-    {
-      "id": "ethel-lency-vokia",
-      "name": "Ethel Lency Vokia",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q109236470"
-    },
-    {
-      "id": "lillian-maefai",
-      "name": "Lillian Maefai",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q109255270"
-    },
-    {
-      "id": "isikeli-vave",
-      "name": "Isikeli Vave",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "Shortlands",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125915118"
-    },
-    {
-      "id": "connelly-sadakabatu",
-      "name": "Connelly Sadakabatu",
-      "sitting": true,
-      "party_id": "democratic-alliance-party",
-      "caucus": "Democratic Alliance Party",
-      "constituency_label": "North West Choiseul",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16751224"
-    },
-    {
-      "id": "charles-sigoto",
-      "name": "Charles Sigoto",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Rannogga-Simbo",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q948060"
-    },
-    {
-      "id": "stanley-festus-sofu",
-      "name": "Stanley Festus Sofu",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "East Kwaio",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7599597"
-    },
-    {
-      "id": "sam-iduri",
-      "name": "Sam Iduri",
-      "sitting": true,
-      "party_id": "united-democratic-party",
-      "caucus": "United Democratic Party",
-      "constituency_label": "West Kwara'ae",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7407679"
-    },
-    {
-      "id": "moses-garu",
-      "name": "Moses Garu",
-      "sitting": true,
-      "party_id": "kadere-party-of-solomon-islands",
-      "caucus": "Kadere Party of Solomon Islands",
-      "constituency_label": "West Guadalcanal",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6915778"
-    },
-    {
-      "id": "lionel-alex",
+      "id": "lionel-alex-q727851",
       "name": "Lionel Alex",
       "sitting": true,
       "party_id": "unknown",
@@ -1073,20 +115,98 @@
       "roster_url": "http://www.wikidata.org/entity/Q6555508"
     },
     {
-      "id": "matthew-wale",
-      "name": "Matthew Wale",
+      "id": "bartholomew-ulufa-alu-q727851",
+      "name": "Bartholomew Ulufa'alu",
       "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "Aoke-Langalanga",
+      "party_id": "solomon-islands-liberal-party",
+      "caucus": "Solomon Islands Liberal Party",
+      "constituency_label": "",
       "chamber": "National Parliament of Solomon Islands",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q6791373"
+      "roster_url": "http://www.wikidata.org/entity/Q809332"
     },
     {
-      "id": "manasseh-maelanga",
+      "id": "ezekiel-alebua-q727851",
+      "name": "Ezekiel Alebua",
+      "sitting": true,
+      "party_id": "solomon-islands-united-party",
+      "caucus": "Solomon Islands United Party",
+      "constituency_label": "",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1379708"
+    },
+    {
+      "id": "danny-philip-q727851",
+      "name": "Danny Philip",
+      "sitting": true,
+      "party_id": "reform-democratic-party",
+      "caucus": "Reform Democratic Party",
+      "constituency_label": "South New Georgia-Rendova-Tetepare",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q561575"
+    },
+    {
+      "id": "andrew-nori-q727851",
+      "name": "Andrew Nori",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4758133"
+    },
+    {
+      "id": "augustine-geve-q727851",
+      "name": "Augustine Geve",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4821173"
+    },
+    {
+      "id": "augustine-taneko-q727851",
+      "name": "Augustine Taneko",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4821217"
+    },
+    {
+      "id": "bernard-ghiro-q727851",
+      "name": "Bernard Ghiro",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4893163"
+    },
+    {
+      "id": "manasseh-maelanga-q727851",
       "name": "Manasseh Maelanga",
       "sitting": true,
       "party_id": "unknown",
@@ -1099,8 +219,8 @@
       "roster_url": "http://www.wikidata.org/entity/Q6747030"
     },
     {
-      "id": "allan-kemakeza",
-      "name": "Allan Kemakeza",
+      "id": "clement-kengava-q727851",
+      "name": "Clement Kengava",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -1109,10 +229,62 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q654672"
+      "roster_url": "http://www.wikidata.org/entity/Q5131352"
     },
     {
-      "id": "nathaniel-waena",
+      "id": "daniel-enele-kwanairara-q727851",
+      "name": "Daniel Enele Kwanairara",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5217072"
+    },
+    {
+      "id": "david-sitai-q727851",
+      "name": "David Sitai",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5239838"
+    },
+    {
+      "id": "edward-huni-ehu-q727851",
+      "name": "Edward Huni'ehu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5343556"
+    },
+    {
+      "id": "francis-zama-q727851",
+      "name": "Francis Zama",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5482905"
+    },
+    {
+      "id": "nathaniel-waena-q727851",
       "name": "Nathaniel Waena",
       "sitting": true,
       "party_id": "unknown",
@@ -1125,20 +297,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q704017"
     },
     {
-      "id": "jeremiah-manele",
-      "name": "Jeremiah Manele",
-      "sitting": true,
-      "party_id": "democratic-alliance-party",
-      "caucus": "Democratic Alliance Party",
-      "constituency_label": "Hograno-Kia-Havulei",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6180897"
-    },
-    {
-      "id": "japhet-waipora",
+      "id": "japhet-waipora-q727851",
       "name": "Japhet Waipora",
       "sitting": true,
       "party_id": "unknown",
@@ -1151,7 +310,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q6159299"
     },
     {
-      "id": "jonathan-fiifii-i",
+      "id": "hilda-kari-q727851",
+      "name": "Hilda Kari",
+      "sitting": true,
+      "party_id": "ownership-unity-and-responsibility-party",
+      "caucus": "Ownership, Unity and Responsibility Party",
+      "constituency_label": "",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5761369"
+    },
+    {
+      "id": "jonathan-fiifii-i-q727851",
       "name": "Jonathan Fiifii'i",
       "sitting": true,
       "party_id": "unknown",
@@ -1164,20 +336,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q6273102"
     },
     {
-      "id": "joses-tuhanuku",
-      "name": "Joses Tuhanuku",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6288525"
-    },
-    {
-      "id": "baddeley-devesi",
+      "id": "baddeley-devesi-q727851",
       "name": "Baddeley Devesi",
       "sitting": true,
       "party_id": "unknown",
@@ -1190,7 +349,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q798849"
     },
     {
-      "id": "leslie-boseto",
+      "id": "leslie-boseto-q727851",
       "name": "Leslie Boseto",
       "sitting": true,
       "party_id": "unknown",
@@ -1203,33 +362,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q6530656"
     },
     {
-      "id": "bartholomew-ulufa-alu",
-      "name": "Bartholomew Ulufa'alu",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q809332"
-    },
-    {
-      "id": "silas-tausinga",
-      "name": "Silas Tausinga",
-      "sitting": true,
-      "party_id": "solomon-islands-party-for-rural-advancement",
-      "caucus": "Solomon Islands Party for Rural Advancement",
-      "constituency_label": "West New Georgia - Vona Vona",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q9336876"
-    },
-    {
-      "id": "mark-kemakeza",
+      "id": "mark-kemakeza-q727851",
       "name": "Mark Kemakeza",
       "sitting": true,
       "party_id": "unknown",
@@ -1242,7 +375,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q6768346"
     },
     {
-      "id": "milna-tozaka",
+      "id": "milna-tozaka-q727851",
       "name": "Milna Tozaka",
       "sitting": true,
       "party_id": "unknown",
@@ -1255,7 +388,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q6860185"
     },
     {
-      "id": "nelson-ne-e",
+      "id": "nelson-ne-e-q727851",
       "name": "Nelson Ne'e",
       "sitting": true,
       "party_id": "unknown",
@@ -1268,20 +401,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q6990664"
     },
     {
-      "id": "patteson-oti",
-      "name": "Patteson Oti",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7148496"
-    },
-    {
-      "id": "paul-tovua",
+      "id": "paul-tovua-q727851",
       "name": "Paul Tovua",
       "sitting": true,
       "party_id": "unknown",
@@ -1294,7 +414,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q7154057"
     },
     {
-      "id": "peter-boyers",
+      "id": "peter-boyers-q727851",
       "name": "Peter Boyers",
       "sitting": true,
       "party_id": "unknown",
@@ -1307,7 +427,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q7172912"
     },
     {
-      "id": "siriako-usa",
+      "id": "steve-abana-q727851",
+      "name": "Steve Abana",
+      "sitting": true,
+      "party_id": "democratic-party",
+      "caucus": "Democratic Party",
+      "constituency_label": "Fataleka",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q466573"
+    },
+    {
+      "id": "gordon-darcy-lilo-q727851",
+      "name": "Gordon Darcy Lilo",
+      "sitting": true,
+      "party_id": "national-coalition-for-reform-and-advancement",
+      "caucus": "National Coalition for Reform and Advancement",
+      "constituency_label": "Gizo/Kolombangara",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q939825"
+    },
+    {
+      "id": "siriako-usa-q727851",
       "name": "Siriako Usa",
       "sitting": true,
       "party_id": "unknown",
@@ -1320,72 +466,59 @@
       "roster_url": "http://www.wikidata.org/entity/Q7530250"
     },
     {
-      "id": "stanley-sofu",
-      "name": "Stanley Sofu",
+      "id": "derek-sikua-q727851",
+      "name": "Derek Sikua",
+      "sitting": true,
+      "party_id": "solomon-islands-liberal-party",
+      "caucus": "Solomon Islands Liberal Party",
+      "constituency_label": "North East Guadalcanal",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q379730"
+    },
+    {
+      "id": "clay-forau-soalaoi-q727851",
+      "name": "Clay Forau Soalaoi",
+      "sitting": true,
+      "party_id": "solomon-islands-social-credit-party",
+      "caucus": "Solomon Islands Social Credit Party",
+      "constituency_label": "Temotu Vatud",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5129896"
+    },
+    {
+      "id": "bradley-tovosia-q727851",
+      "name": "Bradley Tovosia",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
-      "constituency_label": "",
+      "constituency_label": "East Guadalcanal",
       "chamber": "National Parliament of Solomon Islands",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q7599959"
+      "roster_url": "http://www.wikidata.org/entity/Q4954443"
     },
     {
-      "id": "steve-laore",
-      "name": "Steve Laore",
+      "id": "douglas-ete-q727851",
+      "name": "Douglas Ete",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
+      "party_id": "reform-democratic-party",
+      "caucus": "Reform Democratic Party",
+      "constituency_label": "East Honiara",
       "chamber": "National Parliament of Solomon Islands",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q7613104"
+      "roster_url": "http://www.wikidata.org/entity/Q5301444"
     },
     {
-      "id": "toswel-kaua",
-      "name": "Toswel Kaua",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7827907"
-    },
-    {
-      "id": "trevor-olavae",
-      "name": "Trevor Olavae",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7839359"
-    },
-    {
-      "id": "jimmy-lusibaea",
-      "name": "Jimmy Lusibaea",
-      "sitting": true,
-      "party_id": "people-s-alliance-party",
-      "caucus": "People's Alliance Party",
-      "constituency_label": "North Malaita",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6200666"
-    },
-    {
-      "id": "martin-magga",
+      "id": "martin-magga-q727851",
       "name": "Martin Magga",
       "sitting": true,
       "party_id": "unknown",
@@ -1398,7 +531,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q6776112"
     },
     {
-      "id": "martin-sopage",
+      "id": "martin-sopage-q727851",
       "name": "Martin Sopage",
       "sitting": true,
       "party_id": "unknown",
@@ -1411,11 +544,115 @@
       "roster_url": "http://www.wikidata.org/entity/Q6776633"
     },
     {
-      "id": "namson-tran",
+      "id": "snyder-rini-q727851",
+      "name": "Snyder Rini",
+      "sitting": true,
+      "party_id": "association-of-independent-members",
+      "caucus": "Association of Independent Members",
+      "constituency_label": "Marovo",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1370998"
+    },
+    {
+      "id": "bodo-dettke-q727851",
+      "name": "Bodo Dettke",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "North West Guadalcanal",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4936699"
+    },
+    {
+      "id": "christopher-laore-q727851",
+      "name": "Christopher Laore",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Shortlands",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5112700"
+    },
+    {
+      "id": "patteson-oti-q727851",
+      "name": "Patteson Oti",
+      "sitting": true,
+      "party_id": "national-party",
+      "caucus": "National Party",
+      "constituency_label": "",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7148496"
+    },
+    {
+      "id": "alfred-ghiro-q727851",
+      "name": "Alfred Ghiro",
+      "sitting": true,
+      "party_id": "democratic-party",
+      "caucus": "Democratic Party",
+      "constituency_label": "East Makira",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4722723"
+    },
+    {
+      "id": "joses-tuhanuku-q727851",
+      "name": "Joses Tuhanuku",
+      "sitting": true,
+      "party_id": "solomon-islands-labour-party",
+      "caucus": "Solomon Islands Labour Party",
+      "constituency_label": "",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6288525"
+    },
+    {
+      "id": "jackson-fiulaua-q727851",
+      "name": "Jackson Fiulaua",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Central Kwara'ae",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6117107"
+    },
+    {
+      "id": "charles-sigoto-q727851",
+      "name": "Charles Sigoto",
+      "sitting": true,
+      "party_id": "reform-democratic-party",
+      "caucus": "Reform Democratic Party",
+      "constituency_label": "Rannogga-Simbo",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q948060"
+    },
+    {
+      "id": "namson-tran-q727851",
       "name": "Namson Tran",
       "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
+      "party_id": "unknown",
+      "caucus": "",
       "constituency_label": "West Honiara",
       "chamber": "National Parliament of Solomon Islands",
       "lang": [
@@ -1424,72 +661,85 @@
       "roster_url": "http://www.wikidata.org/entity/Q6962085"
     },
     {
-      "id": "martin-kealoe",
-      "name": "Martin Kealoe",
-      "sitting": true,
-      "party_id": "kadere-party-of-solomon-islands",
-      "caucus": "Kadere Party of Solomon Islands",
-      "constituency_label": "Malaita Outer Islands",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q9300983"
-    },
-    {
-      "id": "varian-lonamei",
-      "name": "Varian Lonamei",
+      "id": "david-tome-q727851",
+      "name": "David Tome",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
-      "constituency_label": "Maringe-Kokota",
+      "constituency_label": "Baegu/Asifola",
       "chamber": "National Parliament of Solomon Islands",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q7915752"
+      "roster_url": "http://www.wikidata.org/entity/Q5240457"
     },
     {
-      "id": "hypolite-taremae",
-      "name": "Hypolite Taremae",
+      "id": "manasseh-sogavare-q727851",
+      "name": "Manasseh Sogavare",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
-      "constituency_label": "Central Makira",
+      "constituency_label": "East Choiseul",
       "chamber": "National Parliament of Solomon Islands",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q9295534"
+      "roster_url": "http://www.wikidata.org/entity/Q536063"
     },
     {
-      "id": "peter-shannel-agovaka",
-      "name": "Peter Shannel Agovaka",
+      "id": "jeremiah-manele-q727851",
+      "name": "Jeremiah Manele",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
-      "constituency_label": "Central Guadalcanal",
+      "constituency_label": "Hograno-Kia-Havulei",
       "chamber": "National Parliament of Solomon Islands",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q7176876"
+      "roster_url": "http://www.wikidata.org/entity/Q6180897"
     },
     {
-      "id": "rick-hou",
-      "name": "Rick Hou",
+      "id": "john-moffat-fugui-q727851",
+      "name": "John Moffat Fugui",
       "sitting": true,
-      "party_id": "democratic-alliance-party",
-      "caucus": "Democratic Alliance Party",
-      "constituency_label": "Small Malaita",
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Central Honiara",
       "chamber": "National Parliament of Solomon Islands",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q7331464"
+      "roster_url": "http://www.wikidata.org/entity/Q6249053"
     },
     {
-      "id": "peter-tom",
+      "id": "allan-kemakeza-q727851",
+      "name": "Allan Kemakeza",
+      "sitting": true,
+      "party_id": "people-s-alliance-party",
+      "caucus": "People's Alliance Party",
+      "constituency_label": "",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q654672"
+    },
+    {
+      "id": "jimmy-lusibaea-q727851",
+      "name": "Jimmy Lusibaea",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "North Malaita",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6200666"
+    },
+    {
+      "id": "peter-tom-q727851",
       "name": "Peter Tom",
       "sitting": true,
       "party_id": "unknown",
@@ -1502,7 +752,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q7177338"
     },
     {
-      "id": "job-tausinga",
+      "id": "commins-mewa-q727851",
+      "name": "Commins Mewa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Temotu Nende",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5152607"
+    },
+    {
+      "id": "job-tausinga-q727851",
       "name": "Job Tausinga",
       "sitting": true,
       "party_id": "unknown",
@@ -1515,8 +778,34 @@
       "roster_url": "http://www.wikidata.org/entity/Q6206696"
     },
     {
-      "id": "peter-kenilorea-jr",
-      "name": "Peter Kenilorea Jr.",
+      "id": "stanley-festus-sofu-q727851",
+      "name": "Stanley Festus Sofu",
+      "sitting": true,
+      "party_id": "democratic-party",
+      "caucus": "Democratic Party",
+      "constituency_label": "East Kwaio",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7599597"
+    },
+    {
+      "id": "sam-iduri-q727851",
+      "name": "Sam Iduri",
+      "sitting": true,
+      "party_id": "democratic-party",
+      "caucus": "Democratic Party",
+      "constituency_label": "West Kwara'ae",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7407679"
+    },
+    {
+      "id": "william-haomae-q727851",
+      "name": "William Haomae",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -1525,14 +814,79 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q68229731"
+      "roster_url": "http://www.wikidata.org/entity/Q58229"
     },
     {
-      "id": "samuel-manetoali",
-      "name": "Samuel Manetoali",
+      "id": "david-pacha-q727851",
+      "name": "David Pacha",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
+      "constituency_label": "South Guadalcanal",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5238339"
+    },
+    {
+      "id": "milner-tozaka-q727851",
+      "name": "Milner Tozaka",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "North Vella La Vella",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3314404"
+    },
+    {
+      "id": "fred-fono-q727851",
+      "name": "Fred Fono",
+      "sitting": true,
+      "party_id": "people-s-alliance-party",
+      "caucus": "People's Alliance Party",
+      "constituency_label": "",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5495154"
+    },
+    {
+      "id": "solomon-mamaloni-q727851",
+      "name": "Solomon Mamaloni",
+      "sitting": true,
+      "party_id": "people-s-progressive-party",
+      "caucus": "People's Progressive Party",
+      "constituency_label": "",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1380230"
+    },
+    {
+      "id": "james-tora-q727851",
+      "name": "James Tora",
+      "sitting": true,
+      "party_id": "democratic-party",
+      "caucus": "Democratic Party",
+      "constituency_label": "Ugi-Ulawa",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6144355"
+    },
+    {
+      "id": "samuel-manetoali-q727851",
+      "name": "Samuel Manetoali",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
       "constituency_label": "Gao/Bugotu",
       "chamber": "National Parliament of Solomon Islands",
       "lang": [
@@ -1541,20 +895,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q7412100"
     },
     {
-      "id": "gordon-darcy-lilo",
-      "name": "Gordon Darcy Lilo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Gizo/Kolombangara",
-      "chamber": "National Parliament of Solomon Islands",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q939825"
-    },
-    {
-      "id": "selwyn-riumana",
+      "id": "selwyn-riumana-q727851",
       "name": "Selwyn Riumana",
       "sitting": true,
       "party_id": "unknown",
@@ -1567,7 +908,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q7448942"
     },
     {
-      "id": "seth-gukuna",
+      "id": "seth-gukuna-q727851",
       "name": "Seth Gukuna",
       "sitting": true,
       "party_id": "unknown",
@@ -1578,6 +919,695 @@
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q7456493"
+    },
+    {
+      "id": "culwick-togamana-q727851",
+      "name": "Culwick Togamana",
+      "sitting": true,
+      "party_id": "democratic-alliance-party",
+      "caucus": "Democratic Alliance Party",
+      "constituency_label": "Maringe-Kokota",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q59096690"
+    },
+    {
+      "id": "joseph-onika-q727851",
+      "name": "Joseph Onika",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "East Central Guadalcanal",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q11728470"
+    },
+    {
+      "id": "vika-lusibaea-q727851",
+      "name": "Vika Lusibaea",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "North Malaita",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16731706"
+    },
+    {
+      "id": "laurie-chan-q727851",
+      "name": "Laurie Chan",
+      "sitting": true,
+      "party_id": "association-of-independent-members",
+      "caucus": "Association of Independent Members",
+      "constituency_label": "",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16195943"
+    },
+    {
+      "id": "john-garo-q727851",
+      "name": "John Garo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16017765"
+    },
+    {
+      "id": "isikeli-vave-q727851",
+      "name": "Isikeli Vave",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Shortlands",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125915118"
+    },
+    {
+      "id": "ishmael-avui-q727851",
+      "name": "Ishmael Avui",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "East Central Guadalcanal",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q59096046"
+    },
+    {
+      "id": "jimson-tanangada-q727851",
+      "name": "Jimson Tanangada",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Gizo/Kolombangara",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q59096666"
+    },
+    {
+      "id": "nestor-ghiro-q727851",
+      "name": "Nestor Ghiro",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "Central Makira",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q42547286"
+    },
+    {
+      "id": "frederick-kologeto-q727851",
+      "name": "Frederick Kologeto",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "South Vella La Vella",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109910738"
+    },
+    {
+      "id": "johnson-koli-q727851",
+      "name": "Johnson Koli",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16185425"
+    },
+    {
+      "id": "simeon-bouro-q727851",
+      "name": "Simeon Bouro",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16193020"
+    },
+    {
+      "id": "charles-dausabea-q727851",
+      "name": "Charles Dausabea",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16193539"
+    },
+    {
+      "id": "isaac-inoke-tosika-q727851",
+      "name": "Isaac Inoke Tosika",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16195831"
+    },
+    {
+      "id": "patrick-vahoe-q727851",
+      "name": "Patrick Vahoe",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16213317"
+    },
+    {
+      "id": "nollen-cornelius-leni-q727851",
+      "name": "Nollen Cornelius Leni",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16731388"
+    },
+    {
+      "id": "freda-soria-comua-q727851",
+      "name": "Freda Soria Comua",
+      "sitting": true,
+      "party_id": "people-s-alliance-party",
+      "caucus": "People's Alliance Party",
+      "constituency_label": "Temotu Vatud",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q42559064"
+    },
+    {
+      "id": "johnley-hatimoana-q727851",
+      "name": "Johnley Hatimoana",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Ngella",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16588782"
+    },
+    {
+      "id": "dudley-kopu-q727851",
+      "name": "Dudley Kopu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Temotu Pele",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q59096136"
+    },
+    {
+      "id": "derrick-manuari-q727851",
+      "name": "Derrick Manuari",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "West Makira",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q59096264"
+    },
+    {
+      "id": "william-marau-q727851",
+      "name": "William Marau",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Ugi-Ulawa",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q59096286"
+    },
+    {
+      "id": "augustine-auga-q727851",
+      "name": "Augustine Auga",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Lau Mbaelelea",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q59096569"
+    },
+    {
+      "id": "connelly-sadakabatu-q727851",
+      "name": "Connelly Sadakabatu",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "North West Choiseul",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16751224"
+    },
+    {
+      "id": "dick-ha-amori-q727851",
+      "name": "Dick Ha'amori",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "West Makira",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q59126889"
+    },
+    {
+      "id": "walter-folotalu-q727851",
+      "name": "Walter Folotalu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Lau Mbaelelea",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q59126795"
+    },
+    {
+      "id": "connelly-sandakabatu-q727851",
+      "name": "Connelly Sandakabatu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "North West Choiseul",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q59127705"
+    },
+    {
+      "id": "ethel-lency-vokia-q727851",
+      "name": "Ethel Lency Vokia",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109236470"
+    },
+    {
+      "id": "andrew-manepora-q727851",
+      "name": "Andrew Manepora",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "East 'Are'are",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q42544918"
+    },
+    {
+      "id": "silas-tausinga-q727851",
+      "name": "Silas Tausinga",
+      "sitting": true,
+      "party_id": "solomon-islands-party-for-rural-advancement",
+      "caucus": "Solomon Islands Party for Rural Advancement",
+      "constituency_label": "West New Georgia - Vona Vona",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q9336876"
+    },
+    {
+      "id": "dr-tautai-agikimu-a-kaitu-u-q727851",
+      "name": "Dr. Tautai Agikimu'a Kaitu'u",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "Rennell Bellona",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q22005720"
+    },
+    {
+      "id": "choylin-yim-douglas-q727851",
+      "name": "Choylin Yim Douglas",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Ngella",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125868455"
+    },
+    {
+      "id": "john-tuhaika-q727851",
+      "name": "John Tuhaika",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Rennell Bellona",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125916410"
+    },
+    {
+      "id": "steve-laore-q727851",
+      "name": "Steve Laore",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7613104"
+    },
+    {
+      "id": "trevor-olavae-q727851",
+      "name": "Trevor Olavae",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7839359"
+    },
+    {
+      "id": "bartholomew-parapolo-q727851",
+      "name": "Bartholomew Parapolo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Nggella",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q42543823"
+    },
+    {
+      "id": "john-maneniaru-q727851",
+      "name": "John Maneniaru",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "West 'Are'are",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q42651821"
+    },
+    {
+      "id": "john-dean-kuku-q727851",
+      "name": "John Dean Kuku",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "North New Georgia",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q42652376"
+    },
+    {
+      "id": "toswel-kaua-q727851",
+      "name": "Toswel Kaua",
+      "sitting": true,
+      "party_id": "solomon-islands-party-for-rural-advancement",
+      "caucus": "Solomon Islands Party for Rural Advancement",
+      "constituency_label": "",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7827907"
+    },
+    {
+      "id": "lanelle-tanangada-q727851",
+      "name": "Lanelle Tanangada",
+      "sitting": true,
+      "party_id": "kadere-party-of-solomon-islands",
+      "caucus": "Kadere Party of Solomon Islands",
+      "constituency_label": "Gizo/Kolombangara",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q59125182"
+    },
+    {
+      "id": "varian-lonamei-q727851",
+      "name": "Varian Lonamei",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Maringe-Kokota",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7915752"
+    },
+    {
+      "id": "hypolite-taremae-q727851",
+      "name": "Hypolite Taremae",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Central Makira",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q9295534"
+    },
+    {
+      "id": "martin-kealoe-q727851",
+      "name": "Martin Kealoe",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Malaita Outer Islands",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q9300983"
+    },
+    {
+      "id": "peter-kenilorea-jr-q727851",
+      "name": "Peter Kenilorea Jr.",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q68229731"
+    },
+    {
+      "id": "lillian-maefai-q727851",
+      "name": "Lillian Maefai",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109255270"
+    },
+    {
+      "id": "stanley-sofu-q727851",
+      "name": "Stanley Sofu",
+      "sitting": true,
+      "party_id": "democratic-party",
+      "caucus": "Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7599959"
+    },
+    {
+      "id": "jaimie-vokia-q727851",
+      "name": "Jaimie Vokia",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "North East Guadalcanal",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q111397608"
+    },
+    {
+      "id": "franklyn-wasi-q727851",
+      "name": "Franklyn Wasi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "East Makira",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125947830"
+    },
+    {
+      "id": "samson-maneka-q727851",
+      "name": "Samson Maneka",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "North Guadalcanal",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q59096172"
+    },
+    {
+      "id": "trevor-mahaga-q727851",
+      "name": "Trevor Mahaga",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Gao/Bugotu",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125959029"
+    },
+    {
+      "id": "tozen-leokana-q727851",
+      "name": "Tozen Leokana",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "South Choiseul",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125934827"
+    },
+    {
+      "id": "paul-bosawai-q727851",
+      "name": "Paul Bosawai",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "North Guadalcanal",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125936065"
+    },
+    {
+      "id": "polycarp-paea-q727851",
+      "name": "Polycarp Paea",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Malaita Outer Islands",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125948119"
+    },
+    {
+      "id": "wayne-ghemu-q727851",
+      "name": "Wayne Ghemu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Rannogga-Simbo",
+      "chamber": "National Parliament of Solomon Islands",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125996614"
     }
   ]
 }

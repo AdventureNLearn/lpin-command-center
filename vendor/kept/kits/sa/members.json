@@ -3,11 +3,67 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q62399316",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 1,
+  "incomplete": true,
+  "claimed_seats": 5,
+  "chambers": [
+    "Government of Saudi Arabia",
+    "Ministry of Defense Saudi Arabia"
+  ],
   "items": [
     {
-      "id": "abdullrahman-al-sulaim",
+      "id": "fahad-al-sulaim-q62399316",
+      "name": "Fahad Al Sulaim",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Government of Saudi Arabia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q88976897"
+    },
+    {
+      "id": "khalid-bin-abdul-aziz-al-muqrin-q62399316",
+      "name": "Khalid bin Abdul Aziz Al Muqrin",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "Government of Saudi Arabia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q43033267"
+    },
+    {
+      "id": "abdullah-bin-bandar-bin-abdulaziz-al-saud-q62399316",
+      "name": "Abdullah bin Bandar bin Abdulaziz Al Saud",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Government of Saudi Arabia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60195440"
+    },
+    {
+      "id": "abdullah-of-saudi-arabia-q62399316",
+      "name": "Abdullah of Saudi Arabia",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Government of Saudi Arabia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57298"
+    },
+    {
+      "id": "abdullrahman-al-sulaim-q62399316",
       "name": "Abdullrahman Al Sulaim",
       "sitting": true,
       "party_id": "unknown",

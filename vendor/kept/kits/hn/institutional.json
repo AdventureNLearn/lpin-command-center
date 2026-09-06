@@ -1,6 +1,44 @@
 {
   "iso2": "hn",
   "kit": "institutional",
-  "items": [],
-  "incomplete": true
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q783",
+  "bodies": [
+    {
+      "qid": "Q1415847",
+      "label": "National Congress of Honduras",
+      "seats": 128,
+      "web": "http://www.congresonacional.hn/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q19300340",
+      "label": "Member of the Honduran Congress",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Member of the Honduran Congress"
+  ],
+  "seats": 128,
+  "items": [
+    {
+      "id": "Q1415847",
+      "name": "National Congress of Honduras",
+      "kind": "parliament",
+      "seats": 128,
+      "url": "http://www.congresonacional.hn/"
+    },
+    {
+      "id": "Q19300340",
+      "name": "Member of the Honduran Congress",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q19300340"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

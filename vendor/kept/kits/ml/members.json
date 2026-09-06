@@ -3,11 +3,41 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1138071",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 12,
+  "incomplete": true,
+  "claimed_seats": 147,
+  "chambers": [
+    "Member of the National Assembly of Mali",
+    "National Assembly"
+  ],
   "items": [
     {
-      "id": "belco-bah",
+      "id": "ibrahim-boubacar-keita-q1138071",
+      "name": "Ibrahim Boubacar Keïta",
+      "sitting": true,
+      "party_id": "alliance-for-democracy-in-mali",
+      "caucus": "Alliance for Democracy in Mali",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q324108"
+    },
+    {
+      "id": "younoussi-toure-q1138071",
+      "name": "Younoussi Touré",
+      "sitting": true,
+      "party_id": "alliance-for-democracy-in-mali",
+      "caucus": "Alliance for Democracy in Mali",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1362358"
+    },
+    {
+      "id": "belco-bah-q1138071",
       "name": "Belco Bah",
       "sitting": true,
       "party_id": "unknown",
@@ -20,24 +50,24 @@
       "roster_url": "http://www.wikidata.org/entity/Q91621670"
     },
     {
-      "id": "younoussi-toure",
-      "name": "Younoussi Touré",
+      "id": "moussa-timbine-q1138071",
+      "name": "Moussa Timbiné",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "rally-for-mali",
+      "caucus": "Rally for Mali",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q1362358"
+      "roster_url": "http://www.wikidata.org/entity/Q95114007"
     },
     {
-      "id": "demba-traore",
+      "id": "demba-traore-q1138071",
       "name": "Demba Traoré",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "transnational-radical-party",
+      "caucus": "Transnational Radical Party",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
@@ -46,8 +76,8 @@
       "roster_url": "http://www.wikidata.org/entity/Q549064"
     },
     {
-      "id": "dioncounda-traore",
-      "name": "Dioncounda Traoré",
+      "id": "aliou-boubacar-diallo-q1138071",
+      "name": "Aliou Boubacar Diallo",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -56,10 +86,10 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q372780"
+      "roster_url": "http://www.wikidata.org/entity/Q2837082"
     },
     {
-      "id": "housseini-amion-guindo",
+      "id": "housseini-amion-guindo-q1138071",
       "name": "Housseini Amion Guindo",
       "sitting": true,
       "party_id": "unknown",
@@ -72,8 +102,21 @@
       "roster_url": "http://www.wikidata.org/entity/Q3141374"
     },
     {
-      "id": "mountaga-tall",
-      "name": "Mountaga Tall",
+      "id": "alioune-nouhoum-diallo-q1138071",
+      "name": "Alioune Nouhoum Diallo",
+      "sitting": true,
+      "party_id": "alliance-for-democracy-in-mali",
+      "caucus": "Alliance for Democracy in Mali",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q106466538"
+    },
+    {
+      "id": "fatimata-toure-q1138071",
+      "name": "Fatimata Touré",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -82,23 +125,10 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q3326057"
+      "roster_url": "http://www.wikidata.org/entity/Q18001102"
     },
     {
-      "id": "aoua-keita",
-      "name": "Aoua Kéita",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q537613"
-    },
-    {
-      "id": "ibrahim-ag-mohamed-assaleh",
+      "id": "ibrahim-ag-mohamed-assaleh-q1138071",
       "name": "Ibrahim Ag Mohamed Assaleh",
       "sitting": true,
       "party_id": "unknown",
@@ -111,7 +141,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q18977723"
     },
     {
-      "id": "ascofare-oulematou-tamboura",
+      "id": "ascofare-oulematou-tamboura-q1138071",
       "name": "Ascofare Oulematou Tamboura",
       "sitting": true,
       "party_id": "unknown",
@@ -124,8 +154,8 @@
       "roster_url": "http://www.wikidata.org/entity/Q4803981"
     },
     {
-      "id": "karim-keita",
-      "name": "Karim Keïta",
+      "id": "mohamed-ag-intalla-q1138071",
+      "name": "Mohamed Ag Intalla",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -134,10 +164,36 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q22278552"
+      "roster_url": "http://www.wikidata.org/entity/Q19629297"
     },
     {
-      "id": "sidibe-korian-sidibe",
+      "id": "dioncounda-sacko-q1138071",
+      "name": "Dioncounda Sacko",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110672313"
+    },
+    {
+      "id": "togola-marie-jacqueline-nana-q1138071",
+      "name": "Togola Marie Jacqueline Nana",
+      "sitting": true,
+      "party_id": "rally-for-mali",
+      "caucus": "Rally for Mali",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q100275809"
+    },
+    {
+      "id": "sidibe-korian-sidibe-q1138071",
       "name": "Sidibé Korian Sidibé",
       "sitting": true,
       "party_id": "unknown",
@@ -150,11 +206,596 @@
       "roster_url": "http://www.wikidata.org/entity/Q7508826"
     },
     {
-      "id": "oumar-mariko",
-      "name": "Oumar Mariko",
+      "id": "dioncounda-traore-q1138071",
+      "name": "Dioncounda Traoré",
+      "sitting": true,
+      "party_id": "alliance-for-democracy-in-mali",
+      "caucus": "Alliance for Democracy in Mali",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q372780"
+    },
+    {
+      "id": "fatoumata-simpara-q1138071",
+      "name": "Fatoumata Simpara",
+      "sitting": true,
+      "party_id": "democratic-alliance-for-peace",
+      "caucus": "Democratic Alliance for Peace",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110665898"
+    },
+    {
+      "id": "bano-diawara-q1138071",
+      "name": "Bano Diawara",
+      "sitting": true,
+      "party_id": "alliance-for-democracy-in-mali",
+      "caucus": "Alliance for Democracy in Mali",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110607782"
+    },
+    {
+      "id": "mahamadou-cisse-q1138071",
+      "name": "Mahamadou Cissé",
+      "sitting": true,
+      "party_id": "alliance-for-democracy-in-mali",
+      "caucus": "Alliance for Democracy in Mali",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110607746"
+    },
+    {
+      "id": "oumou-soumare-q1138071",
+      "name": "Oumou Soumaré",
+      "sitting": true,
+      "party_id": "alliance-for-democracy-in-mali",
+      "caucus": "Alliance for Democracy in Mali",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110619740"
+    },
+    {
+      "id": "kadidia-sangare-q1138071",
+      "name": "Kadidia Sangaré",
+      "sitting": true,
+      "party_id": "union-for-the-republic-and-democracy",
+      "caucus": "Union for the Republic and Democracy",
+      "constituency_label": "San Cercle",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110663397"
+    },
+    {
+      "id": "fatoumata-kanoute-q1138071",
+      "name": "Fatoumata Kanouté",
+      "sitting": true,
+      "party_id": "convergence-pour-le-developpement-du-mali",
+      "caucus": "Convergence pour le développement du Mali",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110619802"
+    },
+    {
+      "id": "assitan-diallo-q1138071",
+      "name": "Assitan Diallo",
+      "sitting": true,
+      "party_id": "alliance-for-democracy-in-mali",
+      "caucus": "Alliance for Democracy in Mali",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110655841"
+    },
+    {
+      "id": "ami-diarra-q1138071",
+      "name": "Ami Diarra",
+      "sitting": true,
+      "party_id": "alliance-for-democracy-in-mali",
+      "caucus": "Alliance for Democracy in Mali",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110663825"
+    },
+    {
+      "id": "fatimata-niambali-q1138071",
+      "name": "Fatimata Niambali",
+      "sitting": true,
+      "party_id": "alliance-for-democracy-in-mali",
+      "caucus": "Alliance for Democracy in Mali",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110665614"
+    },
+    {
+      "id": "marthe-diawara-q1138071",
+      "name": "Marthe Diawara",
+      "sitting": true,
+      "party_id": "union-for-the-republic-and-democracy",
+      "caucus": "Union for the Republic and Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110610934"
+    },
+    {
+      "id": "sanou-nana-kane-q1138071",
+      "name": "Sanou Nana Kané",
+      "sitting": true,
+      "party_id": "alliance-for-democracy-in-mali",
+      "caucus": "Alliance for Democracy in Mali",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110680902"
+    },
+    {
+      "id": "victorine-dakouo-q1138071",
+      "name": "Victorine Dakouo",
+      "sitting": true,
+      "party_id": "alliance-for-democracy-in-mali",
+      "caucus": "Alliance for Democracy in Mali",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110681145"
+    },
+    {
+      "id": "bintou-dembele-q1138071",
+      "name": "Bintou Dembélé",
+      "sitting": true,
+      "party_id": "african-solidarity-for-democracy-and-independence",
+      "caucus": "African Solidarity for Democracy and Independence",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110620027"
+    },
+    {
+      "id": "mariam-kagnassi-q1138071",
+      "name": "Mariam Kagnassi",
+      "sitting": true,
+      "party_id": "rally-for-mali",
+      "caucus": "Rally for Mali",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110655343"
+    },
+    {
+      "id": "belco-samassekou-q1138071",
+      "name": "Belco Samassékou",
+      "sitting": true,
+      "party_id": "rally-for-mali",
+      "caucus": "Rally for Mali",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110656156"
+    },
+    {
+      "id": "oumou-coulibaly-q1138071",
+      "name": "Oumou Coulibaly",
+      "sitting": true,
+      "party_id": "african-solidarity-for-democracy-and-independence",
+      "caucus": "African Solidarity for Democracy and Independence",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110655554"
+    },
+    {
+      "id": "aminata-traore-bagayoko-q1138071",
+      "name": "Aminata Traoré Bagayoko",
+      "sitting": true,
+      "party_id": "rally-for-mali",
+      "caucus": "Rally for Mali",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110665543"
+    },
+    {
+      "id": "rokia-traore-q1138071",
+      "name": "Rokia Traoré",
+      "sitting": true,
+      "party_id": "rally-for-mali",
+      "caucus": "Rally for Mali",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110665787"
+    },
+    {
+      "id": "mariam-diassana-q1138071",
+      "name": "Mariam Diassana",
+      "sitting": true,
+      "party_id": "union-for-democracy-and-development",
+      "caucus": "Union for Democracy and Development",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110656850"
+    },
+    {
+      "id": "karim-keita-q1138071",
+      "name": "Karim Keïta",
+      "sitting": true,
+      "party_id": "rally-for-mali",
+      "caucus": "Rally for Mali",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q22278552"
+    },
+    {
+      "id": "alhousna-malick-toure-q1138071",
+      "name": "Alhousna Malick Touré",
+      "sitting": true,
+      "party_id": "rally-for-mali",
+      "caucus": "Rally for Mali",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110665803"
+    },
+    {
+      "id": "aoua-keita-q1138071",
+      "name": "Aoua Kéita",
+      "sitting": true,
+      "party_id": "sudanese-union-african-democratic-rally",
+      "caucus": "Sudanese Union – African Democratic Rally",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q537613"
+    },
+    {
+      "id": "ascofare-ouleymatou-tamboura-q1138071",
+      "name": "Ascofaré Ouleymatou Tamboura",
+      "sitting": true,
+      "party_id": "party-for-economic-development-and-solidarity",
+      "caucus": "Party for Economic Development and Solidarity",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q85984185"
+    },
+    {
+      "id": "tiebile-drame-q1138071",
+      "name": "Tiébilé Dramé",
+      "sitting": true,
+      "party_id": "party-for-national-rebirth",
+      "caucus": "Party for National Rebirth",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q775684"
+    },
+    {
+      "id": "mountaga-tall-q1138071",
+      "name": "Mountaga Tall",
+      "sitting": true,
+      "party_id": "national-congress-for-democratic-initiative",
+      "caucus": "National Congress for Democratic Initiative",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3326057"
+    },
+    {
+      "id": "salimata-traore-q1138071",
+      "name": "Salimata Traoré",
+      "sitting": true,
+      "party_id": "democratic-alliance-for-peace",
+      "caucus": "Democratic Alliance for Peace",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q94579756"
+    },
+    {
+      "id": "issaka-sidibe-q1138071",
+      "name": "Issaka Sidibé",
+      "sitting": true,
+      "party_id": "rally-for-mali",
+      "caucus": "Rally for Mali",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q23023240"
+    },
+    {
+      "id": "modibo-kane-doumbia-q1138071",
+      "name": "Modibo Kane Doumbia",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110610978"
+    },
+    {
+      "id": "awa-diakite-sangare-q1138071",
+      "name": "Awa Diakité Sangaré",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110611691"
+    },
+    {
+      "id": "mariam-soucko-q1138071",
+      "name": "Mariam Soucko",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110611648"
+    },
+    {
+      "id": "mariam-dembele-kalle-q1138071",
+      "name": "Mariam Dembélé Kallé",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110611708"
+    },
+    {
+      "id": "moussocoura-samake-q1138071",
+      "name": "Moussocoura Samaké",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110611766"
+    },
+    {
+      "id": "domo-sidibe-q1138071",
+      "name": "Domo Sidibé",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110611885"
+    },
+    {
+      "id": "marie-noel-coulibaly-q1138071",
+      "name": "Marie Noël Coulibaly",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110611794"
+    },
+    {
+      "id": "wadi-sissoko-q1138071",
+      "name": "Wadi Sissoko",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110611721"
+    },
+    {
+      "id": "djeneba-traore-q1138071",
+      "name": "Djénéba Traoré",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110612018"
+    },
+    {
+      "id": "sadio-doumbia-q1138071",
+      "name": "Sadio Doumbia",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110611985"
+    },
+    {
+      "id": "haoua-traore-q1138071",
+      "name": "Haoua Traoré",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110619768"
+    },
+    {
+      "id": "dieminetou-fomba-q1138071",
+      "name": "Diéminètou Fomba",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110619954"
+    },
+    {
+      "id": "kadidia-ouologuem-q1138071",
+      "name": "Kadidia Ouologuem",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110619847"
+    },
+    {
+      "id": "alida-somboro-q1138071",
+      "name": "Alida Somboro",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110656077"
+    },
+    {
+      "id": "djouwaratou-zorome-q1138071",
+      "name": "Djouwaratou Zoromé",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110656050"
+    },
+    {
+      "id": "yapema-djiguiba-q1138071",
+      "name": "Yapema Djiguiba",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110656079"
+    },
+    {
+      "id": "mariam-coulibaly-q1138071",
+      "name": "Mariam Coulibaly",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110663729"
+    },
+    {
+      "id": "oumar-mariko-q1138071",
+      "name": "Oumar Mariko",
+      "sitting": true,
+      "party_id": "african-solidarity-for-democracy-and-independence",
+      "caucus": "African Solidarity for Democracy and Independence",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [

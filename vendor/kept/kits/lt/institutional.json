@@ -1,0 +1,44 @@
+{
+  "iso2": "lt",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q37",
+  "bodies": [
+    {
+      "qid": "Q374152",
+      "label": "Seimas",
+      "seats": 141,
+      "web": "https://www.lrs.lt/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q18507240",
+      "label": "Member of the Seimas",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Member of the Seimas"
+  ],
+  "seats": 141,
+  "items": [
+    {
+      "id": "Q374152",
+      "name": "Seimas",
+      "kind": "parliament",
+      "seats": 141,
+      "url": "https://www.lrs.lt/"
+    },
+    {
+      "id": "Q18507240",
+      "name": "Member of the Seimas",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q18507240"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

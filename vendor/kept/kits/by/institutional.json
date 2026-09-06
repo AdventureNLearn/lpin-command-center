@@ -1,0 +1,59 @@
+{
+  "iso2": "by",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q184",
+  "bodies": [
+    {
+      "qid": "Q1649622",
+      "label": "House of Representatives",
+      "seats": 110,
+      "web": "http://house.gov.by/en/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1798607",
+      "label": "National Assembly of the Republic of Belarus",
+      "seats": 174,
+      "web": "",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q1512428",
+      "label": "Council of the Republic of Belarus",
+      "seats": 64,
+      "web": "http://www.sovrep.gov.by/",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "House of Representatives",
+    "Council of the Republic of Belarus"
+  ],
+  "seats": 348,
+  "items": [
+    {
+      "id": "Q1649622",
+      "name": "House of Representatives",
+      "kind": "chamber",
+      "seats": 110,
+      "url": "http://house.gov.by/en/"
+    },
+    {
+      "id": "Q1798607",
+      "name": "National Assembly of the Republic of Belarus",
+      "kind": "parliament",
+      "seats": 174,
+      "url": "https://www.wikidata.org/wiki/Q1798607"
+    },
+    {
+      "id": "Q1512428",
+      "name": "Council of the Republic of Belarus",
+      "kind": "chamber",
+      "seats": 64,
+      "url": "http://www.sovrep.gov.by/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

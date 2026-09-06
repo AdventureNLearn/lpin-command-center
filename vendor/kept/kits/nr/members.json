@@ -3,11 +3,41 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1972029",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 23,
+  "incomplete": true,
+  "claimed_seats": 19,
+  "chambers": [
+    "Member of the Parliament of Nauru",
+    "Parliament of Nauru"
+  ],
   "items": [
     {
-      "id": "ranin-akua",
+      "id": "david-adeang-q1972029",
+      "name": "David Adeang",
+      "sitting": true,
+      "party_id": "nauru-first",
+      "caucus": "Nauru First",
+      "constituency_label": "Ubenide Constituency",
+      "chamber": "Parliament of Nauru",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58096"
+    },
+    {
+      "id": "russell-kun-q1972029",
+      "name": "Russell Kun",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Ubenide Constituency",
+      "chamber": "Parliament of Nauru",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q321026"
+    },
+    {
+      "id": "ranin-akua-q1972029",
       "name": "Ranin Akua",
       "sitting": true,
       "party_id": "unknown",
@@ -20,8 +50,60 @@
       "roster_url": "http://www.wikidata.org/entity/Q16158701"
     },
     {
-      "id": "wanganeen-emiu",
-      "name": "Wanganeen Emiu",
+      "id": "rene-harris-q1972029",
+      "name": "René Harris",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Aiwo District",
+      "chamber": "Parliament of Nauru",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q560557"
+    },
+    {
+      "id": "edwin-tsitsi-q1972029",
+      "name": "Edwin Tsitsi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Aiwo Constituency",
+      "chamber": "Parliament of Nauru",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q11696288"
+    },
+    {
+      "id": "joseph-hiram-q1972029",
+      "name": "Joseph Hiram",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Ubenide Constituency",
+      "chamber": "Parliament of Nauru",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q11728441"
+    },
+    {
+      "id": "parcelle-bop-q1972029",
+      "name": "Parcelle Bop",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Meneng Constituency",
+      "chamber": "Parliament of Nauru",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q11811242"
+    },
+    {
+      "id": "clinton-benjamin-q1972029",
+      "name": "Clinton Benjamin",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -30,24 +112,11 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q136503589"
+      "roster_url": "http://www.wikidata.org/entity/Q11690776"
     },
     {
-      "id": "martin-hunt",
-      "name": "Martin Hunt",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Boe Constituency",
-      "chamber": "Parliament of Nauru",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q107100545"
-    },
-    {
-      "id": "isabella-dageago",
-      "name": "Isabella Dageago",
+      "id": "pres-nimes-ekwona-q1972029",
+      "name": "Pres-Nimes Ekwona",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -56,10 +125,10 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q108884363"
+      "roster_url": "http://www.wikidata.org/entity/Q11827057"
     },
     {
-      "id": "milton-dube",
+      "id": "milton-dube-q1972029",
       "name": "Milton Dube",
       "sitting": true,
       "party_id": "unknown",
@@ -72,33 +141,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q2400404"
     },
     {
-      "id": "david-adeang",
-      "name": "David Adeang",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Ubenide Constituency",
-      "chamber": "Parliament of Nauru",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q58096"
-    },
-    {
-      "id": "pyon-deiye",
-      "name": "Pyon Deiye",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Anabar Constituency",
-      "chamber": "Parliament of Nauru",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q107089590"
-    },
-    {
-      "id": "shadlog-bernicke",
+      "id": "shadlog-bernicke-q1972029",
       "name": "Shadlog Bernicke",
       "sitting": true,
       "party_id": "unknown",
@@ -111,46 +154,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q282252"
     },
     {
-      "id": "maverick-eoe",
-      "name": "Maverick Eoe",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Anabar Constituency",
-      "chamber": "Parliament of Nauru",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q107092215"
-    },
-    {
-      "id": "khyde-menke",
-      "name": "Khyde Menke",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Meneng Constituency",
-      "chamber": "Parliament of Nauru",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q107110101"
-    },
-    {
-      "id": "timothy-ika",
-      "name": "Timothy Ika",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Anetan Constituency",
-      "chamber": "Parliament of Nauru",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q107092904"
-    },
-    {
-      "id": "marcus-stephen",
+      "id": "marcus-stephen-q1972029",
       "name": "Marcus Stephen",
       "sitting": true,
       "party_id": "unknown",
@@ -163,7 +167,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q274174"
     },
     {
-      "id": "lyn-wannan-kam",
+      "id": "lyn-wannan-kam-q1972029",
       "name": "Lyn-Wannan Kam",
       "sitting": true,
       "party_id": "unknown",
@@ -176,8 +180,21 @@
       "roster_url": "http://www.wikidata.org/entity/Q13453726"
     },
     {
-      "id": "charmaine-scotty",
-      "name": "Charmaine Scotty",
+      "id": "aaron-cook-q1972029",
+      "name": "Aaron Cook",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Aiwo Constituency",
+      "chamber": "Parliament of Nauru",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16526050"
+    },
+    {
+      "id": "leo-keke-q1972029",
+      "name": "Leo Keke",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -186,10 +203,244 @@
       "lang": [
         "en"
       ],
+      "roster_url": "http://www.wikidata.org/entity/Q13406244"
+    },
+    {
+      "id": "ludwig-keke-q1972029",
+      "name": "Ludwig Keke",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Yaren Constituency",
+      "chamber": "Parliament of Nauru",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13407690"
+    },
+    {
+      "id": "roy-degoregore-q1972029",
+      "name": "Roy Degoregore",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Anetan Constituency",
+      "chamber": "Parliament of Nauru",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q9323027"
+    },
+    {
+      "id": "tamaiti-star-q1972029",
+      "name": "Tamaiti Star",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Buada Constituency",
+      "chamber": "Parliament of Nauru",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q9355398"
+    },
+    {
+      "id": "charmaine-scotty-q1972029",
+      "name": "Charmaine Scotty",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "Yaren Constituency",
+      "chamber": "Parliament of Nauru",
+      "lang": [
+        "en"
+      ],
       "roster_url": "http://www.wikidata.org/entity/Q13454037"
     },
     {
-      "id": "rennier-gadabu",
+      "id": "ross-cain-q1972029",
+      "name": "Ross Cain",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Boe Constituency",
+      "chamber": "Parliament of Nauru",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q9322834"
+    },
+    {
+      "id": "vodrick-detsiogo-q1972029",
+      "name": "Vodrick Detsiogo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Meneng Constituency",
+      "chamber": "Parliament of Nauru",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q118304305"
+    },
+    {
+      "id": "wanganeen-emiu-q1972029",
+      "name": "Wanganeen Emiu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Boe Constituency",
+      "chamber": "Parliament of Nauru",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q136503589"
+    },
+    {
+      "id": "david-peter-gadaraoa-q1972029",
+      "name": "David Peter Gadaraoa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Anabar Constituency",
+      "chamber": "Parliament of Nauru",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16539098"
+    },
+    {
+      "id": "martin-hunt-q1972029",
+      "name": "Martin Hunt",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Boe Constituency",
+      "chamber": "Parliament of Nauru",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107100545"
+    },
+    {
+      "id": "isabella-dageago-q1972029",
+      "name": "Isabella Dageago",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Yaren Constituency",
+      "chamber": "Parliament of Nauru",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108884363"
+    },
+    {
+      "id": "jaden-dogireiy-q1972029",
+      "name": "Jaden Dogireiy",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Anabar Constituency",
+      "chamber": "Parliament of Nauru",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q119225252"
+    },
+    {
+      "id": "gabrissa-hartman-q1972029",
+      "name": "Gabrissa Hartman",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Ubenide Constituency",
+      "chamber": "Parliament of Nauru",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q42698375"
+    },
+    {
+      "id": "sean-oppenheimer-q1972029",
+      "name": "Sean Oppenheimer",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Nauru",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29838772"
+    },
+    {
+      "id": "pyon-deiye-q1972029",
+      "name": "Pyon Deiye",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Anabar Constituency",
+      "chamber": "Parliament of Nauru",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107089590"
+    },
+    {
+      "id": "maverick-eoe-q1972029",
+      "name": "Maverick Eoe",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Anabar Constituency",
+      "chamber": "Parliament of Nauru",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107092215"
+    },
+    {
+      "id": "khyde-menke-q1972029",
+      "name": "Khyde Menke",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Meneng Constituency",
+      "chamber": "Parliament of Nauru",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107110101"
+    },
+    {
+      "id": "timothy-ika-q1972029",
+      "name": "Timothy Ika",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Anetan Constituency",
+      "chamber": "Parliament of Nauru",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107092904"
+    },
+    {
+      "id": "lionel-aingimea-q1972029",
+      "name": "Lionel Aingimea",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "Meneng Constituency",
+      "chamber": "Parliament of Nauru",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q66765492"
+    },
+    {
+      "id": "rennier-gadabu-q1972029",
       "name": "Rennier Gadabu",
       "sitting": true,
       "party_id": "unknown",
@@ -202,7 +453,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q66754706"
     },
     {
-      "id": "reagan-winson-aliklik",
+      "id": "reagan-winson-aliklik-q1972029",
       "name": "Reagan Winson Aliklik",
       "sitting": true,
       "party_id": "unknown",
@@ -215,20 +466,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q114321578"
     },
     {
-      "id": "lionel-aingimea",
-      "name": "Lionel Aingimea",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Meneng Constituency",
-      "chamber": "Parliament of Nauru",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q66765492"
-    },
-    {
-      "id": "wawani-dowiyogo",
+      "id": "wawani-dowiyogo-q1972029",
       "name": "Wawani Dowiyogo",
       "sitting": true,
       "party_id": "unknown",
@@ -241,7 +479,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q109781516"
     },
     {
-      "id": "russ-j-kun",
+      "id": "russ-j-kun-q1972029",
       "name": "Russ J Kun",
       "sitting": true,
       "party_id": "unknown",
@@ -254,7 +492,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q109781648"
     },
     {
-      "id": "delvin-oneil-thoma",
+      "id": "delvin-oneil-thoma-q1972029",
       "name": "Delvin Oneil Thoma",
       "sitting": true,
       "party_id": "unknown",
@@ -267,7 +505,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q114321576"
     },
     {
-      "id": "jesse-jeremiah",
+      "id": "jesse-jeremiah-q1972029",
       "name": "Jesse Jeremiah",
       "sitting": true,
       "party_id": "unknown",
@@ -280,7 +518,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q114321577"
     },
     {
-      "id": "bingham-agir",
+      "id": "bingham-agir-q1972029",
       "name": "Bingham Agir",
       "sitting": true,
       "party_id": "unknown",
@@ -293,7 +531,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q109781599"
     },
     {
-      "id": "asterio-appi",
+      "id": "asterio-appi-q1972029",
       "name": "Asterio Appi",
       "sitting": true,
       "party_id": "unknown",

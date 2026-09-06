@@ -1,13 +1,13 @@
 {
   "iso2": "mx",
-  "items": [],
+  "items": [
+    {
+      "id": "money",
+      "hole": "No sourced money file.",
+      "basis": "Evidence"
+    }
+  ],
   "incomplete": true,
-  "note": "Dual-source exam 2026-08-21: sitting member broke their own sourced pledge on a mapped clerk vote that already stores yea/nay. 60 sourced pledges × 295 clerk votes (named 0). 895 same-issue pairs; 0 with this member's yea/nay. Gaceta tables publish totals only; member yeas were not invented and are not stored. Gap 0. Honest empty.",
-  "chamber": "Cámara de Diputados",
-  "retrieved": "2026-08-21",
-  "examined_pledges": 60,
-  "examined_votes": 295,
-  "named_votes": 0,
-  "same_issue_pairs": 895,
-  "pairs_with_member_side": 0
+  "retrieved": "2026-09-06",
+  "note": "Full-ISO fill 2026-09-06. Chambers: Chamber of Deputies · Congress of the Union · Senate of the Republic. Sitting 496. Empty objects not invented."
 }

@@ -1,6 +1,44 @@
 {
   "iso2": "tz",
   "kit": "institutional",
-  "items": [],
-  "incomplete": true
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q924",
+  "bodies": [
+    {
+      "qid": "Q1138299",
+      "label": "National Assembly",
+      "seats": 393,
+      "web": "https://www.parliament.go.tz/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q17599130",
+      "label": "Member of the National Assembly of Tanzania",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Member of the National Assembly of Tanzania"
+  ],
+  "seats": 393,
+  "items": [
+    {
+      "id": "Q1138299",
+      "name": "National Assembly",
+      "kind": "parliament",
+      "seats": 393,
+      "url": "https://www.parliament.go.tz/"
+    },
+    {
+      "id": "Q17599130",
+      "name": "Member of the National Assembly of Tanzania",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q17599130"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

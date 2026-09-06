@@ -1,7 +1,44 @@
 {
   "iso2": "tw",
   "kit": "institutional",
-  "items": [],
   "incomplete": true,
-  "note": ":8103 claimed institutional_kits = 0."
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q865",
+  "bodies": [
+    {
+      "qid": "Q702839",
+      "label": "Control Yuan",
+      "seats": 29,
+      "web": "https://www.cy.gov.tw/EN/",
+      "kind": "lower"
+    },
+    {
+      "qid": "Q715869",
+      "label": "Legislative Yuan",
+      "seats": 113,
+      "web": "https://www.ly.gov.tw/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Control Yuan"
+  ],
+  "seats": 142,
+  "items": [
+    {
+      "id": "Q702839",
+      "name": "Control Yuan",
+      "kind": "lower",
+      "seats": 29,
+      "url": "https://www.cy.gov.tw/EN/"
+    },
+    {
+      "id": "Q715869",
+      "name": "Legislative Yuan",
+      "kind": "parliament",
+      "seats": 113,
+      "url": "https://www.ly.gov.tw/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

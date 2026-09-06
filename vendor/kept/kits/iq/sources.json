@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1973075"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1973075",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1973075",
+      "label": "Council of Representatives of Iraq",
+      "url": "https://www.parliament.iq/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1973075",
+      "label": "Council of Representatives of Iraq (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1973075",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21328603",
+      "label": "Member of the Council of Representatives of Iraq (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21328603",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

@@ -1,0 +1,74 @@
+{
+  "iso2": "ag",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q781",
+  "bodies": [
+    {
+      "qid": "Q1254104",
+      "label": "Senate of Antigua and Barbuda",
+      "seats": 17,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1280751",
+      "label": "Parliament of Antigua and Barbuda",
+      "seats": 0,
+      "web": "",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q602280",
+      "label": "Governor-General of Antigua and Barbuda",
+      "seats": 0,
+      "web": "https://gg.gov.ag/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1266832",
+      "label": "House of Representatives of Antigua and Barbuda",
+      "seats": 19,
+      "web": "",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Senate of Antigua and Barbuda",
+    "Governor-General of Antigua and Barbuda",
+    "House of Representatives of Antigua and Barbuda"
+  ],
+  "seats": 36,
+  "items": [
+    {
+      "id": "Q1254104",
+      "name": "Senate of Antigua and Barbuda",
+      "kind": "chamber",
+      "seats": 17,
+      "url": "https://www.wikidata.org/wiki/Q1254104"
+    },
+    {
+      "id": "Q1280751",
+      "name": "Parliament of Antigua and Barbuda",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q1280751"
+    },
+    {
+      "id": "Q602280",
+      "name": "Governor-General of Antigua and Barbuda",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://gg.gov.ag/"
+    },
+    {
+      "id": "Q1266832",
+      "name": "House of Representatives of Antigua and Barbuda",
+      "kind": "chamber",
+      "seats": 19,
+      "url": "https://www.wikidata.org/wiki/Q1266832"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

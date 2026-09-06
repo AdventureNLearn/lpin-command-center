@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1188525"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1188525",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21295987",
+      "label": "Member of the National Assembly of Laos (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21295987",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1188525",
+      "label": "National Assembly",
+      "url": "http://www.na.gov.la/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1188525",
+      "label": "National Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1188525",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

@@ -1,7 +1,59 @@
 {
   "iso2": "pl",
   "kit": "institutional",
-  "items": [],
   "incomplete": true,
-  "note": ":8103 claimed institutional_kits = 0."
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q36",
+  "bodies": [
+    {
+      "qid": "Q2102558",
+      "label": "Parliament of Poland",
+      "seats": 560,
+      "web": "",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q98964",
+      "label": "Sejm of the Republic of Poland",
+      "seats": 460,
+      "web": "https://sejm.gov.pl",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q98975",
+      "label": "Senate of Poland",
+      "seats": 100,
+      "web": "https://senat.gov.pl",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Sejm of the Republic of Poland",
+    "Senate of Poland"
+  ],
+  "seats": 1120,
+  "items": [
+    {
+      "id": "Q2102558",
+      "name": "Parliament of Poland",
+      "kind": "parliament",
+      "seats": 560,
+      "url": "https://www.wikidata.org/wiki/Q2102558"
+    },
+    {
+      "id": "Q98964",
+      "name": "Sejm of the Republic of Poland",
+      "kind": "chamber",
+      "seats": 460,
+      "url": "https://sejm.gov.pl"
+    },
+    {
+      "id": "Q98975",
+      "name": "Senate of Poland",
+      "kind": "chamber",
+      "seats": 100,
+      "url": "https://senat.gov.pl"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

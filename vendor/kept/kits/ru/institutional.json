@@ -1,0 +1,59 @@
+{
+  "iso2": "ru",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q159",
+  "bodies": [
+    {
+      "qid": "Q457869",
+      "label": "Federal Assembly of the Russian Federation",
+      "seats": 0,
+      "web": "http://www.gov.ru/main/page7.html",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q715641",
+      "label": "State Duma",
+      "seats": 450,
+      "web": "http://www.duma.gov.ru/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q186473",
+      "label": "Federation Council",
+      "seats": 200,
+      "web": "http://www.council.gov.ru/",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "State Duma",
+    "Federation Council"
+  ],
+  "seats": 650,
+  "items": [
+    {
+      "id": "Q457869",
+      "name": "Federal Assembly of the Russian Federation",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "http://www.gov.ru/main/page7.html"
+    },
+    {
+      "id": "Q715641",
+      "name": "State Duma",
+      "kind": "chamber",
+      "seats": 450,
+      "url": "http://www.duma.gov.ru/"
+    },
+    {
+      "id": "Q186473",
+      "name": "Federation Council",
+      "kind": "chamber",
+      "seats": 200,
+      "url": "http://www.council.gov.ru/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

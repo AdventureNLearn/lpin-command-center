@@ -3,24 +3,119 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1969578",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 58,
+  "incomplete": true,
+  "claimed_seats": 81,
+  "chambers": [
+    "Member of the National Assembly of Togo",
+    "National Assembly"
+  ],
   "items": [
     {
-      "id": "ibrahima-memounatou",
-      "name": "Ibrahima Mémounatou",
+      "id": "gahoun-georges-hegbor-q1969578",
+      "name": "Gahoun Georges Hégbor",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "action-committee-for-renewal",
+      "caucus": "Action Committee for Renewal",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q125487468"
+      "roster_url": "http://www.wikidata.org/entity/Q5516944"
     },
     {
-      "id": "josephine-hundt",
+      "id": "koffi-sama-q1969578",
+      "name": "Koffi Sama",
+      "sitting": true,
+      "party_id": "rally-of-the-togolese-people",
+      "caucus": "Rally of the Togolese People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1778373"
+    },
+    {
+      "id": "mey-gnassingbe-q1969578",
+      "name": "Mey Gnassingbé",
+      "sitting": true,
+      "party_id": "union-for-the-republic",
+      "caucus": "Union for the Republic",
+      "constituency_label": "Amou-Oblo",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q121029725"
+    },
+    {
+      "id": "kwassi-klutse-q1969578",
+      "name": "Kwassi Klutse",
+      "sitting": true,
+      "party_id": "rally-of-the-togolese-people",
+      "caucus": "Rally of the Togolese People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1794933"
+    },
+    {
+      "id": "kovi-akoete-adanbounou-q1969578",
+      "name": "Kovi Akoété Adanbounou",
+      "sitting": true,
+      "party_id": "union-for-the-republic",
+      "caucus": "Union for the Republic",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q118367804"
+    },
+    {
+      "id": "adjaratou-abdoulaye-q1969578",
+      "name": "Adjaratou Abdoulaye",
+      "sitting": true,
+      "party_id": "rally-of-the-togolese-people",
+      "caucus": "Rally of the Togolese People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4683147"
+    },
+    {
+      "id": "tchatomby-ouro-bawinay-q1969578",
+      "name": "Tchatomby Ouro-Bawinay",
+      "sitting": true,
+      "party_id": "rally-of-the-togolese-people",
+      "caucus": "Rally of the Togolese People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q65128871"
+    },
+    {
+      "id": "koffi-agbabli-q1969578",
+      "name": "Koffi Agbabli",
+      "sitting": true,
+      "party_id": "patriotic-movement-for-democracy-and-development",
+      "caucus": "Patriotic Movement for Democracy and Development",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q119322628"
+    },
+    {
+      "id": "josephine-hundt-q1969578",
       "name": "Joséphine Hundt",
       "sitting": true,
       "party_id": "unknown",
@@ -33,7 +128,150 @@
       "roster_url": "http://www.wikidata.org/entity/Q96640805"
     },
     {
-      "id": "joseph-kokou-koffigoh",
+      "id": "edem-kodjo-q1969578",
+      "name": "Edem Kodjo",
+      "sitting": true,
+      "party_id": "patriotic-pan-african-convergence",
+      "caucus": "Patriotic Pan-African Convergence",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q961159"
+    },
+    {
+      "id": "ibrahima-memounatou-q1969578",
+      "name": "Ibrahima Mémounatou",
+      "sitting": true,
+      "party_id": "union-for-the-republic",
+      "caucus": "Union for the Republic",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125487468"
+    },
+    {
+      "id": "koffi-sodokin-q1969578",
+      "name": "Koffi Sodokin",
+      "sitting": true,
+      "party_id": "union-for-the-republic",
+      "caucus": "Union for the Republic",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q115769403"
+    },
+    {
+      "id": "molgah-abougnima-q1969578",
+      "name": "Molgah Abougnima",
+      "sitting": true,
+      "party_id": "union-for-the-republic",
+      "caucus": "Union for the Republic",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q115769871"
+    },
+    {
+      "id": "kossi-koku-adjaklo-q1969578",
+      "name": "Kossi Koku Adjaklo",
+      "sitting": true,
+      "party_id": "union-for-the-republic",
+      "caucus": "Union for the Republic",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q115770014"
+    },
+    {
+      "id": "dziwonu-koffi-degboe-q1969578",
+      "name": "Dziwonu Koffi Degboe",
+      "sitting": true,
+      "party_id": "union-for-the-republic",
+      "caucus": "Union for the Republic",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q115780859"
+    },
+    {
+      "id": "mantode-de-poukn-q1969578",
+      "name": "Mantöde De Poukn",
+      "sitting": true,
+      "party_id": "union-for-the-republic",
+      "caucus": "Union for the Republic",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q115797299"
+    },
+    {
+      "id": "yempabe-bonsa-q1969578",
+      "name": "Yempabe Bonsa",
+      "sitting": true,
+      "party_id": "union-for-the-republic",
+      "caucus": "Union for the Republic",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q115797315"
+    },
+    {
+      "id": "cheffi-meatchi-q1969578",
+      "name": "Cheffi Meatchi",
+      "sitting": true,
+      "party_id": "rally-of-the-togolese-people",
+      "caucus": "Rally of the Togolese People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q48970113"
+    },
+    {
+      "id": "germaine-koumealo-anate-q1969578",
+      "name": "Germaine Kouméalo Anaté",
+      "sitting": true,
+      "party_id": "union-for-the-republic",
+      "caucus": "Union for the Republic",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16638964"
+    },
+    {
+      "id": "leonardina-rita-doris-de-souza-q1969578",
+      "name": "Léonardina Rita Doris de Souza",
+      "sitting": true,
+      "party_id": "union-of-forces-for-change",
+      "caucus": "Union of Forces for Change",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q115780925"
+    },
+    {
+      "id": "joseph-kokou-koffigoh-q1969578",
       "name": "Joseph Kokou Koffigoh",
       "sitting": true,
       "party_id": "unknown",
@@ -46,37 +284,11 @@
       "roster_url": "http://www.wikidata.org/entity/Q1707420"
     },
     {
-      "id": "koffi-sama",
-      "name": "Koffi Sama",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1778373"
-    },
-    {
-      "id": "kwassi-klutse",
-      "name": "Kwassi Klutse",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1794933"
-    },
-    {
-      "id": "komlan-mally",
+      "id": "komlan-mally-q1969578",
       "name": "Komlan Mally",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "rally-of-the-togolese-people",
+      "caucus": "Rally of the Togolese People",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
@@ -85,72 +297,124 @@
       "roster_url": "http://www.wikidata.org/entity/Q269076"
     },
     {
-      "id": "fambare-ouattara-natchaba",
-      "name": "Fambaré Ouattara Natchaba",
+      "id": "pacome-yawovi-adjourouvi-q1969578",
+      "name": "Pacôme Yawovi Adjourouvi",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q2522820"
+      "roster_url": "http://www.wikidata.org/entity/Q115770889"
     },
     {
-      "id": "bonfoh-abass",
-      "name": "Bonfoh Abass",
+      "id": "loumonvi-fombo-q1969578",
+      "name": "Loumonvi Fombo",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "rally-of-the-togolese-people",
+      "caucus": "Rally of the Togolese People",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q305669"
+      "roster_url": "http://www.wikidata.org/entity/Q6689635"
     },
     {
-      "id": "issifou-okoulou-kantchati",
-      "name": "Issifou Okoulou-Kantchati",
+      "id": "gerry-taama-q1969578",
+      "name": "Gerry Taama",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "new-togolese-commitment",
+      "caucus": "New Togolese Commitment",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q16149873"
+      "roster_url": "http://www.wikidata.org/entity/Q115942854"
     },
     {
-      "id": "germaine-koumealo-anate",
-      "name": "Germaine Kouméalo Anaté",
+      "id": "komi-kuma-sedjro-q1969578",
+      "name": "Komi-Kuma Sédjro",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "union-for-the-republic",
+      "caucus": "Union for the Republic",
+      "constituency_label": "Avé",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q127045359"
+    },
+    {
+      "id": "yawo-dotse-afetse-q1969578",
+      "name": "Yawo Dotse Afetse",
+      "sitting": true,
+      "party_id": "union-for-the-republic",
+      "caucus": "Union for the Republic",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q16638964"
+      "roster_url": "http://www.wikidata.org/entity/Q119322196"
     },
     {
-      "id": "adjaratou-abdoulaye",
-      "name": "Adjaratou Abdoulaye",
+      "id": "kounou-nahou-agbandao-q1969578",
+      "name": "Kounou Nahou Agbandao",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "union-for-the-republic",
+      "caucus": "Union for the Republic",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q4683147"
+      "roster_url": "http://www.wikidata.org/entity/Q119323144"
     },
     {
-      "id": "dahuku-pere",
+      "id": "kodzotse-adzoyi-q1969578",
+      "name": "Kodzotse Adzoyi",
+      "sitting": true,
+      "party_id": "union-of-forces-for-change",
+      "caucus": "Union of Forces for Change",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q119321407"
+    },
+    {
+      "id": "komlanvi-sedoufia-afangbedji-q1969578",
+      "name": "Komlanvi Sedoufia Afangbedji",
+      "sitting": true,
+      "party_id": "union-of-forces-for-change",
+      "caucus": "Union of Forces for Change",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q119321922"
+    },
+    {
+      "id": "komi-agbanu-q1969578",
+      "name": "Komi Agbanu",
+      "sitting": true,
+      "party_id": "union-of-forces-for-change",
+      "caucus": "Union of Forces for Change",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q119323746"
+    },
+    {
+      "id": "dahuku-pere-q1969578",
       "name": "Dahuku Péré",
       "sitting": true,
       "party_id": "unknown",
@@ -163,33 +427,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q5208960"
     },
     {
-      "id": "dama-dramani",
-      "name": "Dama Dramani",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5211860"
-    },
-    {
-      "id": "eric-kpade",
-      "name": "Eric Kpadé",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5386909"
-    },
-    {
-      "id": "ata-messan-ajavon-zeus",
+      "id": "ata-messan-ajavon-zeus-q1969578",
       "name": "Ata Messan Ajavon Zeus",
       "sitting": true,
       "party_id": "unknown",
@@ -202,111 +440,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q20982146"
     },
     {
-      "id": "yawovi-agboyibo",
-      "name": "Yawovi Agboyibo",
+      "id": "zourehatou-kassah-traore-q1969578",
+      "name": "Zouréhatou Kassah-Traoré",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "union-for-the-republic",
+      "caucus": "Union for the Republic",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q747770"
+      "roster_url": "http://www.wikidata.org/entity/Q110251228"
     },
     {
-      "id": "sambrini-targone",
-      "name": "Sambrini Targone",
+      "id": "faure-essozimna-gnassingbe-q1969578",
+      "name": "Faure Essozimna Gnassingbé",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "rally-of-the-togolese-people",
+      "caucus": "Rally of the Togolese People",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q21934135"
+      "roster_url": "http://www.wikidata.org/entity/Q4414"
     },
     {
-      "id": "koffi-agbenyega-voule-frititi",
-      "name": "Koffi Agbényéga Voule-Frititi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6425680"
-    },
-    {
-      "id": "komi-klassou",
-      "name": "Komi Klassou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6428317"
-    },
-    {
-      "id": "kpatcha-gnassingbe",
-      "name": "Kpatcha Gnassingbé",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6435718"
-    },
-    {
-      "id": "loumonvi-fombo",
-      "name": "Loumonvi Fombo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6689635"
-    },
-    {
-      "id": "ayao-dzreke",
-      "name": "Ayao Dzreke",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q127002265"
-    },
-    {
-      "id": "ptomsoouwe-batchassi",
-      "name": "Ptomsoouwé Batchassi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7257109"
-    },
-    {
-      "id": "kolani-yobate",
+      "id": "kolani-yobate-q1969578",
       "name": "Kolani Yobate",
       "sitting": true,
       "party_id": "unknown",
@@ -319,7 +479,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q127007567"
     },
     {
-      "id": "hessou-passiwe",
+      "id": "hessou-passiwe-q1969578",
       "name": "Hessou Passiwe",
       "sitting": true,
       "party_id": "unknown",
@@ -332,63 +492,63 @@
       "roster_url": "http://www.wikidata.org/entity/Q127008879"
     },
     {
-      "id": "abdou-haminou-tchankondo",
-      "name": "Abdou-Haminou Tchankondo",
+      "id": "yawovi-agboyibo-q1969578",
+      "name": "Yawovi Agboyibo",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "action-committee-for-renewal",
+      "caucus": "Action Committee for Renewal",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q127009287"
+      "roster_url": "http://www.wikidata.org/entity/Q747770"
     },
     {
-      "id": "solitoki-esso",
-      "name": "Solitoki Esso",
+      "id": "sambrini-targone-q1969578",
+      "name": "Sambrini Targone",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "democratic-pan-african-party",
+      "caucus": "Democratic Pan-African Party",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q7558266"
+      "roster_url": "http://www.wikidata.org/entity/Q21934135"
     },
     {
-      "id": "komi-kuma-sedjro",
-      "name": "Komi-Kuma Sédjro",
+      "id": "fambare-ouattara-natchaba-q1969578",
+      "name": "Fambaré Ouattara Natchaba",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Avé",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q127045359"
-    },
-    {
-      "id": "edem-kodjo",
-      "name": "Edem Kodjo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "rally-of-the-togolese-people",
+      "caucus": "Rally of the Togolese People",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q961159"
+      "roster_url": "http://www.wikidata.org/entity/Q2522820"
     },
     {
-      "id": "germain-wona",
+      "id": "isabelle-ameganvi-q1969578",
+      "name": "Isabelle Ameganvi",
+      "sitting": true,
+      "party_id": "let-s-save-togo-collective",
+      "caucus": "Let's Save Togo Collective",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q510104"
+    },
+    {
+      "id": "germain-wona-q1969578",
       "name": "Germain Wona",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "union-for-the-republic",
+      "caucus": "Union for the Republic",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
@@ -397,7 +557,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q140746358"
     },
     {
-      "id": "abra-amedome",
+      "id": "kossi-akakpo-hounakey-q1969578",
+      "name": "Kossi Akakpo Hounakey",
+      "sitting": true,
+      "party_id": "union-for-the-republic",
+      "caucus": "Union for the Republic",
+      "constituency_label": "Bas-Mono",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q127175482"
+    },
+    {
+      "id": "kouassi-dotche-q1969578",
+      "name": "Kouassi Dotche",
+      "sitting": true,
+      "party_id": "union-for-the-republic",
+      "caucus": "Union for the Republic",
+      "constituency_label": "Bas-Mono",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q127176027"
+    },
+    {
+      "id": "abra-amedome-q1969578",
       "name": "Abra Amedome",
       "sitting": true,
       "party_id": "unknown",
@@ -410,7 +596,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q39503524"
     },
     {
-      "id": "adjoavi-trenou",
+      "id": "adjoavi-trenou-q1969578",
       "name": "Adjoavi Trenou",
       "sitting": true,
       "party_id": "unknown",
@@ -423,7 +609,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q43402237"
     },
     {
-      "id": "essohana-pere",
+      "id": "dama-dramani-q1969578",
+      "name": "Dama Dramani",
+      "sitting": true,
+      "party_id": "rally-of-the-togolese-people",
+      "caucus": "Rally of the Togolese People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5211860"
+    },
+    {
+      "id": "jonathan-savi-de-tove-q1969578",
+      "name": "Jonathan Savi de Tové",
+      "sitting": true,
+      "party_id": "party-of-togolese-unity",
+      "caucus": "Party of Togolese Unity",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56825018"
+    },
+    {
+      "id": "essohana-pere-q1969578",
       "name": "Essohana Péré",
       "sitting": true,
       "party_id": "unknown",
@@ -436,7 +648,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q48970118"
     },
     {
-      "id": "kossiwa-monsila",
+      "id": "kossiwa-monsila-q1969578",
       "name": "Kossiwa Monsila",
       "sitting": true,
       "party_id": "unknown",
@@ -449,7 +661,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q48970116"
     },
     {
-      "id": "zinabou-toure",
+      "id": "zinabou-toure-q1969578",
       "name": "Zinabou Touré",
       "sitting": true,
       "party_id": "unknown",
@@ -462,85 +674,111 @@
       "roster_url": "http://www.wikidata.org/entity/Q48970120"
     },
     {
-      "id": "mey-gnassingbe",
-      "name": "Mey Gnassingbé",
+      "id": "ptomsoouwe-batchassi-q1969578",
+      "name": "Ptomsoouwé Batchassi",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Amou-Oblo",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q121029725"
-    },
-    {
-      "id": "kossi-akakpo-hounakey",
-      "name": "Kossi Akakpo Hounakey",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Bas-Mono",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q127175482"
-    },
-    {
-      "id": "kouassi-dotche",
-      "name": "Kouassi Dotche",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Bas-Mono",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q127176027"
-    },
-    {
-      "id": "faure-essozimna-gnassingbe",
-      "name": "Faure Essozimna Gnassingbé",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "rally-of-the-togolese-people",
+      "caucus": "Rally of the Togolese People",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q4414"
+      "roster_url": "http://www.wikidata.org/entity/Q7257109"
     },
     {
-      "id": "tchatomby-ouro-bawinay",
-      "name": "Tchatomby Ouro-Bawinay",
+      "id": "yawa-djigbodi-tsegan-q1969578",
+      "name": "Yawa Djigbodi Tségan",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
+      "constituency_label": "Kpélé",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60965577"
+    },
+    {
+      "id": "eric-kpade-q1969578",
+      "name": "Eric Kpadé",
+      "sitting": true,
+      "party_id": "rally-of-the-togolese-people",
+      "caucus": "Rally of the Togolese People",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q65128871"
+      "roster_url": "http://www.wikidata.org/entity/Q5386909"
     },
     {
-      "id": "kovi-akoete-adanbounou",
-      "name": "Kovi Akoété Adanbounou",
+      "id": "bonfoh-abass-q1969578",
+      "name": "Bonfoh Abass",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "rally-of-the-togolese-people",
+      "caucus": "Rally of the Togolese People",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q118367804"
+      "roster_url": "http://www.wikidata.org/entity/Q305669"
     },
     {
-      "id": "payadowa-boukpessi",
+      "id": "ayao-dzreke-q1969578",
+      "name": "Ayao Dzreke",
+      "sitting": true,
+      "party_id": "union-for-the-republic",
+      "caucus": "Union for the Republic",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q127002265"
+    },
+    {
+      "id": "koffi-agbenyega-voule-frititi-q1969578",
+      "name": "Koffi Agbényéga Voule-Frititi",
+      "sitting": true,
+      "party_id": "rally-of-the-togolese-people",
+      "caucus": "Rally of the Togolese People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6425680"
+    },
+    {
+      "id": "komi-klassou-q1969578",
+      "name": "Komi Klassou",
+      "sitting": true,
+      "party_id": "rally-of-the-togolese-people",
+      "caucus": "Rally of the Togolese People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6428317"
+    },
+    {
+      "id": "kpatcha-gnassingbe-q1969578",
+      "name": "Kpatcha Gnassingbé",
+      "sitting": true,
+      "party_id": "rally-of-the-togolese-people",
+      "caucus": "Rally of the Togolese People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6435718"
+    },
+    {
+      "id": "payadowa-boukpessi-q1969578",
       "name": "Payadowa Boukpessi",
       "sitting": true,
       "party_id": "unknown",
@@ -553,7 +791,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q113579024"
     },
     {
-      "id": "ayawovi-demba-tignokpa",
+      "id": "ayawovi-demba-tignokpa-q1969578",
       "name": "Ayawovi Demba Tignokpa",
       "sitting": true,
       "party_id": "unknown",
@@ -566,21 +804,21 @@
       "roster_url": "http://www.wikidata.org/entity/Q113946233"
     },
     {
-      "id": "koffi-sodokin",
-      "name": "Koffi Sodokin",
+      "id": "abdou-haminou-tchankondo-q1969578",
+      "name": "Abdou-Haminou Tchankondo",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "union-for-the-republic",
+      "caucus": "Union for the Republic",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q115769403"
+      "roster_url": "http://www.wikidata.org/entity/Q127009287"
     },
     {
-      "id": "molgah-abougnima",
-      "name": "Molgah Abougnima",
+      "id": "antoine-lekpa-gbegbeni-q1969578",
+      "name": "Antoine Lekpa Gbegbeni",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -589,176 +827,33 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q115769871"
+      "roster_url": "http://www.wikidata.org/entity/Q114441751"
     },
     {
-      "id": "kossi-koku-adjaklo",
-      "name": "Kossi Koku Adjaklo",
+      "id": "issifou-okoulou-kantchati-q1969578",
+      "name": "Issifou Okoulou-Kantchati",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "rally-of-the-togolese-people",
+      "caucus": "Rally of the Togolese People",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q115770014"
+      "roster_url": "http://www.wikidata.org/entity/Q16149873"
     },
     {
-      "id": "pacome-yawovi-adjourouvi",
-      "name": "Pacôme Yawovi Adjourouvi",
+      "id": "solitoki-esso-q1969578",
+      "name": "Solitoki Esso",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "rally-of-the-togolese-people",
+      "caucus": "Rally of the Togolese People",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q115770889"
-    },
-    {
-      "id": "dziwonu-koffi-degboe",
-      "name": "Dziwonu Koffi Degboe",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q115780859"
-    },
-    {
-      "id": "leonardina-rita-doris-de-souza",
-      "name": "Léonardina Rita Doris de Souza",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q115780925"
-    },
-    {
-      "id": "mantode-de-poukn",
-      "name": "Mantöde De Poukn",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q115797299"
-    },
-    {
-      "id": "yempabe-bonsa",
-      "name": "Yempabe Bonsa",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q115797315"
-    },
-    {
-      "id": "gerry-taama",
-      "name": "Gerry Taama",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q115942854"
-    },
-    {
-      "id": "kodzotse-adzoyi",
-      "name": "Kodzotse Adzoyi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q119321407"
-    },
-    {
-      "id": "komlanvi-sedoufia-afangbedji",
-      "name": "Komlanvi Sedoufia Afangbedji",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q119321922"
-    },
-    {
-      "id": "yawo-dotse-afetse",
-      "name": "Yawo Dotse Afetse",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q119322196"
-    },
-    {
-      "id": "koffi-agbabli",
-      "name": "Koffi Agbabli",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q119322628"
-    },
-    {
-      "id": "kounou-nahou-agbandao",
-      "name": "Kounou Nahou Agbandao",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q119323144"
-    },
-    {
-      "id": "komi-agbanu",
-      "name": "Komi Agbanu",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q119323746"
+      "roster_url": "http://www.wikidata.org/entity/Q7558266"
     }
   ]
 }

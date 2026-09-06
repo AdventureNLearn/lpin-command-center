@@ -3,8 +3,46 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1583318"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1583318",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q6518225",
+      "label": "Legislative Chamber of Uzbekistan",
+      "url": "https://parliament.gov.uz/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q6518225",
+      "label": "Legislative Chamber of Uzbekistan (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q6518225",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q2117711",
+      "label": "Senate of Uzbekistan",
+      "url": "https://senat.uz/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q2117711",
+      "label": "Senate of Uzbekistan (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q2117711",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1583318",
+      "label": "Oliy Majlis (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1583318",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

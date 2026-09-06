@@ -3,294 +3,312 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q2011165",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 22,
+  "incomplete": true,
+  "claimed_seats": 193,
+  "chambers": [
+    "Assembly of Representatives",
+    "National Assembly of Tajikistan",
+    "Supreme Assembly"
+  ],
   "items": [
     {
-      "id": "mahmadtohir-zokirzoda",
-      "name": "Mahmadtohir Zokirzoda",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Supreme Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q97233494"
-    },
-    {
-      "id": "ismoil-talbakov",
-      "name": "Ismoil Talbakov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Supreme Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q11714193"
-    },
-    {
-      "id": "mamadsho-ilolov",
-      "name": "Mamadsho Ilolov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Supreme Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12074235"
-    },
-    {
-      "id": "safar-safarov",
-      "name": "Safar Safarov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Supreme Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12150793"
-    },
-    {
-      "id": "muhiddin-kabiri",
-      "name": "Muhiddin Kabiri",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Supreme Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q13201361"
-    },
-    {
-      "id": "yahyo-azimov",
-      "name": "Yahyo Azimov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Supreme Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4058350"
-    },
-    {
-      "id": "abdulmajid-dostiev",
-      "name": "Abdulmajid Dostiev",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Supreme Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4167224"
-    },
-    {
-      "id": "safarali-kenjayev",
-      "name": "Safarali Kenjayev",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Supreme Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4219368"
-    },
-    {
-      "id": "makhkam-makhmudov",
-      "name": "Makhkam Makhmudov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Supreme Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4285750"
-    },
-    {
-      "id": "haji-akbar-turajanzade",
-      "name": "Haji Akbar Turajanzade",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Supreme Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4465680"
-    },
-    {
-      "id": "muhammadsharif-himmatzoda",
-      "name": "Muhammadsharif Himmatzoda",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Supreme Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4497760"
-    },
-    {
-      "id": "shodi-shabdolov",
-      "name": "Shodi Shabdolov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Supreme Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4519098"
-    },
-    {
-      "id": "soukhrob-charipov",
-      "name": "Soukhrob Charipov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Supreme Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q18814389"
-    },
-    {
-      "id": "lutfullo-saidmurodzoda",
-      "name": "Lutfullo Saidmurodzoda",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Supreme Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q20608373"
-    },
-    {
-      "id": "qosim-qosimov",
-      "name": "Qosim Qosimov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Supreme Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q20611581"
-    },
-    {
-      "id": "rustam-emomali",
-      "name": "Rustam Emomali",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Supreme Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q24258837"
-    },
-    {
-      "id": "mahmadsaid-ubaydulloyev",
-      "name": "Mahmadsaid Ubaydulloyev",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Supreme Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6734241"
-    },
-    {
-      "id": "davlatsho-kurbonalyevchi-gulmakhmadov",
+      "id": "davlatsho-kurbonalyevchi-gulmakhmadov-q9390763",
       "name": "Davlatsho Kurbonalyevchi Gulmakhmadov",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "people-s-democratic-party-of-tajikistan",
+      "caucus": "People's Democratic Party of Tajikistan",
       "constituency_label": "",
-      "chamber": "Supreme Assembly",
+      "chamber": "Assembly of Representatives",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q26776685"
     },
     {
-      "id": "saidullo-khairullaev",
-      "name": "Saidullo Khairullaev",
+      "id": "ismoil-talbakov-q9390763",
+      "name": "Ismoil Talbakov",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "communist-party-of-the-soviet-union",
+      "caucus": "Communist Party of the Soviet Union",
       "constituency_label": "",
-      "chamber": "Supreme Assembly",
+      "chamber": "Assembly of Representatives",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q13202194"
+      "roster_url": "http://www.wikidata.org/entity/Q11714193"
     },
     {
-      "id": "shukurjon-zuhurov",
+      "id": "shukurjon-zuhurov-q9390763",
       "name": "Shukurjon Zuhurov",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "people-s-democratic-party-of-tajikistan",
+      "caucus": "People's Democratic Party of Tajikistan",
       "constituency_label": "",
-      "chamber": "Supreme Assembly",
+      "chamber": "Assembly of Representatives",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q16654619"
     },
     {
-      "id": "mirgand-shabozov",
+      "id": "rustam-emomali-q9390763",
+      "name": "Rustam Emomali",
+      "sitting": true,
+      "party_id": "people-s-democratic-party-of-tajikistan",
+      "caucus": "People's Democratic Party of Tajikistan",
+      "constituency_label": "",
+      "chamber": "Assembly of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24258837"
+    },
+    {
+      "id": "mahmadsaid-ubaydulloyev-q9390763",
+      "name": "Mahmadsaid Ubaydulloyev",
+      "sitting": true,
+      "party_id": "people-s-democratic-party-of-tajikistan",
+      "caucus": "People's Democratic Party of Tajikistan",
+      "constituency_label": "",
+      "chamber": "Assembly of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6734241"
+    },
+    {
+      "id": "mamadsho-ilolov-q9390763",
+      "name": "Mamadsho Ilolov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Assembly of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12074235"
+    },
+    {
+      "id": "safar-safarov-q9390763",
+      "name": "Safar Safarov",
+      "sitting": true,
+      "party_id": "people-s-democratic-party-of-tajikistan",
+      "caucus": "People's Democratic Party of Tajikistan",
+      "constituency_label": "",
+      "chamber": "Assembly of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12150793"
+    },
+    {
+      "id": "makhkam-makhmudov-q9390763",
+      "name": "Makhkam Makhmudov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Assembly of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4285750"
+    },
+    {
+      "id": "muhiddin-kabiri-q9390763",
+      "name": "Muhiddin Kabiri",
+      "sitting": true,
+      "party_id": "islamic-renaissance-party-of-tajikistan",
+      "caucus": "Islamic Renaissance Party of Tajikistan",
+      "constituency_label": "",
+      "chamber": "Assembly of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13201361"
+    },
+    {
+      "id": "lutfullo-saidmurodzoda-q9390763",
+      "name": "Lutfullo Saidmurodzoda",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Assembly of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20608373"
+    },
+    {
+      "id": "yahyo-azimov-q9390763",
+      "name": "Yahyo Azimov",
+      "sitting": true,
+      "party_id": "people-s-democratic-party-of-tajikistan",
+      "caucus": "People's Democratic Party of Tajikistan",
+      "constituency_label": "",
+      "chamber": "Assembly of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4058350"
+    },
+    {
+      "id": "mahmadtohir-zokirzoda-q9390763",
+      "name": "Mahmadtohir Zokirzoda",
+      "sitting": true,
+      "party_id": "people-s-democratic-party-of-tajikistan",
+      "caucus": "People's Democratic Party of Tajikistan",
+      "constituency_label": "",
+      "chamber": "Assembly of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97233494"
+    },
+    {
+      "id": "abdulmajid-dostiev-q9390763",
+      "name": "Abdulmajid Dostiev",
+      "sitting": true,
+      "party_id": "people-s-democratic-party-of-tajikistan",
+      "caucus": "People's Democratic Party of Tajikistan",
+      "constituency_label": "",
+      "chamber": "Assembly of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4167224"
+    },
+    {
+      "id": "saidullo-khairullaev-q9390763",
+      "name": "Saidullo Khairullaev",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Assembly of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13202194"
+    },
+    {
+      "id": "qosim-qosimov-q9390763",
+      "name": "Qosim Qosimov",
+      "sitting": true,
+      "party_id": "people-s-democratic-party-of-tajikistan",
+      "caucus": "People's Democratic Party of Tajikistan",
+      "constituency_label": "",
+      "chamber": "Assembly of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20611581"
+    },
+    {
+      "id": "safarali-kenjayev-q9390763",
+      "name": "Safarali Kenjayev",
+      "sitting": true,
+      "party_id": "communist-party-of-tajikistan",
+      "caucus": "Communist Party of Tajikistan",
+      "constituency_label": "",
+      "chamber": "Assembly of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4219368"
+    },
+    {
+      "id": "mirgand-shabozov-q9390763",
       "name": "Mirgand Shabozov",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Supreme Assembly",
+      "chamber": "Assembly of Representatives",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q65146582"
     },
     {
-      "id": "qiyomiddin-miraliyon",
+      "id": "qiyomiddin-miraliyon-q9390763",
       "name": "Qiyomiddin Miraliyon",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Supreme Assembly",
+      "chamber": "Assembly of Representatives",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q61764348"
+    },
+    {
+      "id": "haji-akbar-turajanzade-q9390763",
+      "name": "Haji Akbar Turajanzade",
+      "sitting": true,
+      "party_id": "islamic-renaissance-party-of-tajikistan",
+      "caucus": "Islamic Renaissance Party of Tajikistan",
+      "constituency_label": "",
+      "chamber": "Assembly of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4465680"
+    },
+    {
+      "id": "muhammadsharif-himmatzoda-q9390763",
+      "name": "Muhammadsharif Himmatzoda",
+      "sitting": true,
+      "party_id": "islamic-renaissance-party-of-tajikistan",
+      "caucus": "Islamic Renaissance Party of Tajikistan",
+      "constituency_label": "",
+      "chamber": "Assembly of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4497760"
+    },
+    {
+      "id": "soukhrob-charipov-q9390763",
+      "name": "Soukhrob Charipov",
+      "sitting": true,
+      "party_id": "people-s-democratic-party-of-tajikistan",
+      "caucus": "People's Democratic Party of Tajikistan",
+      "constituency_label": "",
+      "chamber": "Assembly of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18814389"
+    },
+    {
+      "id": "shodi-shabdolov-q9390763",
+      "name": "Shodi Shabdolov",
+      "sitting": true,
+      "party_id": "communist-party-of-the-soviet-union",
+      "caucus": "Communist Party of the Soviet Union",
+      "constituency_label": "",
+      "chamber": "Assembly of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4519098"
+    },
+    {
+      "id": "yahyo-azimov-q19921131",
+      "name": "Yahyo Azimov",
+      "sitting": true,
+      "party_id": "people-s-democratic-party-of-tajikistan",
+      "caucus": "People's Democratic Party of Tajikistan",
+      "constituency_label": "",
+      "chamber": "National Assembly of Tajikistan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4058350"
     }
   ]
 }

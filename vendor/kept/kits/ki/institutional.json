@@ -1,0 +1,44 @@
+{
+  "iso2": "ki",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q710",
+  "bodies": [
+    {
+      "qid": "Q21296447",
+      "label": "Member of the House of Assembly of Kiribati",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1281107",
+      "label": "House of Assembly of Kiribati",
+      "seats": 45,
+      "web": "http://www.parliament.gov.ki/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Member of the House of Assembly of Kiribati"
+  ],
+  "seats": 45,
+  "items": [
+    {
+      "id": "Q21296447",
+      "name": "Member of the House of Assembly of Kiribati",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q21296447"
+    },
+    {
+      "id": "Q1281107",
+      "name": "House of Assembly of Kiribati",
+      "kind": "parliament",
+      "seats": 45,
+      "url": "http://www.parliament.gov.ki/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

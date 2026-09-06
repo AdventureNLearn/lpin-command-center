@@ -1,0 +1,44 @@
+{
+  "iso2": "mc",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q235",
+  "bodies": [
+    {
+      "qid": "Q21328626",
+      "label": "Member of the National Council of Monaco",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1127198",
+      "label": "National Council",
+      "seats": 24,
+      "web": "https://www.conseil-national.mc/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Member of the National Council of Monaco"
+  ],
+  "seats": 24,
+  "items": [
+    {
+      "id": "Q21328626",
+      "name": "Member of the National Council of Monaco",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q21328626"
+    },
+    {
+      "id": "Q1127198",
+      "name": "National Council",
+      "kind": "parliament",
+      "seats": 24,
+      "url": "https://www.conseil-national.mc/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

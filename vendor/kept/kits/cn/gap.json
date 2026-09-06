@@ -1,9 +1,13 @@
 {
   "iso2": "cn",
-  "items": [],
+  "items": [
+    {
+      "id": "money",
+      "hole": "No sourced money file.",
+      "basis": "Evidence"
+    }
+  ],
   "incomplete": true,
-  "examined_pairs": 86,
-  "pairs_with_position": 0,
-  "retrieved": "2026-08-21",
-  "note": "No dual-sourced own-pledge break. Examined 86 sourced-pledge × same-issue vote pairs already in votes.json (66 clerk / 20 reconstructed; 0 with this member's yea/nay; 45 on/after pledge date). Named member rolls unpublished on all 82 stored events (70 clerk / 12 reconstructed). votes.json issue_id empty on 0/82. Cartesian 23×82 capped to same-issue pairs. Yeas not invented. RMB person amounts not stored. Pledges hunt-stop at 23 after examination. https://www.npc.gov.cn/ TLS not retried (D-146). Honest incomplete."
+  "retrieved": "2026-09-06",
+  "note": "Full-ISO fill 2026-09-06. Chambers: National People's Congress · Standing Committee of the National People's Congress · National People's Congress deputy · Special committee of the National People's Congress. Sitting 2849. Empty objects not invented."
 }

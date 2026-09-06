@@ -3,41 +3,33 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1817866",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 68,
+  "incomplete": true,
+  "claimed_seats": 67,
+  "chambers": [
+    "Member of the House of Representatives of Malta",
+    "Senate of Malta",
+    "Parliament of Malta"
+  ],
   "items": [
     {
-      "id": "karmenu-mifsud-bonnici",
-      "name": "Karmenu Mifsud Bonnici",
+      "id": "alexander-mckean-q7450029",
+      "name": "Alexander McKean",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Malta",
+      "chamber": "Senate of Malta",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q1043593"
+      "roster_url": "http://www.wikidata.org/entity/Q105593017"
     },
     {
-      "id": "karmenu-vella",
-      "name": "Karmenu Vella",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1261388"
-    },
-    {
-      "id": "eddie-fenech-adami",
+      "id": "eddie-fenech-adami-q1817866",
       "name": "Eddie Fenech Adami",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
       "constituency_label": "",
       "chamber": "Parliament of Malta",
       "lang": [
@@ -46,11 +38,102 @@
       "roster_url": "http://www.wikidata.org/entity/Q152511"
     },
     {
-      "id": "francesco-masini",
-      "name": "Francesco Masini",
+      "id": "joseph-muscat-q1817866",
+      "name": "Joseph Muscat",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q938224"
+    },
+    {
+      "id": "giuseppe-m-camilleri-q1817866",
+      "name": "Giuseppe M. Camilleri",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q129985115"
+    },
+    {
+      "id": "angelo-farrugia-q1817866",
+      "name": "Angelo Farrugia",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4762878"
+    },
+    {
+      "id": "albert-hyzler-q1817866",
+      "name": "Albert Hyzler",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q724469"
+    },
+    {
+      "id": "paul-boffa-q1817866",
+      "name": "Paul Boffa",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q736796"
+    },
+    {
+      "id": "george-borg-olivier-q1817866",
+      "name": "George Borg Olivier",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q983140"
+    },
+    {
+      "id": "karmenu-mifsud-bonnici-q1817866",
+      "name": "Karmenu Mifsud Bonnici",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1043593"
+    },
+    {
+      "id": "francesco-masini-q1817866",
+      "name": "Francesco Masini",
+      "sitting": true,
+      "party_id": "gozo-party",
+      "caucus": "Gozo Party",
       "constituency_label": "",
       "chamber": "Parliament of Malta",
       "lang": [
@@ -59,115 +142,24 @@
       "roster_url": "http://www.wikidata.org/entity/Q11043714"
     },
     {
-      "id": "george-bonello-dupuis",
-      "name": "George Bonello Dupuis",
+      "id": "marie-louise-coleiro-preca-q1817866",
+      "name": "Marie-Louise Coleiro Preca",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
       "constituency_label": "",
       "chamber": "Parliament of Malta",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q1507005"
+      "roster_url": "http://www.wikidata.org/entity/Q6762928"
     },
     {
-      "id": "george-pullicino",
-      "name": "George Pullicino",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1508101"
-    },
-    {
-      "id": "dom-mintoff",
-      "name": "Dom Mintoff",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q167307"
-    },
-    {
-      "id": "ugo-mifsud-bonnici",
-      "name": "Ugo Mifsud Bonnici",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q167699"
-    },
-    {
-      "id": "censu-tabone",
-      "name": "Ċensu Tabone",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q167937"
-    },
-    {
-      "id": "agatha-barbara",
-      "name": "Agatha Barbara",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q168387"
-    },
-    {
-      "id": "joe-borg",
-      "name": "Joe Borg",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q549456"
-    },
-    {
-      "id": "alex-sceberras-trigona",
-      "name": "Alex Sceberras Trigona",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1710630"
-    },
-    {
-      "id": "louis-galea",
+      "id": "louis-galea-q1817866",
       "name": "Louis Galea",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
       "constituency_label": "",
       "chamber": "Parliament of Malta",
       "lang": [
@@ -176,63 +168,24 @@
       "roster_url": "http://www.wikidata.org/entity/Q1871690"
     },
     {
-      "id": "tonio-fenech",
-      "name": "Tonio Fenech",
+      "id": "michael-refalo-q1817866",
+      "name": "Michael Refalo",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
       "constituency_label": "",
       "chamber": "Parliament of Malta",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q247348"
+      "roster_url": "http://www.wikidata.org/entity/Q19367343"
     },
     {
-      "id": "william-savona",
-      "name": "William Savona",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2211038"
-    },
-    {
-      "id": "franco-debono",
-      "name": "Franco Debono",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q13634850"
-    },
-    {
-      "id": "gerald-strickland-1st-baron-strickland",
-      "name": "Gerald Strickland, 1st Baron Strickland",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q333979"
-    },
-    {
-      "id": "clyde-puli",
+      "id": "clyde-puli-q1817866",
       "name": "Clyde Puli",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
       "constituency_label": "",
       "chamber": "Parliament of Malta",
       "lang": [
@@ -241,72 +194,98 @@
       "roster_url": "http://www.wikidata.org/entity/Q2980429"
     },
     {
-      "id": "wistin-abela",
-      "name": "Wistin Abela",
+      "id": "michael-dundon-q1817866",
+      "name": "Michael Dundon",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
       "constituency_label": "",
       "chamber": "Parliament of Malta",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q15651378"
+      "roster_url": "http://www.wikidata.org/entity/Q6829985"
     },
     {
-      "id": "michael-falzon",
-      "name": "Michael Falzon",
+      "id": "george-william-vella-q1817866",
+      "name": "George William Vella",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
       "constituency_label": "",
       "chamber": "Parliament of Malta",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q6830205"
+      "roster_url": "http://www.wikidata.org/entity/Q1508402"
     },
     {
-      "id": "mario-de-marco",
-      "name": "Mario de Marco",
+      "id": "marlene-farrugia-q1817866",
+      "name": "Marlene Farrugia",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "democratic-party",
+      "caucus": "Democratic Party",
       "constituency_label": "",
       "chamber": "Parliament of Malta",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q441784"
+      "roster_url": "http://www.wikidata.org/entity/Q24643928"
     },
     {
-      "id": "dolores-cristina",
-      "name": "Dolores Cristina",
+      "id": "karmenu-vella-q1817866",
+      "name": "Karmenu Vella",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
       "constituency_label": "",
       "chamber": "Parliament of Malta",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q524877"
+      "roster_url": "http://www.wikidata.org/entity/Q1261388"
     },
     {
-      "id": "giovanna-debono",
-      "name": "Giovanna Debono",
+      "id": "george-bonello-dupuis-q1817866",
+      "name": "George Bonello Dupuis",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
       "constituency_label": "",
       "chamber": "Parliament of Malta",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q524961"
+      "roster_url": "http://www.wikidata.org/entity/Q1507005"
     },
     {
-      "id": "joe-grima",
+      "id": "michael-gonzi-q1817866",
+      "name": "Michael Gonzi",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6830673"
+    },
+    {
+      "id": "george-pullicino-q1817866",
+      "name": "George Pullicino",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1508101"
+    },
+    {
+      "id": "joe-grima-q1817866",
       "name": "Joe Grima",
       "sitting": true,
       "party_id": "unknown",
@@ -319,8 +298,21 @@
       "roster_url": "http://www.wikidata.org/entity/Q28777475"
     },
     {
-      "id": "joseph-cuschieri",
-      "name": "Joseph Cuschieri",
+      "id": "adrian-delia-q1817866",
+      "name": "Adrian Delia",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q39079256"
+    },
+    {
+      "id": "edwin-grech-q1817866",
+      "name": "Edwin Grech",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -329,101 +321,10 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q545552"
+      "roster_url": "http://www.wikidata.org/entity/Q19647023"
     },
     {
-      "id": "alexander-cachia-zammit",
-      "name": "Alexander Cachia Zammit",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q18536881"
-    },
-    {
-      "id": "guze-cassar",
-      "name": "Ġużè Cassar",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q18536886"
-    },
-    {
-      "id": "freddie-micallef",
-      "name": "Freddie Micallef",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q18536893"
-    },
-    {
-      "id": "philip-muscat",
-      "name": "Philip Muscat",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q18536899"
-    },
-    {
-      "id": "wenzu-mintoff",
-      "name": "Wenzu Mintoff",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q18536896"
-    },
-    {
-      "id": "michael-refalo",
-      "name": "Michael Refalo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19367343"
-    },
-    {
-      "id": "frank-portelli",
-      "name": "Frank Portelli",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5489047"
-    },
-    {
-      "id": "frederick-azzopardi",
+      "id": "frederick-azzopardi-q1817866",
       "name": "Frederick Azzopardi",
       "sitting": true,
       "party_id": "unknown",
@@ -436,72 +337,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q5497307"
     },
     {
-      "id": "gino-cauchi",
-      "name": "Gino Cauchi",
+      "id": "tonio-borg-q1817866",
+      "name": "Tonio Borg",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
       "constituency_label": "",
       "chamber": "Parliament of Malta",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q5563214"
+      "roster_url": "http://www.wikidata.org/entity/Q58176"
     },
     {
-      "id": "guze-ellul-mercer",
-      "name": "Ġużè Ellul Mercer",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5622909"
-    },
-    {
-      "id": "joseph-cefai",
-      "name": "Joseph Cefai",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5780657"
-    },
-    {
-      "id": "albert-hyzler",
-      "name": "Albert Hyzler",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q724469"
-    },
-    {
-      "id": "paul-boffa",
-      "name": "Paul Boffa",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q736796"
-    },
-    {
-      "id": "augusto-bartolo",
+      "id": "augusto-bartolo-q1817866",
       "name": "Augusto Bartolo",
       "sitting": true,
       "party_id": "unknown",
@@ -514,8 +363,99 @@
       "roster_url": "http://www.wikidata.org/entity/Q22017275"
     },
     {
-      "id": "joe-debono-grech",
-      "name": "Joe Debono Grech",
+      "id": "joseph-cefai-q1817866",
+      "name": "Joseph Cefai",
+      "sitting": true,
+      "party_id": "malta-workers-party",
+      "caucus": "Malta Workers Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5780657"
+    },
+    {
+      "id": "dom-mintoff-q1817866",
+      "name": "Dom Mintoff",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q167307"
+    },
+    {
+      "id": "agatha-barbara-q1817866",
+      "name": "Agatha Barbara",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q168387"
+    },
+    {
+      "id": "charles-mangion-q1817866",
+      "name": "Charles Mangion",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5080619"
+    },
+    {
+      "id": "joe-cassar-q1817866",
+      "name": "Joe Cassar",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q632408"
+    },
+    {
+      "id": "ugo-mifsud-bonnici-q1817866",
+      "name": "Ugo Mifsud Bonnici",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q167699"
+    },
+    {
+      "id": "censu-tabone-q1817866",
+      "name": "Ċensu Tabone",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q167937"
+    },
+    {
+      "id": "albert-fenech-q1817866",
+      "name": "Albert Fenech",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -524,11 +464,11 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q6209462"
+      "roster_url": "http://www.wikidata.org/entity/Q29581218"
     },
     {
-      "id": "josie-muscat",
-      "name": "Josie Muscat",
+      "id": "leo-brincat-q1817866",
+      "name": "Leo Brincat",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -537,131 +477,14 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q6290767"
+      "roster_url": "http://www.wikidata.org/entity/Q29581315"
     },
     {
-      "id": "austin-gatt",
-      "name": "Austin Gatt",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q781090"
-    },
-    {
-      "id": "carm-lino-spiteri",
-      "name": "Carm Lino Spiteri",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q23062741"
-    },
-    {
-      "id": "george-hyzler",
-      "name": "George Hyzler",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q23062758"
-    },
-    {
-      "id": "joe-fenech",
-      "name": "Joe Fenech",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q23062759"
-    },
-    {
-      "id": "karl-chircop",
-      "name": "Karl Chircop",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6371683"
-    },
-    {
-      "id": "marie-louise-coleiro-preca",
-      "name": "Marie-Louise Coleiro Preca",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6762928"
-    },
-    {
-      "id": "michael-dundon",
-      "name": "Michael Dundon",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6829985"
-    },
-    {
-      "id": "michael-gonzi",
-      "name": "Michael Gonzi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6830673"
-    },
-    {
-      "id": "marlene-farrugia",
-      "name": "Marlene Farrugia",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q24643928"
-    },
-    {
-      "id": "ninu-zammit",
+      "id": "ninu-zammit-q1817866",
       "name": "Ninu Zammit",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
       "constituency_label": "",
       "chamber": "Parliament of Malta",
       "lang": [
@@ -670,11 +493,76 @@
       "roster_url": "http://www.wikidata.org/entity/Q7039275"
     },
     {
-      "id": "philip-mifsud",
+      "id": "joe-debono-grech-q1817866",
+      "name": "Joe Debono Grech",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6209462"
+    },
+    {
+      "id": "john-dalli-q1817866",
+      "name": "John Dalli",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q518375"
+    },
+    {
+      "id": "dolores-cristina-q1817866",
+      "name": "Dolores Cristina",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q524877"
+    },
+    {
+      "id": "giovanna-debono-q1817866",
+      "name": "Giovanna Debono",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q524961"
+    },
+    {
+      "id": "john-vella-q1817866",
+      "name": "John Vella",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123938793"
+    },
+    {
+      "id": "philip-mifsud-q1817866",
       "name": "Philip Mifsud",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
       "constituency_label": "",
       "chamber": "Parliament of Malta",
       "lang": [
@@ -683,37 +571,11 @@
       "roster_url": "http://www.wikidata.org/entity/Q7184083"
     },
     {
-      "id": "robert-arrigo",
-      "name": "Robert Arrigo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7341603"
-    },
-    {
-      "id": "godfrey-farrugia",
-      "name": "Godfrey Farrugia",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q25688004"
-    },
-    {
-      "id": "emanuel-bonnici",
+      "id": "emanuel-bonnici-q1817866",
       "name": "Emanuel Bonnici",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
       "constituency_label": "",
       "chamber": "Parliament of Malta",
       "lang": [
@@ -722,11 +584,24 @@
       "roster_url": "http://www.wikidata.org/entity/Q28060735"
     },
     {
-      "id": "lawrence-gatt",
+      "id": "michael-falzon-q1817866",
+      "name": "Michael Falzon",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28061195"
+    },
+    {
+      "id": "lawrence-gatt-q1817866",
       "name": "Lawrence Gatt",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
       "constituency_label": "",
       "chamber": "Parliament of Malta",
       "lang": [
@@ -735,141 +610,11 @@
       "roster_url": "http://www.wikidata.org/entity/Q28061306"
     },
     {
-      "id": "john-rizzo-naudi",
-      "name": "John Rizzo Naudi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28114639"
-    },
-    {
-      "id": "censu-galea",
-      "name": "Ċensu Galea",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q8079637"
-    },
-    {
-      "id": "daniel-piscopo",
-      "name": "Daniel Piscopo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q940651"
-    },
-    {
-      "id": "george-borg-olivier",
-      "name": "George Borg Olivier",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q983140"
-    },
-    {
-      "id": "marthese-portelli",
-      "name": "Marthese Portelli",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q37861267"
-    },
-    {
-      "id": "adrian-delia",
-      "name": "Adrian Delia",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q39079256"
-    },
-    {
-      "id": "chris-agius",
-      "name": "Chris Agius",
+      "id": "evelyn-bonaci-q1817866",
+      "name": "Evelyn Bonaci",
       "sitting": true,
       "party_id": "labour-party",
       "caucus": "Labour Party",
-      "constituency_label": "District 2",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q37860847"
-    },
-    {
-      "id": "paula-mifsud-bonnici",
-      "name": "Paula Mifsud Bonnici",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q57817991"
-    },
-    {
-      "id": "tonio-borg",
-      "name": "Tonio Borg",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q58176"
-    },
-    {
-      "id": "mabel-strickland",
-      "name": "Mabel Strickland",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Malta",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q59966"
-    },
-    {
-      "id": "evelyn-bonaci",
-      "name": "Evelyn Bonaci",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
       "constituency_label": "",
       "chamber": "Parliament of Malta",
       "lang": [
@@ -878,8 +623,294 @@
       "roster_url": "http://www.wikidata.org/entity/Q66899992"
     },
     {
-      "id": "john-vella",
-      "name": "John Vella",
+      "id": "john-rizzo-naudi-q1817866",
+      "name": "John Rizzo Naudi",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28114639"
+    },
+    {
+      "id": "censu-galea-q1817866",
+      "name": "Ċensu Galea",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q8079637"
+    },
+    {
+      "id": "joseph-cuschieri-q1817866",
+      "name": "Joseph Cuschieri",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q545552"
+    },
+    {
+      "id": "godfrey-farrugia-q1817866",
+      "name": "Godfrey Farrugia",
+      "sitting": true,
+      "party_id": "democratic-party",
+      "caucus": "Democratic Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q25688004"
+    },
+    {
+      "id": "wistin-abela-q1817866",
+      "name": "Wistin Abela",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15651378"
+    },
+    {
+      "id": "joe-borg-q1817866",
+      "name": "Joe Borg",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q549456"
+    },
+    {
+      "id": "josie-muscat-q1817866",
+      "name": "Josie Muscat",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6290767"
+    },
+    {
+      "id": "franco-debono-q1817866",
+      "name": "Franco Debono",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13634850"
+    },
+    {
+      "id": "evarist-bartolo-q1817866",
+      "name": "Evarist Bartolo",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5416069"
+    },
+    {
+      "id": "robert-arrigo-q1817866",
+      "name": "Robert Arrigo",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7341603"
+    },
+    {
+      "id": "austin-gatt-q1817866",
+      "name": "Austin Gatt",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q781090"
+    },
+    {
+      "id": "turu-colombo-q1817866",
+      "name": "Turu Colombo",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107926704"
+    },
+    {
+      "id": "karl-chircop-q1817866",
+      "name": "Karl Chircop",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6371683"
+    },
+    {
+      "id": "mabel-strickland-q1817866",
+      "name": "Mabel Strickland",
+      "sitting": true,
+      "party_id": "progressive-constitutional-party",
+      "caucus": "Progressive Constitutional Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q59966"
+    },
+    {
+      "id": "carm-lino-spiteri-q1817866",
+      "name": "Carm Lino Spiteri",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q23062741"
+    },
+    {
+      "id": "george-hyzler-q1817866",
+      "name": "George Hyzler",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q23062758"
+    },
+    {
+      "id": "joe-fenech-q1817866",
+      "name": "Joe Fenech",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q23062759"
+    },
+    {
+      "id": "daniel-piscopo-q1817866",
+      "name": "Daniel Piscopo",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q940651"
+    },
+    {
+      "id": "paula-mifsud-bonnici-q1817866",
+      "name": "Paula Mifsud Bonnici",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57817991"
+    },
+    {
+      "id": "alfred-sant-q1817866",
+      "name": "Alfred Sant",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q559545"
+    },
+    {
+      "id": "frank-portelli-q1817866",
+      "name": "Frank Portelli",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5489047"
+    },
+    {
+      "id": "alex-sceberras-trigona-q1817866",
+      "name": "Alex Sceberras Trigona",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1710630"
+    },
+    {
+      "id": "paul-carachi-q1817866",
+      "name": "Paul Carachi",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -888,7 +919,1190 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q123938793"
+      "roster_url": "http://www.wikidata.org/entity/Q65496553"
+    },
+    {
+      "id": "gino-cauchi-q1817866",
+      "name": "Gino Cauchi",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5563214"
+    },
+    {
+      "id": "guze-cassar-q1817866",
+      "name": "Ġużè Cassar",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18536886"
+    },
+    {
+      "id": "freddie-micallef-q1817866",
+      "name": "Freddie Micallef",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18536893"
+    },
+    {
+      "id": "philip-muscat-q1817866",
+      "name": "Philip Muscat",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18536899"
+    },
+    {
+      "id": "wenzu-mintoff-q1817866",
+      "name": "Wenzu Mintoff",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18536896"
+    },
+    {
+      "id": "william-savona-q1817866",
+      "name": "William Savona",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2211038"
+    },
+    {
+      "id": "tonio-fenech-q1817866",
+      "name": "Tonio Fenech",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q247348"
+    },
+    {
+      "id": "alexander-cachia-zammit-q1817866",
+      "name": "Alexander Cachia Zammit",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18536881"
+    },
+    {
+      "id": "chris-agius-q1817866",
+      "name": "Chris Agius",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "District 2",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q37860847"
+    },
+    {
+      "id": "gerald-strickland-1st-baron-strickland-q1817866",
+      "name": "Gerald Strickland, 1st Baron Strickland",
+      "sitting": true,
+      "party_id": "conservative-party",
+      "caucus": "Conservative Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q333979"
+    },
+    {
+      "id": "mario-de-marco-q1817866",
+      "name": "Mario de Marco",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q441784"
+    },
+    {
+      "id": "guze-ellul-mercer-q1817866",
+      "name": "Ġużè Ellul Mercer",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5622909"
+    },
+    {
+      "id": "marthese-portelli-q1817866",
+      "name": "Marthese Portelli",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q37861267"
+    },
+    {
+      "id": "david-agius-q1817866",
+      "name": "David Agius",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "District 8",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q37860971"
+    },
+    {
+      "id": "ian-borg-q1817866",
+      "name": "Ian Borg",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "District 7",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q38220741"
+    },
+    {
+      "id": "anthony-montanaro-gauci-q1817866",
+      "name": "Anthony Montanaro Gauci",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124478771"
+    },
+    {
+      "id": "beppe-fenech-adami-q1817866",
+      "name": "Beppe Fenech Adami",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "District 8",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18536890"
+    },
+    {
+      "id": "owen-bonnici-q1817866",
+      "name": "Owen Bonnici",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "District 5",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16199692"
+    },
+    {
+      "id": "silvio-schembri-q1817866",
+      "name": "Silvio Schembri",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "District 7",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q23881652"
+    },
+    {
+      "id": "anthony-pullicino-q1817866",
+      "name": "Anthony Pullicino",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q132310082"
+    },
+    {
+      "id": "konrad-mizzi-q1817866",
+      "name": "Konrad Mizzi",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "District 4",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15711259"
+    },
+    {
+      "id": "carmelo-mifsud-bonnici-q1817866",
+      "name": "Carmelo Mifsud Bonnici",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "District 4",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1043584"
+    },
+    {
+      "id": "robert-abela-q1817866",
+      "name": "Robert Abela",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "District 6",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q37860840"
+    },
+    {
+      "id": "joseph-flores-q1817866",
+      "name": "Joseph Flores",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6283143"
+    },
+    {
+      "id": "jason-azzopardi-q1817866",
+      "name": "Jason Azzopardi",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "District 4",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1683865"
+    },
+    {
+      "id": "roderick-galdes-q1817866",
+      "name": "Roderick Galdes",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "District 6",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20949398"
+    },
+    {
+      "id": "aaron-farrugia-q1817866",
+      "name": "Aaron Farrugia",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "District 1",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4661996"
+    },
+    {
+      "id": "emmanuel-mallia-q1817866",
+      "name": "Emmanuel Mallia",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "District 9",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5373281"
+    },
+    {
+      "id": "christian-cardona-q1817866",
+      "name": "Christian Cardona",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "District 8",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16213896"
+    },
+    {
+      "id": "chris-fearne-q1817866",
+      "name": "Chris Fearne",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "District 3",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18206002"
+    },
+    {
+      "id": "edwin-busuttil-q1817866",
+      "name": "Edwin Busuttil",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5346277"
+    },
+    {
+      "id": "edward-scicluna-q1817866",
+      "name": "Edward Scicluna",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "District 7",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q173958"
+    },
+    {
+      "id": "alex-muscat-q1817866",
+      "name": "Alex Muscat",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "District 11",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q37861255"
+    },
+    {
+      "id": "therese-comodini-cachia-q1817866",
+      "name": "Therese Comodini Cachia",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "District 8",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17266625"
+    },
+    {
+      "id": "robert-cutajar-q1817866",
+      "name": "Robert Cutajar",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "District 12",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q27663240"
+    },
+    {
+      "id": "mario-galea-q1817866",
+      "name": "Mario Galea",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "District 3",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1596298"
+    },
+    {
+      "id": "christopher-said-q1817866",
+      "name": "Christopher Said",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "District 13",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2668705"
+    },
+    {
+      "id": "carmelo-abela-q1817866",
+      "name": "Carmelo Abela",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "District 3",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5043368"
+    },
+    {
+      "id": "glenn-bedingfield-q1817866",
+      "name": "Glenn Bedingfield",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "District 2",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1531043"
+    },
+    {
+      "id": "silvio-parnis-q1817866",
+      "name": "Silvio Parnis",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "District 4",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20983473"
+    },
+    {
+      "id": "stephen-spiteri-q1817866",
+      "name": "Stephen Spiteri",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "District 2",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q37861307"
+    },
+    {
+      "id": "rosianne-cutajar-q1817866",
+      "name": "Rosianne Cutajar",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "District 6",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q37861077"
+    },
+    {
+      "id": "julia-farrugia-q1817866",
+      "name": "Julia Farrugia",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "District 5",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q37861162"
+    },
+    {
+      "id": "simon-busuttil-q1817866",
+      "name": "Simon Busuttil",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "District 12",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1363583"
+    },
+    {
+      "id": "justyne-caruana-q1817866",
+      "name": "Justyne Caruana",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "District 13",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q37861067"
+    },
+    {
+      "id": "peter-micallef-q1817866",
+      "name": "Peter Micallef",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56883641"
+    },
+    {
+      "id": "salvatore-borg-olivier-q1817866",
+      "name": "Salvatore Borg Olivier",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124478504"
+    },
+    {
+      "id": "giuseppe-degiorgio-q1817866",
+      "name": "Giuseppe Degiorgio",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124488131"
+    },
+    {
+      "id": "claudette-buttigieg-q1817866",
+      "name": "Claudette Buttigieg",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "District 12",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q440207"
+    },
+    {
+      "id": "michael-farrugia-q1817866",
+      "name": "Michael Farrugia",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "District 12",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q37861149"
+    },
+    {
+      "id": "robert-hamilton-q1817866",
+      "name": "Robert Hamilton",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107600531"
+    },
+    {
+      "id": "ryan-callus-q1817866",
+      "name": "Ryan Callus",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "District 6",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17016298"
+    },
+    {
+      "id": "karol-aquilina-q1817866",
+      "name": "Karol Aquilina",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "District 10",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q37860993"
+    },
+    {
+      "id": "joseph-cassar-galea-q1817866",
+      "name": "Joseph Cassar Galea",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q65496391"
+    },
+    {
+      "id": "edgar-arrigo-q1817866",
+      "name": "Edgar Arrigo",
+      "sitting": true,
+      "party_id": "maltese-political-union",
+      "caucus": "Maltese Political Union",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124478398"
+    },
+    {
+      "id": "joe-mizzi-q1817866",
+      "name": "Joe Mizzi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "District 2",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18536891"
+    },
+    {
+      "id": "clifton-grima-q1817866",
+      "name": "Clifton Grima",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "District 9",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q37861219"
+    },
+    {
+      "id": "anthony-agius-decelis-q1817866",
+      "name": "Anthony Agius Decelis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "District 11",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q37860981"
+    },
+    {
+      "id": "ivan-bartolo-q1817866",
+      "name": "Ivan Bartolo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "District 11",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q37861023"
+    },
+    {
+      "id": "edwin-vassallo-q1817866",
+      "name": "Edwin Vassallo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "District 11",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q37861332"
+    },
+    {
+      "id": "helena-dalli-q1817866",
+      "name": "Helena Dalli",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "District 3",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19958063"
+    },
+    {
+      "id": "deo-debattista-q1817866",
+      "name": "Deo Debattista",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "District 1",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q37861089"
+    },
+    {
+      "id": "anthony-bezzina-q1817866",
+      "name": "Anthony Bezzina",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "District 5",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q37861035"
+    },
+    {
+      "id": "byron-camilleri-q1817866",
+      "name": "Byron Camilleri",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "District 4",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q37861044"
+    },
+    {
+      "id": "claudio-grech-q1817866",
+      "name": "Claudio Grech",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "District 1",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q37861189"
+    },
+    {
+      "id": "jose-herrera-q1817866",
+      "name": "Josè Herrera",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "District 1",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q37861244"
+    },
+    {
+      "id": "silvio-grixti-q1817866",
+      "name": "Silvio Grixti",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "District 3",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q37861230"
+    },
+    {
+      "id": "jean-pierre-debono-q1817866",
+      "name": "Jean Pierre Debono",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "District 7",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q37861103"
+    },
+    {
+      "id": "etienne-grech-q1817866",
+      "name": "Etienne Grech",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "District 4",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q37861203"
+    },
+    {
+      "id": "hermann-schiavone-q1817866",
+      "name": "Hermann Schiavone",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "District 5",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q37861292"
+    },
+    {
+      "id": "edward-zammit-lewis-q1817866",
+      "name": "Edward Zammit Lewis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "District 8",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q37861343"
+    },
+    {
+      "id": "stefan-zrinzo-azzopardi-q1817866",
+      "name": "Stefan Zrinzo Azzopardi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "District 5",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q37861353"
+    },
+    {
+      "id": "kristy-debono-q1817866",
+      "name": "Kristy Debono",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "District 9",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q37861118"
+    },
+    {
+      "id": "clint-camilleri-q1817866",
+      "name": "Clint Camilleri",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "District 13",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q37861054"
+    },
+    {
+      "id": "anton-refalo-q1817866",
+      "name": "Anton Refalo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "District 13",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q37861279"
+    },
+    {
+      "id": "david-stellini-q1817866",
+      "name": "David Stellini",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "District 13",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q37861319"
+    },
+    {
+      "id": "maria-deguara-q1817866",
+      "name": "Maria Deguara",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "District 11",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q37861132"
+    },
+    {
+      "id": "karl-gouder-q1817866",
+      "name": "Karl Gouder",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "District 10",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q37861176"
+    },
+    {
+      "id": "clayton-bartolo-q1817866",
+      "name": "Clayton Bartolo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "District 12",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q37861005"
+    },
+    {
+      "id": "paul-xuereb-q1817866",
+      "name": "Paul Xuereb",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q167796"
+    },
+    {
+      "id": "anton-tabone-q1817866",
+      "name": "Anton Tabone",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q594665"
+    },
+    {
+      "id": "joseph-m-baldacchino-q1817866",
+      "name": "Joseph M. Baldacchino",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1532310"
+    },
+    {
+      "id": "lawrence-gonzi-q1817866",
+      "name": "Lawrence Gonzi",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57620"
+    },
+    {
+      "id": "michael-frendo-q1817866",
+      "name": "Michael Frendo",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1275788"
+    },
+    {
+      "id": "paolo-pace-q1817866",
+      "name": "Paolo Pace",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2050417"
+    },
+    {
+      "id": "daniel-micallef-q1817866",
+      "name": "Daniel Micallef",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1161757"
+    },
+    {
+      "id": "myriam-spiteri-debono-q1817866",
+      "name": "Myriam Spiteri Debono",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1647394"
+    },
+    {
+      "id": "emmanuel-attard-bezzina-q1817866",
+      "name": "Emmanuel Attard Bezzina",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1338158"
+    },
+    {
+      "id": "alfred-bonnici-q1817866",
+      "name": "Alfred Bonnici",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1660593"
+    },
+    {
+      "id": "jimmy-farrugia-q1817866",
+      "name": "Jimmy Farrugia",
+      "sitting": true,
+      "party_id": "nationalist-party",
+      "caucus": "Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1689357"
+    },
+    {
+      "id": "nestu-laiviera-q1817866",
+      "name": "Nestu Laiviera",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Malta",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1743729"
     }
   ]
 }

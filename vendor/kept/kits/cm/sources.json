@@ -3,8 +3,46 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q25039919"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q25039919",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q3510836",
+      "label": "Senate of Cameroon",
+      "url": "https://senat.cm/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q3510836",
+      "label": "Senate of Cameroon (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q3510836",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q25039919",
+      "label": "Parliament of Cameroon (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q25039919",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1634099",
+      "label": "National Assembly of Cameroon",
+      "url": "https://www.assnat.cm/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1634099",
+      "label": "National Assembly of Cameroon (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1634099",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

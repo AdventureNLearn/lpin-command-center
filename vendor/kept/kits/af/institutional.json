@@ -1,0 +1,30 @@
+{
+  "iso2": "af",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q889",
+  "bodies": [
+    {
+      "qid": "Q1194049",
+      "label": "House of Elders",
+      "seats": 102,
+      "web": "http://mj.parliament.af",
+      "kind": "lower"
+    }
+  ],
+  "houses": [
+    "House of Elders"
+  ],
+  "seats": 102,
+  "items": [
+    {
+      "id": "Q1194049",
+      "name": "House of Elders",
+      "kind": "lower",
+      "seats": 102,
+      "url": "http://mj.parliament.af"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

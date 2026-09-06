@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1427127"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1427127",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21295984",
+      "label": "Member of the National Assembly of Gambia (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21295984",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1427127",
+      "label": "National Assembly of The Gambia",
+      "url": "https://www.assembly.gm/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1427127",
+      "label": "National Assembly of The Gambia (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1427127",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

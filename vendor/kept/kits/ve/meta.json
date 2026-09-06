@@ -3,9 +3,9 @@
   "name": "Venezuela, Bolivarian Republic of",
   "region": "",
   "chamber": "National Assembly  of Venezuela",
-  "houses": "",
+  "houses": "unicameral",
   "system": "",
-  "seats": 263,
+  "seats": 285,
   "election": "",
   "session": "",
   "kit": "scoring",
@@ -14,8 +14,8 @@
   ],
   "threshold": 5,
   "counts": {
-    "members": 263,
-    "sitting": 263,
+    "members": 283,
+    "sitting": 283,
     "votes": 0,
     "committees": 0,
     "key_votes": 0,
@@ -38,7 +38,7 @@
   "incomplete": true,
   "lane": "gold-kit-8103",
   "source_live": null,
-  "note": "Gold object shape 2026-09-06. Sitting 263 from Wikidata. Votes/pledges/money empty — not invented.",
+  "note": "Full-ISO Wikidata fill 2026-09-06. 2 bodies. Sitting 283. Votes/pledges/ethics/money not invented.",
   "roster_source": "https://www.wikidata.org/wiki/Q1585014",
   "honest_complete": false
 }

@@ -1,0 +1,59 @@
+{
+  "iso2": "ro",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q218",
+  "bodies": [
+    {
+      "qid": "Q320306",
+      "label": "Chamber of Deputies of Romania",
+      "seats": 330,
+      "web": "http://www.cdep.ro",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1813360",
+      "label": "Parliament of Romania",
+      "seats": 466,
+      "web": "http://www.parlament.ro/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q1466018",
+      "label": "Senate",
+      "seats": 140,
+      "web": "https://www.senat.ro",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Chamber of Deputies of Romania",
+    "Senate"
+  ],
+  "seats": 936,
+  "items": [
+    {
+      "id": "Q320306",
+      "name": "Chamber of Deputies of Romania",
+      "kind": "chamber",
+      "seats": 330,
+      "url": "http://www.cdep.ro"
+    },
+    {
+      "id": "Q1813360",
+      "name": "Parliament of Romania",
+      "kind": "parliament",
+      "seats": 466,
+      "url": "http://www.parlament.ro/"
+    },
+    {
+      "id": "Q1466018",
+      "name": "Senate",
+      "kind": "chamber",
+      "seats": 140,
+      "url": "https://www.senat.ro"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

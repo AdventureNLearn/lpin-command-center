@@ -3,21 +3,117 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q106506537",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 1,
+  "incomplete": true,
+  "claimed_seats": 181,
+  "chambers": [
+    "National Council of Turkmenistan",
+    "Assembly of Turkmenistan",
+    "Government Council of Turkmenistan"
+  ],
   "items": [
     {
-      "id": "gozel-nuralyyewa",
-      "name": "Gözel Nuralyýewa",
+      "id": "serdar-berdimuhamedow-q630145",
+      "name": "Serdar Berdimuhamedow",
+      "sitting": true,
+      "party_id": "democratic-party-of-turkmenistan",
+      "caucus": "Democratic Party of Turkmenistan",
+      "constituency_label": "",
+      "chamber": "Assembly of Turkmenistan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q51874548"
+    },
+    {
+      "id": "sakhat-muradov-q630145",
+      "name": "Sakhat Muradov",
+      "sitting": true,
+      "party_id": "democratic-party-of-turkmenistan",
+      "caucus": "Democratic Party of Turkmenistan",
+      "constituency_label": "",
+      "chamber": "Assembly of Turkmenistan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4307790"
+    },
+    {
+      "id": "rejepbay-arazow-q630145",
+      "name": "Rejepbaý Arazow",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "National Council of Turkmenistan",
+      "chamber": "Assembly of Turkmenistan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q11349827"
+    },
+    {
+      "id": "gulsat-mammedowa-q630145",
+      "name": "Gülşat Mämmedowa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Assembly of Turkmenistan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18200512"
+    },
+    {
+      "id": "rasit-meredow-q630145",
+      "name": "Raşit Meredow",
+      "sitting": true,
+      "party_id": "democratic-party-of-turkmenistan",
+      "caucus": "Democratic Party of Turkmenistan",
+      "constituency_label": "",
+      "chamber": "Assembly of Turkmenistan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58141"
+    },
+    {
+      "id": "gozel-nuralyyewa-q630145",
+      "name": "Gözel Nuralyýewa",
+      "sitting": true,
+      "party_id": "communist-party-of-the-soviet-union",
+      "caucus": "Communist Party of the Soviet Union",
+      "constituency_label": "",
+      "chamber": "Assembly of Turkmenistan",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q39083553"
+    },
+    {
+      "id": "owezgeldi-atayew-q630145",
+      "name": "Öwezgeldi Ataýew",
+      "sitting": true,
+      "party_id": "democratic-party-of-turkmenistan",
+      "caucus": "Democratic Party of Turkmenistan",
+      "constituency_label": "",
+      "chamber": "Assembly of Turkmenistan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q307627"
+    },
+    {
+      "id": "akja-nurberdiyewa-q630145",
+      "name": "Akja Nurberdiýewa",
+      "sitting": true,
+      "party_id": "democratic-party-of-turkmenistan",
+      "caucus": "Democratic Party of Turkmenistan",
+      "constituency_label": "",
+      "chamber": "Assembly of Turkmenistan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4328063"
     }
   ]
 }

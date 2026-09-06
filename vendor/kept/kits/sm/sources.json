@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q817979"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q817979",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q817979",
+      "label": "Grand and General Council",
+      "url": "https://www.consigliograndeegenerale.sm/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q817979",
+      "label": "Grand and General Council (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q817979",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q20968670",
+      "label": "member of the Grand and General Council of San Marino (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q20968670",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

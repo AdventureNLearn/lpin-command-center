@@ -1,7 +1,74 @@
 {
   "iso2": "gb",
   "kit": "institutional",
-  "items": [],
   "incomplete": true,
-  "note": ":8103 claimed institutional_kits = 0."
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q145",
+  "bodies": [
+    {
+      "qid": "Q11007",
+      "label": "House of Lords",
+      "seats": 808,
+      "web": "http://www.parliament.uk/lords/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q11010",
+      "label": "Parliament of the United Kingdom",
+      "seats": 1433,
+      "web": "https://www.parliament.uk/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q11005",
+      "label": "House of Commons",
+      "seats": 650,
+      "web": "https://www.parliament.uk/business/commons/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q9134365",
+      "label": "Monarch of the United Kingdom",
+      "seats": 0,
+      "web": "https://www.royal.uk/the-king-0",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "House of Lords",
+    "House of Commons",
+    "Monarch of the United Kingdom"
+  ],
+  "seats": 2891,
+  "items": [
+    {
+      "id": "Q11007",
+      "name": "House of Lords",
+      "kind": "chamber",
+      "seats": 808,
+      "url": "http://www.parliament.uk/lords/"
+    },
+    {
+      "id": "Q11010",
+      "name": "Parliament of the United Kingdom",
+      "kind": "parliament",
+      "seats": 1433,
+      "url": "https://www.parliament.uk/"
+    },
+    {
+      "id": "Q11005",
+      "name": "House of Commons",
+      "kind": "chamber",
+      "seats": 650,
+      "url": "https://www.parliament.uk/business/commons/"
+    },
+    {
+      "id": "Q9134365",
+      "name": "Monarch of the United Kingdom",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.royal.uk/the-king-0"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

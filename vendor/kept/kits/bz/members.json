@@ -3,983 +3,2912 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1965042",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 75,
+  "incomplete": true,
+  "claimed_seats": 44,
+  "chambers": [
+    "House of Representatives",
+    "National Assembly",
+    "Senate of Belize"
+  ],
   "items": [
     {
-      "id": "angel-campos",
-      "name": "Angel Campos",
-      "sitting": true,
-      "party_id": "united-democratic-party",
-      "caucus": "United Democratic Party",
-      "constituency_label": "Corozal South West",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q58896048"
-    },
-    {
-      "id": "edmond-castro",
-      "name": "Edmond Castro",
-      "sitting": true,
-      "party_id": "united-democratic-party",
-      "caucus": "United Democratic Party",
-      "constituency_label": "Belize Rural North",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5338849"
-    },
-    {
-      "id": "carlos-perdomo",
-      "name": "Carlos Perdomo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5042485"
-    },
-    {
-      "id": "manuel-heredia",
-      "name": "Manuel Heredia",
-      "sitting": true,
-      "party_id": "united-democratic-party",
-      "caucus": "United Democratic Party",
-      "constituency_label": "Belize Rural South",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16729784"
-    },
-    {
-      "id": "gabriel-martinez",
-      "name": "Gabriel Martinez",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5515743"
-    },
-    {
-      "id": "john-saldivar",
-      "name": "John Saldivar",
-      "sitting": true,
-      "party_id": "united-democratic-party",
-      "caucus": "United Democratic Party",
-      "constituency_label": "Belmopan",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6256510"
-    },
-    {
-      "id": "erwin-contreras",
-      "name": "Erwin Contreras",
-      "sitting": true,
-      "party_id": "united-democratic-party",
-      "caucus": "United Democratic Party",
-      "constituency_label": "Cayo West",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5396111"
-    },
-    {
-      "id": "gaspar-vega",
-      "name": "Gaspar Vega",
-      "sitting": true,
-      "party_id": "united-democratic-party",
-      "caucus": "United Democratic Party",
-      "constituency_label": "Orange Walk North",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5526559"
-    },
-    {
-      "id": "johnny-briceno",
-      "name": "Johnny Briceño",
-      "sitting": true,
-      "party_id": "people-s-united-party",
-      "caucus": "People's United Party",
-      "constituency_label": "Orange Walk Central",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6266369"
-    },
-    {
-      "id": "said-musa",
-      "name": "Said Musa",
-      "sitting": true,
-      "party_id": "people-s-united-party",
-      "caucus": "People's United Party",
-      "constituency_label": "Fort George",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q335215"
-    },
-    {
-      "id": "julius-espat",
-      "name": "Julius Espat",
-      "sitting": true,
-      "party_id": "people-s-united-party",
-      "caucus": "People's United Party",
-      "constituency_label": "Cayo South",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q24953658"
-    },
-    {
-      "id": "florencio-marin-jr",
-      "name": "Florencio Marin Jr.",
-      "sitting": true,
-      "party_id": "people-s-united-party",
-      "caucus": "People's United Party",
-      "constituency_label": "Corozal South East",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q24953659"
-    },
-    {
-      "id": "michael-espat",
-      "name": "Michael Espat",
-      "sitting": true,
-      "party_id": "people-s-united-party",
-      "caucus": "People's United Party",
-      "constituency_label": "Toledo East",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q24953679"
-    },
-    {
-      "id": "anthony-martinez",
-      "name": "Anthony Martinez",
-      "sitting": true,
-      "party_id": "united-democratic-party",
-      "caucus": "United Democratic Party",
-      "constituency_label": "Port Loyola",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4773030"
-    },
-    {
-      "id": "jose-abelardo-mai",
-      "name": "Jose Abelardo Mai",
-      "sitting": true,
-      "party_id": "people-s-united-party",
-      "caucus": "People's United Party",
-      "constituency_label": "Orange Walk South",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q24953680"
-    },
-    {
-      "id": "oscar-requena",
-      "name": "Oscar Requena",
-      "sitting": true,
-      "party_id": "people-s-united-party",
-      "caucus": "People's United Party",
-      "constituency_label": "Toledo West",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q24953661"
-    },
-    {
-      "id": "valdemar-castillo",
-      "name": "Valdemar Castillo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16107250"
-    },
-    {
-      "id": "juan-vildo-marin",
-      "name": "Juan Vildo Marin",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16193234"
-    },
-    {
-      "id": "marcel-cardona",
-      "name": "Marcel Cardona",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16202484"
-    },
-    {
-      "id": "dan-silva",
-      "name": "Dan Silva",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16941349"
-    },
-    {
-      "id": "francis-fonseca",
-      "name": "Francis Fonseca",
-      "sitting": true,
-      "party_id": "people-s-united-party",
-      "caucus": "People's United Party",
-      "constituency_label": "Freetown",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5480967"
-    },
-    {
-      "id": "florencio-marin-sr",
-      "name": "Florencio Marin Sr.",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q18207407"
-    },
-    {
-      "id": "agripino-cawich",
-      "name": "Agripino Cawich",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q18631146"
-    },
-    {
-      "id": "c-l-b-rogers",
-      "name": "C. L. B. Rogers",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q18808877"
-    },
-    {
-      "id": "estevan-perera",
-      "name": "Estevan Perera",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19604922"
-    },
-    {
-      "id": "darrell-bradley",
-      "name": "Darrell Bradley",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19873846"
-    },
-    {
-      "id": "derek-aikman",
-      "name": "Derek Aikman",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19938155"
-    },
-    {
-      "id": "adolfo-lizarraga",
-      "name": "Adolfo Lizarraga",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q20983385"
-    },
-    {
-      "id": "curl-thompson",
-      "name": "Curl Thompson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q21196638"
-    },
-    {
-      "id": "wilfred-elrington",
-      "name": "Wilfred Elrington",
-      "sitting": true,
-      "party_id": "united-democratic-party",
-      "caucus": "United Democratic Party",
-      "constituency_label": "Pickstock",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q58325"
-    },
-    {
-      "id": "jorge-espat",
-      "name": "Jorge Espat",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6277953"
-    },
-    {
-      "id": "juan-coy",
-      "name": "Juan Coy",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6299534"
-    },
-    {
-      "id": "marco-pech",
-      "name": "Marco Pech",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6757653"
-    },
-    {
-      "id": "maxwell-samuels",
-      "name": "Maxwell Samuels",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6796144"
-    },
-    {
-      "id": "arthur-roches",
-      "name": "Arthur Roches",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q24953722"
-    },
-    {
-      "id": "peter-martinez",
-      "name": "Peter Martinez",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q24953688"
-    },
-    {
-      "id": "beverly-castillo",
-      "name": "Beverly Castillo",
-      "sitting": true,
-      "party_id": "united-democratic-party",
-      "caucus": "United Democratic Party",
-      "constituency_label": "Belize Rural Central",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q22092213"
-    },
-    {
-      "id": "sylvia-flores",
-      "name": "Sylvia Flores",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q27943427"
-    },
-    {
-      "id": "laura-tucker-longsworth",
-      "name": "Laura Tucker-Longsworth",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28777204"
-    },
-    {
-      "id": "omar-figueroa",
-      "name": "Omar Figueroa",
-      "sitting": true,
-      "party_id": "united-democratic-party",
-      "caucus": "United Democratic Party",
-      "constituency_label": "Cayo North",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q27983601"
-    },
-    {
-      "id": "dean-barrow",
-      "name": "Dean Barrow",
-      "sitting": true,
-      "party_id": "united-democratic-party",
-      "caucus": "United Democratic Party",
-      "constituency_label": "Queen's Square",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q57701"
-    },
-    {
-      "id": "cordel-hyde",
-      "name": "Cordel Hyde",
-      "sitting": true,
-      "party_id": "people-s-united-party",
-      "caucus": "People's United Party",
-      "constituency_label": "Lake Independence",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q58896069"
-    },
-    {
-      "id": "kareem-musa",
-      "name": "Kareem Musa",
-      "sitting": true,
-      "party_id": "people-s-united-party",
-      "caucus": "People's United Party",
-      "constituency_label": "Caribbean Shores",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q58896061"
-    },
-    {
-      "id": "orlando-habet",
-      "name": "Orlando Habet",
-      "sitting": true,
-      "party_id": "people-s-united-party",
-      "caucus": "People's United Party",
-      "constituency_label": "Cayo North East",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q58896079"
-    },
-    {
-      "id": "santiago-castillo",
-      "name": "Santiago Castillo",
-      "sitting": true,
-      "party_id": "united-democratic-party",
-      "caucus": "United Democratic Party",
-      "constituency_label": "Caribbean Shores",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q24953644"
-    },
-    {
-      "id": "dolores-balderamos-garcia",
-      "name": "Dolores Balderamos-García",
-      "sitting": true,
-      "party_id": "people-s-united-party",
-      "caucus": "People's United Party",
-      "constituency_label": "Belize Rural Central",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5289506"
-    },
-    {
-      "id": "elvin-penner",
-      "name": "Elvin Penner",
-      "sitting": true,
-      "party_id": "united-democratic-party",
-      "caucus": "United Democratic Party",
-      "constituency_label": "Cayo North East",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5368083"
-    },
-    {
-      "id": "hugo-patt",
-      "name": "Hugo Patt",
-      "sitting": true,
-      "party_id": "united-democratic-party",
-      "caucus": "United Democratic Party",
-      "constituency_label": "Corozal North",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q24953636"
-    },
-    {
-      "id": "tracy-panton",
-      "name": "Tracy Panton",
-      "sitting": true,
-      "party_id": "united-democratic-party",
-      "caucus": "United Democratic Party",
-      "constituency_label": "Albert",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q58896015"
-    },
-    {
-      "id": "mark-king",
-      "name": "Mark King",
-      "sitting": true,
-      "party_id": "united-democratic-party",
-      "caucus": "United Democratic Party",
-      "constituency_label": "Lake Independence",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q25354502"
-    },
-    {
-      "id": "glenn-godfrey",
-      "name": "Glenn Godfrey",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q66756001"
-    },
-    {
-      "id": "anthony-mahler",
-      "name": "Anthony Mahler",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q109930990"
-    },
-    {
-      "id": "andre-perez",
-      "name": "Andre Perez",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q109930999"
-    },
-    {
-      "id": "kevin-bernard",
-      "name": "Kevin Bernard",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q109930959"
-    },
-    {
-      "id": "henry-charles-usher",
-      "name": "Henry Charles Usher",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q109931006"
-    },
-    {
-      "id": "joseph-mahmud",
-      "name": "Joseph Mahmud",
-      "sitting": true,
-      "party_id": "people-s-united-party",
-      "caucus": "People's United Party",
-      "constituency_label": "Cayo North",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6285230"
-    },
-    {
-      "id": "frank-mena",
-      "name": "Frank Mena",
-      "sitting": true,
-      "party_id": "united-democratic-party",
-      "caucus": "United Democratic Party",
-      "constituency_label": "Dangriga",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q58896056"
-    },
-    {
-      "id": "alex-balona",
+      "id": "alex-balona-q827805",
       "name": "Alex Balona",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
       "constituency_label": "",
-      "chamber": "National Assembly",
+      "chamber": "House of Representatives",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q118442703"
     },
     {
-      "id": "denise-barrow",
-      "name": "Denise Barrow",
+      "id": "mario-castellanos-q827805",
+      "name": "Mario Castellanos",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
       "constituency_label": "",
-      "chamber": "National Assembly",
+      "chamber": "House of Representatives",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q118602428"
+      "roster_url": "http://www.wikidata.org/entity/Q86004087"
     },
     {
-      "id": "marconi-leal",
+      "id": "onesimo-pech-q827805",
+      "name": "Onesimo Pech",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q65330035"
+    },
+    {
+      "id": "paul-guerrero-q827805",
+      "name": "Paul Guerrero",
+      "sitting": true,
+      "party_id": "national-independence-party",
+      "caucus": "National Independence Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86003166"
+    },
+    {
+      "id": "marconi-leal-q827805",
       "name": "Marconi Leal",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
       "constituency_label": "",
-      "chamber": "National Assembly",
+      "chamber": "House of Representatives",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q118720237"
     },
     {
-      "id": "oscar-mira",
+      "id": "oscar-mira-q827805",
       "name": "Oscar Mira",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
       "constituency_label": "",
-      "chamber": "National Assembly",
+      "chamber": "House of Representatives",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q118732632"
     },
     {
-      "id": "gilroy-usher",
+      "id": "gilroy-usher-q827805",
       "name": "Gilroy Usher",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
       "constituency_label": "",
-      "chamber": "National Assembly",
+      "chamber": "House of Representatives",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q118776864"
     },
     {
-      "id": "michael-finnegan",
-      "name": "Michael Finnegan",
+      "id": "david-vega-q827805",
+      "name": "David Vega",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q118785666"
+    },
+    {
+      "id": "sam-vernon-q827805",
+      "name": "Sam Vernon",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86003677"
+    },
+    {
+      "id": "anthony-mahler-q827805",
+      "name": "Anthony Mahler",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109930990"
+    },
+    {
+      "id": "andre-perez-q827805",
+      "name": "Andre Perez",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109930999"
+    },
+    {
+      "id": "kevin-bernard-q827805",
+      "name": "Kevin Bernard",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109930959"
+    },
+    {
+      "id": "henry-charles-usher-q827805",
+      "name": "Henry Charles Usher",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109931006"
+    },
+    {
+      "id": "fred-hunter-q827805",
+      "name": "Fred Hunter",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86003604"
+    },
+    {
+      "id": "marco-pech-q827805",
+      "name": "Marco Pech",
       "sitting": true,
       "party_id": "united-democratic-party",
       "caucus": "United Democratic Party",
-      "constituency_label": "Mesopotamia",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6830297"
-    },
-    {
-      "id": "vernon-harrison-courtenay",
-      "name": "Vernon Harrison Courtenay",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
       "constituency_label": "",
-      "chamber": "National Assembly",
+      "chamber": "House of Representatives",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q85852112"
+      "roster_url": "http://www.wikidata.org/entity/Q6757653"
     },
     {
-      "id": "henry-george-canton",
-      "name": "Henry George Canton",
+      "id": "henry-young-q827805",
+      "name": "Henry Young",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
       "constituency_label": "",
-      "chamber": "National Assembly",
+      "chamber": "House of Representatives",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q86002829"
+      "roster_url": "http://www.wikidata.org/entity/Q86003768"
     },
     {
-      "id": "allan-arthurs",
+      "id": "gregorio-garcia-q827805",
+      "name": "Gregorio Garcia",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86003954"
+    },
+    {
+      "id": "ruben-campos-q827805",
+      "name": "Ruben Campos",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86003877"
+    },
+    {
+      "id": "joseph-andrews-q827805",
+      "name": "Joseph Andrews",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86004074"
+    },
+    {
+      "id": "sandy-hunter-q827805",
+      "name": "Sandy Hunter",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86003791"
+    },
+    {
+      "id": "miguel-ruiz-q827805",
+      "name": "Miguel Ruiz",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86004058"
+    },
+    {
+      "id": "edmond-castro-q827805",
+      "name": "Edmond Castro",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5338849"
+    },
+    {
+      "id": "nemencio-acosta-q827805",
+      "name": "Nemencio Acosta",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86003063"
+    },
+    {
+      "id": "william-stanley-usher-q827805",
+      "name": "William Stanley Usher",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86003051"
+    },
+    {
+      "id": "wilfred-dennis-usher-q827805",
+      "name": "Wilfred Dennis Usher",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86003058"
+    },
+    {
+      "id": "elito-urbina-q827805",
+      "name": "Elito Urbina",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86003301"
+    },
+    {
+      "id": "asterio-ortega-q827805",
+      "name": "Asterio Ortega",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86003941"
+    },
+    {
+      "id": "leliz-carballo-q827805",
+      "name": "Leliz Carballo",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86003860"
+    },
+    {
+      "id": "salvador-fernandez-q827805",
+      "name": "Salvador Fernandez",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86003928"
+    },
+    {
+      "id": "ramon-witz-q827805",
+      "name": "Ramon Witz",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86004010"
+    },
+    {
+      "id": "hubert-elrington-q827805",
+      "name": "Hubert Elrington",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86004158"
+    },
+    {
+      "id": "hector-silva-q827805",
+      "name": "Hector Silva",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86003931"
+    },
+    {
+      "id": "guadalupe-pech-q827805",
+      "name": "Guadalupe Pech",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q85852274"
+    },
+    {
+      "id": "remijio-montejo-q827805",
+      "name": "Remijio Montejo",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q85852266"
+    },
+    {
+      "id": "faith-babb-q827805",
+      "name": "Faith Babb",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q80661804"
+    },
+    {
+      "id": "simeon-sampson-q827805",
+      "name": "Simeon Sampson",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86003168"
+    },
+    {
+      "id": "leopoldo-briceno-q827805",
+      "name": "Leopoldo Briceño",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86003300"
+    },
+    {
+      "id": "dave-burgos-q827805",
+      "name": "Dave Burgos",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86003412"
+    },
+    {
+      "id": "albert-cattouse-q827805",
+      "name": "Albert Cattouse",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86003589"
+    },
+    {
+      "id": "victor-orellana-q827805",
+      "name": "Victor Orellana",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86003482"
+    },
+    {
+      "id": "frederick-westby-q827805",
+      "name": "Frederick Westby",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86003582"
+    },
+    {
+      "id": "santiago-ricalde-q827805",
+      "name": "Santiago Ricalde",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86003676"
+    },
+    {
+      "id": "vilio-marin-q827805",
+      "name": "Vilio Marin",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86003771"
+    },
+    {
+      "id": "amin-hegar-q827805",
+      "name": "Amin Hegar",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86004065"
+    },
+    {
+      "id": "allan-arthurs-q827805",
       "name": "Allan Arthurs",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
       "constituency_label": "",
-      "chamber": "National Assembly",
+      "chamber": "House of Representatives",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q86004135"
     },
     {
-      "id": "michael-hutchinson",
-      "name": "Michael Hutchinson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6831314"
-    },
-    {
-      "id": "patrick-faber",
-      "name": "Patrick Faber",
-      "sitting": true,
-      "party_id": "united-democratic-party",
-      "caucus": "United Democratic Party",
-      "constituency_label": "Collet",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7146470"
-    },
-    {
-      "id": "rodwell-ferguson",
-      "name": "Rodwell Ferguson",
+      "id": "ismael-cal-q827805",
+      "name": "Ismael Cal",
       "sitting": true,
       "party_id": "people-s-united-party",
       "caucus": "People's United Party",
-      "constituency_label": "Stann Creek West",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7357499"
-    },
-    {
-      "id": "phillip-goldson",
-      "name": "Phillip Goldson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
       "constituency_label": "",
-      "chamber": "National Assembly",
+      "chamber": "House of Representatives",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q7185683"
+      "roster_url": "http://www.wikidata.org/entity/Q86004142"
     },
     {
-      "id": "theodore-aranda",
-      "name": "Theodore Aranda",
+      "id": "salustiano-lizama-q827805",
+      "name": "Salustiano Lizama",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
       "constituency_label": "",
-      "chamber": "National Assembly",
+      "chamber": "House of Representatives",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q7781679"
+      "roster_url": "http://www.wikidata.org/entity/Q86004137"
     },
     {
-      "id": "pablo-marin",
-      "name": "Pablo Marin",
+      "id": "jesus-ken-q827805",
+      "name": "Jesus Ken",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86004215"
+    },
+    {
+      "id": "omar-figueroa-q827805",
+      "name": "Omar Figueroa",
       "sitting": true,
       "party_id": "united-democratic-party",
       "caucus": "United Democratic Party",
-      "constituency_label": "Corozal Bay",
-      "chamber": "National Assembly",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q7121680"
+      "roster_url": "http://www.wikidata.org/entity/Q27983601"
     },
     {
-      "id": "elodio-aragon-jr",
+      "id": "elodio-aragon-jr-q827805",
       "name": "Elodio Aragon Jr.",
       "sitting": true,
       "party_id": "united-democratic-party",
       "caucus": "United Democratic Party",
       "constituency_label": "Orange Walk East",
-      "chamber": "National Assembly",
+      "chamber": "House of Representatives",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q86004144"
     },
     {
-      "id": "rene-montero",
+      "id": "denise-barrow-q827805",
+      "name": "Denise Barrow",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q118602428"
+    },
+    {
+      "id": "adolfo-lizarraga-q827805",
+      "name": "Adolfo Lizarraga",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20983385"
+    },
+    {
+      "id": "valdemar-castillo-q827805",
+      "name": "Valdemar Castillo",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16107250"
+    },
+    {
+      "id": "said-musa-q827805",
+      "name": "Said Musa",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "Fort George",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q335215"
+    },
+    {
+      "id": "anthony-martinez-q827805",
+      "name": "Anthony Martinez",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "Port Loyola",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4773030"
+    },
+    {
+      "id": "wilfred-elrington-q827805",
+      "name": "Wilfred Elrington",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "Pickstock",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58325"
+    },
+    {
+      "id": "dean-barrow-q827805",
+      "name": "Dean Barrow",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "Queen's Square",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57701"
+    },
+    {
+      "id": "dolores-balderamos-garcia-q827805",
+      "name": "Dolores Balderamos-García",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "Belize Rural Central",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5289506"
+    },
+    {
+      "id": "dean-lindo-q827805",
+      "name": "Dean Lindo",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "Fort George",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5246310"
+    },
+    {
+      "id": "carlos-perdomo-q827805",
+      "name": "Carlos Perdomo",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5042485"
+    },
+    {
+      "id": "angel-campos-q827805",
+      "name": "Angel Campos",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "Corozal South West",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58896048"
+    },
+    {
+      "id": "cordel-hyde-q827805",
+      "name": "Cordel Hyde",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Lake Independence",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58896069"
+    },
+    {
+      "id": "kareem-musa-q827805",
+      "name": "Kareem Musa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Caribbean Shores",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58896061"
+    },
+    {
+      "id": "charles-martinez-q827805",
+      "name": "Charles Martinez",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86003048"
+    },
+    {
+      "id": "sam-waight-q827805",
+      "name": "Sam Waight",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q65329470"
+    },
+    {
+      "id": "carlos-diaz-q827805",
+      "name": "Carlos Diaz",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86002933"
+    },
+    {
+      "id": "orlando-habet-q827805",
+      "name": "Orlando Habet",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "Cayo North East",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58896079"
+    },
+    {
+      "id": "frank-lizama-q827805",
+      "name": "Frank Lizama",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q85852092"
+    },
+    {
+      "id": "israel-alpuche-q827805",
+      "name": "Israel Alpuche",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q85852104"
+    },
+    {
+      "id": "samuel-rhaburn-q827805",
+      "name": "Samuel Rhaburn",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q85852110"
+    },
+    {
+      "id": "santiago-perdomo-q827805",
+      "name": "Santiago Perdomo",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q85852296"
+    },
+    {
+      "id": "pedro-guerra-mena-q827805",
+      "name": "Pedro Guerra Mena",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q85852405"
+    },
+    {
+      "id": "alejandro-vernon-q827805",
+      "name": "Alejandro Vernon",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60412148"
+    },
+    {
+      "id": "sylvia-flores-q827805",
+      "name": "Sylvia Flores",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q27943427"
+    },
+    {
+      "id": "eduardo-juan-q827805",
+      "name": "Eduardo Juan",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86002818"
+    },
+    {
+      "id": "elodio-aragon-sr-q827805",
+      "name": "Elodio Aragon Sr.",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86002823"
+    },
+    {
+      "id": "edwin-morey-q827805",
+      "name": "Edwin Morey",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86002950"
+    },
+    {
+      "id": "joseph-cayetano-q827805",
+      "name": "Joseph Cayetano",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86002939"
+    },
+    {
+      "id": "vicente-choco-q827805",
+      "name": "Vicente Choco",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86002946"
+    },
+    {
+      "id": "glenn-godfrey-q827805",
+      "name": "Glenn Godfrey",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q66756001"
+    },
+    {
+      "id": "vernon-harrison-courtenay-q827805",
+      "name": "Vernon Harrison Courtenay",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q85852112"
+    },
+    {
+      "id": "russell-garcia-q827805",
+      "name": "Russell Garcia",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q85852101"
+    },
+    {
+      "id": "tracy-panton-q827805",
+      "name": "Tracy Panton",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "Albert",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58896015"
+    },
+    {
+      "id": "elijio-briceno-q827805",
+      "name": "Elijio Briceño",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "Orange Walk North",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q85852299"
+    },
+    {
+      "id": "laura-tucker-longsworth-q827805",
+      "name": "Laura Tucker-Longsworth",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28777204"
+    },
+    {
+      "id": "henry-george-canton-q827805",
+      "name": "Henry George Canton",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86002829"
+    },
+    {
+      "id": "servulo-baeza-q827805",
+      "name": "Servulo Baeza",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86002819"
+    },
+    {
+      "id": "charles-wagner-q827805",
+      "name": "Charles Wagner",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60412139"
+    },
+    {
+      "id": "mark-king-q827805",
+      "name": "Mark King",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "Lake Independence",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q25354502"
+    },
+    {
+      "id": "frank-mena-q827805",
+      "name": "Frank Mena",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "Dangriga",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58896056"
+    },
+    {
+      "id": "louis-sylvestre-q827805",
+      "name": "Louis Sylvestre",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q85852393"
+    },
+    {
+      "id": "agripino-cawich-q827805",
+      "name": "Agripino Cawich",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18631146"
+    },
+    {
+      "id": "c-l-b-rogers-q827805",
+      "name": "C. L. B. Rogers",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18808877"
+    },
+    {
+      "id": "manuel-heredia-q827805",
+      "name": "Manuel Heredia",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "Belize Rural South",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16729784"
+    },
+    {
+      "id": "michael-hutchinson-q827805",
+      "name": "Michael Hutchinson",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6831314"
+    },
+    {
+      "id": "theodore-aranda-q827805",
+      "name": "Theodore Aranda",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7781679"
+    },
+    {
+      "id": "john-saldivar-q827805",
+      "name": "John Saldivar",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "Belmopan",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6256510"
+    },
+    {
+      "id": "ivan-ramos-q827805",
+      "name": "Ivan Ramos",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "Dangriga",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20640457"
+    },
+    {
+      "id": "patrick-faber-q827805",
+      "name": "Patrick Faber",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "Collet",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7146470"
+    },
+    {
+      "id": "johnny-briceno-q827805",
+      "name": "Johnny Briceño",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "Orange Walk Central",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6266369"
+    },
+    {
+      "id": "rodwell-ferguson-q827805",
+      "name": "Rodwell Ferguson",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "Stann Creek West",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7357499"
+    },
+    {
+      "id": "godfrey-smith-q827805",
+      "name": "Godfrey Smith",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5576540"
+    },
+    {
+      "id": "dan-silva-q827805",
+      "name": "Dan Silva",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16941349"
+    },
+    {
+      "id": "estevan-perera-q827805",
+      "name": "Estevan Perera",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19604922"
+    },
+    {
+      "id": "maxwell-samuels-q827805",
+      "name": "Maxwell Samuels",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6796144"
+    },
+    {
+      "id": "darrell-bradley-q827805",
+      "name": "Darrell Bradley",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19873846"
+    },
+    {
+      "id": "derek-aikman-q827805",
+      "name": "Derek Aikman",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19938155"
+    },
+    {
+      "id": "phillip-goldson-q827805",
+      "name": "Phillip Goldson",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7185683"
+    },
+    {
+      "id": "jorge-espat-q827805",
+      "name": "Jorge Espat",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6277953"
+    },
+    {
+      "id": "juan-coy-q827805",
+      "name": "Juan Coy",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6299534"
+    },
+    {
+      "id": "jose-coye-q827805",
+      "name": "Jose Coye",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "Caribbean Shores",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6279319"
+    },
+    {
+      "id": "pablo-marin-q827805",
+      "name": "Pablo Marin",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "Corozal Bay",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7121680"
+    },
+    {
+      "id": "marcial-mes-q827805",
+      "name": "Marcial Mes",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "Toledo West",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6757158"
+    },
+    {
+      "id": "florencio-marin-sr-q827805",
+      "name": "Florencio Marin Sr.",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18207407"
+    },
+    {
+      "id": "ralph-fonseca-q827805",
+      "name": "Ralph Fonseca",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "Belize Rural Central",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7287493"
+    },
+    {
+      "id": "marcel-cardona-q827805",
+      "name": "Marcel Cardona",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16202484"
+    },
+    {
+      "id": "rene-montero-q827805",
       "name": "Rene Montero",
       "sitting": true,
       "party_id": "united-democratic-party",
       "caucus": "United Democratic Party",
       "constituency_label": "Cayo Central",
-      "chamber": "National Assembly",
+      "chamber": "House of Representatives",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q7312920"
     },
     {
-      "id": "faith-babb",
-      "name": "Faith Babb",
+      "id": "joseph-mahmud-q827805",
+      "name": "Joseph Mahmud",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "Cayo North",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6285230"
+    },
+    {
+      "id": "gwendolyn-lizarraga-q827805",
+      "name": "Gwendolyn Lizarraga",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20983386"
+    },
+    {
+      "id": "michael-finnegan-q827805",
+      "name": "Michael Finnegan",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "Mesopotamia",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6830297"
+    },
+    {
+      "id": "juan-vildo-marin-q827805",
+      "name": "Juan Vildo Marin",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16193234"
+    },
+    {
+      "id": "julius-espat-q827805",
+      "name": "Julius Espat",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "Cayo South",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24953658"
+    },
+    {
+      "id": "florencio-marin-jr-q827805",
+      "name": "Florencio Marin Jr.",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "Corozal South East",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24953659"
+    },
+    {
+      "id": "michael-espat-q827805",
+      "name": "Michael Espat",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "Toledo East",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24953679"
+    },
+    {
+      "id": "jose-abelardo-mai-q827805",
+      "name": "Jose Abelardo Mai",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "Orange Walk South",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24953680"
+    },
+    {
+      "id": "marco-tulio-mendez-q827805",
+      "name": "Marco Tulio Mendez",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "Orange Walk East",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24953677"
+    },
+    {
+      "id": "oscar-requena-q827805",
+      "name": "Oscar Requena",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "Toledo West",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24953661"
+    },
+    {
+      "id": "ramiro-ramirez-q827805",
+      "name": "Ramiro Ramirez",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "Corozal South West",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24953660"
+    },
+    {
+      "id": "arthur-roches-q827805",
+      "name": "Arthur Roches",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24953722"
+    },
+    {
+      "id": "peter-martinez-q827805",
+      "name": "Peter Martinez",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24953688"
+    },
+    {
+      "id": "basilio-ah-q827805",
+      "name": "Basilio Ah",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24955284"
+    },
+    {
+      "id": "beverly-castillo-q827805",
+      "name": "Beverly Castillo",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "Belize Rural Central",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q22092213"
+    },
+    {
+      "id": "patty-arceo-q827805",
+      "name": "Patty Arceo",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24954774"
+    },
+    {
+      "id": "mark-espat-q827805",
+      "name": "Mark Espat",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24955277"
+    },
+    {
+      "id": "santiago-castillo-q827805",
+      "name": "Santiago Castillo",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "Caribbean Shores",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24953644"
+    },
+    {
+      "id": "herman-longsworth-q827805",
+      "name": "Herman Longsworth",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "Albert",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24953655"
+    },
+    {
+      "id": "hugo-patt-q827805",
+      "name": "Hugo Patt",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "Corozal North",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24953636"
+    },
+    {
+      "id": "jane-ellen-usher-q827805",
+      "name": "Jane Ellen Usher",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "Pickstock",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q21066738"
+    },
+    {
+      "id": "curl-thompson-q827805",
+      "name": "Curl Thompson",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q21196638"
+    },
+    {
+      "id": "erwin-contreras-q827805",
+      "name": "Erwin Contreras",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "Cayo West",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5396111"
+    },
+    {
+      "id": "gaspar-vega-q827805",
+      "name": "Gaspar Vega",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "Orange Walk North",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5526559"
+    },
+    {
+      "id": "francis-fonseca-q827805",
+      "name": "Francis Fonseca",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "Freetown",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5480967"
+    },
+    {
+      "id": "gabriel-martinez-q827805",
+      "name": "Gabriel Martinez",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5515743"
+    },
+    {
+      "id": "elvin-penner-q827805",
+      "name": "Elvin Penner",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "Cayo North East",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5368083"
+    },
+    {
+      "id": "christopher-coye-q827490",
+      "name": "Christopher Coye",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q118425747"
+    },
+    {
+      "id": "erica-jang-q827490",
+      "name": "Erica Jang",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q118426949"
+    },
+    {
+      "id": "bevinton-cal-q827490",
+      "name": "Bevinton Cal",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q118464559"
+    },
+    {
+      "id": "ismael-gomez-q827490",
+      "name": "Ismael Gomez",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "National Assembly",
+      "chamber": "Senate of Belize",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q80661804"
+      "roster_url": "http://www.wikidata.org/entity/Q97255276"
+    },
+    {
+      "id": "francis-castillo-q827490",
+      "name": "Francis Castillo",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97254803"
+    },
+    {
+      "id": "michael-peyrefitte-q827490",
+      "name": "Michael Peyrefitte",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q65329992"
+    },
+    {
+      "id": "said-musa-q827490",
+      "name": "Said Musa",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q335215"
+    },
+    {
+      "id": "sam-vernon-q827490",
+      "name": "Sam Vernon",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86003677"
+    },
+    {
+      "id": "elena-smith-q827490",
+      "name": "Elena Smith",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97254624"
+    },
+    {
+      "id": "moises-chan-q827490",
+      "name": "Moises Chan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97257103"
+    },
+    {
+      "id": "noel-leslie-q827490",
+      "name": "Noel Leslie",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97257266"
+    },
+    {
+      "id": "osmany-salas-q827490",
+      "name": "Osmany Salas",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97257319"
+    },
+    {
+      "id": "paul-perriott-q827490",
+      "name": "Paul Perriott",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97257388"
+    },
+    {
+      "id": "payal-ghanwani-q827490",
+      "name": "Payal Ghanwani",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97257427"
+    },
+    {
+      "id": "ramon-cervantes-q827490",
+      "name": "Ramon Cervantes",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97257620"
+    },
+    {
+      "id": "valerie-woods-q827490",
+      "name": "Valerie Woods",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97258252"
+    },
+    {
+      "id": "vernon-hamilton-burn-leslie-q827490",
+      "name": "Vernon Hamilton Burn Leslie",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97258266"
+    },
+    {
+      "id": "richard-bradley-q827490",
+      "name": "Richard Bradley",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86004193"
+    },
+    {
+      "id": "joseph-gray-q827490",
+      "name": "Joseph Gray",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97255522"
+    },
+    {
+      "id": "michel-chebat-q827490",
+      "name": "Michel Chebat",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16198058"
+    },
+    {
+      "id": "barry-bowen-q827490",
+      "name": "Barry Bowen",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4864034"
+    },
+    {
+      "id": "henry-gordon-q827490",
+      "name": "Henry Gordon",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97255139"
+    },
+    {
+      "id": "isabel-bennett-q827490",
+      "name": "Isabel Bennett",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97255265"
+    },
+    {
+      "id": "arthur-roches-q827490",
+      "name": "Arthur Roches",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24953722"
+    },
+    {
+      "id": "godwin-hulse-q827490",
+      "name": "Godwin Hulse",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24953635"
+    },
+    {
+      "id": "fred-martinez-q827490",
+      "name": "Fred Martinez",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17485096"
+    },
+    {
+      "id": "david-hoy-q827490",
+      "name": "David Hoy",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97254012"
+    },
+    {
+      "id": "aldo-salazar-q827490",
+      "name": "Aldo Salazar",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97253110"
+    },
+    {
+      "id": "ambrose-tillett-q827490",
+      "name": "Ambrose Tillett",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97253139"
+    },
+    {
+      "id": "audrey-matura-q827490",
+      "name": "Audrey Matura",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97253263"
+    },
+    {
+      "id": "cyril-davis-q827490",
+      "name": "Cyril Davis",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97253988"
+    },
+    {
+      "id": "deborah-mencias-mcmillan-q827490",
+      "name": "Deborah Mencias McMillan",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97254024"
+    },
+    {
+      "id": "diego-bol-q827490",
+      "name": "Diego Bol",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97254046"
+    },
+    {
+      "id": "eddie-john-webster-q827490",
+      "name": "Eddie John Webster",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97254562"
+    },
+    {
+      "id": "francine-burns-q827490",
+      "name": "Francine Burns",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97254792"
+    },
+    {
+      "id": "gerardo-marconi-sosa-q827490",
+      "name": "Gerardo Marconi Sosa",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97254931"
+    },
+    {
+      "id": "guadalupe-longsworth-q827490",
+      "name": "Guadalupe Longsworth",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97255045"
+    },
+    {
+      "id": "juliet-thimbriel-q827490",
+      "name": "Juliet Thimbriel",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97255548"
+    },
+    {
+      "id": "macario-coy-q827490",
+      "name": "Macario Coy",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97256938"
+    },
+    {
+      "id": "marilyn-williams-q827490",
+      "name": "Marilyn Williams",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97256957"
+    },
+    {
+      "id": "oscar-ayuso-q827490",
+      "name": "Oscar Ayuso",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97257310"
+    },
+    {
+      "id": "pulcheria-teul-q827490",
+      "name": "Pulcheria Teul",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97257592"
+    },
+    {
+      "id": "roosevelt-blades-q827490",
+      "name": "Roosevelt Blades",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97257737"
+    },
+    {
+      "id": "silas-cayetano-q827490",
+      "name": "Silas Cayetano",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97257972"
+    },
+    {
+      "id": "teodocio-ochoa-q827490",
+      "name": "Teodocio Ochoa",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97258163"
+    },
+    {
+      "id": "doug-singh-q827490",
+      "name": "Doug Singh",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5300903"
+    },
+    {
+      "id": "elodio-aragon-sr-q827490",
+      "name": "Elodio Aragon Sr.",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86002823"
+    },
+    {
+      "id": "vanessa-retreage-q827490",
+      "name": "Vanessa Retreage",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86003305"
+    },
+    {
+      "id": "leliz-carballo-q827490",
+      "name": "Leliz Carballo",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86003860"
+    },
+    {
+      "id": "carla-barnett-q827490",
+      "name": "Carla Barnett",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86004208"
+    },
+    {
+      "id": "kenneth-tillett-q827490",
+      "name": "Kenneth Tillett",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86004204"
+    },
+    {
+      "id": "james-nathaniel-meighan-q827490",
+      "name": "James Nathaniel Meighan",
+      "sitting": true,
+      "party_id": "national-independence-party",
+      "caucus": "National Independence Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97255368"
+    },
+    {
+      "id": "simeon-agapito-hassock-q827490",
+      "name": "Simeon Agapito Hassock",
+      "sitting": true,
+      "party_id": "national-independence-party",
+      "caucus": "National Independence Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97257979"
+    },
+    {
+      "id": "paul-thompson-q827490",
+      "name": "Paul Thompson",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97257409"
+    },
+    {
+      "id": "anthony-sylvestre-jr-q827490",
+      "name": "Anthony Sylvestre Jr.",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97253185"
+    },
+    {
+      "id": "collet-montejo-q827490",
+      "name": "Collet Montejo",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97253867"
+    },
+    {
+      "id": "corona-villafranco-q827490",
+      "name": "Corona Villafranco",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97253930"
+    },
+    {
+      "id": "eiden-salazar-q827490",
+      "name": "Eiden Salazar",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97254586"
+    },
+    {
+      "id": "karen-bodden-q827490",
+      "name": "Karen Bodden",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97255621"
+    },
+    {
+      "id": "louis-zabaneh-q827490",
+      "name": "Louis Zabaneh",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97256498"
+    },
+    {
+      "id": "magali-marin-young-q827490",
+      "name": "Magali Marin-Young",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97256948"
+    },
+    {
+      "id": "patrick-jason-andrews-q827490",
+      "name": "Patrick Jason Andrews",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97257378"
+    },
+    {
+      "id": "roy-cayetano-q827490",
+      "name": "Roy Cayetano",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97257772"
+    },
+    {
+      "id": "therese-rath-q827490",
+      "name": "Therese Rath",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97258173"
+    },
+    {
+      "id": "ray-davis-q827490",
+      "name": "Ray Davis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97257646"
+    },
+    {
+      "id": "vernon-harrison-courtenay-q827490",
+      "name": "Vernon Harrison Courtenay",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q85852112"
+    },
+    {
+      "id": "allan-arthurs-q827490",
+      "name": "Allan Arthurs",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86004135"
+    },
+    {
+      "id": "jesus-ken-q827490",
+      "name": "Jesus Ken",
+      "sitting": true,
+      "party_id": "people-s-united-party",
+      "caucus": "People's United Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86004215"
+    },
+    {
+      "id": "brenda-armstrong-q827490",
+      "name": "Brenda Armstrong",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97253418"
+    },
+    {
+      "id": "ashley-rocke-q827490",
+      "name": "Ashley Rocke",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q65329600"
+    },
+    {
+      "id": "mark-lizarraga-q827490",
+      "name": "Mark Lizarraga",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q65329965"
+    },
+    {
+      "id": "steven-duncan-q827490",
+      "name": "Steven Duncan",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97258072"
+    },
+    {
+      "id": "sheena-pitts-q827490",
+      "name": "Sheena Pitts",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q118431233"
+    },
+    {
+      "id": "antonio-herrera-q827490",
+      "name": "Antonio Herrera",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q118465104"
+    },
+    {
+      "id": "alvin-moses-benguche-q827490",
+      "name": "Alvin Moses Benguche",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q118464656"
+    },
+    {
+      "id": "kevin-herrera-q827490",
+      "name": "Kevin Herrera",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q118464978"
+    },
+    {
+      "id": "janelle-chanona-q827490",
+      "name": "Janelle Chanona",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q118465006"
+    },
+    {
+      "id": "frank-mena-q827490",
+      "name": "Frank Mena",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58896056"
+    },
+    {
+      "id": "charles-gibson-q827490",
+      "name": "Charles Gibson",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "Senate of Belize",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q25354421"
     }
   ]
 }

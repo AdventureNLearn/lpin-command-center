@@ -1,0 +1,179 @@
+{
+  "iso2": "ge",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q230",
+  "bodies": [
+    {
+      "qid": "Q1417210",
+      "label": "Parliament of Georgia",
+      "seats": 150,
+      "web": "https://parliament.ge/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q141190086",
+      "label": "Human Rights and Civil Integration Committee of the Parliament of Georgia",
+      "seats": 0,
+      "web": "https://parliament.ge/en/parliament/committees/63938/about",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q141190087",
+      "label": "Education, Science and Youth Affairs Committee of the Parliament of Georgia",
+      "seats": 0,
+      "web": "https://parliament.ge/en/parliament/committees/63939/about",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q141190088",
+      "label": "Environmental Protection and Natural Resources Committee of the Parliament of Georgia",
+      "seats": 0,
+      "web": "https://parliament.ge/en/parliament/committees/63940/about",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q141190976",
+      "label": "Legal Issues Committee of the Parliament of Georgia",
+      "seats": 0,
+      "web": "https://parliament.ge/en/parliament/committees/63945/about",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q141190978",
+      "label": "Budget and Finance Committee of the Parliament of Georgia",
+      "seats": 0,
+      "web": "https://parliament.ge/en/parliament/committees/63950/about",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q141190977",
+      "label": "Committee on Defense and Security of the Parliament of Georgia",
+      "seats": 0,
+      "web": "https://parliament.ge/en/parliament/committees/67431/about",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q141191574",
+      "label": "Healthcare and Social Issues Committee of the Parliament of Georgia",
+      "seats": 0,
+      "web": "https://parliament.ge/en/parliament/committees/63952/about",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q141191842",
+      "label": "Committee on Agriculture of the Parliament of Georgia",
+      "seats": 0,
+      "web": "https://parliament.ge/parliament/committees/67454/about",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q141191841",
+      "label": "Committee on Procedural Issues of the Parliament of Georgia",
+      "seats": 0,
+      "web": "https://parliament.ge/en/parliament/committees/67445/about",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q141191843",
+      "label": "Foreign Relations Committee of the Parliament of Georgia",
+      "seats": 0,
+      "web": "https://www.parliament.ge/en/media/news/category/34",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Human Rights and Civil Integration Committee of the Parliament of Georgia",
+    "Education, Science and Youth Affairs Committee of the Parliament of Georgia",
+    "Environmental Protection and Natural Resources Committee of the Parliament of Georgia",
+    "Legal Issues Committee of the Parliament of Georgia",
+    "Budget and Finance Committee of the Parliament of Georgia",
+    "Committee on Defense and Security of the Parliament of Georgia",
+    "Healthcare and Social Issues Committee of the Parliament of Georgia",
+    "Committee on Agriculture of the Parliament of Georgia",
+    "Committee on Procedural Issues of the Parliament of Georgia",
+    "Foreign Relations Committee of the Parliament of Georgia"
+  ],
+  "seats": 150,
+  "items": [
+    {
+      "id": "Q1417210",
+      "name": "Parliament of Georgia",
+      "kind": "parliament",
+      "seats": 150,
+      "url": "https://parliament.ge/"
+    },
+    {
+      "id": "Q141190086",
+      "name": "Human Rights and Civil Integration Committee of the Parliament of Georgia",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://parliament.ge/en/parliament/committees/63938/about"
+    },
+    {
+      "id": "Q141190087",
+      "name": "Education, Science and Youth Affairs Committee of the Parliament of Georgia",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://parliament.ge/en/parliament/committees/63939/about"
+    },
+    {
+      "id": "Q141190088",
+      "name": "Environmental Protection and Natural Resources Committee of the Parliament of Georgia",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://parliament.ge/en/parliament/committees/63940/about"
+    },
+    {
+      "id": "Q141190976",
+      "name": "Legal Issues Committee of the Parliament of Georgia",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://parliament.ge/en/parliament/committees/63945/about"
+    },
+    {
+      "id": "Q141190978",
+      "name": "Budget and Finance Committee of the Parliament of Georgia",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://parliament.ge/en/parliament/committees/63950/about"
+    },
+    {
+      "id": "Q141190977",
+      "name": "Committee on Defense and Security of the Parliament of Georgia",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://parliament.ge/en/parliament/committees/67431/about"
+    },
+    {
+      "id": "Q141191574",
+      "name": "Healthcare and Social Issues Committee of the Parliament of Georgia",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://parliament.ge/en/parliament/committees/63952/about"
+    },
+    {
+      "id": "Q141191842",
+      "name": "Committee on Agriculture of the Parliament of Georgia",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://parliament.ge/parliament/committees/67454/about"
+    },
+    {
+      "id": "Q141191841",
+      "name": "Committee on Procedural Issues of the Parliament of Georgia",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://parliament.ge/en/parliament/committees/67445/about"
+    },
+    {
+      "id": "Q141191843",
+      "name": "Foreign Relations Committee of the Parliament of Georgia",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.parliament.ge/en/media/news/category/34"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q676484"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q676484",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21296000",
+      "label": "Member of the National Assembly of Seychelles (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21296000",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q676484",
+      "label": "National Assembly of Seychelles",
+      "url": "https://www.nationalassembly.sc/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q676484",
+      "label": "National Assembly of Seychelles (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q676484",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

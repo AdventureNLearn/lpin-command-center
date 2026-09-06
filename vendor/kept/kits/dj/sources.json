@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1139363"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1139363",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q19252823",
+      "label": "Member of the National Assembly of Djibouti (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q19252823",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1139363",
+      "label": "National Assembly",
+      "url": "http://www.assemblee-nationale.dj",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1139363",
+      "label": "National Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1139363",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

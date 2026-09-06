@@ -1,0 +1,59 @@
+{
+  "iso2": "bi",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q967",
+  "bodies": [
+    {
+      "qid": "Q720003",
+      "label": "National Assembly",
+      "seats": 121,
+      "web": "https://assemblee.bi/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q7138930",
+      "label": "Parliament of Burundi",
+      "seats": 0,
+      "web": "",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q3510838",
+      "label": "Senate",
+      "seats": 39,
+      "web": "https://www.senat.bi/",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "National Assembly",
+    "Senate"
+  ],
+  "seats": 160,
+  "items": [
+    {
+      "id": "Q720003",
+      "name": "National Assembly",
+      "kind": "chamber",
+      "seats": 121,
+      "url": "https://assemblee.bi/"
+    },
+    {
+      "id": "Q7138930",
+      "name": "Parliament of Burundi",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q7138930"
+    },
+    {
+      "id": "Q3510838",
+      "name": "Senate",
+      "kind": "chamber",
+      "seats": 39,
+      "url": "https://www.senat.bi/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

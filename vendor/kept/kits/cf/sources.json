@@ -3,8 +3,25 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1577158"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1577158",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21295977",
+      "label": "Member of the National Assembly of the Central African Republic (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21295977",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1577158",
+      "label": "National Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1577158",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

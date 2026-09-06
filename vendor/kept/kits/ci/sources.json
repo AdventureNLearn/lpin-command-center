@@ -3,8 +3,46 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q27881072"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q27881072",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1573929",
+      "label": "National Assembly",
+      "url": "http://www.assnat.ci/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1573929",
+      "label": "National Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1573929",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q27881014",
+      "label": "Senate",
+      "url": "https://senat.ci/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q27881014",
+      "label": "Senate (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q27881014",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q27881072",
+      "label": "Parliament of Ivory Coast (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q27881072",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

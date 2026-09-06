@@ -3,8 +3,67 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1253647"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1253647",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1138354",
+      "label": "House of Representatives of Grenada",
+      "url": "https://grenadaparliament.gd/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1138354",
+      "label": "House of Representatives of Grenada (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1138354",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1253647",
+      "label": "Parliament of Grenada",
+      "url": "https://grenadaparliament.gd/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1253647",
+      "label": "Parliament of Grenada (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1253647",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1254591",
+      "label": "Senate of Grenada",
+      "url": "https://grenadaparliament.gd/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1254591",
+      "label": "Senate of Grenada (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1254591",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q655829",
+      "label": "Governor General of Grenada",
+      "url": "http://www.gov.gd/departments/governor_general.html",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q655829",
+      "label": "Governor General of Grenada (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q655829",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

@@ -3,8 +3,25 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q643412"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q643412",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q643412",
+      "label": "Parliament of Finland",
+      "url": "https://www.eduskunta.fi/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q643412",
+      "label": "Parliament of Finland (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q643412",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

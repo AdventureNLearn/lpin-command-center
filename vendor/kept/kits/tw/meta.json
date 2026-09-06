@@ -5,7 +5,7 @@
   "chamber": "Legislative Yuan",
   "houses": "unicameral",
   "system": "semi-presidential",
-  "seats": 113,
+  "seats": 142,
   "election": "2024-01-13",
   "session": "11th Legislative Yuan (2024-02-01–2028-01-31)",
   "kit": "scoring",
@@ -22,7 +22,8 @@
     "key_votes": 1369,
     "sourced_quotes": 50,
     "ethics": 249,
-    "money": 0
+    "money": 0,
+    "pledged": 50
   },
   "capabilities": [
     "members",
@@ -41,7 +42,7 @@
   "lane": "gold-kit-8103",
   "source_live": null,
   "note": "TW honest-complete 2026-08-21. Sit 113. Pledges 52 personal https CEC 政見. Leftover 6 merged from harvest/_out/tw/keepable-6.json. Votes file not rewritten. named_donors false. Honest incomplete.",
-  "roster_source": "https://zh.wikipedia.org/wiki/立法院第十一屆立法委員名單",
+  "roster_source": "https://www.wikidata.org/wiki/Q715869",
   "honest_complete": true,
   "named_donors": false
 }

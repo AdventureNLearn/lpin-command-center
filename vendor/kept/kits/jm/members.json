@@ -3,736 +3,767 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q122635",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 56,
+  "incomplete": true,
+  "claimed_seats": 168,
+  "chambers": [
+    "Senate of Jamaica",
+    "House of Representatives of Jamaica",
+    "Parliament of Jamaica"
+  ],
   "items": [
     {
-      "id": "norman-alexander-dunn",
-      "name": "Norman Alexander Dunn",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q86753513"
-    },
-    {
-      "id": "maurice-tenn",
+      "id": "maurice-tenn-q27897650",
       "name": "Maurice Tenn",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
+      "chamber": "Senate of Jamaica",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q125387638"
     },
     {
-      "id": "james-robertson",
-      "name": "James Robertson",
+      "id": "ronald-irvine-q27897650",
+      "name": "Ronald Irvine",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "jamaica-labour-party",
+      "caucus": "Jamaica Labour Party",
       "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
+      "chamber": "Senate of Jamaica",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q1681050"
+      "roster_url": "http://www.wikidata.org/entity/Q108753775"
     },
     {
-      "id": "michael-henry",
-      "name": "Michael Henry",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1927789"
-    },
-    {
-      "id": "peter-phillips",
-      "name": "Peter Phillips",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7176380"
-    },
-    {
-      "id": "ian-hayles",
-      "name": "Ian Hayles",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5981773"
-    },
-    {
-      "id": "roger-clarke",
-      "name": "Roger Clarke",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1314683"
-    },
-    {
-      "id": "vernon-arnett",
-      "name": "Vernon Arnett",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q133443708"
-    },
-    {
-      "id": "daryl-vaz",
-      "name": "Daryl Vaz",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1167006"
-    },
-    {
-      "id": "delroy-chuck",
-      "name": "Delroy Chuck",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1184742"
-    },
-    {
-      "id": "donald-sangster",
-      "name": "Donald Sangster",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1240351"
-    },
-    {
-      "id": "olivia-grange",
-      "name": "Olivia Grange",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1247437"
-    },
-    {
-      "id": "dorothy-lightbourne",
-      "name": "Dorothy Lightbourne",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1250320"
-    },
-    {
-      "id": "dudley-thompson",
-      "name": "Dudley Thompson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1263771"
-    },
-    {
-      "id": "dwight-nelson",
-      "name": "Dwight Nelson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1268491"
-    },
-    {
-      "id": "iris-collins",
-      "name": "Iris Collins",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q96742222"
-    },
-    {
-      "id": "wykeham-mcneill",
-      "name": "Wykeham McNeill",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1330998"
-    },
-    {
-      "id": "howard-cooke",
-      "name": "Howard Cooke",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1371514"
-    },
-    {
-      "id": "florizel-glasspole",
-      "name": "Florizel Glasspole",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1430193"
-    },
-    {
-      "id": "donald-keith-duncan",
-      "name": "Donald Keith Duncan",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q99439541"
-    },
-    {
-      "id": "horace-chang",
-      "name": "Horace Chang",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1627852"
-    },
-    {
-      "id": "kenneth-mcneill",
-      "name": "Kenneth McNeill",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1710289"
-    },
-    {
-      "id": "karl-samuda",
-      "name": "Karl Samuda",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1732780"
-    },
-    {
-      "id": "omar-davies",
-      "name": "Omar Davies",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2023064"
-    },
-    {
-      "id": "pearnel-charles",
-      "name": "Pearnel Charles",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2065916"
-    },
-    {
-      "id": "rudyard-spencer",
-      "name": "Rudyard Spencer",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2174584"
-    },
-    {
-      "id": "aloun-ndombet-assamba",
-      "name": "Aloun Ndombet-Assamba",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2650605"
-    },
-    {
-      "id": "anthony-hylton",
-      "name": "Anthony Hylton",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2852879"
-    },
-    {
-      "id": "clifford-campbell",
-      "name": "Clifford Campbell",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q339040"
-    },
-    {
-      "id": "carl-rattray",
-      "name": "Carl Rattray",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2856456"
-    },
-    {
-      "id": "seymour-mullings",
-      "name": "Seymour Mullings",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q15634451"
-    },
-    {
-      "id": "joseph-hibbert",
-      "name": "Joseph Hibbert",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q15993080"
-    },
-    {
-      "id": "douglas-manley",
-      "name": "Douglas Manley",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q15993249"
-    },
-    {
-      "id": "george-lyn",
-      "name": "George Lyn",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q15993228"
-    },
-    {
-      "id": "joseph-robert-love",
-      "name": "Joseph Robert Love",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16058835"
-    },
-    {
-      "id": "lisa-hanna",
-      "name": "Lisa Hanna",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q446817"
-    },
-    {
-      "id": "phillip-paulwell",
-      "name": "Phillip Paulwell",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q17110975"
-    },
-    {
-      "id": "andrew-holness",
-      "name": "Andrew Holness",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q505200"
-    },
-    {
-      "id": "angela-brown-burke",
+      "id": "angela-brown-burke-q27897650",
       "name": "Angela Brown-Burke",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "people-s-national-party",
+      "caucus": "People's National Party",
       "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
+      "chamber": "Senate of Jamaica",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q4762388"
     },
     {
-      "id": "arthur-henry-winnington-williams",
-      "name": "Arthur Henry Winnington Williams",
+      "id": "peter-phillips-q20080342",
+      "name": "Peter Phillips",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "people-s-national-party",
+      "caucus": "People's National Party",
       "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
+      "chamber": "House of Representatives of Jamaica",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q4799043"
+      "roster_url": "http://www.wikidata.org/entity/Q7176380"
     },
     {
-      "id": "gregory-mair",
+      "id": "howard-cooke-q20080342",
+      "name": "Howard Cooke",
+      "sitting": true,
+      "party_id": "jamaica-labour-party",
+      "caucus": "Jamaica Labour Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1371514"
+    },
+    {
+      "id": "anthony-hylton-q20080342",
+      "name": "Anthony Hylton",
+      "sitting": true,
+      "party_id": "people-s-national-party",
+      "caucus": "People's National Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2852879"
+    },
+    {
+      "id": "carl-rattray-q20080342",
+      "name": "Carl Rattray",
+      "sitting": true,
+      "party_id": "people-s-national-party",
+      "caucus": "People's National Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2856456"
+    },
+    {
+      "id": "gregory-mair-q20080342",
       "name": "Gregory Mair",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "jamaica-labour-party",
+      "caucus": "Jamaica Labour Party",
       "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
+      "chamber": "House of Representatives of Jamaica",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q5607062"
     },
     {
-      "id": "audley-shaw",
-      "name": "Audley Shaw",
+      "id": "norman-alexander-dunn-q20080342",
+      "name": "Norman Alexander Dunn",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
+      "chamber": "House of Representatives of Jamaica",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q758950"
+      "roster_url": "http://www.wikidata.org/entity/Q86753513"
     },
     {
-      "id": "keith-walford",
-      "name": "Keith Walford",
+      "id": "florizel-glasspole-q20080342",
+      "name": "Florizel Glasspole",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "people-s-national-party",
+      "caucus": "People's National Party",
       "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
+      "chamber": "House of Representatives of Jamaica",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q6385176"
+      "roster_url": "http://www.wikidata.org/entity/Q1430193"
     },
     {
-      "id": "kern-spencer",
-      "name": "Kern Spencer",
+      "id": "clifford-campbell-q20080342",
+      "name": "Clifford Campbell",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "jamaica-labour-party",
+      "caucus": "Jamaica Labour Party",
       "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
+      "chamber": "House of Representatives of Jamaica",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q6394157"
+      "roster_url": "http://www.wikidata.org/entity/Q339040"
     },
     {
-      "id": "fayval-williams",
-      "name": "Fayval Williams",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q23304549"
-    },
-    {
-      "id": "derrick-rochester",
+      "id": "derrick-rochester-q20080342",
       "name": "Derrick Rochester",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "people-s-national-party",
+      "caucus": "People's National Party",
       "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
+      "chamber": "House of Representatives of Jamaica",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q24039856"
     },
     {
-      "id": "neville-eden-gallimore",
-      "name": "Neville Eden Gallimore",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7004679"
-    },
-    {
-      "id": "sharon-hay-webster",
-      "name": "Sharon Hay-Webster",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7490086"
-    },
-    {
-      "id": "tacius-golding",
+      "id": "tacius-golding-q20080342",
       "name": "Tacius Golding",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "jamaica-labour-party",
+      "caucus": "Jamaica Labour Party",
       "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
+      "chamber": "House of Representatives of Jamaica",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q7673897"
     },
     {
-      "id": "winston-green",
-      "name": "Winston Green",
+      "id": "iris-collins-q20080342",
+      "name": "Iris Collins",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
+      "chamber": "House of Representatives of Jamaica",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q8026090"
+      "roster_url": "http://www.wikidata.org/entity/Q96742222"
     },
     {
-      "id": "juliet-holness",
-      "name": "Juliet Holness",
+      "id": "donald-sangster-q20080342",
+      "name": "Donald Sangster",
+      "sitting": true,
+      "party_id": "jamaica-labour-party",
+      "caucus": "Jamaica Labour Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1240351"
+    },
+    {
+      "id": "roger-clarke-q20080342",
+      "name": "Roger Clarke",
+      "sitting": true,
+      "party_id": "people-s-national-party",
+      "caucus": "People's National Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1314683"
+    },
+    {
+      "id": "arthur-henry-winnington-williams-q20080342",
+      "name": "Arthur Henry Winnington Williams",
+      "sitting": true,
+      "party_id": "jamaica-labour-party",
+      "caucus": "Jamaica Labour Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4799043"
+    },
+    {
+      "id": "james-robertson-q20080342",
+      "name": "James Robertson",
+      "sitting": true,
+      "party_id": "jamaica-labour-party",
+      "caucus": "Jamaica Labour Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1681050"
+    },
+    {
+      "id": "olivia-grange-q20080342",
+      "name": "Olivia Grange",
+      "sitting": true,
+      "party_id": "jamaica-labour-party",
+      "caucus": "Jamaica Labour Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1247437"
+    },
+    {
+      "id": "vernon-arnett-q20080342",
+      "name": "Vernon Arnett",
+      "sitting": true,
+      "party_id": "people-s-national-party",
+      "caucus": "People's National Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q133443708"
+    },
+    {
+      "id": "donald-keith-duncan-q20080342",
+      "name": "Donald Keith Duncan",
+      "sitting": true,
+      "party_id": "people-s-national-party",
+      "caucus": "People's National Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q99439541"
+    },
+    {
+      "id": "joseph-hibbert-q20080342",
+      "name": "Joseph Hibbert",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
+      "chamber": "House of Representatives of Jamaica",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q47308275"
+      "roster_url": "http://www.wikidata.org/entity/Q15993080"
     },
     {
-      "id": "portia-simpson-miller",
+      "id": "douglas-manley-q20080342",
+      "name": "Douglas Manley",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15993249"
+    },
+    {
+      "id": "george-lyn-q20080342",
+      "name": "George Lyn",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15993228"
+    },
+    {
+      "id": "joseph-robert-love-q20080342",
+      "name": "Joseph Robert Love",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16058835"
+    },
+    {
+      "id": "phillip-paulwell-q20080342",
+      "name": "Phillip Paulwell",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17110975"
+    },
+    {
+      "id": "dorothy-lightbourne-q20080342",
+      "name": "Dorothy Lightbourne",
+      "sitting": true,
+      "party_id": "jamaica-labour-party",
+      "caucus": "Jamaica Labour Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1250320"
+    },
+    {
+      "id": "ian-hayles-q20080342",
+      "name": "Ian Hayles",
+      "sitting": true,
+      "party_id": "people-s-national-party",
+      "caucus": "People's National Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5981773"
+    },
+    {
+      "id": "portia-simpson-miller-q20080342",
       "name": "Portia Simpson-Miller",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "people-s-national-party",
+      "caucus": "People's National Party",
       "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
+      "chamber": "House of Representatives of Jamaica",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q57597"
     },
     {
-      "id": "douglas-vaz",
-      "name": "Douglas Vaz",
+      "id": "dudley-thompson-q20080342",
+      "name": "Dudley Thompson",
+      "sitting": true,
+      "party_id": "people-s-national-party",
+      "caucus": "People's National Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1263771"
+    },
+    {
+      "id": "benjamin-alan-lucien-clare-q20080342",
+      "name": "Benjamin Alan Lucien Clare",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Hanover Western",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19835329"
+    },
+    {
+      "id": "anthony-johnson-q20080342",
+      "name": "Anthony Johnson",
+      "sitting": true,
+      "party_id": "jamaica-labour-party",
+      "caucus": "Jamaica Labour Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q573440"
+    },
+    {
+      "id": "keith-walford-q20080342",
+      "name": "Keith Walford",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6385176"
+    },
+    {
+      "id": "neville-eden-gallimore-q20080342",
+      "name": "Neville Eden Gallimore",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7004679"
+    },
+    {
+      "id": "dwight-nelson-q20080342",
+      "name": "Dwight Nelson",
+      "sitting": true,
+      "party_id": "jamaica-labour-party",
+      "caucus": "Jamaica Labour Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1268491"
+    },
+    {
+      "id": "audley-shaw-q20080342",
+      "name": "Audley Shaw",
+      "sitting": true,
+      "party_id": "jamaica-labour-party",
+      "caucus": "Jamaica Labour Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q758950"
+    },
+    {
+      "id": "omar-davies-q20080342",
+      "name": "Omar Davies",
+      "sitting": true,
+      "party_id": "people-s-national-party",
+      "caucus": "People's National Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2023064"
+    },
+    {
+      "id": "winston-green-q20080342",
+      "name": "Winston Green",
+      "sitting": true,
+      "party_id": "people-s-national-party",
+      "caucus": "People's National Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q8026090"
+    },
+    {
+      "id": "pearnel-charles-q20080342",
+      "name": "Pearnel Charles",
+      "sitting": true,
+      "party_id": "jamaica-labour-party",
+      "caucus": "Jamaica Labour Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2065916"
+    },
+    {
+      "id": "aloun-ndombet-assamba-q20080342",
+      "name": "Aloun Ndombet-Assamba",
+      "sitting": true,
+      "party_id": "people-s-national-party",
+      "caucus": "People's National Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2650605"
+    },
+    {
+      "id": "seymour-mullings-q20080342",
+      "name": "Seymour Mullings",
+      "sitting": true,
+      "party_id": "people-s-national-party",
+      "caucus": "People's National Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15634451"
+    },
+    {
+      "id": "juliet-holness-q20080342",
+      "name": "Juliet Holness",
+      "sitting": true,
+      "party_id": "jamaica-labour-party",
+      "caucus": "Jamaica Labour Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q47308275"
+    },
+    {
+      "id": "wykeham-mcneill-q20080342",
+      "name": "Wykeham McNeill",
+      "sitting": true,
+      "party_id": "people-s-national-party",
+      "caucus": "People's National Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1330998"
+    },
+    {
+      "id": "horace-chang-q20080342",
+      "name": "Horace Chang",
+      "sitting": true,
+      "party_id": "jamaica-labour-party",
+      "caucus": "Jamaica Labour Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1627852"
+    },
+    {
+      "id": "delroy-chuck-q20080342",
+      "name": "Delroy Chuck",
+      "sitting": true,
+      "party_id": "jamaica-labour-party",
+      "caucus": "Jamaica Labour Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1184742"
+    },
+    {
+      "id": "kern-spencer-q20080342",
+      "name": "Kern Spencer",
+      "sitting": true,
+      "party_id": "people-s-national-party",
+      "caucus": "People's National Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6394157"
+    },
+    {
+      "id": "michael-henry-q20080342",
+      "name": "Michael Henry",
+      "sitting": true,
+      "party_id": "jamaica-labour-party",
+      "caucus": "Jamaica Labour Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1927789"
+    },
+    {
+      "id": "douglas-vaz-q20080342",
+      "name": "Douglas Vaz",
+      "sitting": true,
+      "party_id": "jamaica-labour-party",
+      "caucus": "Jamaica Labour Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q74483125"
     },
     {
-      "id": "ann-marie-vaz",
-      "name": "Ann-Marie Vaz",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q74600954"
-    },
-    {
-      "id": "damion-crawford",
+      "id": "damion-crawford-q20080342",
       "name": "Damion Crawford",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "people-s-national-party",
+      "caucus": "People's National Party",
       "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
+      "chamber": "House of Representatives of Jamaica",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q74707089"
     },
     {
-      "id": "oliver-clue",
+      "id": "shahine-robinson-q20080342",
+      "name": "Shahine Robinson",
+      "sitting": true,
+      "party_id": "jamaica-labour-party",
+      "caucus": "Jamaica Labour Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7461785"
+    },
+    {
+      "id": "oliver-clue-q20080342",
       "name": "Oliver Clue",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "people-s-national-party",
+      "caucus": "People's National Party",
       "constituency_label": "",
-      "chamber": "Parliament of Jamaica",
+      "chamber": "House of Representatives of Jamaica",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q74742557"
+    },
+    {
+      "id": "kenneth-mcneill-q20080342",
+      "name": "Kenneth McNeill",
+      "sitting": true,
+      "party_id": "people-s-national-party",
+      "caucus": "People's National Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1710289"
+    },
+    {
+      "id": "ann-marie-vaz-q20080342",
+      "name": "Ann-Marie Vaz",
+      "sitting": true,
+      "party_id": "jamaica-labour-party",
+      "caucus": "Jamaica Labour Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q74600954"
+    },
+    {
+      "id": "sharon-hay-webster-q20080342",
+      "name": "Sharon Hay-Webster",
+      "sitting": true,
+      "party_id": "jamaica-labour-party",
+      "caucus": "Jamaica Labour Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7490086"
+    },
+    {
+      "id": "fayval-williams-q20080342",
+      "name": "Fayval Williams",
+      "sitting": true,
+      "party_id": "jamaica-labour-party",
+      "caucus": "Jamaica Labour Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q23304549"
+    },
+    {
+      "id": "karl-samuda-q20080342",
+      "name": "Karl Samuda",
+      "sitting": true,
+      "party_id": "people-s-national-party",
+      "caucus": "People's National Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1732780"
+    },
+    {
+      "id": "rudyard-spencer-q20080342",
+      "name": "Rudyard Spencer",
+      "sitting": true,
+      "party_id": "jamaica-labour-party",
+      "caucus": "Jamaica Labour Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2174584"
+    },
+    {
+      "id": "lisa-hanna-q20080342",
+      "name": "Lisa Hanna",
+      "sitting": true,
+      "party_id": "people-s-national-party",
+      "caucus": "People's National Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jamaica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q446817"
     }
   ]
 }

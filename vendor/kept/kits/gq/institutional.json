@@ -1,0 +1,59 @@
+{
+  "iso2": "gq",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q983",
+  "bodies": [
+    {
+      "qid": "Q16878152",
+      "label": "Parliament of Equatorial Guinea",
+      "seats": 170,
+      "web": "",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q14759322",
+      "label": "Senate of Equatorial Guinea",
+      "seats": 70,
+      "web": "https://senado-gq.org/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q775767",
+      "label": "Chamber of People's Representatives",
+      "seats": 100,
+      "web": "",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Senate of Equatorial Guinea",
+    "Chamber of People's Representatives"
+  ],
+  "seats": 340,
+  "items": [
+    {
+      "id": "Q16878152",
+      "name": "Parliament of Equatorial Guinea",
+      "kind": "parliament",
+      "seats": 170,
+      "url": "https://www.wikidata.org/wiki/Q16878152"
+    },
+    {
+      "id": "Q14759322",
+      "name": "Senate of Equatorial Guinea",
+      "kind": "chamber",
+      "seats": 70,
+      "url": "https://senado-gq.org/"
+    },
+    {
+      "id": "Q775767",
+      "name": "Chamber of People's Representatives",
+      "kind": "chamber",
+      "seats": 100,
+      "url": "https://www.wikidata.org/wiki/Q775767"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

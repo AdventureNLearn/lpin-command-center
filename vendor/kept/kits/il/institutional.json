@@ -1,7 +1,44 @@
 {
   "iso2": "il",
   "kit": "institutional",
-  "items": [],
   "incomplete": true,
-  "note": ":8103 claimed institutional_kits = 0. Honest empty — no real org pack."
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q801",
+  "bodies": [
+    {
+      "qid": "Q4047513",
+      "label": "Knesset member",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q133396",
+      "label": "The Knesset",
+      "seats": 120,
+      "web": "https://main.knesset.gov.il",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Knesset member"
+  ],
+  "seats": 120,
+  "items": [
+    {
+      "id": "Q4047513",
+      "name": "Knesset member",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q4047513"
+    },
+    {
+      "id": "Q133396",
+      "name": "The Knesset",
+      "kind": "parliament",
+      "seats": 120,
+      "url": "https://main.knesset.gov.il"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

@@ -1,8 +1,13 @@
 {
   "iso2": "us",
-  "items": [],
+  "items": [
+    {
+      "id": "money",
+      "hole": "No sourced money file.",
+      "basis": "Evidence"
+    }
+  ],
   "incomplete": true,
-  "examined_pairs": 7228,
-  "retrieved": "2026-08-21",
-  "note": "No gap row after seat 14 pledge MERGE (289 / 161 sitting). Examined 7228 sourced-pledge x same-issue clerk/reconstructed vote pairs (6533 with yea/nay already in votes.json; 5216 on/after pledge date; 194 auto polarity). 13 auto-tags rejected: 5 Moulton border (mixed comprehensive-reform vs partisan border-bill titles); 1 Fulcher guns (STOP School Violence Act pledge is school-security grants, not an opposite of ATF pistol-brace CRA); 7 Carbajal energy (oppose new oil wells on public lands is not an unambiguous opposite of LNG/coal-council/pipeline-review titles). Mixed appropriations, NDAA, procedural, leftover-issue, and unmapped titles not scored. Leftover 2025 EVS rolls 1-2 are quorum / speaker-election — yeas not invented. Did not invent yeas. Honest empty."
+  "retrieved": "2026-09-06",
+  "note": "Full-ISO fill 2026-09-06. Chambers: United States Congress · United States House of Representatives · member of the United States Congress · United States Senate. Sitting 437. Empty objects not invented."
 }

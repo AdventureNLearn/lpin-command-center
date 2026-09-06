@@ -3,11 +3,29 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1287548",
   "retrieved": "2026-09-06",
-  "incomplete": false,
+  "incomplete": true,
   "claimed_seats": 14,
+  "chambers": [
+    "member of the Congress of the Federated States of Micronesia",
+    "Speaker of the Congress of the Federated States of Micronesia",
+    "Congress of the Federated States of Micronesia"
+  ],
   "items": [
     {
-      "id": "esmond-moses",
+      "id": "aren-palik-q1287548",
+      "name": "Aren Palik",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Kosrae State",
+      "chamber": "Congress of the Federated States of Micronesia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q115365178"
+    },
+    {
+      "id": "esmond-moses-q1287548",
       "name": "Esmond Moses",
       "sitting": true,
       "party_id": "unknown",
@@ -20,8 +38,34 @@
       "roster_url": "http://www.wikidata.org/entity/Q115903103"
     },
     {
-      "id": "quincy-lawrence",
-      "name": "Quincy Lawrence",
+      "id": "bailey-olter-q1287548",
+      "name": "Bailey Olter",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "Pohnpei State",
+      "chamber": "Congress of the Federated States of Micronesia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q499593"
+    },
+    {
+      "id": "yosiwo-george-q1287548",
+      "name": "Yosiwo George",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "Kosrae State",
+      "chamber": "Congress of the Federated States of Micronesia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q23302699"
+    },
+    {
+      "id": "resio-s-moses-q1287548",
+      "name": "Resio S. Moses",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -30,23 +74,36 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q124667396"
+      "roster_url": "http://www.wikidata.org/entity/Q108443126"
     },
     {
-      "id": "isaac-figir",
-      "name": "Isaac Figir",
+      "id": "leo-falcam-q1287548",
+      "name": "Leo Falcam",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
-      "constituency_label": "Yap State",
+      "constituency_label": "Pohnpei State",
       "chamber": "Congress of the Federated States of Micronesia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q116194193"
+      "roster_url": "http://www.wikidata.org/entity/Q448296"
     },
     {
-      "id": "wesley-simina",
+      "id": "redley-a-killion-q1287548",
+      "name": "Redley A. Killion",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "Chuuk",
+      "chamber": "Congress of the Federated States of Micronesia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7306049"
+    },
+    {
+      "id": "wesley-simina-q1287548",
       "name": "Wesley Simina",
       "sitting": true,
       "party_id": "unknown",
@@ -59,7 +116,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q7984081"
     },
     {
-      "id": "perpetua-sappa-konman",
+      "id": "perpetua-sappa-konman-q1287548",
       "name": "Perpetua Sappa Konman",
       "sitting": true,
       "party_id": "unknown",
@@ -72,11 +129,89 @@
       "roster_url": "http://www.wikidata.org/entity/Q110832438"
     },
     {
-      "id": "peter-m-christian",
-      "name": "Peter M. Christian",
+      "id": "alik-l-alik-q1287548",
+      "name": "Alik L. Alik",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
+      "constituency_label": "Kosrae State",
+      "chamber": "Congress of the Federated States of Micronesia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1283214"
+    },
+    {
+      "id": "john-haglelgam-q1287548",
+      "name": "John Haglelgam",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "Yap State",
+      "chamber": "Congress of the Federated States of Micronesia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q448251"
+    },
+    {
+      "id": "jacob-nena-q1287548",
+      "name": "Jacob Nena",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "Kosrae State",
+      "chamber": "Congress of the Federated States of Micronesia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q495517"
+    },
+    {
+      "id": "david-w-panuelo-q1287548",
+      "name": "David W. Panuelo",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "Congress of the Federated States of Micronesia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q63872093"
+    },
+    {
+      "id": "manny-mori-q1287548",
+      "name": "Manny Mori",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "Chuuk",
+      "chamber": "Congress of the Federated States of Micronesia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57499"
+    },
+    {
+      "id": "nick-bossy-q1287548",
+      "name": "Nick Bossy",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Congress of the Federated States of Micronesia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110730137"
+    },
+    {
+      "id": "peter-m-christian-q1287548",
+      "name": "Peter M. Christian",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
       "constituency_label": "Pohnpei State",
       "chamber": "Congress of the Federated States of Micronesia",
       "lang": [
@@ -85,7 +220,137 @@
       "roster_url": "http://www.wikidata.org/entity/Q19921375"
     },
     {
-      "id": "merlynn-abello-alfonso",
+      "id": "joseph-urusemal-q1287548",
+      "name": "Joseph Urusemal",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Yap State",
+      "chamber": "Congress of the Federated States of Micronesia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q435427"
+    },
+    {
+      "id": "bethwel-henry-q1287548",
+      "name": "Bethwel Henry",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Congress of the Federated States of Micronesia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116961955"
+    },
+    {
+      "id": "claude-phillip-q1287548",
+      "name": "Claude Phillip",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Kosrae State",
+      "chamber": "Congress of the Federated States of Micronesia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116196235"
+    },
+    {
+      "id": "quincy-lawrence-q1287548",
+      "name": "Quincy Lawrence",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Pohnpei State",
+      "chamber": "Congress of the Federated States of Micronesia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124667396"
+    },
+    {
+      "id": "koichi-sana-q1287548",
+      "name": "Koichi Sana",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Chuuk",
+      "chamber": "Congress of the Federated States of Micronesia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116213382"
+    },
+    {
+      "id": "setiro-paul-q1287548",
+      "name": "Setiro Paul",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Chuuk",
+      "chamber": "Congress of the Federated States of Micronesia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116213325"
+    },
+    {
+      "id": "isaac-figir-q1287548",
+      "name": "Isaac Figir",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Yap State",
+      "chamber": "Congress of the Federated States of Micronesia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116194193"
+    },
+    {
+      "id": "ramon-peyal-q1287548",
+      "name": "Ramon Peyal",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Yap State",
+      "chamber": "Congress of the Federated States of Micronesia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116194330"
+    },
+    {
+      "id": "rolinson-neth-q1287548",
+      "name": "Rolinson Neth",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Kosrae State",
+      "chamber": "Congress of the Federated States of Micronesia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116196073"
+    },
+    {
+      "id": "joab-sigrah-q1287548",
+      "name": "Joab Sigrah",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Kosrae State",
+      "chamber": "Congress of the Federated States of Micronesia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116199621"
+    },
+    {
+      "id": "merlynn-abello-alfonso-q1287548",
       "name": "Merlynn Abello-Alfonso",
       "sitting": true,
       "party_id": "unknown",
@@ -98,7 +363,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q123700700"
     },
     {
-      "id": "florencio-singkoro-harper",
+      "id": "florencio-singkoro-harper-q1287548",
       "name": "Florencio Singkoro Harper",
       "sitting": true,
       "party_id": "unknown",
@@ -111,7 +376,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q124666610"
     },
     {
-      "id": "victor-gouland",
+      "id": "victor-gouland-q1287548",
       "name": "Victor Gouland",
       "sitting": true,
       "party_id": "unknown",
@@ -124,7 +389,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q124666617"
     },
     {
-      "id": "robson-u-romolow",
+      "id": "robson-u-romolow-q1287548",
       "name": "Robson U. Romolow",
       "sitting": true,
       "party_id": "unknown",
@@ -137,7 +402,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q124667024"
     },
     {
-      "id": "fabian-s-nimea",
+      "id": "fabian-s-nimea-q1287548",
       "name": "Fabian S. Nimea",
       "sitting": true,
       "party_id": "unknown",
@@ -150,7 +415,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q124667485"
     },
     {
-      "id": "tiwiter-aritos",
+      "id": "tiwiter-aritos-q1287548",
       "name": "Tiwiter Aritos",
       "sitting": true,
       "party_id": "unknown",
@@ -163,7 +428,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q124667477"
     },
     {
-      "id": "paliknoa-k-welly",
+      "id": "paliknoa-k-welly-q1287548",
       "name": "Paliknoa K. Welly",
       "sitting": true,
       "party_id": "unknown",
@@ -176,17 +441,17 @@
       "roster_url": "http://www.wikidata.org/entity/Q124667492"
     },
     {
-      "id": "joseph-urusemal",
-      "name": "Joseph Urusemal",
+      "id": "moses-mackwelung-q1287548",
+      "name": "Moses Mackwelung",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
-      "constituency_label": "Yap State",
+      "constituency_label": "",
       "chamber": "Congress of the Federated States of Micronesia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q435427"
+      "roster_url": "http://www.wikidata.org/entity/Q116201234"
     }
   ]
 }

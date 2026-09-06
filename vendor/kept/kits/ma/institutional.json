@@ -1,6 +1,59 @@
 {
   "iso2": "ma",
   "kit": "institutional",
-  "items": [],
-  "incomplete": true
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q1028",
+  "bodies": [
+    {
+      "qid": "Q3004884",
+      "label": "Parliament of Morocco",
+      "seats": 0,
+      "web": "https://www.parlement.ma/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q1572773",
+      "label": "House of Representatives of Morocco",
+      "seats": 395,
+      "web": "https://www.chambredesrepresentants.ma",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q2718576",
+      "label": "House of Councillors of Morocco",
+      "seats": 120,
+      "web": "http://www.chambredesconseillers.ma/",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "House of Representatives of Morocco",
+    "House of Councillors of Morocco"
+  ],
+  "seats": 515,
+  "items": [
+    {
+      "id": "Q3004884",
+      "name": "Parliament of Morocco",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://www.parlement.ma/"
+    },
+    {
+      "id": "Q1572773",
+      "name": "House of Representatives of Morocco",
+      "kind": "chamber",
+      "seats": 395,
+      "url": "https://www.chambredesrepresentants.ma"
+    },
+    {
+      "id": "Q2718576",
+      "name": "House of Councillors of Morocco",
+      "kind": "chamber",
+      "seats": 120,
+      "url": "http://www.chambredesconseillers.ma/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

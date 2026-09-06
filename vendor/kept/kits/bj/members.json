@@ -3,24 +3,28 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1969527",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 30,
+  "incomplete": true,
+  "claimed_seats": 109,
+  "chambers": [
+    "Deputy",
+    "National Assembly"
+  ],
   "items": [
     {
-      "id": "jean-baptiste-orden-rosae-alladatin",
-      "name": "Jean-Baptiste Orden Rosae Alladatin",
+      "id": "abdoulaye-gounou-salifou-q1969527",
+      "name": "Abdoulaye Gounou Salifou",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "republican-bloc",
+      "caucus": "Republican Bloc",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q123945219"
+      "roster_url": "http://www.wikidata.org/entity/Q124246209"
     },
     {
-      "id": "assan-seibou",
+      "id": "assan-seibou-q1969527",
       "name": "Assan Seibou",
       "sitting": true,
       "party_id": "unknown",
@@ -33,76 +37,24 @@
       "roster_url": "http://www.wikidata.org/entity/Q124248905"
     },
     {
-      "id": "alice-melevi-dadegnon",
-      "name": "Alice Melevi Dadegnon",
+      "id": "titilayo-adjai-q1969527",
+      "name": "Titilayo Adjaï",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "republican-bloc",
+      "caucus": "Republican Bloc",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q124599774"
+      "roster_url": "http://www.wikidata.org/entity/Q116771757"
     },
     {
-      "id": "cecile-segbegnon-ahoumenou",
-      "name": "Cécile Sègbégnon Ahoumènou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q124599815"
-    },
-    {
-      "id": "omobolanle-rachidatou-fatolou",
-      "name": "Omobolanlé Rachidatou Fatolou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125056479"
-    },
-    {
-      "id": "codjo-louis-dossou",
-      "name": "Codjo Louis Dossou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125056558"
-    },
-    {
-      "id": "alimatou-badarou",
-      "name": "Alimatou Badarou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125559975"
-    },
-    {
-      "id": "bruno-amoussou",
+      "id": "bruno-amoussou-q1969527",
       "name": "Bruno Amoussou",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "social-democratic-party",
+      "caucus": "Social Democratic Party",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
@@ -111,46 +63,267 @@
       "roster_url": "http://www.wikidata.org/entity/Q2926618"
     },
     {
-      "id": "adrien-houngbedji",
-      "name": "Adrien Houngbédji",
+      "id": "samou-seidou-adambi-q1969527",
+      "name": "Samou Seidou Adambi",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "republican-bloc",
+      "caucus": "Republican Bloc",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q377077"
+      "roster_url": "http://www.wikidata.org/entity/Q7410051"
     },
     {
-      "id": "mathurin-nago",
-      "name": "Mathurin Nago",
+      "id": "bio-gounou-idrissou-sina-ouningui-q1969527",
+      "name": "Bio Gounou Idrissou Sina Ouningui",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q3299037"
+      "roster_url": "http://www.wikidata.org/entity/Q124599556"
     },
     {
-      "id": "paulin-tomanaga",
-      "name": "Paulin Tomanaga",
+      "id": "boundja-jacques-yempabou-q1969527",
+      "name": "Boundja Jacques Yempabou",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q3372681"
+      "roster_url": "http://www.wikidata.org/entity/Q124599585"
     },
     {
-      "id": "abraham-zinzindohoue",
+      "id": "goro-bake-chabi-q1969527",
+      "name": "Goro Baké Chabi",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599565"
+    },
+    {
+      "id": "afiavi-solange-mehou-q1969527",
+      "name": "Afiavi Solange Mehou",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599626"
+    },
+    {
+      "id": "labiou-amadou-djibril-q1969527",
+      "name": "Labiou Amadou Djibril",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599550"
+    },
+    {
+      "id": "cossi-barthelemy-melon-vidjinnagni-q1969527",
+      "name": "Cossi Barthélémy Melon Vidjinnagni",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599605"
+    },
+    {
+      "id": "brice-denis-sena-fagbemi-q1969527",
+      "name": "Brice Dénis Sena Fagbemi",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599632"
+    },
+    {
+      "id": "boubakari-oumarou-lafia-q1969527",
+      "name": "Boubakari Oumarou Lafia",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599679"
+    },
+    {
+      "id": "gisele-sewade-q1969527",
+      "name": "Gisèle Sewade",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599718"
+    },
+    {
+      "id": "kotchami-nicaise-fagnon-q1969527",
+      "name": "Kotchami Nicaise Fagnon",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599698"
+    },
+    {
+      "id": "sossou-bernard-amoussou-q1969527",
+      "name": "Sossou Bernard Amoussou",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599616"
+    },
+    {
+      "id": "viwagnon-jean-mejor-zannou-q1969527",
+      "name": "Viwagnon Jean Mejor Zannou",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599639"
+    },
+    {
+      "id": "tohouegnon-nestor-noutai-q1969527",
+      "name": "Tohouegnon Nestor Noutaï",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599652"
+    },
+    {
+      "id": "yacoubou-orou-se-guene-q1969527",
+      "name": "Yacoubou Orou Sé Guéné",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599665"
+    },
+    {
+      "id": "sabi-abel-sourokou-q1969527",
+      "name": "Sabi Abel Sourokou",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599688"
+    },
+    {
+      "id": "richard-allossohoun-q1969527",
+      "name": "Richard Allossohoun",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599712"
+    },
+    {
+      "id": "nassirou-bako-arifari-q1969527",
+      "name": "Nassirou Bako Arifari",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16886636"
+    },
+    {
+      "id": "antoine-idji-kolawole-q1969527",
+      "name": "Antoine Idji Kolawolé",
+      "sitting": true,
+      "party_id": "alliance-for-democracy-and-progress",
+      "caucus": "Alliance for Democracy and Progress",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4775490"
+    },
+    {
+      "id": "antoine-dayori-q1969527",
+      "name": "Antoine Dayori",
+      "sitting": true,
+      "party_id": "key-force",
+      "caucus": "Key Force",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4775460"
+    },
+    {
+      "id": "abraham-zinzindohoue-q1969527",
       "name": "Abraham Zinzindohoué",
       "sitting": true,
       "party_id": "unknown",
@@ -163,8 +336,21 @@
       "roster_url": "http://www.wikidata.org/entity/Q510823"
     },
     {
-      "id": "antoine-dayori",
-      "name": "Antoine Dayori",
+      "id": "abdoulaye-bio-tchane-q1969527",
+      "name": "Abdoulaye Bio Tchané",
+      "sitting": true,
+      "party_id": "republican-bloc",
+      "caucus": "Republican Bloc",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2821361"
+    },
+    {
+      "id": "rosine-soglo-q1969527",
+      "name": "Rosine Soglo",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -173,11 +359,11 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q4775460"
+      "roster_url": "http://www.wikidata.org/entity/Q4979540"
     },
     {
-      "id": "antoine-idji-kolawole",
-      "name": "Antoine Idji Kolawolé",
+      "id": "amos-elegbe-q1969527",
+      "name": "Amos Elegbe",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -186,23 +372,10 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q4775490"
+      "roster_url": "http://www.wikidata.org/entity/Q19952856"
     },
     {
-      "id": "robert-gbian",
-      "name": "Robert Gbian",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19629105"
-    },
-    {
-      "id": "bertin-borna",
+      "id": "bertin-borna-q1969527",
       "name": "Bertin Borna",
       "sitting": true,
       "party_id": "unknown",
@@ -215,8 +388,34 @@
       "roster_url": "http://www.wikidata.org/entity/Q20986546"
     },
     {
-      "id": "sacca-lafia",
-      "name": "Sacca Lafia",
+      "id": "edmond-agoua-q1969527",
+      "name": "Edmond Agoua",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q115596868"
+    },
+    {
+      "id": "augustin-ahouanvoebla-q1969527",
+      "name": "Augustin Ahouanvoebla",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q115597032"
+    },
+    {
+      "id": "joseph-gnonlonfoun-q1969527",
+      "name": "Joseph Gnonlonfoun",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -225,14 +424,14 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q7396577"
+      "roster_url": "http://www.wikidata.org/entity/Q6283486"
     },
     {
-      "id": "lazare-sehoueto",
+      "id": "lazare-sehoueto-q1969527",
       "name": "Lazare Sèhouéto",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "movement-for-the-people-s-alternative",
+      "caucus": "Movement for the People's Alternative",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
@@ -241,7 +440,189 @@
       "roster_url": "http://www.wikidata.org/entity/Q978750"
     },
     {
-      "id": "helene-aholou-keke",
+      "id": "maixent-djeigo-q1969527",
+      "name": "Maixent Djeigo",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599591"
+    },
+    {
+      "id": "louis-vlavonou-q1969527",
+      "name": "Louis Vlavonou",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q65133413"
+    },
+    {
+      "id": "atao-hinnouho-q1969527",
+      "name": "Atao Hinnouho",
+      "sitting": true,
+      "party_id": "reso-atao",
+      "caucus": "Réso Atao",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q113536855"
+    },
+    {
+      "id": "joseph-keke-q1969527",
+      "name": "Joseph Keke",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q26235904"
+    },
+    {
+      "id": "theophile-nata-q1969527",
+      "name": "Théophile Nata",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7799883"
+    },
+    {
+      "id": "jocelyn-degbey-q1969527",
+      "name": "Jocelyn Degbey",
+      "sitting": true,
+      "party_id": "social-democratic-party",
+      "caucus": "Social Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110802146"
+    },
+    {
+      "id": "beatrice-lakoussan-q1969527",
+      "name": "Béatrice Lakoussan",
+      "sitting": true,
+      "party_id": "social-democratic-party",
+      "caucus": "Social Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110812131"
+    },
+    {
+      "id": "soumaila-sounon-boke-q1969527",
+      "name": "Soumaïla Sounon Boké",
+      "sitting": true,
+      "party_id": "the-democrats",
+      "caucus": "The Democrats",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q117067567"
+    },
+    {
+      "id": "helene-olossoumai-q1969527",
+      "name": "Hélène Olossoumai",
+      "sitting": true,
+      "party_id": "the-democrats",
+      "caucus": "The Democrats",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q117072202"
+    },
+    {
+      "id": "sanni-yibatou-q1969527",
+      "name": "Sanni Yibatou",
+      "sitting": true,
+      "party_id": "democratic-renewal-party",
+      "caucus": "Democratic Renewal Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110803428"
+    },
+    {
+      "id": "amissetou-affo-djobo-q1969527",
+      "name": "Amissétou Affo Djobo",
+      "sitting": true,
+      "party_id": "cowry-forces-for-an-emerging-benin",
+      "caucus": "Cowry Forces for an Emerging Benin",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110315159"
+    },
+    {
+      "id": "viviane-orou-tama-q1969527",
+      "name": "Viviane Orou Tama",
+      "sitting": true,
+      "party_id": "the-democrats",
+      "caucus": "The Democrats",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q117286676"
+    },
+    {
+      "id": "adrien-houngbedji-q1969527",
+      "name": "Adrien Houngbédji",
+      "sitting": true,
+      "party_id": "democratic-renewal-party",
+      "caucus": "Democratic Renewal Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q377077"
+    },
+    {
+      "id": "barthelemy-kassa-q1969527",
+      "name": "Barthélémy Kassa",
+      "sitting": true,
+      "party_id": "cowry-forces-for-an-emerging-benin",
+      "caucus": "Cowry Forces for an Emerging Benin",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123385267"
+    },
+    {
+      "id": "helene-aholou-keke-q1969527",
       "name": "Hélène Aholou Keke",
       "sitting": true,
       "party_id": "unknown",
@@ -254,7 +635,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q44147191"
     },
     {
-      "id": "janvier-yahouedeou",
+      "id": "eric-houndete-q1969527",
+      "name": "Éric Houndété",
+      "sitting": true,
+      "party_id": "the-democrats",
+      "caucus": "The Democrats",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q114384879"
+    },
+    {
+      "id": "janvier-yahouedeou-q1969527",
       "name": "Janvier Yahouedeou",
       "sitting": true,
       "party_id": "unknown",
@@ -267,7 +661,215 @@
       "roster_url": "http://www.wikidata.org/entity/Q48758301"
     },
     {
-      "id": "koubourath-osseni",
+      "id": "jerome-chabi-sacca-kina-guezere-q1969527",
+      "name": "Jerome Chabi Sacca Kina Guézéré",
+      "sitting": true,
+      "party_id": "action-front-for-renewal-and-development",
+      "caucus": "Action Front for Renewal and Development",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6182886"
+    },
+    {
+      "id": "robert-gbian-q1969527",
+      "name": "Robert Gbian",
+      "sitting": true,
+      "party_id": "republican-bloc",
+      "caucus": "Republican Bloc",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19629105"
+    },
+    {
+      "id": "dedevi-eugenie-chantal-ahyi-q1969527",
+      "name": "Dédévi Eugénie Chantal Ahyi",
+      "sitting": true,
+      "party_id": "republican-bloc",
+      "caucus": "Republican Bloc",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110383773"
+    },
+    {
+      "id": "rosine-dagniho-q1969527",
+      "name": "Rosine Dagniho",
+      "sitting": true,
+      "party_id": "republican-bloc",
+      "caucus": "Republican Bloc",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110383873"
+    },
+    {
+      "id": "mariama-baba-moussa-q1969527",
+      "name": "Mariama Baba Moussa",
+      "sitting": true,
+      "party_id": "republican-bloc",
+      "caucus": "Republican Bloc",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110384898"
+    },
+    {
+      "id": "sofiatou-schanou-q1969527",
+      "name": "Sofiatou Schanou",
+      "sitting": true,
+      "party_id": "republican-bloc",
+      "caucus": "Republican Bloc",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110384897"
+    },
+    {
+      "id": "eniola-awou-bissiriou-q1969527",
+      "name": "Eniola Awou Bissiriou",
+      "sitting": true,
+      "party_id": "republican-bloc",
+      "caucus": "Republican Bloc",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110386156"
+    },
+    {
+      "id": "mathurin-nago-q1969527",
+      "name": "Mathurin Nago",
+      "sitting": true,
+      "party_id": "united-democratic-forces",
+      "caucus": "United Democratic Forces",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3299037"
+    },
+    {
+      "id": "daniel-tawema-q1969527",
+      "name": "Daniel Tawéma",
+      "sitting": true,
+      "party_id": "action-front-for-renewal-and-development",
+      "caucus": "Action Front for Renewal and Development",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5218899"
+    },
+    {
+      "id": "herve-yves-hehomey-q1969527",
+      "name": "Hervé Yves Hehomey",
+      "sitting": true,
+      "party_id": "republican-bloc",
+      "caucus": "Republican Bloc",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107097466"
+    },
+    {
+      "id": "karimou-salimane-q1969527",
+      "name": "Karimou Salimane",
+      "sitting": true,
+      "party_id": "republican-bloc",
+      "caucus": "Republican Bloc",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107097620"
+    },
+    {
+      "id": "kamarou-fassassi-q1969527",
+      "name": "Kamarou Fassassi",
+      "sitting": true,
+      "party_id": "democratic-renewal-party",
+      "caucus": "Democratic Renewal Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6356062"
+    },
+    {
+      "id": "jean-michel-abimbola-q1969527",
+      "name": "Jean-Michel Abimbola",
+      "sitting": true,
+      "party_id": "cowry-forces-for-an-emerging-benin",
+      "caucus": "Cowry Forces for an Emerging Benin",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107418365"
+    },
+    {
+      "id": "yacoubou-malehossou-q1969527",
+      "name": "Yacoubou Malehossou",
+      "sitting": true,
+      "party_id": "benin-rebirth-party",
+      "caucus": "Benin Rebirth Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q114011440"
+    },
+    {
+      "id": "mahougnon-kakpo-q1969527",
+      "name": "Mahougnon Kakpo",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q66226631"
+    },
+    {
+      "id": "issa-salifou-q1969527",
+      "name": "Issa Salifou",
+      "sitting": true,
+      "party_id": "union-for-future-benin",
+      "caucus": "Union for Future Benin",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q114270348"
+    },
+    {
+      "id": "koubourath-osseni-q1969527",
       "name": "Koubourath Osséni",
       "sitting": true,
       "party_id": "unknown",
@@ -280,59 +882,85 @@
       "roster_url": "http://www.wikidata.org/entity/Q107191315"
     },
     {
-      "id": "mariama-baba-moussa",
-      "name": "Mariama Baba Moussa",
+      "id": "joseph-djogbenou-q1969527",
+      "name": "Joseph Djogbenou",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q110384898"
+      "roster_url": "http://www.wikidata.org/entity/Q3184857"
     },
     {
-      "id": "sofiatou-schanou",
-      "name": "Sofiatou Schanou",
+      "id": "natonde-ake-q1969527",
+      "name": "Natondé Aké",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q110384897"
+      "roster_url": "http://www.wikidata.org/entity/Q123784104"
     },
     {
-      "id": "eniola-awou-bissiriou",
-      "name": "Eniola Awou Bissiriou",
+      "id": "djamilatou-sabi-mohamed-q1969527",
+      "name": "Djamilatou Sabi Mohamed",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q110386156"
+      "roster_url": "http://www.wikidata.org/entity/Q117067588"
     },
     {
-      "id": "sanni-yibatou",
-      "name": "Sanni Yibatou",
+      "id": "paulin-tomanaga-q1969527",
+      "name": "Paulin Tomanaga",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "benin-rebirth-party",
+      "caucus": "Benin Rebirth Party",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q110803428"
+      "roster_url": "http://www.wikidata.org/entity/Q3372681"
     },
     {
-      "id": "charles-toko",
+      "id": "jeremie-adomahou-q1969527",
+      "name": "Jérémie Adomahou",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123822048"
+    },
+    {
+      "id": "gerard-gbenonchi-q1969527",
+      "name": "Gérard Gbenonchi",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123822369"
+    },
+    {
+      "id": "charles-toko-q1969527",
       "name": "Charles Toko",
       "sitting": true,
       "party_id": "unknown",
@@ -345,7 +973,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q112073485"
     },
     {
-      "id": "valentin-houde",
+      "id": "jean-baptiste-orden-rosae-alladatin-q1969527",
+      "name": "Jean-Baptiste Orden Rosae Alladatin",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123945219"
+    },
+    {
+      "id": "valentin-houde-q1969527",
       "name": "Valentin Houdé",
       "sitting": true,
       "party_id": "unknown",
@@ -358,20 +999,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q114065943"
     },
     {
-      "id": "sina-bio-gounou-idrissou",
-      "name": "Sina Bio Gounou Idrissou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q114246422"
-    },
-    {
-      "id": "prudent-victor-topanou",
+      "id": "prudent-victor-topanou-q1969527",
       "name": "Prudent Victor Topanou",
       "sitting": true,
       "party_id": "unknown",
@@ -384,7 +1012,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q114421003"
     },
     {
-      "id": "venance-gnigla",
+      "id": "venance-gnigla-q1969527",
       "name": "Venance Gnigla",
       "sitting": true,
       "party_id": "unknown",
@@ -395,6 +1023,864 @@
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q114797027"
+    },
+    {
+      "id": "fatouma-tony-gnire-guimba-q1969527",
+      "name": "Fatouma Tony Gniré Guimba",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q117280499"
+    },
+    {
+      "id": "denise-mahoutin-degbedji-q1969527",
+      "name": "Denise Mahoutin Degbedji",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q117280566"
+    },
+    {
+      "id": "edmonde-tagnonnanon-fonton-q1969527",
+      "name": "Edmonde Tagnonnanon Fonton",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q117288935"
+    },
+    {
+      "id": "leon-comlan-ahossi-q1969527",
+      "name": "Léon Comlan Ahossi",
+      "sitting": true,
+      "party_id": "the-democrats",
+      "caucus": "The Democrats",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q115596956"
+    },
+    {
+      "id": "nourenou-atchade-q1969527",
+      "name": "Nourénou Atchadé",
+      "sitting": true,
+      "party_id": "the-democrats",
+      "caucus": "The Democrats",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q115597393"
+    },
+    {
+      "id": "sina-bio-gounou-idrissou-q1969527",
+      "name": "Sina Bio Gounou Idrissou",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q114246422"
+    },
+    {
+      "id": "sacca-lafia-q1969527",
+      "name": "Sacca Lafia",
+      "sitting": true,
+      "party_id": "union-for-democracy-and-national-solidarity",
+      "caucus": "Union for Democracy and National Solidarity",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7396577"
+    },
+    {
+      "id": "coffi-bernard-houngnibo-q1969527",
+      "name": "Coffi Bernard Houngnibo",
+      "sitting": true,
+      "party_id": "republican-bloc",
+      "caucus": "Republican Bloc",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599952"
+    },
+    {
+      "id": "benoit-assouan-comlan-degla-q1969527",
+      "name": "Benoît Assouan Comlan Degla",
+      "sitting": true,
+      "party_id": "republican-bloc",
+      "caucus": "Republican Bloc",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599982"
+    },
+    {
+      "id": "abdoul-malick-seibou-q1969527",
+      "name": "Abdoul Malick Séibou",
+      "sitting": true,
+      "party_id": "republican-bloc",
+      "caucus": "Republican Bloc",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599998"
+    },
+    {
+      "id": "casimir-sossou-q1969527",
+      "name": "Casimir Sossou",
+      "sitting": true,
+      "party_id": "republican-bloc",
+      "caucus": "Republican Bloc",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599994"
+    },
+    {
+      "id": "jeanne-tchanati-q1969527",
+      "name": "Jeanne Tchanati",
+      "sitting": true,
+      "party_id": "republican-bloc",
+      "caucus": "Republican Bloc",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599943"
+    },
+    {
+      "id": "alidjanatou-saliou-q1969527",
+      "name": "Alidjanatou Saliou",
+      "sitting": true,
+      "party_id": "republican-bloc",
+      "caucus": "Republican Bloc",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124600014"
+    },
+    {
+      "id": "eustache-akpovi-q1969527",
+      "name": "Eustache Akpovi",
+      "sitting": true,
+      "party_id": "republican-bloc",
+      "caucus": "Republican Bloc",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599977"
+    },
+    {
+      "id": "adjibade-moukaram-koussonda-q1969527",
+      "name": "Adjibadé Moukaram Koussonda",
+      "sitting": true,
+      "party_id": "republican-bloc",
+      "caucus": "Republican Bloc",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124600040"
+    },
+    {
+      "id": "nathanael-sokpoekpe-q1969527",
+      "name": "Nathanaël Sokpoékpé",
+      "sitting": true,
+      "party_id": "republican-bloc",
+      "caucus": "Republican Bloc",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599958"
+    },
+    {
+      "id": "armand-codjo-ganse-q1969527",
+      "name": "Armand Codjo Gansè",
+      "sitting": true,
+      "party_id": "republican-bloc",
+      "caucus": "Republican Bloc",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124600060"
+    },
+    {
+      "id": "denis-glegbeto-q1969527",
+      "name": "Denis Glegbeto",
+      "sitting": true,
+      "party_id": "republican-bloc",
+      "caucus": "Republican Bloc",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124600053"
+    },
+    {
+      "id": "mounifa-karim-tidjani-q1969527",
+      "name": "Mounifa Karim Tidjani",
+      "sitting": true,
+      "party_id": "republican-bloc",
+      "caucus": "Republican Bloc",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124600005"
+    },
+    {
+      "id": "mathias-kouwanou-q1969527",
+      "name": "Mathias Kouwanou",
+      "sitting": true,
+      "party_id": "republican-bloc",
+      "caucus": "Republican Bloc",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124600034"
+    },
+    {
+      "id": "dossa-lambert-agongbonon-q1969527",
+      "name": "Dossa Lambert Agongbonon",
+      "sitting": true,
+      "party_id": "republican-bloc",
+      "caucus": "Republican Bloc",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124600080"
+    },
+    {
+      "id": "yo-sanni-innocent-sabi-q1969527",
+      "name": "Yo Sanni Innocent Sabi",
+      "sitting": true,
+      "party_id": "republican-bloc",
+      "caucus": "Republican Bloc",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599921"
+    },
+    {
+      "id": "theophile-n-tia-m-po-q1969527",
+      "name": "Théophile N'Tia M'Po",
+      "sitting": true,
+      "party_id": "republican-bloc",
+      "caucus": "Republican Bloc",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599934"
+    },
+    {
+      "id": "ahouefa-adeline-natacha-kpochan-q1969527",
+      "name": "Ahouefa Adeline Natacha Kpochan",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599740"
+    },
+    {
+      "id": "alice-melevi-dadegnon-q1969527",
+      "name": "Alice Melevi Dadegnon",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599774"
+    },
+    {
+      "id": "delonix-djimeco-kogblevi-q1969527",
+      "name": "Délonix Djimèco Kogblévi",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599751"
+    },
+    {
+      "id": "adjoua-gladys-eudoxie-tossou-q1969527",
+      "name": "Adjoua Gladys Eudoxie Tossou",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599785"
+    },
+    {
+      "id": "honore-marius-guigui-q1969527",
+      "name": "Honoré Marius Guigui",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599733"
+    },
+    {
+      "id": "dodji-kocou-regina-koumagbeafide-q1969527",
+      "name": "Dodji Kocou Régina Koumagbeafidé",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599761"
+    },
+    {
+      "id": "charlemagne-honfo-q1969527",
+      "name": "Charlemagne Honfo",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599805"
+    },
+    {
+      "id": "dakpe-sossou-q1969527",
+      "name": "Dakpè Sossou",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599810"
+    },
+    {
+      "id": "cecile-segbegnon-ahoumenou-q1969527",
+      "name": "Cécile Sègbégnon Ahoumènou",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599815"
+    },
+    {
+      "id": "abdoul-razack-abiosse-q1969527",
+      "name": "Abdoul Razack Abiosse",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599853"
+    },
+    {
+      "id": "hounsa-justin-agbodjete-q1969527",
+      "name": "Hounsa Justin Agbodjèté",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599825"
+    },
+    {
+      "id": "godonou-david-houinsa-q1969527",
+      "name": "Godonou David Houinsa",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599837"
+    },
+    {
+      "id": "agoi-rogatienne-aikoele-q1969527",
+      "name": "Agoï Rogatienne Aïkoele",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599908"
+    },
+    {
+      "id": "eugenie-akouavi-kouana-q1969527",
+      "name": "Eugenie Akouavi Kouana",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599890"
+    },
+    {
+      "id": "leopold-lokossou-q1969527",
+      "name": "Léopold Lokossou",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599886"
+    },
+    {
+      "id": "olga-adedogni-olouremi-akitobi-q1969527",
+      "name": "Olga Adédogni Olouremi Akitobi",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599859"
+    },
+    {
+      "id": "sedozan-jean-claude-clovis-apithy-q1969527",
+      "name": "Sèdozan Jean-Claude Clovis Apithy",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599795"
+    },
+    {
+      "id": "yenakponhami-edouard-behanzin-q1969527",
+      "name": "Yenakponhami Edouard Béhanzin",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124599880"
+    },
+    {
+      "id": "omobolanle-rachidatou-fatolou-q1969527",
+      "name": "Omobolanlé Rachidatou Fatolou",
+      "sitting": true,
+      "party_id": "republican-bloc",
+      "caucus": "Republican Bloc",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125056479"
+    },
+    {
+      "id": "codjo-louis-dossou-q1969527",
+      "name": "Codjo Louis Dossou",
+      "sitting": true,
+      "party_id": "progressive-union-for-renewal",
+      "caucus": "Progressive Union for Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125056558"
+    },
+    {
+      "id": "alimatou-badarou-q1969527",
+      "name": "Alimatou Badarou",
+      "sitting": true,
+      "party_id": "republican-bloc",
+      "caucus": "Republican Bloc",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125559975"
+    },
+    {
+      "id": "bio-sika-abdel-kamel-ouansangari-q1969527",
+      "name": "Bio Sika Abdel Kamel Ouansangari",
+      "sitting": true,
+      "party_id": "the-democrats",
+      "caucus": "The Democrats",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124600092"
+    },
+    {
+      "id": "alassane-sabi-karim-q1969527",
+      "name": "Alassane Sabi Karim",
+      "sitting": true,
+      "party_id": "the-democrats",
+      "caucus": "The Democrats",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124600108"
+    },
+    {
+      "id": "arouna-issiaka-q1969527",
+      "name": "Arouna Issiaka",
+      "sitting": true,
+      "party_id": "the-democrats",
+      "caucus": "The Democrats",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124600169"
+    },
+    {
+      "id": "habibou-woroucoubo-q1969527",
+      "name": "Habibou Woroucoubo",
+      "sitting": true,
+      "party_id": "the-democrats",
+      "caucus": "The Democrats",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124600162"
+    },
+    {
+      "id": "fadegnon-leon-degny-q1969527",
+      "name": "Fadegnon Léon Degny",
+      "sitting": true,
+      "party_id": "the-democrats",
+      "caucus": "The Democrats",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124600177"
+    },
+    {
+      "id": "midofin-antonin-hounga-q1969527",
+      "name": "Midofin Antonin Hounga",
+      "sitting": true,
+      "party_id": "the-democrats",
+      "caucus": "The Democrats",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124600136"
+    },
+    {
+      "id": "elise-aihe-q1969527",
+      "name": "Elise Aihe",
+      "sitting": true,
+      "party_id": "the-democrats",
+      "caucus": "The Democrats",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124600187"
+    },
+    {
+      "id": "abdou-akim-radji-q1969527",
+      "name": "Abdou Akim Radji",
+      "sitting": true,
+      "party_id": "the-democrats",
+      "caucus": "The Democrats",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124600258"
+    },
+    {
+      "id": "denise-mahougnon-hounmenou-q1969527",
+      "name": "Denise Mahougnon Hounmènou",
+      "sitting": true,
+      "party_id": "the-democrats",
+      "caucus": "The Democrats",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124600230"
+    },
+    {
+      "id": "kolawole-djima-ogbon-q1969527",
+      "name": "Kolawolé Djima Ogbon",
+      "sitting": true,
+      "party_id": "the-democrats",
+      "caucus": "The Democrats",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124600193"
+    },
+    {
+      "id": "gafari-adechokan-q1969527",
+      "name": "Gafari Adechokan",
+      "sitting": true,
+      "party_id": "the-democrats",
+      "caucus": "The Democrats",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124600223"
+    },
+    {
+      "id": "constant-nahum-q1969527",
+      "name": "Constant Nahum",
+      "sitting": true,
+      "party_id": "the-democrats",
+      "caucus": "The Democrats",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124600246"
+    },
+    {
+      "id": "chantal-adjovi-q1969527",
+      "name": "Chantal Adjovi",
+      "sitting": true,
+      "party_id": "the-democrats",
+      "caucus": "The Democrats",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124600251"
+    },
+    {
+      "id": "leansou-b-do-rego-q1969527",
+      "name": "Léansou B. Do Rego",
+      "sitting": true,
+      "party_id": "the-democrats",
+      "caucus": "The Democrats",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124600215"
+    },
+    {
+      "id": "joel-godonou-q1969527",
+      "name": "Joël Godonou",
+      "sitting": true,
+      "party_id": "the-democrats",
+      "caucus": "The Democrats",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124600236"
+    },
+    {
+      "id": "ogoussi-edwige-tossa-q1969527",
+      "name": "Ogoussi Edwige Tossa",
+      "sitting": true,
+      "party_id": "the-democrats",
+      "caucus": "The Democrats",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124600204"
+    },
+    {
+      "id": "michel-francois-oloutoye-sodjinou-q1969527",
+      "name": "Michel François Oloutoyé Sodjinou",
+      "sitting": true,
+      "party_id": "the-democrats",
+      "caucus": "The Democrats",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124600265"
+    },
+    {
+      "id": "nounagnon-celestin-hounsou-q1969527",
+      "name": "Nounagnon Célestin Hounsou",
+      "sitting": true,
+      "party_id": "the-democrats",
+      "caucus": "The Democrats",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124600275"
+    },
+    {
+      "id": "zenabou-kora-q1969527",
+      "name": "Zenabou Kora",
+      "sitting": true,
+      "party_id": "the-democrats",
+      "caucus": "The Democrats",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124600115"
+    },
+    {
+      "id": "souley-malam-moucoure-boko-q1969527",
+      "name": "Souley Malam Moucoure Boko",
+      "sitting": true,
+      "party_id": "the-democrats",
+      "caucus": "The Democrats",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124600143"
+    },
+    {
+      "id": "raouf-sariki-q1969527",
+      "name": "Raouf Sariki",
+      "sitting": true,
+      "party_id": "the-democrats",
+      "caucus": "The Democrats",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124600155"
+    },
+    {
+      "id": "tairou-imorou-q1969527",
+      "name": "Taïrou Imorou",
+      "sitting": true,
+      "party_id": "the-democrats",
+      "caucus": "The Democrats",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124600210"
     }
   ]
 }

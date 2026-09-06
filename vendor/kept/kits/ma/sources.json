@@ -3,8 +3,53 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q3004884"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q3004884",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q3004884",
+      "label": "Parliament of Morocco",
+      "url": "https://www.parlement.ma/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q3004884",
+      "label": "Parliament of Morocco (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q3004884",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1572773",
+      "label": "House of Representatives of Morocco",
+      "url": "https://www.chambredesrepresentants.ma",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1572773",
+      "label": "House of Representatives of Morocco (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1572773",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q2718576",
+      "label": "House of Councillors of Morocco",
+      "url": "http://www.chambredesconseillers.ma/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q2718576",
+      "label": "House of Councillors of Morocco (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q2718576",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

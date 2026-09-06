@@ -3,12 +3,1383 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q18342090",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 3,
+  "incomplete": true,
+  "claimed_seats": 217,
+  "chambers": [
+    "Member of the Assembly of the Representatives of the People",
+    "Assembly of the Representatives of the People",
+    "National Council of Regions and Districts",
+    "Chamber of Advisors"
+  ],
   "items": [
     {
-      "id": "anouar-marzouki",
-      "name": "Anouar Marzouki",
+      "id": "abada-kefi-q18342090",
+      "name": "Abada Kefi",
+      "sitting": true,
+      "party_id": "machrouu-tounes",
+      "caucus": "Machrouu Tounes",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577491"
+    },
+    {
+      "id": "abderraouf-cherif-q18342090",
+      "name": "Abderraouf Cherif",
+      "sitting": true,
+      "party_id": "machrouu-tounes",
+      "caucus": "Machrouu Tounes",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577522"
+    },
+    {
+      "id": "faycal-tebbini-q18342090",
+      "name": "Fayçal Tebbini",
+      "sitting": true,
+      "party_id": "farmers-voice-party",
+      "caucus": "Farmers' Voice Party",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577437"
+    },
+    {
+      "id": "nozha-biaoui-q18342090",
+      "name": "Nozha Biaoui",
+      "sitting": true,
+      "party_id": "national-front-for-salvation",
+      "caucus": "National Front for Salvation",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577417"
+    },
+    {
+      "id": "amal-souid-q18342090",
+      "name": "Amal Souid",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577495"
+    },
+    {
+      "id": "ahmed-ameri-q18342090",
+      "name": "Ahmed Ameri",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577502"
+    },
+    {
+      "id": "bechir-khelifi-q18342090",
+      "name": "Bechir Khelifi",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577500"
+    },
+    {
+      "id": "basma-jebali-q18342090",
+      "name": "Basma Jebali",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577510"
+    },
+    {
+      "id": "emna-ben-hmayed-q18342090",
+      "name": "Emna Ben Hmayed",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577420"
+    },
+    {
+      "id": "hedi-soula-q18342090",
+      "name": "Hedi Soula",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577419"
+    },
+    {
+      "id": "dalila-babba-q18342090",
+      "name": "Dalila Babba",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577507"
+    },
+    {
+      "id": "imen-ben-mhamed-q18342090",
+      "name": "Imen Ben Mhamed",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577454"
+    },
+    {
+      "id": "mahbouba-ben-dhifallah-q18342090",
+      "name": "Mahbouba Ben Dhifallah",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577423"
+    },
+    {
+      "id": "heger-bouzemmi-q18342090",
+      "name": "Heger Bouzemmi",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577488"
+    },
+    {
+      "id": "mahmoud-gouiaa-q18342090",
+      "name": "Mahmoud Gouiaa",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577445"
+    },
+    {
+      "id": "hedi-ben-braham-q18342090",
+      "name": "Hedi Ben Braham",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577506"
+    },
+    {
+      "id": "imed-khemiri-q18342090",
+      "name": "Imed Khemiri",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577521"
+    },
+    {
+      "id": "soulef-ksantini-q18342090",
+      "name": "Soulef Ksantini",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577431"
+    },
+    {
+      "id": "maher-madhioub-q18342090",
+      "name": "Maher Madhioub",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577498"
+    },
+    {
+      "id": "neji-jmal-q18342090",
+      "name": "Neji Jmal",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577482"
+    },
+    {
+      "id": "kalthoum-badreddine-q18342090",
+      "name": "Kalthoum Badreddine",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577516"
+    },
+    {
+      "id": "mohamed-sidhom-q18342090",
+      "name": "Mohamed Sidhom",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577499"
+    },
+    {
+      "id": "mohamed-lakhdhar-lajili-q18342090",
+      "name": "Mohamed Lakhdhar Lajili",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577503"
+    },
+    {
+      "id": "monia-brahim-q18342090",
+      "name": "Monia Brahim",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577504"
+    },
+    {
+      "id": "mohamed-ali-bedoui-q18342090",
+      "name": "Mohamed Ali Bedoui",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577511"
+    },
+    {
+      "id": "zeineb-brahmi-q18342090",
+      "name": "Zeineb Brahmi",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577442"
+    },
+    {
+      "id": "ibrahim-ben-said-q18342090",
+      "name": "Ibrahim Ben Said",
+      "sitting": true,
+      "party_id": "congress-for-the-republic",
+      "caucus": "Congress for the Republic",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577452"
+    },
+    {
+      "id": "mabrouk-hrizi-q18342090",
+      "name": "Mabrouk Hrizi",
+      "sitting": true,
+      "party_id": "congress-for-the-republic",
+      "caucus": "Congress for the Republic",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577524"
+    },
+    {
+      "id": "sabri-dekhil-q18342090",
+      "name": "Sabri Dekhil",
+      "sitting": true,
+      "party_id": "congress-for-the-republic",
+      "caucus": "Congress for the Republic",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577513"
+    },
+    {
+      "id": "jamila-jouini-q18342090",
+      "name": "Jamila Jouini",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580455"
+    },
+    {
+      "id": "abdelaziz-kotti-q18342090",
+      "name": "Abdelaziz Kotti",
+      "sitting": true,
+      "party_id": "congress-for-the-republic",
+      "caucus": "Congress for the Republic",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580438"
+    },
+    {
+      "id": "radhia-toumi-q18342090",
+      "name": "Radhia Toumi",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580429"
+    },
+    {
+      "id": "ibtissem-jebabli-q18342090",
+      "name": "Ibtissem Jebabli",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "Tunis I",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577456"
+    },
+    {
+      "id": "leila-bougatef-q18342090",
+      "name": "Leila Bougatef",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "Tunis II",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577497"
+    },
+    {
+      "id": "sahbi-ben-fraj-q18342090",
+      "name": "Sahbi Ben Fraj",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "Tunis II",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577475"
+    },
+    {
+      "id": "mohamed-ben-youssef-el-hamdi-q18342090",
+      "name": "Mohamed Ben Youssef El Hamdi",
+      "sitting": true,
+      "party_id": "current-of-love",
+      "caucus": "Current of Love",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580351"
+    },
+    {
+      "id": "rim-thairi-q18342090",
+      "name": "Rim Thairi",
+      "sitting": true,
+      "party_id": "current-of-love",
+      "caucus": "Current of Love",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580420"
+    },
+    {
+      "id": "mounir-hamdi-q18342090",
+      "name": "Mounir Hamdi",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577470"
+    },
+    {
+      "id": "aymen-aloui-q18342090",
+      "name": "Aymen Aloui",
+      "sitting": true,
+      "party_id": "popular-front",
+      "caucus": "Popular Front",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577462"
+    },
+    {
+      "id": "nizar-amami-q18342090",
+      "name": "Nizar Amami",
+      "sitting": true,
+      "party_id": "popular-front",
+      "caucus": "Popular Front",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577426"
+    },
+    {
+      "id": "abdelmoumen-belanes-q18342090",
+      "name": "Abdelmoumen Belanes",
+      "sitting": true,
+      "party_id": "popular-front",
+      "caucus": "Popular Front",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580354"
+    },
+    {
+      "id": "fathi-chamkhi-q18342090",
+      "name": "Fathi Chamkhi",
+      "sitting": true,
+      "party_id": "popular-front",
+      "caucus": "Popular Front",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580353"
+    },
+    {
+      "id": "tarek-barrak-q18342090",
+      "name": "Tarek Barrak",
+      "sitting": true,
+      "party_id": "popular-front",
+      "caucus": "Popular Front",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580357"
+    },
+    {
+      "id": "lotfi-ali-q18342090",
+      "name": "Lotfi Ali",
+      "sitting": true,
+      "party_id": "national-destourian-initiative",
+      "caucus": "National Destourian Initiative",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577429"
+    },
+    {
+      "id": "naceur-channoufi-q18342090",
+      "name": "Naceur Channoufi",
+      "sitting": true,
+      "party_id": "national-destourian-initiative",
+      "caucus": "National Destourian Initiative",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577523"
+    },
+    {
+      "id": "ahmed-saidi-q18342090",
+      "name": "Ahmed Saidi",
+      "sitting": true,
+      "party_id": "national-destourian-initiative",
+      "caucus": "National Destourian Initiative",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580358"
+    },
+    {
+      "id": "ahmed-khaskhoussi-q18342090",
+      "name": "Ahmed Khaskhoussi",
+      "sitting": true,
+      "party_id": "movement-of-socialist-democrats",
+      "caucus": "Movement of Socialist Democrats",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577457"
+    },
+    {
+      "id": "abdelkader-ben-dhifallah-q18342090",
+      "name": "Abdelkader Ben Dhifallah",
+      "sitting": true,
+      "party_id": "free-patriotic-union",
+      "caucus": "Free Patriotic Union",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577468"
+    },
+    {
+      "id": "ali-belakhoua-q18342090",
+      "name": "Ali Belakhoua",
+      "sitting": true,
+      "party_id": "free-patriotic-union",
+      "caucus": "Free Patriotic Union",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577512"
+    },
+    {
+      "id": "noureddine-mrabti-q18342090",
+      "name": "Noureddine Mrabti",
+      "sitting": true,
+      "party_id": "free-patriotic-union",
+      "caucus": "Free Patriotic Union",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577460"
+    },
+    {
+      "id": "tarek-fetiti-q18342090",
+      "name": "Tarek Fetiti",
+      "sitting": true,
+      "party_id": "free-patriotic-union",
+      "caucus": "Free Patriotic Union",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577422"
+    },
+    {
+      "id": "taoufik-jemli-q18342090",
+      "name": "Taoufik Jemli",
+      "sitting": true,
+      "party_id": "free-patriotic-union",
+      "caucus": "Free Patriotic Union",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577449"
+    },
+    {
+      "id": "youssef-jouini-q18342090",
+      "name": "Youssef Jouini",
+      "sitting": true,
+      "party_id": "free-patriotic-union",
+      "caucus": "Free Patriotic Union",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577434"
+    },
+    {
+      "id": "tahar-fdhil-q18342090",
+      "name": "Tahar Fdhil",
+      "sitting": true,
+      "party_id": "free-patriotic-union",
+      "caucus": "Free Patriotic Union",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577483"
+    },
+    {
+      "id": "abderraouf-chebbi-q18342090",
+      "name": "Abderraouf Chebbi",
+      "sitting": true,
+      "party_id": "free-patriotic-union",
+      "caucus": "Free Patriotic Union",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580454"
+    },
+    {
+      "id": "kamel-harraghi-q18342090",
+      "name": "Kamel Harraghi",
+      "sitting": true,
+      "party_id": "free-patriotic-union",
+      "caucus": "Free Patriotic Union",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580315"
+    },
+    {
+      "id": "dorra-yaacoubi-q18342090",
+      "name": "Dorra Yaacoubi",
+      "sitting": true,
+      "party_id": "free-patriotic-union",
+      "caucus": "Free Patriotic Union",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580426"
+    },
+    {
+      "id": "mohamed-amine-kahloul-q18342090",
+      "name": "Mohamed Amine Kahloul",
+      "sitting": true,
+      "party_id": "free-patriotic-union",
+      "caucus": "Free Patriotic Union",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580310"
+    },
+    {
+      "id": "bechir-ben-amor-q18342090",
+      "name": "Bechir Ben Amor",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577484"
+    },
+    {
+      "id": "belgacem-dkhili-q18342090",
+      "name": "Belgacem Dkhili",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577525"
+    },
+    {
+      "id": "hassouna-nasfi-q18342090",
+      "name": "Hassouna Nasfi",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577430"
+    },
+    {
+      "id": "ikram-moulahi-q18342090",
+      "name": "Ikram Moulahi",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577427"
+    },
+    {
+      "id": "houda-tekaya-q18342090",
+      "name": "Houda Tekaya",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577474"
+    },
+    {
+      "id": "imed-ouled-jebril-q18342090",
+      "name": "Imed Ouled Jebril",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577478"
+    },
+    {
+      "id": "houssem-bounenni-q18342090",
+      "name": "Houssem Bounenni",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577487"
+    },
+    {
+      "id": "ismail-ben-mahmoud-q18342090",
+      "name": "Ismail Ben Mahmoud",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577490"
+    },
+    {
+      "id": "mohamed-kamel-hamzaoui-q18342090",
+      "name": "Mohamed Kamel Hamzaoui",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577450"
+    },
+    {
+      "id": "mohamed-ennaceur-jbira-q18342090",
+      "name": "Mohamed Ennaceur Jbira",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577458"
+    },
+    {
+      "id": "mohamed-hedi-gueddich-q18342090",
+      "name": "Mohamed Hedi Gueddich",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577465"
+    },
+    {
+      "id": "najia-ben-abdelhafidh-q18342090",
+      "name": "Najia Ben Abdelhafidh",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577464"
+    },
+    {
+      "id": "mohamed-rachdi-bouguerra-q18342090",
+      "name": "Mohamed Rachdi Bouguerra",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577473"
+    },
+    {
+      "id": "sameh-bouhaouel-q18342090",
+      "name": "Sameh Bouhaouel",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577440"
+    },
+    {
+      "id": "mohamed-ben-souf-q18342090",
+      "name": "Mohamed Ben Souf",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577494"
+    },
+    {
+      "id": "mohamed-troudi-q18342090",
+      "name": "Mohamed Troudi",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577492"
+    },
+    {
+      "id": "mohamed-fadhel-ben-omrane-q18342090",
+      "name": "Mohamed Fadhel Ben Omrane",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577508"
+    },
+    {
+      "id": "taieb-medni-q18342090",
+      "name": "Taieb Medni",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577455"
+    },
+    {
+      "id": "sana-salhi-q18342090",
+      "name": "Sana Salhi",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577472"
+    },
+    {
+      "id": "sameh-dammak-q18342090",
+      "name": "Sameh Dammak",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577479"
+    },
+    {
+      "id": "mohamed-nejib-torjmane-q18342090",
+      "name": "Mohamed Nejib Torjmane",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577517"
+    },
+    {
+      "id": "sofien-toubel-q18342090",
+      "name": "Sofien Toubel",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577519"
+    },
+    {
+      "id": "wafa-makhlouf-q18342090",
+      "name": "Wafa Makhlouf",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577505"
+    },
+    {
+      "id": "walid-jalled-q18342090",
+      "name": "Walid Jalled",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577514"
+    },
+    {
+      "id": "brahim-nacef-q18342090",
+      "name": "Brahim Nacef",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580316"
+    },
+    {
+      "id": "asma-abou-hana-q18342090",
+      "name": "Asma Abou Hana",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580449"
+    },
+    {
+      "id": "fatma-mseddi-q18342090",
+      "name": "Fatma Mseddi",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580422"
+    },
+    {
+      "id": "hatem-ferjani-q18342090",
+      "name": "Hatem Ferjani",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580435"
+    },
+    {
+      "id": "salem-hamdi-q18342090",
+      "name": "Salem Hamdi",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580350"
+    },
+    {
+      "id": "issam-matoussi-q18342090",
+      "name": "Issam Matoussi",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580442"
+    },
+    {
+      "id": "hssan-amri-q18342090",
+      "name": "Hssan Amri",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580459"
+    },
+    {
+      "id": "lamia-mlayah-q18342090",
+      "name": "Lamia Mlayah",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580447"
+    },
+    {
+      "id": "meriem-boujbel-q18342090",
+      "name": "Meriem Boujbel",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580444"
+    },
+    {
+      "id": "olfa-soukri-q18342090",
+      "name": "Olfa Soukri",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580452"
+    },
+    {
+      "id": "karim-helali-q18342090",
+      "name": "Karim Helali",
+      "sitting": true,
+      "party_id": "afek-tounes",
+      "caucus": "Afek Tounes",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577485"
+    },
+    {
+      "id": "ridha-dellai-q18342090",
+      "name": "Ridha Dellai",
+      "sitting": true,
+      "party_id": "movement-of-the-people",
+      "caucus": "Movement of the People",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577459"
+    },
+    {
+      "id": "zouhair-maghzaoui-q18342090",
+      "name": "Zouhair Maghzaoui",
+      "sitting": true,
+      "party_id": "movement-of-the-people",
+      "caucus": "Movement of the People",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577421"
+    },
+    {
+      "id": "ahmed-seddik-q18342090",
+      "name": "Ahmed Seddik",
+      "sitting": true,
+      "party_id": "popular-front",
+      "caucus": "Popular Front",
+      "constituency_label": "Tunis I",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577493"
+    },
+    {
+      "id": "abdelfattah-mourou-q18342090",
+      "name": "Abdelfattah Mourou",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "Tunis II",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2821016"
+    },
+    {
+      "id": "noureddine-bhiri-q18342090",
+      "name": "Noureddine Bhiri",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q668526"
+    },
+    {
+      "id": "lazhar-akremi-q18342090",
+      "name": "Lazhar Akremi",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3220051"
+    },
+    {
+      "id": "mohamed-ennaceur-q18342090",
+      "name": "Mohamed Ennaceur",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3318530"
+    },
+    {
+      "id": "moncef-sellami-q18342090",
+      "name": "Moncef Sellami",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3320447"
+    },
+    {
+      "id": "ali-ben-salem-q18342090",
+      "name": "Ali Ben Salem",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2836146"
+    },
+    {
+      "id": "amer-larayedh-q18342090",
+      "name": "Amer Larayedh",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2842788"
+    },
+    {
+      "id": "latifa-habachi-q18342090",
+      "name": "Latifa Habachi",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3218481"
+    },
+    {
+      "id": "khemais-ksila-q18342090",
+      "name": "Khemais Ksila",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3196141"
+    },
+    {
+      "id": "mohamed-frikha-q18342090",
+      "name": "Mohamed Frikha",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -17,10 +1388,868 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q129169085"
+      "roster_url": "http://www.wikidata.org/entity/Q3318553"
     },
     {
-      "id": "saoussen-mabrouk",
+      "id": "abdellatif-mekki-q18342090",
+      "name": "Abdellatif Mekki",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2821154"
+    },
+    {
+      "id": "hafedh-zouari-q18342090",
+      "name": "Hafedh Zouari",
+      "sitting": true,
+      "party_id": "tahya-tounes",
+      "caucus": "Tahya Tounes",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3125673"
+    },
+    {
+      "id": "ali-bennour-q18342090",
+      "name": "Ali Bennour",
+      "sitting": true,
+      "party_id": "tahya-tounes",
+      "caucus": "Tahya Tounes",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2836158"
+    },
+    {
+      "id": "mohamed-ben-salem-q18342090",
+      "name": "Mohamed Ben Salem",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3318419"
+    },
+    {
+      "id": "chahida-ben-fraj-bouraoui-q18342090",
+      "name": "Chahida Ben Fraj Bouraoui",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2947600"
+    },
+    {
+      "id": "abderrazak-cherait-q18342090",
+      "name": "Abderrazak Cherait",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2821275"
+    },
+    {
+      "id": "meherzia-labidi-maiza-q18342090",
+      "name": "Meherzia Labidi Maïza",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3304538"
+    },
+    {
+      "id": "ali-laarayedh-q18342090",
+      "name": "Ali Laarayedh",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "Tunis I",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q281184"
+    },
+    {
+      "id": "imed-daimi-q18342090",
+      "name": "Imed Daïmi",
+      "sitting": true,
+      "party_id": "hizb-al-harak",
+      "caucus": "Hizb Al-Harak",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12886365"
+    },
+    {
+      "id": "yassine-brahim-q18342090",
+      "name": "Yassine Brahim",
+      "sitting": true,
+      "party_id": "afek-tounes",
+      "caucus": "Afek Tounes",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3571955"
+    },
+    {
+      "id": "slim-besbes-q18342090",
+      "name": "Slim Besbes",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3486675"
+    },
+    {
+      "id": "mehdi-ben-gharbia-q18342090",
+      "name": "Mehdi Ben Gharbia",
+      "sitting": true,
+      "party_id": "tahya-tounes",
+      "caucus": "Tahya Tounes",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q10514449"
+    },
+    {
+      "id": "walid-bennani-q18342090",
+      "name": "Walid Bennani",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7961932"
+    },
+    {
+      "id": "nadhir-ben-ammou-q18342090",
+      "name": "Nadhir Ben Ammou",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "Tunis I",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12352837"
+    },
+    {
+      "id": "touhami-abdouli-q18342090",
+      "name": "Touhami Abdouli",
+      "sitting": true,
+      "party_id": "democratic-forum-for-labour-and-liberties",
+      "caucus": "Democratic Forum for Labour and Liberties",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q14182276"
+    },
+    {
+      "id": "sahbi-atigue-q18342090",
+      "name": "Sahbi Atigue",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3461533"
+    },
+    {
+      "id": "yassine-ayari-q18342090",
+      "name": "Yassine Ayari",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12251558"
+    },
+    {
+      "id": "iyed-dahmani-q18342090",
+      "name": "Iyed Dahmani",
+      "sitting": true,
+      "party_id": "republican-party",
+      "caucus": "Republican Party",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q10591389"
+    },
+    {
+      "id": "samir-dilou-q18342090",
+      "name": "Samir Dilou",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3470837"
+    },
+    {
+      "id": "yamina-zoghlami-q18342090",
+      "name": "Yamina Zoghlami",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "Tunis I",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3571481"
+    },
+    {
+      "id": "salem-labiadh-q18342090",
+      "name": "Salem Labiadh",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q11775942"
+    },
+    {
+      "id": "ridha-charfeddine-q18342090",
+      "name": "Ridha Charfeddine",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20961773"
+    },
+    {
+      "id": "bochra-belhaj-hmida-q18342090",
+      "name": "Bochra Belhaj Hmida",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "Tunis II",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19631455"
+    },
+    {
+      "id": "selma-elloumi-rekik-q18342090",
+      "name": "Selma Elloumi Rekik",
+      "sitting": true,
+      "party_id": "al-amal",
+      "caucus": "Al Amal",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19345818"
+    },
+    {
+      "id": "khaoula-ben-aicha-q18342090",
+      "name": "Khaoula Ben Aicha",
+      "sitting": true,
+      "party_id": "free-patriotic-union",
+      "caucus": "Free Patriotic Union",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19346113"
+    },
+    {
+      "id": "mbarka-aouania-q18342090",
+      "name": "Mbarka Aouania",
+      "sitting": true,
+      "party_id": "popular-front",
+      "caucus": "Popular Front",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19285470"
+    },
+    {
+      "id": "ibtihej-ben-helal-q18342090",
+      "name": "Ibtihej Ben Helal",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19346167"
+    },
+    {
+      "id": "hela-omrane-q18342090",
+      "name": "Hela Omrane",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19346186"
+    },
+    {
+      "id": "ons-hattab-q18342090",
+      "name": "Ons Hattab",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19346156"
+    },
+    {
+      "id": "faouzia-ben-fodha-q18342090",
+      "name": "Faouzia Ben Fodha",
+      "sitting": true,
+      "party_id": "free-patriotic-union",
+      "caucus": "Free Patriotic Union",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19951842"
+    },
+    {
+      "id": "souhail-alouini-q18342090",
+      "name": "Souhail Alouini",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19543800"
+    },
+    {
+      "id": "sabrine-goubantini-q18342090",
+      "name": "Sabrine Goubantini",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19544687"
+    },
+    {
+      "id": "noomane-fehri-q18342090",
+      "name": "Noomane Fehri",
+      "sitting": true,
+      "party_id": "afek-tounes",
+      "caucus": "Afek Tounes",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19955807"
+    },
+    {
+      "id": "jihen-aouichi-q18342090",
+      "name": "Jihen Aouichi",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20851199"
+    },
+    {
+      "id": "samia-abbou-q18342090",
+      "name": "Samia Abbou",
+      "sitting": true,
+      "party_id": "congress-for-the-republic",
+      "caucus": "Congress for the Republic",
+      "constituency_label": "Tunis I",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16128314"
+    },
+    {
+      "id": "ghazi-chaouachi-q18342090",
+      "name": "Ghazi Chaouachi",
+      "sitting": true,
+      "party_id": "democratic-current",
+      "caucus": "Democratic Current",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q21511555"
+    },
+    {
+      "id": "houcine-jaziri-q18342090",
+      "name": "Houcine Jaziri",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16642407"
+    },
+    {
+      "id": "nawel-tayech-q18342090",
+      "name": "Nawel Tayech",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q21091626"
+    },
+    {
+      "id": "boutheina-ben-yaghlane-q18342090",
+      "name": "Boutheina Ben Yaghlane",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q21084499"
+    },
+    {
+      "id": "farida-labidi-q18342090",
+      "name": "Farida Labidi",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16027791"
+    },
+    {
+      "id": "zied-lakhdhar-q18342090",
+      "name": "Zied Lakhdhar",
+      "sitting": true,
+      "party_id": "popular-front",
+      "caucus": "Popular Front",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17007718"
+    },
+    {
+      "id": "mongi-rahoui-q18342090",
+      "name": "Mongi Rahoui",
+      "sitting": true,
+      "party_id": "democratic-patriots-unified-party",
+      "caucus": "Democratic Patriots' Unified Party",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16185697"
+    },
+    {
+      "id": "naoufel-jammali-q18342090",
+      "name": "Naoufel Jammali",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16666126"
+    },
+    {
+      "id": "hamdi-guezguez-q18342090",
+      "name": "Hamdi Guezguez",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q22934436"
+    },
+    {
+      "id": "olfa-jouini-q18342090",
+      "name": "Olfa Jouini",
+      "sitting": true,
+      "party_id": "free-patriotic-union",
+      "caucus": "Free Patriotic Union",
+      "constituency_label": "Tunis I",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577377"
+    },
+    {
+      "id": "jamila-ksiksi-q18342090",
+      "name": "Jamila Ksiksi",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28465976"
+    },
+    {
+      "id": "houda-slim-q18342090",
+      "name": "Houda Slim",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "Tunis II",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577382"
+    },
+    {
+      "id": "khaled-chouket-q18342090",
+      "name": "Khaled Chouket",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q27758476"
+    },
+    {
+      "id": "aroua-ben-abbas-q18342090",
+      "name": "Aroua Ben Abbas",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "Tunis II",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28055867"
+    },
+    {
+      "id": "ammar-amroussia-q18342090",
+      "name": "Ammar Amroussia",
+      "sitting": true,
+      "party_id": "workers-party-tunisia",
+      "caucus": "Workers' Party (Tunisia)",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577378"
+    },
+    {
+      "id": "fathi-ayadi-q18342090",
+      "name": "Fathi Ayadi",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q22930198"
+    },
+    {
+      "id": "rim-mahjoub-q18342090",
+      "name": "Rim Mahjoub",
+      "sitting": true,
+      "party_id": "republican-party",
+      "caucus": "Republican Party",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q23073234"
+    },
+    {
+      "id": "oussama-essghaier-q18342090",
+      "name": "Oussama Essghaier",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q23109390"
+    },
+    {
+      "id": "ridha-zghondi-q18342090",
+      "name": "Ridha Zghondi",
+      "sitting": true,
+      "party_id": "free-patriotic-union",
+      "caucus": "Free Patriotic Union",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577375"
+    },
+    {
+      "id": "karima-taggaz-q18342090",
+      "name": "Karima Taggaz",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28045699"
+    },
+    {
+      "id": "hayet-omri-q18342090",
+      "name": "Hayet Omri",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q25451738"
+    },
+    {
+      "id": "lajmi-lourimi-q18342090",
+      "name": "Lajmi Lourimi",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q25452581"
+    },
+    {
+      "id": "sayida-ounissi-q18342090",
+      "name": "Sayida Ounissi",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q25453450"
+    },
+    {
+      "id": "marouan-felfel-q18342090",
+      "name": "Marouan Felfel",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577371"
+    },
+    {
+      "id": "taher-battikh-q18342090",
+      "name": "Taher Battikh",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577374"
+    },
+    {
+      "id": "taoufik-ouali-q18342090",
+      "name": "Taoufik Ouali",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577373"
+    },
+    {
+      "id": "badreddine-abdelkefi-q18342090",
+      "name": "Badreddine Abdelkefi",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28055870"
+    },
+    {
+      "id": "habib-khedher-q18342090",
+      "name": "Habib Khedher",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28716311"
+    },
+    {
+      "id": "noomane-el-euch-q18342090",
+      "name": "Noomane El Euch",
+      "sitting": true,
+      "party_id": "democratic-current",
+      "caucus": "Democratic Current",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q21606879"
+    },
+    {
+      "id": "sana-mersni-q18342090",
+      "name": "Sana Mersni",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28530089"
+    },
+    {
+      "id": "mohamed-abdellaoui-q18342090",
+      "name": "Mohamed Abdellaoui",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q30012117"
+    },
+    {
+      "id": "saoussen-mabrouk-q18342090",
       "name": "Saoussen Mabrouk",
       "sitting": true,
       "party_id": "unknown",
@@ -33,7 +2262,280 @@
       "roster_url": "http://www.wikidata.org/entity/Q129169086"
     },
     {
-      "id": "yassine-mami",
+      "id": "nabil-hajji-q18342090",
+      "name": "Nabil Hajji",
+      "sitting": true,
+      "party_id": "democratic-current",
+      "caucus": "Democratic Current",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97177810"
+    },
+    {
+      "id": "lakhdhar-belhouchat-q18342090",
+      "name": "Lakhdhar Belhouchat",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580500"
+    },
+    {
+      "id": "mohamed-zrig-q18342090",
+      "name": "Mohamed Zrig",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580504"
+    },
+    {
+      "id": "sami-fetnassi-q18342090",
+      "name": "Sami Fetnassi",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580503"
+    },
+    {
+      "id": "rached-khiari-q18342090",
+      "name": "Rached Khiari",
+      "sitting": true,
+      "party_id": "dignity-coalition",
+      "caucus": "Dignity Coalition",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q100563142"
+    },
+    {
+      "id": "mustapha-ben-ahmed-q18342090",
+      "name": "Mustapha Ben Ahmed",
+      "sitting": true,
+      "party_id": "tahya-tounes",
+      "caucus": "Tahya Tounes",
+      "constituency_label": "Tunis II",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29581143"
+    },
+    {
+      "id": "hajer-triki-q18342090",
+      "name": "Hajer Triki",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60172365"
+    },
+    {
+      "id": "abdennaceur-chouikh-q18342090",
+      "name": "Abdennaceur Chouikh",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "Tunis I",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580493"
+    },
+    {
+      "id": "zied-ghanney-q18342090",
+      "name": "Zied Ghanney",
+      "sitting": true,
+      "party_id": "democratic-current",
+      "caucus": "Democratic Current",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q106149291"
+    },
+    {
+      "id": "nesrine-laamari-q18342090",
+      "name": "Nesrine Laamari",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60172009"
+    },
+    {
+      "id": "jalal-zayati-q18342090",
+      "name": "Jalal Zayati",
+      "sitting": true,
+      "party_id": "al-badil-ettounsi",
+      "caucus": "Al Badil Ettounsi",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q106164113"
+    },
+    {
+      "id": "abdelwahab-ouerfelli-q18342090",
+      "name": "Abdelwahab Ouerfelli",
+      "sitting": true,
+      "party_id": "republican-party",
+      "caucus": "Republican Party",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60172198"
+    },
+    {
+      "id": "ayachi-zammel-q18342090",
+      "name": "Ayachi Zammel",
+      "sitting": true,
+      "party_id": "tahya-tounes",
+      "caucus": "Tahya Tounes",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q128857532"
+    },
+    {
+      "id": "mahmoud-kahri-q18342090",
+      "name": "Mahmoud Kahri",
+      "sitting": true,
+      "party_id": "free-patriotic-union",
+      "caucus": "Free Patriotic Union",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580496"
+    },
+    {
+      "id": "zohra-driss-q18342090",
+      "name": "Zohra Driss",
+      "sitting": true,
+      "party_id": "tahya-tounes",
+      "caucus": "Tahya Tounes",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580492"
+    },
+    {
+      "id": "lotfi-nabli-q18342090",
+      "name": "Lotfi Nabli",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580499"
+    },
+    {
+      "id": "amira-zoukari-q18342090",
+      "name": "Amira Zoukari",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60171938"
+    },
+    {
+      "id": "hayet-kebaier-q18342090",
+      "name": "Hayet Kebaier",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60171944"
+    },
+    {
+      "id": "maroua-bouazzi-q18342090",
+      "name": "Maroua Bouazzi",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60171952"
+    },
+    {
+      "id": "jihen-abbadi-q18342090",
+      "name": "Jihen Abbadi",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60172220"
+    },
+    {
+      "id": "yosri-daly-q18342090",
+      "name": "Yosri Daly",
+      "sitting": true,
+      "party_id": "dignity-coalition",
+      "caucus": "Dignity Coalition",
+      "constituency_label": "Tunis II",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86140333"
+    },
+    {
+      "id": "yassine-mami-q18342090",
       "name": "Yassine Mami",
       "sitting": true,
       "party_id": "unknown",
@@ -44,6 +2546,708 @@
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q119862501"
+    },
+    {
+      "id": "riadh-jaidane-q18342090",
+      "name": "Riadh Jaidane",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577399"
+    },
+    {
+      "id": "leila-oueslati-q18342090",
+      "name": "Leila Oueslati",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577395"
+    },
+    {
+      "id": "moez-belhaj-rhouma-q18342090",
+      "name": "Moez Belhaj Rhouma",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577404"
+    },
+    {
+      "id": "mohamed-mohsen-soudani-q18342090",
+      "name": "Mohamed Mohsen Soudani",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577413"
+    },
+    {
+      "id": "wafa-attia-q18342090",
+      "name": "Wafa Attia",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577380"
+    },
+    {
+      "id": "leila-ouled-ali-q18342090",
+      "name": "Leila Ouled Ali",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "Tunis I",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577389"
+    },
+    {
+      "id": "heger-ben-cheikh-ahmed-q18342090",
+      "name": "Heger Ben Cheikh Ahmed",
+      "sitting": true,
+      "party_id": "afek-tounes",
+      "caucus": "Afek Tounes",
+      "constituency_label": "Tunis II",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577405"
+    },
+    {
+      "id": "mohamed-saidane-q18342090",
+      "name": "Mohamed Saidane",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577383"
+    },
+    {
+      "id": "faten-oueslati-q18342090",
+      "name": "Faten Oueslati",
+      "sitting": true,
+      "party_id": "republican-party",
+      "caucus": "Republican Party",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577397"
+    },
+    {
+      "id": "haykel-belgacem-q18342090",
+      "name": "Haykel Belgacem",
+      "sitting": true,
+      "party_id": "popular-front",
+      "caucus": "Popular Front",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577414"
+    },
+    {
+      "id": "mourad-hamaidi-q18342090",
+      "name": "Mourad Hamaidi",
+      "sitting": true,
+      "party_id": "popular-front",
+      "caucus": "Popular Front",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577406"
+    },
+    {
+      "id": "noureddine-ben-achour-q18342090",
+      "name": "Noureddine Ben Achour",
+      "sitting": true,
+      "party_id": "free-patriotic-union",
+      "caucus": "Free Patriotic Union",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577411"
+    },
+    {
+      "id": "lamia-dridi-q18342090",
+      "name": "Lamia Dridi",
+      "sitting": true,
+      "party_id": "democratic-alliance-party",
+      "caucus": "Democratic Alliance Party",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577398"
+    },
+    {
+      "id": "chakib-bani-q18342090",
+      "name": "Chakib Bani",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577409"
+    },
+    {
+      "id": "el-khansa-ben-harrath-q18342090",
+      "name": "El Khansa Ben Harrath",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577391"
+    },
+    {
+      "id": "hssine-yahyaoui-q18342090",
+      "name": "Hssine Yahyaoui",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577388"
+    },
+    {
+      "id": "heger-laaroussi-q18342090",
+      "name": "Heger Laaroussi",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577407"
+    },
+    {
+      "id": "lamia-gharbi-q18342090",
+      "name": "Lamia Gharbi",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577390"
+    },
+    {
+      "id": "leila-hamrouni-q18342090",
+      "name": "Leila Hamrouni",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577401"
+    },
+    {
+      "id": "nadia-zangar-q18342090",
+      "name": "Nadia Zangar",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577384"
+    },
+    {
+      "id": "noura-amri-q18342090",
+      "name": "Noura Amri",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577386"
+    },
+    {
+      "id": "mongi-harbaoui-q18342090",
+      "name": "Mongi Harbaoui",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577392"
+    },
+    {
+      "id": "najla-saadaoui-q18342090",
+      "name": "Najla Saadaoui",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577403"
+    },
+    {
+      "id": "rabha-ben-hassine-q18342090",
+      "name": "Rabha Ben Hassine",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577385"
+    },
+    {
+      "id": "lilia-younes-ksibi-q18342090",
+      "name": "Lilia Younes Ksibi",
+      "sitting": true,
+      "party_id": "afek-tounes",
+      "caucus": "Afek Tounes",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29577410"
+    },
+    {
+      "id": "anouar-marzouki-q18342090",
+      "name": "Anouar Marzouki",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q129169085"
+    },
+    {
+      "id": "adnane-hajji-q18342090",
+      "name": "Adnane Hajji",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580488"
+    },
+    {
+      "id": "ahmed-mechergui-q18342090",
+      "name": "Ahmed Mechergui",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580472"
+    },
+    {
+      "id": "bechir-ellazzem-q18342090",
+      "name": "Bechir Ellazzem",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580485"
+    },
+    {
+      "id": "mohamed-kamel-besbes-q18342090",
+      "name": "Mohamed Kamel Besbes",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580471"
+    },
+    {
+      "id": "mohamed-mahjoub-q18342090",
+      "name": "Mohamed Mahjoub",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580489"
+    },
+    {
+      "id": "ramzi-ben-fraj-q18342090",
+      "name": "Ramzi Ben Fraj",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580461"
+    },
+    {
+      "id": "safia-khalfi-q18342090",
+      "name": "Safia Khalfi",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580482"
+    },
+    {
+      "id": "zouhair-rejbi-q18342090",
+      "name": "Zouhair Rejbi",
+      "sitting": true,
+      "party_id": "ennahda-movement",
+      "caucus": "Ennahda Movement",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580480"
+    },
+    {
+      "id": "chafik-ayadi-q18342090",
+      "name": "Chafik Ayadi",
+      "sitting": true,
+      "party_id": "popular-front",
+      "caucus": "Popular Front",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580495"
+    },
+    {
+      "id": "souad-bayouli-q18342090",
+      "name": "Souad Bayouli",
+      "sitting": true,
+      "party_id": "popular-front",
+      "caucus": "Popular Front",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580463"
+    },
+    {
+      "id": "abir-abdelli-q18342090",
+      "name": "Abir Abdelli",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580465"
+    },
+    {
+      "id": "abderraouf-el-may-q18342090",
+      "name": "Abderraouf El May",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580490"
+    },
+    {
+      "id": "chaker-ayadi-q18342090",
+      "name": "Chaker Ayadi",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580478"
+    },
+    {
+      "id": "faycel-khelifa-q18342090",
+      "name": "Faycel Khelifa",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580470"
+    },
+    {
+      "id": "kamel-dhaouadi-q18342090",
+      "name": "Kamel Dhaouadi",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580462"
+    },
+    {
+      "id": "leila-zahaf-q18342090",
+      "name": "Leila Zahaf",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580466"
+    },
+    {
+      "id": "mohamed-ramzi-khmiss-q18342090",
+      "name": "Mohamed Ramzi Khmiss",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580468"
+    },
+    {
+      "id": "mondher-belhaj-ali-q18342090",
+      "name": "Mondher Belhaj Ali",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580475"
+    },
+    {
+      "id": "mohamed-jalel-ghedira-q18342090",
+      "name": "Mohamed Jalel Ghedira",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580479"
+    },
+    {
+      "id": "salah-bargaoui-q18342090",
+      "name": "Salah Bargaoui",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580473"
+    },
+    {
+      "id": "souad-zaouali-q18342090",
+      "name": "Souad Zaouali",
+      "sitting": true,
+      "party_id": "call-for-tunisia",
+      "caucus": "Call for Tunisia",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580486"
+    },
+    {
+      "id": "mohamed-anouar-adhar-q18342090",
+      "name": "Mohamed Anouar Adhar",
+      "sitting": true,
+      "party_id": "afek-tounes",
+      "caucus": "Afek Tounes",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580483"
+    },
+    {
+      "id": "mohamed-ghannem-q18342090",
+      "name": "Mohamed Ghannem",
+      "sitting": true,
+      "party_id": "afek-tounes",
+      "caucus": "Afek Tounes",
+      "constituency_label": "",
+      "chamber": "Assembly of the Representatives of the People",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580481"
+    },
+    {
+      "id": "joseph-bismuth-q2948407",
+      "name": "Joseph Bismuth",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Chamber of Advisors",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3438707"
+    },
+    {
+      "id": "mekki-aloui-q2948407",
+      "name": "Mekki Aloui",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Chamber of Advisors",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6810585"
+    },
+    {
+      "id": "mohamed-harmel-q2948407",
+      "name": "Mohamed Harmel",
+      "sitting": true,
+      "party_id": "ettajdid-movement",
+      "caucus": "Ettajdid Movement",
+      "constituency_label": "",
+      "chamber": "Chamber of Advisors",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3318587"
+    },
+    {
+      "id": "souad-lamine-jomni-q2948407",
+      "name": "Souad Lamine-Jomni",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Chamber of Advisors",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q111701635"
+    },
+    {
+      "id": "abdallah-kallel-q2948407",
+      "name": "Abdallah Kallel",
+      "sitting": true,
+      "party_id": "constitutional-democratic-rally",
+      "caucus": "Constitutional Democratic Rally",
+      "constituency_label": "",
+      "chamber": "Chamber of Advisors",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2820931"
     }
   ]
 }

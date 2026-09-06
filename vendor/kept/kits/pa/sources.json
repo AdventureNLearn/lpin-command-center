@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1368588"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1368588",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21295996",
+      "label": "Member of the National Assembly of Panama (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21295996",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1368588",
+      "label": "National Assembly of Panama",
+      "url": "http://www.asamblea.gob.pa",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1368588",
+      "label": "National Assembly of Panama (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1368588",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

@@ -3,8 +3,46 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q5176472"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q5176472",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q2117607",
+      "label": "state council of Oman",
+      "url": "https://www.statecouncil.om/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q2117607",
+      "label": "state council of Oman (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q2117607",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q5176472",
+      "label": "Council of Oman (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q5176472",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q818704",
+      "label": "Consultative Assembly of Oman",
+      "url": "https://www.shura.om/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q818704",
+      "label": "Consultative Assembly of Oman (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q818704",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

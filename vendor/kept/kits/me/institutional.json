@@ -1,6 +1,44 @@
 {
   "iso2": "me",
   "kit": "institutional",
-  "items": [],
-  "incomplete": true
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q236",
+  "bodies": [
+    {
+      "qid": "Q21328576",
+      "label": "Member of the Parliament of Montenegro",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1579497",
+      "label": "Parliament of Montenegro",
+      "seats": 81,
+      "web": "https://www.skupstina.me/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Member of the Parliament of Montenegro"
+  ],
+  "seats": 81,
+  "items": [
+    {
+      "id": "Q21328576",
+      "name": "Member of the Parliament of Montenegro",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q21328576"
+    },
+    {
+      "id": "Q1579497",
+      "name": "Parliament of Montenegro",
+      "kind": "parliament",
+      "seats": 81,
+      "url": "https://www.skupstina.me/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q764201"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q764201",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21294920",
+      "label": "Member of the Parliament of Vanuatu (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21294920",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q764201",
+      "label": "Parliament of Vanuatu",
+      "url": "https://parliament.gov.vu/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q764201",
+      "label": "Parliament of Vanuatu (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q764201",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

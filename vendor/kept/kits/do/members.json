@@ -3,567 +3,611 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q595411",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 43,
+  "incomplete": true,
+  "claimed_seats": 215,
+  "chambers": [
+    "Congress of the Dominican Republic",
+    "Chamber of Deputies",
+    "Senate of the Dominican Republic"
+  ],
   "items": [
     {
-      "id": "pedro-tineo",
-      "name": "Pedro Tineo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q90731074"
-    },
-    {
-      "id": "sergio-vargas",
-      "name": "Sergio Vargas",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2273190"
-    },
-    {
-      "id": "raul-mondesi",
-      "name": "Raul Mondesi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1152434"
-    },
-    {
-      "id": "felix-bautista",
-      "name": "Félix Bautista",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5511573"
-    },
-    {
-      "id": "adolfo-alejandro-nouel",
-      "name": "Adolfo Alejandro Nouel",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q163612"
-    },
-    {
-      "id": "hugo-tolentino-dipp",
-      "name": "Hugo Tolentino Dipp",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16576566"
-    },
-    {
-      "id": "emilio-prud-home",
-      "name": "Emilio Prud’Home",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3818268"
-    },
-    {
-      "id": "jose-ignacio-paliza",
-      "name": "José Ignacio Paliza",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q17518389"
-    },
-    {
-      "id": "antonio-cruz-torres",
-      "name": "Antonio Cruz Torres",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q17579932"
-    },
-    {
-      "id": "yvonne-chahin-sasso",
-      "name": "Yvonne Chahín Sasso",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q17579922"
-    },
-    {
-      "id": "prim-pujals",
-      "name": "Prim Pujals",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q17580404"
-    },
-    {
-      "id": "jose-rafael-abinader-wassaf",
-      "name": "José Rafael Abinader Wassaf",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q17591796"
-    },
-    {
-      "id": "pedro-alegria",
-      "name": "Pedro Alegría",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q17612064"
-    },
-    {
-      "id": "tommy-galan",
-      "name": "Tommy Galán",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q17612307"
-    },
-    {
-      "id": "charles-mariotti",
-      "name": "Charles Mariotti",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q17612596"
-    },
-    {
-      "id": "juan-orlando-mercedes",
-      "name": "Juan Orlando Mercedes",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q17612629"
-    },
-    {
-      "id": "amilcar-romero",
-      "name": "Amílcar Romero",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q17721945"
-    },
-    {
-      "id": "aristides-victoria-yeb",
-      "name": "Arístides Victoria Yeb",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q17722188"
-    },
-    {
-      "id": "felix-vasquez",
-      "name": "Félix Vásquez",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q17722173"
-    },
-    {
-      "id": "heinz-vieluf",
-      "name": "Heinz Vieluf",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q17722197"
-    },
-    {
-      "id": "alejandro-williams",
-      "name": "Alejandro Williams",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q17722301"
-    },
-    {
-      "id": "adriano-sanchez-roa",
-      "name": "Adriano Sánchez Roa",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q18210056"
-    },
-    {
-      "id": "jose-francisco-pena-guaba",
-      "name": "José Francisco Peña Guaba",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q18945743"
-    },
-    {
-      "id": "luis-rene-canaan",
-      "name": "Luis René Canaán",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q20630669"
-    },
-    {
-      "id": "jose-hazim-frappier",
-      "name": "José Hazim Frappier",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q20631195"
-    },
-    {
-      "id": "francisco-dominguez-brito",
-      "name": "Francisco Domínguez Brito",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5483324"
-    },
-    {
-      "id": "guadalupe-valdez",
-      "name": "Guadalupe Valdez",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q21010286"
-    },
-    {
-      "id": "yadira-henriquez",
-      "name": "Yadira Henríquez",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q21067081"
-    },
-    {
-      "id": "eduardo-estrella",
-      "name": "Eduardo Estrella",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5819205"
-    },
-    {
-      "id": "hatuey-de-camps",
-      "name": "Hatuey de Camps",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5892805"
-    },
-    {
-      "id": "victor-bisono",
-      "name": "Victor Bisono",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5923172"
-    },
-    {
-      "id": "julio-cesar-valentin",
-      "name": "Julio César Valentín",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5955209"
-    },
-    {
-      "id": "minou-tavarez-mirabal",
-      "name": "Minou Tavárez Mirabal",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6017761"
-    },
-    {
-      "id": "reinaldo-pared-perez",
-      "name": "Reinaldo Pared Pérez",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6104663"
-    },
-    {
-      "id": "enriquito-lopez",
-      "name": "Enriquito López",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q23688616"
-    },
-    {
-      "id": "faride-raful",
-      "name": "Faride Raful",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q24185888"
-    },
-    {
-      "id": "ilana-neumann",
-      "name": "Ilana Neumann",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q26721184"
-    },
-    {
-      "id": "licelott-marte-de-barrios",
-      "name": "Licelott Marte de Barrios",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q26923921"
-    },
-    {
-      "id": "ines-bryan",
-      "name": "Inés Bryan",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q26924731"
-    },
-    {
-      "id": "rafael-brache",
+      "id": "rafael-brache-q320280",
       "name": "Rafael Brache",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "dominican-party",
+      "caucus": "Dominican Party",
       "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
+      "chamber": "Chamber of Deputies",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q28844127"
     },
     {
-      "id": "marino-collante",
+      "id": "yadira-henriquez-q320280",
+      "name": "Yadira Henríquez",
+      "sitting": true,
+      "party_id": "dominican-revolutionary-party",
+      "caucus": "Dominican Revolutionary Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q21067081"
+    },
+    {
+      "id": "sergio-vargas-q320280",
+      "name": "Sergio Vargas",
+      "sitting": true,
+      "party_id": "dominican-liberation-party",
+      "caucus": "Dominican Liberation Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2273190"
+    },
+    {
+      "id": "enriquito-lopez-q320280",
+      "name": "Enriquito López",
+      "sitting": true,
+      "party_id": "dominican-revolutionary-party",
+      "caucus": "Dominican Revolutionary Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q23688616"
+    },
+    {
+      "id": "julio-cesar-valentin-q320280",
+      "name": "Julio César Valentín",
+      "sitting": true,
+      "party_id": "social-justice",
+      "caucus": "social justice",
+      "constituency_label": "",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5955209"
+    },
+    {
+      "id": "adolfo-alejandro-nouel-q320280",
+      "name": "Adolfo Alejandro Nouel",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q163612"
+    },
+    {
+      "id": "ilana-neumann-q320280",
+      "name": "Ilana Neumann",
+      "sitting": true,
+      "party_id": "dominican-revolutionary-party",
+      "caucus": "Dominican Revolutionary Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q26721184"
+    },
+    {
+      "id": "hugo-tolentino-dipp-q320280",
+      "name": "Hugo Tolentino Dipp",
+      "sitting": true,
+      "party_id": "dominican-revolutionary-party",
+      "caucus": "Dominican Revolutionary Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16576566"
+    },
+    {
+      "id": "jose-francisco-pena-guaba-q320280",
+      "name": "José Francisco Peña Guaba",
+      "sitting": true,
+      "party_id": "dominican-revolutionary-party",
+      "caucus": "Dominican Revolutionary Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18945743"
+    },
+    {
+      "id": "licelott-marte-de-barrios-q320280",
+      "name": "Licelott Marte de Barrios",
+      "sitting": true,
+      "party_id": "social-christian-reformist-party",
+      "caucus": "Social Christian Reformist Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q26923921"
+    },
+    {
+      "id": "ines-bryan-q320280",
+      "name": "Inés Bryan",
+      "sitting": true,
+      "party_id": "social-christian-reformist-party",
+      "caucus": "Social Christian Reformist Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q26924731"
+    },
+    {
+      "id": "emilio-prud-home-q320280",
+      "name": "Emilio Prud’Home",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3818268"
+    },
+    {
+      "id": "faride-raful-q320280",
+      "name": "Faride Raful",
+      "sitting": true,
+      "party_id": "dominican-revolutionary-party",
+      "caucus": "Dominican Revolutionary Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24185888"
+    },
+    {
+      "id": "victor-bisono-q320280",
+      "name": "Victor Bisono",
+      "sitting": true,
+      "party_id": "social-christian-reformist-party",
+      "caucus": "Social Christian Reformist Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5923172"
+    },
+    {
+      "id": "hatuey-de-camps-q320280",
+      "name": "Hatuey de Camps",
+      "sitting": true,
+      "party_id": "dominican-revolutionary-party",
+      "caucus": "Dominican Revolutionary Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5892805"
+    },
+    {
+      "id": "minou-tavarez-mirabal-q320280",
+      "name": "Minou Tavárez Mirabal",
+      "sitting": true,
+      "party_id": "dominican-liberation-party",
+      "caucus": "Dominican Liberation Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6017761"
+    },
+    {
+      "id": "marino-collante-q320280",
       "name": "Marino Collante",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
+      "chamber": "Chamber of Deputies",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q29121987"
     },
     {
-      "id": "antonio-taveras-guzman",
+      "id": "raul-mondesi-q320280",
+      "name": "Raul Mondesi",
+      "sitting": true,
+      "party_id": "dominican-liberation-party",
+      "caucus": "Dominican Liberation Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1152434"
+    },
+    {
+      "id": "reinaldo-pared-perez-q320280",
+      "name": "Reinaldo Pared Pérez",
+      "sitting": true,
+      "party_id": "dominican-liberation-party",
+      "caucus": "Dominican Liberation Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6104663"
+    },
+    {
+      "id": "jose-ignacio-paliza-q320280",
+      "name": "José Ignacio Paliza",
+      "sitting": true,
+      "party_id": "dominican-revolutionary-party",
+      "caucus": "Dominican Revolutionary Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17518389"
+    },
+    {
+      "id": "pedro-tineo-q320280",
+      "name": "Pedro Tineo",
+      "sitting": true,
+      "party_id": "modern-revolutionary-party",
+      "caucus": "Modern Revolutionary Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q90731074"
+    },
+    {
+      "id": "guadalupe-valdez-q320280",
+      "name": "Guadalupe Valdez",
+      "sitting": true,
+      "party_id": "alliance-for-democracy",
+      "caucus": "Alliance for Democracy",
+      "constituency_label": "",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q21010286"
+    },
+    {
+      "id": "enriquito-lopez-q2119267",
+      "name": "Enriquito López",
+      "sitting": true,
+      "party_id": "dominican-revolutionary-party",
+      "caucus": "Dominican Revolutionary Party",
+      "constituency_label": "",
+      "chamber": "Senate of the Dominican Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q23688616"
+    },
+    {
+      "id": "felix-bautista-q2119267",
+      "name": "Félix Bautista",
+      "sitting": true,
+      "party_id": "dominican-liberation-party",
+      "caucus": "Dominican Liberation Party",
+      "constituency_label": "",
+      "chamber": "Senate of the Dominican Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5511573"
+    },
+    {
+      "id": "julio-cesar-valentin-q2119267",
+      "name": "Julio César Valentín",
+      "sitting": true,
+      "party_id": "social-justice",
+      "caucus": "social justice",
+      "constituency_label": "",
+      "chamber": "Senate of the Dominican Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5955209"
+    },
+    {
+      "id": "eduardo-estrella-q2119267",
+      "name": "Eduardo Estrella",
+      "sitting": true,
+      "party_id": "social-christian-reformist-party",
+      "caucus": "Social Christian Reformist Party",
+      "constituency_label": "",
+      "chamber": "Senate of the Dominican Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5819205"
+    },
+    {
+      "id": "jose-rafael-abinader-wassaf-q2119267",
+      "name": "José Rafael Abinader Wassaf",
+      "sitting": true,
+      "party_id": "modern-revolutionary-party",
+      "caucus": "Modern Revolutionary Party",
+      "constituency_label": "Santiago Province",
+      "chamber": "Senate of the Dominican Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17591796"
+    },
+    {
+      "id": "antonio-cruz-torres-q2119267",
+      "name": "Antonio Cruz Torres",
+      "sitting": true,
+      "party_id": "dominican-liberation-party",
+      "caucus": "Dominican Liberation Party",
+      "constituency_label": "",
+      "chamber": "Senate of the Dominican Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17579932"
+    },
+    {
+      "id": "yvonne-chahin-sasso-q2119267",
+      "name": "Yvonne Chahín Sasso",
+      "sitting": true,
+      "party_id": "dominican-liberation-party",
+      "caucus": "Dominican Liberation Party",
+      "constituency_label": "",
+      "chamber": "Senate of the Dominican Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17579922"
+    },
+    {
+      "id": "jose-ignacio-paliza-q2119267",
+      "name": "José Ignacio Paliza",
+      "sitting": true,
+      "party_id": "dominican-revolutionary-party",
+      "caucus": "Dominican Revolutionary Party",
+      "constituency_label": "",
+      "chamber": "Senate of the Dominican Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17518389"
+    },
+    {
+      "id": "prim-pujals-q2119267",
+      "name": "Prim Pujals",
+      "sitting": true,
+      "party_id": "dominican-liberation-party",
+      "caucus": "Dominican Liberation Party",
+      "constituency_label": "",
+      "chamber": "Senate of the Dominican Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17580404"
+    },
+    {
+      "id": "tommy-galan-q2119267",
+      "name": "Tommy Galán",
+      "sitting": true,
+      "party_id": "dominican-liberation-party",
+      "caucus": "Dominican Liberation Party",
+      "constituency_label": "",
+      "chamber": "Senate of the Dominican Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17612307"
+    },
+    {
+      "id": "charles-mariotti-q2119267",
+      "name": "Charles Mariotti",
+      "sitting": true,
+      "party_id": "dominican-liberation-party",
+      "caucus": "Dominican Liberation Party",
+      "constituency_label": "",
+      "chamber": "Senate of the Dominican Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17612596"
+    },
+    {
+      "id": "juan-orlando-mercedes-q2119267",
+      "name": "Juan Orlando Mercedes",
+      "sitting": true,
+      "party_id": "dominican-liberation-party",
+      "caucus": "Dominican Liberation Party",
+      "constituency_label": "",
+      "chamber": "Senate of the Dominican Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17612629"
+    },
+    {
+      "id": "pedro-alegria-q2119267",
+      "name": "Pedro Alegría",
+      "sitting": true,
+      "party_id": "dominican-revolutionary-party",
+      "caucus": "Dominican Revolutionary Party",
+      "constituency_label": "",
+      "chamber": "Senate of the Dominican Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17612064"
+    },
+    {
+      "id": "amilcar-romero-q2119267",
+      "name": "Amílcar Romero",
+      "sitting": true,
+      "party_id": "dominican-liberation-party",
+      "caucus": "Dominican Liberation Party",
+      "constituency_label": "",
+      "chamber": "Senate of the Dominican Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17721945"
+    },
+    {
+      "id": "aristides-victoria-yeb-q2119267",
+      "name": "Arístides Victoria Yeb",
+      "sitting": true,
+      "party_id": "dominican-liberation-party",
+      "caucus": "Dominican Liberation Party",
+      "constituency_label": "",
+      "chamber": "Senate of the Dominican Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17722188"
+    },
+    {
+      "id": "felix-vasquez-q2119267",
+      "name": "Félix Vásquez",
+      "sitting": true,
+      "party_id": "dominican-liberation-party",
+      "caucus": "Dominican Liberation Party",
+      "constituency_label": "",
+      "chamber": "Senate of the Dominican Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17722173"
+    },
+    {
+      "id": "heinz-vieluf-q2119267",
+      "name": "Heinz Vieluf",
+      "sitting": true,
+      "party_id": "dominican-liberation-party",
+      "caucus": "Dominican Liberation Party",
+      "constituency_label": "",
+      "chamber": "Senate of the Dominican Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17722197"
+    },
+    {
+      "id": "alejandro-williams-q2119267",
+      "name": "Alejandro Williams",
+      "sitting": true,
+      "party_id": "dominican-liberation-party",
+      "caucus": "Dominican Liberation Party",
+      "constituency_label": "",
+      "chamber": "Senate of the Dominican Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17722301"
+    },
+    {
+      "id": "jose-hazim-frappier-q2119267",
+      "name": "José Hazim Frappier",
+      "sitting": true,
+      "party_id": "social-christian-reformist-party",
+      "caucus": "Social Christian Reformist Party",
+      "constituency_label": "",
+      "chamber": "Senate of the Dominican Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20631195"
+    },
+    {
+      "id": "luis-rene-canaan-q2119267",
+      "name": "Luis René Canaán",
+      "sitting": true,
+      "party_id": "dominican-liberation-party",
+      "caucus": "Dominican Liberation Party",
+      "constituency_label": "",
+      "chamber": "Senate of the Dominican Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20630669"
+    },
+    {
+      "id": "antonio-taveras-guzman-q2119267",
       "name": "Antonio Taveras Guzmán",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "modern-revolutionary-party",
+      "caucus": "Modern Revolutionary Party",
       "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
+      "chamber": "Senate of the Dominican Republic",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q108049887"
     },
     {
-      "id": "ricardo-de-los-santos-polanco",
+      "id": "ricardo-de-los-santos-polanco-q2119267",
       "name": "Ricardo De los Santos Polanco",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "modern-revolutionary-party",
+      "caucus": "Modern Revolutionary Party",
       "constituency_label": "",
-      "chamber": "Congress of the Dominican Republic",
+      "chamber": "Senate of the Dominican Republic",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q121444316"
+    },
+    {
+      "id": "adriano-sanchez-roa-q2119267",
+      "name": "Adriano Sánchez Roa",
+      "sitting": true,
+      "party_id": "dominican-liberation-party",
+      "caucus": "Dominican Liberation Party",
+      "constituency_label": "",
+      "chamber": "Senate of the Dominican Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18210056"
+    },
+    {
+      "id": "francisco-dominguez-brito-q2119267",
+      "name": "Francisco Domínguez Brito",
+      "sitting": true,
+      "party_id": "dominican-liberation-party",
+      "caucus": "Dominican Liberation Party",
+      "constituency_label": "",
+      "chamber": "Senate of the Dominican Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5483324"
     }
   ]
 }

@@ -3,792 +3,994 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q3363019",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 61,
+  "incomplete": true,
+  "claimed_seats": 664,
+  "chambers": [
+    "Amyotha Hluttaw",
+    "Chamber of Nationalities",
+    "House of Representatives",
+    "Speaker of the Assembly of the Union of Myanmar",
+    "Assembly of the Union"
+  ],
   "items": [
     {
-      "id": "htay-oo",
-      "name": "Htay Oo",
+      "id": "thein-swe-q2119357",
+      "name": "Thein Swe",
+      "sitting": true,
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
+      "constituency_label": "",
+      "chamber": "Amyotha Hluttaw",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7777804"
+    },
+    {
+      "id": "mya-nyein-q2119357",
+      "name": "Mya Nyein",
+      "sitting": true,
+      "party_id": "union-solidarity-and-development-party",
+      "caucus": "Union Solidarity and Development Party",
+      "constituency_label": "",
+      "chamber": "Amyotha Hluttaw",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6946690"
+    },
+    {
+      "id": "sai-thant-zin-q2119357",
+      "name": "Sai Thant Zin",
+      "sitting": true,
+      "party_id": "shan-nationalities-democratic-party",
+      "caucus": "Shan Nationalities Democratic Party",
+      "constituency_label": "",
+      "chamber": "Amyotha Hluttaw",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56224105"
+    },
+    {
+      "id": "aye-maung-q2119357",
+      "name": "Aye Maung",
+      "sitting": true,
+      "party_id": "arakan-national-party",
+      "caucus": "Arakan National Party",
+      "constituency_label": "",
+      "chamber": "Amyotha Hluttaw",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19739591"
+    },
+    {
+      "id": "poe-rei-aung-thein-q2119357",
+      "name": "Poe Rei Aung Thein",
+      "sitting": true,
+      "party_id": "union-solidarity-and-development-party",
+      "caucus": "Union Solidarity and Development Party",
+      "constituency_label": "",
+      "chamber": "Amyotha Hluttaw",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q138281007"
+    },
+    {
+      "id": "shila-nang-dong-q2119357",
+      "name": "Shila Nang Dong",
+      "sitting": true,
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
+      "constituency_label": "",
+      "chamber": "Amyotha Hluttaw",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56599629"
+    },
+    {
+      "id": "khin-maung-latt-q2119357",
+      "name": "Khin Maung Latt",
+      "sitting": true,
+      "party_id": "arakan-national-party",
+      "caucus": "Arakan National Party",
+      "constituency_label": "",
+      "chamber": "Amyotha Hluttaw",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56599969"
+    },
+    {
+      "id": "myint-naing-q2119357",
+      "name": "Myint Naing",
+      "sitting": true,
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
+      "constituency_label": "",
+      "chamber": "Amyotha Hluttaw",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6947491"
+    },
+    {
+      "id": "suan-deih-cin-q2119357",
+      "name": "Suan Deih Cin",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Assembly of the Union",
+      "chamber": "Amyotha Hluttaw",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q5924495"
+      "roster_url": "http://www.wikidata.org/entity/Q114268195"
     },
     {
-      "id": "phyu-phyu-thin",
-      "name": "Phyu Phyu Thin",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Mingala Taungnyunt Township",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q13861255"
-    },
-    {
-      "id": "aung-kyi",
-      "name": "Aung Kyi",
+      "id": "myat-nyanna-soe-q2119357",
+      "name": "Myat Nyanna Soe",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Assembly of the Union",
+      "chamber": "Amyotha Hluttaw",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q3550437"
+      "roster_url": "http://www.wikidata.org/entity/Q114268514"
     },
     {
-      "id": "aung-min",
-      "name": "Aung Min",
+      "id": "wilson-moe-q2119357",
+      "name": "Wilson Moe",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Assembly of the Union",
+      "chamber": "Amyotha Hluttaw",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q4821898"
+      "roster_url": "http://www.wikidata.org/entity/Q114268757"
     },
     {
-      "id": "khin-htay-kywe",
-      "name": "Khin Htay Kywe",
+      "id": "saw-tun-mya-aung-q2119357",
+      "name": "Saw Tun Mya Aung",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Assembly of the Union",
+      "chamber": "Amyotha Hluttaw",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q6401660"
+      "roster_url": "http://www.wikidata.org/entity/Q114268876"
     },
     {
-      "id": "khin-maung-myint",
-      "name": "Khin Maung Myint",
+      "id": "zaw-myint-maung-q3379823",
+      "name": "Zaw Myint Maung",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
+      "constituency_label": "Kyaukpadaung Township",
+      "chamber": "House of Representatives",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q6401670"
+      "roster_url": "http://www.wikidata.org/entity/Q8067291"
     },
     {
-      "id": "khin-maung-thein",
-      "name": "Khin Maung Thein",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6401674"
-    },
-    {
-      "id": "myint-aung",
-      "name": "Myint Aung",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6947485"
-    },
-    {
-      "id": "soe-thein",
-      "name": "Soe Thein",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7553466"
-    },
-    {
-      "id": "win-myint",
-      "name": "Win Myint",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q8023642"
-    },
-    {
-      "id": "kyaw-myint",
-      "name": "Kyaw Myint",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16105397"
-    },
-    {
-      "id": "kyaw-hsan",
-      "name": "Kyaw Hsan",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16121572"
-    },
-    {
-      "id": "htay-myint",
-      "name": "Htay Myint",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16186708"
-    },
-    {
-      "id": "chit-hlaing",
-      "name": "Chit Hlaing",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q339610"
-    },
-    {
-      "id": "kyaw-win",
-      "name": "Kyaw Win",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q23682496"
-    },
-    {
-      "id": "aung-ko",
-      "name": "Aung Ko",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q23682398"
-    },
-    {
-      "id": "myo-zaw-aung",
-      "name": "Myo Zaw Aung",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q18637143"
-    },
-    {
-      "id": "aung-soe-myint",
-      "name": "Aung Soe Myint",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4821911"
-    },
-    {
-      "id": "aung-thaung",
-      "name": "Aung Thaung",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4821914"
-    },
-    {
-      "id": "aung-thein-lin",
-      "name": "Aung Thein Lin",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4821915"
-    },
-    {
-      "id": "aye-myint-kyu",
-      "name": "Aye Myint Kyu",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4831126"
-    },
-    {
-      "id": "chan-nyein",
-      "name": "Chan Nyein",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5070347"
-    },
-    {
-      "id": "su-su-lwin",
-      "name": "Su Su Lwin",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q23055315"
-    },
-    {
-      "id": "khin-san-hlaing",
+      "id": "khin-san-hlaing-q3379823",
       "name": "Khin San Hlaing",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
       "constituency_label": "",
-      "chamber": "Assembly of the Union",
+      "chamber": "House of Representatives",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q6401683"
     },
     {
-      "id": "t-khun-myat",
-      "name": "T Khun Myat",
+      "id": "win-myint-q3379823",
+      "name": "Win Myint",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
       "constituency_label": "",
-      "chamber": "Assembly of the Union",
+      "chamber": "House of Representatives",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q23304262"
+      "roster_url": "http://www.wikidata.org/entity/Q8023642"
     },
     {
-      "id": "kyaw-swa-khaing",
-      "name": "Kyaw Swa Khaing",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6450828"
-    },
-    {
-      "id": "phyo-min-thein",
-      "name": "Phyo Min Thein",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q23664236"
-    },
-    {
-      "id": "than-myint",
-      "name": "Than Myint",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q23771683"
-    },
-    {
-      "id": "thant-sin-maung",
-      "name": "Thant Sin Maung",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q23771837"
-    },
-    {
-      "id": "lun-thi",
-      "name": "Lun Thi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6703475"
-    },
-    {
-      "id": "mahn-johnny",
-      "name": "Mahn Johnny",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6734679"
-    },
-    {
-      "id": "may-win-myint",
-      "name": "May Win Myint",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6796612"
-    },
-    {
-      "id": "min-thu-wun",
-      "name": "Min Thu Wun",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6862607"
-    },
-    {
-      "id": "nanda-kyaw-swa",
-      "name": "Nanda Kyaw Swa",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6963134"
-    },
-    {
-      "id": "nyo-mya",
-      "name": "Nyo Mya",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7071219"
-    },
-    {
-      "id": "ohn-kyaing",
-      "name": "Ohn Kyaing",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7081111"
-    },
-    {
-      "id": "pyone-cho",
-      "name": "Pyone Cho",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q25231046"
-    },
-    {
-      "id": "paw-khin",
-      "name": "Paw Khin",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7156065"
-    },
-    {
-      "id": "sanda-min",
-      "name": "Sanda Min",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7415921"
-    },
-    {
-      "id": "soe-maung",
-      "name": "Soe Maung",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7553455"
-    },
-    {
-      "id": "soe-tha",
-      "name": "Soe Tha",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7553464"
-    },
-    {
-      "id": "thein-htaik",
-      "name": "Thein Htaik",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7777797"
-    },
-    {
-      "id": "u-thaung",
-      "name": "U Thaung",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7876244"
-    },
-    {
-      "id": "phyo-zeya-thaw",
-      "name": "Phyo Zeya Thaw",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q8067544"
-    },
-    {
-      "id": "shwe-mann",
-      "name": "Shwe Mann",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q981482"
-    },
-    {
-      "id": "tint-swe",
-      "name": "Tint Swe",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q39073896"
-    },
-    {
-      "id": "hla-moe",
-      "name": "Hla Moe",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q52888645"
-    },
-    {
-      "id": "thein-tun-oo",
-      "name": "Thein Tun Oo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q32542506"
-    },
-    {
-      "id": "win-aung",
-      "name": "Win Aung",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q55637784"
-    },
-    {
-      "id": "htay-ngwe",
-      "name": "Htay Ngwe",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56268376"
-    },
-    {
-      "id": "nay-lin-aung",
+      "id": "nay-lin-aung-q3379823",
       "name": "Nay Lin Aung",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
       "constituency_label": "",
-      "chamber": "Assembly of the Union",
+      "chamber": "House of Representatives",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q61723669"
     },
     {
-      "id": "shwe-maung",
-      "name": "Shwe Maung",
+      "id": "aye-myint-kyu-q3379823",
+      "name": "Aye Myint Kyu",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "state-peace-and-development-council",
+      "caucus": "State Peace and Development Council",
       "constituency_label": "",
-      "chamber": "Assembly of the Union",
+      "chamber": "House of Representatives",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q40004223"
+      "roster_url": "http://www.wikidata.org/entity/Q4831126"
     },
     {
-      "id": "soe-moe-thu",
+      "id": "thein-tun-oo-q3379823",
+      "name": "Thein Tun Oo",
+      "sitting": true,
+      "party_id": "union-solidarity-and-development-party",
+      "caucus": "Union Solidarity and Development Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q32542506"
+    },
+    {
+      "id": "soe-moe-thu-q3379823",
       "name": "Soe Moe Thu",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
       "constituency_label": "",
-      "chamber": "Assembly of the Union",
+      "chamber": "House of Representatives",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q56433810"
     },
     {
-      "id": "aung-thu",
+      "id": "tint-swe-q3379823",
+      "name": "Tint Swe",
+      "sitting": true,
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q39073896"
+    },
+    {
+      "id": "aung-min-q3379823",
+      "name": "Aung Min",
+      "sitting": true,
+      "party_id": "union-solidarity-and-development-party",
+      "caucus": "Union Solidarity and Development Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4821898"
+    },
+    {
+      "id": "hla-moe-q3379823",
+      "name": "Hla Moe",
+      "sitting": true,
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q52888645"
+    },
+    {
+      "id": "myo-zaw-aung-q3379823",
+      "name": "Myo Zaw Aung",
+      "sitting": true,
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18637143"
+    },
+    {
+      "id": "shwe-mann-q3379823",
+      "name": "Shwe Mann",
+      "sitting": true,
+      "party_id": "union-solidarity-and-development-party",
+      "caucus": "Union Solidarity and Development Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q981482"
+    },
+    {
+      "id": "phyo-min-thein-q3379823",
+      "name": "Phyo Min Thein",
+      "sitting": true,
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q23664236"
+    },
+    {
+      "id": "lun-thi-q3379823",
+      "name": "Lun Thi",
+      "sitting": true,
+      "party_id": "union-solidarity-and-development-party",
+      "caucus": "Union Solidarity and Development Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6703475"
+    },
+    {
+      "id": "aung-thaung-q3379823",
+      "name": "Aung Thaung",
+      "sitting": true,
+      "party_id": "union-solidarity-and-development-party",
+      "caucus": "Union Solidarity and Development Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4821914"
+    },
+    {
+      "id": "aung-thein-lin-q3379823",
+      "name": "Aung Thein Lin",
+      "sitting": true,
+      "party_id": "union-solidarity-and-development-party",
+      "caucus": "Union Solidarity and Development Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4821915"
+    },
+    {
+      "id": "aung-thu-q3379823",
       "name": "Aung Thu",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
       "constituency_label": "",
-      "chamber": "Assembly of the Union",
+      "chamber": "House of Representatives",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q66722250"
     },
     {
-      "id": "mar-mar-khaing",
-      "name": "Mar Mar Khaing",
+      "id": "than-myint-q3379823",
+      "name": "Than Myint",
+      "sitting": true,
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q23771683"
+    },
+    {
+      "id": "thant-sin-maung-q3379823",
+      "name": "Thant Sin Maung",
+      "sitting": true,
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q23771837"
+    },
+    {
+      "id": "chit-hlaing-q3379823",
+      "name": "Chit Hlaing",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Assembly of the Union",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q339610"
+    },
+    {
+      "id": "thein-htaik-q3379823",
+      "name": "Thein Htaik",
+      "sitting": true,
+      "party_id": "union-solidarity-and-development-party",
+      "caucus": "Union Solidarity and Development Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7777797"
+    },
+    {
+      "id": "mar-mar-khaing-q3379823",
+      "name": "Mar Mar Khaing",
+      "sitting": true,
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q41730645"
     },
     {
-      "id": "wai-phyo-aung",
-      "name": "Wai Phyo Aung",
+      "id": "u-thaung-q3379823",
+      "name": "U Thaung",
+      "sitting": true,
+      "party_id": "union-solidarity-and-development-party",
+      "caucus": "Union Solidarity and Development Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7876244"
+    },
+    {
+      "id": "nyo-mya-q3379823",
+      "name": "Nyo Mya",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Assembly of the Union",
+      "chamber": "House of Representatives",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q50676752"
+      "roster_url": "http://www.wikidata.org/entity/Q7071219"
     },
     {
-      "id": "maung-thin",
-      "name": "Maung Thin",
+      "id": "aung-soe-myint-q3379823",
+      "name": "Aung Soe Myint",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
       "constituency_label": "",
-      "chamber": "Assembly of the Union",
+      "chamber": "House of Representatives",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q54391034"
+      "roster_url": "http://www.wikidata.org/entity/Q4821911"
     },
     {
-      "id": "a-zin-latt",
+      "id": "mahn-johnny-q3379823",
+      "name": "Mahn Johnny",
+      "sitting": true,
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6734679"
+    },
+    {
+      "id": "htay-oo-q3379823",
+      "name": "Htay Oo",
+      "sitting": true,
+      "party_id": "union-solidarity-and-development-party",
+      "caucus": "Union Solidarity and Development Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5924495"
+    },
+    {
+      "id": "nanda-kyaw-swa-q3379823",
+      "name": "Nanda Kyaw Swa",
+      "sitting": true,
+      "party_id": "union-solidarity-and-development-party",
+      "caucus": "Union Solidarity and Development Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6963134"
+    },
+    {
+      "id": "chan-nyein-q3379823",
+      "name": "Chan Nyein",
+      "sitting": true,
+      "party_id": "union-solidarity-and-development-party",
+      "caucus": "Union Solidarity and Development Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5070347"
+    },
+    {
+      "id": "may-win-myint-q3379823",
+      "name": "May Win Myint",
+      "sitting": true,
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6796612"
+    },
+    {
+      "id": "khin-maung-myint-q3379823",
+      "name": "Khin Maung Myint",
+      "sitting": true,
+      "party_id": "union-solidarity-and-development-party",
+      "caucus": "Union Solidarity and Development Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6401670"
+    },
+    {
+      "id": "min-thu-wun-q3379823",
+      "name": "Min Thu Wun",
+      "sitting": true,
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6862607"
+    },
+    {
+      "id": "a-zin-latt-q3379823",
       "name": "A Zin Latt",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
       "constituency_label": "",
-      "chamber": "Assembly of the Union",
+      "chamber": "House of Representatives",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q56268277"
     },
     {
-      "id": "soe-san-thet-tun",
+      "id": "soe-san-thet-tun-q3379823",
       "name": "Soe San Thet Tun",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
       "constituency_label": "",
-      "chamber": "Assembly of the Union",
+      "chamber": "House of Representatives",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q56283785"
     },
     {
-      "id": "aung-san-suu-kyi",
+      "id": "shwe-maung-q3379823",
+      "name": "Shwe Maung",
+      "sitting": true,
+      "party_id": "union-solidarity-and-development-party",
+      "caucus": "Union Solidarity and Development Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q40004223"
+    },
+    {
+      "id": "kyaw-win-q3379823",
+      "name": "Kyaw Win",
+      "sitting": true,
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q23682496"
+    },
+    {
+      "id": "kyaw-myint-q3379823",
+      "name": "Kyaw Myint",
+      "sitting": true,
+      "party_id": "union-solidarity-and-development-party",
+      "caucus": "Union Solidarity and Development Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16105397"
+    },
+    {
+      "id": "kyaw-hsan-q3379823",
+      "name": "Kyaw Hsan",
+      "sitting": true,
+      "party_id": "union-solidarity-and-development-party",
+      "caucus": "Union Solidarity and Development Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16121572"
+    },
+    {
+      "id": "htay-myint-q3379823",
+      "name": "Htay Myint",
+      "sitting": true,
+      "party_id": "union-solidarity-and-development-party",
+      "caucus": "Union Solidarity and Development Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16186708"
+    },
+    {
+      "id": "maung-thin-q3379823",
+      "name": "Maung Thin",
+      "sitting": true,
+      "party_id": "union-solidarity-and-development-party",
+      "caucus": "Union Solidarity and Development Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q54391034"
+    },
+    {
+      "id": "khin-htay-kywe-q3379823",
+      "name": "Khin Htay Kywe",
+      "sitting": true,
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6401660"
+    },
+    {
+      "id": "khin-maung-thein-q3379823",
+      "name": "Khin Maung Thein",
+      "sitting": true,
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6401674"
+    },
+    {
+      "id": "ohn-kyaing-q3379823",
+      "name": "Ohn Kyaing",
+      "sitting": true,
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7081111"
+    },
+    {
+      "id": "win-aung-q3379823",
+      "name": "Win Aung",
+      "sitting": true,
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q55637784"
+    },
+    {
+      "id": "aung-ko-q3379823",
+      "name": "Aung Ko",
+      "sitting": true,
+      "party_id": "union-solidarity-and-development-party",
+      "caucus": "Union Solidarity and Development Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q23682398"
+    },
+    {
+      "id": "pyone-cho-q3379823",
+      "name": "Pyone Cho",
+      "sitting": true,
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q25231046"
+    },
+    {
+      "id": "soe-thein-q3379823",
+      "name": "Soe Thein",
+      "sitting": true,
+      "party_id": "union-solidarity-and-development-party",
+      "caucus": "Union Solidarity and Development Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7553466"
+    },
+    {
+      "id": "paw-khin-q3379823",
+      "name": "Paw Khin",
+      "sitting": true,
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7156065"
+    },
+    {
+      "id": "aung-san-suu-kyi-q3379823",
       "name": "Aung San Suu Kyi",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
       "constituency_label": "",
-      "chamber": "Assembly of the Union",
+      "chamber": "House of Representatives",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q36740"
     },
     {
-      "id": "ma-saw-sa",
+      "id": "than-htay-q3379823",
+      "name": "Than Htay",
+      "sitting": true,
+      "party_id": "union-solidarity-and-development-party",
+      "caucus": "Union Solidarity and Development Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7710081"
+    },
+    {
+      "id": "phyo-zeya-thaw-q3379823",
+      "name": "Phyo Zeya Thaw",
+      "sitting": true,
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q8067544"
+    },
+    {
+      "id": "myint-aung-q3379823",
+      "name": "Myint Aung",
+      "sitting": true,
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6947485"
+    },
+    {
+      "id": "kyaw-swa-khaing-q3379823",
+      "name": "Kyaw Swa Khaing",
+      "sitting": true,
+      "party_id": "union-solidarity-and-development-party",
+      "caucus": "Union Solidarity and Development Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6450828"
+    },
+    {
+      "id": "ma-saw-sa-q3379823",
       "name": "Ma Saw Sa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q73896659"
+    },
+    {
+      "id": "phyu-phyu-thin-q3379823",
+      "name": "Phyu Phyu Thin",
+      "sitting": true,
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
+      "constituency_label": "Mingala Taungnyunt Township",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13861255"
+    },
+    {
+      "id": "wai-phyo-aung-q3379823",
+      "name": "Wai Phyo Aung",
+      "sitting": true,
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q50676752"
+    },
+    {
+      "id": "aung-kyi-q3379823",
+      "name": "Aung Kyi",
+      "sitting": true,
+      "party_id": "union-solidarity-and-development-party",
+      "caucus": "Union Solidarity and Development Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3550437"
+    },
+    {
+      "id": "htay-ngwe-q3379823",
+      "name": "Htay Ngwe",
+      "sitting": true,
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56268376"
+    },
+    {
+      "id": "soe-maung-q3379823",
+      "name": "Soe Maung",
+      "sitting": true,
+      "party_id": "union-solidarity-and-development-party",
+      "caucus": "Union Solidarity and Development Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7553455"
+    },
+    {
+      "id": "soe-tha-q3379823",
+      "name": "Soe Tha",
+      "sitting": true,
+      "party_id": "union-solidarity-and-development-party",
+      "caucus": "Union Solidarity and Development Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7553464"
+    },
+    {
+      "id": "t-khun-myat-q3379823",
+      "name": "T Khun Myat",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q23304262"
+    },
+    {
+      "id": "su-su-lwin-q3379823",
+      "name": "Su Su Lwin",
+      "sitting": true,
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q23055315"
+    },
+    {
+      "id": "sanda-min-q3379823",
+      "name": "Sanda Min",
+      "sitting": true,
+      "party_id": "national-league-for-democracy",
+      "caucus": "National League for Democracy",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7415921"
+    },
+    {
+      "id": "hla-htay-win-q3363019",
+      "name": "Hla Htay Win",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -797,7 +999,7 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q73896659"
+      "roster_url": "http://www.wikidata.org/entity/Q19719238"
     }
   ]
 }

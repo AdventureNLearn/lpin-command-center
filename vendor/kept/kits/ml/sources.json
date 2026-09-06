@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1138071"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1138071",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21295991",
+      "label": "Member of the National Assembly of Mali (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21295991",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1138071",
+      "label": "National Assembly",
+      "url": "http://www.assemblee-nationale.ml/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1138071",
+      "label": "National Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1138071",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

@@ -3,8 +3,25 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q714698"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q714698",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21328639",
+      "label": "member of the Supreme People's Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21328639",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q714698",
+      "label": "Supreme People's Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q714698",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

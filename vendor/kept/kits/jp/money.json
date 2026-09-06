@@ -1,60 +1,7 @@
 {
   "iso2": "jp",
-  "named_donors": false,
-  "unit": "JPY",
-  "sitting_total_reconstructed": 41800000000,
-  "buckets": [
-    {
-      "label": "contributions (kifu)",
-      "amount": 16600000000
-    },
-    {
-      "label": "headquarters/branch grants",
-      "amount": 16600000000
-    },
-    {
-      "label": "business income",
-      "amount": 6100000000
-    },
-    {
-      "label": "party subsidy (seitō kōfukin)",
-      "amount": 31536519000
-    },
-    {
-      "label": "dues (tōhi/kaihi)",
-      "amount": 1035000000
-    },
-    {
-      "label": "loans (kariirekin)",
-      "amount": 816000000
-    },
-    {
-      "label": "other income (sono ta)",
-      "amount": 513000000
-    },
-    {
-      "label": "personnel costs (jinkenhi)",
-      "amount": 10900000000
-    },
-    {
-      "label": "publication/other business expenses",
-      "amount": 6400000000
-    },
-    {
-      "label": "contributions/grants out (kifu/kōfukin)",
-      "amount": 5700000000
-    },
-    {
-      "label": "office expenses (jimusho-hi)",
-      "amount": 5286000000
-    },
-    {
-      "label": "organization activity (soshiki katsudō-hi)",
-      "amount": 4354000000
-    }
-  ],
+  "items": [],
   "incomplete": true,
-  "source_url": "https://www.soumu.go.jp/main_content/001046348.pdf",
-  "note": "MIC 令和6年分政治資金収支報告の概要 (MIC + prefectural election boards), published 2025-12-25. Official 国会議員関係政治団体 current-year income 418億円 restated as yen. Source-type items in the official Diet-member-related prose: 寄附 166億円, 本部支部交付金収入 166億円, 事業収入 61億円. Wave 2 (cap +8 then stop): remaining Diet-member-related income line items from the same PDF 収入 table (単位：百万円) restated as yen: 党費・会費 1,035百万円, 借入金 816百万円, その他の収入 513百万円 (not HQ grants; those stay in the existing grants bucket). Diet-member-related expenditure prose restated as yen: 人件費 109億円, 機関紙誌の発行その他の事業費 64億円, 寄附・交付金 57億円. Two further official expenditure-table line items (百万円) restated as yen: 事務所費 5,286百万円, 組織活動費 4,354百万円. Stop at +8. Not occupation-of-donor. Not House-only (both chambers' member-related organizations). Contribution subtypes (個人 / 法人その他の団体 / 政治団体) are components of the existing kifu bucket and were not added. うち本部支部交付金 is a subset of 寄附・交付金 and was not added. All-organization (非・国会議員関係) 億円 prose was not mixed into these Diet-member-related buckets. No sitting-only House occupation aggregate on examined shugiin.go.jp pages (議員一覧 / English members / 会派別所属議員数 / サイトマップ / 国会関係資料). 会派 counts are caucus, not occupation. Member 経歴 free text was not rolled into invented occupation classes. Honest empty for occupation. MIC 令和8年分政党交付金 printed 合計 31,536,519,000 yen (https://www.soumu.go.jp/main_content/001082330.pdf; printed-total-yen). Public party allocation; does not name private donors. Party-split rows not copied. Quarterly 7月分 is a slice of that total and was not stored as a second bucket. Separate universe from Diet-member-related organization income; not added into sitting_total_reconstructed. Expenditure buckets are a different side of the same Diet-member-related reports and are not added into sitting_total_reconstructed. Named private donors not collected. No yen invented from political-funds reports that list private names. No yen person-level.",
-  "retrieved": "2026-08-21"
+  "retrieved": "2026-09-06",
+  "note": "No sourced money for this ISO. Not invented."
 }

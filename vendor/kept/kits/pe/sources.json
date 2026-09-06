@@ -3,8 +3,39 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1357543"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1357543",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q18812470",
+      "label": "member of the Congress of the Republic of Peru (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q18812470",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q110380288",
+      "label": "Senate of Peru (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q110380288",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1357543",
+      "label": "Congress of the Republic of Peru",
+      "url": "http://www.congreso.gob.pe/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1357543",
+      "label": "Congress of the Republic of Peru (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1357543",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1760847"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1760847",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q17268790",
+      "label": "member of the National Assembly of Suriname (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q17268790",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1760847",
+      "label": "National Assembly",
+      "url": "https://www.dna.sr/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1760847",
+      "label": "National Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1760847",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

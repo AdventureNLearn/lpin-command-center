@@ -3,151 +3,182 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q7138942",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 11,
+  "incomplete": true,
+  "claimed_seats": 100,
+  "chambers": [
+    "Senate of Eswatini",
+    "Parliament of Eswatini",
+    "House of Assembly of Eswatini"
+  ],
   "items": [
     {
-      "id": "obed-dlamini",
-      "name": "Obed Dlamini",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Eswatini",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q338072"
-    },
-    {
-      "id": "moses-mathendele-dlamini",
+      "id": "moses-mathendele-dlamini-q2117771",
       "name": "Moses Mathendele Dlamini",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Eswatini",
+      "chamber": "Senate of Eswatini",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q3324762"
     },
     {
-      "id": "guduza-dlamini",
-      "name": "Guduza Dlamini",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Eswatini",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5614715"
-    },
-    {
-      "id": "fanny-friedman",
+      "id": "fanny-friedman-q2117771",
       "name": "Fanny Friedman",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Eswatini",
+      "chamber": "Senate of Eswatini",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q22087357"
     },
     {
-      "id": "jan-sithole",
-      "name": "Jan Sithole",
+      "id": "ncengencenge-dlamini-q2117771",
+      "name": "Ncengencenge Dlamini",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Eswatini",
+      "chamber": "Senate of Eswatini",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q6149916"
+      "roster_url": "http://www.wikidata.org/entity/Q137184411"
     },
     {
-      "id": "marwick-khumalo",
-      "name": "Marwick Khumalo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Eswatini",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6778573"
-    },
-    {
-      "id": "mphiwa-dlamini",
-      "name": "Mphiwa Dlamini",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Eswatini",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6928258"
-    },
-    {
-      "id": "trusty-gina",
-      "name": "Trusty Gina",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Eswatini",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7848235"
-    },
-    {
-      "id": "jane-mkhonta-simelane",
-      "name": "Jane Mkhonta-Simelane",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Eswatini",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q138042513"
-    },
-    {
-      "id": "savannah-maziya",
+      "id": "savannah-maziya-q2117771",
       "name": "Savannah Maziya",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Eswatini",
+      "chamber": "Senate of Eswatini",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q138206722"
     },
     {
-      "id": "jabulani-mabuza",
+      "id": "guduza-dlamini-q5914707",
+      "name": "Guduza Dlamini",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Assembly of Eswatini",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5614715"
+    },
+    {
+      "id": "jan-sithole-q5914707",
+      "name": "Jan Sithole",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Assembly of Eswatini",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6149916"
+    },
+    {
+      "id": "marwick-khumalo-q5914707",
+      "name": "Marwick Khumalo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Assembly of Eswatini",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6778573"
+    },
+    {
+      "id": "mphiwa-dlamini-q5914707",
+      "name": "Mphiwa Dlamini",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Assembly of Eswatini",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6928258"
+    },
+    {
+      "id": "trusty-gina-q5914707",
+      "name": "Trusty Gina",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Assembly of Eswatini",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7848235"
+    },
+    {
+      "id": "jane-mkhonta-simelane-q5914707",
+      "name": "Jane Mkhonta-Simelane",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Assembly of Eswatini",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q138042513"
+    },
+    {
+      "id": "obed-dlamini-q5914707",
+      "name": "Obed Dlamini",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Assembly of Eswatini",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q338072"
+    },
+    {
+      "id": "jabulani-mabuza-q5914707",
       "name": "Jabulani Mabuza",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Eswatini",
+      "chamber": "House of Assembly of Eswatini",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q114515670"
+    },
+    {
+      "id": "nokunceda-bujela-q5914707",
+      "name": "Nokunceda Bujela",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Assembly of Eswatini",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116982697"
     }
   ]
 }

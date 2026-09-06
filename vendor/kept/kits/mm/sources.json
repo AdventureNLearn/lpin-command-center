@@ -3,8 +3,67 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q3363019"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q3363019",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q2119357",
+      "label": "Amyotha Hluttaw",
+      "url": "http://www.amyothahluttaw.gov.mm/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q2119357",
+      "label": "Amyotha Hluttaw (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q2119357",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q5069545",
+      "label": "Chamber of Nationalities (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q5069545",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q3379823",
+      "label": "House of Representatives",
+      "url": "http://www.pyithuhluttaw.gov.mm/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q3379823",
+      "label": "House of Representatives (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q3379823",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q50839393",
+      "label": "Speaker of the Assembly of the Union of Myanmar (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q50839393",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q3363019",
+      "label": "Assembly of the Union",
+      "url": "http://www.pyithuhluttaw.gov.mm/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q3363019",
+      "label": "Assembly of the Union (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q3363019",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

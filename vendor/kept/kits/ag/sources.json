@@ -3,8 +3,46 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1280751"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1280751",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1254104",
+      "label": "Senate of Antigua and Barbuda (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1254104",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1280751",
+      "label": "Parliament of Antigua and Barbuda (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1280751",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q602280",
+      "label": "Governor-General of Antigua and Barbuda",
+      "url": "https://gg.gov.ag/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q602280",
+      "label": "Governor-General of Antigua and Barbuda (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q602280",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1266832",
+      "label": "House of Representatives of Antigua and Barbuda (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1266832",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

@@ -1,0 +1,44 @@
+{
+  "iso2": "tv",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q672",
+  "bodies": [
+    {
+      "qid": "Q21294919",
+      "label": "Member of the Parliament of Tuvalu",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q897278",
+      "label": "Parliament of Tuvalu",
+      "seats": 16,
+      "web": "",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Member of the Parliament of Tuvalu"
+  ],
+  "seats": 16,
+  "items": [
+    {
+      "id": "Q21294919",
+      "name": "Member of the Parliament of Tuvalu",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q21294919"
+    },
+    {
+      "id": "Q897278",
+      "name": "Parliament of Tuvalu",
+      "kind": "parliament",
+      "seats": 16,
+      "url": "https://www.wikidata.org/wiki/Q897278"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

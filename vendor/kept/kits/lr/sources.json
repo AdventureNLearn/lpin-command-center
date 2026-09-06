@@ -3,8 +3,39 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q4345418"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q4345418",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1137584",
+      "label": "House of Representatives (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1137584",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q4345418",
+      "label": "Legislature of Liberia (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q4345418",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1142439",
+      "label": "Senate of Liberia",
+      "url": "https://senate.gov.lr/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1142439",
+      "label": "Senate of Liberia (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1142439",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

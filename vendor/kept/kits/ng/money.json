@@ -1,11 +1,7 @@
 {
   "iso2": "ng",
-  "named_donors": false,
-  "buckets": [],
-  "unit": null,
-  "sitting_total_reconstructed": null,
+  "items": [],
   "incomplete": true,
-  "source_url": "https://nass.gov.ng/mps/get_legislators/?chamber=2",
-  "retrieved": "2026-08-20",
-  "note": "No official NASS / INEC / NBS sitting-House occupation-bucket or public party/chamber subsidy aggregate after examination. nass.gov.ng/mps/get_legislators/?chamber=2 is a DataTables dump of name/state/constituency/party/id (246 rows this run) — no profession column. Sample NASS profile (mps/single/92) is roster (chamber, office, party, contact, education/previous offices free text), not a coded occupation field. nass.gov.ng/open-data is a document portal (bills/order papers/votes/hansard/acts), not a sitting-member occupation yearbook or chamber-subsidy table. INEC host (inecnigeria.org) did not return a usable page this run (fetch failed). INEC Form 24 / nomination and campaign-finance filings name candidates or private contributors — names were not collected and naira totals were not invented from those names. IReV is polling-unit results, not occupation-of-donor. NBS home/elibrary search for occupation and national assembly returned no sitting-House occupation yearbook. National labour-force occupation tables are not a House census and were not stored. Named private donors not collected. Naira totals not invented. Occupation / public-finance buckets left empty."
+  "retrieved": "2026-09-06",
+  "note": "No sourced money for this ISO. Not invented."
 }

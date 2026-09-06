@@ -3,8 +3,53 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q4167580"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q4167580",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q4167580",
+      "label": "Parliament of Namibia",
+      "url": "https://www.parliament.na/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q4167580",
+      "label": "Parliament of Namibia (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q4167580",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1969272",
+      "label": "National Council of Namibia",
+      "url": "https://www.parliament.na/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1969272",
+      "label": "National Council of Namibia (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1969272",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1769673",
+      "label": "National Assembly",
+      "url": "https://www.parliament.na/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1769673",
+      "label": "National Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1769673",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

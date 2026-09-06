@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1415847"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1415847",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1415847",
+      "label": "National Congress of Honduras",
+      "url": "http://www.congresonacional.hn/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1415847",
+      "label": "National Congress of Honduras (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1415847",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q19300340",
+      "label": "Member of the Honduran Congress (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q19300340",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

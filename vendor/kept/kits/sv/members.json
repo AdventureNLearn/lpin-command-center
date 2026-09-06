@@ -3,11 +3,354 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1812873",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 1,
+  "incomplete": true,
+  "claimed_seats": 60,
+  "chambers": [
+    "Deputy",
+    "Chamber of Senators",
+    "Legislative Assembly of El Salvador"
+  ],
   "items": [
     {
-      "id": "jose-larreynaga",
+      "id": "vicente-gomez-q63342292",
+      "name": "Vicente Gómez",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Senatorial circle of Sonsonate",
+      "chamber": "Chamber of Senators",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3444129"
+    },
+    {
+      "id": "miguel-santin-del-castillo-q63342292",
+      "name": "Miguel Santín del Castillo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "San Miguel",
+      "chamber": "Chamber of Senators",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q887458"
+    },
+    {
+      "id": "tomas-medina-q63342292",
+      "name": "Tomás Medina",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Chamber of Senators",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q437496"
+    },
+    {
+      "id": "nicolas-angulo-q63342292",
+      "name": "Nicolás Angulo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Zacatecoluca",
+      "chamber": "Chamber of Senators",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q63342636"
+    },
+    {
+      "id": "juan-jose-bonilla-q63342292",
+      "name": "Juan José Bonilla",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Senatorial circle of Suchitoto",
+      "chamber": "Chamber of Senators",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q63226662"
+    },
+    {
+      "id": "ramon-rodriguez-q63342292",
+      "name": "Ramón Rodríguez",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Senatorial Circle of San Vicente",
+      "chamber": "Chamber of Senators",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q11702077"
+    },
+    {
+      "id": "anastasio-rodriguez-q63342292",
+      "name": "Anastasio Rodríguez",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Chamber of Senators",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q63342638"
+    },
+    {
+      "id": "fermin-paredes-q63342292",
+      "name": "Fermín Paredes",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Chamber of Senators",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q63852435"
+    },
+    {
+      "id": "anselmo-paiz-q63342292",
+      "name": "Anselmo Paiz",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Chamber of Senators",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108569179"
+    },
+    {
+      "id": "karina-sosa-q1812873",
+      "name": "Karina Sosa",
+      "sitting": true,
+      "party_id": "farabundo-marti-national-liberation-front",
+      "caucus": "Farabundo Martí National Liberation Front",
+      "constituency_label": "",
+      "chamber": "Legislative Assembly of El Salvador",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q61458203"
+    },
+    {
+      "id": "mario-marroquin-q1812873",
+      "name": "Mario Marroquín",
+      "sitting": true,
+      "party_id": "nationalist-republican-alliance",
+      "caucus": "Nationalist Republican Alliance",
+      "constituency_label": "Santa Ana Department",
+      "chamber": "Legislative Assembly of El Salvador",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56468766"
+    },
+    {
+      "id": "teodoro-moreno-q1812873",
+      "name": "Teodoro Moreno",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "District of Santa Ana",
+      "chamber": "Legislative Assembly of El Salvador",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q62001426"
+    },
+    {
+      "id": "maria-isabel-rodriguez-q1812873",
+      "name": "María Isabel Rodríguez",
+      "sitting": true,
+      "party_id": "farabundo-marti-national-liberation-front",
+      "caucus": "Farabundo Martí National Liberation Front",
+      "constituency_label": "",
+      "chamber": "Legislative Assembly of El Salvador",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6003945"
+    },
+    {
+      "id": "hugo-martinez-q1812873",
+      "name": "Hugo Martínez",
+      "sitting": true,
+      "party_id": "farabundo-marti-national-liberation-front",
+      "caucus": "Farabundo Martí National Liberation Front",
+      "constituency_label": "",
+      "chamber": "Legislative Assembly of El Salvador",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1635429"
+    },
+    {
+      "id": "ernesto-muyshondt-q1812873",
+      "name": "Ernesto Muyshondt",
+      "sitting": true,
+      "party_id": "nationalist-republican-alliance",
+      "caucus": "Nationalist Republican Alliance",
+      "constituency_label": "San Salvador Department",
+      "chamber": "Legislative Assembly of El Salvador",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q55273355"
+    },
+    {
+      "id": "enrique-hoyos-q1812873",
+      "name": "Enrique Hoyos",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Cojutepeque",
+      "chamber": "Legislative Assembly of El Salvador",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56204375"
+    },
+    {
+      "id": "norman-quijano-q1812873",
+      "name": "Norman Quijano",
+      "sitting": true,
+      "party_id": "nationalist-republican-alliance",
+      "caucus": "Nationalist Republican Alliance",
+      "constituency_label": "",
+      "chamber": "Legislative Assembly of El Salvador",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7052708"
+    },
+    {
+      "id": "santiago-melendez-q1812873",
+      "name": "Santiago Meléndez",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Santa Ana Department",
+      "chamber": "Legislative Assembly of El Salvador",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q104086991"
+    },
+    {
+      "id": "jose-domingo-mendoza-q1812873",
+      "name": "José Domingo Mendoza",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Ahuachapán Department",
+      "chamber": "Legislative Assembly of El Salvador",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q63185094"
+    },
+    {
+      "id": "raul-antonio-salaverria-q1812873",
+      "name": "Raúl Antonio Salaverría",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Ahuachapán Department",
+      "chamber": "Legislative Assembly of El Salvador",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q63185065"
+    },
+    {
+      "id": "rafael-alfonso-rivas-q1812873",
+      "name": "Rafael Alfonso Rivas",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Ahuachapán Department",
+      "chamber": "Legislative Assembly of El Salvador",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q63185184"
+    },
+    {
+      "id": "cesar-cierra-q1812873",
+      "name": "César Cierra",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "San Salvador Department",
+      "chamber": "Legislative Assembly of El Salvador",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q66707948"
+    },
+    {
+      "id": "hector-alejandro-gomez-q1812873",
+      "name": "Héctor Alejandro Gómez",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Santa Ana Department",
+      "chamber": "Legislative Assembly of El Salvador",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q63185025"
+    },
+    {
+      "id": "miguel-castro-betancourt-q1812873",
+      "name": "Miguel Castro Betancourt",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Santa Ana Department",
+      "chamber": "Legislative Assembly of El Salvador",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q63185045"
+    },
+    {
+      "id": "rafael-esteban-castaneda-q1812873",
+      "name": "Rafael Esteban Castaneda",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Santa Ana Department",
+      "chamber": "Legislative Assembly of El Salvador",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q63185062"
+    },
+    {
+      "id": "jorge-guirola-bucaro-q1812873",
+      "name": "Jorge Guirola Búcaro",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "La Libertad Department",
+      "chamber": "Legislative Assembly of El Salvador",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q66708165"
+    },
+    {
+      "id": "jose-larreynaga-q1812873",
       "name": "José Larreynaga",
       "sitting": true,
       "party_id": "unknown",
@@ -18,6 +361,19 @@
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q56506702"
+    },
+    {
+      "id": "nelson-napoleon-garcia-rodriguez-q1812873",
+      "name": "Nelson Napoleón García Rodríguez",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Legislative Assembly of El Salvador",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q67064007"
     }
   ]
 }

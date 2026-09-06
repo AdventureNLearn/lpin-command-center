@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q619238"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q619238",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q619238",
+      "label": "National Assembly of Burkina Faso",
+      "url": "https://www.assembleenationale.bf",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q619238",
+      "label": "National Assembly of Burkina Faso (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q619238",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q18339650",
+      "label": "Member of the National Assembly of Burkina Faso (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q18339650",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

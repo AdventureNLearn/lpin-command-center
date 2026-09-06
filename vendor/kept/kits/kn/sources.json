@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q654504"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q654504",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21295997",
+      "label": "Member of the National Assembly of Saint Kitts and Nevis (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21295997",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q654504",
+      "label": "National Assembly",
+      "url": "https://www.parliament.gov.kn/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q654504",
+      "label": "National Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q654504",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

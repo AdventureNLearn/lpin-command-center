@@ -3,8 +3,46 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q4345413"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q4345413",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q4345413",
+      "label": "Parliament of Gabon (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q4345413",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q3510846",
+      "label": "Senate",
+      "url": "http://www.senatgabon.com/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q3510846",
+      "label": "Senate (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q3510846",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1969545",
+      "label": "National Assembly",
+      "url": "https://www.assemblee-nationale.ga/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1969545",
+      "label": "National Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1969545",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

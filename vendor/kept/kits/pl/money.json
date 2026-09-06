@@ -1,48 +1,7 @@
 {
   "iso2": "pl",
-  "named_donors": false,
-  "unit": "PLN",
-  "sitting_total_reconstructed": 84246147.77,
-  "buckets": [
-    {
-      "label": "Polskie Stronnictwo Ludowe",
-      "amount": 7525362.5
-    },
-    {
-      "label": "Nowa Lewica",
-      "amount": 9822680.42
-    },
-    {
-      "label": "Prawo i Sprawiedliwość",
-      "amount": 25933375.05
-    },
-    {
-      "label": "Platforma Obywatelska RP",
-      "amount": 23875901.46
-    },
-    {
-      "label": "Zieloni",
-      "amount": 551175.06
-    },
-    {
-      "label": "Nowoczesna",
-      "amount": 313167.65
-    },
-    {
-      "label": "Konfederacja Wolność i Niepodległość",
-      "amount": 8385955.48
-    },
-    {
-      "label": "Inicjatywa Polska",
-      "amount": 313167.65
-    },
-    {
-      "label": "Polska 2050",
-      "amount": 7525362.5
-    }
-  ],
+  "items": [],
   "incomplete": true,
-  "source_url": "https://pkw.gov.pl/uploaded_files/1698467872_subwencja-2024-2027.pdf",
-  "retrieved": "2026-08-20",
-  "note": "PKW Informacja o przewidywanej rocznej wysokości subwencji 2024–2027 (PDF, one published annual amount per party after the 2023-10-15 Sejm election). Predicted statutory-activity subsidy, not sitting-campaign outturn. Official public-finance party statutory-activity subsidy (subwencja z budżetu państwa), not occupation-of-donor, not sitting-member campaign funds. Bucket sum 84246147.77; official total 84246147.77. api.sejm.gov.pl term10/MP profession is free-text (160 titles among 460 sitting rows; 9 blank) — not an official occupation yearbook and was not classified. PKW sprawozdania o źródłach pozyskania and campaign-committee filings name private donors and were not collected. Sejm oświadczenia majątkowe name members and amounts and were not collected. Named private donors not collected."
+  "retrieved": "2026-09-06",
+  "note": "No sourced money for this ISO. Not invented."
 }

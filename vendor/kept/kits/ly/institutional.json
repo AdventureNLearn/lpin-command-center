@@ -1,0 +1,73 @@
+{
+  "iso2": "ly",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q1016",
+  "bodies": [
+    {
+      "qid": "Q21328602",
+      "label": "Member of the House of Representatives of Libya",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q17443556",
+      "label": "House of Representatives",
+      "seats": 200,
+      "web": "https://parliament.ly",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q22120968",
+      "label": "High Council of State",
+      "seats": 145,
+      "web": "",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q114774820",
+      "label": "Member of the High Council of State",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Member of the House of Representatives of Libya",
+    "Member of the High Council of State"
+  ],
+  "seats": 345,
+  "items": [
+    {
+      "id": "Q21328602",
+      "name": "Member of the House of Representatives of Libya",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q21328602"
+    },
+    {
+      "id": "Q17443556",
+      "name": "House of Representatives",
+      "kind": "parliament",
+      "seats": 200,
+      "url": "https://parliament.ly"
+    },
+    {
+      "id": "Q22120968",
+      "name": "High Council of State",
+      "kind": "parliament",
+      "seats": 145,
+      "url": "https://www.wikidata.org/wiki/Q22120968"
+    },
+    {
+      "id": "Q114774820",
+      "name": "Member of the High Council of State",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q114774820"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

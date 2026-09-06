@@ -1,0 +1,44 @@
+{
+  "iso2": "sy",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q858",
+  "bodies": [
+    {
+      "qid": "Q20489786",
+      "label": "Member of the People's Council of Syria",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1372196",
+      "label": "People's Assembly of Syria",
+      "seats": 210,
+      "web": "http://www.parliament.gov.sy",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Member of the People's Council of Syria"
+  ],
+  "seats": 210,
+  "items": [
+    {
+      "id": "Q20489786",
+      "name": "Member of the People's Council of Syria",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q20489786"
+    },
+    {
+      "id": "Q1372196",
+      "name": "People's Assembly of Syria",
+      "kind": "parliament",
+      "seats": 210,
+      "url": "http://www.parliament.gov.sy"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

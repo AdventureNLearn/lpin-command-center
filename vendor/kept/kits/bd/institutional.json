@@ -1,0 +1,44 @@
+{
+  "iso2": "bd",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q902",
+  "bodies": [
+    {
+      "qid": "Q13058882",
+      "label": "Member of the Parliament of Bangladesh",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1684080",
+      "label": "Jatiya Sangsad",
+      "seats": 350,
+      "web": "https://www.parliament.gov.bd/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Member of the Parliament of Bangladesh"
+  ],
+  "seats": 350,
+  "items": [
+    {
+      "id": "Q13058882",
+      "name": "Member of the Parliament of Bangladesh",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q13058882"
+    },
+    {
+      "id": "Q1684080",
+      "name": "Jatiya Sangsad",
+      "kind": "parliament",
+      "seats": 350,
+      "url": "https://www.parliament.gov.bd/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

@@ -3,8 +3,39 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q5018721"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q5018721",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q112316485",
+      "label": "Speaker of the National Legislature of South Sudan (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q112316485",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1968103",
+      "label": "National Legislative Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1968103",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1454821",
+      "label": "Council of States (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1454821",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q5018721",
+      "label": "National Legislature of South Sudan (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q5018721",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

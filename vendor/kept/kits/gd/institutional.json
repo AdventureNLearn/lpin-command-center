@@ -1,0 +1,74 @@
+{
+  "iso2": "gd",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q769",
+  "bodies": [
+    {
+      "qid": "Q1138354",
+      "label": "House of Representatives of Grenada",
+      "seats": 16,
+      "web": "https://grenadaparliament.gd/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1253647",
+      "label": "Parliament of Grenada",
+      "seats": 29,
+      "web": "https://grenadaparliament.gd/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q1254591",
+      "label": "Senate of Grenada",
+      "seats": 13,
+      "web": "https://grenadaparliament.gd/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q655829",
+      "label": "Governor General of Grenada",
+      "seats": 0,
+      "web": "http://www.gov.gd/departments/governor_general.html",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "House of Representatives of Grenada",
+    "Senate of Grenada",
+    "Governor General of Grenada"
+  ],
+  "seats": 58,
+  "items": [
+    {
+      "id": "Q1138354",
+      "name": "House of Representatives of Grenada",
+      "kind": "chamber",
+      "seats": 16,
+      "url": "https://grenadaparliament.gd/"
+    },
+    {
+      "id": "Q1253647",
+      "name": "Parliament of Grenada",
+      "kind": "parliament",
+      "seats": 29,
+      "url": "https://grenadaparliament.gd/"
+    },
+    {
+      "id": "Q1254591",
+      "name": "Senate of Grenada",
+      "kind": "chamber",
+      "seats": 13,
+      "url": "https://grenadaparliament.gd/"
+    },
+    {
+      "id": "Q655829",
+      "name": "Governor General of Grenada",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "http://www.gov.gd/departments/governor_general.html"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

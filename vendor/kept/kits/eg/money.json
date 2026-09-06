@@ -1,14 +1,7 @@
 {
   "iso2": "eg",
-  "named_donors": false,
-  "buckets": [],
-  "unit": null,
-  "sitting_total_reconstructed": null,
+  "items": [],
   "incomplete": true,
-  "source_url": "https://www.parliament.gov.eg/Statestics_main.aspx",
-  "capmas_url": "https://www.capmas.gov.eg/",
-  "mof_url": "https://mof.gov.eg/",
-  "note": "Second pass: no sitting-only occupation aggregate and no public party/chamber subsidy total after examining parliament.gov.eg, CAPMAS, and Ministry of Finance. parliament.gov.eg Statestics_main.aspx tab «إحصائية مجمعة طبقاً للصفة» is overlapping quota headcounts (women, youth under 40, diaspora, disability, worker quota=0, Christians), not a sitting-member occupation census and not EGP. Member cards (652 cached MembersDetails.aspx) expose birthplace, seat type, governorate, constituency, party, committee — profession field=0. CAPMAS yearbook / Egypt-in-Figures / publications / censusinfo catalog pages were probed; no sitting-House occupation table for the current House. Ministry of Finance state-budget and citizen-budget archive pages were probed; no current public party-subsidy table and no sitting-campaign EGP occupation yearbook. Chamber operating-budget chapter is not an occupation bucket and was not stored. Spending ceilings in House law are maxima, not actuals, and were not stored. Named private donors not collected. EGP totals not invented from donor lists. Occupation / public-finance buckets left empty.",
-  "retrieved": "2026-08-21",
-  "hunt_stop": true
+  "retrieved": "2026-09-06",
+  "note": "No sourced money for this ISO. Not invented."
 }

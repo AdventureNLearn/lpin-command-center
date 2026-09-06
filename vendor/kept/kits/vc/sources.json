@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1138357"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1138357",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21296452",
+      "label": "Member of the House of Assembly of Saint Vincent and the Grenadines (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21296452",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1138357",
+      "label": "House of Assembly of Saint Vincent and the Grenadines",
+      "url": "https://assembly.gov.vc/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1138357",
+      "label": "House of Assembly of Saint Vincent and the Grenadines (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1138357",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

@@ -1,16 +1,7 @@
 {
   "iso2": "tw",
-  "named_donors": false,
-  "unit": "TWD",
-  "sitting_total_reconstructed": null,
-  "buckets": [
-    {
-      "label": "party subsidy (政黨補助金, FY115)",
-      "amount": 639362650
-    }
-  ],
+  "items": [],
   "incomplete": true,
-  "source_url": "https://party.moi.gov.tw/",
-  "note": "No sitting-only Legislative Yuan occupation aggregate after examining ly.gov.tw 本屆立委 (nodeid=109: 黨籍、選區、學(經)歷 — no 職業別 table) and open-data index (nodeid=116). data.ly.gov.tw id=16 歷屆委員資料 was unreachable this run (fetch failed); that catalog is documented as 學歷/經歷, not a sitting-only 職業 aggregate. CEC bulletin/open-data and Control Yuan sunshine/ardata/priso publish no sitting-LY occupation-bucket table. 黨籍 counts are caucus, not occupation. Member 經歷 free text was not rolled into invented occupation classes. Honest empty for occupation. MOI 政黨資訊網 printed 115會計年度 合計補助 639,362,650 TWD (https://party.moi.gov.tw/; printed-grand-total; raw 6億3,936萬2,650元). Public party allocation under Political Parties Act Art. 22 (NT$50 per party-list vote, ≥3% threshold); does not name private donors. Party-split rows not copied. Separate universe from sitting-member occupation; not added into sitting_total_reconstructed. CEC 政黨競選費用補助金 open data on data.cec.gov.tw / data.gov.tw dataset 20920 only lists 104–106 files — not an 11th-LY printed total, not used to invent TWD. https://ardata.cy.gov.tw/ posts 11th-LY political-donation files that name private donors; this kit does not copy named donors or TWD amounts from those files. https://data.gov.tw/dataset/168061 posts 11th-LY political-donation files that name private donors; this kit does not copy named donors or TWD amounts from those files. Named private donors not collected. No NT$ invented from Control Yuan donor names.",
-  "retrieved": "2026-08-20"
+  "retrieved": "2026-09-06",
+  "note": "No sourced money for this ISO. Not invented."
 }

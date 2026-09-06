@@ -1,0 +1,44 @@
+{
+  "iso2": "ps",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q219060",
+  "bodies": [
+    {
+      "qid": "Q339033",
+      "label": "Palestinian Legislative Council",
+      "seats": 132,
+      "web": "https://pal-plc.org",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q1585629",
+      "label": "Palestinian National Council",
+      "seats": 350,
+      "web": "http://www.palestinepnc.org/",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Palestinian National Council"
+  ],
+  "seats": 482,
+  "items": [
+    {
+      "id": "Q339033",
+      "name": "Palestinian Legislative Council",
+      "kind": "parliament",
+      "seats": 132,
+      "url": "https://pal-plc.org"
+    },
+    {
+      "id": "Q1585629",
+      "name": "Palestinian National Council",
+      "kind": "chamber",
+      "seats": 350,
+      "url": "http://www.palestinepnc.org/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

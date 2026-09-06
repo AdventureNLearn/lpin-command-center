@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q371576"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q371576",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q371576",
+      "label": "Parliament of Croatia",
+      "url": "http://www.sabor.hr",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q371576",
+      "label": "Parliament of Croatia (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q371576",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q18643511",
+      "label": "representative in the Croatian Parliament (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q18643511",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

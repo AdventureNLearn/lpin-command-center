@@ -3,11 +3,42 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1138935",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 2,
+  "incomplete": true,
+  "claimed_seats": 232,
+  "chambers": [
+    "Member of the National Assembly of Mauritania",
+    "National Assembly",
+    "Senate"
+  ],
   "items": [
     {
-      "id": "messouda-mint-baham",
+      "id": "kane-hamidou-baba-q1138935",
+      "name": "Kane Hamidou Baba",
+      "sitting": true,
+      "party_id": "union-of-democratic-forces",
+      "caucus": "Union of Democratic Forces",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110288009"
+    },
+    {
+      "id": "ahamdy-ould-hamady-q1138935",
+      "name": "Ahamdy Ould Hamady",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20109508"
+    },
+    {
+      "id": "messouda-mint-baham-q1138935",
       "name": "Messouda Mint Baham",
       "sitting": true,
       "party_id": "unknown",
@@ -20,7 +51,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q5675784"
     },
     {
-      "id": "l-malouma-said",
+      "id": "l-malouma-said-q1138935",
       "name": "L’Malouma Said",
       "sitting": true,
       "party_id": "unknown",
@@ -31,6 +62,19 @@
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q51200724"
+    },
+    {
+      "id": "malouma-q3510858",
+      "name": "Malouma",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12244275"
     }
   ]
 }

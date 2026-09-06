@@ -1,0 +1,59 @@
+{
+  "iso2": "uy",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q77",
+  "bodies": [
+    {
+      "qid": "Q320303",
+      "label": "Chamber of Representatives",
+      "seats": 99,
+      "web": "https://parlamento.gub.uy/camarasycomisiones/representantes",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1501988",
+      "label": "General Assembly of Uruguay",
+      "seats": 0,
+      "web": "https://parlamento.gub.uy/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q1149788",
+      "label": "Chamber of senators",
+      "seats": 30,
+      "web": "https://parlamento.gub.uy/camarasycomisiones/senadores",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Chamber of Representatives",
+    "Chamber of senators"
+  ],
+  "seats": 129,
+  "items": [
+    {
+      "id": "Q320303",
+      "name": "Chamber of Representatives",
+      "kind": "chamber",
+      "seats": 99,
+      "url": "https://parlamento.gub.uy/camarasycomisiones/representantes"
+    },
+    {
+      "id": "Q1501988",
+      "name": "General Assembly of Uruguay",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://parlamento.gub.uy/"
+    },
+    {
+      "id": "Q1149788",
+      "name": "Chamber of senators",
+      "kind": "chamber",
+      "seats": 30,
+      "url": "https://parlamento.gub.uy/camarasycomisiones/senadores"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

@@ -3,8 +3,39 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q16878152"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q16878152",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q16878152",
+      "label": "Parliament of Equatorial Guinea (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q16878152",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q14759322",
+      "label": "Senate of Equatorial Guinea",
+      "url": "https://senado-gq.org/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q14759322",
+      "label": "Senate of Equatorial Guinea (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q14759322",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q775767",
+      "label": "Chamber of People's Representatives (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q775767",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

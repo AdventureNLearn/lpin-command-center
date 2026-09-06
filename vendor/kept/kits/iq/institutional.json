@@ -1,0 +1,44 @@
+{
+  "iso2": "iq",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q796",
+  "bodies": [
+    {
+      "qid": "Q1973075",
+      "label": "Council of Representatives of Iraq",
+      "seats": 329,
+      "web": "https://www.parliament.iq/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q21328603",
+      "label": "Member of the Council of Representatives of Iraq",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Member of the Council of Representatives of Iraq"
+  ],
+  "seats": 329,
+  "items": [
+    {
+      "id": "Q1973075",
+      "name": "Council of Representatives of Iraq",
+      "kind": "parliament",
+      "seats": 329,
+      "url": "https://www.parliament.iq/"
+    },
+    {
+      "id": "Q21328603",
+      "name": "Member of the Council of Representatives of Iraq",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q21328603"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

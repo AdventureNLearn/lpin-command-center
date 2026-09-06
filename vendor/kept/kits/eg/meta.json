@@ -2,10 +2,10 @@
   "iso2": "eg",
   "name": "Egypt",
   "region": "africa",
-  "chamber": "House of Representatives",
-  "houses": "",
+  "chamber": "Parliament of Egypt",
+  "houses": "bicameral",
   "system": "",
-  "seats": 596,
+  "seats": 1762,
   "election": "",
   "session": "3rd term (2026–)",
   "kit": "map",
@@ -20,7 +20,8 @@
     "votes": 254,
     "committees": 30,
     "key_votes": 254,
-    "sourced_quotes": 0
+    "sourced_quotes": 0,
+    "pledged": 0
   },
   "capabilities": [
     "members",
@@ -39,6 +40,6 @@
   "lane": "gold-kit-8103",
   "source_live": null,
   "note": "Honest-complete 2026-08-21. Official sitting 596. Pledges hunt-stop 0. Clerk floor-vote events from parliament.gov.eg; member yeas unpublished. Committees 30. Ethics 14 public categories. Money honest empty. Gap 0 after dual-source exam. No invented yeas or named private donors.",
-  "roster_source": "https://www.parliament.gov.eg/MembersDetails.aspx",
+  "roster_source": "https://www.wikidata.org/wiki/Q2584535",
   "honest_complete": true
 }

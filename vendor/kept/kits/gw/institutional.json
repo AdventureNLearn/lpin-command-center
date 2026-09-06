@@ -1,0 +1,44 @@
+{
+  "iso2": "gw",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q1007",
+  "bodies": [
+    {
+      "qid": "Q21328631",
+      "label": "Member of the National People's Assembly of Guinea-Bissau",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q740533",
+      "label": "National People's Assembly",
+      "seats": 100,
+      "web": "https://www.parlamento.gw/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Member of the National People's Assembly of Guinea-Bissau"
+  ],
+  "seats": 100,
+  "items": [
+    {
+      "id": "Q21328631",
+      "name": "Member of the National People's Assembly of Guinea-Bissau",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q21328631"
+    },
+    {
+      "id": "Q740533",
+      "name": "National People's Assembly",
+      "kind": "parliament",
+      "seats": 100,
+      "url": "https://www.parlamento.gw/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

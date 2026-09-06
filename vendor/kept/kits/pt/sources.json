@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q740564"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q740564",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q19953703",
+      "label": "member of the Assembly of the Republic (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q19953703",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q740564",
+      "label": "Assembly of the Republic",
+      "url": "https://www.parlamento.pt/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q740564",
+      "label": "Assembly of the Republic (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q740564",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

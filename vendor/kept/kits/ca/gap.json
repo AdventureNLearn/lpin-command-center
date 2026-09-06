@@ -1,8 +1,13 @@
 {
   "iso2": "ca",
-  "items": [],
+  "items": [
+    {
+      "id": "money",
+      "hole": "No sourced money file.",
+      "basis": "Evidence"
+    }
+  ],
   "incomplete": true,
-  "examined_pairs": 330,
-  "retrieved": "2026-08-21",
-  "note": "No dual-sourced own-pledge break. Examined 330 sourced-pledge × same-issue clerk vote pairs already in votes.json (316 with this member's yea/nay; 214 on/after pledge date; 4 with unambiguous opposite polarity). 173/173 clerk rolls have OpenParliament ballots. votes.json issue_id empty on 59/173 — titles mapped at examination only, not written back. Polarity only when pledge sentence and vote title are unambiguous opposites. Procedural, time allocation, Government Business proceedings, Senate-amendment motions, report-stage amendments, mixed omnibus, lawful-access vs ATIP, parole-review direction, mixed kitchen-sink member-site lists, and unmapped titles not scored. Member-site mental-health and French crime pledges have no unambiguous contrary clerk title on file. Official member-site leftover hunt-stop after waves 10–13. Did not invent yeas. Honest incomplete."
+  "retrieved": "2026-09-06",
+  "note": "Full-ISO fill 2026-09-06. Chambers: House of Commons · Parliament of Canada · monarch of Canada · Senate of Canada. Sitting 338. Empty objects not invented."
 }

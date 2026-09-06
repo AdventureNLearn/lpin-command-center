@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1969578"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1969578",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21296004",
+      "label": "Member of the National Assembly of Togo (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21296004",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1969578",
+      "label": "National Assembly",
+      "url": "http://www.assemblee-nationale.tg",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1969578",
+      "label": "National Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1969578",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

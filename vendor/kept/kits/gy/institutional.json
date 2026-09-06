@@ -1,6 +1,44 @@
 {
   "iso2": "gy",
   "kit": "institutional",
-  "items": [],
-  "incomplete": true
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q734",
+  "bodies": [
+    {
+      "qid": "Q1512579",
+      "label": "National Assembly",
+      "seats": 65,
+      "web": "https://parliament.gov.gy/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q18654760",
+      "label": "Member of the National Assembly  of Guyana",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Member of the National Assembly  of Guyana"
+  ],
+  "seats": 65,
+  "items": [
+    {
+      "id": "Q1512579",
+      "name": "National Assembly",
+      "kind": "parliament",
+      "seats": 65,
+      "url": "https://parliament.gov.gy/"
+    },
+    {
+      "id": "Q18654760",
+      "name": "Member of the National Assembly  of Guyana",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q18654760"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

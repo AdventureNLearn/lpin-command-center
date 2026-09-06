@@ -3,9 +3,9 @@
   "name": "Tanzania",
   "region": "africa",
   "chamber": "National Assembly",
-  "houses": "",
+  "houses": "unicameral",
   "system": "",
-  "seats": 0,
+  "seats": 393,
   "election": "",
   "session": "",
   "kit": "map",
@@ -15,18 +15,31 @@
   ],
   "threshold": 5,
   "counts": {
-    "members": 0,
-    "sitting": 0,
+    "members": 690,
+    "sitting": 690,
     "votes": 0,
     "committees": 0,
     "sourced_quotes": 0,
-    "pledges": 0
+    "pledges": 0,
+    "pledged": 0
   },
   "basis": "Evidence",
   "incomplete": true,
   "named_donors": false,
   "lane": "gold-kit-8103",
   "source_live": null,
-  "roster_source": "https://www.parliament.go.tz/",
-  "note": "BATCH 1 map-only seed 2026-08-21. Sitting 0 honest. Template empties copied (filers/lobby/orgs + missing catalog). No invented roster, pledges, or yeas. No leftover harvest."
+  "roster_source": "https://www.wikidata.org/wiki/Q1138299",
+  "note": "Full-ISO Wikidata fill 2026-09-06. 2 bodies. Sitting 690. Votes/pledges/ethics/money not invented.",
+  "capabilities": [
+    "members",
+    "pledges",
+    "votes",
+    "issues",
+    "gap",
+    "caucus",
+    "committees",
+    "ethics",
+    "money",
+    "method"
+  ]
 }

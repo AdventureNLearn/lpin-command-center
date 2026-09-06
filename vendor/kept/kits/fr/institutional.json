@@ -1,7 +1,74 @@
 {
   "iso2": "fr",
   "kit": "institutional",
-  "items": [],
   "incomplete": true,
-  "note": ":8103 claimed institutional_kits = 0."
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q142",
+  "bodies": [
+    {
+      "qid": "Q615559",
+      "label": "Council of the Republic",
+      "seats": 315,
+      "web": "",
+      "kind": "lower"
+    },
+    {
+      "qid": "Q632552",
+      "label": "French Parliament",
+      "seats": 0,
+      "web": "https://www.parlement.fr",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q215987",
+      "label": "Senate",
+      "seats": 348,
+      "web": "https://www.senat.fr/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q193582",
+      "label": "National Assembly",
+      "seats": 577,
+      "web": "https://www.assemblee-nationale.fr/",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Council of the Republic",
+    "Senate",
+    "National Assembly"
+  ],
+  "seats": 1240,
+  "items": [
+    {
+      "id": "Q615559",
+      "name": "Council of the Republic",
+      "kind": "lower",
+      "seats": 315,
+      "url": "https://www.wikidata.org/wiki/Q615559"
+    },
+    {
+      "id": "Q632552",
+      "name": "French Parliament",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://www.parlement.fr"
+    },
+    {
+      "id": "Q215987",
+      "name": "Senate",
+      "kind": "chamber",
+      "seats": 348,
+      "url": "https://www.senat.fr/"
+    },
+    {
+      "id": "Q193582",
+      "name": "National Assembly",
+      "kind": "chamber",
+      "seats": 577,
+      "url": "https://www.assemblee-nationale.fr/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

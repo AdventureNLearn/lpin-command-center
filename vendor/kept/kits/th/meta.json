@@ -1,6 +1,6 @@
 {
   "iso2": "th",
-  "chamber": "",
+  "chamber": "National Assembly of Thailand",
   "session": "",
   "kit": "scoring",
   "lang": [
@@ -8,8 +8,8 @@
   ],
   "threshold": 5,
   "counts": {
-    "members": 0,
-    "sitting": 0,
+    "members": 384,
+    "sitting": 384,
     "votes": 0,
     "committees": 0,
     "key_votes": 0,
@@ -20,7 +20,7 @@
   "incomplete": true,
   "name": "Thailand",
   "region": "asia",
-  "note": "Gold object shape 2026-09-06. Sitting 0 from Wikidata. Votes/pledges/money empty — not invented.",
+  "note": "Full-ISO Wikidata fill 2026-09-06. 3 bodies. Sitting 384. Votes/pledges/ethics/money not invented.",
   "lane": "gold-kit-8103",
   "honest_complete": false,
   "capabilities": [
@@ -34,5 +34,8 @@
     "ethics",
     "money",
     "method"
-  ]
+  ],
+  "houses": "bicameral",
+  "seats": 1150,
+  "roster_source": "https://www.wikidata.org/wiki/Q1368318"
 }

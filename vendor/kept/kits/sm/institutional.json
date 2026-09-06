@@ -1,0 +1,44 @@
+{
+  "iso2": "sm",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q238",
+  "bodies": [
+    {
+      "qid": "Q817979",
+      "label": "Grand and General Council",
+      "seats": 60,
+      "web": "https://www.consigliograndeegenerale.sm/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q20968670",
+      "label": "member of the Grand and General Council of San Marino",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "member of the Grand and General Council of San Marino"
+  ],
+  "seats": 60,
+  "items": [
+    {
+      "id": "Q817979",
+      "name": "Grand and General Council",
+      "kind": "parliament",
+      "seats": 60,
+      "url": "https://www.consigliograndeegenerale.sm/"
+    },
+    {
+      "id": "Q20968670",
+      "name": "member of the Grand and General Council of San Marino",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q20968670"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

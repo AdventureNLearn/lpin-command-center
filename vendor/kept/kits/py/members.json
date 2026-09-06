@@ -3,21 +3,702 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q2511660",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 1,
+  "incomplete": true,
+  "claimed_seats": 125,
+  "chambers": [
+    "Senate of Paraguay",
+    "Congress of Paraguay",
+    "Chamber of Deputies"
+  ],
   "items": [
     {
-      "id": "esperanza-martinez",
-      "name": "Esperanza Martínez",
+      "id": "desiree-masi-q2119404",
+      "name": "Desirée Masi",
+      "sitting": true,
+      "party_id": "democratic-progressive-party",
+      "caucus": "Democratic Progressive Party",
+      "constituency_label": "national constituency",
+      "chamber": "Senate of Paraguay",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q51885475"
+    },
+    {
+      "id": "rodolfo-friedmann-q2119404",
+      "name": "Rodolfo Friedmann",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Paraguay",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q93376734"
+    },
+    {
+      "id": "lino-cesar-oviedo-sanchez-q2119404",
+      "name": "Lino César Oviedo Sánchez",
+      "sitting": true,
+      "party_id": "national-union-of-ethical-citizens",
+      "caucus": "National Union of Ethical Citizens",
+      "constituency_label": "",
+      "chamber": "Senate of Paraguay",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6554667"
+    },
+    {
+      "id": "juan-carlos-galaverna-q2119404",
+      "name": "Juan Carlos Galaverna",
+      "sitting": true,
+      "party_id": "colorado-party",
+      "caucus": "Colorado Party",
+      "constituency_label": "",
+      "chamber": "Senate of Paraguay",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108774354"
+    },
+    {
+      "id": "lilian-samaniego-q2119404",
+      "name": "Lilian Samaniego",
+      "sitting": true,
+      "party_id": "colorado-party",
+      "caucus": "Colorado Party",
+      "constituency_label": "",
+      "chamber": "Senate of Paraguay",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16591627"
+    },
+    {
+      "id": "yolanda-paredes-q2119404",
+      "name": "Yolanda Paredes",
+      "sitting": true,
+      "party_id": "national-crusade-party",
+      "caucus": "National Crusade Party",
+      "constituency_label": "",
+      "chamber": "Senate of Paraguay",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q139377665"
+    },
+    {
+      "id": "salyn-buzarquis-q2119404",
+      "name": "Salyn Buzarquis",
+      "sitting": true,
+      "party_id": "partido-liberal-intercontinental-del-paraguay-plip",
+      "caucus": "Partido Liberal Intercontinental del Paraguay (PLIP)",
+      "constituency_label": "",
+      "chamber": "Senate of Paraguay",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q114820869"
+    },
+    {
+      "id": "jose-felix-fernandez-estigarribia-q2119404",
+      "name": "José Félix Fernández Estigarribia",
+      "sitting": true,
+      "party_id": "partido-liberal-intercontinental-del-paraguay-plip",
+      "caucus": "Partido Liberal Intercontinental del Paraguay (PLIP)",
+      "constituency_label": "",
+      "chamber": "Senate of Paraguay",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q796260"
+    },
+    {
+      "id": "mirta-leonor-gusinky-q2119404",
+      "name": "Mirta Leonor Gusinky",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "national constituency",
+      "chamber": "Senate of Paraguay",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q51885473"
+    },
+    {
+      "id": "roberto-ramon-acevedo-quevedo-q2119404",
+      "name": "Roberto Ramón Acevedo Quevedo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "national constituency",
+      "chamber": "Senate of Paraguay",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q51885474"
+    },
+    {
+      "id": "blas-riquelme-q2119404",
+      "name": "Blas Riquelme",
+      "sitting": true,
+      "party_id": "colorado-party",
+      "caucus": "Colorado Party",
+      "constituency_label": "",
+      "chamber": "Senate of Paraguay",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q881744"
+    },
+    {
+      "id": "javier-zacarias-irun-q2119404",
+      "name": "Javier Zacarías Irún",
+      "sitting": true,
+      "party_id": "colorado-party",
+      "caucus": "Colorado Party",
+      "constituency_label": "",
+      "chamber": "Senate of Paraguay",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5928332"
+    },
+    {
+      "id": "silvio-ovelar-q2119404",
+      "name": "Silvio Ovelar",
+      "sitting": true,
+      "party_id": "colorado-party",
+      "caucus": "Colorado Party",
+      "constituency_label": "",
+      "chamber": "Senate of Paraguay",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q119510392"
+    },
+    {
+      "id": "fernando-lugo-q2119404",
+      "name": "Fernando Lugo",
+      "sitting": true,
+      "party_id": "patriotic-alliance-for-change",
+      "caucus": "Patriotic Alliance for Change",
+      "constituency_label": "national constituency",
+      "chamber": "Senate of Paraguay",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q151879"
+    },
+    {
+      "id": "victor-bogado-q2119404",
+      "name": "Víctor Bogado",
+      "sitting": true,
+      "party_id": "colorado-party",
+      "caucus": "Colorado Party",
+      "constituency_label": "",
+      "chamber": "Senate of Paraguay",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q42563233"
+    },
+    {
+      "id": "juan-crisostomo-centurion-q2119404",
+      "name": "Juan Crisóstomo Centurión",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Paraguay",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q782056"
+    },
+    {
+      "id": "alfredo-jaeggli-q2119404",
+      "name": "Alfredo Jaeggli",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Paraguay",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24212222"
+    },
+    {
+      "id": "oscar-denis-q2119404",
+      "name": "Óscar Denis",
+      "sitting": true,
+      "party_id": "partido-liberal-intercontinental-del-paraguay-plip",
+      "caucus": "Partido Liberal Intercontinental del Paraguay (PLIP)",
+      "constituency_label": "",
+      "chamber": "Senate of Paraguay",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3729350"
+    },
+    {
+      "id": "carlos-mateo-balmelli-q2119404",
+      "name": "Carlos Mateo Balmelli",
+      "sitting": true,
+      "party_id": "partido-liberal-intercontinental-del-paraguay-plip",
+      "caucus": "Partido Liberal Intercontinental del Paraguay (PLIP)",
+      "constituency_label": "",
+      "chamber": "Senate of Paraguay",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5750937"
+    },
+    {
+      "id": "basilio-nunez-q2119404",
+      "name": "Basilio Núñez",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Paraguay",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q139488946"
+    },
+    {
+      "id": "carmen-casco-de-lara-castro-q2119404",
+      "name": "Carmen Casco de Lara Castro",
+      "sitting": true,
+      "party_id": "partido-liberal-intercontinental-del-paraguay-plip",
+      "caucus": "Partido Liberal Intercontinental del Paraguay (PLIP)",
+      "constituency_label": "",
+      "chamber": "Senate of Paraguay",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5752479"
+    },
+    {
+      "id": "domingo-laino-q2119404",
+      "name": "Domingo Laíno",
+      "sitting": true,
+      "party_id": "partido-liberal-intercontinental-del-paraguay-plip",
+      "caucus": "Partido Liberal Intercontinental del Paraguay (PLIP)",
+      "constituency_label": "",
+      "chamber": "Senate of Paraguay",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5812812"
+    },
+    {
+      "id": "efrain-alegre-q2119404",
+      "name": "Efraín Alegre",
+      "sitting": true,
+      "party_id": "partido-liberal-intercontinental-del-paraguay-plip",
+      "caucus": "Partido Liberal Intercontinental del Paraguay (PLIP)",
+      "constituency_label": "",
+      "chamber": "Senate of Paraguay",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5820260"
+    },
+    {
+      "id": "nicanor-duarte-q2119404",
+      "name": "Nicanor Duarte",
+      "sitting": true,
+      "party_id": "colorado-party",
+      "caucus": "Colorado Party",
+      "constituency_label": "",
+      "chamber": "Senate of Paraguay",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q222652"
+    },
+    {
+      "id": "jose-oviedo-q2119404",
+      "name": "José Oviedo",
+      "sitting": true,
+      "party_id": "national-crusade-party",
+      "caucus": "National Crusade Party",
+      "constituency_label": "",
+      "chamber": "Senate of Paraguay",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q119787033"
+    },
+    {
+      "id": "carlos-filizzola-q2119404",
+      "name": "Carlos Filizzola",
+      "sitting": true,
+      "party_id": "party-for-a-country-of-solidarity",
+      "caucus": "Party for a Country of Solidarity",
+      "constituency_label": "",
+      "chamber": "Senate of Paraguay",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5042080"
+    },
+    {
+      "id": "efraim-cardozo-q2119404",
+      "name": "Efraím Cardozo",
+      "sitting": true,
+      "party_id": "liberal-party",
+      "caucus": "Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Paraguay",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5347586"
+    },
+    {
+      "id": "ruben-velazquez-q2119404",
+      "name": "Ruben Velázquez",
+      "sitting": true,
+      "party_id": "yo-creo",
+      "caucus": "Yo Creo",
+      "constituency_label": "",
+      "chamber": "Senate of Paraguay",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q130322317"
+    },
+    {
+      "id": "paraguayo-cubas-q2119404",
+      "name": "Paraguayo Cubas",
+      "sitting": true,
+      "party_id": "national-encounter-party",
+      "caucus": "National Encounter Party",
+      "constituency_label": "",
+      "chamber": "Senate of Paraguay",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q117074176"
+    },
+    {
+      "id": "rafael-filizzola-q2119404",
+      "name": "Rafael Filizzola",
+      "sitting": true,
+      "party_id": "democratic-progressive-party",
+      "caucus": "Democratic Progressive Party",
+      "constituency_label": "",
+      "chamber": "Senate of Paraguay",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q796276"
+    },
+    {
+      "id": "patrick-kemper-q2119404",
+      "name": "Patrick Kemper",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Paraguay",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112864903"
+    },
+    {
+      "id": "alfonso-gonzalez-nunez-q2119404",
+      "name": "Alfonso González Núñez",
+      "sitting": true,
+      "party_id": "colorado-party",
+      "caucus": "Colorado Party",
+      "constituency_label": "",
+      "chamber": "Senate of Paraguay",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q51233684"
+    },
+    {
+      "id": "blanca-ovelar-q2119404",
+      "name": "Blanca Ovelar",
+      "sitting": true,
+      "party_id": "colorado-party",
+      "caucus": "Colorado Party",
+      "constituency_label": "",
+      "chamber": "Senate of Paraguay",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q436857"
+    },
+    {
+      "id": "esperanza-martinez-q2511660",
+      "name": "Esperanza Martínez",
+      "sitting": true,
+      "party_id": "citizen-participation-party",
+      "caucus": "Citizen Participation Party",
       "constituency_label": "",
       "chamber": "Congress of Paraguay",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q5398905"
+    },
+    {
+      "id": "lalo-gomes-q320290",
+      "name": "Lalo Gomes",
+      "sitting": true,
+      "party_id": "colorado-party",
+      "caucus": "Colorado Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q129366620"
+    },
+    {
+      "id": "basilio-nunez-q320290",
+      "name": "Basilio Núñez",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Presidente Hayes",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q139488946"
+    },
+    {
+      "id": "edgar-acosta-alcaraz-q320290",
+      "name": "Edgar Acosta Alcaráz",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Departamento Central",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q51885476"
+    },
+    {
+      "id": "eusebio-alvarenga-martinez-q320290",
+      "name": "Eusebio Alvarenga Martínez",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Guairá",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q51885480"
+    },
+    {
+      "id": "jose-domingo-adorno-mazacotte-q320290",
+      "name": "José Domingo Adorno Mazacotte",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Alto Paraguay",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q51885478"
+    },
+    {
+      "id": "pedro-lorenzo-alliana-rodriguez-q320290",
+      "name": "Pedro Lorenzo Alliana Rodríguez",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Ñeembucú",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q51885479"
+    },
+    {
+      "id": "walter-harms-q320290",
+      "name": "Walter Harms",
+      "sitting": true,
+      "party_id": "colorado-party",
+      "caucus": "Colorado Party",
+      "constituency_label": "Itapúa",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123618571"
+    },
+    {
+      "id": "arnaldo-valdez-q320290",
+      "name": "Arnaldo Valdez",
+      "sitting": true,
+      "party_id": "partido-liberal-intercontinental-del-paraguay-plip",
+      "caucus": "Partido Liberal Intercontinental del Paraguay (PLIP)",
+      "constituency_label": "",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q139267280"
+    },
+    {
+      "id": "javier-zacarias-irun-q320290",
+      "name": "Javier Zacarías Irún",
+      "sitting": true,
+      "party_id": "colorado-party",
+      "caucus": "Colorado Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5928332"
+    },
+    {
+      "id": "paraguayo-cubas-q320290",
+      "name": "Paraguayo Cubas",
+      "sitting": true,
+      "party_id": "national-encounter-party",
+      "caucus": "National Encounter Party",
+      "constituency_label": "Alto Paraná",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q117074176"
+    },
+    {
+      "id": "luis-alberto-sarquis-q320290",
+      "name": "Luis Alberto Sarquis",
+      "sitting": true,
+      "party_id": "colorado-party",
+      "caucus": "Colorado Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5982701"
+    },
+    {
+      "id": "raul-latorre-q320290",
+      "name": "Raúl Latorre",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Asunción",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q134102596"
+    },
+    {
+      "id": "victor-rios-ojeda-q320290",
+      "name": "Víctor Ríos Ojeda",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29881992"
+    },
+    {
+      "id": "oscar-denis-q320290",
+      "name": "Óscar Denis",
+      "sitting": true,
+      "party_id": "partido-liberal-intercontinental-del-paraguay-plip",
+      "caucus": "Partido Liberal Intercontinental del Paraguay (PLIP)",
+      "constituency_label": "",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3729350"
+    },
+    {
+      "id": "ignacio-mendoza-unzain-q320290",
+      "name": "Ignacio Mendoza Unzaín",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q51185684"
+    },
+    {
+      "id": "jorge-antonio-britez-gonzalez-q320290",
+      "name": "Jorge Antonio Brítez González",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60902714"
+    },
+    {
+      "id": "tito-damian-ibarrola-cano-q320290",
+      "name": "Tito Damian Ibarrola Cano",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60902936"
+    },
+    {
+      "id": "kattya-gonzalez-q320290",
+      "name": "Kattya González",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q111352748"
+    },
+    {
+      "id": "perla-teresa-beatriz-acosta-de-vazquez-q320290",
+      "name": "Perla Teresa Beatriz Acosta de Vázquez",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "San Pedro",
+      "chamber": "Chamber of Deputies",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q51885477"
     }
   ]
 }

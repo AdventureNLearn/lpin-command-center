@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1139228"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1139228",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21295986",
+      "label": "Member of the National Assembly of Kuwait (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21295986",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1139228",
+      "label": "National Assembly of Kuwait",
+      "url": "http://kna.kw/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1139228",
+      "label": "National Assembly of Kuwait (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1139228",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

@@ -3,15 +3,19 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q676484",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 1,
+  "incomplete": true,
+  "claimed_seats": 31,
+  "chambers": [
+    "Member of the National Assembly of Seychelles",
+    "National Assembly of Seychelles"
+  ],
   "items": [
     {
-      "id": "joevana-charles",
+      "id": "joevana-charles-q676484",
       "name": "Joevana Charles",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "united-seychelles-party",
+      "caucus": "United Seychelles Party",
       "constituency_label": "",
       "chamber": "National Assembly of Seychelles",
       "lang": [

@@ -3,21 +3,611 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q2604031",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 1,
+  "incomplete": true,
+  "claimed_seats": 57,
+  "chambers": [
+    "Parliamentary Assembly of Bosnia and Herzegovina",
+    "House of Peoples of Bosnia and Herzegovina",
+    "House of Representatives of Bosnia and Herzegovina"
+  ],
   "items": [
     {
-      "id": "radovan-kovacevic",
+      "id": "radovan-kovacevic-q2604031",
       "name": "Radovan Kovačević",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "alliance-of-independent-social-democrats",
+      "caucus": "Alliance of Independent Social Democrats",
       "constituency_label": "",
       "chamber": "Parliamentary Assembly of Bosnia and Herzegovina",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q137170017"
+    },
+    {
+      "id": "borislav-paravac-q2718547",
+      "name": "Borislav Paravac",
+      "sitting": true,
+      "party_id": "serbian-democratic-party",
+      "caucus": "Serbian Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Peoples of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q470649"
+    },
+    {
+      "id": "sulejman-tihic-q2718547",
+      "name": "Sulejman Tihić",
+      "sitting": true,
+      "party_id": "party-of-democratic-action",
+      "caucus": "Party of Democratic Action",
+      "constituency_label": "",
+      "chamber": "House of Peoples of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q361173"
+    },
+    {
+      "id": "fahrudin-radoncic-q2718547",
+      "name": "Fahrudin Radončić",
+      "sitting": true,
+      "party_id": "union-for-a-better-future-of-bih",
+      "caucus": "Union for a Better Future of BiH",
+      "constituency_label": "",
+      "chamber": "House of Peoples of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1392741"
+    },
+    {
+      "id": "ilija-cvitanovic-q2718547",
+      "name": "Ilija Cvitanović",
+      "sitting": true,
+      "party_id": "croatian-democratic-union-1990",
+      "caucus": "Croatian Democratic Union 1990",
+      "constituency_label": "",
+      "chamber": "House of Peoples of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q140249118"
+    },
+    {
+      "id": "sifet-podzic-q2718547",
+      "name": "Sifet Podžić",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7511838"
+    },
+    {
+      "id": "kemal-ademovic-q2718547",
+      "name": "Kemal Ademović",
+      "sitting": true,
+      "party_id": "party-of-democratic-action",
+      "caucus": "Party of Democratic Action",
+      "constituency_label": "",
+      "chamber": "House of Peoples of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q120489796"
+    },
+    {
+      "id": "marina-pendes-q2718547",
+      "name": "Marina Pendeš",
+      "sitting": true,
+      "party_id": "croatian-democratic-union-of-bosnia-and-herzegovina",
+      "caucus": "Croatian Democratic Union of Bosnia and Herzegovina",
+      "constituency_label": "",
+      "chamber": "House of Peoples of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q22671805"
+    },
+    {
+      "id": "sefik-dzaferovic-q2718547",
+      "name": "Šefik Džaferović",
+      "sitting": true,
+      "party_id": "party-of-democratic-action",
+      "caucus": "Party of Democratic Action",
+      "constituency_label": "",
+      "chamber": "House of Peoples of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20525169"
+    },
+    {
+      "id": "borjana-kristo-q2718547",
+      "name": "Borjana Krišto",
+      "sitting": true,
+      "party_id": "croatian-democratic-union-of-bosnia-and-herzegovina",
+      "caucus": "Croatian Democratic Union of Bosnia and Herzegovina",
+      "constituency_label": "",
+      "chamber": "House of Peoples of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q387491"
+    },
+    {
+      "id": "zdenko-cosic-q2718547",
+      "name": "Zdenko Ćosić",
+      "sitting": true,
+      "party_id": "croatian-democratic-union-of-bosnia-and-herzegovina",
+      "caucus": "Croatian Democratic Union of Bosnia and Herzegovina",
+      "constituency_label": "",
+      "chamber": "House of Peoples of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q31200021"
+    },
+    {
+      "id": "bakir-izetbegovic-q2718547",
+      "name": "Bakir Izetbegović",
+      "sitting": true,
+      "party_id": "party-of-democratic-action",
+      "caucus": "Party of Democratic Action",
+      "constituency_label": "",
+      "chamber": "House of Peoples of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q312355"
+    },
+    {
+      "id": "nikola-spiric-q2718547",
+      "name": "Nikola Špirić",
+      "sitting": true,
+      "party_id": "alliance-of-independent-social-democrats",
+      "caucus": "Alliance of Independent Social Democrats",
+      "constituency_label": "",
+      "chamber": "House of Peoples of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q311882"
+    },
+    {
+      "id": "dragan-covic-q2718547",
+      "name": "Dragan Čović",
+      "sitting": true,
+      "party_id": "croatian-democratic-union-of-bosnia-and-herzegovina",
+      "caucus": "Croatian Democratic Union of Bosnia and Herzegovina",
+      "constituency_label": "",
+      "chamber": "House of Peoples of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q559756"
+    },
+    {
+      "id": "ivo-miro-jovic-q2718547",
+      "name": "Ivo Miro Jović",
+      "sitting": true,
+      "party_id": "croatian-democratic-union-of-bosnia-and-herzegovina",
+      "caucus": "Croatian Democratic Union of Bosnia and Herzegovina",
+      "constituency_label": "",
+      "chamber": "House of Peoples of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q560051"
+    },
+    {
+      "id": "martin-raguz-q2718547",
+      "name": "Martin Raguž",
+      "sitting": true,
+      "party_id": "croatian-democratic-union-1990",
+      "caucus": "Croatian Democratic Union 1990",
+      "constituency_label": "",
+      "chamber": "House of Peoples of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12636401"
+    },
+    {
+      "id": "stasa-kosara-q2718547",
+      "name": "Staša Košara",
+      "sitting": true,
+      "party_id": "alliance-of-independent-social-democrats",
+      "caucus": "Alliance of Independent Social Democrats",
+      "constituency_label": "",
+      "chamber": "House of Peoples of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12759664"
+    },
+    {
+      "id": "maja-gasal-vrazalica-q320268",
+      "name": "Maja Gasal-Vražalica",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q133761060"
+    },
+    {
+      "id": "borislav-paravac-q320268",
+      "name": "Borislav Paravac",
+      "sitting": true,
+      "party_id": "serbian-democratic-party",
+      "caucus": "Serbian Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q470649"
+    },
+    {
+      "id": "darko-babalj-q320268",
+      "name": "Darko Babalj",
+      "sitting": true,
+      "party_id": "serbian-democratic-party",
+      "caucus": "Serbian Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q65499539"
+    },
+    {
+      "id": "niko-lozancic-q320268",
+      "name": "Niko Lozančić",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3436394"
+    },
+    {
+      "id": "denis-zvizdic-q320268",
+      "name": "Denis Zvizdić",
+      "sitting": true,
+      "party_id": "party-of-democratic-action",
+      "caucus": "Party of Democratic Action",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19501831"
+    },
+    {
+      "id": "marinko-cavara-q320268",
+      "name": "Marinko Čavara",
+      "sitting": true,
+      "party_id": "croatian-democratic-union-of-bosnia-and-herzegovina",
+      "caucus": "Croatian Democratic Union of Bosnia and Herzegovina",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6764419"
+    },
+    {
+      "id": "seada-palavric-q320268",
+      "name": "Seada Palavrić",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4342403"
+    },
+    {
+      "id": "zlatko-lagumdzija-q320268",
+      "name": "Zlatko Lagumdžija",
+      "sitting": true,
+      "party_id": "social-democratic-party-of-bosnia-and-herzegovina",
+      "caucus": "Social Democratic Party of Bosnia and Herzegovina",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58124"
+    },
+    {
+      "id": "beriz-belkic-q320268",
+      "name": "Beriz Belkić",
+      "sitting": true,
+      "party_id": "party-for-bosnia-and-herzegovina",
+      "caucus": "Party for Bosnia and Herzegovina",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4891938"
+    },
+    {
+      "id": "branislav-borenovic-q320268",
+      "name": "Branislav Borenović",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q25462277"
+    },
+    {
+      "id": "nermin-niksic-q320268",
+      "name": "Nermin Nikšić",
+      "sitting": true,
+      "party_id": "social-democratic-party-of-bosnia-and-herzegovina",
+      "caucus": "Social Democratic Party of Bosnia and Herzegovina",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6996487"
+    },
+    {
+      "id": "zeljko-komsic-q320268",
+      "name": "Željko Komšić",
+      "sitting": true,
+      "party_id": "social-democratic-party-of-bosnia-and-herzegovina",
+      "caucus": "Social Democratic Party of Bosnia and Herzegovina",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q297825"
+    },
+    {
+      "id": "sefer-halilovic-q320268",
+      "name": "Sefer Halilović",
+      "sitting": true,
+      "party_id": "bosnian-herzegovinian-patriotic-party-sefer-halilovic",
+      "caucus": "Bosnian-Herzegovinian Patriotic Party-Sefer Halilović",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1285208"
+    },
+    {
+      "id": "jozo-krizanovic-q320268",
+      "name": "Jozo Križanović",
+      "sitting": true,
+      "party_id": "social-democratic-party-of-bosnia-and-herzegovina",
+      "caucus": "Social Democratic Party of Bosnia and Herzegovina",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2665070"
+    },
+    {
+      "id": "sefik-dzaferovic-q320268",
+      "name": "Šefik Džaferović",
+      "sitting": true,
+      "party_id": "party-of-democratic-action",
+      "caucus": "Party of Democratic Action",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20525169"
+    },
+    {
+      "id": "borjana-kristo-q320268",
+      "name": "Borjana Krišto",
+      "sitting": true,
+      "party_id": "croatian-democratic-union-of-bosnia-and-herzegovina",
+      "caucus": "Croatian Democratic Union of Bosnia and Herzegovina",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q387491"
+    },
+    {
+      "id": "miroslav-milovanovic-q320268",
+      "name": "Miroslav Milovanović",
+      "sitting": true,
+      "party_id": "alliance-of-independent-social-democrats",
+      "caucus": "Alliance of Independent Social Democrats",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4293619"
+    },
+    {
+      "id": "bakir-izetbegovic-q320268",
+      "name": "Bakir Izetbegović",
+      "sitting": true,
+      "party_id": "party-of-democratic-action",
+      "caucus": "Party of Democratic Action",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q312355"
+    },
+    {
+      "id": "mladen-bosic-q320268",
+      "name": "Mladen Bosić",
+      "sitting": true,
+      "party_id": "serbian-democratic-party",
+      "caucus": "Serbian Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7479478"
+    },
+    {
+      "id": "nebojsa-radmanovic-q320268",
+      "name": "Nebojša Radmanović",
+      "sitting": true,
+      "party_id": "alliance-of-independent-social-democrats",
+      "caucus": "Alliance of Independent Social Democrats",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q310136"
+    },
+    {
+      "id": "slavko-matic-q320268",
+      "name": "Slavko Matić",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q65498614"
+    },
+    {
+      "id": "sasa-magazinovic-q320268",
+      "name": "Saša Magazinović",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q65499239"
+    },
+    {
+      "id": "nikola-spiric-q320268",
+      "name": "Nikola Špirić",
+      "sitting": true,
+      "party_id": "alliance-of-independent-social-democrats",
+      "caucus": "Alliance of Independent Social Democrats",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q311882"
+    },
+    {
+      "id": "senad-sepic-q320268",
+      "name": "Senad Šepić",
+      "sitting": true,
+      "party_id": "party-of-democratic-action",
+      "caucus": "Party of Democratic Action",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q23409790"
+    },
+    {
+      "id": "ivo-miro-jovic-q320268",
+      "name": "Ivo Miro Jović",
+      "sitting": true,
+      "party_id": "croatian-democratic-union-of-bosnia-and-herzegovina",
+      "caucus": "Croatian Democratic Union of Bosnia and Herzegovina",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q560051"
+    },
+    {
+      "id": "martin-raguz-q320268",
+      "name": "Martin Raguž",
+      "sitting": true,
+      "party_id": "croatian-democratic-union-1990",
+      "caucus": "Croatian Democratic Union 1990",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12636401"
+    },
+    {
+      "id": "jasmin-emric-q320268",
+      "name": "Jasmin Emrić",
+      "sitting": true,
+      "party_id": "party-of-democratic-activity",
+      "caucus": "Party of Democratic Activity",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q23418890"
+    },
+    {
+      "id": "nermin-puric-q320268",
+      "name": "Nermin Purić",
+      "sitting": true,
+      "party_id": "democratic-people-s-union",
+      "caucus": "Democratic People's Union",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16221530"
+    },
+    {
+      "id": "stasa-kosara-q320268",
+      "name": "Staša Košara",
+      "sitting": true,
+      "party_id": "alliance-of-independent-social-democrats",
+      "caucus": "Alliance of Independent Social Democrats",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Bosnia and Herzegovina",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12759664"
     }
   ]
 }

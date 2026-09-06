@@ -1,0 +1,44 @@
+{
+  "iso2": "to",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q678",
+  "bodies": [
+    {
+      "qid": "Q21328621",
+      "label": "Member of the Legislative Assembly of Tonga",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1287831",
+      "label": "Legislative Assembly of Tonga",
+      "seats": 26,
+      "web": "https://parliament.gov.to/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Member of the Legislative Assembly of Tonga"
+  ],
+  "seats": 26,
+  "items": [
+    {
+      "id": "Q21328621",
+      "name": "Member of the Legislative Assembly of Tonga",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q21328621"
+    },
+    {
+      "id": "Q1287831",
+      "name": "Legislative Assembly of Tonga",
+      "kind": "parliament",
+      "seats": 26,
+      "url": "https://parliament.gov.to/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

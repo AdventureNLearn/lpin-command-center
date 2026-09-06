@@ -2,10 +2,10 @@
   "iso2": "ca",
   "name": "Canada",
   "region": "americas",
-  "chamber": "House of Commons",
+  "chamber": "Parliament of Canada",
   "houses": "bicameral",
   "system": "constitutional monarchy",
-  "seats": 343,
+  "seats": 891,
   "election": "competitive",
   "session": "44th–45th (2021–2026)",
   "kit": "scoring",
@@ -19,7 +19,8 @@
     "votes": 173,
     "committees": 60,
     "key_votes": 173,
-    "sourced_quotes": 39
+    "sourced_quotes": 39,
+    "pledged": 39
   },
   "capabilities": [
     "members",
@@ -30,7 +31,7 @@
     "caucus",
     "committees",
     "ethics",
-    "ask-grok",
+    "money",
     "method"
   ],
   "basis": "Evidence",
@@ -38,6 +39,6 @@
   "lane": "gold-kit-8103",
   "source_live": "https://kepthoc2126.grok.me",
   "note": "CA honest-complete 2026-08-21. Sit 338. Pledges 31 / 30 sitting. Leftover member-site/ourcommons/op-speech cache examined; junk/no_issue/no_member dropped; oc-hansard skipped. Votes 173 named 173 (OpenParliament 45-1 packed). Comm 60 ethics 1628 money 6 buckets named_donors false. Gap 0 after dual-source exam. Leftover personal pledges merge 2026-08-21: +7 sourced (Gill/Mantle/Williamson/Groleau/Dawson/A.Gill/Naqvi). Dropped Michel CHA line as party ticket. oc-hansard skipped. No invented yeas. Leftover +1 Larry Brock charter 2026-08-21.",
-  "roster_source": "https://www.ourcommons.ca/members/en/search/csv",
+  "roster_source": "https://www.wikidata.org/wiki/Q475689",
   "honest_complete": true
 }

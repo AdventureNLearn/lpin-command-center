@@ -1,0 +1,59 @@
+{
+  "iso2": "lc",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q760",
+  "bodies": [
+    {
+      "qid": "Q1282775",
+      "label": "House of Assembly of Saint Lucia",
+      "seats": 17,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1563075",
+      "label": "Senate of Saint Lucia",
+      "seats": 11,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1563736",
+      "label": "Parliament of Saint Lucia",
+      "seats": 0,
+      "web": "https://parliament.govt.lc/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "House of Assembly of Saint Lucia",
+    "Senate of Saint Lucia"
+  ],
+  "seats": 28,
+  "items": [
+    {
+      "id": "Q1282775",
+      "name": "House of Assembly of Saint Lucia",
+      "kind": "chamber",
+      "seats": 17,
+      "url": "https://www.wikidata.org/wiki/Q1282775"
+    },
+    {
+      "id": "Q1563075",
+      "name": "Senate of Saint Lucia",
+      "kind": "chamber",
+      "seats": 11,
+      "url": "https://www.wikidata.org/wiki/Q1563075"
+    },
+    {
+      "id": "Q1563736",
+      "name": "Parliament of Saint Lucia",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://parliament.govt.lc/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

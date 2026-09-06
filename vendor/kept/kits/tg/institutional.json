@@ -1,0 +1,44 @@
+{
+  "iso2": "tg",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q945",
+  "bodies": [
+    {
+      "qid": "Q21296004",
+      "label": "Member of the National Assembly of Togo",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1969578",
+      "label": "National Assembly",
+      "seats": 81,
+      "web": "http://www.assemblee-nationale.tg",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Member of the National Assembly of Togo"
+  ],
+  "seats": 81,
+  "items": [
+    {
+      "id": "Q21296004",
+      "name": "Member of the National Assembly of Togo",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q21296004"
+    },
+    {
+      "id": "Q1969578",
+      "name": "National Assembly",
+      "kind": "parliament",
+      "seats": 81,
+      "url": "http://www.assemblee-nationale.tg"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

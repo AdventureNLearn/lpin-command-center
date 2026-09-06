@@ -2,10 +2,10 @@
   "iso2": "ng",
   "name": "Nigeria",
   "region": "africa",
-  "chamber": "House of Representatives",
+  "chamber": "National Assembly of Nigeria",
   "houses": "bicameral",
   "system": "presidential",
-  "seats": 360,
+  "seats": 469,
   "election": "competitive",
   "session": "10th National Assembly (2023–2027)",
   "kit": "scoring",
@@ -21,7 +21,7 @@
     "key_votes": 525,
     "sourced_quotes": 3,
     "pledges": 3,
-    "pledged": 1
+    "pledged": 3
   },
   "capabilities": [
     "members",
@@ -40,7 +40,7 @@
   "lane": "gold-kit-8103",
   "source_live": null,
   "note": "Committees from NASS/NALTF 10th House leadership list (official lists examined; remaining rows packed at 134). Votes are published NASS Act PDFs plus NALTF clerk Act/assent/third-reading reports and billtracker Passed/Assented rows without member yeas. Pledges not invented. Honest incomplete. Leftover Speaker pledges packed from cache (2 added; other sitting members unmatched). Lead merge 2026-08-21: leftover Speaker pledges 3 sourced https; sourced_quotes 3. Other sitting members unmatched. Yeas unpublished, not invented. Lead flag 2026-08-21: hunt-stop leftover pledges 1→3 Speaker https; other sitting unmatched. Yeas unpublished. meta only.",
-  "roster_source": "https://naltf.gov.ng/honorable-members/",
+  "roster_source": "https://www.wikidata.org/wiki/Q2635070",
   "named_donors": false,
   "hunt_stop": true,
   "leftover": {

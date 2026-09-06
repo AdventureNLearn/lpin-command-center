@@ -1,0 +1,59 @@
+{
+  "iso2": "ye",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q805",
+  "bodies": [
+    {
+      "qid": "Q34665845",
+      "label": "Parliament of Yemen",
+      "seats": 0,
+      "web": "http://yemenparliament.gov.ye/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q12239042",
+      "label": "Shura Council",
+      "seats": 111,
+      "web": "http://yemenparliament.gov.ye/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1484102",
+      "label": "House of Representatives",
+      "seats": 301,
+      "web": "http://yemenparliament.gov.ye/",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Shura Council",
+    "House of Representatives"
+  ],
+  "seats": 412,
+  "items": [
+    {
+      "id": "Q34665845",
+      "name": "Parliament of Yemen",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "http://yemenparliament.gov.ye/"
+    },
+    {
+      "id": "Q12239042",
+      "name": "Shura Council",
+      "kind": "chamber",
+      "seats": 111,
+      "url": "http://yemenparliament.gov.ye/"
+    },
+    {
+      "id": "Q1484102",
+      "name": "House of Representatives",
+      "kind": "chamber",
+      "seats": 301,
+      "url": "http://yemenparliament.gov.ye/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

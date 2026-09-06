@@ -3,37 +3,28 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q339033",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 39,
+  "incomplete": true,
+  "claimed_seats": 482,
+  "chambers": [
+    "Palestinian Legislative Council",
+    "Palestinian National Council"
+  ],
   "items": [
     {
-      "id": "marwan-barghouti",
-      "name": "Marwan Barghouti",
+      "id": "mahmoud-al-zahar-q339033",
+      "name": "Mahmoud al-Zahar",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "hamas",
+      "caucus": "Hamas",
       "constituency_label": "",
       "chamber": "Palestinian Legislative Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q364194"
+      "roster_url": "http://www.wikidata.org/entity/Q708854"
     },
     {
-      "id": "ahmad-abu-holi",
-      "name": "Ahmad Abu Holi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Palestinian Legislative Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q126719916"
-    },
-    {
-      "id": "abdel-rahman-al-jamal",
+      "id": "abdel-rahman-al-jamal-q339033",
       "name": "Abdel Rahman Al Jamal",
       "sitting": true,
       "party_id": "unknown",
@@ -46,7 +37,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q126869903"
     },
     {
-      "id": "samira-abdullah-halaykah",
+      "id": "samira-abdullah-halaykah-q339033",
       "name": "Samira Abdullah Halaykah",
       "sitting": true,
       "party_id": "unknown",
@@ -59,20 +50,98 @@
       "roster_url": "http://www.wikidata.org/entity/Q126869855"
     },
     {
-      "id": "hassan-asfour",
-      "name": "Hassan Asfour",
+      "id": "rawhi-fattouh-q339033",
+      "name": "Rawhi Fattouh",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "fatah",
+      "caucus": "Fatah",
       "constituency_label": "",
       "chamber": "Palestinian Legislative Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q96483773"
+      "roster_url": "http://www.wikidata.org/entity/Q962747"
     },
     {
-      "id": "nayef-rajoub",
+      "id": "nabil-amr-q339033",
+      "name": "Nabil Amr",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1800210"
+    },
+    {
+      "id": "mu-awiyah-al-misri-q339033",
+      "name": "Muʻāwiyah al-Miṣrī",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Nablus Governorate",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q106366504"
+    },
+    {
+      "id": "mohammed-dahlan-q339033",
+      "name": "Mohammed Dahlan",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q970094"
+    },
+    {
+      "id": "saeb-erekat-q339033",
+      "name": "Saeb Erekat",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q970706"
+    },
+    {
+      "id": "hikmat-zaid-q339033",
+      "name": "Hikmat Zaid",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "Jenin Governorate",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q99826716"
+    },
+    {
+      "id": "fakhri-shaqoura-q339033",
+      "name": "Fakhri Shaqoura",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "Gaza Governorate",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q136471357"
+    },
+    {
+      "id": "nayef-rajoub-q339033",
       "name": "Nayef Rajoub",
       "sitting": true,
       "party_id": "unknown",
@@ -85,11 +154,24 @@
       "roster_url": "http://www.wikidata.org/entity/Q1279189"
     },
     {
-      "id": "ahmad-al-deek",
+      "id": "nabeel-shaath-q339033",
+      "name": "Nabeel Shaath",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2915333"
+    },
+    {
+      "id": "ahmad-al-deek-q339033",
       "name": "Ahmad al-Deek",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "fatah",
+      "caucus": "Fatah",
       "constituency_label": "",
       "chamber": "Palestinian Legislative Council",
       "lang": [
@@ -98,20 +180,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q98851214"
     },
     {
-      "id": "jawad-tibi",
-      "name": "Jawad Tibi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Palestinian Legislative Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q99199075"
-    },
-    {
-      "id": "jamil-al-tarifi",
+      "id": "jamil-al-tarifi-q339033",
       "name": "Jamil al-Tarifi",
       "sitting": true,
       "party_id": "unknown",
@@ -124,7 +193,46 @@
       "roster_url": "http://www.wikidata.org/entity/Q99199957"
     },
     {
-      "id": "khaled-tafesh",
+      "id": "dawud-al-zir-q339033",
+      "name": "Dāwūd al-Zīr",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Bethlehem Governorate",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q106448050"
+    },
+    {
+      "id": "zahran-abu-qbyth-q339033",
+      "name": "Zahrān Abū qbyṭh",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Hebron Governorate",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q106448868"
+    },
+    {
+      "id": "ali-muhammad-abu-al-rish-q339033",
+      "name": "ʻAlī Muḥammad Abū al-Rīsh",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Hebron Governorate",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q106448982"
+    },
+    {
+      "id": "khaled-tafesh-q339033",
       "name": "Khaled Tafesh",
       "sitting": true,
       "party_id": "unknown",
@@ -137,7 +245,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q1740487"
     },
     {
-      "id": "ziad-abu-amr",
+      "id": "ziad-abu-amr-q339033",
       "name": "Ziad Abu Amr",
       "sitting": true,
       "party_id": "unknown",
@@ -150,33 +258,46 @@
       "roster_url": "http://www.wikidata.org/entity/Q198279"
     },
     {
-      "id": "khalida-jarrar",
-      "name": "Khalida Jarrar",
+      "id": "jamal-al-shobaki-q339033",
+      "name": "Jamal Al Shobaki",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "Hebron Governorate",
       "chamber": "Palestinian Legislative Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q12210160"
+      "roster_url": "http://www.wikidata.org/entity/Q89281074"
     },
     {
-      "id": "khalil-al-hayya",
-      "name": "Khalil al-Hayya",
+      "id": "burhan-jarrar-q339033",
+      "name": "Burhān Jarrār",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "Jenin Governorate",
       "chamber": "Palestinian Legislative Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q12210796"
+      "roster_url": "http://www.wikidata.org/entity/Q106354056"
     },
     {
-      "id": "saloum-cohen",
+      "id": "fayiz-zaydan-q339033",
+      "name": "Fāyiz Zaydān",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "Nablus Governorate",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q106365849"
+    },
+    {
+      "id": "saloum-cohen-q339033",
       "name": "Saloum Cohen",
       "sitting": true,
       "party_id": "unknown",
@@ -189,8 +310,21 @@
       "roster_url": "http://www.wikidata.org/entity/Q2067443"
     },
     {
-      "id": "ahmad-nasr",
-      "name": "Aḥmad Naṣr",
+      "id": "ahmad-zughayr-q339033",
+      "name": "Ahmad Zughayr",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "Quds Governorate",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q106353918"
+    },
+    {
+      "id": "bisharah-dawud-q339033",
+      "name": "Bishārah Dāwūd",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -199,49 +333,23 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q104214567"
+      "roster_url": "http://www.wikidata.org/entity/Q106448250"
     },
     {
-      "id": "hanan-ashrawi",
-      "name": "Hanan Ashrawi",
+      "id": "jawad-tibi-q339033",
+      "name": "Jawad Tibi",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "fatah",
+      "caucus": "Fatah",
       "constituency_label": "",
       "chamber": "Palestinian Legislative Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q237143"
+      "roster_url": "http://www.wikidata.org/entity/Q99199075"
     },
     {
-      "id": "haidar-abdel-shafi",
-      "name": "Haidar Abdel-Shafi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Palestinian Legislative Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2587345"
-    },
-    {
-      "id": "aziz-duwaik",
-      "name": "Aziz Duwaik",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Palestinian Legislative Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q307142"
-    },
-    {
-      "id": "fathi-hamad",
+      "id": "fathi-hamad-q339033",
       "name": "Fathi Hamad",
       "sitting": true,
       "party_id": "unknown",
@@ -254,33 +362,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q2895660"
     },
     {
-      "id": "nabeel-shaath",
-      "name": "Nabeel Shaath",
+      "id": "azzam-al-ahmad-q339033",
+      "name": "Azzam al-Ahmad",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "fatah",
+      "caucus": "Fatah",
       "constituency_label": "",
       "chamber": "Palestinian Legislative Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q2915333"
+      "roster_url": "http://www.wikidata.org/entity/Q739001"
     },
     {
-      "id": "ahmad-sa-adat",
-      "name": "Ahmad Sa'adat",
+      "id": "hakam-balawi-q339033",
+      "name": "Hakam Balawi",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "Tulkarm Governorate",
       "chamber": "Palestinian Legislative Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q400735"
+      "roster_url": "http://www.wikidata.org/entity/Q5640298"
     },
     {
-      "id": "jamil-majdalawi",
+      "id": "jamil-majdalawi-q339033",
       "name": "Jamil Majdalawi",
       "sitting": true,
       "party_id": "unknown",
@@ -293,7 +401,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q428203"
     },
     {
-      "id": "muhammad-abu-tir",
+      "id": "muhammad-abu-tir-q339033",
       "name": "Muhammad Abu Tir",
       "sitting": true,
       "party_id": "unknown",
@@ -306,8 +414,21 @@
       "roster_url": "http://www.wikidata.org/entity/Q465542"
     },
     {
-      "id": "mustafa-barghouti",
-      "name": "Mustafa Barghouti",
+      "id": "muhammad-sulayman-hijazi-q339033",
+      "name": "Muḥammad Sulaymān Ḥijāzī",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "Rafah Governorate",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q106523002"
+    },
+    {
+      "id": "umm-nidal-q339033",
+      "name": "Umm Nidal",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -316,10 +437,49 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q554331"
+      "roster_url": "http://www.wikidata.org/entity/Q3825132"
     },
     {
-      "id": "atef-adwan",
+      "id": "bassam-as-salhi-q339033",
+      "name": "Bassam as-Salhi",
+      "sitting": true,
+      "party_id": "palestinian-people-s-party",
+      "caucus": "Palestinian People's Party",
+      "constituency_label": "",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4868015"
+    },
+    {
+      "id": "jamal-huwayl-q339033",
+      "name": "Jamāl Ḥuwayl",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q120441999"
+    },
+    {
+      "id": "khalil-al-hayya-q339033",
+      "name": "Khalil al-Hayya",
+      "sitting": true,
+      "party_id": "hamas",
+      "caucus": "Hamas",
+      "constituency_label": "",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12210796"
+    },
+    {
+      "id": "atef-adwan-q339033",
       "name": "Atef Adwan",
       "sitting": true,
       "party_id": "unknown",
@@ -332,20 +492,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q4812988"
     },
     {
-      "id": "bassam-as-salhi",
-      "name": "Bassam as-Salhi",
+      "id": "abdul-fatah-dukhan-q339033",
+      "name": "Abdul Fatah Dukhan",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "hamas",
+      "caucus": "Hamas",
       "constituency_label": "",
       "chamber": "Palestinian Legislative Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q4868015"
+      "roster_url": "http://www.wikidata.org/entity/Q12223147"
     },
     {
-      "id": "hatem-qafisha",
+      "id": "salam-fayyad-q339033",
+      "name": "Salam Fayyad",
+      "sitting": true,
+      "party_id": "third-way",
+      "caucus": "Third Way",
+      "constituency_label": "",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57741"
+    },
+    {
+      "id": "hatem-qafisha-q339033",
       "name": "Hatem Qafisha",
       "sitting": true,
       "party_id": "unknown",
@@ -358,33 +531,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q5681301"
     },
     {
-      "id": "mahmoud-al-zahar",
-      "name": "Mahmoud al-Zahar",
+      "id": "salah-tamari-q339033",
+      "name": "Salah Tamari",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "Bethlehem Governorate",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q89488504"
+    },
+    {
+      "id": "rabiha-diab-q339033",
+      "name": "Rabiha Diab",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
       "constituency_label": "",
       "chamber": "Palestinian Legislative Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q708854"
+      "roster_url": "http://www.wikidata.org/entity/Q19661451"
     },
     {
-      "id": "azzam-al-ahmad",
-      "name": "Azzam al-Ahmad",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Palestinian Legislative Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q739001"
-    },
-    {
-      "id": "mahmoud-aloul",
+      "id": "mahmoud-aloul-q339033",
       "name": "Mahmoud Aloul",
       "sitting": true,
       "party_id": "unknown",
@@ -397,8 +570,34 @@
       "roster_url": "http://www.wikidata.org/entity/Q6734311"
     },
     {
-      "id": "intissar-al-wazir",
-      "name": "Intissar al-Wazir",
+      "id": "salah-al-bardawil-q339033",
+      "name": "Salah al-Bardawil",
+      "sitting": true,
+      "party_id": "hamas",
+      "caucus": "Hamas",
+      "constituency_label": "",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q53641533"
+    },
+    {
+      "id": "al-tayeb-abdul-rahim-q339033",
+      "name": "Al Tayeb Abdul Rahim",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12189830"
+    },
+    {
+      "id": "marwan-kanafani-q339033",
+      "name": "Marwān Kanafānī",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -407,23 +606,36 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q10859680"
+      "roster_url": "http://www.wikidata.org/entity/Q106451153"
     },
     {
-      "id": "qais-abd-al-karim",
-      "name": "Qais Abd al-Karim",
+      "id": "musa-alz-bwt-q339033",
+      "name": "Mūsá alzʻbwṭ",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
-      "constituency_label": "",
+      "constituency_label": "Gaza Governorate",
       "chamber": "Palestinian Legislative Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q7265863"
+      "roster_url": "http://www.wikidata.org/entity/Q106522976"
     },
     {
-      "id": "yunis-al-astal",
+      "id": "faraj-al-sarraf-q339033",
+      "name": "Faraj al-Ṣarrāf",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Gaza Governorate",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q106522986"
+    },
+    {
+      "id": "yunis-al-astal-q339033",
       "name": "Yunis Al Astal",
       "sitting": true,
       "party_id": "unknown",
@@ -436,7 +648,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q8061297"
     },
     {
-      "id": "hassan-yousef",
+      "id": "hassan-yousef-q339033",
       "name": "Hassan Yousef",
       "sitting": true,
       "party_id": "unknown",
@@ -449,8 +661,34 @@
       "roster_url": "http://www.wikidata.org/entity/Q962394"
     },
     {
-      "id": "rawhi-fattouh",
-      "name": "Rawhi Fattouh",
+      "id": "hatim-abd-al-qadir-q339033",
+      "name": "Ḥātim ʻAbd al-Qādir",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q99894495"
+    },
+    {
+      "id": "ahmad-abu-holi-q339033",
+      "name": "Ahmad Abu Holi",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q126719916"
+    },
+    {
+      "id": "said-siam-q339033",
+      "name": "Said Siam",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -459,11 +697,128 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q962747"
+      "roster_url": "http://www.wikidata.org/entity/Q731728"
     },
     {
-      "id": "mohammed-dahlan",
-      "name": "Mohammed Dahlan",
+      "id": "ahmad-al-batsh-q339033",
+      "name": "Aḥmad al-Baṭsh",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Quds Governorate",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q106352895"
+    },
+    {
+      "id": "hashim-daraghimah-q339033",
+      "name": "Hāshim Darāghimah",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Tubas Governorate",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q106354726"
+    },
+    {
+      "id": "jamila-abdallah-taha-al-shanti-q339033",
+      "name": "Jamila Abdallah Taha al-Shanti",
+      "sitting": true,
+      "party_id": "hamas",
+      "caucus": "Hamas",
+      "constituency_label": "",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4119641"
+    },
+    {
+      "id": "khalida-jarrar-q339033",
+      "name": "Khalida Jarrar",
+      "sitting": true,
+      "party_id": "popular-front-for-the-liberation-of-palestine",
+      "caucus": "Popular Front for the Liberation of Palestine",
+      "constituency_label": "",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12210160"
+    },
+    {
+      "id": "hassan-asfour-q339033",
+      "name": "Hassan Asfour",
+      "sitting": true,
+      "party_id": "palestine-communist-party",
+      "caucus": "Palestine Communist Party",
+      "constituency_label": "",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q96483773"
+    },
+    {
+      "id": "nahid-munir-rayyis-q339033",
+      "name": "Nāhiḍ Munīr Rayyis",
+      "sitting": true,
+      "party_id": "palestine-liberation-organization",
+      "caucus": "Palestine Liberation Organization",
+      "constituency_label": "",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6959260"
+    },
+    {
+      "id": "abd-al-aziz-shahin-q339033",
+      "name": "ʻAbd al-ʻAzīz Shāhīn",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Rafah Governorate",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q99826721"
+    },
+    {
+      "id": "ahmed-qurei-q339033",
+      "name": "Ahmed Qurei",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q378833"
+    },
+    {
+      "id": "intissar-al-wazir-q339033",
+      "name": "Intissar al-Wazir",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "Gaza Governorate",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q10859680"
+    },
+    {
+      "id": "rawia-al-shawa-q339033",
+      "name": "Rawia Al Shawa",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -472,11 +827,232 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q970094"
+      "roster_url": "http://www.wikidata.org/entity/Q46998088"
     },
     {
-      "id": "saeb-erekat",
-      "name": "Saeb Erekat",
+      "id": "haidar-abdel-shafi-q339033",
+      "name": "Haidar Abdel-Shafi",
+      "sitting": true,
+      "party_id": "palestinian-national-initiative",
+      "caucus": "Palestinian National Initiative",
+      "constituency_label": "",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2587345"
+    },
+    {
+      "id": "imil-jarjoui-q339033",
+      "name": "Imil Jarjoui",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Quds Governorate",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6004056"
+    },
+    {
+      "id": "jamila-saidam-q339033",
+      "name": "Jamila Saidam",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Deir al-Balah Governorate",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q101000941"
+    },
+    {
+      "id": "aziz-duwaik-q339033",
+      "name": "Aziz Duwaik",
+      "sitting": true,
+      "party_id": "hamas",
+      "caucus": "Hamas",
+      "constituency_label": "",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q307142"
+    },
+    {
+      "id": "ahmad-nasr-q339033",
+      "name": "Aḥmad Naṣr",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q104214567"
+    },
+    {
+      "id": "rafiq-shakir-natshah-q339033",
+      "name": "Rafiq Shakir Natshah",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q22932808"
+    },
+    {
+      "id": "ra-fat-al-najjar-q339033",
+      "name": "Raʼfat al-Najjār",
+      "sitting": true,
+      "party_id": "popular-front-for-the-liberation-of-palestine",
+      "caucus": "Popular Front for the Liberation of Palestine",
+      "constituency_label": "Khan Yunis Governorate",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q106522997"
+    },
+    {
+      "id": "fakhri-turkuman-q339033",
+      "name": "Fakhrī Turkumān",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Jenin Governorate",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q99910712"
+    },
+    {
+      "id": "mofeed-abd-rabbo-q339033",
+      "name": "Mofeed Abd Rabbo",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "Tulkarm Governorate",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q106354875"
+    },
+    {
+      "id": "hanan-ashrawi-q339033",
+      "name": "Hanan Ashrawi",
+      "sitting": true,
+      "party_id": "third-way",
+      "caucus": "Third Way",
+      "constituency_label": "",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q237143"
+    },
+    {
+      "id": "ziad-abuzayyad-q339033",
+      "name": "Ziad Abuzayyad",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Quds Governorate",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7930556"
+    },
+    {
+      "id": "uthman-ghshash-q339033",
+      "name": "ʻUthmān ghshāsh",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "Qalqilya Governorate",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q106447886"
+    },
+    {
+      "id": "jamal-shati-q339033",
+      "name": "Jamal Shati",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "Jenin Governorate",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q106354341"
+    },
+    {
+      "id": "ahmad-sa-adat-q339033",
+      "name": "Ahmad Sa'adat",
+      "sitting": true,
+      "party_id": "popular-front-for-the-liberation-of-palestine",
+      "caucus": "Popular Front for the Liberation of Palestine",
+      "constituency_label": "",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q400735"
+    },
+    {
+      "id": "hassan-khraisheh-q339033",
+      "name": "Hassan Khraisheh",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q22934354"
+    },
+    {
+      "id": "mustafa-barghouti-q339033",
+      "name": "Mustafa Barghouti",
+      "sitting": true,
+      "party_id": "palestinian-people-s-party",
+      "caucus": "Palestinian People's Party",
+      "constituency_label": "",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q554331"
+    },
+    {
+      "id": "fuad-kokaly-q339033",
+      "name": "Fuad Kokaly",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5506878"
+    },
+    {
+      "id": "abdul-jawad-salih-q339033",
+      "name": "Abdul Jawad Salih",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -485,23 +1061,62 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q970706"
+      "roster_url": "http://www.wikidata.org/entity/Q70497114"
     },
     {
-      "id": "salam-fayyad",
-      "name": "Salam Fayyad",
+      "id": "ahmad-bahar-q339033",
+      "name": "Ahmad Bahar",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "hamas",
+      "caucus": "Hamas",
       "constituency_label": "",
       "chamber": "Palestinian Legislative Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q57741"
+      "roster_url": "http://www.wikidata.org/entity/Q2827499"
     },
     {
-      "id": "mahmoud-da-as",
+      "id": "ghazi-hanania-q339033",
+      "name": "Ghazi Hanania",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5556060"
+    },
+    {
+      "id": "qais-abd-al-karim-q339033",
+      "name": "Qais Abd al-Karim",
+      "sitting": true,
+      "party_id": "democratic-front-for-the-liberation-of-palestine",
+      "caucus": "Democratic Front for the Liberation of Palestine",
+      "constituency_label": "",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7265863"
+    },
+    {
+      "id": "dalal-salameh-q339033",
+      "name": "Dalal Salameh",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "Nablus Governorate",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q100901258"
+    },
+    {
+      "id": "mahmoud-da-as-q339033",
       "name": "Mahmoud Da'as",
       "sitting": true,
       "party_id": "unknown",
@@ -512,6 +1127,396 @@
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q78233205"
+    },
+    {
+      "id": "qadura-fares-q339033",
+      "name": "Qadura Fares",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "Ramallah and al-Bireh Governorate",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7265790"
+    },
+    {
+      "id": "ismail-haniyeh-q339033",
+      "name": "Ismail Haniyeh",
+      "sitting": true,
+      "party_id": "hamas",
+      "caucus": "Hamas",
+      "constituency_label": "",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q152378"
+    },
+    {
+      "id": "marwan-barghouti-q339033",
+      "name": "Marwan Barghouti",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "",
+      "chamber": "Palestinian Legislative Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q364194"
+    },
+    {
+      "id": "shakeeb-jayyusi-q1585629",
+      "name": "Shakeeb Jayyusi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Palestinian National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q122764195"
+    },
+    {
+      "id": "shakeeb-dallal-q1585629",
+      "name": "Shakeeb Dallal",
+      "sitting": true,
+      "party_id": "palestine-arab-workers-society",
+      "caucus": "Palestine Arab Workers Society",
+      "constituency_label": "",
+      "chamber": "Palestinian National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3481256"
+    },
+    {
+      "id": "najib-al-ahmad-q1585629",
+      "name": "Najīb al-Aḥmad",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Palestinian National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q79402174"
+    },
+    {
+      "id": "rawhi-fattouh-q1585629",
+      "name": "Rawhi Fattouh",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "",
+      "chamber": "Palestinian National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q962747"
+    },
+    {
+      "id": "hilmi-hanoun-q1585629",
+      "name": "Hilmi Hanoun",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "",
+      "chamber": "Palestinian National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q115677439"
+    },
+    {
+      "id": "maha-jayyusi-q1585629",
+      "name": "Maha Jayyusi",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "",
+      "chamber": "Palestinian National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q132684296"
+    },
+    {
+      "id": "abu-ali-mustafa-q1585629",
+      "name": "Abu Ali Mustafa",
+      "sitting": true,
+      "party_id": "popular-front-for-the-liberation-of-palestine",
+      "caucus": "Popular Front for the Liberation of Palestine",
+      "constituency_label": "",
+      "chamber": "Palestinian National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q334795"
+    },
+    {
+      "id": "abdullah-abu-samhadana-q1585629",
+      "name": "Abdullah Abu Samhadana",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "",
+      "chamber": "Palestinian National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q89170033"
+    },
+    {
+      "id": "hashem-dajani-q1585629",
+      "name": "Hashem Dajani",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Palestinian National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97168287"
+    },
+    {
+      "id": "mofeed-abd-rabbo-q1585629",
+      "name": "Mofeed Abd Rabbo",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "",
+      "chamber": "Palestinian National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q106354875"
+    },
+    {
+      "id": "abdul-majeed-tayeh-q1585629",
+      "name": "Abdul Majeed Tayeh",
+      "sitting": true,
+      "party_id": "ba-ath-party",
+      "caucus": "Ba'ath Party",
+      "constituency_label": "",
+      "chamber": "Palestinian National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q120001289"
+    },
+    {
+      "id": "abd-al-aziz-al-hajj-q1585629",
+      "name": "ʻAbd al-ʻAzīz al-Ḥājj",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Palestinian National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q101112386"
+    },
+    {
+      "id": "majed-mohsen-q1585629",
+      "name": "Majed Mohsen",
+      "sitting": true,
+      "party_id": "ba-ath-party",
+      "caucus": "Ba'ath Party",
+      "constituency_label": "",
+      "chamber": "Palestinian National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q122738833"
+    },
+    {
+      "id": "ahmad-al-farra-q1585629",
+      "name": "Ahmad al-Farra",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "",
+      "chamber": "Palestinian National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q106678761"
+    },
+    {
+      "id": "jamil-shehadeh-q1585629",
+      "name": "Jamil Shehadeh",
+      "sitting": true,
+      "party_id": "ba-ath-party",
+      "caucus": "Ba'ath Party",
+      "constituency_label": "",
+      "chamber": "Palestinian National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6758841"
+    },
+    {
+      "id": "abd-al-hamid-al-sayih-q1585629",
+      "name": "Abd al-Hamid al-Sayih",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Palestinian National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20410966"
+    },
+    {
+      "id": "shawqi-sabha-q1585629",
+      "name": "Shawqi Sabha",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "",
+      "chamber": "Palestinian National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q126681240"
+    },
+    {
+      "id": "saber-aref-q1585629",
+      "name": "Saber Aref",
+      "sitting": true,
+      "party_id": "popular-front-for-the-liberation-of-palestine",
+      "caucus": "Popular Front for the Liberation of Palestine",
+      "constituency_label": "",
+      "chamber": "Palestinian National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q130090294"
+    },
+    {
+      "id": "al-tayeb-abdul-rahim-q1585629",
+      "name": "Al Tayeb Abdul Rahim",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "",
+      "chamber": "Palestinian National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12189830"
+    },
+    {
+      "id": "salim-zanoun-q1585629",
+      "name": "Salim Zanoun",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "",
+      "chamber": "Palestinian National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12216618"
+    },
+    {
+      "id": "qadri-abu-bakr-q1585629",
+      "name": "Qadri Abu Bakr",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "",
+      "chamber": "Palestinian National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q87737031"
+    },
+    {
+      "id": "rima-nazzal-q1585629",
+      "name": "Rima Nazzal",
+      "sitting": true,
+      "party_id": "democratic-front-for-the-liberation-of-palestine",
+      "caucus": "Democratic Front for the Liberation of Palestine",
+      "constituency_label": "",
+      "chamber": "Palestinian National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12214117"
+    },
+    {
+      "id": "salah-al-din-salah-q1585629",
+      "name": "Salah al-Din Salah",
+      "sitting": true,
+      "party_id": "the-nationalism-committee-in-palestine",
+      "caucus": "The Nationalism Committee in Palestine",
+      "constituency_label": "",
+      "chamber": "Palestinian National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q114784690"
+    },
+    {
+      "id": "abd-al-nasser-saleh-q1585629",
+      "name": "Abd al-Nasser Saleh",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "",
+      "chamber": "Palestinian National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q67677582"
+    },
+    {
+      "id": "imad-abu-kishek-q1585629",
+      "name": "Imad Abu Kishek",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "",
+      "chamber": "Palestinian National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q44776622"
+    },
+    {
+      "id": "iyad-jallad-q1585629",
+      "name": "Iyad Jallad",
+      "sitting": true,
+      "party_id": "fatah",
+      "caucus": "Fatah",
+      "constituency_label": "",
+      "chamber": "Palestinian National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q80805166"
+    },
+    {
+      "id": "nayef-jarad-q1585629",
+      "name": "Nayef Jarad",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Palestinian National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116762211"
     }
   ]
 }

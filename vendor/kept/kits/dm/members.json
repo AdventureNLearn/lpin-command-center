@@ -3,37 +3,80 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1297237",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 30,
+  "incomplete": true,
+  "claimed_seats": 21,
+  "chambers": [
+    "Member of the House of Assembly of Dominica",
+    "House of Assembly of Dominica"
+  ],
   "items": [
     {
-      "id": "joshua-francis",
-      "name": "Joshua Francis",
+      "id": "reginald-victor-austrie-q1297237",
+      "name": "Reginald Victor Austrie",
       "sitting": true,
-      "party_id": "united-workers-party",
-      "caucus": "United Workers' Party",
-      "constituency_label": "Roseau South",
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Cottage",
       "chamber": "House of Assembly of Dominica",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q59154091"
+      "roster_url": "http://www.wikidata.org/entity/Q59153953"
     },
     {
-      "id": "roselyn-paul",
-      "name": "Roselyn Paul",
+      "id": "rayburn-john-blackmoore-q1297237",
+      "name": "Rayburn John Blackmoore",
       "sitting": true,
-      "party_id": "dominica-labour-party",
-      "caucus": "Dominica Labour Party",
-      "constituency_label": "Paix Bouche",
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Mahaut",
       "chamber": "House of Assembly of Dominica",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q59154059"
+      "roster_url": "http://www.wikidata.org/entity/Q59153970"
     },
     {
-      "id": "melissa-poponne-skerrit",
+      "id": "johnson-drigo-q1297237",
+      "name": "Johnson Drigo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Castle Bruce",
+      "chamber": "House of Assembly of Dominica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q59153927"
+    },
+    {
+      "id": "petter-saint-jean-q1297237",
+      "name": "Petter Saint-Jean",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "La Plaine",
+      "chamber": "House of Assembly of Dominica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q59153963"
+    },
+    {
+      "id": "justina-charles-q1297237",
+      "name": "Justina Charles",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Grand Bay",
+      "chamber": "House of Assembly of Dominica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q59153958"
+    },
+    {
+      "id": "melissa-poponne-skerrit-q1297237",
       "name": "Melissa Poponne Skerrit",
       "sitting": true,
       "party_id": "unknown",
@@ -46,85 +89,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q99395401"
     },
     {
-      "id": "joseph-isaac",
-      "name": "Joseph Isaac",
-      "sitting": true,
-      "party_id": "united-workers-party",
-      "caucus": "United Workers' Party",
-      "constituency_label": "Roseau Central",
-      "chamber": "House of Assembly of Dominica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q59154082"
-    },
-    {
-      "id": "casius-darroux",
-      "name": "Casius Darroux",
-      "sitting": true,
-      "party_id": "dominica-labour-party",
-      "caucus": "Dominica Labour Party",
-      "constituency_label": "Salybia",
-      "chamber": "House of Assembly of Dominica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q59154151"
-    },
-    {
-      "id": "ivor-stephenson",
-      "name": "Ivor Stephenson",
-      "sitting": true,
-      "party_id": "dominica-labour-party",
-      "caucus": "Dominica Labour Party",
-      "constituency_label": "Morne Jaune/Riviere Cyrique",
-      "chamber": "House of Assembly of Dominica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q59154052"
-    },
-    {
-      "id": "kenneth-darroux",
-      "name": "Kenneth Darroux",
-      "sitting": true,
-      "party_id": "dominica-labour-party",
-      "caucus": "Dominica Labour Party",
-      "constituency_label": "Petite Savanne",
-      "chamber": "House of Assembly of Dominica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q59154066"
-    },
-    {
-      "id": "john-collin-mcintyre",
-      "name": "John Collin McIntyre",
-      "sitting": true,
-      "party_id": "dominica-labour-party",
-      "caucus": "Dominica Labour Party",
-      "constituency_label": "Roseau Valley",
-      "chamber": "House of Assembly of Dominica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q59154099"
-    },
-    {
-      "id": "vince-henderson",
-      "name": "Vince Henderson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Grand Bay",
-      "chamber": "House of Assembly of Dominica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2805923"
-    },
-    {
-      "id": "ian-pinard",
+      "id": "ian-pinard-q1297237",
       "name": "Ian Pinard",
       "sitting": true,
       "party_id": "dominica-labour-party",
@@ -137,7 +102,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q21074937"
     },
     {
-      "id": "lennox-linton",
+      "id": "lennox-linton-q1297237",
       "name": "Lennox Linton",
       "sitting": true,
       "party_id": "united-workers-party",
@@ -150,7 +115,85 @@
       "roster_url": "http://www.wikidata.org/entity/Q28803182"
     },
     {
-      "id": "daniel-lugay",
+      "id": "roselyn-paul-q1297237",
+      "name": "Roselyn Paul",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Paix Bouche",
+      "chamber": "House of Assembly of Dominica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q59154059"
+    },
+    {
+      "id": "casius-darroux-q1297237",
+      "name": "Casius Darroux",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Salybia",
+      "chamber": "House of Assembly of Dominica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q59154151"
+    },
+    {
+      "id": "ivor-stephenson-q1297237",
+      "name": "Ivor Stephenson",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Morne Jaune/Riviere Cyrique",
+      "chamber": "House of Assembly of Dominica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q59154052"
+    },
+    {
+      "id": "kenneth-darroux-q1297237",
+      "name": "Kenneth Darroux",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Petite Savanne",
+      "chamber": "House of Assembly of Dominica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q59154066"
+    },
+    {
+      "id": "joshua-francis-q1297237",
+      "name": "Joshua Francis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Roseau South",
+      "chamber": "House of Assembly of Dominica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q59154091"
+    },
+    {
+      "id": "john-collin-mcintyre-q1297237",
+      "name": "John Collin McIntyre",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Roseau Valley",
+      "chamber": "House of Assembly of Dominica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q59154099"
+    },
+    {
+      "id": "daniel-lugay-q1297237",
       "name": "Daniel Lugay",
       "sitting": true,
       "party_id": "united-workers-party",
@@ -163,46 +206,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q5217975"
     },
     {
-      "id": "worrel-sanford",
-      "name": "Worrel Sanford",
+      "id": "joseph-isaac-q1297237",
+      "name": "Joseph Isaac",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
-      "constituency_label": "",
+      "constituency_label": "Roseau Central",
       "chamber": "House of Assembly of Dominica",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q136327137"
+      "roster_url": "http://www.wikidata.org/entity/Q59154082"
     },
     {
-      "id": "francois-barrie",
-      "name": "Francois Barrie",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "House of Assembly of Dominica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q136384629"
-    },
-    {
-      "id": "delbert-paris",
-      "name": "Delbert Paris",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "House of Assembly of Dominica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q136434101"
-    },
-    {
-      "id": "ezekiel-bazil",
+      "id": "ezekiel-bazil-q1297237",
       "name": "Ezekiel Bazil",
       "sitting": true,
       "party_id": "united-workers-party",
@@ -215,7 +232,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q5423136"
     },
     {
-      "id": "john-fabien",
+      "id": "kelver-darroux-q1297237",
+      "name": "Kelver Darroux",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "St. Joseph",
+      "chamber": "House of Assembly of Dominica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20666482"
+    },
+    {
+      "id": "catherine-daniel-q1297237",
+      "name": "Catherine Daniel",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Colihaut",
+      "chamber": "House of Assembly of Dominica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20666478"
+    },
+    {
+      "id": "john-fabien-q1297237",
       "name": "John Fabien",
       "sitting": true,
       "party_id": "unknown",
@@ -228,7 +271,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q136325044"
     },
     {
-      "id": "roosevelt-skerrit",
+      "id": "pierre-charles-q1297237",
+      "name": "Pierre Charles",
+      "sitting": true,
+      "party_id": "dominica-labour-party",
+      "caucus": "Dominica Labour Party",
+      "constituency_label": "Berekua",
+      "chamber": "House of Assembly of Dominica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1293269"
+    },
+    {
+      "id": "cassanni-laville-q1297237",
+      "name": "Cassanni Laville",
+      "sitting": true,
+      "party_id": "dominica-labour-party",
+      "caucus": "Dominica Labour Party",
+      "constituency_label": "",
+      "chamber": "House of Assembly of Dominica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q114674961"
+    },
+    {
+      "id": "roosevelt-skerrit-q1297237",
       "name": "Roosevelt Skerrit",
       "sitting": true,
       "party_id": "dominica-labour-party",
@@ -241,46 +310,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q57823"
     },
     {
-      "id": "reginald-victor-austrie",
-      "name": "Reginald Victor Austrie",
-      "sitting": true,
-      "party_id": "dominica-labour-party",
-      "caucus": "Dominica Labour Party",
-      "constituency_label": "Cottage",
-      "chamber": "House of Assembly of Dominica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q59153953"
-    },
-    {
-      "id": "johnson-drigo",
-      "name": "Johnson Drigo",
-      "sitting": true,
-      "party_id": "dominica-labour-party",
-      "caucus": "Dominica Labour Party",
-      "constituency_label": "Castle Bruce",
-      "chamber": "House of Assembly of Dominica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q59153927"
-    },
-    {
-      "id": "cassanni-laville",
-      "name": "Cassanni Laville",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "House of Assembly of Dominica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q114674961"
-    },
-    {
-      "id": "denise-charles-pemberton",
+      "id": "denise-charles-pemberton-q1297237",
       "name": "Denise Charles-Pemberton",
       "sitting": true,
       "party_id": "unknown",
@@ -293,46 +323,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q114674963"
     },
     {
-      "id": "rayburn-john-blackmoore",
-      "name": "Rayburn John Blackmoore",
-      "sitting": true,
-      "party_id": "dominica-labour-party",
-      "caucus": "Dominica Labour Party",
-      "constituency_label": "Mahaut",
-      "chamber": "House of Assembly of Dominica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q59153970"
-    },
-    {
-      "id": "kelver-darroux",
-      "name": "Kelver Darroux",
-      "sitting": true,
-      "party_id": "dominica-labour-party",
-      "caucus": "Dominica Labour Party",
-      "constituency_label": "St. Joseph",
-      "chamber": "House of Assembly of Dominica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q20666482"
-    },
-    {
-      "id": "petter-saint-jean",
-      "name": "Petter Saint-Jean",
-      "sitting": true,
-      "party_id": "dominica-labour-party",
-      "caucus": "Dominica Labour Party",
-      "constituency_label": "La Plaine",
-      "chamber": "House of Assembly of Dominica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q59153963"
-    },
-    {
-      "id": "hector-john",
+      "id": "hector-john-q1297237",
       "name": "Hector John",
       "sitting": true,
       "party_id": "united-workers-party",
@@ -345,7 +336,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q5696735"
     },
     {
-      "id": "ian-douglas",
+      "id": "ian-douglas-q1297237",
       "name": "Ian Douglas",
       "sitting": true,
       "party_id": "dominica-labour-party",
@@ -358,8 +349,8 @@
       "roster_url": "http://www.wikidata.org/entity/Q5981435"
     },
     {
-      "id": "justina-charles",
-      "name": "Justina Charles",
+      "id": "vince-henderson-q1297237",
+      "name": "Vince Henderson",
       "sitting": true,
       "party_id": "dominica-labour-party",
       "caucus": "Dominica Labour Party",
@@ -368,33 +359,46 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q59153958"
+      "roster_url": "http://www.wikidata.org/entity/Q2805923"
     },
     {
-      "id": "pierre-charles",
-      "name": "Pierre Charles",
+      "id": "worrel-sanford-q1297237",
+      "name": "Worrel Sanford",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Berekua",
+      "party_id": "united-workers-party",
+      "caucus": "United Workers' Party",
+      "constituency_label": "",
       "chamber": "House of Assembly of Dominica",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q1293269"
+      "roster_url": "http://www.wikidata.org/entity/Q136327137"
     },
     {
-      "id": "catherine-daniel",
-      "name": "Catherine Daniel",
+      "id": "francois-barrie-q1297237",
+      "name": "Francois Barrie",
       "sitting": true,
-      "party_id": "dominica-labour-party",
-      "caucus": "Dominica Labour Party",
-      "constituency_label": "Colihaut",
+      "party_id": "united-workers-party",
+      "caucus": "United Workers' Party",
+      "constituency_label": "",
       "chamber": "House of Assembly of Dominica",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q20666478"
+      "roster_url": "http://www.wikidata.org/entity/Q136384629"
+    },
+    {
+      "id": "delbert-paris-q1297237",
+      "name": "Delbert Paris",
+      "sitting": true,
+      "party_id": "united-workers-party",
+      "caucus": "United Workers' Party",
+      "constituency_label": "",
+      "chamber": "House of Assembly of Dominica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q136434101"
     }
   ]
 }

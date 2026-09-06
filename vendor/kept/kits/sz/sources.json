@@ -3,8 +3,53 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q7138942"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q7138942",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q2117771",
+      "label": "Senate of Eswatini",
+      "url": "https://www.parliament.gov.sz/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q2117771",
+      "label": "Senate of Eswatini (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q2117771",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q7138942",
+      "label": "Parliament of Eswatini",
+      "url": "https://www.parliament.gov.sz/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q7138942",
+      "label": "Parliament of Eswatini (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q7138942",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q5914707",
+      "label": "House of Assembly of Eswatini",
+      "url": "https://www.parliament.gov.sz/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q5914707",
+      "label": "House of Assembly of Eswatini (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q5914707",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

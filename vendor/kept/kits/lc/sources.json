@@ -3,8 +3,39 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1563736"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1563736",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1282775",
+      "label": "House of Assembly of Saint Lucia (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1282775",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1563075",
+      "label": "Senate of Saint Lucia (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1563075",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1563736",
+      "label": "Parliament of Saint Lucia",
+      "url": "https://parliament.govt.lc/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1563736",
+      "label": "Parliament of Saint Lucia (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1563736",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

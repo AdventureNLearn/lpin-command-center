@@ -1,0 +1,59 @@
+{
+  "iso2": "bo",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q750",
+  "bodies": [
+    {
+      "qid": "Q20081431",
+      "label": "Chamber of Deputies of Bolivia",
+      "seats": 130,
+      "web": "https://diputados.gob.bo/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1968458",
+      "label": "Plurinational Legislative Assembly",
+      "seats": 166,
+      "web": "",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q2948392",
+      "label": "Senate of Bolivia",
+      "seats": 36,
+      "web": "https://senado.gob.bo/",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Chamber of Deputies of Bolivia",
+    "Senate of Bolivia"
+  ],
+  "seats": 332,
+  "items": [
+    {
+      "id": "Q20081431",
+      "name": "Chamber of Deputies of Bolivia",
+      "kind": "chamber",
+      "seats": 130,
+      "url": "https://diputados.gob.bo/"
+    },
+    {
+      "id": "Q1968458",
+      "name": "Plurinational Legislative Assembly",
+      "kind": "parliament",
+      "seats": 166,
+      "url": "https://www.wikidata.org/wiki/Q1968458"
+    },
+    {
+      "id": "Q2948392",
+      "name": "Senate of Bolivia",
+      "kind": "chamber",
+      "seats": 36,
+      "url": "https://senado.gob.bo/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

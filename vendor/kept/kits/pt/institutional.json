@@ -1,0 +1,44 @@
+{
+  "iso2": "pt",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q45",
+  "bodies": [
+    {
+      "qid": "Q19953703",
+      "label": "member of the Assembly of the Republic",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q740564",
+      "label": "Assembly of the Republic",
+      "seats": 230,
+      "web": "https://www.parlamento.pt/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "member of the Assembly of the Republic"
+  ],
+  "seats": 230,
+  "items": [
+    {
+      "id": "Q19953703",
+      "name": "member of the Assembly of the Republic",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q19953703"
+    },
+    {
+      "id": "Q740564",
+      "name": "Assembly of the Republic",
+      "kind": "parliament",
+      "seats": 230,
+      "url": "https://www.parlamento.pt/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

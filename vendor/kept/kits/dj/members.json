@@ -3,158 +3,19 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1139363",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 15,
+  "incomplete": true,
+  "claimed_seats": 65,
+  "chambers": [
+    "Member of the National Assembly of Djibouti",
+    "National Assembly"
+  ],
   "items": [
     {
-      "id": "ali-abdi-farah",
-      "name": "Ali Abdi Farah",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2836075"
-    },
-    {
-      "id": "ahmed-mohamed-hassan",
-      "name": "Ahmed Mohamed Hassan",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4695917"
-    },
-    {
-      "id": "moumin-bahdon-farah",
-      "name": "Moumin Bahdon Farah",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3325941"
-    },
-    {
-      "id": "ougoureh-kifleh-ahmed",
-      "name": "Ougoureh Kifleh Ahmed",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3358119"
-    },
-    {
-      "id": "ahmed-boulaleh-barreh",
-      "name": "Ahmed Boulaleh Barreh",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4695772"
-    },
-    {
-      "id": "ali-mohamed-daoud",
-      "name": "Ali Mohamed Daoud",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4725025"
-    },
-    {
-      "id": "barkat-gourad-hamadou",
-      "name": "Barkat Gourad Hamadou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q727071"
-    },
-    {
-      "id": "idriss-arnaoud-ali",
-      "name": "Idriss Arnaoud Ali",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5989732"
-    },
-    {
-      "id": "mohamed-ali-mohamed",
-      "name": "Mohamed Ali Mohamed",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6891014"
-    },
-    {
-      "id": "mohamed-abdoulkader-mohamed",
-      "name": "Mohamed Abdoulkader Mohamed",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6890948"
-    },
-    {
-      "id": "mohamed-dini-farah",
-      "name": "Mohamed Dini Farah",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6891133"
-    },
-    {
-      "id": "souleiman-miyir-ali",
+      "id": "souleiman-miyir-ali-q1139363",
       "name": "Souleiman Miyir Ali",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "people-s-rally-for-progress",
+      "caucus": "People's Rally for Progress",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
@@ -163,7 +24,111 @@
       "roster_url": "http://www.wikidata.org/entity/Q7564454"
     },
     {
-      "id": "aicha-mohamed-robleh",
+      "id": "ahmed-boulaleh-barreh-q1139363",
+      "name": "Ahmed Boulaleh Barreh",
+      "sitting": true,
+      "party_id": "social-democratic-people-s-party",
+      "caucus": "Social Democratic People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4695772"
+    },
+    {
+      "id": "ali-mohamed-daoud-q1139363",
+      "name": "Ali Mohamed Daoud",
+      "sitting": true,
+      "party_id": "front-for-the-restoration-of-unity-and-democracy",
+      "caucus": "Front for the Restoration of Unity and Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4725025"
+    },
+    {
+      "id": "barkat-gourad-hamadou-q1139363",
+      "name": "Barkat Gourad Hamadou",
+      "sitting": true,
+      "party_id": "people-s-rally-for-progress",
+      "caucus": "People's Rally for Progress",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q727071"
+    },
+    {
+      "id": "mohamed-ali-mohamed-q1139363",
+      "name": "Mohamed Ali Mohamed",
+      "sitting": true,
+      "party_id": "people-s-rally-for-progress",
+      "caucus": "People's Rally for Progress",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6891014"
+    },
+    {
+      "id": "idriss-arnaoud-ali-q1139363",
+      "name": "Idriss Arnaoud Ali",
+      "sitting": true,
+      "party_id": "people-s-rally-for-progress",
+      "caucus": "People's Rally for Progress",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5989732"
+    },
+    {
+      "id": "mohamed-abdoulkader-mohamed-q1139363",
+      "name": "Mohamed Abdoulkader Mohamed",
+      "sitting": true,
+      "party_id": "front-for-the-restoration-of-unity-and-democracy",
+      "caucus": "Front for the Restoration of Unity and Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6890948"
+    },
+    {
+      "id": "mohamed-dini-farah-q1139363",
+      "name": "Mohamed Dini Farah",
+      "sitting": true,
+      "party_id": "people-s-rally-for-progress",
+      "caucus": "People's Rally for Progress",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6891133"
+    },
+    {
+      "id": "dileita-mohamed-dileita-q1139363",
+      "name": "Dileita Mohamed Dileita",
+      "sitting": true,
+      "party_id": "people-s-rally-for-progress",
+      "caucus": "People's Rally for Progress",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57683"
+    },
+    {
+      "id": "aicha-mohamed-robleh-q1139363",
       "name": "Aïcha Mohamed Robleh",
       "sitting": true,
       "party_id": "unknown",
@@ -176,11 +141,63 @@
       "roster_url": "http://www.wikidata.org/entity/Q27907150"
     },
     {
-      "id": "aden-robleh-awaleh",
+      "id": "ahmed-mohamed-hassan-q1139363",
+      "name": "Ahmed Mohamed Hassan",
+      "sitting": true,
+      "party_id": "people-s-rally-for-progress",
+      "caucus": "People's Rally for Progress",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4695917"
+    },
+    {
+      "id": "ali-abdi-farah-q1139363",
+      "name": "Ali Abdi Farah",
+      "sitting": true,
+      "party_id": "people-s-rally-for-progress",
+      "caucus": "People's Rally for Progress",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2836075"
+    },
+    {
+      "id": "moumin-bahdon-farah-q1139363",
+      "name": "Moumin Bahdon Farah",
+      "sitting": true,
+      "party_id": "social-democratic-people-s-party",
+      "caucus": "Social Democratic People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3325941"
+    },
+    {
+      "id": "ougoureh-kifleh-ahmed-q1139363",
+      "name": "Ougoureh Kifleh Ahmed",
+      "sitting": true,
+      "party_id": "front-for-the-restoration-of-unity-and-democracy",
+      "caucus": "Front for the Restoration of Unity and Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3358119"
+    },
+    {
+      "id": "aden-robleh-awaleh-q1139363",
       "name": "Aden Robleh Awaleh",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "national-democratic-party",
+      "caucus": "National Democratic Party",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
@@ -189,17 +206,17 @@
       "roster_url": "http://www.wikidata.org/entity/Q967740"
     },
     {
-      "id": "dileita-mohamed-dileita",
-      "name": "Dileita Mohamed Dileita",
+      "id": "hasna-mohamed-dato-q1139363",
+      "name": "Hasna Mohamed Dato",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "people-s-rally-for-progress",
+      "caucus": "People's Rally for Progress",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q57683"
+      "roster_url": "http://www.wikidata.org/entity/Q16193066"
     }
   ]
 }

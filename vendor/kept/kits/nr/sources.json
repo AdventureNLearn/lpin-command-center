@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1972029"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1972029",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21290882",
+      "label": "Member of the Parliament of Nauru (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21290882",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1972029",
+      "label": "Parliament of Nauru",
+      "url": "http://naurugov.nr/parliament-of-nauru.aspx",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1972029",
+      "label": "Parliament of Nauru (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1972029",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

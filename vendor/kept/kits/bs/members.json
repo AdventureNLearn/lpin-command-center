@@ -3,15 +3,267 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1572486",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 3,
+  "incomplete": true,
+  "claimed_seats": 109,
+  "chambers": [
+    "Senate of the Bahamas",
+    "Parliament of The Bahamas",
+    "House of Assembly"
+  ],
   "items": [
     {
-      "id": "margaret-ekpo",
-      "name": "Margaret Ekpo",
+      "id": "mizpah-tertullien-q3510833",
+      "name": "Mizpah Tertullien",
+      "sitting": true,
+      "party_id": "progressive-liberal-party",
+      "caucus": "Progressive Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of the Bahamas",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q48565234"
+    },
+    {
+      "id": "allyson-maynard-gibson-q3510833",
+      "name": "Allyson Maynard Gibson",
+      "sitting": true,
+      "party_id": "progressive-liberal-party",
+      "caucus": "Progressive Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of the Bahamas",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18763806"
+    },
+    {
+      "id": "clifford-darling-q3510833",
+      "name": "Clifford Darling",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of the Bahamas",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1101260"
+    },
+    {
+      "id": "kendal-isaacs-q3510833",
+      "name": "Kendal Isaacs",
+      "sitting": true,
+      "party_id": "free-national-movement",
+      "caucus": "Free National Movement",
+      "constituency_label": "",
+      "chamber": "Senate of the Bahamas",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q62000163"
+    },
+    {
+      "id": "john-delaney-q3510833",
+      "name": "John Delaney",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of the Bahamas",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18685675"
+    },
+    {
+      "id": "gerald-cash-q3510833",
+      "name": "Gerald Cash",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of the Bahamas",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2614145"
+    },
+    {
+      "id": "o-tommy-turnquest-q3510833",
+      "name": "O. Tommy Turnquest",
+      "sitting": true,
+      "party_id": "free-national-movement",
+      "caucus": "Free National Movement",
+      "constituency_label": "",
+      "chamber": "Senate of the Bahamas",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1849724"
+    },
+    {
+      "id": "janet-bostwick-q3510833",
+      "name": "Janet Bostwick",
+      "sitting": true,
+      "party_id": "free-national-movement",
+      "caucus": "Free National Movement",
+      "constituency_label": "",
+      "chamber": "Senate of the Bahamas",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1246386"
+    },
+    {
+      "id": "hope-strachan-q3510833",
+      "name": "Hope Strachan",
+      "sitting": true,
+      "party_id": "progressive-liberal-party",
+      "caucus": "Progressive Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of the Bahamas",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19661243"
+    },
+    {
+      "id": "jerome-fitzgerald-q3510833",
+      "name": "Jerome Fitzgerald",
+      "sitting": true,
+      "party_id": "progressive-liberal-party",
+      "caucus": "Progressive Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of the Bahamas",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16196459"
+    },
+    {
+      "id": "brent-symonette-q3510833",
+      "name": "Brent Symonette",
+      "sitting": true,
+      "party_id": "free-national-movement",
+      "caucus": "Free National Movement",
+      "constituency_label": "",
+      "chamber": "Senate of the Bahamas",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58246"
+    },
+    {
+      "id": "doris-sands-johnson-q3510833",
+      "name": "Doris Sands Johnson",
+      "sitting": true,
+      "party_id": "progressive-liberal-party",
+      "caucus": "Progressive Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of the Bahamas",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q22683073"
+    },
+    {
+      "id": "pleasant-bridgewater-q3510833",
+      "name": "Pleasant Bridgewater",
+      "sitting": true,
+      "party_id": "progressive-liberal-party",
+      "caucus": "Progressive Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of the Bahamas",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7203770"
+    },
+    {
+      "id": "arthur-foulkes-q3510833",
+      "name": "Arthur Foulkes",
+      "sitting": true,
+      "party_id": "progressive-liberal-party",
+      "caucus": "Progressive Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of the Bahamas",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q175892"
+    },
+    {
+      "id": "sharon-r-wilson-q3510833",
+      "name": "Sharon R. Wilson",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of the Bahamas",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57292554"
+    },
+    {
+      "id": "jobeth-coleby-davis-q3510833",
+      "name": "JoBeth Coleby-Davis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of the Bahamas",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108577107"
+    },
+    {
+      "id": "lashell-adderley-q3510833",
+      "name": "Lashell Adderley",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of the Bahamas",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109421249"
+    },
+    {
+      "id": "bertha-isaacs-q3510833",
+      "name": "Bertha Isaacs",
+      "sitting": true,
+      "party_id": "progressive-liberal-party",
+      "caucus": "Progressive Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of the Bahamas",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28648583"
+    },
+    {
+      "id": "michael-clifton-pintard-q3510833",
+      "name": "Michael Clifton Pintard",
+      "sitting": true,
+      "party_id": "free-national-movement",
+      "caucus": "Free National Movement",
+      "constituency_label": "",
+      "chamber": "Senate of the Bahamas",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108030420"
+    },
+    {
+      "id": "margaret-ekpo-q1572486",
+      "name": "Margaret Ekpo",
+      "sitting": true,
+      "party_id": "national-council-of-nigeria-and-the-cameroons",
+      "caucus": "National Council of Nigeria and the Cameroons",
       "constituency_label": "",
       "chamber": "Parliament of The Bahamas",
       "lang": [
@@ -20,7 +272,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q139676529"
     },
     {
-      "id": "ngozi-obiefule",
+      "id": "ngozi-obiefule-q1572486",
       "name": "Ngozi Obiefule",
       "sitting": true,
       "party_id": "unknown",
@@ -33,7 +285,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q139677781"
     },
     {
-      "id": "ayibegiyefa-egba",
+      "id": "ayibegiyefa-egba-q1572486",
       "name": "Ayibegiyefa Egba",
       "sitting": true,
       "party_id": "unknown",
@@ -44,6 +296,539 @@
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q139711209"
+    },
+    {
+      "id": "loretta-butler-turner-q2948139",
+      "name": "Loretta Butler-Turner",
+      "sitting": true,
+      "party_id": "free-national-movement",
+      "caucus": "Free National Movement",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q21005239"
+    },
+    {
+      "id": "harry-oakes-q2948139",
+      "name": "Harry Oakes",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5671351"
+    },
+    {
+      "id": "allyson-maynard-gibson-q2948139",
+      "name": "Allyson Maynard Gibson",
+      "sitting": true,
+      "party_id": "progressive-liberal-party",
+      "caucus": "Progressive Liberal Party",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18763806"
+    },
+    {
+      "id": "alvin-smith-q2948139",
+      "name": "Alvin Smith",
+      "sitting": true,
+      "party_id": "free-national-movement",
+      "caucus": "Free National Movement",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4738228"
+    },
+    {
+      "id": "henry-milton-taylor-q2948139",
+      "name": "Henry Milton Taylor",
+      "sitting": true,
+      "party_id": "progressive-liberal-party",
+      "caucus": "Progressive Liberal Party",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1783867"
+    },
+    {
+      "id": "clifford-darling-q2948139",
+      "name": "Clifford Darling",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1101260"
+    },
+    {
+      "id": "arthur-dion-hanna-q2948139",
+      "name": "Arthur Dion Hanna",
+      "sitting": true,
+      "party_id": "progressive-liberal-party",
+      "caucus": "Progressive Liberal Party",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q709125"
+    },
+    {
+      "id": "bradley-cooper-q2948139",
+      "name": "Bradley Cooper",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4954898"
+    },
+    {
+      "id": "hubert-minnis-q2948139",
+      "name": "Hubert Minnis",
+      "sitting": true,
+      "party_id": "free-national-movement",
+      "caucus": "Free National Movement",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16732648"
+    },
+    {
+      "id": "robert-sweeting-q2948139",
+      "name": "Robert Sweeting",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7350184"
+    },
+    {
+      "id": "o-tommy-turnquest-q2948139",
+      "name": "O. Tommy Turnquest",
+      "sitting": true,
+      "party_id": "free-national-movement",
+      "caucus": "Free National Movement",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1849724"
+    },
+    {
+      "id": "cyril-fountain-q2948139",
+      "name": "Cyril Fountain",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5200721"
+    },
+    {
+      "id": "glenys-hanna-martin-q2948139",
+      "name": "Glenys Hanna Martin",
+      "sitting": true,
+      "party_id": "progressive-liberal-party",
+      "caucus": "Progressive Liberal Party",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19561395"
+    },
+    {
+      "id": "stafford-sands-q2948139",
+      "name": "Stafford Sands",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7596655"
+    },
+    {
+      "id": "wayne-munroe-q2948139",
+      "name": "Wayne Munroe",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7976498"
+    },
+    {
+      "id": "leonard-m-thompson-q2948139",
+      "name": "Leonard M. Thompson",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28007702"
+    },
+    {
+      "id": "etienne-dupuch-q2948139",
+      "name": "Étienne Dupuch",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q8078458"
+    },
+    {
+      "id": "branville-mccartney-q2948139",
+      "name": "Branville McCartney",
+      "sitting": true,
+      "party_id": "democratic-national-alliance",
+      "caucus": "Democratic National Alliance",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4957713"
+    },
+    {
+      "id": "brent-symonette-q2948139",
+      "name": "Brent Symonette",
+      "sitting": true,
+      "party_id": "free-national-movement",
+      "caucus": "Free National Movement",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58246"
+    },
+    {
+      "id": "shane-gibson-q2948139",
+      "name": "Shane Gibson",
+      "sitting": true,
+      "party_id": "progressive-liberal-party",
+      "caucus": "Progressive Liberal Party",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7488076"
+    },
+    {
+      "id": "fred-mitchell-q2948139",
+      "name": "Fred Mitchell",
+      "sitting": true,
+      "party_id": "progressive-liberal-party",
+      "caucus": "Progressive Liberal Party",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3086904"
+    },
+    {
+      "id": "randol-fawkes-q2948139",
+      "name": "Randol Fawkes",
+      "sitting": true,
+      "party_id": "labour-party",
+      "caucus": "Labour Party",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7291760"
+    },
+    {
+      "id": "charles-maynard-q2948139",
+      "name": "Charles Maynard",
+      "sitting": true,
+      "party_id": "free-national-movement",
+      "caucus": "Free National Movement",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5080755"
+    },
+    {
+      "id": "cyril-stevenson-q2948139",
+      "name": "Cyril Stevenson",
+      "sitting": true,
+      "party_id": "progressive-liberal-party",
+      "caucus": "Progressive Liberal Party",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5200888"
+    },
+    {
+      "id": "perry-gomez-q2948139",
+      "name": "Perry Gomez",
+      "sitting": true,
+      "party_id": "progressive-liberal-party",
+      "caucus": "Progressive Liberal Party",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7169784"
+    },
+    {
+      "id": "philip-brave-davis-q2948139",
+      "name": "Philip \"Brave\" Davis",
+      "sitting": true,
+      "party_id": "progressive-liberal-party",
+      "caucus": "Progressive Liberal Party",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7183082"
+    },
+    {
+      "id": "pleasant-bridgewater-q2948139",
+      "name": "Pleasant Bridgewater",
+      "sitting": true,
+      "party_id": "progressive-liberal-party",
+      "caucus": "Progressive Liberal Party",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7203770"
+    },
+    {
+      "id": "arthur-foulkes-q2948139",
+      "name": "Arthur Foulkes",
+      "sitting": true,
+      "party_id": "progressive-liberal-party",
+      "caucus": "Progressive Liberal Party",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q175892"
+    },
+    {
+      "id": "roland-theodore-symonette-q2948139",
+      "name": "Roland Theodore Symonette",
+      "sitting": true,
+      "party_id": "free-national-movement",
+      "caucus": "Free National Movement",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2064259"
+    },
+    {
+      "id": "zhivargo-laing-q2948139",
+      "name": "Zhivargo Laing",
+      "sitting": true,
+      "party_id": "free-national-movement",
+      "caucus": "Free National Movement",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q8070863"
+    },
+    {
+      "id": "renward-wells-q2948139",
+      "name": "Renward Wells",
+      "sitting": true,
+      "party_id": "progressive-liberal-party",
+      "caucus": "Progressive Liberal Party",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7313601"
+    },
+    {
+      "id": "bernard-nottage-q2948139",
+      "name": "Bernard Nottage",
+      "sitting": true,
+      "party_id": "progressive-liberal-party",
+      "caucus": "Progressive Liberal Party",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q31198288"
+    },
+    {
+      "id": "ryan-pinder-q2948139",
+      "name": "Ryan Pinder",
+      "sitting": true,
+      "party_id": "progressive-liberal-party",
+      "caucus": "Progressive Liberal Party",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7384427"
+    },
+    {
+      "id": "clement-t-maynard-q2948139",
+      "name": "Clement T. Maynard",
+      "sitting": true,
+      "party_id": "progressive-liberal-party",
+      "caucus": "Progressive Liberal Party",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18205990"
+    },
+    {
+      "id": "jobeth-coleby-davis-q2948139",
+      "name": "JoBeth Coleby-Davis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108577107"
+    },
+    {
+      "id": "lisa-rahming-q2948139",
+      "name": "Lisa Rahming",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108938054"
+    },
+    {
+      "id": "patricia-deveaux-q2948139",
+      "name": "Patricia Deveaux",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108990353"
+    },
+    {
+      "id": "william-cartwright-q2948139",
+      "name": "William Cartwright",
+      "sitting": true,
+      "party_id": "progressive-liberal-party",
+      "caucus": "Progressive Liberal Party",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16019330"
+    },
+    {
+      "id": "robert-h-symonette-q2948139",
+      "name": "Robert H. Symonette",
+      "sitting": true,
+      "party_id": "free-national-movement",
+      "caucus": "Free National Movement",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7350198"
+    },
+    {
+      "id": "cynthia-a-pratt-q2948139",
+      "name": "Cynthia A. Pratt",
+      "sitting": true,
+      "party_id": "progressive-liberal-party",
+      "caucus": "Progressive Liberal Party",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4376482"
+    },
+    {
+      "id": "frederick-gottlieb-q2948139",
+      "name": "Frederick Gottlieb",
+      "sitting": true,
+      "party_id": "free-national-movement",
+      "caucus": "Free National Movement",
+      "constituency_label": "",
+      "chamber": "House of Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5497875"
     }
   ]
 }

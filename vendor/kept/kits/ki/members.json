@@ -3,12 +3,42 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1281107",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 3,
+  "incomplete": true,
+  "claimed_seats": 45,
+  "chambers": [
+    "Member of the House of Assembly of Kiribati",
+    "House of Assembly of Kiribati"
+  ],
   "items": [
     {
-      "id": "tangariki-reete",
-      "name": "Tangariki Reete",
+      "id": "natan-teewe-q1281107",
+      "name": "Natan Teewe",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Abemama",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q11790051"
+    },
+    {
+      "id": "tianeti-ioane-q1281107",
+      "name": "Tianeti Ioane",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Aranuka",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q23885045"
+    },
+    {
+      "id": "tebao-awerika-q1281107",
+      "name": "Tebao Awerika",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -17,14 +47,131 @@
       "lang": [
         "en"
       ],
+      "roster_url": "http://www.wikidata.org/entity/Q27056256"
+    },
+    {
+      "id": "teuea-toatu-q1281107",
+      "name": "Teuea Toatu",
+      "sitting": true,
+      "party_id": "tobwaan-kiribati-party",
+      "caucus": "Tobwaan Kiribati Party",
+      "constituency_label": "Abaiang",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q35382382"
+    },
+    {
+      "id": "ieremia-tabai-q1281107",
+      "name": "Ieremia Tabai",
+      "sitting": true,
+      "party_id": "national-progressive-party",
+      "caucus": "National Progressive Party",
+      "constituency_label": "Nonouti",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1299331"
+    },
+    {
+      "id": "kirata-temamaka-q1281107",
+      "name": "Kirata Temamaka",
+      "sitting": true,
+      "party_id": "pillars-of-truth",
+      "caucus": "Pillars of Truth",
+      "constituency_label": "Kiritimati",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q21063380"
+    },
+    {
+      "id": "matiota-kairo-q1281107",
+      "name": "Matiota Kairo",
+      "sitting": true,
+      "party_id": "pillars-of-truth",
+      "caucus": "Pillars of Truth",
+      "constituency_label": "Tamana",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q21063377"
+    },
+    {
+      "id": "tekiau-aretaateta-q1281107",
+      "name": "Tekiau Aretaateta",
+      "sitting": true,
+      "party_id": "pillars-of-truth",
+      "caucus": "Pillars of Truth",
+      "constituency_label": "Tabuaeran",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20675892"
+    },
+    {
+      "id": "taneti-maamau-q1281107",
+      "name": "Taneti Maamau",
+      "sitting": true,
+      "party_id": "tobwaan-kiribati-party",
+      "caucus": "Tobwaan Kiribati Party",
+      "constituency_label": "Onotoa",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q23034482"
+    },
+    {
+      "id": "teima-onorio-q1281107",
+      "name": "Teima Onorio",
+      "sitting": true,
+      "party_id": "pillars-of-truth",
+      "caucus": "Pillars of Truth",
+      "constituency_label": "Arorae",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1268309"
+    },
+    {
+      "id": "tangariki-reete-q1281107",
+      "name": "Tangariki Reete",
+      "sitting": true,
+      "party_id": "pillars-of-truth",
+      "caucus": "Pillars of Truth",
+      "constituency_label": "Betio",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
       "roster_url": "http://www.wikidata.org/entity/Q65373765"
     },
     {
-      "id": "rereao-tetaake-eria",
+      "id": "teburoro-tito-q1281107",
+      "name": "Teburoro Tito",
+      "sitting": true,
+      "party_id": "christian-democratic-party-kiribati",
+      "caucus": "Christian Democratic Party (Kiribati)",
+      "constituency_label": "South Tarawa",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q965155"
+    },
+    {
+      "id": "rereao-tetaake-eria-q1281107",
       "name": "Rereao Tetaake Eria",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "pillars-of-truth",
+      "caucus": "Pillars of Truth",
       "constituency_label": "Teraina",
       "chamber": "House of Assembly of Kiribati",
       "lang": [
@@ -33,7 +180,280 @@
       "roster_url": "http://www.wikidata.org/entity/Q65382648"
     },
     {
-      "id": "vincent-tong",
+      "id": "david-collins-q1281107",
+      "name": "David Collins",
+      "sitting": true,
+      "party_id": "tobwaan-kiribati-party",
+      "caucus": "Tobwaan Kiribati Party",
+      "constituency_label": "Maiana",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q55364066"
+    },
+    {
+      "id": "kourabi-nenem-q1281107",
+      "name": "Kourabi Nenem",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "South Tarawa",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q23771906"
+    },
+    {
+      "id": "david-christopher-q1281107",
+      "name": "David Christopher",
+      "sitting": true,
+      "party_id": "soqosoqo-duavata-ni-lewenivanua",
+      "caucus": "Soqosoqo Duavata ni Lewenivanua",
+      "constituency_label": "Rabi Island",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5230836"
+    },
+    {
+      "id": "rimeta-beniamina-q1281107",
+      "name": "Rimeta Beniamina",
+      "sitting": true,
+      "party_id": "maurin-kiribati-pati",
+      "caucus": "Maurin Kiribati Pati",
+      "constituency_label": "Nikunau",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3432103"
+    },
+    {
+      "id": "england-iuta-q1281107",
+      "name": "England Iuta",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Beru",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108810765"
+    },
+    {
+      "id": "tetabo-nakara-q1281107",
+      "name": "Tetabo Nakara",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Beru",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108810766"
+    },
+    {
+      "id": "kautu-tenaua-q1281107",
+      "name": "Kautu Tenaua",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Abaiang",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108810595"
+    },
+    {
+      "id": "alexander-teabo-q1281107",
+      "name": "Alexander Teabo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Butaritari",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108810773"
+    },
+    {
+      "id": "atarake-natara-q1281107",
+      "name": "Atarake Natara",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "North Tarawa",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108810796"
+    },
+    {
+      "id": "boutu-bateriki-q1281107",
+      "name": "Boutu Bateriki",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "North Tarawa",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108810793"
+    },
+    {
+      "id": "emil-urii-tuuti-q1281107",
+      "name": "Emil Urii Tuuti",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "North Tarawa",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108810795"
+    },
+    {
+      "id": "ioteba-redfern-q1281107",
+      "name": "Ioteba Redfern",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Betio",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108810768"
+    },
+    {
+      "id": "kouraiti-beniato-q1281107",
+      "name": "Kouraiti Beniato",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Onotoa",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108810798"
+    },
+    {
+      "id": "tinian-reiher-q1281107",
+      "name": "Tinian Reiher",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Butaritari",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108810772"
+    },
+    {
+      "id": "banuera-berina-q1281107",
+      "name": "Banuera Berina",
+      "sitting": true,
+      "party_id": "kiribati-first-party",
+      "caucus": "Kiribati First Party",
+      "constituency_label": "Kuria",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q73675623"
+    },
+    {
+      "id": "tekena-toroa-q1281107",
+      "name": "Tekena Toroa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Tobwaan Kiribati Party",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108810590"
+    },
+    {
+      "id": "uriam-iabeta-q1281107",
+      "name": "Uriam Iabeta",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Teraina",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q65552899"
+    },
+    {
+      "id": "tibanga-taratai-q1281107",
+      "name": "Tibanga Taratai",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Banaba Island",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108810763"
+    },
+    {
+      "id": "tekeeua-tarati-q1281107",
+      "name": "Tekeeua Tarati",
+      "sitting": true,
+      "party_id": "tobwaan-kiribati-party",
+      "caucus": "Tobwaan Kiribati Party",
+      "constituency_label": "Tamana",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q98118396"
+    },
+    {
+      "id": "shiu-fung-jong-q1281107",
+      "name": "Shiu-Fung Jong",
+      "sitting": true,
+      "party_id": "pillars-of-truth",
+      "caucus": "Pillars of Truth",
+      "constituency_label": "South Tarawa",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q65548388"
+    },
+    {
+      "id": "willie-tokataake-q1281107",
+      "name": "Willie Tokataake",
+      "sitting": true,
+      "party_id": "tobwaan-kiribati-party",
+      "caucus": "Tobwaan Kiribati Party",
+      "constituency_label": "Abemama",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q98122545"
+    },
+    {
+      "id": "vincent-tong-q1281107",
       "name": "Vincent Tong",
       "sitting": true,
       "party_id": "unknown",
@@ -44,6 +464,97 @@
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q97630864"
+    },
+    {
+      "id": "taberannang-timeon-q1281107",
+      "name": "Taberannang Timeon",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Tabiteuea",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97626692"
+    },
+    {
+      "id": "kobebe-taitai-q1281107",
+      "name": "Kobebe Taitai",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Tabiteuea",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q98086217"
+    },
+    {
+      "id": "taoaba-kaiea-q1281107",
+      "name": "Taoaba Kaiea",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "South Tarawa",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108810807"
+    },
+    {
+      "id": "bonteman-tabera-q1281107",
+      "name": "Bonteman Tabera",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Nonouti",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108810806"
+    },
+    {
+      "id": "titabu-tabane-q1281107",
+      "name": "Titabu Tabane",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Tabiteuea",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108810800"
+    },
+    {
+      "id": "waysang-kum-kee-q1281107",
+      "name": "Waysang Kum Kee",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Nonouti",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108810803"
+    },
+    {
+      "id": "tewaaki-kobae-q1281107",
+      "name": "Tewaaki Kobae",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Tabuaeran",
+      "chamber": "House of Assembly of Kiribati",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108810801"
     }
   ]
 }

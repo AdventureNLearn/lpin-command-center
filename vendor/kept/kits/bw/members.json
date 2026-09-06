@@ -3,50 +3,80 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q859658",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 39,
+  "incomplete": true,
+  "claimed_seats": 63,
+  "chambers": [
+    "member of the National Assembly of Botswana",
+    "National Assembly of Botswana"
+  ],
   "items": [
     {
-      "id": "sheila-tlou",
-      "name": "Sheila Tlou",
+      "id": "ronald-koone-sebego-q859658",
+      "name": "Ronald Koone Sebego",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "botswana-democratic-party",
+      "caucus": "Botswana Democratic Party",
       "constituency_label": "",
       "chamber": "National Assembly of Botswana",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q859625"
+      "roster_url": "http://www.wikidata.org/entity/Q7365027"
     },
     {
-      "id": "margaret-nasha",
-      "name": "Margaret Nasha",
+      "id": "roy-blackbeard-q859658",
+      "name": "Roy Blackbeard",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "botswana-democratic-party",
+      "caucus": "Botswana Democratic Party",
       "constituency_label": "",
       "chamber": "National Assembly of Botswana",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q10948830"
+      "roster_url": "http://www.wikidata.org/entity/Q7372580"
     },
     {
-      "id": "shaw-kgathi",
-      "name": "Shaw Kgathi",
+      "id": "duma-boko-q859658",
+      "name": "Duma Boko",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "umbrella-for-democratic-change",
+      "caucus": "Umbrella for Democratic Change",
       "constituency_label": "",
       "chamber": "National Assembly of Botswana",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q10961094"
+      "roster_url": "http://www.wikidata.org/entity/Q18618881"
     },
     {
-      "id": "thapelo-matsheka",
+      "id": "kitso-mokaila-q859658",
+      "name": "Kitso Mokaila",
+      "sitting": true,
+      "party_id": "botswana-democratic-party",
+      "caucus": "Botswana Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Botswana",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6418347"
+    },
+    {
+      "id": "gaolese-kent-koma-q859658",
+      "name": "Gaolese Kent Koma",
+      "sitting": true,
+      "party_id": "botswana-democratic-party",
+      "caucus": "Botswana Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Botswana",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16017460"
+    },
+    {
+      "id": "thapelo-matsheka-q859658",
       "name": "Thapelo Matsheka",
       "sitting": true,
       "party_id": "unknown",
@@ -59,50 +89,11 @@
       "roster_url": "http://www.wikidata.org/entity/Q96626889"
     },
     {
-      "id": "gaositwe-keagakwa-tibe-chiepe",
-      "name": "Gaositwe Keagakwa Tibe Chiepe",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Botswana",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1493809"
-    },
-    {
-      "id": "mompati-merafhe",
-      "name": "Mompati Merafhe",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Botswana",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2436517"
-    },
-    {
-      "id": "gaolese-kent-koma",
-      "name": "Gaolese Kent Koma",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Botswana",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16017460"
-    },
-    {
-      "id": "moutlakgola-p-k-nwako",
+      "id": "moutlakgola-p-k-nwako-q859658",
       "name": "Moutlakgola P.K. Nwako",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "botswana-democratic-party",
+      "caucus": "Botswana Democratic Party",
       "constituency_label": "",
       "chamber": "National Assembly of Botswana",
       "lang": [
@@ -111,7 +102,59 @@
       "roster_url": "http://www.wikidata.org/entity/Q16092963"
     },
     {
-      "id": "shirley-itumeleng-tiny-segokgo",
+      "id": "botlogile-tshireletso-q859658",
+      "name": "Botlogile Tshireletso",
+      "sitting": true,
+      "party_id": "botswana-democratic-party",
+      "caucus": "Botswana Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Botswana",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q51552139"
+    },
+    {
+      "id": "gladys-kokorwe-q859658",
+      "name": "Gladys Kokorwe",
+      "sitting": true,
+      "party_id": "botswana-democratic-party",
+      "caucus": "Botswana Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Botswana",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18618887"
+    },
+    {
+      "id": "mokgweetsi-masisi-q859658",
+      "name": "Mokgweetsi Masisi",
+      "sitting": true,
+      "party_id": "botswana-democratic-party",
+      "caucus": "Botswana Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Botswana",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18618891"
+    },
+    {
+      "id": "nonofo-molefhi-q859658",
+      "name": "Nonofo Molefhi",
+      "sitting": true,
+      "party_id": "botswana-democratic-party",
+      "caucus": "Botswana Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Botswana",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18618892"
+    },
+    {
+      "id": "shirley-itumeleng-tiny-segokgo-q859658",
       "name": "Shirley Itumeleng Tiny Segokgo",
       "sitting": true,
       "party_id": "unknown",
@@ -124,76 +167,11 @@
       "roster_url": "http://www.wikidata.org/entity/Q16875382"
     },
     {
-      "id": "ponatshego-kedikilwe",
-      "name": "Ponatshego Kedikilwe",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Botswana",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4139832"
-    },
-    {
-      "id": "duma-boko",
-      "name": "Duma Boko",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Botswana",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q18618881"
-    },
-    {
-      "id": "gladys-kokorwe",
-      "name": "Gladys Kokorwe",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Botswana",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q18618887"
-    },
-    {
-      "id": "mokgweetsi-masisi",
-      "name": "Mokgweetsi Masisi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Botswana",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q18618891"
-    },
-    {
-      "id": "nonofo-molefhi",
-      "name": "Nonofo Molefhi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Botswana",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q18618892"
-    },
-    {
-      "id": "edwin-batshu",
+      "id": "edwin-batshu-q859658",
       "name": "Edwin Batshu",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "botswana-democratic-party",
+      "caucus": "Botswana Democratic Party",
       "constituency_label": "",
       "chamber": "National Assembly of Botswana",
       "lang": [
@@ -202,85 +180,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q18763858"
     },
     {
-      "id": "archibald-mogwe",
-      "name": "Archibald Mogwe",
+      "id": "anna-mokgethi-q859658",
+      "name": "Anna Mokgethi",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "botswana-congress-party",
+      "caucus": "Botswana Congress Party",
       "constituency_label": "",
       "chamber": "National Assembly of Botswana",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q4786450"
+      "roster_url": "http://www.wikidata.org/entity/Q98918703"
     },
     {
-      "id": "unity-dow",
-      "name": "Unity Dow",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Botswana",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4945158"
-    },
-    {
-      "id": "charles-tibone",
-      "name": "Charles Tibone",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Botswana",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5082950"
-    },
-    {
-      "id": "daniel-kwelagobe",
-      "name": "Daniel Kwelagobe",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Botswana",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5217839"
-    },
-    {
-      "id": "edison-masisi",
-      "name": "Edison Masisi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Botswana",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5338400"
-    },
-    {
-      "id": "kitso-mokaila",
-      "name": "Kitso Mokaila",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Botswana",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6418347"
-    },
-    {
-      "id": "lesego-motsumi",
+      "id": "lesego-motsumi-q859658",
       "name": "Lesego Motsumi",
       "sitting": true,
       "party_id": "unknown",
@@ -293,7 +206,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q6530320"
     },
     {
-      "id": "matlapeng-ray-molomo",
+      "id": "matlapeng-ray-molomo-q859658",
       "name": "Matlapeng Ray Molomo",
       "sitting": true,
       "party_id": "unknown",
@@ -306,7 +219,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q6787667"
     },
     {
-      "id": "onalepelo-kedikilwe",
+      "id": "onalepelo-kedikilwe-q859658",
       "name": "Onalepelo Kedikilwe",
       "sitting": true,
       "party_id": "unknown",
@@ -319,98 +232,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q133738018"
     },
     {
-      "id": "neo-moroka",
-      "name": "Neo Moroka",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Botswana",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6991894"
-    },
-    {
-      "id": "pelonomi-venson-moitoi",
-      "name": "Pelonomi Venson-Moitoi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Botswana",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7161670"
-    },
-    {
-      "id": "ronald-koone-sebego",
-      "name": "Ronald Koone Sebego",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Botswana",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7365027"
-    },
-    {
-      "id": "roy-blackbeard",
-      "name": "Roy Blackbeard",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Botswana",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7372580"
-    },
-    {
-      "id": "benjamin-steinberg",
-      "name": "Benjamin Steinberg",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Botswana",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q55419370"
-    },
-    {
-      "id": "tshekedi-khama-ii",
-      "name": "Tshekedi Khama II",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Botswana",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7849607"
-    },
-    {
-      "id": "anna-mokgethi",
-      "name": "Anna Mokgethi",
-      "sitting": true,
-      "party_id": "botswana-democratic-party",
-      "caucus": "Botswana Democratic Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Botswana",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q98918703"
-    },
-    {
-      "id": "christian-de-graaff",
+      "id": "christian-de-graaff-q859658",
       "name": "Christian de Graaff",
       "sitting": true,
       "party_id": "unknown",
@@ -423,7 +245,137 @@
       "roster_url": "http://www.wikidata.org/entity/Q28434823"
     },
     {
-      "id": "kenneth-koma",
+      "id": "archibald-mogwe-q859658",
+      "name": "Archibald Mogwe",
+      "sitting": true,
+      "party_id": "botswana-democratic-party",
+      "caucus": "Botswana Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Botswana",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4786450"
+    },
+    {
+      "id": "james-mathokgwane-q859658",
+      "name": "James Mathokgwane",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Botswana",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q30057616"
+    },
+    {
+      "id": "unity-dow-q859658",
+      "name": "Unity Dow",
+      "sitting": true,
+      "party_id": "botswana-congress-party",
+      "caucus": "Botswana Congress Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Botswana",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4945158"
+    },
+    {
+      "id": "kebatshabile-disele-q859658",
+      "name": "Kebatshabile Disele",
+      "sitting": true,
+      "party_id": "botswana-democratic-party",
+      "caucus": "Botswana Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Botswana",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q95886231"
+    },
+    {
+      "id": "gaositwe-keagakwa-tibe-chiepe-q859658",
+      "name": "Gaositwe Keagakwa Tibe Chiepe",
+      "sitting": true,
+      "party_id": "botswana-democratic-party",
+      "caucus": "Botswana Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Botswana",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1493809"
+    },
+    {
+      "id": "benjamin-steinberg-q859658",
+      "name": "Benjamin Steinberg",
+      "sitting": true,
+      "party_id": "botswana-democratic-party",
+      "caucus": "Botswana Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Botswana",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q55419370"
+    },
+    {
+      "id": "tshekedi-khama-ii-q859658",
+      "name": "Tshekedi Khama II",
+      "sitting": true,
+      "party_id": "botswana-democratic-party",
+      "caucus": "Botswana Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Botswana",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7849607"
+    },
+    {
+      "id": "margaret-nasha-q859658",
+      "name": "Margaret Nasha",
+      "sitting": true,
+      "party_id": "botswana-democratic-party",
+      "caucus": "Botswana Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Botswana",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q10948830"
+    },
+    {
+      "id": "mompati-merafhe-q859658",
+      "name": "Mompati Merafhe",
+      "sitting": true,
+      "party_id": "botswana-democratic-party",
+      "caucus": "Botswana Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Botswana",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2436517"
+    },
+    {
+      "id": "seretse-khama-ian-khama-q859658",
+      "name": "Seretse Khama Ian Khama",
+      "sitting": true,
+      "party_id": "botswana-democratic-party",
+      "caucus": "Botswana Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Botswana",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57449"
+    },
+    {
+      "id": "kenneth-koma-q859658",
       "name": "Kenneth Koma",
       "sitting": true,
       "party_id": "unknown",
@@ -436,7 +388,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q47537349"
     },
     {
-      "id": "benjamin-c-thema",
+      "id": "benjamin-c-thema-q859658",
       "name": "Benjamin C. Thema",
       "sitting": true,
       "party_id": "unknown",
@@ -449,8 +401,34 @@
       "roster_url": "http://www.wikidata.org/entity/Q47539053"
     },
     {
-      "id": "botlogile-tshireletso",
-      "name": "Botlogile Tshireletso",
+      "id": "shaw-kgathi-q859658",
+      "name": "Shaw Kgathi",
+      "sitting": true,
+      "party_id": "botswana-democratic-party",
+      "caucus": "Botswana Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Botswana",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q10961094"
+    },
+    {
+      "id": "phandu-skelemani-q859658",
+      "name": "Phandu Skelemani",
+      "sitting": true,
+      "party_id": "botswana-democratic-party",
+      "caucus": "Botswana Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Botswana",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58186"
+    },
+    {
+      "id": "bogolo-kenewendo-q859658",
+      "name": "Bogolo Kenewendo",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -459,10 +437,10 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q51552139"
+      "roster_url": "http://www.wikidata.org/entity/Q51544798"
     },
     {
-      "id": "patrick-p-ralotsia",
+      "id": "patrick-p-ralotsia-q859658",
       "name": "Patrick P. Ralotsia",
       "sitting": true,
       "party_id": "unknown",
@@ -475,7 +453,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q56690542"
     },
     {
-      "id": "russell-england",
+      "id": "neo-moroka-q859658",
+      "name": "Neo Moroka",
+      "sitting": true,
+      "party_id": "botswana-democratic-party",
+      "caucus": "Botswana Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Botswana",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6991894"
+    },
+    {
+      "id": "charles-tibone-q859658",
+      "name": "Charles Tibone",
+      "sitting": true,
+      "party_id": "botswana-democratic-party",
+      "caucus": "Botswana Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Botswana",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5082950"
+    },
+    {
+      "id": "russell-england-q859658",
       "name": "Russell England",
       "sitting": true,
       "party_id": "unknown",
@@ -488,30 +492,95 @@
       "roster_url": "http://www.wikidata.org/entity/Q95877302"
     },
     {
-      "id": "seretse-khama-ian-khama",
-      "name": "Seretse Khama Ian Khama",
+      "id": "pelonomi-venson-moitoi-q859658",
+      "name": "Pelonomi Venson-Moitoi",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "botswana-democratic-party",
+      "caucus": "Botswana Democratic Party",
       "constituency_label": "",
       "chamber": "National Assembly of Botswana",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q57449"
+      "roster_url": "http://www.wikidata.org/entity/Q7161670"
     },
     {
-      "id": "phandu-skelemani",
-      "name": "Phandu Skelemani",
+      "id": "daniel-kwelagobe-q859658",
+      "name": "Daniel Kwelagobe",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "botswana-democratic-party",
+      "caucus": "Botswana Democratic Party",
       "constituency_label": "",
       "chamber": "National Assembly of Botswana",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q58186"
+      "roster_url": "http://www.wikidata.org/entity/Q5217839"
+    },
+    {
+      "id": "gaotlhaetse-utlwang-sankoloba-matlhabaphiri-q859658",
+      "name": "Gaotlhaetse Utlwang Sankoloba Matlhabaphiri",
+      "sitting": true,
+      "party_id": "botswana-democratic-party",
+      "caucus": "Botswana Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Botswana",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97142391"
+    },
+    {
+      "id": "sheila-tlou-q859658",
+      "name": "Sheila Tlou",
+      "sitting": true,
+      "party_id": "botswana-democratic-party",
+      "caucus": "Botswana Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Botswana",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q859625"
+    },
+    {
+      "id": "ponatshego-kedikilwe-q859658",
+      "name": "Ponatshego Kedikilwe",
+      "sitting": true,
+      "party_id": "botswana-democratic-party",
+      "caucus": "Botswana Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Botswana",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4139832"
+    },
+    {
+      "id": "david-magang-q859658",
+      "name": "David Magang",
+      "sitting": true,
+      "party_id": "botswana-democratic-party",
+      "caucus": "Botswana Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Botswana",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q859696"
+    },
+    {
+      "id": "edison-masisi-q859658",
+      "name": "Edison Masisi",
+      "sitting": true,
+      "party_id": "botswana-democratic-party",
+      "caucus": "Botswana Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Botswana",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5338400"
     }
   ]
 }

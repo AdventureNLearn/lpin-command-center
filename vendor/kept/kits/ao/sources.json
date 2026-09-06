@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1969479"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1969479",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q20179557",
+      "label": "Member of the National Assembly of Angola (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q20179557",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1969479",
+      "label": "National Assembly of Angola",
+      "url": "http://www.parlamento.ao/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1969479",
+      "label": "National Assembly of Angola (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1969479",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

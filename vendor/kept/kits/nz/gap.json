@@ -1,6 +1,18 @@
 {
   "iso2": "nz",
-  "items": [],
+  "items": [
+    {
+      "id": "pledges",
+      "hole": "No sourced quote+URL pledges.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "money",
+      "hole": "No sourced money file.",
+      "basis": "Evidence"
+    }
+  ],
   "incomplete": true,
-  "note": "No gap row: no sourced personal pledge in this pack has a verified contrary clerk/Hansard vote stored in votes.json. Honest empty."
+  "retrieved": "2026-09-06",
+  "note": "Full-ISO fill 2026-09-06. Chambers: New Zealand Legislative Council · House of Representatives · New Zealand Parliament. Sitting 123. Empty objects not invented."
 }

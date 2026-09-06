@@ -2,168 +2,33 @@
   "iso2": "ua",
   "items": [
     {
-      "url": "https://www.rada.gov.ua/",
+      "id": "wikidata",
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q176296",
       "kind": "primary",
       "basis": "Evidence"
     },
     {
-      "url": "https://data.rada.gov.ua/ogd/mps/skl9/mps09-data.csv",
+      "id": "wd-q12132454",
+      "label": "People's Deputy of Ukraine (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q12132454",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q176296",
+      "label": "Verkhovna Rada",
+      "url": "https://rada.gov.ua",
       "kind": "primary",
       "basis": "Evidence"
     },
     {
-      "url": "https://people.rada.gov.ua/body/main/en/vr-mps",
-      "kind": "primary",
+      "id": "wd-q176296",
+      "label": "Verkhovna Rada (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q176296",
+      "kind": "index",
       "basis": "Evidence"
-    },
-    {
-      "url": "https://itd.rada.gov.ua/struct/en/Structure/MPs",
-      "kind": "primary",
-      "basis": "Evidence"
-    },
-    {
-      "url": "https://w1.c1.rada.gov.ua/pls/radan_gs09/ns_h1",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://meeting.rada.gov.ua/work/vote/en/voting/skl9",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://itd.rada.gov.ua/struct/en/Structure/TheCommittees",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://data.rada.gov.ua/ogd/mps/skl9/mp-posts_ids.csv",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://data.rada.gov.ua/ogd/zal/ppz/skl9/plenary_result_event-skl9.csv",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://data.rada.gov.ua/ogd/zal/ppz/skl9/plenary_agenda-skl9.csv",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://data.rada.gov.ua/ogd/zal/ppz/skl9/plenary_event_question-skl9.csv",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://data.rada.gov.ua/ogd/zal/ppz/skl9/plenary_vote_results-skl9.tsv",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://data.rada.gov.ua/ogd/zal/ppz/skl9/plenary_deputies-skl9.csv",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://data.rada.gov.ua/open/data/en/plenary_result_event-skl9",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://data.rada.gov.ua/open/data/en/plenary_vote_results-skl9",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://w1.c1.rada.gov.ua/pls/site2/p_komitis",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.cvk.gov.ua/",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.cvk.gov.ua/pls/vnd2019/wp401pt001f01=919.html",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://public.nazk.gov.ua/",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://public.nazk.gov.ua/public_api",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://people.rada.gov.ua/body/main/en/vr-committees",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://nazk.gov.ua/",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://nazk.gov.ua/uk/documents/nakaz-vid-01-01-2026-2-26-deyaki-pytannya-derzhavnogo-finansuvannya-statutnoi-diyalnosti-politychnyh-partiy-u-2026-rotsi",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://nazk.gov.ua/uk/category/monitoring-diyalnosti-nazk/",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://nazk.gov.ua/uk/novyny/rezultaty-diyalnosti-nazk-u-2025-rotsi-derzhavnyy-kontrol-u-sferi-finansuvannya-politychnyh-partiy",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://public.nazk.gov.ua/documents/stats",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.cvk.gov.ua/pls/vnd2019/wp082pt001f01=919pkindrep=2.html",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://nazk.gov.ua/uk/novyny/nazk-zapustylo-onovlenu-versiyu-reestru-politdata-2-0/",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
     }
-  ]
+  ],
+  "incomplete": false
 }

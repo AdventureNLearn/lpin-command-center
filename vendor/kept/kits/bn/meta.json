@@ -3,9 +3,9 @@
   "name": "Brunei Darussalam",
   "region": "",
   "chamber": "Legislative Council of Brunei",
-  "houses": "",
+  "houses": "unicameral",
   "system": "",
-  "seats": 7,
+  "seats": 37,
   "election": "",
   "session": "",
   "kit": "map",
@@ -14,20 +14,30 @@
   ],
   "threshold": 5,
   "counts": {
-    "members": 7,
-    "sitting": 7,
+    "members": 11,
+    "sitting": 11,
     "votes": 0,
     "committees": 0,
     "key_votes": 0,
-    "sourced_quotes": 0
+    "sourced_quotes": 0,
+    "pledged": 0
   },
   "capabilities": [
-    "members"
+    "members",
+    "pledges",
+    "votes",
+    "issues",
+    "gap",
+    "caucus",
+    "committees",
+    "ethics",
+    "money",
+    "method"
   ],
   "basis": "Evidence",
   "incomplete": true,
   "lane": "lpin-wikidata-fill",
   "source_live": null,
-  "note": "Wikidata sitting pull 2026-09-06. 7 named. Vacancies not invented.",
+  "note": "Full-ISO Wikidata fill 2026-09-06. 2 bodies. Sitting 11. Votes/pledges/ethics/money not invented.",
   "roster_source": "https://www.wikidata.org/wiki/Q2396996"
 }

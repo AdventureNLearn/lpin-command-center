@@ -3,8 +3,53 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1501988"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1501988",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q320303",
+      "label": "Chamber of Representatives",
+      "url": "https://parlamento.gub.uy/camarasycomisiones/representantes",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q320303",
+      "label": "Chamber of Representatives (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q320303",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1501988",
+      "label": "General Assembly of Uruguay",
+      "url": "https://parlamento.gub.uy/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1501988",
+      "label": "General Assembly of Uruguay (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1501988",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1149788",
+      "label": "Chamber of senators",
+      "url": "https://parlamento.gub.uy/camarasycomisiones/senadores",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1149788",
+      "label": "Chamber of senators (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1149788",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

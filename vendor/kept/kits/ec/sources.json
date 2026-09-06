@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1319595"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1319595",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1319595",
+      "label": "National Assembly",
+      "url": "https://www.asambleanacional.gob.ec/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1319595",
+      "label": "National Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1319595",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21295982",
+      "label": "Member of the National Assembly of Ecuador (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21295982",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

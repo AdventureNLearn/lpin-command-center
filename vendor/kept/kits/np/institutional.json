@@ -1,6 +1,59 @@
 {
   "iso2": "np",
   "kit": "institutional",
-  "items": [],
-  "incomplete": true
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q837",
+  "bodies": [
+    {
+      "qid": "Q8349995",
+      "label": "National Assembly",
+      "seats": 59,
+      "web": "https://na.parliament.gov.np/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q5915308",
+      "label": "House of Representatives",
+      "seats": 275,
+      "web": "https://hr.parliament.gov.np/np",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q3896143",
+      "label": "Parliament of Nepal",
+      "seats": 0,
+      "web": "https://www.parliament.gov.np/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "National Assembly",
+    "House of Representatives"
+  ],
+  "seats": 334,
+  "items": [
+    {
+      "id": "Q8349995",
+      "name": "National Assembly",
+      "kind": "chamber",
+      "seats": 59,
+      "url": "https://na.parliament.gov.np/"
+    },
+    {
+      "id": "Q5915308",
+      "name": "House of Representatives",
+      "kind": "chamber",
+      "seats": 275,
+      "url": "https://hr.parliament.gov.np/np"
+    },
+    {
+      "id": "Q3896143",
+      "name": "Parliament of Nepal",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://www.parliament.gov.np/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

@@ -1,8 +1,13 @@
 {
   "iso2": "tr",
-  "items": [],
+  "items": [
+    {
+      "id": "money",
+      "hole": "No sourced money file.",
+      "basis": "Evidence"
+    }
+  ],
   "incomplete": true,
-  "examined_pairs": 35,
-  "retrieved": "2026-08-20",
-  "note": "No gap row. Examined 35 sourced-pledge × same-issue clerk vote pairs (9 with yea/nay already in votes.json; 32 on/after pledge date; 0 with unambiguous opposite polarity). votes.json issue_id empty on 36/36 clerk rolls — title mapped at examination only, not written back. Mixed omnibus, bütçe/kesin hesap, treaty approvals, and procedural “maddelerine geçilmesi” not scored as polarity. Kanun teklifi özet pledges are not the floor bills in this sample. Did not invent yeas. Honest empty."
+  "retrieved": "2026-09-06",
+  "note": "Full-ISO fill 2026-09-06. Chambers: member of the Grand National Assembly of Turkey · Grand National Assembly of Turkey. Sitting 591. Empty objects not invented."
 }

@@ -1,0 +1,59 @@
+{
+  "iso2": "si",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q215",
+  "bodies": [
+    {
+      "qid": "Q953810",
+      "label": "National Council of Slovenia",
+      "seats": 40,
+      "web": "http://www.ds-rs.si",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1568676",
+      "label": "National Assembly",
+      "seats": 90,
+      "web": "https://www.dz-rs.si",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1288169",
+      "label": "Slovenian Parliament",
+      "seats": 0,
+      "web": "http://www.dz-rs.si/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "National Council of Slovenia",
+    "National Assembly"
+  ],
+  "seats": 130,
+  "items": [
+    {
+      "id": "Q953810",
+      "name": "National Council of Slovenia",
+      "kind": "chamber",
+      "seats": 40,
+      "url": "http://www.ds-rs.si"
+    },
+    {
+      "id": "Q1568676",
+      "name": "National Assembly",
+      "kind": "chamber",
+      "seats": 90,
+      "url": "https://www.dz-rs.si"
+    },
+    {
+      "id": "Q1288169",
+      "name": "Slovenian Parliament",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "http://www.dz-rs.si/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

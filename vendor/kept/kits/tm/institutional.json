@@ -1,0 +1,59 @@
+{
+  "iso2": "tm",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q874",
+  "bodies": [
+    {
+      "qid": "Q106506537",
+      "label": "National Council of Turkmenistan",
+      "seats": 0,
+      "web": "",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q630145",
+      "label": "Assembly of Turkmenistan",
+      "seats": 125,
+      "web": "https://mejlis.gov.tm/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q949403",
+      "label": "Government Council of Turkmenistan",
+      "seats": 56,
+      "web": "",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Assembly of Turkmenistan",
+    "Government Council of Turkmenistan"
+  ],
+  "seats": 181,
+  "items": [
+    {
+      "id": "Q106506537",
+      "name": "National Council of Turkmenistan",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q106506537"
+    },
+    {
+      "id": "Q630145",
+      "name": "Assembly of Turkmenistan",
+      "kind": "chamber",
+      "seats": 125,
+      "url": "https://mejlis.gov.tm/"
+    },
+    {
+      "id": "Q949403",
+      "name": "Government Council of Turkmenistan",
+      "kind": "chamber",
+      "seats": 56,
+      "url": "https://www.wikidata.org/wiki/Q949403"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

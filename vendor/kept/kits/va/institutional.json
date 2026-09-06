@@ -1,0 +1,44 @@
+{
+  "iso2": "va",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q237",
+  "bodies": [
+    {
+      "qid": "Q21328634",
+      "label": "Member of the Pontifical Commission for the Vatican City State",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q7478146",
+      "label": "Pontifical Commission for the Vatican City State",
+      "seats": 7,
+      "web": "https://www.vaticanstate.va/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Member of the Pontifical Commission for the Vatican City State"
+  ],
+  "seats": 7,
+  "items": [
+    {
+      "id": "Q21328634",
+      "name": "Member of the Pontifical Commission for the Vatican City State",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q21328634"
+    },
+    {
+      "id": "Q7478146",
+      "name": "Pontifical Commission for the Vatican City State",
+      "kind": "parliament",
+      "seats": 7,
+      "url": "https://www.vaticanstate.va/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

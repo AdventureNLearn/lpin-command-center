@@ -1,7 +1,59 @@
 {
   "iso2": "nz",
   "kit": "institutional",
-  "items": [],
   "incomplete": true,
-  "note": ":8103 claimed institutional_kits = 0."
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q664",
+  "bodies": [
+    {
+      "qid": "Q206569",
+      "label": "New Zealand Legislative Council",
+      "seats": 0,
+      "web": "",
+      "kind": "lower"
+    },
+    {
+      "qid": "Q2034424",
+      "label": "House of Representatives",
+      "seats": 120,
+      "web": "http://www.parliament.nz/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1520966",
+      "label": "New Zealand Parliament",
+      "seats": 120,
+      "web": "https://www.parliament.nz/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "New Zealand Legislative Council",
+    "House of Representatives"
+  ],
+  "seats": 240,
+  "items": [
+    {
+      "id": "Q206569",
+      "name": "New Zealand Legislative Council",
+      "kind": "lower",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q206569"
+    },
+    {
+      "id": "Q2034424",
+      "name": "House of Representatives",
+      "kind": "chamber",
+      "seats": 120,
+      "url": "http://www.parliament.nz/"
+    },
+    {
+      "id": "Q1520966",
+      "name": "New Zealand Parliament",
+      "kind": "parliament",
+      "seats": 120,
+      "url": "https://www.parliament.nz/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

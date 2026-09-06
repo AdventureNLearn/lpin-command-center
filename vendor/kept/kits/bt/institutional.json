@@ -1,0 +1,74 @@
+{
+  "iso2": "bt",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q917",
+  "bodies": [
+    {
+      "qid": "Q2668484",
+      "label": "National Council of Bhutan",
+      "seats": 25,
+      "web": "https://nationalcouncil.bt/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q2579023",
+      "label": "National Assembly of Bhutan",
+      "seats": 47,
+      "web": "http://www.nab.gov.bt/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1261215",
+      "label": "King of Bhutan",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q2080399",
+      "label": "Parliament of Bhutan",
+      "seats": 0,
+      "web": "https://parliament.bt/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "National Council of Bhutan",
+    "National Assembly of Bhutan",
+    "King of Bhutan"
+  ],
+  "seats": 72,
+  "items": [
+    {
+      "id": "Q2668484",
+      "name": "National Council of Bhutan",
+      "kind": "chamber",
+      "seats": 25,
+      "url": "https://nationalcouncil.bt/"
+    },
+    {
+      "id": "Q2579023",
+      "name": "National Assembly of Bhutan",
+      "kind": "chamber",
+      "seats": 47,
+      "url": "http://www.nab.gov.bt/"
+    },
+    {
+      "id": "Q1261215",
+      "name": "King of Bhutan",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q1261215"
+    },
+    {
+      "id": "Q2080399",
+      "name": "Parliament of Bhutan",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://parliament.bt/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

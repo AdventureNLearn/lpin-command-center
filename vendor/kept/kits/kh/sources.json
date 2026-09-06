@@ -3,8 +3,46 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1320418"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1320418",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q3055339",
+      "label": "Senate of Cambodia",
+      "url": "http://senate.gov.kh/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q3055339",
+      "label": "Senate of Cambodia (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q3055339",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1320418",
+      "label": "Parliament of Cambodia (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1320418",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1234896",
+      "label": "National Assembly",
+      "url": "https://nac.org.kh/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1234896",
+      "label": "National Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1234896",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

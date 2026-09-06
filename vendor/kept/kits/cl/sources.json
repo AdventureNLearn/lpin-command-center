@@ -1,4 +1,55 @@
 {
   "iso2": "cl",
-  "items": []
+  "items": [
+    {
+      "id": "wikidata",
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1968468",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q2119458",
+      "label": "Senate of Chile",
+      "url": "https://www.senado.cl/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q2119458",
+      "label": "Senate of Chile (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q2119458",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q2119518",
+      "label": "Chamber of Deputies",
+      "url": "http://www.camara.cl",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q2119518",
+      "label": "Chamber of Deputies (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q2119518",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1968468",
+      "label": "National Congress of Chile",
+      "url": "http://www.congreso.cl/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1968468",
+      "label": "National Congress of Chile (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1968468",
+      "kind": "index",
+      "basis": "Evidence"
+    }
+  ],
+  "incomplete": false
 }

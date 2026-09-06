@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q131279"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q131279",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q131279",
+      "label": "Althing",
+      "url": "https://althingi.is",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q131279",
+      "label": "Althing (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q131279",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21272959",
+      "label": "Member of the Althing (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21272959",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1599346"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1599346",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21295978",
+      "label": "Member of the National Assembly of Chad (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21295978",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1599346",
+      "label": "National Assembly",
+      "url": "https://www.assemblee-nationale.td/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1599346",
+      "label": "National Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1599346",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

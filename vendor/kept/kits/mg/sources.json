@@ -3,8 +3,46 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q3919000"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q3919000",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q3919000",
+      "label": "Parliament of Madagascar (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q3919000",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q3510853",
+      "label": "Senate",
+      "url": "http://www.senat.mg/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q3510853",
+      "label": "Senate (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q3510853",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1141206",
+      "label": "National Assembly",
+      "url": "http://www.assemblee-nationale.mg/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1141206",
+      "label": "National Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1141206",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

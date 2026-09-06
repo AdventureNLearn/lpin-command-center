@@ -3,11 +3,54 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1853640",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 94,
+  "incomplete": true,
+  "claimed_seats": 165,
+  "chambers": [
+    "National Assembly",
+    "Member of the National Assembly of Senegal"
+  ],
   "items": [
     {
-      "id": "haoua-dia-thiam",
+      "id": "abdou-fall-q1853640",
+      "name": "Abdou Fall",
+      "sitting": true,
+      "party_id": "senegalese-democratic-party",
+      "caucus": "Senegalese Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2821341"
+    },
+    {
+      "id": "lamine-gueye-q1853640",
+      "name": "Lamine Guèye",
+      "sitting": true,
+      "party_id": "french-section-of-the-workers-international",
+      "caucus": "French Section of the Workers' International",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2840878"
+    },
+    {
+      "id": "aliou-dembo-sow-q1853640",
+      "name": "Aliou Dembo Sow",
+      "sitting": true,
+      "party_id": "senegalese-democratic-party",
+      "caucus": "Senegalese Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2837084"
+    },
+    {
+      "id": "haoua-dia-thiam-q1853640",
       "name": "Haoua Dia Thiam",
       "sitting": true,
       "party_id": "unknown",
@@ -20,7 +63,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q86838114"
     },
     {
-      "id": "ndeye-fatou-guisse",
+      "id": "ndeye-fatou-guisse-q1853640",
       "name": "Ndèye Fatou Guissé",
       "sitting": true,
       "party_id": "unknown",
@@ -33,98 +76,98 @@
       "roster_url": "http://www.wikidata.org/entity/Q125333713"
     },
     {
-      "id": "daouda-dia",
-      "name": "Daouda Dia",
+      "id": "alioune-dieye-q1853640",
+      "name": "Alioune Dieye",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "african-patriots-of-senegal-for-work-ethics-and-fraternity",
+      "caucus": "African Patriots of Senegal for Work, Ethics and Fraternity",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q125352678"
+      "roster_url": "http://www.wikidata.org/entity/Q114440109"
     },
     {
-      "id": "mamadou-seck",
-      "name": "Mamadou Seck",
+      "id": "aminata-tall-q1853640",
+      "name": "Aminata Tall",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "senegalese-democratic-party",
+      "caucus": "Senegalese Democratic Party",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q3284870"
+      "roster_url": "http://www.wikidata.org/entity/Q2843396"
     },
     {
-      "id": "pape-diop",
-      "name": "Pape Diop",
+      "id": "abdourahmane-sow-q1853640",
+      "name": "Abdourahmane Sow",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "socialist-party-of-senegal",
+      "caucus": "Socialist Party of Senegal",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q3362782"
+      "roster_url": "http://www.wikidata.org/entity/Q2821403"
     },
     {
-      "id": "abdoulaye-balde",
-      "name": "Abdoulaye Baldé",
+      "id": "abdou-latif-gueye-q1853640",
+      "name": "Abdou Latif Guèye",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "national-democratic-rally",
+      "caucus": "National Democratic Rally",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q2821358"
+      "roster_url": "http://www.wikidata.org/entity/Q4665146"
     },
     {
-      "id": "thierno-diop",
-      "name": "Thierno Diop",
+      "id": "aminata-mbengue-ndiaye-q1853640",
+      "name": "Aminata Mbengue Ndiaye",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "socialist-party-of-senegal",
+      "caucus": "Socialist Party of Senegal",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q3524093"
+      "roster_url": "http://www.wikidata.org/entity/Q2843389"
     },
     {
-      "id": "mbene-faye",
-      "name": "Mbène Faye",
+      "id": "amadou-cisse-dia-q1853640",
+      "name": "Amadou Cissé Dia",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "senegalese-democratic-bloc",
+      "caucus": "Senegalese Democratic Bloc",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q132125559"
+      "roster_url": "http://www.wikidata.org/entity/Q2840858"
     },
     {
-      "id": "mamadou-dia",
-      "name": "Mamadou Dia",
+      "id": "abdoulaye-fofana-q1853640",
+      "name": "Abdoulaye Fofana",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "senegalese-popular-bloc",
+      "caucus": "Senegalese Popular Bloc",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q739956"
+      "roster_url": "http://www.wikidata.org/entity/Q2821374"
     },
     {
-      "id": "famara-sarr",
+      "id": "famara-sarr-q1853640",
       "name": "Famara Sarr",
       "sitting": true,
       "party_id": "unknown",
@@ -137,59 +180,111 @@
       "roster_url": "http://www.wikidata.org/entity/Q93315809"
     },
     {
-      "id": "daouda-sow",
-      "name": "Daouda Sow",
+      "id": "amath-dansokho-q1853640",
+      "name": "Amath Dansokho",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "party-of-independence-and-labour",
+      "caucus": "Party of Independence and Labour",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q1165453"
+      "roster_url": "http://www.wikidata.org/entity/Q2841351"
     },
     {
-      "id": "awa-diop",
-      "name": "Awa Diop",
+      "id": "mata-sy-diallo-q1853640",
+      "name": "Mata Sy Diallo",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "socialist-party-of-senegal",
+      "caucus": "Socialist Party of Senegal",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q2874643"
+      "roster_url": "http://www.wikidata.org/entity/Q41694165"
     },
     {
-      "id": "mbaye-ndiaye",
-      "name": "Mbaye Ndiaye",
+      "id": "abdoulaye-diack-q1853640",
+      "name": "Abdoulaye Diack",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "senegalese-democratic-party",
+      "caucus": "Senegalese Democratic Party",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q3303502"
+      "roster_url": "http://www.wikidata.org/entity/Q2308862"
     },
     {
-      "id": "abdoulaye-bathily",
-      "name": "Abdoulaye Bathily",
+      "id": "arame-diene-q1853640",
+      "name": "Arame Diène",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "socialist-party-of-senegal",
+      "caucus": "Socialist Party of Senegal",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q2821364"
+      "roster_url": "http://www.wikidata.org/entity/Q41750334"
     },
     {
-      "id": "boubacar-gueye",
+      "id": "modou-fada-diagne-q1853640",
+      "name": "Modou Fada Diagne",
+      "sitting": true,
+      "party_id": "senegalese-democratic-party",
+      "caucus": "Senegalese Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16664872"
+    },
+    {
+      "id": "daouda-dia-q1853640",
+      "name": "Daouda Dia",
+      "sitting": true,
+      "party_id": "alliance-for-the-republic",
+      "caucus": "Alliance for the Republic",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125352678"
+    },
+    {
+      "id": "rokhy-ndiaye-q1853640",
+      "name": "Rokhy Ndiaye",
+      "sitting": true,
+      "party_id": "african-patriots-of-senegal-for-work-ethics-and-fraternity",
+      "caucus": "African Patriots of Senegal for Work, Ethics and Fraternity",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131935228"
+    },
+    {
+      "id": "aminata-gueye-q1853640",
+      "name": "Aminata Gueye",
+      "sitting": true,
+      "party_id": "alliance-for-the-republic",
+      "caucus": "Alliance for the Republic",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q118793240"
+    },
+    {
+      "id": "boubacar-gueye-q1853640",
       "name": "Boubacar Guèye",
       "sitting": true,
       "party_id": "unknown",
@@ -202,20 +297,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q2912002"
     },
     {
-      "id": "moustapha-niasse",
-      "name": "Moustapha Niasse",
+      "id": "habib-thiam-q1853640",
+      "name": "Habib Thiam",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "socialist-party-of-senegal",
+      "caucus": "Socialist Party of Senegal",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q1951094"
+      "roster_url": "http://www.wikidata.org/entity/Q468055"
     },
     {
-      "id": "assane-diagne",
+      "id": "awa-diop-q1853640",
+      "name": "Awa Diop",
+      "sitting": true,
+      "party_id": "senegalese-democratic-party",
+      "caucus": "Senegalese Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2874643"
+    },
+    {
+      "id": "assane-diagne-q1853640",
       "name": "Assane Diagne",
       "sitting": true,
       "party_id": "unknown",
@@ -228,20 +336,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q16267249"
     },
     {
-      "id": "abdoulaye-diack",
-      "name": "Abdoulaye Diack",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2308862"
-    },
-    {
-      "id": "jacques-diouf",
+      "id": "jacques-diouf-q1853640",
       "name": "Jacques Diouf",
       "sitting": true,
       "party_id": "unknown",
@@ -254,206 +349,11 @@
       "roster_url": "http://www.wikidata.org/entity/Q2608966"
     },
     {
-      "id": "abdoul-aziz-ndao",
-      "name": "Abdoul Aziz Ndao",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q308367"
-    },
-    {
-      "id": "abdou-fall",
-      "name": "Abdou Fall",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2821341"
-    },
-    {
-      "id": "abdoulaye-fofana",
-      "name": "Abdoulaye Fofana",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2821374"
-    },
-    {
-      "id": "abdoulaye-makhtar-diop",
-      "name": "Abdoulaye Makhtar Diop",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2821382"
-    },
-    {
-      "id": "abdourahmane-sow",
-      "name": "Abdourahmane Sow",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2821403"
-    },
-    {
-      "id": "abdourahmane-sy",
-      "name": "Abdourahmane Sy",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2821404"
-    },
-    {
-      "id": "aicha-mama-kane",
-      "name": "Aïcha Mama Kane",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2828782"
-    },
-    {
-      "id": "aliou-dembo-sow",
-      "name": "Aliou Dembo Sow",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2837084"
-    },
-    {
-      "id": "amadou-assane-ndoye",
-      "name": "Amadou Assane Ndoye",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2840844"
-    },
-    {
-      "id": "amadou-cisse-dia",
-      "name": "Amadou Cissé Dia",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2840858"
-    },
-    {
-      "id": "lamine-gueye",
-      "name": "Lamine Guèye",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2840878"
-    },
-    {
-      "id": "amath-dansokho",
-      "name": "Amath Dansokho",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2841351"
-    },
-    {
-      "id": "aminata-tall",
-      "name": "Aminata Tall",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2843396"
-    },
-    {
-      "id": "babacar-seye",
-      "name": "Babacar Sèye",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2877741"
-    },
-    {
-      "id": "cheikh-bamba-dieye",
-      "name": "Cheikh Bamba Dièye",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2962096"
-    },
-    {
-      "id": "cheikh-sadibou-fall",
+      "id": "cheikh-sadibou-fall-q1853640",
       "name": "Cheikh Sadibou Fall",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "senegalese-democratic-party",
+      "caucus": "Senegalese Democratic Party",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
@@ -462,46 +362,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q2962114"
     },
     {
-      "id": "diaraf-diouf",
-      "name": "Diaraf Diouf",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3026328"
-    },
-    {
-      "id": "djibo-leyti-ka",
-      "name": "Djibo Leyti Kâ",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3032921"
-    },
-    {
-      "id": "doudou-wade",
-      "name": "Doudou Wade",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3037889"
-    },
-    {
-      "id": "elhadji-diouf",
+      "id": "elhadji-diouf-q1853640",
       "name": "Elhadji Diouf",
       "sitting": true,
       "party_id": "unknown",
@@ -514,8 +375,21 @@
       "roster_url": "http://www.wikidata.org/entity/Q3050868"
     },
     {
-      "id": "georges-tendeng",
-      "name": "Georges Tendeng",
+      "id": "caroline-faye-diop-q1853640",
+      "name": "Caroline Faye Diop",
+      "sitting": true,
+      "party_id": "socialist-party-of-senegal",
+      "caucus": "Socialist Party of Senegal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2939995"
+    },
+    {
+      "id": "abdoulaye-makhtar-diop-q1853640",
+      "name": "Abdoulaye Makhtar Diop",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -524,11 +398,11 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q3103530"
+      "roster_url": "http://www.wikidata.org/entity/Q2821382"
     },
     {
-      "id": "habib-sy",
-      "name": "Habib Sy",
+      "id": "abdourahmane-sy-q1853640",
+      "name": "Abdourahmane Sy",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -537,11 +411,11 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q3125323"
+      "roster_url": "http://www.wikidata.org/entity/Q2821404"
     },
     {
-      "id": "jacques-baudin",
-      "name": "Jacques Baudin",
+      "id": "aicha-mama-kane-q1853640",
+      "name": "Aïcha Mama Kane",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -550,10 +424,49 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q3158206"
+      "roster_url": "http://www.wikidata.org/entity/Q2828782"
     },
     {
-      "id": "john-sleight",
+      "id": "amadou-assane-ndoye-q1853640",
+      "name": "Amadou Assane Ndoye",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2840844"
+    },
+    {
+      "id": "babacar-seye-q1853640",
+      "name": "Babacar Sèye",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2877741"
+    },
+    {
+      "id": "mamadou-dia-q1853640",
+      "name": "Mamadou Dia",
+      "sitting": true,
+      "party_id": "socialist-party-of-senegal",
+      "caucus": "Socialist Party of Senegal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q739956"
+    },
+    {
+      "id": "john-sleight-q1853640",
       "name": "John Sleight",
       "sitting": true,
       "party_id": "unknown",
@@ -566,59 +479,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q3182467"
     },
     {
-      "id": "khalifa-sall",
-      "name": "Khalifa Sall",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3196025"
-    },
-    {
-      "id": "landing-savane",
-      "name": "Landing Savané",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3217062"
-    },
-    {
-      "id": "aissata-tall-sall",
-      "name": "Aissata Tall Sall",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q15542603"
-    },
-    {
-      "id": "madior-diouf",
-      "name": "Madior Diouf",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3276099"
-    },
-    {
-      "id": "magatte-lo",
+      "id": "magatte-lo-q1853640",
       "name": "Magatte Lô",
       "sitting": true,
       "party_id": "unknown",
@@ -631,20 +492,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q3276586"
     },
     {
-      "id": "mbaye-jacques-diop",
-      "name": "Mbaye-Jacques Diop",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3303505"
-    },
-    {
-      "id": "moustapha-mamba-guirassy",
+      "id": "moustapha-mamba-guirassy-q1853640",
       "name": "Moustapha Mamba Guirassy",
       "sitting": true,
       "party_id": "unknown",
@@ -657,20 +505,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q3326366"
     },
     {
-      "id": "obeye-diop",
-      "name": "Obèye Diop",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3348544"
-    },
-    {
-      "id": "oumar-khassimou-dia",
+      "id": "oumar-khassimou-dia-q1853640",
       "name": "Oumar Khassimou Dia",
       "sitting": true,
       "party_id": "unknown",
@@ -683,46 +518,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q3358301"
     },
     {
-      "id": "ousmane-ngom",
-      "name": "Ousmane Ngom",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3358513"
-    },
-    {
-      "id": "ousmane-tanor-dieng",
-      "name": "Ousmane Tanor Dieng",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3358520"
-    },
-    {
-      "id": "robert-sagna",
-      "name": "Robert Sagna",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3395969"
-    },
-    {
-      "id": "talla-sylla",
+      "id": "talla-sylla-q1853640",
       "name": "Talla Sylla",
       "sitting": true,
       "party_id": "unknown",
@@ -735,7 +531,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q3514537"
     },
     {
-      "id": "thierno-ba",
+      "id": "thierno-ba-q1853640",
       "name": "Thierno Bâ",
       "sitting": true,
       "party_id": "unknown",
@@ -748,7 +544,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q3524092"
     },
     {
-      "id": "cherif-el-waly-diop",
+      "id": "cherif-el-waly-diop-q1853640",
       "name": "Cherif El Waly Diop",
       "sitting": true,
       "party_id": "unknown",
@@ -761,72 +557,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q15974724"
     },
     {
-      "id": "youba-sambou",
-      "name": "Youba Sambou",
+      "id": "fara-ndiaye-q1853640",
+      "name": "Fara Ndiaye",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "senegalese-democratic-party",
+      "caucus": "Senegalese Democratic Party",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q3572777"
+      "roster_url": "http://www.wikidata.org/entity/Q62626626"
     },
     {
-      "id": "youssou-diagne",
-      "name": "Youssou Diagne",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3572967"
-    },
-    {
-      "id": "edouard-diatta",
-      "name": "Édouard Diatta",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3579816"
-    },
-    {
-      "id": "habib-thiam",
-      "name": "Habib Thiam",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q468055"
-    },
-    {
-      "id": "modou-fada-diagne",
-      "name": "Modou Fada Diagne",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16664872"
-    },
-    {
-      "id": "papa-babacar-mbaye",
+      "id": "papa-babacar-mbaye-q1853640",
       "name": "Papa Babacar Mbaye",
       "sitting": true,
       "party_id": "unknown",
@@ -839,59 +583,72 @@
       "roster_url": "http://www.wikidata.org/entity/Q16668814"
     },
     {
-      "id": "iba-der-thiam",
-      "name": "Iba Der Thiam",
+      "id": "mbaye-ndiaye-q1853640",
+      "name": "Mbaye Ndiaye",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "alliance-for-the-republic",
+      "caucus": "Alliance for the Republic",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q525063"
+      "roster_url": "http://www.wikidata.org/entity/Q3303502"
     },
     {
-      "id": "demba-diop",
-      "name": "Demba Diop",
+      "id": "mantoulaye-guene-q1853640",
+      "name": "Mantoulaye Guene",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "socialist-party-of-senegal",
+      "caucus": "Socialist Party of Senegal",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q527782"
+      "roster_url": "http://www.wikidata.org/entity/Q103959291"
     },
     {
-      "id": "souleymane-ndene-ndiaye",
-      "name": "Souleymane Ndéné Ndiaye",
+      "id": "cheikh-bamba-dieye-q1853640",
+      "name": "Cheikh Bamba Dièye",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "front-for-socialism-and-democracy-benno-jubel",
+      "caucus": "Front for Socialism and Democracy/Benno Jubël",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q561533"
+      "roster_url": "http://www.wikidata.org/entity/Q2962096"
     },
     {
-      "id": "abdou-latif-gueye",
-      "name": "Abdou Latif Guèye",
+      "id": "sokhna-dieng-mbacke-q1853640",
+      "name": "Sokhna Dieng Mbacké",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "party-for-truth-and-development",
+      "caucus": "Party for Truth and Development",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q4665146"
+      "roster_url": "http://www.wikidata.org/entity/Q106613038"
     },
     {
-      "id": "samba-dioulde-thiam",
+      "id": "doudou-wade-q1853640",
+      "name": "Doudou Wade",
+      "sitting": true,
+      "party_id": "senegalese-democratic-party",
+      "caucus": "Senegalese Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3037889"
+    },
+    {
+      "id": "samba-dioulde-thiam-q1853640",
       "name": "Samba Diouldé Thiam",
       "sitting": true,
       "party_id": "unknown",
@@ -904,7 +661,98 @@
       "roster_url": "http://www.wikidata.org/entity/Q7408951"
     },
     {
-      "id": "amadou-barry",
+      "id": "djibo-leyti-ka-q1853640",
+      "name": "Djibo Leyti Kâ",
+      "sitting": true,
+      "party_id": "socialist-party-of-senegal",
+      "caucus": "Socialist Party of Senegal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3032921"
+    },
+    {
+      "id": "georges-tendeng-q1853640",
+      "name": "Georges Tendeng",
+      "sitting": true,
+      "party_id": "senegalese-democratic-party",
+      "caucus": "Senegalese Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3103530"
+    },
+    {
+      "id": "moustapha-niasse-q1853640",
+      "name": "Moustapha Niasse",
+      "sitting": true,
+      "party_id": "socialist-party-of-senegal",
+      "caucus": "Socialist Party of Senegal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1951094"
+    },
+    {
+      "id": "aida-mbodj-q1853640",
+      "name": "Aida Mbodj",
+      "sitting": true,
+      "party_id": "senegalese-democratic-party",
+      "caucus": "Senegalese Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q284311"
+    },
+    {
+      "id": "diaraf-diouf-q1853640",
+      "name": "Diaraf Diouf",
+      "sitting": true,
+      "party_id": "senegalese-democratic-union",
+      "caucus": "Senegalese Democratic Union",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3026328"
+    },
+    {
+      "id": "habib-sy-q1853640",
+      "name": "Habib Sy",
+      "sitting": true,
+      "party_id": "senegalese-democratic-party",
+      "caucus": "Senegalese Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3125323"
+    },
+    {
+      "id": "mamadou-bamba-ndiaye-q1853640",
+      "name": "Mamadou Bamba Ndiaye",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3284806"
+    },
+    {
+      "id": "amadou-barry-q1853640",
       "name": "Amadou Barry",
       "sitting": true,
       "party_id": "unknown",
@@ -917,8 +765,8 @@
       "roster_url": "http://www.wikidata.org/entity/Q106316254"
     },
     {
-      "id": "mata-sy-diallo",
-      "name": "Mata Sy Diallo",
+      "id": "abdoulaye-balde-q1853640",
+      "name": "Abdoulaye Baldé",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -927,10 +775,101 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q41694165"
+      "roster_url": "http://www.wikidata.org/entity/Q2821358"
     },
     {
-      "id": "joseph-gomis",
+      "id": "jacques-baudin-q1853640",
+      "name": "Jacques Baudin",
+      "sitting": true,
+      "party_id": "socialist-party-of-senegal",
+      "caucus": "Socialist Party of Senegal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3158206"
+    },
+    {
+      "id": "barthelemy-dias-q1853640",
+      "name": "Barthélémy Dias",
+      "sitting": true,
+      "party_id": "socialist-party-of-senegal",
+      "caucus": "Socialist Party of Senegal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110790179"
+    },
+    {
+      "id": "lamine-diack-q1853640",
+      "name": "Lamine Diack",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1639"
+    },
+    {
+      "id": "ramatoulaye-seck-q1853640",
+      "name": "Ramatoulaye Seck",
+      "sitting": true,
+      "party_id": "socialist-party-of-senegal",
+      "caucus": "Socialist Party of Senegal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q43378615"
+    },
+    {
+      "id": "khalifa-sall-q1853640",
+      "name": "Khalifa Sall",
+      "sitting": true,
+      "party_id": "socialist-party-of-senegal",
+      "caucus": "Socialist Party of Senegal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3196025"
+    },
+    {
+      "id": "mamadou-seck-q1853640",
+      "name": "Mamadou Seck",
+      "sitting": true,
+      "party_id": "senegalese-democratic-party",
+      "caucus": "Senegalese Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3284870"
+    },
+    {
+      "id": "pape-diop-q1853640",
+      "name": "Pape Diop",
+      "sitting": true,
+      "party_id": "senegalese-democratic-party",
+      "caucus": "Senegalese Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3362782"
+    },
+    {
+      "id": "joseph-gomis-q1853640",
       "name": "Joseph Gomis",
       "sitting": true,
       "party_id": "unknown",
@@ -943,8 +882,151 @@
       "roster_url": "http://www.wikidata.org/entity/Q57202236"
     },
     {
-      "id": "sokhna-dieng-mbacke",
-      "name": "Sokhna Dieng Mbacké",
+      "id": "daouda-sow-q1853640",
+      "name": "Daouda Sow",
+      "sitting": true,
+      "party_id": "socialist-party-of-senegal",
+      "caucus": "Socialist Party of Senegal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1165453"
+    },
+    {
+      "id": "madior-diouf-q1853640",
+      "name": "Madior Diouf",
+      "sitting": true,
+      "party_id": "national-democratic-rally",
+      "caucus": "National Democratic Rally",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3276099"
+    },
+    {
+      "id": "demba-diop-q1853640",
+      "name": "Demba Diop",
+      "sitting": true,
+      "party_id": "socialist-party-of-senegal",
+      "caucus": "Socialist Party of Senegal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q527782"
+    },
+    {
+      "id": "aissata-tall-sall-q1853640",
+      "name": "Aissata Tall Sall",
+      "sitting": true,
+      "party_id": "socialist-party-of-senegal",
+      "caucus": "Socialist Party of Senegal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15542603"
+    },
+    {
+      "id": "iba-der-thiam-q1853640",
+      "name": "Iba Der Thiam",
+      "sitting": true,
+      "party_id": "convention-of-democrats-and-patriots",
+      "caucus": "Convention of Democrats and Patriots",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q525063"
+    },
+    {
+      "id": "obeye-diop-q1853640",
+      "name": "Obèye Diop",
+      "sitting": true,
+      "party_id": "french-section-of-the-workers-international",
+      "caucus": "French Section of the Workers' International",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3348544"
+    },
+    {
+      "id": "ousmane-ngom-q1853640",
+      "name": "Ousmane Ngom",
+      "sitting": true,
+      "party_id": "senegalese-democratic-party",
+      "caucus": "Senegalese Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3358513"
+    },
+    {
+      "id": "mbaye-jacques-diop-q1853640",
+      "name": "Mbaye-Jacques Diop",
+      "sitting": true,
+      "party_id": "alliance-of-the-forces-of-progress",
+      "caucus": "Alliance of the Forces of Progress",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3303505"
+    },
+    {
+      "id": "abdoulaye-bathily-q1853640",
+      "name": "Abdoulaye Bathily",
+      "sitting": true,
+      "party_id": "democratic-league-movement-for-the-labour-party",
+      "caucus": "Democratic League/Movement for the Labour Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2821364"
+    },
+    {
+      "id": "landing-savane-q1853640",
+      "name": "Landing Savané",
+      "sitting": true,
+      "party_id": "and-jef-african-party-for-democracy-and-socialism",
+      "caucus": "And-Jëf/African Party for Democracy and Socialism",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3217062"
+    },
+    {
+      "id": "ousmane-tanor-dieng-q1853640",
+      "name": "Ousmane Tanor Dieng",
+      "sitting": true,
+      "party_id": "socialist-party-of-senegal",
+      "caucus": "Socialist Party of Senegal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3358520"
+    },
+    {
+      "id": "fatoumata-ka-q1853640",
+      "name": "Fatoumata Ka",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -953,11 +1035,37 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q106613038"
+      "roster_url": "http://www.wikidata.org/entity/Q103958052"
     },
     {
-      "id": "barthelemy-dias",
-      "name": "Barthélémy Dias",
+      "id": "robert-sagna-q1853640",
+      "name": "Robert Sagna",
+      "sitting": true,
+      "party_id": "socialist-party-of-senegal",
+      "caucus": "Socialist Party of Senegal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3395969"
+    },
+    {
+      "id": "thierno-diop-q1853640",
+      "name": "Thierno Diop",
+      "sitting": true,
+      "party_id": "socialist-party-of-senegal",
+      "caucus": "Socialist Party of Senegal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3524093"
+    },
+    {
+      "id": "christian-valantin-q1853640",
+      "name": "Christian Valantin",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -966,10 +1074,101 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q110790179"
+      "roster_url": "http://www.wikidata.org/entity/Q109684191"
     },
     {
-      "id": "adji-diarra-mergane-kanoute",
+      "id": "abdoul-aziz-ndao-q1853640",
+      "name": "Abdoul Aziz Ndao",
+      "sitting": true,
+      "party_id": "socialist-party-of-senegal",
+      "caucus": "Socialist Party of Senegal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q308367"
+    },
+    {
+      "id": "edouard-diatta-q1853640",
+      "name": "Édouard Diatta",
+      "sitting": true,
+      "party_id": "french-section-of-the-workers-international",
+      "caucus": "French Section of the Workers' International",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3579816"
+    },
+    {
+      "id": "youba-sambou-q1853640",
+      "name": "Youba Sambou",
+      "sitting": true,
+      "party_id": "senegalese-democratic-party",
+      "caucus": "Senegalese Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3572777"
+    },
+    {
+      "id": "youssou-diagne-q1853640",
+      "name": "Youssou Diagne",
+      "sitting": true,
+      "party_id": "senegalese-democratic-party",
+      "caucus": "Senegalese Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3572967"
+    },
+    {
+      "id": "souleymane-ndene-ndiaye-q1853640",
+      "name": "Souleymane Ndéné Ndiaye",
+      "sitting": true,
+      "party_id": "senegalese-democratic-party",
+      "caucus": "Senegalese Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q561533"
+    },
+    {
+      "id": "aida-mbaye-q1853640",
+      "name": "Aïda Mbaye",
+      "sitting": true,
+      "party_id": "socialist-party-of-senegal",
+      "caucus": "Socialist Party of Senegal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q40946691"
+    },
+    {
+      "id": "coumba-ndoffene-bouna-diouf-q1853640",
+      "name": "Coumba Ndoffène Bouna Diouf",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q113681283"
+    },
+    {
+      "id": "adji-diarra-mergane-kanoute-q1853640",
       "name": "Adji Diarra Mergane Kanouté",
       "sitting": true,
       "party_id": "unknown",
@@ -982,20 +1181,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q116976699"
     },
     {
-      "id": "aminata-gueye",
-      "name": "Aminata Gueye",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q118793240"
-    },
-    {
-      "id": "balla-moussa-daffe",
+      "id": "balla-moussa-daffe-q1853640",
       "name": "Balla Moussa Daffe",
       "sitting": true,
       "party_id": "unknown",
@@ -1008,46 +1194,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q84030842"
     },
     {
-      "id": "el-hadji-gueye",
-      "name": "El Hadji Gueye",
+      "id": "tambedou-elhadji-ababacar-q1853640",
+      "name": "Tambedou Elhadji Ababacar",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "african-patriots-of-senegal-for-work-ethics-and-fraternity",
+      "caucus": "African Patriots of Senegal for Work, Ethics and Fraternity",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q135854488"
+      "roster_url": "http://www.wikidata.org/entity/Q136324396"
     },
     {
-      "id": "abdoulaye-tall",
-      "name": "Abdoulaye Tall",
+      "id": "ndack-thiam-q1853640",
+      "name": "Ndack Thiam",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "african-patriots-of-senegal-for-work-ethics-and-fraternity",
+      "caucus": "African Patriots of Senegal for Work, Ethics and Fraternity",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q136318273"
+      "roster_url": "http://www.wikidata.org/entity/Q136324588"
     },
     {
-      "id": "rokhy-ndiaye",
-      "name": "Rokhy Ndiaye",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131935228"
-    },
-    {
-      "id": "khoudia-mbaye",
+      "id": "khoudia-mbaye-q1853640",
       "name": "Khoudia Mbaye",
       "sitting": true,
       "party_id": "unknown",
@@ -1060,11 +1233,11 @@
       "roster_url": "http://www.wikidata.org/entity/Q135152714"
     },
     {
-      "id": "fatou-thiam",
+      "id": "fatou-thiam-q1853640",
       "name": "Fatou Thiam",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "senegalese-democratic-party",
+      "caucus": "Senegalese Democratic Party",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
@@ -1073,7 +1246,72 @@
       "roster_url": "http://www.wikidata.org/entity/Q135822309"
     },
     {
-      "id": "mairame-kane",
+      "id": "mbene-faye-q1853640",
+      "name": "Mbène Faye",
+      "sitting": true,
+      "party_id": "african-patriots-of-senegal-for-work-ethics-and-fraternity",
+      "caucus": "African Patriots of Senegal for Work, Ethics and Fraternity",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q132125559"
+    },
+    {
+      "id": "sene-aliou-q1853640",
+      "name": "Sène Aliou",
+      "sitting": true,
+      "party_id": "african-patriots-of-senegal-for-work-ethics-and-fraternity",
+      "caucus": "African Patriots of Senegal for Work, Ethics and Fraternity",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q136687871"
+    },
+    {
+      "id": "diouf-marie-helene-ndofene-q1853640",
+      "name": "Diouf Marie Hélène Ndofene",
+      "sitting": true,
+      "party_id": "african-patriots-of-senegal-for-work-ethics-and-fraternity",
+      "caucus": "African Patriots of Senegal for Work, Ethics and Fraternity",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q136695883"
+    },
+    {
+      "id": "anta-dia-q1853640",
+      "name": "Anta Dia",
+      "sitting": true,
+      "party_id": "african-patriots-of-senegal-for-work-ethics-and-fraternity",
+      "caucus": "African Patriots of Senegal for Work, Ethics and Fraternity",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q136699019"
+    },
+    {
+      "id": "mouramani-kaba-diakite-q1853640",
+      "name": "Mouramani Kaba Diakite",
+      "sitting": true,
+      "party_id": "african-patriots-of-senegal-for-work-ethics-and-fraternity",
+      "caucus": "African Patriots of Senegal for Work, Ethics and Fraternity",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q136699202"
+    },
+    {
+      "id": "mairame-kane-q1853640",
       "name": "Mairame Kane",
       "sitting": true,
       "party_id": "unknown",
@@ -1086,33 +1324,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q135868146"
     },
     {
-      "id": "tambedou-elhadji-ababacar",
-      "name": "Tambedou Elhadji Ababacar",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q136324396"
-    },
-    {
-      "id": "ndack-thiam",
-      "name": "Ndack Thiam",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q136324588"
-    },
-    {
-      "id": "ousmane-thiouf",
+      "id": "ousmane-thiouf-q1853640",
       "name": "Ousmane Thiouf",
       "sitting": true,
       "party_id": "unknown",
@@ -1125,7 +1337,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q136325374"
     },
     {
-      "id": "babacar-varore",
+      "id": "babacar-varore-q1853640",
       "name": "Babacar Varore",
       "sitting": true,
       "party_id": "unknown",
@@ -1138,33 +1350,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q136325493"
     },
     {
-      "id": "sene-aliou",
-      "name": "Sène Aliou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q136687871"
-    },
-    {
-      "id": "diouf-marie-helene-ndofene",
-      "name": "Diouf Marie Hélène Ndofene",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q136695883"
-    },
-    {
-      "id": "alioune-ndao",
+      "id": "alioune-ndao-q1853640",
       "name": "Alioune Ndao",
       "sitting": true,
       "party_id": "unknown",
@@ -1177,7 +1363,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q136697275"
     },
     {
-      "id": "mohamed-sall",
+      "id": "mohamed-sall-q1853640",
       "name": "Mohamed Sall",
       "sitting": true,
       "party_id": "unknown",
@@ -1190,43 +1376,43 @@
       "roster_url": "http://www.wikidata.org/entity/Q136695657"
     },
     {
-      "id": "anta-dia",
-      "name": "Anta Dia",
+      "id": "el-hadji-gueye-q1853640",
+      "name": "El Hadji Gueye",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "african-patriots-of-senegal-for-work-ethics-and-fraternity",
+      "caucus": "African Patriots of Senegal for Work, Ethics and Fraternity",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q136699019"
+      "roster_url": "http://www.wikidata.org/entity/Q135854488"
     },
     {
-      "id": "mouramani-kaba-diakite",
-      "name": "Mouramani Kaba Diakite",
+      "id": "ousmane-masseck-ndiaye-q1853640",
+      "name": "Ousmane Masseck Ndiaye",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "senegalese-democratic-party",
+      "caucus": "Senegalese Democratic Party",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q136699202"
+      "roster_url": "http://www.wikidata.org/entity/Q135152753"
     },
     {
-      "id": "alioune-dieye",
-      "name": "Alioune Dieye",
+      "id": "abdoulaye-tall-q1853640",
+      "name": "Abdoulaye Tall",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "african-patriots-of-senegal-for-work-ethics-and-fraternity",
+      "caucus": "African Patriots of Senegal for Work, Ethics and Fraternity",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q114440109"
+      "roster_url": "http://www.wikidata.org/entity/Q136318273"
     }
   ]
 }

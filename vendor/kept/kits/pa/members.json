@@ -3,11 +3,15 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1368588",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 1,
+  "incomplete": true,
+  "claimed_seats": 71,
+  "chambers": [
+    "Member of the National Assembly of Panama",
+    "National Assembly of Panama"
+  ],
   "items": [
     {
-      "id": "hernan-delgado",
+      "id": "hernan-delgado-q1368588",
       "name": "Hernán Delgado",
       "sitting": true,
       "party_id": "unknown",
@@ -18,6 +22,32 @@
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q87268856"
+    },
+    {
+      "id": "milciades-concepcion-q1368588",
+      "name": "Milciades Concepción",
+      "sitting": true,
+      "party_id": "democratic-revolutionary-party",
+      "caucus": "Democratic Revolutionary Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Panama",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q96066480"
+    },
+    {
+      "id": "ana-matilde-gomez-q1368588",
+      "name": "Ana Matilde Gómez",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Panama",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60681067"
     }
   ]
 }

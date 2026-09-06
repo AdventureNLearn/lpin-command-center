@@ -3,8 +3,53 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q129821"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q129821",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q129821",
+      "label": "Oireachtas",
+      "url": "http://www.oireachtas.ie",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q129821",
+      "label": "Oireachtas (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q129821",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1127591",
+      "label": "Seanad Éireann",
+      "url": "https://www.oireachtas.ie/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1127591",
+      "label": "Seanad Éireann (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1127591",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q651981",
+      "label": "Dáil Éireann",
+      "url": "https://www.oireachtas.ie/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q651981",
+      "label": "Dáil Éireann (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q651981",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

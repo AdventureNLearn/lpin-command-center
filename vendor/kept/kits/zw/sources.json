@@ -3,8 +3,53 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q2083905"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q2083905",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1631396",
+      "label": "National Assembly of Zimbabwe",
+      "url": "https://www.parlzim.gov.zw/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1631396",
+      "label": "National Assembly of Zimbabwe (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1631396",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q2083905",
+      "label": "Parliament of Zimbabwe",
+      "url": "https://www.parlzim.gov.zw/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q2083905",
+      "label": "Parliament of Zimbabwe (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q2083905",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q659211",
+      "label": "Senate of Zimbabwe",
+      "url": "https://www.parlzim.gov.zw/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q659211",
+      "label": "Senate of Zimbabwe (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q659211",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

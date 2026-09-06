@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1372196"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1372196",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q20489786",
+      "label": "Member of the People's Council of Syria (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q20489786",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1372196",
+      "label": "People's Assembly of Syria",
+      "url": "http://www.parliament.gov.sy",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1372196",
+      "label": "People's Assembly of Syria (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1372196",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

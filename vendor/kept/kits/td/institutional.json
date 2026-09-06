@@ -1,6 +1,44 @@
 {
   "iso2": "td",
   "kit": "institutional",
-  "items": [],
-  "incomplete": true
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q657",
+  "bodies": [
+    {
+      "qid": "Q21295978",
+      "label": "Member of the National Assembly of Chad",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1599346",
+      "label": "National Assembly",
+      "seats": 155,
+      "web": "https://www.assemblee-nationale.td/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Member of the National Assembly of Chad"
+  ],
+  "seats": 155,
+  "items": [
+    {
+      "id": "Q21295978",
+      "name": "Member of the National Assembly of Chad",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q21295978"
+    },
+    {
+      "id": "Q1599346",
+      "name": "National Assembly",
+      "kind": "parliament",
+      "seats": 155,
+      "url": "https://www.assemblee-nationale.td/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

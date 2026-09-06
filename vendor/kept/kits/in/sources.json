@@ -2,490 +2,54 @@
   "iso2": "in",
   "items": [
     {
+      "id": "wikidata",
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q695252",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q230003",
+      "label": "Lok Sabha",
       "url": "https://sansad.in/ls",
       "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
+      "basis": "Evidence"
     },
     {
-      "url": "https://sansad.in/api_ls/member?loksabha=18",
+      "id": "wd-q230003",
+      "label": "Lok Sabha (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q230003",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q695252",
+      "label": "Parliament of India",
+      "url": "https://sansad.in/poi",
       "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
+      "basis": "Evidence"
     },
     {
-      "url": "https://sansad.in/ls/committee/all-committees",
+      "id": "wd-q695252",
+      "label": "Parliament of India (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q695252",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q244730",
+      "label": "Rajya Sabha",
+      "url": "https://sansad.in/rs",
       "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
+      "basis": "Evidence"
     },
     {
-      "url": "https://sansad.in/ls/committee/introduction",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://sansad.in/ls/committee/committee-members",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://sansad.in/api_ls/committee/committeeMembers",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://sansad.in/ls/legislation/bills",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://sansad.in/api_rs/legislation/getBills?loksabha=18",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://sansad.in/api_ls/committee/committeeMembers?committeeCode=51&lsNo=18",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://affidavit.eci.gov.in/",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.eci.gov.in/",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.eci.gov.in/contribution-reports",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.eci.gov.in/annual-audit-reports",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.eci.gov.in/transparency-guidelines",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://sansad.in/ls/procedure/rules-of-procedure",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.eci.gov.in/candidate-politicalparty",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://sansad.in/rs/legislation/bills",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://sansad.in/api_rs/legislation/getBills?house=Rajya%20Sabha",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.rajnathsingh.in/speech/text-of-opening-statement-of-defence-minister-on-inter-service-organisations-bill-2023/",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://shashitharoor.in/debates_speeches_details/73",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://shashitharoor.in/debates_speeches_details/25",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://shashitharoor.in/debates_speeches_details/42",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://shashitharoor.in/debates_speeches_details/49",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://shashitharoor.in/debates_speeches_details/54",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://shashitharoor.in/debates_speeches_details/57",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://shashitharoor.in/debates_speeches_details/61",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://shashitharoor.in/debates_speeches_details/67",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://shashitharoor.in/debates_speeches_details/75",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://shashitharoor.in/debates_speeches_details/23",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://shashitharoor.in/debates_speeches_details/20",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.narendramodi.in/english-rendering-of-prime-minister-narendra-modi-s-address-from-the-ramparts-of-red-fort-on-the-occasion-of-80th-independence-day",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.narendramodi.in/text-of-prime-minister-narendra-modi-s-speech-at-the-launch-of-nasha-mukt-yuva-for-viksit-bharat-sankalp-abhiyan-via-vc-2nd-august-twenty-twenty-six",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://nitingadkari.org.in/quotes-by-nitin-gadkari/",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2055626&reg=48&lang=2",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.piyushgoyal.in/category/speeches/",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.piyushgoyal.in/for-transparent-inclusive-public-procurement-government-e-marketplace/",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://sansad.in/api_rs/legislation/getBills?house=Lok%20Sabha",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://rahulgandhi.in/",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://rahulgandhi.in/speeches",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://rahulgandhi.in/newsletter/2025/jul/15/en",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://sansad.in/ls/members/biography/4074?from=members",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.amitshah.co.in/",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://sansad.in/ls/members/biography/5021?from=members",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.amitshah.co.in/post/press/NEPs-roots-in-Santiniketan-education-model-of-Rabindranath-Tagore-says-Amit-Shah-2023",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.amitshah.co.in/about",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.tejasvisurya.in/",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.tejasvisurya.in/policy-and-parliamentary-work/",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.tejasvisurya.in/blog/",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://sansad.in/ls/members/biography/5182?from=members",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.tejasvisurya.in/health/",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://anuragthakur.in/",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://anuragthakur.in/newsletter/",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://sansad.in/ls/members/biography/4249?from=members",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://anuragthakur.in/about/",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://bhupenderyadav.in/",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://sansad.in/ls/members/biography/5541?from=members",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://bhupenderyadav.in/about.html",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://bhupenderyadav.in/blog/ek-pati-alwar-ke-naam-53",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://bhupenderyadav.in/blog/ek-pati-alwar-ke-naam-52",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://sansad.in/ls/members/biographyM/3972?from=members",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://sansad.in/ls/members/biography/3972?from=members",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://sukantamajumdar.in/",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://sansad.in/ls/members/biography/5035?from=members",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.supriyasule.com/",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://sansad.in/ls/members/biography/4392?from=members",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://sansad.in/ls/members/biography/4091?from=members",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://sansad.in/ls/members/biography/4788?from=members",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://sansad.in/ls/members/biography/5049?from=members",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://sansad.in/ls/members/biography/4967?from=members",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://sansad.in/ls/members/biography/4433?from=members",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://sansad.in/ls/members/biography/4430?from=members",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://sansad.in/ls/members/biography/4399?from=members",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://sansad.in/ls/members/biography/5552?from=members",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://sansad.in/ls/members/biography/4041?from=members",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://sansad.in/ls/members/biography/279?from=members",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://sansad.in/ls/members/biography/5836?from=members",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://sansad.in/ls/members/biography/564?from=members",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://sansad.in/ls/members/biography/4207?from=members",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://sansad.in/ls/members/biography/4567?from=members",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://sansad.in/ls/members/biography/385?from=members",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://sansad.in/ls/members/biography/5219?from=members",
-      "kind": "sibling",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
+      "id": "wd-q244730",
+      "label": "Rajya Sabha (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q244730",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

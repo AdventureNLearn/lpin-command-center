@@ -1,7 +1,148 @@
 {
   "iso2": "de",
   "kit": "institutional",
-  "items": [],
   "incomplete": true,
-  "note": ":8103 claimed institutional_kits = 0."
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q183",
+  "bodies": [
+    {
+      "qid": "Q1392283",
+      "label": "chauffeur service of the German Bundestag",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q856510",
+      "label": "Library of the German Bundestag",
+      "seats": 0,
+      "web": "http://www.bundestag.de/dokumente/bibliothek/index.html",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q146138",
+      "label": "Bundesrat",
+      "seats": 69,
+      "web": "https://www.bundesrat.de/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q1939555",
+      "label": "member of the German Bundestag",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q15835370",
+      "label": "Member of the Bundesrat of Germany",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q124565372",
+      "label": "Enquete Commission Lessons from Afghanistan for Germany's future networked engagement",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q28738484",
+      "label": "Bundesrat Library",
+      "seats": 0,
+      "web": "http://www.bundesrat.de",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q132798745",
+      "label": "Q132798745",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q154797",
+      "label": "German Bundestag",
+      "seats": 630,
+      "web": "https://www.bundestag.de/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "chauffeur service of the German Bundestag",
+    "Library of the German Bundestag",
+    "member of the German Bundestag",
+    "Member of the Bundesrat of Germany",
+    "Enquete Commission Lessons from Afghanistan for Germany's future networked engagement",
+    "Bundesrat Library",
+    "Q132798745"
+  ],
+  "seats": 699,
+  "items": [
+    {
+      "id": "Q1392283",
+      "name": "chauffeur service of the German Bundestag",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q1392283"
+    },
+    {
+      "id": "Q856510",
+      "name": "Library of the German Bundestag",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "http://www.bundestag.de/dokumente/bibliothek/index.html"
+    },
+    {
+      "id": "Q146138",
+      "name": "Bundesrat",
+      "kind": "parliament",
+      "seats": 69,
+      "url": "https://www.bundesrat.de/"
+    },
+    {
+      "id": "Q1939555",
+      "name": "member of the German Bundestag",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q1939555"
+    },
+    {
+      "id": "Q15835370",
+      "name": "Member of the Bundesrat of Germany",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q15835370"
+    },
+    {
+      "id": "Q124565372",
+      "name": "Enquete Commission Lessons from Afghanistan for Germany's future networked engagement",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q124565372"
+    },
+    {
+      "id": "Q28738484",
+      "name": "Bundesrat Library",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "http://www.bundesrat.de"
+    },
+    {
+      "id": "Q132798745",
+      "name": "Q132798745",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q132798745"
+    },
+    {
+      "id": "Q154797",
+      "name": "German Bundestag",
+      "kind": "parliament",
+      "seats": 630,
+      "url": "https://www.bundestag.de/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

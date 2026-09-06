@@ -1,6 +1,59 @@
 {
   "iso2": "kz",
   "kit": "institutional",
-  "items": [],
-  "incomplete": true
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q232",
+  "bodies": [
+    {
+      "qid": "Q1247199",
+      "label": "Mäjilis",
+      "seats": 107,
+      "web": "http://www.parlam.kz/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q2995409",
+      "label": "Parliament of Kazakhstan",
+      "seats": 0,
+      "web": "http://www.parlam.kz",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q1316045",
+      "label": "Senate of Kazakhstan",
+      "seats": 47,
+      "web": "",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Mäjilis",
+    "Senate of Kazakhstan"
+  ],
+  "seats": 154,
+  "items": [
+    {
+      "id": "Q1247199",
+      "name": "Mäjilis",
+      "kind": "chamber",
+      "seats": 107,
+      "url": "http://www.parlam.kz/"
+    },
+    {
+      "id": "Q2995409",
+      "name": "Parliament of Kazakhstan",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "http://www.parlam.kz"
+    },
+    {
+      "id": "Q1316045",
+      "name": "Senate of Kazakhstan",
+      "kind": "chamber",
+      "seats": 47,
+      "url": "https://www.wikidata.org/wiki/Q1316045"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

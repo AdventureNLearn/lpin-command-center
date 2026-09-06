@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1517231"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1517231",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21294917",
+      "label": "Member of the Parliament of Singapore (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21294917",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1517231",
+      "label": "Parliament of Singapore",
+      "url": "https://www.parliament.gov.sg/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1517231",
+      "label": "Parliament of Singapore (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1517231",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

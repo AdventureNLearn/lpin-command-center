@@ -1,0 +1,59 @@
+{
+  "iso2": "dz",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q262",
+  "bodies": [
+    {
+      "qid": "Q633590",
+      "label": "People's National Assembly",
+      "seats": 407,
+      "web": "http://www.apn.dz",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q2119509",
+      "label": "Council of the Nation",
+      "seats": 144,
+      "web": "http://www.majliselouma.dz/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q3142337",
+      "label": "Parliament of Algeria",
+      "seats": 0,
+      "web": "http://www.apn-dz.org",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "People's National Assembly",
+    "Council of the Nation"
+  ],
+  "seats": 551,
+  "items": [
+    {
+      "id": "Q633590",
+      "name": "People's National Assembly",
+      "kind": "chamber",
+      "seats": 407,
+      "url": "http://www.apn.dz"
+    },
+    {
+      "id": "Q2119509",
+      "name": "Council of the Nation",
+      "kind": "chamber",
+      "seats": 144,
+      "url": "http://www.majliselouma.dz/"
+    },
+    {
+      "id": "Q3142337",
+      "name": "Parliament of Algeria",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "http://www.apn-dz.org"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

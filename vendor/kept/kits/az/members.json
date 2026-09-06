@@ -3,2494 +3,15 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q330600",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 222,
+  "incomplete": true,
+  "claimed_seats": 125,
+  "chambers": [
+    "member of the National Assembly of Azerbaijan",
+    "National Assembly of Azerbaijan"
+  ],
   "items": [
     {
-      "id": "isg-nd-r-quliyev",
-      "name": "İsgəndər Quliyev",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q123248486"
-    },
-    {
-      "id": "anar-isg-nd-rov",
-      "name": "Anar İsgəndərov",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12835804"
-    },
-    {
-      "id": "aqil-mammadov",
-      "name": "Aqil Mammadov",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12835904"
-    },
-    {
-      "id": "jal-liyeva",
-      "name": "Jalə Əliyeva",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12840703"
-    },
-    {
-      "id": "fazail-ibrahimli",
-      "name": "Fazail İbrahimli",
-      "sitting": true,
-      "party_id": "civic-solidarity-party",
-      "caucus": "Civic Solidarity Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12839767"
-    },
-    {
-      "id": "mad-r-musayev",
-      "name": "Madər Musayev",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12841562"
-    },
-    {
-      "id": "agacan-abiyev",
-      "name": "Ağacan Abiyev",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12836966"
-    },
-    {
-      "id": "musa-qas-ml",
-      "name": "Musa Qasımlı",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12842330"
-    },
-    {
-      "id": "had-r-c-bli",
-      "name": "Hadı Rəcəbli",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12840198"
-    },
-    {
-      "id": "novruz-li-aslanov",
-      "name": "Novruzəli Aslanov",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12843404"
-    },
-    {
-      "id": "hicran-huseynova",
-      "name": "Hicran Hüseynova",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12840326"
-    },
-    {
-      "id": "huseynbala-mir-ll-mov",
-      "name": "Hüseynbala Mirəlləmov",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12840465"
-    },
-    {
-      "id": "rafael-c-bray-lov",
-      "name": "Rafael Cəbrayılov",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12844831"
-    },
-    {
-      "id": "s-ttar-mehbal-yev",
-      "name": "Səttar Mehbalıyev",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12846308"
-    },
-    {
-      "id": "valeh-l-sg-rov",
-      "name": "Valeh Ələsgərov",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12847105"
-    },
-    {
-      "id": "rafael-huseynov",
-      "name": "Rafael Huseynov",
-      "sitting": true,
-      "party_id": "civic-solidarity-party",
-      "caucus": "Civic Solidarity Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12845219"
-    },
-    {
-      "id": "yaqub-mammadov",
-      "name": "Yaqub Mammadov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1189565"
-    },
-    {
-      "id": "ramil-hasan",
-      "name": "Ramil Hasan",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q111723422"
-    },
-    {
-      "id": "mirkazim-kazimov",
-      "name": "Mirkazim Kazimov",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12842011"
-    },
-    {
-      "id": "eldar-guliyev",
-      "name": "Eldar Guliyev",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16366652"
-    },
-    {
-      "id": "fattah-heydarov",
-      "name": "Fattah Heydarov",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16367961"
-    },
-    {
-      "id": "gulshan-pashayeva",
-      "name": "Gulshan Pashayeva",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16368244"
-    },
-    {
-      "id": "rustam-xalilov",
-      "name": "Rüstam Xalilov",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12845204"
-    },
-    {
-      "id": "r-sad-mahmudov",
-      "name": "Rəşad Mahmudov",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12845295"
-    },
-    {
-      "id": "ulvi-quliyev",
-      "name": "Ulvi Quliyev",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12848740"
-    },
-    {
-      "id": "sevinc-f-t-liyeva",
-      "name": "Sevinc Fətəliyeva",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12845656"
-    },
-    {
-      "id": "aflatun-amashov",
-      "name": "Aflatun Amashov",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12849884"
-    },
-    {
-      "id": "adil-aliyev",
-      "name": "Adil Aliyev",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12835439"
-    },
-    {
-      "id": "az-r-k-rimli",
-      "name": "Azər Kərimli",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12836332"
-    },
-    {
-      "id": "nazim-ibrahimov",
-      "name": "Nazim Ibrahimov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q11011361"
-    },
-    {
-      "id": "tahir-suleymanov",
-      "name": "Tahir Süleymanov",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12846349"
-    },
-    {
-      "id": "etibar-aliyev",
-      "name": "Etibar Aliyev",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112281822"
-    },
-    {
-      "id": "amaliya-panahova",
-      "name": "Amaliya Panahova",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12835738"
-    },
-    {
-      "id": "asef-hadjiyev",
-      "name": "Asef Hadjiyev",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12836122"
-    },
-    {
-      "id": "dunyamin-zakir-oglu-x-lilov",
-      "name": "Dünyamin Zakir oğlu Xəlilov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12838751"
-    },
-    {
-      "id": "gular-ahmadova",
-      "name": "Gular Ahmadova",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12839980"
-    },
-    {
-      "id": "hac-m-mm-d-ramazanov",
-      "name": "Hacıməmməd Ramazanov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12840184"
-    },
-    {
-      "id": "mubariz-gurbanli",
-      "name": "Mubariz Gurbanli",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12842413"
-    },
-    {
-      "id": "qalib-qurbanov",
-      "name": "Qalib Qurbanov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12844157"
-    },
-    {
-      "id": "xanhuseyn-kaz-ml",
-      "name": "Xanhüseyn Kazımlı",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12847503"
-    },
-    {
-      "id": "ahad-abiyev",
-      "name": "Ahad Abiyev",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12849949"
-    },
-    {
-      "id": "ali-omarov",
-      "name": "Ali Omarov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12850057"
-    },
-    {
-      "id": "imamverdi-ismay-lov",
-      "name": "İmamverdi İsmayılov",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12848996"
-    },
-    {
-      "id": "iqbal-m-mm-dov",
-      "name": "İqbal Məmmədov",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12849106"
-    },
-    {
-      "id": "s-ms-ddin-hac-yev",
-      "name": "Şəmsəddin Hacıyev",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12849768"
-    },
-    {
-      "id": "eldar-ibrahimov",
-      "name": "Eldar Ibrahimov",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12839020"
-    },
-    {
-      "id": "nizami-cafarov",
-      "name": "Nizami Cäfärov",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q13553633"
-    },
-    {
-      "id": "gulchohra-mammadova",
-      "name": "Gulchohra Mammadova",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q14946401"
-    },
-    {
-      "id": "mikay-lova-sevil",
-      "name": "Mikayılova Sevil",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q108920762"
-    },
-    {
-      "id": "ajdar-ismayilov",
-      "name": "Ajdar Ismayilov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16056135"
-    },
-    {
-      "id": "ramin-mammadov",
-      "name": "Ramin Mammadov",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q106074803"
-    },
-    {
-      "id": "ayt-n-mustafayeva",
-      "name": "Aytən Mustafayeva",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16364940"
-    },
-    {
-      "id": "gunay-agamali",
-      "name": "Gunay Agamali",
-      "sitting": true,
-      "party_id": "motherland-party",
-      "caucus": "Motherland Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q130284172"
-    },
-    {
-      "id": "afet-hasanova",
-      "name": "Afet Hasanova",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q108920455"
-    },
-    {
-      "id": "arif-rahimzadeh",
-      "name": "Arif Rahimzadeh",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16364619"
-    },
-    {
-      "id": "astan-sahverdiyev",
-      "name": "Astan Şahverdiyev",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16364732"
-    },
-    {
-      "id": "bahar-muradova",
-      "name": "Bahar Muradova",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16365430"
-    },
-    {
-      "id": "b-xtiyar-sad-qov",
-      "name": "Bəxtiyar Sadıqov",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16365769"
-    },
-    {
-      "id": "cavansir-pasazad",
-      "name": "Cavanşir Paşazadə",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16366024"
-    },
-    {
-      "id": "cavid-qurbanov",
-      "name": "Cavid Qurbanov",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16366053"
-    },
-    {
-      "id": "elshad-mirbashir-oghlu",
-      "name": "Elshad Mirbashir oghlu",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16367113"
-    },
-    {
-      "id": "hikm-t-babaoglu",
-      "name": "Hikmət Babaoğlu",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16368696"
-    },
-    {
-      "id": "mikhail-zabelin",
-      "name": "Mikhail Zabelin",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16370420"
-    },
-    {
-      "id": "b-xtiyar-liyev",
-      "name": "Bəxtiyar Əliyev",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16365787"
-    },
-    {
-      "id": "rizvan-nabiyev",
-      "name": "Rizvan Nabiyev",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q124607779"
-    },
-    {
-      "id": "fazil-mustafa",
-      "name": "Fazil Mustafa",
-      "sitting": true,
-      "party_id": "great-order-party",
-      "caucus": "Great Order Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12839470"
-    },
-    {
-      "id": "gudrat-hasanguliyev",
-      "name": "Gudrat Hasanguliyev",
-      "sitting": true,
-      "party_id": "justice-law-democracy-party",
-      "caucus": "Justice, Law, Democracy Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12844605"
-    },
-    {
-      "id": "amina-aghazada",
-      "name": "Amina Aghazada",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q108084872"
-    },
-    {
-      "id": "flora-qas-mova",
-      "name": "Flora Qasımova",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12839554"
-    },
-    {
-      "id": "govhar-bakhshaliyeva",
-      "name": "Govhar Bakhshaliyeva",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12839846"
-    },
-    {
-      "id": "javanshir-feyziyev",
-      "name": "Javanshir Feyziyev",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19713709"
-    },
-    {
-      "id": "elxan-suleymanov",
-      "name": "Elxan Süleymanov",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19713943"
-    },
-    {
-      "id": "elsad-h-s-nov",
-      "name": "Elşad Həsənov",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28527851"
-    },
-    {
-      "id": "kamran-n-bizad",
-      "name": "Kamran Nəbizadə",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28527862"
-    },
-    {
-      "id": "muslum-m-mm-dov",
-      "name": "Müslüm Məmmədov",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28527865"
-    },
-    {
-      "id": "ulviyy-agayeva",
-      "name": "Ülviyyə Ağayeva",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28527872"
-    },
-    {
-      "id": "arzu-naghiyev",
-      "name": "Arzu Naghiyev",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28925612"
-    },
-    {
-      "id": "aqiy-naxc-vanl",
-      "name": "Aqiyə Naxçıvanlı",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19713062"
-    },
-    {
-      "id": "azer-badamov",
-      "name": "Azer Badamov",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19713275"
-    },
-    {
-      "id": "agalar-v-liyev",
-      "name": "Ağalar Vəliyev",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19713418"
-    },
-    {
-      "id": "kamila-aliyeva",
-      "name": "Kamila Aliyeva",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19714448"
-    },
-    {
-      "id": "tahir-mirkisili",
-      "name": "Tahir Mirkişili",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q23304292"
-    },
-    {
-      "id": "malik-hasanov",
-      "name": "Malik Hasanov",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19714703"
-    },
-    {
-      "id": "dilar-c-bray-lova",
-      "name": "Dilarə Cəbrayılova",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28527525"
-    },
-    {
-      "id": "ayd-n-huseynov",
-      "name": "Aydın Hüseynov",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28527824"
-    },
-    {
-      "id": "eld-niz-s-limov",
-      "name": "Eldəniz Səlimov",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28527842"
-    },
-    {
-      "id": "elcin-quliyev",
-      "name": "Elçin Quliyev",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28527849"
-    },
-    {
-      "id": "kamal-ddin-qafarov",
-      "name": "Kamaləddin Qafarov",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28527858"
-    },
-    {
-      "id": "mirz-can-x-lilov",
-      "name": "Mirzəcan Xəlilov",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28527864"
-    },
-    {
-      "id": "p-rvin-k-rimzad",
-      "name": "Pərvin Kərimzadə",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28527868"
-    },
-    {
-      "id": "zeynab-khanlarova",
-      "name": "Zeynab Khanlarova",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2507445"
-    },
-    {
-      "id": "rauf-aliev",
-      "name": "Rauf Aliev",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19715482"
-    },
-    {
-      "id": "sevinc-huseynova",
-      "name": "Sevinc Hüseynova",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19715616"
-    },
-    {
-      "id": "ilham-liyev",
-      "name": "İlham Əliyev",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19716385"
-    },
-    {
-      "id": "sabil-qas-mov",
-      "name": "Əsabil Qasımov",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19716722"
-    },
-    {
-      "id": "sahib-al-yev",
-      "name": "Sahib Alıyev",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16373861"
-    },
-    {
-      "id": "zahid-oruc",
-      "name": "Zahid Oruc",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16376573"
-    },
-    {
-      "id": "rufat-guliyev",
-      "name": "Rufat Guliyev",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16416293"
-    },
-    {
-      "id": "havva-mammadova",
-      "name": "Havva Mammadova",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1752308"
-    },
-    {
-      "id": "shovkat-mammadova",
-      "name": "Shovkat Mammadova",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1968475"
-    },
-    {
-      "id": "ziya-bunyadov",
-      "name": "Ziya Bunyadov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1985760"
-    },
-    {
-      "id": "lala-shevket",
-      "name": "Lala Shevket",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2032185"
-    },
-    {
-      "id": "kamran-bayramov",
-      "name": "Kamran Bayramov",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "100th constituency (Şəmkir-Daşkəsən)",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28527860"
-    },
-    {
-      "id": "bakhtiyar-vahabzadeh",
-      "name": "Bakhtiyar Vahabzadeh",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2320387"
-    },
-    {
-      "id": "zelimxan-yaqub",
-      "name": "Zelimxan Yaqub",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16376956"
-    },
-    {
-      "id": "majid-karimov",
-      "name": "Majid Karimov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16418555"
-    },
-    {
-      "id": "els-n-musayev",
-      "name": "Elşən Musayev",
-      "sitting": true,
-      "party_id": "azerbaijan-democratic-enlightenment-party",
-      "caucus": "Azerbaijan Democratic Enlightenment Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28527854"
-    },
-    {
-      "id": "zakhid-garalov",
-      "name": "Zakhid Garalov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q18848952"
-    },
-    {
-      "id": "nariman-aliyev",
-      "name": "Nariman Aliyev",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19715053"
-    },
-    {
-      "id": "hac-salayev",
-      "name": "Hacı Salayev",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19838096"
-    },
-    {
-      "id": "elman-nasirov",
-      "name": "Elman Nasirov",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q18427673"
-    },
-    {
-      "id": "nagif-hamzayev",
-      "name": "Nagif Hamzayev",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16371462"
-    },
-    {
-      "id": "n-sib-m-h-m-liyev",
-      "name": "Nəsib Məhəməliyev",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16372072"
-    },
-    {
-      "id": "sahiba-gafarova",
-      "name": "Sahiba Gafarova",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16373886"
-    },
-    {
-      "id": "siyavush-novruzov",
-      "name": "Siyavush Novruzov",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16374240"
-    },
-    {
-      "id": "s-daq-t-v-liyeva",
-      "name": "Sədaqət Vəliyeva",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16374527"
-    },
-    {
-      "id": "tahir-rzayev",
-      "name": "Tahir Rzayev",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16374822"
-    },
-    {
-      "id": "aydin-mirzazade",
-      "name": "Aydin Mirzazade",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2047294"
-    },
-    {
-      "id": "sabir-hac-yev",
-      "name": "Sabir Hacıyev",
-      "sitting": true,
-      "party_id": "civic-unity-party",
-      "caucus": "Civic Unity Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19715525"
-    },
-    {
-      "id": "rovnag-abdullayev",
-      "name": "Rovnag Abdullayev",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "24th constituency Nizami 1",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1995614"
-    },
-    {
-      "id": "sahin-ismayilov",
-      "name": "Şahin İsmayilov",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16377939"
-    },
-    {
-      "id": "ali-huseynli",
-      "name": "Ali Huseynli",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16378771"
-    },
-    {
-      "id": "aziz-alakbarli",
-      "name": "Aziz Alakbarli",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16379403"
-    },
-    {
-      "id": "elmira-akhundova",
-      "name": "Elmira Akhundova",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q24176171"
-    },
-    {
-      "id": "mahir-abbaszad",
-      "name": "Mahir Abbaszadə",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "121st constituency (Laçın)",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q20560414"
-    },
-    {
-      "id": "ilham-m-mm-dov",
-      "name": "İlham Məmmədov",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19716382"
-    },
-    {
-      "id": "tahir-kerimli",
-      "name": "Tahir Kerimli",
-      "sitting": true,
-      "party_id": "unity-party",
-      "caucus": "Unity Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16374817"
-    },
-    {
-      "id": "sona-liyeva",
-      "name": "Sona Əliyeva",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28527870"
-    },
-    {
-      "id": "abbas-abbasov",
-      "name": "Abbas Abbasov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4054392"
-    },
-    {
-      "id": "araz-alizadeh",
-      "name": "Araz Alizadeh",
-      "sitting": true,
-      "party_id": "azerbaijan-social-democratic-party",
-      "caucus": "Azerbaijan Social Democratic Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4062335"
-    },
-    {
-      "id": "ali-masimov",
-      "name": "Ali Masimov",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4725004"
-    },
-    {
-      "id": "elman-mammadov",
-      "name": "Elman Mammadov",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5366393"
-    },
-    {
-      "id": "nazim-samadov",
-      "name": "Nazim Samadov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3337392"
-    },
-    {
-      "id": "li-abbasov",
-      "name": "Əli Abbasov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4054398"
-    },
-    {
-      "id": "lal-abbasova",
-      "name": "Lalə Abbasova",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4054405"
-    },
-    {
-      "id": "akram-abdullayev",
-      "name": "Akram Abdullayev",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4054558"
-    },
-    {
-      "id": "akram-aylisli",
-      "name": "Akram Aylisli",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4059788"
-    },
-    {
-      "id": "c-lal-liyev",
-      "name": "Cəlal Əliyev",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4062290"
-    },
-    {
-      "id": "azer-amiraslanov",
-      "name": "Azer Amiraslanov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4064359"
-    },
-    {
-      "id": "rabiyyat-aslanova",
-      "name": "Rabiyyat Aslanova",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4071351"
-    },
-    {
-      "id": "ali-ahmadov",
-      "name": "Ali Ahmadov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4073064"
-    },
-    {
-      "id": "jamil-hasanli",
-      "name": "Jamil Hasanli",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4115558"
-    },
-    {
-      "id": "arif-hajili",
-      "name": "Arif Hajili",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4131541"
-    },
-    {
-      "id": "rahim-gaziyev",
-      "name": "Rahim Gaziyev",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4131690"
-    },
-    {
-      "id": "afiyaddin-c-lilov",
-      "name": "Afiyaddin Cəlilov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4159769"
-    },
-    {
-      "id": "magsud-ibrahimbeyov",
-      "name": "Magsud Ibrahimbeyov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4195350"
-    },
-    {
-      "id": "anar-mammadkhanov",
-      "name": "Anar Mammadkhanov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4279890"
-    },
-    {
-      "id": "shafiga-mammadova",
-      "name": "Shafiga Mammadova",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4279888"
-    },
-    {
-      "id": "javad-malik-yeganov",
-      "name": "Javad Malik-Yeganov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4289443"
-    },
-    {
-      "id": "arzu-s-m-db-yli",
-      "name": "Arzu Səmədbəyli",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4406550"
-    },
-    {
-      "id": "sattar-safarov",
-      "name": "Sattar Safarov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4409209"
-    },
-    {
-      "id": "hasan-seyidbeyli",
-      "name": "Hasan Seyidbeyli",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4413083"
-    },
-    {
-      "id": "aynur-sofiyeva",
-      "name": "Aynur Sofiyeva",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4429937"
-    },
-    {
-      "id": "fuad-guliyev",
-      "name": "Fuad Guliyev",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4449096"
-    },
-    {
-      "id": "ramiz-fataliyev",
-      "name": "Ramiz Fataliyev",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4481418"
-    },
-    {
-      "id": "asim-mollazad",
-      "name": "Asim Mollazadə",
-      "sitting": true,
-      "party_id": "party-for-democratic-reforms",
-      "caucus": "Party for Democratic Reforms",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4300474"
-    },
-    {
-      "id": "ali-antsukhskiy",
-      "name": "Ali Antsukhskiy",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4724654"
-    },
-    {
-      "id": "ali-karimli",
-      "name": "Ali Karimli",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4724938"
-    },
-    {
-      "id": "isa-habibbayli",
-      "name": "Isa Habibbayli",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4130889"
-    },
-    {
-      "id": "vasif-talibov",
-      "name": "Vasif Talibov",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q57549"
-    },
-    {
-      "id": "ceyhun-m-mm-dov",
-      "name": "Ceyhun Məmmədov",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q55698956"
-    },
-    {
-      "id": "sabir-rustamkhanli",
-      "name": "Sabir Rustamkhanli",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5018584"
-    },
-    {
-      "id": "anar-rzayev",
-      "name": "Anar Rzayev",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q633750"
-    },
-    {
-      "id": "eldar-namazov",
-      "name": "Eldar Namazov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5353902"
-    },
-    {
-      "id": "fuad-muradov",
-      "name": "Fuad Muradov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5506881"
-    },
-    {
-      "id": "cavid-osmanov",
-      "name": "Cavid Osmanov",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q61122675"
-    },
-    {
-      "id": "erkin-gadirli",
-      "name": "Erkin Gadirli",
-      "sitting": true,
-      "party_id": "republican-alternative-party",
-      "caucus": "Republican Alternative Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q84770352"
-    },
-    {
-      "id": "vugar-bayramov",
-      "name": "Vugar Bayramov",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7943344"
-    },
-    {
-      "id": "gultakin-hajibayli",
-      "name": "Gultakin Hajibayli",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6702735"
-    },
-    {
-      "id": "novruz-mammadov",
-      "name": "Novruz Mammadov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7065106"
-    },
-    {
-      "id": "panah-huseyn",
-      "name": "Panah Huseyn",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7129887"
-    },
-    {
-      "id": "vilayat-guliyev",
-      "name": "Vilayat Guliyev",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7930115"
-    },
-    {
-      "id": "m-lah-t-h-s-nova",
-      "name": "Məlahət Həsənova",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4134058"
-    },
-    {
-      "id": "razi-nurullayev",
-      "name": "Razi Nurullayev",
-      "sitting": true,
-      "party_id": "national-front-party",
-      "caucus": "National Front Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7299546"
-    },
-    {
-      "id": "konul-nurullayeva",
-      "name": "Könül Nurullayeva",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q31295198"
-    },
-    {
-      "id": "agil-abbas",
-      "name": "Agil Abbas",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4054391"
-    },
-    {
-      "id": "yevda-abramov",
-      "name": "Yevda Abramov",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q8053080"
-    },
-    {
-      "id": "vahid-ahmadov",
-      "name": "Vahid Ahmadov",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7908624"
-    },
-    {
-      "id": "samad-seyidov",
-      "name": "Samad Seyidov",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7408438"
-    },
-    {
-      "id": "m-ry-m-h-s-nova",
-      "name": "Məryəm Həsənova",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q55825258"
-    },
-    {
-      "id": "ahliman-amiraslanov",
-      "name": "Ahliman Amiraslanov",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4064363"
-    },
-    {
-      "id": "muxtar-babayev",
-      "name": "Muxtar Babayev",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6584988"
-    },
-    {
-      "id": "tural-ganjaliyev",
-      "name": "Tural Ganjaliyev",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q61122554"
-    },
-    {
-      "id": "ziyad-aliabbas-oglu-samadzade",
-      "name": "Ziyad Aliabbas oglu Samadzade",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4167611"
-    },
-    {
-      "id": "ulviyya-hamzayeva",
-      "name": "Ulviyya Hamzayeva",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7880869"
-    },
-    {
-      "id": "azay-guliyev",
-      "name": "Azay Guliyev",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4151832"
-    },
-    {
-      "id": "liaga-huseynov",
-      "name": "Əliağa Hüseynov",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4152762"
-    },
-    {
-      "id": "ogtay-asadov",
-      "name": "Ogtay Asadov",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4071114"
-    },
-    {
-      "id": "ziyafat-asgarov",
-      "name": "Ziyafat Asgarov",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4071295"
-    },
-    {
-      "id": "rasim-musabeyov",
-      "name": "Rasim Musabeyov",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4308291"
-    },
-    {
-      "id": "musa-isa-oglu-quliyev",
-      "name": "Musa İsa oğlu Quliyev",
-      "sitting": true,
-      "party_id": "new-azerbaijan-party",
-      "caucus": "New Azerbaijan Party",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4151834"
-    },
-    {
-      "id": "nigar-arpadarai",
+      "id": "nigar-arpadarai-q330600",
       "name": "Nigar Arpadarai",
       "sitting": true,
       "party_id": "unknown",
@@ -2503,8 +24,8 @@
       "roster_url": "http://www.wikidata.org/entity/Q86001345"
     },
     {
-      "id": "bahruz-maharramov",
-      "name": "Bahruz Maharramov",
+      "id": "anatoli-rafailov-q330600",
+      "name": "Anatoli Rafailov",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -2513,10 +34,10 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q87959916"
+      "roster_url": "http://www.wikidata.org/entity/Q87330025"
     },
     {
-      "id": "fariz-ismailzade",
+      "id": "fariz-ismailzade-q330600",
       "name": "Fariz Ismailzade",
       "sitting": true,
       "party_id": "unknown",
@@ -2529,47 +50,8 @@
       "roster_url": "http://www.wikidata.org/entity/Q129066549"
     },
     {
-      "id": "polad-bulbuloghlu",
-      "name": "Polad Bulbuloghlu",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112651"
-    },
-    {
-      "id": "heydar-asadov",
-      "name": "Heydar Asadov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12840307"
-    },
-    {
-      "id": "tanzile-rustamxanl",
-      "name": "Tanzile Rustamxanlı",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16375290"
-    },
-    {
-      "id": "xanlar-f-tiyev",
-      "name": "Xanlar Fətiyev",
+      "id": "ramil-hasan-q330600",
+      "name": "Ramil Hasan",
       "sitting": true,
       "party_id": "new-azerbaijan-party",
       "caucus": "New Azerbaijan Party",
@@ -2578,11 +60,11 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q12847511"
+      "roster_url": "http://www.wikidata.org/entity/Q111723422"
     },
     {
-      "id": "anatoli-rafailov",
-      "name": "Anatoli Rafailov",
+      "id": "etibar-aliyev-q330600",
+      "name": "Etibar Aliyev",
       "sitting": true,
       "party_id": "independent-politician",
       "caucus": "independent politician",
@@ -2591,37 +73,37 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q87330025"
+      "roster_url": "http://www.wikidata.org/entity/Q112281822"
     },
     {
-      "id": "soltan-mammadov",
-      "name": "Soltan Mammadov",
+      "id": "elman-mammadov-q330600",
+      "name": "Elman Mammadov",
       "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
       "constituency_label": "",
       "chamber": "National Assembly of Azerbaijan",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q86001190"
+      "roster_url": "http://www.wikidata.org/entity/Q5366393"
     },
     {
-      "id": "sahin-seyidzad",
-      "name": "Şahin Seyidzadə",
+      "id": "ramin-mammadov-q330600",
+      "name": "Ramin Mammadov",
       "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
       "constituency_label": "",
       "chamber": "National Assembly of Azerbaijan",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q89658763"
+      "roster_url": "http://www.wikidata.org/entity/Q106074803"
     },
     {
-      "id": "samir-valiyev",
-      "name": "Samir Valiyev",
+      "id": "eldar-namazov-q330600",
+      "name": "Eldar Namazov",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -2630,10 +112,101 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q134988421"
+      "roster_url": "http://www.wikidata.org/entity/Q5353902"
     },
     {
-      "id": "emin-hajiyev",
+      "id": "fuad-muradov-q330600",
+      "name": "Fuad Muradov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5506881"
+    },
+    {
+      "id": "faraj-guliyev-q330600",
+      "name": "Faraj Guliyev",
+      "sitting": true,
+      "party_id": "azerbaijani-popular-front-party",
+      "caucus": "Azerbaijani Popular Front Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q96002133"
+    },
+    {
+      "id": "sahin-seyidzad-q330600",
+      "name": "Şahin Seyidzadə",
+      "sitting": true,
+      "party_id": "non-attached",
+      "caucus": "non-attached",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q89658763"
+    },
+    {
+      "id": "cavid-osmanov-q330600",
+      "name": "Cavid Osmanov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q61122675"
+    },
+    {
+      "id": "gultakin-hajibayli-q330600",
+      "name": "Gultakin Hajibayli",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6702735"
+    },
+    {
+      "id": "gunay-agamali-q330600",
+      "name": "Gunay Agamali",
+      "sitting": true,
+      "party_id": "motherland-party",
+      "caucus": "Motherland Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q130284172"
+    },
+    {
+      "id": "afet-hasanova-q330600",
+      "name": "Afet Hasanova",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108920455"
+    },
+    {
+      "id": "emin-hajiyev-q330600",
       "name": "Emin Hajiyev",
       "sitting": true,
       "party_id": "new-azerbaijan-party",
@@ -2646,7 +219,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q86000268"
     },
     {
-      "id": "sadig-qurbanov",
+      "id": "panah-huseyn-q330600",
+      "name": "Panah Huseyn",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7129887"
+    },
+    {
+      "id": "sadig-qurbanov-q330600",
       "name": "Sadig Qurbanov",
       "sitting": true,
       "party_id": "new-azerbaijan-party",
@@ -2659,7 +245,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q86001367"
     },
     {
-      "id": "mushfiq-mammadli",
+      "id": "mushfiq-mammadli-q330600",
       "name": "Mushfiq Mammadli",
       "sitting": true,
       "party_id": "new-azerbaijan-party",
@@ -2672,7 +258,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q86001443"
     },
     {
-      "id": "nurlan-h-s-nov",
+      "id": "nurlan-h-s-nov-q330600",
       "name": "Nurlan Həsənov",
       "sitting": true,
       "party_id": "new-azerbaijan-party",
@@ -2685,7 +271,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q86001442"
     },
     {
-      "id": "musfiq-c-f-rov",
+      "id": "musfiq-c-f-rov-q330600",
       "name": "Müşfiq Cəfərov",
       "sitting": true,
       "party_id": "new-azerbaijan-party",
@@ -2698,20 +284,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q86001452"
     },
     {
-      "id": "salahaddin-khalilov",
-      "name": "Salahaddin Khalilov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Azerbaijan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q983403"
-    },
-    {
-      "id": "sabina-khasayeva",
+      "id": "sabina-khasayeva-q330600",
       "name": "Sabina Khasayeva",
       "sitting": true,
       "party_id": "new-azerbaijan-party",
@@ -2724,7 +297,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q85622035"
     },
     {
-      "id": "fatma-y-ld-r-m",
+      "id": "razi-nurullayev-q330600",
+      "name": "Razi Nurullayev",
+      "sitting": true,
+      "party_id": "national-front-party",
+      "caucus": "National Front Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7299546"
+    },
+    {
+      "id": "vilayat-guliyev-q330600",
+      "name": "Vilayat Guliyev",
+      "sitting": true,
+      "party_id": "azerbaijan-national-independence-party",
+      "caucus": "Azerbaijan National Independence Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7930115"
+    },
+    {
+      "id": "fatma-y-ld-r-m-q330600",
       "name": "Fatma Yıldırım",
       "sitting": true,
       "party_id": "new-azerbaijan-party",
@@ -2737,7 +336,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q86001391"
     },
     {
-      "id": "nizami-s-f-rov",
+      "id": "nizami-s-f-rov-q330600",
       "name": "Nizami Səfərov",
       "sitting": true,
       "party_id": "new-azerbaijan-party",
@@ -2750,7 +349,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q93356661"
     },
     {
-      "id": "elnur-m-allahverdiyev",
+      "id": "ganira-pashayeva-q330600",
+      "name": "Ganira Pashayeva",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5241284"
+    },
+    {
+      "id": "elnur-m-allahverdiyev-q330600",
       "name": "Elnur M. Allahverdiyev",
       "sitting": true,
       "party_id": "new-azerbaijan-party",
@@ -2763,7 +375,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q84818043"
     },
     {
-      "id": "kamal-jafarov",
+      "id": "kamal-jafarov-q330600",
       "name": "Kamal Jafarov",
       "sitting": true,
       "party_id": "new-azerbaijan-party",
@@ -2776,8 +388,21 @@
       "roster_url": "http://www.wikidata.org/entity/Q85188010"
     },
     {
-      "id": "badal-badalov",
-      "name": "Badal Badalov",
+      "id": "novruz-mammadov-q330600",
+      "name": "Novruz Mammadov",
+      "sitting": true,
+      "party_id": "azerbaijan-national-independence-party",
+      "caucus": "Azerbaijan National Independence Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7065106"
+    },
+    {
+      "id": "soltan-mammadov-q330600",
+      "name": "Soltan Mammadov",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -2786,10 +411,23 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q12837943"
+      "roster_url": "http://www.wikidata.org/entity/Q86001190"
     },
     {
-      "id": "vuqar-isk-nd-rov",
+      "id": "fazail-ibrahimli-q330600",
+      "name": "Fazail İbrahimli",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q65498332"
+    },
+    {
+      "id": "vuqar-isk-nd-rov-q330600",
       "name": "Vüqar İskəndərov",
       "sitting": true,
       "party_id": "new-azerbaijan-party",
@@ -2802,8 +440,34 @@
       "roster_url": "http://www.wikidata.org/entity/Q85200926"
     },
     {
-      "id": "jala-ahmadova",
-      "name": "Jala Ahmadova",
+      "id": "samad-seyidov-q330600",
+      "name": "Samad Seyidov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7408438"
+    },
+    {
+      "id": "samir-valiyev-q330600",
+      "name": "Samir Valiyev",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q134988421"
+    },
+    {
+      "id": "vahid-ahmadov-q330600",
+      "name": "Vahid Ahmadov",
       "sitting": true,
       "party_id": "independent-politician",
       "caucus": "independent politician",
@@ -2812,23 +476,23 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q85402636"
+      "roster_url": "http://www.wikidata.org/entity/Q7908624"
     },
     {
-      "id": "faraj-guliyev",
-      "name": "Faraj Guliyev",
+      "id": "isg-nd-r-quliyev-q330600",
+      "name": "İsgəndər Quliyev",
       "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
       "constituency_label": "",
       "chamber": "National Assembly of Azerbaijan",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q96002133"
+      "roster_url": "http://www.wikidata.org/entity/Q123248486"
     },
     {
-      "id": "m-shur-m-mm-dov",
+      "id": "m-shur-m-mm-dov-q330600",
       "name": "Məşhur Məmmədov",
       "sitting": true,
       "party_id": "new-azerbaijan-party",
@@ -2841,7 +505,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q90038978"
     },
     {
-      "id": "c-bi-quliyev",
+      "id": "rizvan-nabiyev-q330600",
+      "name": "Rizvan Nabiyev",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124607779"
+    },
+    {
+      "id": "erkin-gadirli-q330600",
+      "name": "Erkin Gadirli",
+      "sitting": true,
+      "party_id": "republican-alternative-party",
+      "caucus": "Republican Alternative Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q84770352"
+    },
+    {
+      "id": "c-bi-quliyev-q330600",
       "name": "Cəbi Quliyev",
       "sitting": true,
       "party_id": "new-azerbaijan-party",
@@ -2854,7 +544,111 @@
       "roster_url": "http://www.wikidata.org/entity/Q84841116"
     },
     {
-      "id": "anar-m-mm-dov",
+      "id": "mazahir-afandiyev-q330600",
+      "name": "Mazahir Afandiyev",
+      "sitting": true,
+      "party_id": "alliance-party-for-the-sake-of-azerbaijan",
+      "caucus": "Alliance Party for the Sake of Azerbaijan",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86000773"
+    },
+    {
+      "id": "muxtar-babayev-q330600",
+      "name": "Muxtar Babayev",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6584988"
+    },
+    {
+      "id": "tural-ganjaliyev-q330600",
+      "name": "Tural Ganjaliyev",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q61122554"
+    },
+    {
+      "id": "bahruz-maharramov-q330600",
+      "name": "Bahruz Maharramov",
+      "sitting": true,
+      "party_id": "non-attached",
+      "caucus": "non-attached",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q87959916"
+    },
+    {
+      "id": "ulviyya-hamzayeva-q330600",
+      "name": "Ulviyya Hamzayeva",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7880869"
+    },
+    {
+      "id": "jala-ahmadova-q330600",
+      "name": "Jala Ahmadova",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q85402636"
+    },
+    {
+      "id": "amina-aghazada-q330600",
+      "name": "Amina Aghazada",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108084872"
+    },
+    {
+      "id": "mikay-lova-sevil-q330600",
+      "name": "Mikayılova Sevil",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108920762"
+    },
+    {
+      "id": "anar-m-mm-dov-q330600",
       "name": "Anar Məmmədov",
       "sitting": true,
       "party_id": "new-azerbaijan-party",
@@ -2867,20 +661,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q90879051"
     },
     {
-      "id": "mazahir-afandiyev",
-      "name": "Mazahir Afandiyev",
+      "id": "sabir-rustamkhanli-q330600",
+      "name": "Sabir Rustamkhanli",
       "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
+      "party_id": "popular-front-of-azerbaijan",
+      "caucus": "Popular Front of Azerbaijan",
       "constituency_label": "",
       "chamber": "National Assembly of Azerbaijan",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q86000773"
+      "roster_url": "http://www.wikidata.org/entity/Q5018584"
     },
     {
-      "id": "aliabbas-salahzade",
+      "id": "aliabbas-salahzade-q330600",
       "name": "Aliabbas Salahzade",
       "sitting": true,
       "party_id": "new-azerbaijan-party",
@@ -2891,6 +685,2411 @@
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q97221663"
+    },
+    {
+      "id": "etibar-mammadov-q330600",
+      "name": "Etibar Mammadov",
+      "sitting": true,
+      "party_id": "azerbaijan-national-independence-party",
+      "caucus": "Azerbaijan National Independence Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1371505"
+    },
+    {
+      "id": "asim-mollazad-q330600",
+      "name": "Asim Mollazadə",
+      "sitting": true,
+      "party_id": "popular-front-of-azerbaijan",
+      "caucus": "Popular Front of Azerbaijan",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4300474"
+    },
+    {
+      "id": "yagub-mahmudov-q330600",
+      "name": "Yagub Mahmudov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4285756"
+    },
+    {
+      "id": "havva-mammadova-q330600",
+      "name": "Havva Mammadova",
+      "sitting": true,
+      "party_id": "non-attached",
+      "caucus": "non-attached",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1752308"
+    },
+    {
+      "id": "arzu-s-m-db-yli-q330600",
+      "name": "Arzu Səmədbəyli",
+      "sitting": true,
+      "party_id": "musavat-party",
+      "caucus": "Musavat Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4406550"
+    },
+    {
+      "id": "polad-bulbuloghlu-q330600",
+      "name": "Polad Bulbuloghlu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112651"
+    },
+    {
+      "id": "yaqub-mammadov-q330600",
+      "name": "Yaqub Mammadov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1189565"
+    },
+    {
+      "id": "ali-karimli-q330600",
+      "name": "Ali Karimli",
+      "sitting": true,
+      "party_id": "popular-front-of-azerbaijan",
+      "caucus": "Popular Front of Azerbaijan",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4724938"
+    },
+    {
+      "id": "bakhtiyar-vahabzadeh-q330600",
+      "name": "Bakhtiyar Vahabzadeh",
+      "sitting": true,
+      "party_id": "popular-front-of-azerbaijan",
+      "caucus": "Popular Front of Azerbaijan",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2320387"
+    },
+    {
+      "id": "aynur-sofiyeva-q330600",
+      "name": "Aynur Sofiyeva",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4429937"
+    },
+    {
+      "id": "abbas-abbasov-q330600",
+      "name": "Abbas Abbasov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4054392"
+    },
+    {
+      "id": "fuad-guliyev-q330600",
+      "name": "Fuad Guliyev",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4449096"
+    },
+    {
+      "id": "ali-antsukhskiy-q330600",
+      "name": "Ali Antsukhskiy",
+      "sitting": true,
+      "party_id": "communist-party-of-the-soviet-union",
+      "caucus": "Communist Party of the Soviet Union",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4724654"
+    },
+    {
+      "id": "musa-qas-ml-q330600",
+      "name": "Musa Qasımlı",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12842330"
+    },
+    {
+      "id": "rasim-musabeyov-q330600",
+      "name": "Rasim Musabeyov",
+      "sitting": true,
+      "party_id": "musavat-party",
+      "caucus": "Musavat Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4308291"
+    },
+    {
+      "id": "araz-alizadeh-q330600",
+      "name": "Araz Alizadeh",
+      "sitting": true,
+      "party_id": "azerbaijan-social-democratic-party",
+      "caucus": "Azerbaijan Social Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4062335"
+    },
+    {
+      "id": "ali-masimov-q330600",
+      "name": "Ali Masimov",
+      "sitting": true,
+      "party_id": "azerbaijani-popular-front-party",
+      "caucus": "Azerbaijani Popular Front Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4725004"
+    },
+    {
+      "id": "murtuz-alasgarov-q330600",
+      "name": "Murtuz Alasgarov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1366582"
+    },
+    {
+      "id": "nazim-samadov-q330600",
+      "name": "Nazim Samadov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3337392"
+    },
+    {
+      "id": "aydin-abbasov-q330600",
+      "name": "Aydin Abbasov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4054393"
+    },
+    {
+      "id": "lal-abbasova-q330600",
+      "name": "Lalə Abbasova",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4054405"
+    },
+    {
+      "id": "akram-aylisli-q330600",
+      "name": "Akram Aylisli",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4059788"
+    },
+    {
+      "id": "azer-amiraslanov-q330600",
+      "name": "Azer Amiraslanov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4064359"
+    },
+    {
+      "id": "anar-mammadkhanov-q330600",
+      "name": "Anar Mammadkhanov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4279890"
+    },
+    {
+      "id": "shafiga-mammadova-q330600",
+      "name": "Shafiga Mammadova",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4279888"
+    },
+    {
+      "id": "sattar-safarov-q330600",
+      "name": "Sattar Safarov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4409209"
+    },
+    {
+      "id": "ramiz-fataliyev-q330600",
+      "name": "Ramiz Fataliyev",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4481418"
+    },
+    {
+      "id": "isa-habibbayli-q330600",
+      "name": "Isa Habibbayli",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4130889"
+    },
+    {
+      "id": "vasif-talibov-q330600",
+      "name": "Vasif Talibov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57549"
+    },
+    {
+      "id": "zeynab-khanlarova-q330600",
+      "name": "Zeynab Khanlarova",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2507445"
+    },
+    {
+      "id": "isgandar-hamidov-q330600",
+      "name": "Isgandar Hamidov",
+      "sitting": true,
+      "party_id": "azerbaijan-people-s-movement",
+      "caucus": "Azerbaijan People's Movement",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1983940"
+    },
+    {
+      "id": "agil-abbas-q330600",
+      "name": "Agil Abbas",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4054391"
+    },
+    {
+      "id": "m-lah-t-h-s-nova-q330600",
+      "name": "Məlahət Həsənova",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4134058"
+    },
+    {
+      "id": "salahaddin-khalilov-q330600",
+      "name": "Salahaddin Khalilov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q983403"
+    },
+    {
+      "id": "shovkat-mammadova-q330600",
+      "name": "Shovkat Mammadova",
+      "sitting": true,
+      "party_id": "communist-party-of-the-soviet-union",
+      "caucus": "Communist Party of the Soviet Union",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1968475"
+    },
+    {
+      "id": "ziya-bunyadov-q330600",
+      "name": "Ziya Bunyadov",
+      "sitting": true,
+      "party_id": "communist-party-of-the-soviet-union",
+      "caucus": "Communist Party of the Soviet Union",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1985760"
+    },
+    {
+      "id": "azay-guliyev-q330600",
+      "name": "Azay Guliyev",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4151832"
+    },
+    {
+      "id": "liaga-huseynov-q330600",
+      "name": "Əliağa Hüseynov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4152762"
+    },
+    {
+      "id": "anar-rzayev-q330600",
+      "name": "Anar Rzayev",
+      "sitting": true,
+      "party_id": "communist-party-of-the-soviet-union",
+      "caucus": "Communist Party of the Soviet Union",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q633750"
+    },
+    {
+      "id": "aydin-mirzazade-q330600",
+      "name": "Aydin Mirzazade",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2047294"
+    },
+    {
+      "id": "rovnag-abdullayev-q330600",
+      "name": "Rovnag Abdullayev",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "24th constituency Nizami 1",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1995614"
+    },
+    {
+      "id": "fazail-agamali-q330600",
+      "name": "Fazail Agamali",
+      "sitting": true,
+      "party_id": "motherland-party",
+      "caucus": "Motherland Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4056585"
+    },
+    {
+      "id": "lala-shevket-q330600",
+      "name": "Lala Shevket",
+      "sitting": true,
+      "party_id": "azerbaijan-liberal-party",
+      "caucus": "Azerbaijan Liberal Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2032185"
+    },
+    {
+      "id": "jamil-hasanli-q330600",
+      "name": "Jamil Hasanli",
+      "sitting": true,
+      "party_id": "popular-front-of-azerbaijan",
+      "caucus": "Popular Front of Azerbaijan",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4115558"
+    },
+    {
+      "id": "arif-hajili-q330600",
+      "name": "Arif Hajili",
+      "sitting": true,
+      "party_id": "popular-front-of-azerbaijan",
+      "caucus": "Popular Front of Azerbaijan",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4131541"
+    },
+    {
+      "id": "rahim-gaziyev-q330600",
+      "name": "Rahim Gaziyev",
+      "sitting": true,
+      "party_id": "popular-front-of-azerbaijan",
+      "caucus": "Popular Front of Azerbaijan",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4131690"
+    },
+    {
+      "id": "afiyaddin-c-lilov-q330600",
+      "name": "Afiyaddin Cəlilov",
+      "sitting": true,
+      "party_id": "communist-party-of-the-soviet-union",
+      "caucus": "Communist Party of the Soviet Union",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4159769"
+    },
+    {
+      "id": "magsud-ibrahimbeyov-q330600",
+      "name": "Magsud Ibrahimbeyov",
+      "sitting": true,
+      "party_id": "communist-party-of-the-soviet-union",
+      "caucus": "Communist Party of the Soviet Union",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4195350"
+    },
+    {
+      "id": "javad-malik-yeganov-q330600",
+      "name": "Javad Malik-Yeganov",
+      "sitting": true,
+      "party_id": "musavat-muslim-democratic-party",
+      "caucus": "Musavat (Muslim Democratic Party)",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4289443"
+    },
+    {
+      "id": "ahliman-amiraslanov-q330600",
+      "name": "Ahliman Amiraslanov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4064363"
+    },
+    {
+      "id": "ziyad-aliabbas-oglu-samadzade-q330600",
+      "name": "Ziyad Aliabbas oglu Samadzade",
+      "sitting": true,
+      "party_id": "communist-party-of-the-soviet-union",
+      "caucus": "Communist Party of the Soviet Union",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4167611"
+    },
+    {
+      "id": "li-abbasov-q330600",
+      "name": "Əli Abbasov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4054398"
+    },
+    {
+      "id": "akram-abdullayev-q330600",
+      "name": "Akram Abdullayev",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4054558"
+    },
+    {
+      "id": "c-lal-liyev-q330600",
+      "name": "Cəlal Əliyev",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4062290"
+    },
+    {
+      "id": "ziyafat-asgarov-q330600",
+      "name": "Ziyafat Asgarov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4071295"
+    },
+    {
+      "id": "rabiyyat-aslanova-q330600",
+      "name": "Rabiyyat Aslanova",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4071351"
+    },
+    {
+      "id": "ali-ahmadov-q330600",
+      "name": "Ali Ahmadov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4073064"
+    },
+    {
+      "id": "ogtay-asadov-q330600",
+      "name": "Ogtay Asadov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4071114"
+    },
+    {
+      "id": "hasan-seyidbeyli-q330600",
+      "name": "Hasan Seyidbeyli",
+      "sitting": true,
+      "party_id": "communist-party-of-the-soviet-union",
+      "caucus": "Communist Party of the Soviet Union",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4413083"
+    },
+    {
+      "id": "musa-isa-oglu-quliyev-q330600",
+      "name": "Musa İsa oğlu Quliyev",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4151834"
+    },
+    {
+      "id": "rafael-huseynov-q330600",
+      "name": "Rafael Huseynov",
+      "sitting": true,
+      "party_id": "civic-solidarity-party",
+      "caucus": "Civic Solidarity Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12845219"
+    },
+    {
+      "id": "ilham-aliyev-q330600",
+      "name": "Ilham Aliyev",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57371"
+    },
+    {
+      "id": "mehriban-alieva-q330600",
+      "name": "Mehriban Alieva",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q671930"
+    },
+    {
+      "id": "shadman-huseyn-q330600",
+      "name": "Shadman Huseyn",
+      "sitting": true,
+      "party_id": "azerbaijan-national-independence-party",
+      "caucus": "Azerbaijan National Independence Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12849375"
+    },
+    {
+      "id": "gulshan-pashayeva-q330600",
+      "name": "Gulshan Pashayeva",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16368244"
+    },
+    {
+      "id": "ajdar-ismayilov-q330600",
+      "name": "Ajdar Ismayilov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16056135"
+    },
+    {
+      "id": "iqbal-m-mm-dov-q330600",
+      "name": "İqbal Məmmədov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12849106"
+    },
+    {
+      "id": "s-ms-ddin-hac-yev-q330600",
+      "name": "Şəmsəddin Hacıyev",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12849768"
+    },
+    {
+      "id": "nizami-cafarov-q330600",
+      "name": "Nizami Cäfärov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13553633"
+    },
+    {
+      "id": "ahad-abiyev-q330600",
+      "name": "Ahad Abiyev",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12849949"
+    },
+    {
+      "id": "ali-omarov-q330600",
+      "name": "Ali Omarov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12850057"
+    },
+    {
+      "id": "arif-rahimzadeh-q330600",
+      "name": "Arif Rahimzadeh",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16364619"
+    },
+    {
+      "id": "astan-sahverdiyev-q330600",
+      "name": "Astan Şahverdiyev",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16364732"
+    },
+    {
+      "id": "bahar-muradova-q330600",
+      "name": "Bahar Muradova",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16365430"
+    },
+    {
+      "id": "b-xtiyar-sad-qov-q330600",
+      "name": "Bəxtiyar Sadıqov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16365769"
+    },
+    {
+      "id": "cavansir-pasazad-q330600",
+      "name": "Cavanşir Paşazadə",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16366024"
+    },
+    {
+      "id": "cavid-qurbanov-q330600",
+      "name": "Cavid Qurbanov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16366053"
+    },
+    {
+      "id": "elshad-mirbashir-oghlu-q330600",
+      "name": "Elshad Mirbashir oghlu",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16367113"
+    },
+    {
+      "id": "hikm-t-babaoglu-q330600",
+      "name": "Hikmət Babaoğlu",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16368696"
+    },
+    {
+      "id": "gulchohra-mammadova-q330600",
+      "name": "Gulchohra Mammadova",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q14946401"
+    },
+    {
+      "id": "b-xtiyar-liyev-q330600",
+      "name": "Bəxtiyar Əliyev",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16365787"
+    },
+    {
+      "id": "ayt-n-mustafayeva-q330600",
+      "name": "Aytən Mustafayeva",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16364940"
+    },
+    {
+      "id": "eldar-guliyev-q330600",
+      "name": "Eldar Guliyev",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16366652"
+    },
+    {
+      "id": "fattah-heydarov-q330600",
+      "name": "Fattah Heydarov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16367961"
+    },
+    {
+      "id": "aflatun-amashov-q330600",
+      "name": "Aflatun Amashov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12849884"
+    },
+    {
+      "id": "mikhail-zabelin-q330600",
+      "name": "Mikhail Zabelin",
+      "sitting": true,
+      "party_id": "communist-party-of-the-soviet-union",
+      "caucus": "Communist Party of the Soviet Union",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16370420"
+    },
+    {
+      "id": "tahir-kerimli-q330600",
+      "name": "Tahir Kerimli",
+      "sitting": true,
+      "party_id": "communist-party-of-the-soviet-union",
+      "caucus": "Communist Party of the Soviet Union",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16374817"
+    },
+    {
+      "id": "sahib-al-yev-q330600",
+      "name": "Sahib Alıyev",
+      "sitting": true,
+      "party_id": "non-attached",
+      "caucus": "non-attached",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16373861"
+    },
+    {
+      "id": "n-sib-m-h-m-liyev-q330600",
+      "name": "Nəsib Məhəməliyev",
+      "sitting": true,
+      "party_id": "civic-solidarity-party",
+      "caucus": "Civic Solidarity Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16372072"
+    },
+    {
+      "id": "nagif-hamzayev-q330600",
+      "name": "Nagif Hamzayev",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16371462"
+    },
+    {
+      "id": "rafiq-m-mm-dh-s-nov-q330600",
+      "name": "Rafiq Məmmədhəsənov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16372868"
+    },
+    {
+      "id": "sahiba-gafarova-q330600",
+      "name": "Sahiba Gafarova",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16373886"
+    },
+    {
+      "id": "siyavush-novruzov-q330600",
+      "name": "Siyavush Novruzov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16374240"
+    },
+    {
+      "id": "s-daq-t-v-liyeva-q330600",
+      "name": "Sədaqət Vəliyeva",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16374527"
+    },
+    {
+      "id": "aqiy-naxc-vanl-q330600",
+      "name": "Aqiyə Naxçıvanlı",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19713062"
+    },
+    {
+      "id": "azer-badamov-q330600",
+      "name": "Azer Badamov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19713275"
+    },
+    {
+      "id": "agalar-v-liyev-q330600",
+      "name": "Ağalar Vəliyev",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19713418"
+    },
+    {
+      "id": "kamila-aliyeva-q330600",
+      "name": "Kamila Aliyeva",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19714448"
+    },
+    {
+      "id": "javanshir-feyziyev-q330600",
+      "name": "Javanshir Feyziyev",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19713709"
+    },
+    {
+      "id": "zelimxan-yaqub-q330600",
+      "name": "Zelimxan Yaqub",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16376956"
+    },
+    {
+      "id": "zakir-sardarov-q330600",
+      "name": "Zakir Sardarov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16376635"
+    },
+    {
+      "id": "majid-karimov-q330600",
+      "name": "Majid Karimov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16418555"
+    },
+    {
+      "id": "zakhid-garalov-q330600",
+      "name": "Zakhid Garalov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18848952"
+    },
+    {
+      "id": "elman-nasirov-q330600",
+      "name": "Elman Nasirov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18427673"
+    },
+    {
+      "id": "zahid-oruc-q330600",
+      "name": "Zahid Oruc",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16376573"
+    },
+    {
+      "id": "tahir-rzayev-q330600",
+      "name": "Tahir Rzayev",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16374822"
+    },
+    {
+      "id": "sahin-ismayilov-q330600",
+      "name": "Şahin İsmayilov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16377939"
+    },
+    {
+      "id": "ali-huseynli-q330600",
+      "name": "Ali Huseynli",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16378771"
+    },
+    {
+      "id": "aziz-alakbarli-q330600",
+      "name": "Aziz Alakbarli",
+      "sitting": true,
+      "party_id": "motherland-party",
+      "caucus": "Motherland Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16379403"
+    },
+    {
+      "id": "elxan-suleymanov-q330600",
+      "name": "Elxan Süleymanov",
+      "sitting": true,
+      "party_id": "non-attached",
+      "caucus": "non-attached",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19713943"
+    },
+    {
+      "id": "rufat-guliyev-q330600",
+      "name": "Rufat Guliyev",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16416293"
+    },
+    {
+      "id": "tanzile-rustamxanl-q330600",
+      "name": "Tanzile Rustamxanlı",
+      "sitting": true,
+      "party_id": "civic-solidarity-party",
+      "caucus": "Civic Solidarity Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16375290"
+    },
+    {
+      "id": "malik-hasanov-q330600",
+      "name": "Malik Hasanov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19714703"
+    },
+    {
+      "id": "rauf-aliev-q330600",
+      "name": "Rauf Aliev",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19715482"
+    },
+    {
+      "id": "sevinc-huseynova-q330600",
+      "name": "Sevinc Hüseynova",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19715616"
+    },
+    {
+      "id": "ilham-liyev-q330600",
+      "name": "İlham Əliyev",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19716385"
+    },
+    {
+      "id": "sabil-qas-mov-q330600",
+      "name": "Əsabil Qasımov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19716722"
+    },
+    {
+      "id": "mahir-aslanov-q330600",
+      "name": "Mahir Aslanov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19714684"
+    },
+    {
+      "id": "hac-salayev-q330600",
+      "name": "Hacı Salayev",
+      "sitting": true,
+      "party_id": "non-attached",
+      "caucus": "non-attached",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19838096"
+    },
+    {
+      "id": "nariman-aliyev-q330600",
+      "name": "Nariman Aliyev",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19715053"
+    },
+    {
+      "id": "chingiz-ganizade-q330600",
+      "name": "Chingiz Ganizade",
+      "sitting": true,
+      "party_id": "non-attached",
+      "caucus": "non-attached",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19716272"
+    },
+    {
+      "id": "sabir-hac-yev-q330600",
+      "name": "Sabir Hacıyev",
+      "sitting": true,
+      "party_id": "civic-unity-party",
+      "caucus": "Civic Unity Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19715525"
+    },
+    {
+      "id": "mahir-abbaszad-q330600",
+      "name": "Mahir Abbaszadə",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "121st constituency (Laçın)",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20560414"
+    },
+    {
+      "id": "ilham-m-mm-dov-q330600",
+      "name": "İlham Məmmədov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19716382"
+    },
+    {
+      "id": "ulviyy-agayeva-q330600",
+      "name": "Ülviyyə Ağayeva",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28527872"
+    },
+    {
+      "id": "tahir-mirkisili-q330600",
+      "name": "Tahir Mirkişili",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q23304292"
+    },
+    {
+      "id": "dilar-c-bray-lova-q330600",
+      "name": "Dilarə Cəbrayılova",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28527525"
+    },
+    {
+      "id": "ayd-n-huseynov-q330600",
+      "name": "Aydın Hüseynov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28527824"
+    },
+    {
+      "id": "eld-niz-s-limov-q330600",
+      "name": "Eldəniz Səlimov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28527842"
+    },
+    {
+      "id": "elcin-quliyev-q330600",
+      "name": "Elçin Quliyev",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28527849"
+    },
+    {
+      "id": "kamal-ddin-qafarov-q330600",
+      "name": "Kamaləddin Qafarov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28527858"
+    },
+    {
+      "id": "p-rvin-k-rimzad-q330600",
+      "name": "Pərvin Kərimzadə",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28527868"
+    },
+    {
+      "id": "kamran-bayramov-q330600",
+      "name": "Kamran Bayramov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "100th constituency (Şəmkir-Daşkəsən)",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28527860"
+    },
+    {
+      "id": "els-n-musayev-q330600",
+      "name": "Elşən Musayev",
+      "sitting": true,
+      "party_id": "azerbaijan-democratic-enlightenment-party",
+      "caucus": "Azerbaijan Democratic Enlightenment Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28527854"
+    },
+    {
+      "id": "ceyhun-m-mm-dov-q330600",
+      "name": "Ceyhun Məmmədov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q55698956"
+    },
+    {
+      "id": "arzu-naghiyev-q330600",
+      "name": "Arzu Naghiyev",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28925612"
+    },
+    {
+      "id": "elmira-akhundova-q330600",
+      "name": "Elmira Akhundova",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24176171"
+    },
+    {
+      "id": "konul-nurullayeva-q330600",
+      "name": "Könül Nurullayeva",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q31295198"
+    },
+    {
+      "id": "elsad-h-s-nov-q330600",
+      "name": "Elşad Həsənov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28527851"
+    },
+    {
+      "id": "kamran-n-bizad-q330600",
+      "name": "Kamran Nəbizadə",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28527862"
+    },
+    {
+      "id": "mirz-can-x-lilov-q330600",
+      "name": "Mirzəcan Xəlilov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28527864"
+    },
+    {
+      "id": "muslum-m-mm-dov-q330600",
+      "name": "Müslüm Məmmədov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28527865"
+    },
+    {
+      "id": "vusal-huseynov-q330600",
+      "name": "Vüsal Hüseynov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24698931"
+    },
+    {
+      "id": "sona-liyeva-q330600",
+      "name": "Sona Əliyeva",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28527870"
+    },
+    {
+      "id": "aqil-mammadov-q330600",
+      "name": "Aqil Mammadov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12835904"
+    },
+    {
+      "id": "amaliya-panahova-q330600",
+      "name": "Amaliya Panahova",
+      "sitting": true,
+      "party_id": "communist-party-of-the-soviet-union",
+      "caucus": "Communist Party of the Soviet Union",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12835738"
+    },
+    {
+      "id": "vugar-bayramov-q330600",
+      "name": "Vugar Bayramov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7943344"
+    },
+    {
+      "id": "asef-hadjiyev-q330600",
+      "name": "Asef Hadjiyev",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12836122"
+    },
+    {
+      "id": "nazim-ibrahimov-q330600",
+      "name": "Nazim Ibrahimov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q11011361"
+    },
+    {
+      "id": "yevda-abramov-q330600",
+      "name": "Yevda Abramov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q8053080"
+    },
+    {
+      "id": "adil-aliyev-q330600",
+      "name": "Adil Aliyev",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12835439"
+    },
+    {
+      "id": "anar-isg-nd-rov-q330600",
+      "name": "Anar İsgəndərov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12835804"
+    },
+    {
+      "id": "az-r-k-rimli-q330600",
+      "name": "Azər Kərimli",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12836332"
+    },
+    {
+      "id": "had-r-c-bli-q330600",
+      "name": "Hadı Rəcəbli",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12840198"
+    },
+    {
+      "id": "mubariz-gurbanli-q330600",
+      "name": "Mubariz Gurbanli",
+      "sitting": true,
+      "party_id": "azerbaijan-national-independence-party",
+      "caucus": "Azerbaijan National Independence Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12842413"
+    },
+    {
+      "id": "hicran-huseynova-q330600",
+      "name": "Hicran Hüseynova",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12840326"
+    },
+    {
+      "id": "huseynbala-mir-ll-mov-q330600",
+      "name": "Hüseynbala Mirəlləmov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12840465"
+    },
+    {
+      "id": "mirkazim-kazimov-q330600",
+      "name": "Mirkazim Kazimov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12842011"
+    },
+    {
+      "id": "qalib-qurbanov-q330600",
+      "name": "Qalib Qurbanov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12844157"
+    },
+    {
+      "id": "fazil-mustafa-q330600",
+      "name": "Fazil Mustafa",
+      "sitting": true,
+      "party_id": "popular-front-of-azerbaijan",
+      "caucus": "Popular Front of Azerbaijan",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12839470"
+    },
+    {
+      "id": "gular-ahmadova-q330600",
+      "name": "Gular Ahmadova",
+      "sitting": true,
+      "party_id": "modern-equality-party",
+      "caucus": "Modern Equality Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12839980"
+    },
+    {
+      "id": "hac-m-mm-d-ramazanov-q330600",
+      "name": "Hacıməmməd Ramazanov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12840184"
+    },
+    {
+      "id": "heydar-asadov-q330600",
+      "name": "Heydar Asadov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12840307"
+    },
+    {
+      "id": "gudrat-hasanguliyev-q330600",
+      "name": "Gudrat Hasanguliyev",
+      "sitting": true,
+      "party_id": "popular-front-of-azerbaijan",
+      "caucus": "Popular Front of Azerbaijan",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12844605"
+    },
+    {
+      "id": "mad-r-musayev-q330600",
+      "name": "Madər Musayev",
+      "sitting": true,
+      "party_id": "communist-party-of-the-soviet-union",
+      "caucus": "Communist Party of the Soviet Union",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12841562"
+    },
+    {
+      "id": "flora-qas-mova-q330600",
+      "name": "Flora Qasımova",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12839554"
+    },
+    {
+      "id": "govhar-bakhshaliyeva-q330600",
+      "name": "Govhar Bakhshaliyeva",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12839846"
+    },
+    {
+      "id": "jal-liyeva-q330600",
+      "name": "Jalə Əliyeva",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12840703"
+    },
+    {
+      "id": "novruz-li-aslanov-q330600",
+      "name": "Novruzəli Aslanov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12843404"
+    },
+    {
+      "id": "ulvi-quliyev-q330600",
+      "name": "Ulvi Quliyev",
+      "sitting": true,
+      "party_id": "non-attached",
+      "caucus": "non-attached",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12848740"
+    },
+    {
+      "id": "rustam-xalilov-q330600",
+      "name": "Rüstam Xalilov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12845204"
+    },
+    {
+      "id": "r-sad-mahmudov-q330600",
+      "name": "Rəşad Mahmudov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12845295"
+    },
+    {
+      "id": "sevinc-f-t-liyeva-q330600",
+      "name": "Sevinc Fətəliyeva",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12845656"
+    },
+    {
+      "id": "tahir-suleymanov-q330600",
+      "name": "Tahir Süleymanov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12846349"
+    },
+    {
+      "id": "xanlar-f-tiyev-q330600",
+      "name": "Xanlar Fətiyev",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12847511"
+    },
+    {
+      "id": "imamverdi-ismay-lov-q330600",
+      "name": "İmamverdi İsmayılov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12848996"
+    },
+    {
+      "id": "xanhuseyn-kaz-ml-q330600",
+      "name": "Xanhüseyn Kazımlı",
+      "sitting": true,
+      "party_id": "azerbaijan-social-prosperity-party",
+      "caucus": "Azerbaijan Social Prosperity Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12847503"
+    },
+    {
+      "id": "rafael-c-bray-lov-q330600",
+      "name": "Rafael Cəbrayılov",
+      "sitting": true,
+      "party_id": "non-attached",
+      "caucus": "non-attached",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12844831"
+    },
+    {
+      "id": "s-ttar-mehbal-yev-q330600",
+      "name": "Səttar Mehbalıyev",
+      "sitting": true,
+      "party_id": "non-attached",
+      "caucus": "non-attached",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12846308"
+    },
+    {
+      "id": "valeh-l-sg-rov-q330600",
+      "name": "Valeh Ələsgərov",
+      "sitting": true,
+      "party_id": "non-attached",
+      "caucus": "non-attached",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12847105"
+    },
+    {
+      "id": "agacan-abiyev-q330600",
+      "name": "Ağacan Abiyev",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12836966"
+    },
+    {
+      "id": "m-ry-m-h-s-nova-q330600",
+      "name": "Məryəm Həsənova",
+      "sitting": true,
+      "party_id": "communist-party-of-the-soviet-union",
+      "caucus": "Communist Party of the Soviet Union",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q55825258"
+    },
+    {
+      "id": "eldar-ibrahimov-q330600",
+      "name": "Eldar Ibrahimov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12839020"
+    },
+    {
+      "id": "dunyamin-zakir-oglu-x-lilov-q330600",
+      "name": "Dünyamin Zakir oğlu Xəlilov",
+      "sitting": true,
+      "party_id": "nonpartisanism",
+      "caucus": "nonpartisanism",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12838751"
+    },
+    {
+      "id": "badal-badalov-q330600",
+      "name": "Badal Badalov",
+      "sitting": true,
+      "party_id": "new-azerbaijan-party",
+      "caucus": "New Azerbaijan Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Azerbaijan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12837943"
     }
   ]
 }

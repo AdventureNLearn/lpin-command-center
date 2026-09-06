@@ -1,7 +1,74 @@
 {
   "iso2": "br",
   "kit": "institutional",
-  "items": [],
   "incomplete": true,
-  "note": ":8103 claimed institutional_kits = 0."
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q155",
+  "bodies": [
+    {
+      "qid": "Q125962643",
+      "label": "Senate of the Empire of Brazil",
+      "seats": 0,
+      "web": "",
+      "kind": "lower"
+    },
+    {
+      "qid": "Q2119413",
+      "label": "Federal Senate of Brazil",
+      "seats": 81,
+      "web": "http://www.senado.gov.br/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1834804",
+      "label": "Chamber of Deputies",
+      "seats": 513,
+      "web": "https://www.camara.leg.br/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q949699",
+      "label": "National Congress of Brazil",
+      "seats": 0,
+      "web": "https://www.congressonacional.leg.br/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Senate of the Empire of Brazil",
+    "Federal Senate of Brazil",
+    "Chamber of Deputies"
+  ],
+  "seats": 594,
+  "items": [
+    {
+      "id": "Q125962643",
+      "name": "Senate of the Empire of Brazil",
+      "kind": "lower",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q125962643"
+    },
+    {
+      "id": "Q2119413",
+      "name": "Federal Senate of Brazil",
+      "kind": "chamber",
+      "seats": 81,
+      "url": "http://www.senado.gov.br/"
+    },
+    {
+      "id": "Q1834804",
+      "name": "Chamber of Deputies",
+      "kind": "chamber",
+      "seats": 513,
+      "url": "https://www.camara.leg.br/"
+    },
+    {
+      "id": "Q949699",
+      "name": "National Congress of Brazil",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://www.congressonacional.leg.br/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

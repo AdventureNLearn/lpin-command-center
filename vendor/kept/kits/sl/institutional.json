@@ -1,0 +1,44 @@
+{
+  "iso2": "sl",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q1044",
+  "bodies": [
+    {
+      "qid": "Q19694740",
+      "label": "Member of the Parliament of Sierra Leone",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1138130",
+      "label": "Parliament of Sierra Leone",
+      "seats": 124,
+      "web": "https://www.parliament.gov.sl/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Member of the Parliament of Sierra Leone"
+  ],
+  "seats": 124,
+  "items": [
+    {
+      "id": "Q19694740",
+      "name": "Member of the Parliament of Sierra Leone",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q19694740"
+    },
+    {
+      "id": "Q1138130",
+      "name": "Parliament of Sierra Leone",
+      "kind": "parliament",
+      "seats": 124,
+      "url": "https://www.parliament.gov.sl/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

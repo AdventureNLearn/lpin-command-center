@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1969527"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1969527",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21290849",
+      "label": "Deputy (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21290849",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1969527",
+      "label": "National Assembly",
+      "url": "http://assemblee-nationale.bj/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1969527",
+      "label": "National Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1969527",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

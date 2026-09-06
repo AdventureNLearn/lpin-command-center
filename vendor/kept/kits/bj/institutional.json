@@ -1,0 +1,44 @@
+{
+  "iso2": "bj",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q962",
+  "bodies": [
+    {
+      "qid": "Q21290849",
+      "label": "Deputy",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1969527",
+      "label": "National Assembly",
+      "seats": 109,
+      "web": "http://assemblee-nationale.bj/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Deputy"
+  ],
+  "seats": 109,
+  "items": [
+    {
+      "id": "Q21290849",
+      "name": "Deputy",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q21290849"
+    },
+    {
+      "id": "Q1969527",
+      "name": "National Assembly",
+      "kind": "parliament",
+      "seats": 109,
+      "url": "http://assemblee-nationale.bj/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

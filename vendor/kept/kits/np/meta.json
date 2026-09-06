@@ -3,9 +3,9 @@
   "name": "Nepal",
   "region": "",
   "chamber": "Parliament of Nepal",
-  "houses": "",
+  "houses": "bicameral",
   "system": "",
-  "seats": 240,
+  "seats": 334,
   "election": "",
   "session": "",
   "kit": "scoring",
@@ -14,8 +14,8 @@
   ],
   "threshold": 5,
   "counts": {
-    "members": 240,
-    "sitting": 240,
+    "members": 266,
+    "sitting": 266,
     "votes": 0,
     "committees": 0,
     "key_votes": 0,
@@ -38,7 +38,7 @@
   "incomplete": true,
   "lane": "gold-kit-8103",
   "source_live": null,
-  "note": "Gold object shape 2026-09-06. Sitting 240 from Wikidata. Votes/pledges/money empty — not invented.",
+  "note": "Full-ISO Wikidata fill 2026-09-06. 3 bodies. Sitting 266. Votes/pledges/ethics/money not invented.",
   "roster_source": "https://www.wikidata.org/wiki/Q3896143",
   "honest_complete": false
 }

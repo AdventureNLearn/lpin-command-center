@@ -3,8 +3,53 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q2511660"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q2511660",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q2119404",
+      "label": "Senate of Paraguay",
+      "url": "http://www.senado.gov.py/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q2119404",
+      "label": "Senate of Paraguay (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q2119404",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q2511660",
+      "label": "Congress of Paraguay",
+      "url": "http://www.congreso.gov.py/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q2511660",
+      "label": "Congress of Paraguay (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q2511660",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q320290",
+      "label": "Chamber of Deputies",
+      "url": "https://www.diputados.gov.py/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q320290",
+      "label": "Chamber of Deputies (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q320290",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

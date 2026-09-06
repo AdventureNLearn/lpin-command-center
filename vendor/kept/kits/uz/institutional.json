@@ -1,0 +1,59 @@
+{
+  "iso2": "uz",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q265",
+  "bodies": [
+    {
+      "qid": "Q6518225",
+      "label": "Legislative Chamber of Uzbekistan",
+      "seats": 150,
+      "web": "https://parliament.gov.uz/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q2117711",
+      "label": "Senate of Uzbekistan",
+      "seats": 100,
+      "web": "https://senat.uz/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1583318",
+      "label": "Oliy Majlis",
+      "seats": 150,
+      "web": "",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Legislative Chamber of Uzbekistan",
+    "Senate of Uzbekistan"
+  ],
+  "seats": 400,
+  "items": [
+    {
+      "id": "Q6518225",
+      "name": "Legislative Chamber of Uzbekistan",
+      "kind": "chamber",
+      "seats": 150,
+      "url": "https://parliament.gov.uz/"
+    },
+    {
+      "id": "Q2117711",
+      "name": "Senate of Uzbekistan",
+      "kind": "chamber",
+      "seats": 100,
+      "url": "https://senat.uz/"
+    },
+    {
+      "id": "Q1583318",
+      "name": "Oliy Majlis",
+      "kind": "parliament",
+      "seats": 150,
+      "url": "https://www.wikidata.org/wiki/Q1583318"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

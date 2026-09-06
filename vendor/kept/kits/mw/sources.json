@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1577811"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1577811",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21295990",
+      "label": "Member of the National Assembly of Malawi (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21295990",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1577811",
+      "label": "National Assembly",
+      "url": "http://www.parliament.gov.mw/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1577811",
+      "label": "National Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1577811",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

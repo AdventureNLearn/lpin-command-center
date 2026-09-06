@@ -1,6 +1,59 @@
 {
   "iso2": "cl",
   "kit": "institutional",
-  "items": [],
-  "incomplete": true
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q298",
+  "bodies": [
+    {
+      "qid": "Q2119458",
+      "label": "Senate of Chile",
+      "seats": 50,
+      "web": "https://www.senado.cl/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q2119518",
+      "label": "Chamber of Deputies",
+      "seats": 155,
+      "web": "http://www.camara.cl",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1968468",
+      "label": "National Congress of Chile",
+      "seats": 0,
+      "web": "http://www.congreso.cl/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Senate of Chile",
+    "Chamber of Deputies"
+  ],
+  "seats": 205,
+  "items": [
+    {
+      "id": "Q2119458",
+      "name": "Senate of Chile",
+      "kind": "chamber",
+      "seats": 50,
+      "url": "https://www.senado.cl/"
+    },
+    {
+      "id": "Q2119518",
+      "name": "Chamber of Deputies",
+      "kind": "chamber",
+      "seats": 155,
+      "url": "http://www.camara.cl"
+    },
+    {
+      "id": "Q1968468",
+      "name": "National Congress of Chile",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "http://www.congreso.cl/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

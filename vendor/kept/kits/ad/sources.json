@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q24824"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q24824",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q20177831",
+      "label": "Member of the General Council of Andorra (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q20177831",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q24824",
+      "label": "General Council of Andorra",
+      "url": "http://www.consellgeneral.ad",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q24824",
+      "label": "General Council of Andorra (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q24824",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

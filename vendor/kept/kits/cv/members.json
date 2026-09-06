@@ -3,11 +3,41 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1718790",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 9,
+  "incomplete": true,
+  "claimed_seats": 72,
+  "chambers": [
+    "Member of the National Assembly of Cape Verde",
+    "National Assembly of Cape Verde"
+  ],
   "items": [
     {
-      "id": "emanuel-jesus-correia-lopes",
+      "id": "ulisses-correia-e-silva-q1718790",
+      "name": "Ulisses Correia e Silva",
+      "sitting": true,
+      "party_id": "movement-for-democracy",
+      "caucus": "Movement for Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly of Cape Verde",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q23899522"
+    },
+    {
+      "id": "eunice-silva-q1718790",
+      "name": "Eunice Silva",
+      "sitting": true,
+      "party_id": "movement-for-democracy",
+      "caucus": "Movement for Democracy",
+      "constituency_label": "Santiago Sul",
+      "chamber": "National Assembly of Cape Verde",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45965970"
+    },
+    {
+      "id": "emanuel-jesus-correia-lopes-q1718790",
       "name": "Emanuel Jesus Correia Lopes",
       "sitting": true,
       "party_id": "unknown",
@@ -20,11 +50,11 @@
       "roster_url": "http://www.wikidata.org/entity/Q29158764"
     },
     {
-      "id": "aristides-lima",
+      "id": "aristides-lima-q1718790",
       "name": "Aristides Lima",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "african-party-for-the-independence-of-cape-verde",
+      "caucus": "African Party for the Independence of Cape Verde",
       "constituency_label": "",
       "chamber": "National Assembly of Cape Verde",
       "lang": [
@@ -33,7 +63,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q2861382"
     },
     {
-      "id": "maria-helena-semedo",
+      "id": "maria-helena-semedo-q1718790",
       "name": "Maria Helena Semedo",
       "sitting": true,
       "party_id": "unknown",
@@ -46,59 +76,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q17024697"
     },
     {
-      "id": "joao-baptista-ferreira-medina",
-      "name": "João Baptista Ferreira Medina",
+      "id": "isaura-gomes-q1718790",
+      "name": "Isaura Gomes",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "movement-for-democracy",
+      "caucus": "Movement for Democracy",
       "constituency_label": "",
       "chamber": "National Assembly of Cape Verde",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q6298027"
+      "roster_url": "http://www.wikidata.org/entity/Q24565805"
     },
     {
-      "id": "ulisses-correia-e-silva",
-      "name": "Ulisses Correia e Silva",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Cape Verde",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q23899522"
-    },
-    {
-      "id": "onesimo-silveira",
-      "name": "Onésimo Silveira",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Cape Verde",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7095224"
-    },
-    {
-      "id": "rui-alberto-de-figueiredo-soares",
-      "name": "Rui Alberto de Figueiredo Soares",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Cape Verde",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7378692"
-    },
-    {
-      "id": "nilda-maria",
+      "id": "nilda-maria-q1718790",
       "name": "Nilda Maria",
       "sitting": true,
       "party_id": "unknown",
@@ -111,7 +102,59 @@
       "roster_url": "http://www.wikidata.org/entity/Q43389063"
     },
     {
-      "id": "luis-antonio-gomes-alves",
+      "id": "joao-baptista-ferreira-medina-q1718790",
+      "name": "João Baptista Ferreira Medina",
+      "sitting": true,
+      "party_id": "movement-for-democracy",
+      "caucus": "Movement for Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly of Cape Verde",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6298027"
+    },
+    {
+      "id": "rui-alberto-de-figueiredo-soares-q1718790",
+      "name": "Rui Alberto de Figueiredo Soares",
+      "sitting": true,
+      "party_id": "movement-for-democracy",
+      "caucus": "Movement for Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly of Cape Verde",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7378692"
+    },
+    {
+      "id": "luis-de-matos-monteiro-da-fonseca-q1718790",
+      "name": "Luís de Matos Monteiro da Fonseca",
+      "sitting": true,
+      "party_id": "african-party-for-the-independence-of-cape-verde",
+      "caucus": "African Party for the Independence of Cape Verde",
+      "constituency_label": "",
+      "chamber": "National Assembly of Cape Verde",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3268211"
+    },
+    {
+      "id": "onesimo-silveira-q1718790",
+      "name": "Onésimo Silveira",
+      "sitting": true,
+      "party_id": "people-work-and-solidarity",
+      "caucus": "People Work and Solidarity",
+      "constituency_label": "",
+      "chamber": "National Assembly of Cape Verde",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7095224"
+    },
+    {
+      "id": "luis-antonio-gomes-alves-q1718790",
       "name": "Luís António Gomes Alves",
       "sitting": true,
       "party_id": "unknown",

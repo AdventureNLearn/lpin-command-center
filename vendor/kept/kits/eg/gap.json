@@ -1,7 +1,18 @@
 {
   "iso2": "eg",
-  "items": [],
+  "items": [
+    {
+      "id": "pledges",
+      "hole": "No sourced quote+URL pledges.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "money",
+      "hole": "No sourced money file.",
+      "basis": "Evidence"
+    }
+  ],
   "incomplete": true,
-  "examined_pairs": 0,
-  "note": "Dual-source exam: pledges 0 (hunt-stop) × clerk votes with no member yeas. No own-pledge break possible. Empty gap is success. Yeas not invented."
+  "retrieved": "2026-09-06",
+  "note": "Full-ISO fill 2026-09-06. Chambers: Senate of Egypt · Shura Council · Parliament of Egypt · House of Representatives. Sitting 596. Empty objects not invented."
 }

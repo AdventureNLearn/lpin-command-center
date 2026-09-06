@@ -3,12 +3,16 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1422275",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 204,
+  "incomplete": true,
+  "claimed_seats": 128,
+  "chambers": [
+    "Member of the Parliament of Lebanon",
+    "Parliament of Lebanon"
+  ],
   "items": [
     {
-      "id": "pierre-edde",
-      "name": "Pierre Eddé",
+      "id": "ali-bazzi-q1422275",
+      "name": "Ali Bazzi",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -17,62 +21,23 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q1516997"
+      "roster_url": "http://www.wikidata.org/entity/Q4724565"
     },
     {
-      "id": "nayla-moawad",
-      "name": "Nayla Moawad",
+      "id": "wael-abu-faour-q1422275",
+      "name": "Wael Abu Faour",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "progressive-socialist-party",
+      "caucus": "Progressive Socialist Party",
       "constituency_label": "",
       "chamber": "Parliament of Lebanon",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q1395651"
+      "roster_url": "http://www.wikidata.org/entity/Q3566888"
     },
     {
-      "id": "ali-ammar",
-      "name": "Ali Ammar",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12228154"
-    },
-    {
-      "id": "nasri-maalouf",
-      "name": "Nasri Maalouf",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q183556"
-    },
-    {
-      "id": "joseph-aboukhater",
-      "name": "Joseph Aboukhater",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1706403"
-    },
-    {
-      "id": "ahmed-al-husseiny",
+      "id": "ahmed-al-husseiny-q1422275",
       "name": "Ahmed al-Husseiny",
       "sitting": true,
       "party_id": "unknown",
@@ -85,7 +50,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q12179106"
     },
     {
-      "id": "ibrahim-haidar",
+      "id": "anwar-al-sabbah-q1422275",
+      "name": "Anwar Al-Sabbah",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12180908"
+    },
+    {
+      "id": "ibrahim-haidar-q1422275",
       "name": "Ibrahim Haidar",
       "sitting": true,
       "party_id": "unknown",
@@ -98,7 +76,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q12181527"
     },
     {
-      "id": "bishara-merhej",
+      "id": "bishara-merhej-q1422275",
       "name": "Bishara Merhej",
       "sitting": true,
       "party_id": "unknown",
@@ -111,7 +89,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q12198409"
     },
     {
-      "id": "rashid-baydoun",
+      "id": "rashid-baydoun-q1422275",
       "name": "Rashid Baydoun",
       "sitting": true,
       "party_id": "unknown",
@@ -124,7 +102,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q12213418"
     },
     {
-      "id": "abdul-karim-zein",
+      "id": "abdul-karim-zein-q1422275",
       "name": "Abdul Karim Zein",
       "sitting": true,
       "party_id": "unknown",
@@ -137,7 +115,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q12223245"
     },
     {
-      "id": "abd-al-majid-al-rafei",
+      "id": "abd-al-majid-al-rafei-q1422275",
       "name": "Abd al-Majid al-Rafei",
       "sitting": true,
       "party_id": "unknown",
@@ -150,7 +128,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q12223733"
     },
     {
-      "id": "abdel-majid-zein",
+      "id": "abdel-majid-zein-q1422275",
       "name": "Abdel Majid Zein",
       "sitting": true,
       "party_id": "unknown",
@@ -163,7 +141,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q12223736"
     },
     {
-      "id": "abd-allah-hajj",
+      "id": "abd-allah-hajj-q1422275",
       "name": "ʻAbd Allāh Ḥājj",
       "sitting": true,
       "party_id": "unknown",
@@ -176,8 +154,8 @@
       "roster_url": "http://www.wikidata.org/entity/Q12223687"
     },
     {
-      "id": "ali-bazzi",
-      "name": "ʻAlī Bazzī",
+      "id": "jean-obeid-q1422275",
+      "name": "Jean Obeid",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -186,1141 +164,10 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q12228065"
+      "roster_url": "http://www.wikidata.org/entity/Q3173769"
     },
     {
-      "id": "ghalib-saeed-shaheen",
-      "name": "Ghalib Saeed Shaheen",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12229377"
-    },
-    {
-      "id": "fadlallah-danash",
-      "name": "Fadlallah Danash",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12230880"
-    },
-    {
-      "id": "faisal-daoud",
-      "name": "Faisal Daoud",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12231637"
-    },
-    {
-      "id": "marwan-abou-fadel",
-      "name": "Marwan Abou Fadel",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12242341"
-    },
-    {
-      "id": "michel-moawad",
-      "name": "Michel Moawad",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12246818"
-    },
-    {
-      "id": "nadim-jisr",
-      "name": "Nadīm Jisr",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12248176"
-    },
-    {
-      "id": "nehme-tohme",
-      "name": "Nehmé Tohmé",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12248702"
-    },
-    {
-      "id": "nawwaf-moussawi",
-      "name": "Nawwaf Moussawi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12249076"
-    },
-    {
-      "id": "youssef-zein",
-      "name": "Youssef Zein",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12252041"
-    },
-    {
-      "id": "sobhi-mahmassani",
-      "name": "Sobhi Mahmassani",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q15257863"
-    },
-    {
-      "id": "shafiq-badr",
-      "name": "Shafiq Badr",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q15993489"
-    },
-    {
-      "id": "adnan-al-hakim",
-      "name": "Adnan al-Hakim",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16012442"
-    },
-    {
-      "id": "nohad-machnouk",
-      "name": "Nohad Machnouk",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16123912"
-    },
-    {
-      "id": "ghassan-moukheiber",
-      "name": "Ghassan Moukheiber",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16125550"
-    },
-    {
-      "id": "raphael-lahoud",
-      "name": "Raphael Lahoud",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q18415150"
-    },
-    {
-      "id": "asmar-asmar",
-      "name": "Asmar Asmar",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19281612"
-    },
-    {
-      "id": "joseph-chader",
-      "name": "Joseph Chader",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19281837"
-    },
-    {
-      "id": "abdallah-ishak",
-      "name": "Abdallah Ishak",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19559894"
-    },
-    {
-      "id": "fakhr-fakhr",
-      "name": "Fakhr Fakhr",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19560453"
-    },
-    {
-      "id": "henri-helou",
-      "name": "Henri Helou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q20425839"
-    },
-    {
-      "id": "qassem-hashem",
-      "name": "Qassem Hashem",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12231993"
-    },
-    {
-      "id": "joseph-skaff",
-      "name": "Joseph Skaff",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q110635937"
-    },
-    {
-      "id": "maarouf-saad",
-      "name": "Maarouf Saad",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3273711"
-    },
-    {
-      "id": "talal-arslan",
-      "name": "Talal Arslan",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2379068"
-    },
-    {
-      "id": "jamil-lahoud",
-      "name": "Jamil Lahoud",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2583157"
-    },
-    {
-      "id": "majid-arslan",
-      "name": "Majid Arslan",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2655676"
-    },
-    {
-      "id": "gebran-bassil",
-      "name": "Gebran Bassil",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2737847"
-    },
-    {
-      "id": "ali-eid",
-      "name": "Ali Eid",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2739438"
-    },
-    {
-      "id": "raymond-edde",
-      "name": "Raymond Eddé",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2777828"
-    },
-    {
-      "id": "maurice-gemayel",
-      "name": "Maurice Gemayel",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2797532"
-    },
-    {
-      "id": "hassan-sabeh",
-      "name": "Hassan Sabeh",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q330876"
-    },
-    {
-      "id": "abdul-rahim-mourad",
-      "name": "Abdul Rahim Mourad",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2820965"
-    },
-    {
-      "id": "alaeddine-terro",
-      "name": "Alaeddine Terro",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2829473"
-    },
-    {
-      "id": "albert-moukheiber",
-      "name": "Albert Moukheiber",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2831419"
-    },
-    {
-      "id": "ali-mekdad",
-      "name": "Ali Mekdad",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2836294"
-    },
-    {
-      "id": "ali-osseiran",
-      "name": "Ali Osseiran",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2836318"
-    },
-    {
-      "id": "anwar-khalil",
-      "name": "Anwar Khalil",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2852389"
-    },
-    {
-      "id": "antoine-andraos",
-      "name": "Antoine Andraos",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2853595"
-    },
-    {
-      "id": "antoine-khoury",
-      "name": "Antoine Khoury",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2854114"
-    },
-    {
-      "id": "antoine-zahra",
-      "name": "Antoine Zahra",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2856820"
-    },
-    {
-      "id": "assaad-hardan",
-      "name": "Assaad Hardan",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2866926"
-    },
-    {
-      "id": "assem-araji",
-      "name": "Assem Araji",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2867000"
-    },
-    {
-      "id": "atef-majdalani",
-      "name": "Atef Majdalani",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2868800"
-    },
-    {
-      "id": "ayman-choucair",
-      "name": "Ayman Choucair",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2874903"
-    },
-    {
-      "id": "ayoub-hmayed",
-      "name": "Ayoub Hmayed",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2875006"
-    },
-    {
-      "id": "azzam-dandachi",
-      "name": "Azzam Dandachi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2875285"
-    },
-    {
-      "id": "badr-wannous",
-      "name": "Badr Wannous",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2878788"
-    },
-    {
-      "id": "bassem-chab",
-      "name": "Bassem Chab",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2887380"
-    },
-    {
-      "id": "bassem-sabeh",
-      "name": "Bassem Sabeh",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2887389"
-    },
-    {
-      "id": "abdelmajid-saleh",
-      "name": "Abdelmajid Saleh",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2912332"
-    },
-    {
-      "id": "yassine-jaber",
-      "name": "Yassine Jaber",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2912345"
-    },
-    {
-      "id": "suleiman-frangieh",
-      "name": "Suleiman Frangieh",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2915518"
-    },
-    {
-      "id": "nadim-gemayel",
-      "name": "Nadim Gemayel",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2919035"
-    },
-    {
-      "id": "boutros-harb",
-      "name": "Boutros Harb",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2922636"
-    },
-    {
-      "id": "camille-khoury",
-      "name": "Camille Khoury",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2934976"
-    },
-    {
-      "id": "ali-khreis",
-      "name": "Ali Khreis",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2943512"
-    },
-    {
-      "id": "hassan-fadlallah",
-      "name": "Hassan Fadlallah",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2943507"
-    },
-    {
-      "id": "ali-fayyad",
-      "name": "Ali Fayyad",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2943737"
-    },
-    {
-      "id": "ghazi-zaiter",
-      "name": "Ghazi Zaiter",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2943722"
-    },
-    {
-      "id": "hussein-moussawi",
-      "name": "Hussein Moussawi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2943715"
-    },
-    {
-      "id": "hani-kobeissy",
-      "name": "Hani Kobeissy",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2943744"
-    },
-    {
-      "id": "nawar-al-sahili",
-      "name": "Nawar al-Sahili",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2943729"
-    },
-    {
-      "id": "edmond-naim",
-      "name": "Edmond Naïm",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3047940"
-    },
-    {
-      "id": "edmond-rizk",
-      "name": "Edmond Rizk",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3047975"
-    },
-    {
-      "id": "elias-atallah",
-      "name": "Elias Atallah",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3050927"
-    },
-    {
-      "id": "elie-aoun",
-      "name": "Elie Aoun",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3050946"
-    },
-    {
-      "id": "elie-ferzli",
-      "name": "Elie Ferzli",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3050961"
-    },
-    {
-      "id": "elie-kayrouz",
-      "name": "Elie Kayrouz",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3050973"
-    },
-    {
-      "id": "fares-boueiz",
-      "name": "Farès Boueiz",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3066825"
-    },
-    {
-      "id": "farid-elias-khazen",
-      "name": "Farid Elias Khazen",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3066881"
-    },
-    {
-      "id": "farid-haykal-khazen",
-      "name": "Farid Haykal Khazen",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3066888"
-    },
-    {
-      "id": "farid-habib",
-      "name": "Farid Habib",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3066889"
-    },
-    {
-      "id": "fathi-yakan",
-      "name": "Fathi Yakan",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3067198"
-    },
-    {
-      "id": "faisal-karami",
-      "name": "Faisal Karami",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3067717"
-    },
-    {
-      "id": "faycal-sayegh",
-      "name": "Fayçal Sayegh",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3067722"
-    },
-    {
-      "id": "fouad-lahoud",
-      "name": "Fouad Lahoud",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3079788"
-    },
-    {
-      "id": "gabriel-murr",
-      "name": "Gabriel Murr",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3093894"
-    },
-    {
-      "id": "georges-adwan",
-      "name": "Georges Adwan",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3102173"
-    },
-    {
-      "id": "georges-frem",
-      "name": "Georges Frem",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3102737"
-    },
-    {
-      "id": "georges-saadeh",
-      "name": "Georges Saadeh",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3103444"
-    },
-    {
-      "id": "ghattas-khoury",
-      "name": "Ghattas Khoury",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3104800"
-    },
-    {
-      "id": "gebran-areiji",
-      "name": "Gebran Areiji",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3122868"
-    },
-    {
-      "id": "hadi-hobeich",
-      "name": "Hadi Hobeich",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3125537"
-    },
-    {
-      "id": "hagop-kassarjian",
-      "name": "Hagop Kassarjian",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3125718"
-    },
-    {
-      "id": "hagop-pakradounian",
-      "name": "Hagop Pakradounian",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3125719"
-    },
-    {
-      "id": "hussein-hajj-hassan",
-      "name": "Hussein Hajj Hassan",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3143487"
-    },
-    {
-      "id": "ibrahim-kanaan",
-      "name": "Ibrahim Kanaan",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3147500"
-    },
-    {
-      "id": "khatchig-babikian",
+      "id": "khatchig-babikian-q1422275",
       "name": "Khatchig Babikian",
       "sitting": true,
       "party_id": "unknown",
@@ -1333,20 +180,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q3196103"
     },
     {
-      "id": "mahmoud-abdel-khalek",
-      "name": "Mahmoud Abdel Khalek",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3277775"
-    },
-    {
-      "id": "maroun-kanaan",
+      "id": "maroun-kanaan-q1422275",
       "name": "Maroun Kanaan",
       "sitting": true,
       "party_id": "unknown",
@@ -1359,20 +193,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q3294658"
     },
     {
-      "id": "marwan-fares",
-      "name": "Marwan Fares",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3296101"
-    },
-    {
-      "id": "michel-samaha",
+      "id": "michel-samaha-q1422275",
       "name": "Michel Samaha",
       "sitting": true,
       "party_id": "unknown",
@@ -1385,8 +206,8 @@
       "roster_url": "http://www.wikidata.org/entity/Q3310815"
     },
     {
-      "id": "naim-moghabghab",
-      "name": "Naim Moghabghab",
+      "id": "mikhael-daher-q1422275",
+      "name": "Mikhael Daher",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -1395,387 +216,10 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q22948641"
+      "roster_url": "http://www.wikidata.org/entity/Q3313622"
     },
     {
-      "id": "ibrahim-mundhir",
-      "name": "Ibrāhīm Mundhir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q24845150"
-    },
-    {
-      "id": "simon-abi-ramia",
-      "name": "Simon Abi Ramia",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q24950786"
-    },
-    {
-      "id": "philippe-najib-boulos",
-      "name": "Philippe Najib Boulos",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q26246919"
-    },
-    {
-      "id": "fouad-makhzoumi",
-      "name": "Fouad Makhzoumi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28968419"
-    },
-    {
-      "id": "fouad-naffah",
-      "name": "Fouad Naffah",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q29371800"
-    },
-    {
-      "id": "michael-moussa",
-      "name": "Michael Moussa",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3310429"
-    },
-    {
-      "id": "amal-abou-zeid",
-      "name": "Amal Abou Zeid",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q32534683"
-    },
-    {
-      "id": "elia-frem",
-      "name": "Elia frem",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2919005"
-    },
-    {
-      "id": "myrna-bustani",
-      "name": "Myrna Bustani",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q33076428"
-    },
-    {
-      "id": "omar-miskawi",
-      "name": "Omar Miskawi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q123628221"
-    },
-    {
-      "id": "samir-aziz-aoun",
-      "name": "Samir Aziz Aoun",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q98690248"
-    },
-    {
-      "id": "nabih-berri",
-      "name": "Nabih Berri",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q704220"
-    },
-    {
-      "id": "tony-frangieh",
-      "name": "Tony Frangieh",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q716290"
-    },
-    {
-      "id": "muhammad-fneish",
-      "name": "Muhammad Fneish",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q715445"
-    },
-    {
-      "id": "marwan-hamadeh",
-      "name": "Marwan Hamadeh",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q743555"
-    },
-    {
-      "id": "issam-naaman",
-      "name": "Issam Naaman",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q751195"
-    },
-    {
-      "id": "michel-georges-sassine",
-      "name": "Michel Georges Sassine",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6836399"
-    },
-    {
-      "id": "mona-ofeich",
-      "name": "Mona Ofeich",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6897704"
-    },
-    {
-      "id": "mounir-abou-fadel",
-      "name": "Mounir Abou Fadel",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6919176"
-    },
-    {
-      "id": "salim-abd-an-nur",
-      "name": "Salim Abd an-Nur",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7404546"
-    },
-    {
-      "id": "salim-bey-karam",
-      "name": "Salim Bey Karam",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7404555"
-    },
-    {
-      "id": "salim-lahoud",
-      "name": "Salim Lahoud",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7404568"
-    },
-    {
-      "id": "salim-saade",
-      "name": "Salim Saade",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7404582"
-    },
-    {
-      "id": "talal-el-merhebi",
-      "name": "Talal El Merhebi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7678838"
-    },
-    {
-      "id": "youssef-salim-bey-karam",
-      "name": "Youssef Salim Bey Karam",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q8059070"
-    },
-    {
-      "id": "philippe-takla",
-      "name": "Philippe Takla",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q956900"
-    },
-    {
-      "id": "paula-yacoubian",
-      "name": "Paula Yacoubian",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Beirut I",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7154798"
-    },
-    {
-      "id": "melhem-khalaf",
-      "name": "Melhem Khalaf",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q83314849"
-    },
-    {
-      "id": "arthur-nazarian",
-      "name": "Arthur Nazarian",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q378415"
-    },
-    {
-      "id": "misbah-ahdab",
+      "id": "misbah-ahdab-q1422275",
       "name": "Misbah Ahdab",
       "sitting": true,
       "party_id": "unknown",
@@ -1788,7 +232,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q3316220"
     },
     {
-      "id": "mohammad-kabbara",
+      "id": "mohammad-kabbara-q1422275",
       "name": "Mohammad Kabbara",
       "sitting": true,
       "party_id": "unknown",
@@ -1801,8 +245,8 @@
       "roster_url": "http://www.wikidata.org/entity/Q3318932"
     },
     {
-      "id": "mohammad-raad",
-      "name": "Mohammad Raad",
+      "id": "mohammed-kabbani-q1422275",
+      "name": "Mohammed Kabbani",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -1811,10 +255,10 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q3318951"
+      "roster_url": "http://www.wikidata.org/entity/Q3319030"
     },
     {
-      "id": "mounir-al-hajj",
+      "id": "mounir-al-hajj-q1422275",
       "name": "Mounir al-Hajj",
       "sitting": true,
       "party_id": "unknown",
@@ -1827,7 +271,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q3325991"
     },
     {
-      "id": "mustapha-allouch",
+      "id": "mustapha-allouch-q1422275",
       "name": "Mustapha Allouch",
       "sitting": true,
       "party_id": "unknown",
@@ -1840,8 +284,8 @@
       "roster_url": "http://www.wikidata.org/entity/Q3326297"
     },
     {
-      "id": "najah-wakim",
-      "name": "Najah Wakim",
+      "id": "nabil-de-freige-q1422275",
+      "name": "Nabil de Freige",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -1850,10 +294,10 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q3335282"
+      "roster_url": "http://www.wikidata.org/entity/Q3334713"
     },
     {
-      "id": "naouar-sahili",
+      "id": "naouar-sahili-q1422275",
       "name": "Naouar Sahili",
       "sitting": true,
       "party_id": "unknown",
@@ -1866,7 +310,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q3335856"
     },
     {
-      "id": "nasser-nasrallah",
+      "id": "nasser-nasrallah-q1422275",
       "name": "Nasser Nasrallah",
       "sitting": true,
       "party_id": "unknown",
@@ -1879,7 +323,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q3336242"
     },
     {
-      "id": "nicolas-fattouche",
+      "id": "nicolas-fattouche-q1422275",
       "name": "Nicolas Fattouche",
       "sitting": true,
       "party_id": "unknown",
@@ -1892,33 +336,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q3340312"
     },
     {
-      "id": "nicolas-ghosn",
-      "name": "Nicolas Ghosn",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3340356"
-    },
-    {
-      "id": "nicolas-sehnaoui",
-      "name": "Nicolas Sehnaoui",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3340787"
-    },
-    {
-      "id": "okab-sakr",
+      "id": "okab-sakr-q1422275",
       "name": "Okab Sakr",
       "sitting": true,
       "party_id": "unknown",
@@ -1931,20 +349,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q3349997"
     },
     {
-      "id": "oussama-saad",
-      "name": "Oussama Saad",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3358535"
-    },
-    {
-      "id": "pierre-pharaon",
+      "id": "pierre-pharaon-q1422275",
       "name": "Pierre Pharaon",
       "sitting": true,
       "party_id": "unknown",
@@ -1957,20 +362,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q3386591"
     },
     {
-      "id": "ahmad-fatfat",
-      "name": "Ahmad Fatfat",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q400641"
-    },
-    {
-      "id": "riyad-rahhal",
+      "id": "riyad-rahhal-q1422275",
       "name": "Riyad Rahhal",
       "sitting": true,
       "party_id": "unknown",
@@ -1983,7 +375,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q3433987"
     },
     {
-      "id": "robert-fadel",
+      "id": "robert-fadel-q1422275",
       "name": "Robert Fadel",
       "sitting": true,
       "party_id": "unknown",
@@ -1996,7 +388,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q3435074"
     },
     {
-      "id": "sabri-hamade",
+      "id": "sabri-hamade-q1422275",
       "name": "Sabri Hamadé",
       "sitting": true,
       "party_id": "unknown",
@@ -2009,8 +401,8 @@
       "roster_url": "http://www.wikidata.org/entity/Q3460725"
     },
     {
-      "id": "salim-salhab",
-      "name": "Salim Salhab",
+      "id": "samir-frangieh-q1422275",
+      "name": "Samir Frangieh",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -2019,10 +411,10 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q3469787"
+      "roster_url": "http://www.wikidata.org/entity/Q3470835"
     },
     {
-      "id": "serge-torsarkissian",
+      "id": "serge-torsarkissian-q1422275",
       "name": "Serge Torsarkissian",
       "sitting": true,
       "party_id": "unknown",
@@ -2035,7 +427,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q3479565"
     },
     {
-      "id": "walid-khoury",
+      "id": "takieddin-el-solh-q1422275",
+      "name": "Takieddin el-Solh",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3514340"
+    },
+    {
+      "id": "walid-khoury-q1422275",
       "name": "Walid Khoury",
       "sitting": true,
       "party_id": "unknown",
@@ -2048,8 +453,8 @@
       "roster_url": "http://www.wikidata.org/entity/Q3565352"
     },
     {
-      "id": "hamid-beik-frangieh",
-      "name": "Hamid Beik Frangieh",
+      "id": "ahmad-karami-q1422275",
+      "name": "Ahmad Karami",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -2058,114 +463,10 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q443943"
+      "roster_url": "http://www.wikidata.org/entity/Q4695381"
     },
     {
-      "id": "elie-hobeika",
-      "name": "Elie Hobeika",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q467879"
-    },
-    {
-      "id": "gebran-tueni",
-      "name": "Gebran Tueni",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q527870"
-    },
-    {
-      "id": "albert-mansour",
-      "name": "Albert Mansour",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q535124"
-    },
-    {
-      "id": "sethrida-geagea",
-      "name": "Sethrida Geagea",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q542235"
-    },
-    {
-      "id": "antoine-ghanem",
-      "name": "Antoine Ghanem",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q586247"
-    },
-    {
-      "id": "ghazi-aridi",
-      "name": "Ghazi Aridi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q600769"
-    },
-    {
-      "id": "issam-abu-jamra",
-      "name": "Issam Abu Jamra",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q657217"
-    },
-    {
-      "id": "elwalid-succariyeh",
-      "name": "Elwalid Succariyeh",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5368272"
-    },
-    {
-      "id": "emile-lahoud-jr",
+      "id": "emile-lahoud-jr-q1422275",
       "name": "Emile Lahoud Jr.",
       "sitting": true,
       "party_id": "unknown",
@@ -2178,20 +479,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q5371579"
     },
     {
-      "id": "emile-rahme",
-      "name": "Emile Rahme",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5371591"
-    },
-    {
-      "id": "ibrahim-mousawi",
+      "id": "ibrahim-mousawi-q1422275",
       "name": "Ibrahim Mousawi",
       "sitting": true,
       "party_id": "unknown",
@@ -2204,7 +492,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q5984673"
     },
     {
-      "id": "jamil-al-sayyed",
+      "id": "jamil-al-sayyed-q1422275",
       "name": "Jamil Al Sayyed",
       "sitting": true,
       "party_id": "unknown",
@@ -2217,7 +505,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q6147714"
     },
     {
-      "id": "joseph-moghabghab",
+      "id": "joseph-moghabghab-q1422275",
       "name": "Joseph Moghabghab",
       "sitting": true,
       "party_id": "unknown",
@@ -2230,8 +518,8 @@
       "roster_url": "http://www.wikidata.org/entity/Q6285540"
     },
     {
-      "id": "wael-abu-faour",
-      "name": "Wael Abu Faour",
+      "id": "michel-georges-sassine-q1422275",
+      "name": "Michel Georges Sassine",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -2240,10 +528,2129 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q3566888"
+      "roster_url": "http://www.wikidata.org/entity/Q6836399"
     },
     {
-      "id": "elias-fayyad",
+      "id": "mona-ofeich-q1422275",
+      "name": "Mona Ofeich",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6897704"
+    },
+    {
+      "id": "mounir-abou-fadel-q1422275",
+      "name": "Mounir Abou Fadel",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6919176"
+    },
+    {
+      "id": "salim-bey-karam-q1422275",
+      "name": "Salim Bey Karam",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7404555"
+    },
+    {
+      "id": "salim-lahoud-q1422275",
+      "name": "Salim Lahoud",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7404568"
+    },
+    {
+      "id": "talal-el-merhebi-q1422275",
+      "name": "Talal El Merhebi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7678838"
+    },
+    {
+      "id": "youssef-salim-bey-karam-q1422275",
+      "name": "Youssef Salim Bey Karam",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q8059070"
+    },
+    {
+      "id": "hagop-kassarjian-q1422275",
+      "name": "Hagop Kassarjian",
+      "sitting": true,
+      "party_id": "armenian-democratic-liberal-party",
+      "caucus": "Armenian Democratic Liberal Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3125718"
+    },
+    {
+      "id": "michael-moussa-q1422275",
+      "name": "Michael Moussa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3310429"
+    },
+    {
+      "id": "ibrahim-kanaan-q1422275",
+      "name": "Ibrahim Kanaan",
+      "sitting": true,
+      "party_id": "free-patriotic-movement",
+      "caucus": "Free Patriotic Movement",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3147500"
+    },
+    {
+      "id": "hussein-hajj-hassan-q1422275",
+      "name": "Hussein Hajj Hassan",
+      "sitting": true,
+      "party_id": "hezbollah",
+      "caucus": "Hezbollah",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3143487"
+    },
+    {
+      "id": "hadi-hobeich-q1422275",
+      "name": "Hadi Hobeich",
+      "sitting": true,
+      "party_id": "future-movement",
+      "caucus": "Future Movement",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3125537"
+    },
+    {
+      "id": "mohammad-raad-q1422275",
+      "name": "Mohammad Raad",
+      "sitting": true,
+      "party_id": "brotherhood",
+      "caucus": "Brotherhood",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3318951"
+    },
+    {
+      "id": "hagop-pakradounian-q1422275",
+      "name": "Hagop Pakradounian",
+      "sitting": true,
+      "party_id": "armenian-revolutionary-federation",
+      "caucus": "Armenian Revolutionary Federation",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3125719"
+    },
+    {
+      "id": "hussein-el-husseini-q1422275",
+      "name": "Hussein el-Husseini",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3143491"
+    },
+    {
+      "id": "mohsen-dalloul-q1422275",
+      "name": "Mohsen Dalloul",
+      "sitting": true,
+      "party_id": "progressive-socialist-party",
+      "caucus": "Progressive Socialist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3319147"
+    },
+    {
+      "id": "emile-rahme-q1422275",
+      "name": "Emile Rahme",
+      "sitting": true,
+      "party_id": "solidarity-party",
+      "caucus": "Solidarity Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5371591"
+    },
+    {
+      "id": "paula-yacoubian-q1422275",
+      "name": "Paula Yacoubian",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Beirut I",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7154798"
+    },
+    {
+      "id": "gebran-areiji-q1422275",
+      "name": "Gebran Areiji",
+      "sitting": true,
+      "party_id": "syrian-social-nationalist-party-in-lebanon",
+      "caucus": "Syrian Social Nationalist Party in Lebanon",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3122868"
+    },
+    {
+      "id": "nicolas-sehnaoui-q1422275",
+      "name": "Nicolas Sehnaoui",
+      "sitting": true,
+      "party_id": "free-patriotic-movement",
+      "caucus": "Free Patriotic Movement",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3340787"
+    },
+    {
+      "id": "salim-abd-an-nur-q1422275",
+      "name": "Salim Abd an-Nur",
+      "sitting": true,
+      "party_id": "progressive-socialist-party",
+      "caucus": "Progressive Socialist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7404546"
+    },
+    {
+      "id": "mohammad-youssef-beydoun-q1422275",
+      "name": "Mohammad Youssef Beydoun",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Beirut II",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3318967"
+    },
+    {
+      "id": "ali-ammar-q1422275",
+      "name": "Ali Ammar",
+      "sitting": true,
+      "party_id": "hezbollah",
+      "caucus": "Hezbollah",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12228154"
+    },
+    {
+      "id": "elwalid-succariyeh-q1422275",
+      "name": "Elwalid Succariyeh",
+      "sitting": true,
+      "party_id": "hezbollah",
+      "caucus": "Hezbollah",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5368272"
+    },
+    {
+      "id": "nicolas-ghosn-q1422275",
+      "name": "Nicolas Ghosn",
+      "sitting": true,
+      "party_id": "future-movement",
+      "caucus": "Future Movement",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3340356"
+    },
+    {
+      "id": "maarouf-saad-q1422275",
+      "name": "Maarouf Saad",
+      "sitting": true,
+      "party_id": "popular-nasserist-organization",
+      "caucus": "Popular Nasserist Organization",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3273711"
+    },
+    {
+      "id": "pierre-daccache-q1422275",
+      "name": "Pierre Daccache",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Baabda District",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3384605"
+    },
+    {
+      "id": "salim-salhab-q1422275",
+      "name": "Salim Salhab",
+      "sitting": true,
+      "party_id": "free-patriotic-movement",
+      "caucus": "Free Patriotic Movement",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3469787"
+    },
+    {
+      "id": "najah-wakim-q1422275",
+      "name": "Najah Wakim",
+      "sitting": true,
+      "party_id": "people-s-movement",
+      "caucus": "People's Movement",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3335282"
+    },
+    {
+      "id": "fayez-ghosn-q1422275",
+      "name": "Fayez Ghosn",
+      "sitting": true,
+      "party_id": "marada-movement",
+      "caucus": "Marada Movement",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3455975"
+    },
+    {
+      "id": "robert-ghanem-q1422275",
+      "name": "Robert Ghanem",
+      "sitting": true,
+      "party_id": "future-movement",
+      "caucus": "Future Movement",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3435215"
+    },
+    {
+      "id": "mahmoud-abdel-khalek-q1422275",
+      "name": "Mahmoud Abdel Khalek",
+      "sitting": true,
+      "party_id": "syrian-social-nationalist-party-in-lebanon",
+      "caucus": "Syrian Social Nationalist Party in Lebanon",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3277775"
+    },
+    {
+      "id": "marwan-fares-q1422275",
+      "name": "Marwan Fares",
+      "sitting": true,
+      "party_id": "syrian-social-nationalist-party",
+      "caucus": "Syrian Social Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3296101"
+    },
+    {
+      "id": "oussama-saad-q1422275",
+      "name": "Oussama Saad",
+      "sitting": true,
+      "party_id": "popular-nasserist-organization",
+      "caucus": "Popular Nasserist Organization",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3358535"
+    },
+    {
+      "id": "salim-saade-q1422275",
+      "name": "Salim Saade",
+      "sitting": true,
+      "party_id": "syrian-social-nationalist-party-in-lebanon",
+      "caucus": "Syrian Social Nationalist Party in Lebanon",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7404582"
+    },
+    {
+      "id": "raymond-edde-q1422275",
+      "name": "Raymond Eddé",
+      "sitting": true,
+      "party_id": "lebanese-national-bloc",
+      "caucus": "Lebanese National Bloc",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2777828"
+    },
+    {
+      "id": "antoine-saad-q1422275",
+      "name": "Antoine Saad",
+      "sitting": true,
+      "party_id": "progressive-socialist-party",
+      "caucus": "Progressive Socialist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2856701"
+    },
+    {
+      "id": "antoine-zahra-q1422275",
+      "name": "Antoine Zahra",
+      "sitting": true,
+      "party_id": "lebanese-forces",
+      "caucus": "Lebanese Forces",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2856820"
+    },
+    {
+      "id": "michel-aoun-q1422275",
+      "name": "Michel Aoun",
+      "sitting": true,
+      "party_id": "free-patriotic-movement",
+      "caucus": "Free Patriotic Movement",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q363392"
+    },
+    {
+      "id": "michel-murr-q1422275",
+      "name": "Michel Murr",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1738970"
+    },
+    {
+      "id": "ali-mekdad-q1422275",
+      "name": "Ali Mekdad",
+      "sitting": true,
+      "party_id": "hezbollah",
+      "caucus": "Hezbollah",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2836294"
+    },
+    {
+      "id": "pierre-amine-gemayel-q1422275",
+      "name": "Pierre Amine Gemayel",
+      "sitting": true,
+      "party_id": "kataeb-party",
+      "caucus": "Kataeb Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q318505"
+    },
+    {
+      "id": "assem-qanso-q1422275",
+      "name": "Assem Qanso",
+      "sitting": true,
+      "party_id": "ba-ath-party",
+      "caucus": "Ba'ath Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2867013"
+    },
+    {
+      "id": "ghazi-aridi-q1422275",
+      "name": "Ghazi Aridi",
+      "sitting": true,
+      "party_id": "progressive-socialist-party",
+      "caucus": "Progressive Socialist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q600769"
+    },
+    {
+      "id": "maurice-gemayel-q1422275",
+      "name": "Maurice Gemayel",
+      "sitting": true,
+      "party_id": "kataeb-party",
+      "caucus": "Kataeb Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2797532"
+    },
+    {
+      "id": "antoine-andraos-q1422275",
+      "name": "Antoine Andraos",
+      "sitting": true,
+      "party_id": "future-movement",
+      "caucus": "Future Movement",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2853595"
+    },
+    {
+      "id": "muhammad-baydoun-q1422275",
+      "name": "Muhammad Baydoun",
+      "sitting": true,
+      "party_id": "amal-movement",
+      "caucus": "Amal Movement",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q251878"
+    },
+    {
+      "id": "pierre-edde-q1422275",
+      "name": "Pierre Eddé",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1516997"
+    },
+    {
+      "id": "camille-chamoun-q1422275",
+      "name": "Camille Chamoun",
+      "sitting": true,
+      "party_id": "national-liberal-party",
+      "caucus": "National Liberal Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q365971"
+    },
+    {
+      "id": "bassem-chab-q1422275",
+      "name": "Bassem Chab",
+      "sitting": true,
+      "party_id": "future-movement",
+      "caucus": "Future Movement",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2887380"
+    },
+    {
+      "id": "henri-philippe-pharaoun-q1422275",
+      "name": "Henri Philippe Pharaoun",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1605972"
+    },
+    {
+      "id": "nasri-maalouf-q1422275",
+      "name": "Nasri Maalouf",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q183556"
+    },
+    {
+      "id": "joseph-aboukhater-q1422275",
+      "name": "Joseph Aboukhater",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1706403"
+    },
+    {
+      "id": "anwar-khalil-q1422275",
+      "name": "Anwar Khalil",
+      "sitting": true,
+      "party_id": "amal-movement",
+      "caucus": "Amal Movement",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2852389"
+    },
+    {
+      "id": "muhammad-fneish-q1422275",
+      "name": "Muhammad Fneish",
+      "sitting": true,
+      "party_id": "hezbollah",
+      "caucus": "Hezbollah",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q715445"
+    },
+    {
+      "id": "camille-khoury-q1422275",
+      "name": "Camille Khoury",
+      "sitting": true,
+      "party_id": "free-patriotic-movement",
+      "caucus": "Free Patriotic Movement",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2934976"
+    },
+    {
+      "id": "antoine-ghanem-q1422275",
+      "name": "Antoine Ghanem",
+      "sitting": true,
+      "party_id": "kataeb-party",
+      "caucus": "Kataeb Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q586247"
+    },
+    {
+      "id": "suleiman-frangieh-q1422275",
+      "name": "Suleiman Frangieh",
+      "sitting": true,
+      "party_id": "marada-movement",
+      "caucus": "Marada Movement",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2915518"
+    },
+    {
+      "id": "ghalib-saeed-shaheen-q1422275",
+      "name": "Ghalib Saeed Shaheen",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12229377"
+    },
+    {
+      "id": "abdel-latif-el-zein-q1422275",
+      "name": "Abdel Latif El Zein",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Nabatieh District",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2821159"
+    },
+    {
+      "id": "ayoub-hmayed-q1422275",
+      "name": "Ayoub Hmayed",
+      "sitting": true,
+      "party_id": "amal-movement",
+      "caucus": "Amal Movement",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2875006"
+    },
+    {
+      "id": "hassan-fadlallah-q1422275",
+      "name": "Hassan Fadlallah",
+      "sitting": true,
+      "party_id": "hezbollah",
+      "caucus": "Hezbollah",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2943507"
+    },
+    {
+      "id": "ali-fayyad-q1422275",
+      "name": "Ali Fayyad",
+      "sitting": true,
+      "party_id": "hezbollah",
+      "caucus": "Hezbollah",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2943737"
+    },
+    {
+      "id": "hussein-moussawi-q1422275",
+      "name": "Hussein Moussawi",
+      "sitting": true,
+      "party_id": "hezbollah",
+      "caucus": "Hezbollah",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2943715"
+    },
+    {
+      "id": "nawar-al-sahili-q1422275",
+      "name": "Nawar al-Sahili",
+      "sitting": true,
+      "party_id": "hezbollah",
+      "caucus": "Hezbollah",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2943729"
+    },
+    {
+      "id": "dory-chamoun-q1422275",
+      "name": "Dory Chamoun",
+      "sitting": true,
+      "party_id": "national-liberal-party",
+      "caucus": "National Liberal Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1250858"
+    },
+    {
+      "id": "jamil-lahoud-q1422275",
+      "name": "Jamil Lahoud",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2583157"
+    },
+    {
+      "id": "majid-arslan-q1422275",
+      "name": "Majid Arslan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2655676"
+    },
+    {
+      "id": "tony-frangieh-q1422275",
+      "name": "Tony Frangieh",
+      "sitting": true,
+      "party_id": "marada-movement",
+      "caucus": "Marada Movement",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q716290"
+    },
+    {
+      "id": "hassan-sabeh-q1422275",
+      "name": "Hassan Sabeh",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q330876"
+    },
+    {
+      "id": "michel-chiha-q1422275",
+      "name": "Michel Chiha",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q330933"
+    },
+    {
+      "id": "abdul-rahim-mourad-q1422275",
+      "name": "Abdul Rahim Mourad",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2820965"
+    },
+    {
+      "id": "albert-moukheiber-q1422275",
+      "name": "Albert Moukheiber",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2831419"
+    },
+    {
+      "id": "ali-osseiran-q1422275",
+      "name": "Ali Osseiran",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2836318"
+    },
+    {
+      "id": "antoine-khoury-q1422275",
+      "name": "Antoine Khoury",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2854114"
+    },
+    {
+      "id": "assem-araji-q1422275",
+      "name": "Assem Araji",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2867000"
+    },
+    {
+      "id": "atef-majdalani-q1422275",
+      "name": "Atef Majdalani",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2868800"
+    },
+    {
+      "id": "ayman-choucair-q1422275",
+      "name": "Ayman Choucair",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2874903"
+    },
+    {
+      "id": "azzam-dandachi-q1422275",
+      "name": "Azzam Dandachi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2875285"
+    },
+    {
+      "id": "badr-wannous-q1422275",
+      "name": "Badr Wannous",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2878788"
+    },
+    {
+      "id": "bassem-sabeh-q1422275",
+      "name": "Bassem Sabeh",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2887389"
+    },
+    {
+      "id": "yassine-jaber-q1422275",
+      "name": "Yassine Jaber",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2912345"
+    },
+    {
+      "id": "boutros-harb-q1422275",
+      "name": "Boutros Harb",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2922636"
+    },
+    {
+      "id": "marwan-hamadeh-q1422275",
+      "name": "Marwan Hamadeh",
+      "sitting": true,
+      "party_id": "progressive-socialist-party",
+      "caucus": "Progressive Socialist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q743555"
+    },
+    {
+      "id": "ahmad-fatfat-q1422275",
+      "name": "Ahmad Fatfat",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q400641"
+    },
+    {
+      "id": "hamid-beik-frangieh-q1422275",
+      "name": "Hamid Beik Frangieh",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q443943"
+    },
+    {
+      "id": "nayla-tueni-q1422275",
+      "name": "Nayla Tueni",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q460686"
+    },
+    {
+      "id": "assaad-hardan-q1422275",
+      "name": "Assaad Hardan",
+      "sitting": true,
+      "party_id": "syrian-social-nationalist-party",
+      "caucus": "Syrian Social Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2866926"
+    },
+    {
+      "id": "elie-hobeika-q1422275",
+      "name": "Elie Hobeika",
+      "sitting": true,
+      "party_id": "kataeb-party",
+      "caucus": "Kataeb Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q467879"
+    },
+    {
+      "id": "abdelmajid-saleh-q1422275",
+      "name": "Abdelmajid Saleh",
+      "sitting": true,
+      "party_id": "amal-movement",
+      "caucus": "Amal Movement",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2912332"
+    },
+    {
+      "id": "talal-arslan-q1422275",
+      "name": "Talal Arslan",
+      "sitting": true,
+      "party_id": "lebanese-democratic-party",
+      "caucus": "Lebanese Democratic Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2379068"
+    },
+    {
+      "id": "albert-mansour-q1422275",
+      "name": "Albert Mansour",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q535124"
+    },
+    {
+      "id": "solange-gemayel-q1422275",
+      "name": "Solange Gemayel",
+      "sitting": true,
+      "party_id": "kataeb-party",
+      "caucus": "Kataeb Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2918999"
+    },
+    {
+      "id": "nadim-gemayel-q1422275",
+      "name": "Nadim Gemayel",
+      "sitting": true,
+      "party_id": "kataeb-party",
+      "caucus": "Kataeb Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2919035"
+    },
+    {
+      "id": "nayla-moawad-q1422275",
+      "name": "Nayla Moawad",
+      "sitting": true,
+      "party_id": "qornet-shehwan-gathering",
+      "caucus": "Qornet Shehwan Gathering",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1395651"
+    },
+    {
+      "id": "ali-khreis-q1422275",
+      "name": "Ali Khreis",
+      "sitting": true,
+      "party_id": "amal-movement",
+      "caucus": "Amal Movement",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2943512"
+    },
+    {
+      "id": "ghazi-zaiter-q1422275",
+      "name": "Ghazi Zaiter",
+      "sitting": true,
+      "party_id": "amal-movement",
+      "caucus": "Amal Movement",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2943722"
+    },
+    {
+      "id": "issam-naaman-q1422275",
+      "name": "Issam Naaman",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q751195"
+    },
+    {
+      "id": "elia-frem-q1422275",
+      "name": "Elia frem",
+      "sitting": true,
+      "party_id": "kataeb-party",
+      "caucus": "Kataeb Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2919005"
+    },
+    {
+      "id": "kamal-jumblatt-q1422275",
+      "name": "Kamal Jumblatt",
+      "sitting": true,
+      "party_id": "progressive-socialist-party",
+      "caucus": "Progressive Socialist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q503850"
+    },
+    {
+      "id": "rafiq-hariri-q1422275",
+      "name": "Rafiq Hariri",
+      "sitting": true,
+      "party_id": "future-movement",
+      "caucus": "Future Movement",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q192778"
+    },
+    {
+      "id": "philippe-takla-q1422275",
+      "name": "Philippe Takla",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q956900"
+    },
+    {
+      "id": "farid-makari-q1422275",
+      "name": "Farid Makari",
+      "sitting": true,
+      "party_id": "future-movement",
+      "caucus": "Future Movement",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3066903"
+    },
+    {
+      "id": "walid-jumblatt-q1422275",
+      "name": "Walid Jumblatt",
+      "sitting": true,
+      "party_id": "progressive-socialist-party",
+      "caucus": "Progressive Socialist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q380437"
+    },
+    {
+      "id": "sethrida-geagea-q1422275",
+      "name": "Sethrida Geagea",
+      "sitting": true,
+      "party_id": "lebanese-forces",
+      "caucus": "Lebanese Forces",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q542235"
+    },
+    {
+      "id": "salim-al-huss-q1422275",
+      "name": "Salim al-Huss",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "Beirut I",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2094707"
+    },
+    {
+      "id": "bechara-el-khoury-q1422275",
+      "name": "Bechara El Khoury",
+      "sitting": true,
+      "party_id": "constitutional-bloc",
+      "caucus": "Constitutional Bloc",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q543316"
+    },
+    {
+      "id": "saad-hariri-q1422275",
+      "name": "Saad Harirị",
+      "sitting": true,
+      "party_id": "future-movement",
+      "caucus": "Future Movement",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q296771"
+    },
+    {
+      "id": "gebran-tueni-q1422275",
+      "name": "Gebran Tueni",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q527870"
+    },
+    {
+      "id": "arthur-nazarian-q1422275",
+      "name": "Arthur Nazarian",
+      "sitting": true,
+      "party_id": "armenian-revolutionary-federation",
+      "caucus": "Armenian Revolutionary Federation",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q378415"
+    },
+    {
+      "id": "issam-abu-jamra-q1422275",
+      "name": "Issam Abu Jamra",
+      "sitting": true,
+      "party_id": "free-patriotic-movement",
+      "caucus": "Free Patriotic Movement",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q657217"
+    },
+    {
+      "id": "gebran-bassil-q1422275",
+      "name": "Gebran Bassil",
+      "sitting": true,
+      "party_id": "free-patriotic-movement",
+      "caucus": "Free Patriotic Movement",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2737847"
+    },
+    {
+      "id": "nabih-berri-q1422275",
+      "name": "Nabih Berri",
+      "sitting": true,
+      "party_id": "amal-movement",
+      "caucus": "Amal Movement",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q704220"
+    },
+    {
+      "id": "ali-eid-q1422275",
+      "name": "Ali Eid",
+      "sitting": true,
+      "party_id": "arab-democratic-party",
+      "caucus": "Arab Democratic Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2739438"
+    },
+    {
+      "id": "alaeddine-terro-q1422275",
+      "name": "Alaeddine Terro",
+      "sitting": true,
+      "party_id": "progressive-socialist-party",
+      "caucus": "Progressive Socialist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2829473"
+    },
+    {
+      "id": "selim-saadeh-q1422275",
+      "name": "Selim Saadeh",
+      "sitting": true,
+      "party_id": "syrian-social-nationalist-party",
+      "caucus": "Syrian Social Nationalist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q51292830"
+    },
+    {
+      "id": "sebouh-kalpakian-q1422275",
+      "name": "Sebouh Kalpakian",
+      "sitting": true,
+      "party_id": "social-democrat-hunchakian-party",
+      "caucus": "Social Democrat Hunchakian Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q55632761"
+    },
+    {
+      "id": "fadlallah-danash-q1422275",
+      "name": "Fadlallah Danash",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12230880"
+    },
+    {
+      "id": "faisal-daoud-q1422275",
+      "name": "Faisal Daoud",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12231637"
+    },
+    {
+      "id": "marwan-abou-fadel-q1422275",
+      "name": "Marwan Abou Fadel",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12242341"
+    },
+    {
+      "id": "nadim-jisr-q1422275",
+      "name": "Nadīm Jisr",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12248176"
+    },
+    {
+      "id": "nehme-tohme-q1422275",
+      "name": "Nehmé Tohmé",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12248702"
+    },
+    {
+      "id": "youssef-zein-q1422275",
+      "name": "Youssef Zein",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12252041"
+    },
+    {
+      "id": "amin-wahbi-q1422275",
+      "name": "Amin Wahbi",
+      "sitting": true,
+      "party_id": "democratic-left-movement",
+      "caucus": "Democratic Left Movement",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q52695373"
+    },
+    {
+      "id": "elie-aoun-q1422275",
+      "name": "Elie Aoun",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3050946"
+    },
+    {
+      "id": "elie-ferzli-q1422275",
+      "name": "Elie Ferzli",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3050961"
+    },
+    {
+      "id": "fares-boueiz-q1422275",
+      "name": "Farès Boueiz",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3066825"
+    },
+    {
+      "id": "farid-haykal-khazen-q1422275",
+      "name": "Farid Haykal Khazen",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3066888"
+    },
+    {
+      "id": "fathi-yakan-q1422275",
+      "name": "Fathi Yakan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3067198"
+    },
+    {
+      "id": "faycal-sayegh-q1422275",
+      "name": "Fayçal Sayegh",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3067722"
+    },
+    {
+      "id": "fouad-lahoud-q1422275",
+      "name": "Fouad Lahoud",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3079788"
+    },
+    {
+      "id": "gabriel-murr-q1422275",
+      "name": "Gabriel Murr",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3093894"
+    },
+    {
+      "id": "georges-frem-q1422275",
+      "name": "Georges Frem",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3102737"
+    },
+    {
+      "id": "sobhi-mahmassani-q1422275",
+      "name": "Sobhi Mahmassani",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15257863"
+    },
+    {
+      "id": "shafiq-badr-q1422275",
+      "name": "Shafiq Badr",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15993489"
+    },
+    {
+      "id": "slim-haider-q1422275",
+      "name": "Slim Haider",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16119821"
+    },
+    {
+      "id": "nohad-machnouk-q1422275",
+      "name": "Nohad Machnouk",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16123912"
+    },
+    {
+      "id": "abdallah-al-rassi-q1422275",
+      "name": "Abdallah Al Rassi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17054393"
+    },
+    {
+      "id": "omar-bey-al-daouk-q1422275",
+      "name": "Omar Bey Al-Daouk",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17344785"
+    },
+    {
+      "id": "antoine-pano-q1422275",
+      "name": "Antoine Pano",
+      "sitting": true,
+      "party_id": "free-patriotic-movement",
+      "caucus": "Free Patriotic Movement",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56063298"
+    },
+    {
+      "id": "raphael-lahoud-q1422275",
+      "name": "Raphael Lahoud",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18415150"
+    },
+    {
+      "id": "asmar-asmar-q1422275",
+      "name": "Asmar Asmar",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19281612"
+    },
+    {
+      "id": "abdallah-ishak-q1422275",
+      "name": "Abdallah Ishak",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19559894"
+    },
+    {
+      "id": "fakhr-fakhr-q1422275",
+      "name": "Fakhr Fakhr",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19560453"
+    },
+    {
+      "id": "henri-helou-q1422275",
+      "name": "Henri Helou",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20425839"
+    },
+    {
+      "id": "elie-kayrouz-q1422275",
+      "name": "Elie Kayrouz",
+      "sitting": true,
+      "party_id": "lebanese-forces",
+      "caucus": "Lebanese Forces",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3050973"
+    },
+    {
+      "id": "qassem-hashem-q1422275",
+      "name": "Qassem Hashem",
+      "sitting": true,
+      "party_id": "national-banner-party",
+      "caucus": "National Banner Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12231993"
+    },
+    {
+      "id": "joseph-chader-q1422275",
+      "name": "Joseph Chader",
+      "sitting": true,
+      "party_id": "kataeb-party",
+      "caucus": "Kataeb Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19281837"
+    },
+    {
+      "id": "ibrahim-mundhir-q1422275",
+      "name": "Ibrāhīm Mundhir",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24845150"
+    },
+    {
+      "id": "simon-abi-ramia-q1422275",
+      "name": "Simon Abi Ramia",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24950786"
+    },
+    {
+      "id": "georges-adwan-q1422275",
+      "name": "Georges Adwan",
+      "sitting": true,
+      "party_id": "lebanese-forces",
+      "caucus": "Lebanese Forces",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3102173"
+    },
+    {
+      "id": "philippe-najib-boulos-q1422275",
+      "name": "Philippe Najib Boulos",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q26246919"
+    },
+    {
+      "id": "farid-elias-khazen-q1422275",
+      "name": "Farid Elias Khazen",
+      "sitting": true,
+      "party_id": "free-patriotic-movement",
+      "caucus": "Free Patriotic Movement",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3066881"
+    },
+    {
+      "id": "kazem-al-khalil-q1422275",
+      "name": "Kazem al-Khalil",
+      "sitting": true,
+      "party_id": "national-liberal-party",
+      "caucus": "National Liberal Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12234290"
+    },
+    {
+      "id": "fouad-makhzoumi-q1422275",
+      "name": "Fouad Makhzoumi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28968419"
+    },
+    {
+      "id": "fouad-naffah-q1422275",
+      "name": "Fouad Naffah",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29371800"
+    },
+    {
+      "id": "mishal-zakkur-q1422275",
+      "name": "Mishal Zakkur",
+      "sitting": true,
+      "party_id": "constitutional-bloc",
+      "caucus": "Constitutional Bloc",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12246813"
+    },
+    {
+      "id": "jean-aziz-q1422275",
+      "name": "Jean Aziz",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q31203526"
+    },
+    {
+      "id": "amal-abou-zeid-q1422275",
+      "name": "Amal Abou Zeid",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q32534683"
+    },
+    {
+      "id": "myrna-bustani-q1422275",
+      "name": "Myrna Bustani",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q33076428"
+    },
+    {
+      "id": "nawwaf-moussawi-q1422275",
+      "name": "Nawwaf Moussawi",
+      "sitting": true,
+      "party_id": "hezbollah",
+      "caucus": "Hezbollah",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12249076"
+    },
+    {
+      "id": "ghattas-khoury-q1422275",
+      "name": "Ghattas Khoury",
+      "sitting": true,
+      "party_id": "future-movement",
+      "caucus": "Future Movement",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3104800"
+    },
+    {
+      "id": "faisal-karami-q1422275",
+      "name": "Faisal Karami",
+      "sitting": true,
+      "party_id": "arab-liberation-party",
+      "caucus": "Arab Liberation Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3067717"
+    },
+    {
+      "id": "farid-habib-q1422275",
+      "name": "Farid Habib",
+      "sitting": true,
+      "party_id": "kataeb-party",
+      "caucus": "Kataeb Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3066889"
+    },
+    {
+      "id": "elias-fayyad-q1422275",
       "name": "Elias Fayyad",
       "sitting": true,
       "party_id": "unknown",
@@ -2256,7 +2663,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q41597383"
     },
     {
-      "id": "yusuf-al-sawda",
+      "id": "yusuf-al-sawda-q1422275",
       "name": "Yusuf al-Sawda",
       "sitting": true,
       "party_id": "unknown",
@@ -2269,7 +2676,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q42303817"
     },
     {
-      "id": "bahij-takieddine",
+      "id": "yusuf-hitti-q1422275",
+      "name": "Yusuf Hitti",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q42303965"
+    },
+    {
+      "id": "bahij-takieddine-q1422275",
       "name": "Bahij Takieddine",
       "sitting": true,
       "party_id": "unknown",
@@ -2282,7 +2702,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q43380532"
     },
     {
-      "id": "neemat-frem",
+      "id": "georges-saadeh-q1422275",
+      "name": "Georges Saadeh",
+      "sitting": true,
+      "party_id": "kataeb-party",
+      "caucus": "Kataeb Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3103444"
+    },
+    {
+      "id": "neemat-frem-q1422275",
       "name": "Neemat Frem",
       "sitting": true,
       "party_id": "unknown",
@@ -2295,20 +2728,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q47030076"
     },
     {
-      "id": "selim-saadeh",
-      "name": "Selim Saadeh",
+      "id": "michel-moawad-q1422275",
+      "name": "Michel Moawad",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "independence-movement",
+      "caucus": "Independence Movement",
       "constituency_label": "",
       "chamber": "Parliament of Lebanon",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q51292830"
+      "roster_url": "http://www.wikidata.org/entity/Q12246818"
     },
     {
-      "id": "ziad-qadri",
+      "id": "naim-moghabghab-q1422275",
+      "name": "Naim Moghabghab",
+      "sitting": true,
+      "party_id": "national-liberal-party",
+      "caucus": "National Liberal Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q22948641"
+    },
+    {
+      "id": "ziad-qadri-q1422275",
       "name": "Ziad Qadri",
       "sitting": true,
       "party_id": "unknown",
@@ -2321,7 +2767,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q52693784"
     },
     {
-      "id": "zaher-el-khatib",
+      "id": "zaher-el-khatib-q1422275",
       "name": "Zaher el-Khatib",
       "sitting": true,
       "party_id": "unknown",
@@ -2334,20 +2780,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q52694689"
     },
     {
-      "id": "amin-wahbi",
-      "name": "Amin Wahbi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q52695373"
-    },
-    {
-      "id": "kazem-el-solh",
+      "id": "kazem-el-solh-q1422275",
       "name": "Kazem el-solh",
       "sitting": true,
       "party_id": "unknown",
@@ -2360,7 +2793,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q53836443"
     },
     {
-      "id": "afif-abd-al-fattah-tabbarah",
+      "id": "afif-abd-al-fattah-tabbarah-q1422275",
       "name": "ʿAfīf ʿAbd al-Fattāḥ Ṭabbārah",
       "sitting": true,
       "party_id": "unknown",
@@ -2373,7 +2806,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q54861812"
     },
     {
-      "id": "eddie-demirjian",
+      "id": "eddie-demirjian-q1422275",
       "name": "Eddie Demirjian",
       "sitting": true,
       "party_id": "unknown",
@@ -2386,20 +2819,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q55610491"
     },
     {
-      "id": "sebouh-kalpakian",
-      "name": "Sebouh Kalpakian",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q55632761"
-    },
-    {
-      "id": "tawfiq-arslan",
+      "id": "tawfiq-arslan-q1422275",
       "name": "Tawfiq Arslan",
       "sitting": true,
       "party_id": "unknown",
@@ -2412,7 +2832,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q56023795"
     },
     {
-      "id": "fuad-arslan",
+      "id": "fuad-arslan-q1422275",
       "name": "Fuad Arslan",
       "sitting": true,
       "party_id": "unknown",
@@ -2425,20 +2845,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q56025393"
     },
     {
-      "id": "antoine-pano",
-      "name": "Antoine Pano",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56063298"
-    },
-    {
-      "id": "bashir-al-awar",
+      "id": "bashir-al-awar-q1422275",
       "name": "Bashir al-Awar",
       "sitting": true,
       "party_id": "unknown",
@@ -2451,7 +2858,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q56070918"
     },
     {
-      "id": "jamil-talhouk",
+      "id": "jamil-talhouk-q1422275",
       "name": "Jamil Talhouk",
       "sitting": true,
       "party_id": "unknown",
@@ -2464,7 +2871,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q56168056"
     },
     {
-      "id": "salim-talhouk",
+      "id": "salim-talhouk-q1422275",
       "name": "Salim Talhouk",
       "sitting": true,
       "party_id": "unknown",
@@ -2477,7 +2884,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q56180997"
     },
     {
-      "id": "fadlallah-talhouk",
+      "id": "fadlallah-talhouk-q1422275",
       "name": "Fadlallah Talhouk",
       "sitting": true,
       "party_id": "unknown",
@@ -2490,7 +2897,176 @@
       "roster_url": "http://www.wikidata.org/entity/Q56191952"
     },
     {
-      "id": "hikmat-ali-jumblatt",
+      "id": "chamel-roukoz-q1422275",
+      "name": "Chamel Roukoz",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20397738"
+    },
+    {
+      "id": "habib-sadek-q1422275",
+      "name": "Habib Sadek",
+      "sitting": true,
+      "party_id": "lebanese-communist-party",
+      "caucus": "Lebanese Communist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16126039"
+    },
+    {
+      "id": "ghassan-moukheiber-q1422275",
+      "name": "Ghassan Moukheiber",
+      "sitting": true,
+      "party_id": "free-patriotic-movement",
+      "caucus": "Free Patriotic Movement",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16125550"
+    },
+    {
+      "id": "adnan-al-hakim-q1422275",
+      "name": "Adnan al-Hakim",
+      "sitting": true,
+      "party_id": "najjadeh-party",
+      "caucus": "Najjadeh Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16012442"
+    },
+    {
+      "id": "omar-miskawi-q1422275",
+      "name": "Omar Miskawi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123628221"
+    },
+    {
+      "id": "samir-aziz-aoun-q1422275",
+      "name": "Samir Aziz Aoun",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q98690248"
+    },
+    {
+      "id": "edgar-maalouf-q1422275",
+      "name": "Edgar Maalouf",
+      "sitting": true,
+      "party_id": "free-patriotic-movement",
+      "caucus": "Free Patriotic Movement",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3047466"
+    },
+    {
+      "id": "edmond-naim-q1422275",
+      "name": "Edmond Naïm",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3047940"
+    },
+    {
+      "id": "edmond-rizk-q1422275",
+      "name": "Edmond Rizk",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3047975"
+    },
+    {
+      "id": "hani-kobeissy-q1422275",
+      "name": "Hani Kobeissy",
+      "sitting": true,
+      "party_id": "amal-movement",
+      "caucus": "Amal Movement",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2943744"
+    },
+    {
+      "id": "elias-atallah-q1422275",
+      "name": "Elias Atallah",
+      "sitting": true,
+      "party_id": "democratic-left-movement",
+      "caucus": "Democratic Left Movement",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3050927"
+    },
+    {
+      "id": "taymur-jumblatt-q1422275",
+      "name": "Taymur Jumblatt",
+      "sitting": true,
+      "party_id": "progressive-socialist-party",
+      "caucus": "Progressive Socialist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q67846940"
+    },
+    {
+      "id": "aziz-aoun-q1422275",
+      "name": "Aziz Aoun",
+      "sitting": true,
+      "party_id": "progressive-socialist-party",
+      "caucus": "Progressive Socialist Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q66696189"
+    },
+    {
+      "id": "hikmat-ali-jumblatt-q1422275",
       "name": "Hikmat Ali Jumblatt",
       "sitting": true,
       "party_id": "unknown",
@@ -2503,7 +3079,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q56218245"
     },
     {
-      "id": "najib-salha",
+      "id": "najib-salha-q1422275",
       "name": "Najib Salha",
       "sitting": true,
       "party_id": "unknown",
@@ -2516,7 +3092,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q56248533"
     },
     {
-      "id": "toufic-suleiman-assaf",
+      "id": "toufic-suleiman-assaf-q1422275",
       "name": "Toufic Suleiman Assaf",
       "sitting": true,
       "party_id": "unknown",
@@ -2529,7 +3105,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q56284403"
     },
     {
-      "id": "boutros-el-khoury",
+      "id": "sami-fatfat-q1422275",
+      "name": "Sami Fatfat",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56640421"
+    },
+    {
+      "id": "boutros-el-khoury-q1422275",
       "name": "Boutros el-Khoury",
       "sitting": true,
       "party_id": "unknown",
@@ -2542,59 +3131,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q56753666"
     },
     {
-      "id": "jean-talouzian",
-      "name": "Jean Talouzian",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q58088011"
-    },
-    {
-      "id": "chawki-daccache",
-      "name": "Chawki Daccache",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q58217079"
-    },
-    {
-      "id": "pierre-bouassi",
-      "name": "Pierre Bouassi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q58217297"
-    },
-    {
-      "id": "george-okais",
-      "name": "George Okais",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q58217481"
-    },
-    {
-      "id": "rola-tabash",
+      "id": "rola-tabash-q1422275",
       "name": "Rola Tabash",
       "sitting": true,
       "party_id": "unknown",
@@ -2607,7 +3144,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q60564983"
     },
     {
-      "id": "tony-frangieh-jr",
+      "id": "tony-frangieh-jr-q1422275",
       "name": "Tony Frangieh Jr.",
       "sitting": true,
       "party_id": "unknown",
@@ -2620,33 +3157,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q60576778"
     },
     {
-      "id": "aziz-aoun",
-      "name": "Aziz Aoun",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q66696189"
-    },
-    {
-      "id": "taymur-jumblatt",
-      "name": "Taymur Jumblatt",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Lebanon",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q67846940"
-    },
-    {
-      "id": "zaki-mazboudi",
+      "id": "zaki-mazboudi-q1422275",
       "name": "Zaki Mazboudi",
       "sitting": true,
       "party_id": "unknown",
@@ -2657,6 +3168,84 @@
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q67222932"
+    },
+    {
+      "id": "jean-talouzian-q1422275",
+      "name": "Jean Talouzian",
+      "sitting": true,
+      "party_id": "lebanese-forces",
+      "caucus": "Lebanese Forces",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58088011"
+    },
+    {
+      "id": "chawki-daccache-q1422275",
+      "name": "Chawki Daccache",
+      "sitting": true,
+      "party_id": "lebanese-forces",
+      "caucus": "Lebanese Forces",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58217079"
+    },
+    {
+      "id": "pierre-bouassi-q1422275",
+      "name": "Pierre Bouassi",
+      "sitting": true,
+      "party_id": "lebanese-forces",
+      "caucus": "Lebanese Forces",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58217297"
+    },
+    {
+      "id": "george-okais-q1422275",
+      "name": "George Okais",
+      "sitting": true,
+      "party_id": "lebanese-forces",
+      "caucus": "Lebanese Forces",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58217481"
+    },
+    {
+      "id": "joseph-skaff-q1422275",
+      "name": "Joseph Skaff",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110635937"
+    },
+    {
+      "id": "melhem-khalaf-q1422275",
+      "name": "Melhem Khalaf",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Lebanon",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q83314849"
     }
   ]
 }

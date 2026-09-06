@@ -3,8 +3,53 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1137059"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1137059",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1347545",
+      "label": "Chamber of Representatives",
+      "url": "https://www.dekamer.be/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1347545",
+      "label": "Chamber of Representatives (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1347545",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1137059",
+      "label": "Belgian Federal Parliament",
+      "url": "https://www.fed-parl.be/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1137059",
+      "label": "Belgian Federal Parliament (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1137059",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1355042",
+      "label": "Senate of Belgium",
+      "url": "https://www.senate.be/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1355042",
+      "label": "Senate of Belgium (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1355042",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

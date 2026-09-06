@@ -3,8 +3,53 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q2565909"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q2565909",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q2565909",
+      "label": "Parliament of Barbados",
+      "url": "https://www.barbadosparliament.com/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q2565909",
+      "label": "Parliament of Barbados (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q2565909",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q586461",
+      "label": "Senate of Barbados",
+      "url": "https://www.barbadosparliament.com/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q586461",
+      "label": "Senate of Barbados (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q586461",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q570619",
+      "label": "House of Assembly of Barbados",
+      "url": "https://www.barbadosparliament.com/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q570619",
+      "label": "House of Assembly of Barbados (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q570619",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

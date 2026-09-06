@@ -1,7 +1,59 @@
 {
   "iso2": "ke",
   "kit": "institutional",
-  "items": [],
   "incomplete": true,
-  "note": ":8103 claimed institutional_kits = 0."
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q114",
+  "bodies": [
+    {
+      "qid": "Q14468380",
+      "label": "Parliament of Kenya",
+      "seats": 0,
+      "web": "http://www.parliament.go.ke/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q6978858",
+      "label": "Senate of Kenya",
+      "seats": 67,
+      "web": "http://www.parliament.go.ke/index.php/the-senate",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1701225",
+      "label": "National Assembly",
+      "seats": 349,
+      "web": "http://www.parliament.go.ke/index.php/the-national-assembly",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Senate of Kenya",
+    "National Assembly"
+  ],
+  "seats": 416,
+  "items": [
+    {
+      "id": "Q14468380",
+      "name": "Parliament of Kenya",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "http://www.parliament.go.ke/"
+    },
+    {
+      "id": "Q6978858",
+      "name": "Senate of Kenya",
+      "kind": "chamber",
+      "seats": 67,
+      "url": "http://www.parliament.go.ke/index.php/the-senate"
+    },
+    {
+      "id": "Q1701225",
+      "name": "National Assembly",
+      "kind": "chamber",
+      "seats": 349,
+      "url": "http://www.parliament.go.ke/index.php/the-national-assembly"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

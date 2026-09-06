@@ -3,2325 +3,15 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1784088",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 276,
+  "incomplete": true,
+  "claimed_seats": 166,
+  "chambers": [
+    "National Assembly",
+    "Member of the National Assembly of Zambia"
+  ],
   "items": [
     {
-      "id": "chishimba-kambwili",
-      "name": "Chishimba Kambwili",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Roan",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q23541019"
-    },
-    {
-      "id": "dora-siliya",
-      "name": "Dora Siliya",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Petauke Central",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1243653"
-    },
-    {
-      "id": "david-mabumba",
-      "name": "David Mabumba",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Mwense",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q29556814"
-    },
-    {
-      "id": "sichone-malozo",
-      "name": "Sichone Malozo",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Isoka",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q29559352"
-    },
-    {
-      "id": "kenneth-kaunda",
-      "name": "Kenneth Kaunda",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105480"
-    },
-    {
-      "id": "christon-tembo",
-      "name": "Christon Tembo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1084438"
-    },
-    {
-      "id": "aubrey-kapalasa",
-      "name": "Aubrey Kapalasa",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Katuba",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q107585925"
-    },
-    {
-      "id": "lucky-mulusa",
-      "name": "Lucky Mulusa",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q29539966"
-    },
-    {
-      "id": "edify-hamukale",
-      "name": "Edify Hamukale",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q29559341"
-    },
-    {
-      "id": "nathaniel-mubukwanu",
-      "name": "Nathaniel Mubukwanu",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q29559355"
-    },
-    {
-      "id": "richard-kapita",
-      "name": "Richard Kapita",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q29559347"
-    },
-    {
-      "id": "nickson-chilangwa",
-      "name": "Nickson Chilangwa",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Kawambwa",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q29557220"
-    },
-    {
-      "id": "daniel-lisulo",
-      "name": "Daniel Lisulo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1161591"
-    },
-    {
-      "id": "david-phiri",
-      "name": "David Phiri",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1176125"
-    },
-    {
-      "id": "vincent-mwale",
-      "name": "Vincent Mwale",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Chipangali",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q29555795"
-    },
-    {
-      "id": "charles-banda",
-      "name": "Charles Banda",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Kapoche",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q29555800"
-    },
-    {
-      "id": "davies-chama",
-      "name": "Davies Chama",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q27063175"
-    },
-    {
-      "id": "joyce-nonde-simukoko",
-      "name": "Joyce Nonde-Simukoko",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q27063131"
-    },
-    {
-      "id": "godfridah-sumaili",
-      "name": "Godfridah Sumaili",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q27063686"
-    },
-    {
-      "id": "gladys-nyirongo",
-      "name": "Gladys Nyirongo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1251953"
-    },
-    {
-      "id": "sydney-mushanga",
-      "name": "Sydney Mushanga",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Bwacha (constituency)",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q29559364"
-    },
-    {
-      "id": "dennis-wanchinga",
-      "name": "Dennis Wanchinga",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Mambilima",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q29555804"
-    },
-    {
-      "id": "ronald-penza",
-      "name": "Ronald Penza",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1370616"
-    },
-    {
-      "id": "evelyn-dennison-hone",
-      "name": "Evelyn Dennison Hone",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1381724"
-    },
-    {
-      "id": "fube-mulenga",
-      "name": "Fube Mulenga",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Chilubi",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q107585938"
-    },
-    {
-      "id": "george-kunda",
-      "name": "George Kunda",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1507722"
-    },
-    {
-      "id": "gladys-lundwe",
-      "name": "Gladys Lundwe",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1529107"
-    },
-    {
-      "id": "godfrey-miyanda",
-      "name": "Godfrey Miyanda",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1533811"
-    },
-    {
-      "id": "gwendoline-konie",
-      "name": "Gwendoline Konie",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1557844"
-    },
-    {
-      "id": "geoffrey-lungwangwa",
-      "name": "Geoffrey Lungwangwa",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Nalikwanda",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1503022"
-    },
-    {
-      "id": "harry-mwaanga-nkumbula",
-      "name": "Harry Mwaanga Nkumbula",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1586671"
-    },
-    {
-      "id": "bowman-lusambo",
-      "name": "Bowman Lusambo",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Kabushi",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q29559350"
-    },
-    {
-      "id": "jonas-shakafuswa",
-      "name": "Jonas Shakafuswa",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1703016"
-    },
-    {
-      "id": "kabinga-pande",
-      "name": "Kabinga Pande",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1720830"
-    },
-    {
-      "id": "moses-mawere",
-      "name": "Moses Mawere",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Chipata Central",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q29555797"
-    },
-    {
-      "id": "lawrence-sichalwe",
-      "name": "Lawrence Sichalwe",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Chawama",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q29556823"
-    },
-    {
-      "id": "reuben-kamanga",
-      "name": "Reuben Kamanga",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2146535"
-    },
-    {
-      "id": "simon-kapwepwe",
-      "name": "Simon Kapwepwe",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2287615"
-    },
-    {
-      "id": "mainza-chona",
-      "name": "Mainza Chona",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q262053"
-    },
-    {
-      "id": "sydney-chisanga",
-      "name": "Sydney Chisanga",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2373674"
-    },
-    {
-      "id": "goodwin-putu",
-      "name": "Goodwin Putu",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Mangango",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q107585942"
-    },
-    {
-      "id": "vernon-mwaanga",
-      "name": "Vernon Mwaanga",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2517357"
-    },
-    {
-      "id": "winright-ngondo",
-      "name": "Winright Ngondo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2584804"
-    },
-    {
-      "id": "michael-sata",
-      "name": "Michael Sata",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q299173"
-    },
-    {
-      "id": "joseph-chishala",
-      "name": "Joseph Chishala",
-      "sitting": true,
-      "party_id": "national-democratic-congress",
-      "caucus": "National Democratic Congress",
-      "constituency_label": "Roan",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q107585944"
-    },
-    {
-      "id": "nalumino-mundia",
-      "name": "Nalumino Mundia",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q329514"
-    },
-    {
-      "id": "charles-chalwe",
-      "name": "Charles Chalwe",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Bahati",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q107585937"
-    },
-    {
-      "id": "geoffrey-bwalya-mwamba",
-      "name": "Geoffrey Bwalya Mwamba",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q18720153"
-    },
-    {
-      "id": "miles-sampa",
-      "name": "Miles Sampa",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q18720231"
-    },
-    {
-      "id": "harry-kalaba",
-      "name": "Harry Kalaba",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Bahati",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19560917"
-    },
-    {
-      "id": "alexander-chikwanda",
-      "name": "Alexander Chikwanda",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19281868"
-    },
-    {
-      "id": "joseph-kasonde",
-      "name": "Joseph Kasonde",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19560941"
-    },
-    {
-      "id": "joseph-katema",
-      "name": "Joseph Katema",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19560944"
-    },
-    {
-      "id": "brian-andre-doyle",
-      "name": "Brian Andre Doyle",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q21030318"
-    },
-    {
-      "id": "chitalu-chilufya",
-      "name": "Chitalu Chilufya",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Mansa Central",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q27063490"
-    },
-    {
-      "id": "stephen-kampyongo",
-      "name": "Stephen Kampyongo",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Shiwa Ng'andu",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q27063683"
-    },
-    {
-      "id": "kapembwa-simbao",
-      "name": "Kapembwa Simbao",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Senga Hill",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1498614"
-    },
-    {
-      "id": "chifita-matafwali",
-      "name": "Chifita Matafwali",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q21997858"
-    },
-    {
-      "id": "humphrey-mwanza",
-      "name": "Humphrey Mwanza",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q21997866"
-    },
-    {
-      "id": "robert-christopher-stafford-stanley",
-      "name": "Robert Christopher Stafford Stanley",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q24204899"
-    },
-    {
-      "id": "george-chisanga",
-      "name": "George Chisanga",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Lukashya",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q107585940"
-    },
-    {
-      "id": "edith-nawakwi",
-      "name": "Edith Nawakwi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q26721408"
-    },
-    {
-      "id": "vera-tembo",
-      "name": "Vera Tembo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q26923348"
-    },
-    {
-      "id": "kabaso-kampampi",
-      "name": "Kabaso Kampampi",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Mwansabombwe",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q107585956"
-    },
-    {
-      "id": "catherine-namugala",
-      "name": "Catherine Namugala",
-      "sitting": true,
-      "party_id": "movement-for-multi-party-democracy",
-      "caucus": "Movement for Multi-Party Democracy",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1051020"
-    },
-    {
-      "id": "daniel-munkombwe",
-      "name": "Daniel Munkombwe",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28223205"
-    },
-    {
-      "id": "brian-mundubile",
-      "name": "Brian Mundubile",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q29559362"
-    },
-    {
-      "id": "peter-daka",
-      "name": "Peter Daka",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Msanzala",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2074457"
-    },
-    {
-      "id": "ali-simbule",
-      "name": "Ali Simbule",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q33144491"
-    },
-    {
-      "id": "jean-kapata",
-      "name": "Jean Kapata",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Mandevu",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q27947831"
-    },
-    {
-      "id": "bwalya-ng-andu",
-      "name": "Bwalya Ng'andu",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q107585931"
-    },
-    {
-      "id": "nkandu-luo",
-      "name": "Nkandu Luo",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Munali",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q27891778"
-    },
-    {
-      "id": "kampamba-chilumba",
-      "name": "Kampamba Chilumba",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Kalulushi",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q29539935"
-    },
-    {
-      "id": "raphael-nakacinda",
-      "name": "Raphael Nakacinda",
-      "sitting": true,
-      "party_id": "movement-for-multi-party-democracy",
-      "caucus": "Movement for Multi-Party Democracy",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q107585962"
-    },
-    {
-      "id": "chomba-sikazwe",
-      "name": "Chomba Sikazwe",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Mpulungu",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q29539950"
-    },
-    {
-      "id": "matthew-nkhuwa",
-      "name": "Matthew Nkhuwa",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Chingola",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q29539961"
-    },
-    {
-      "id": "micheal-katambo",
-      "name": "Micheal Katambo",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Masaiti",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q27517522"
-    },
-    {
-      "id": "nelly-mutti",
-      "name": "Nelly Mutti",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q108395814"
-    },
-    {
-      "id": "brian-mushimba",
-      "name": "Brian Mushimba",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Kankoyo",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q27662555"
-    },
-    {
-      "id": "lloyd-kaziya",
-      "name": "Lloyd Kaziya",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Matero",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q29539945"
-    },
-    {
-      "id": "emerine-kabanshi",
-      "name": "Emerine Kabanshi",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Luapula",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q29539929"
-    },
-    {
-      "id": "romeo-kang-ombe",
-      "name": "Romeo Kang'ombe",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Sesheke",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q107585969"
-    },
-    {
-      "id": "ronald-chitotela",
-      "name": "Ronald Chitotela",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Pambashe",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q29539957"
-    },
-    {
-      "id": "sylvia-chalikosa",
-      "name": "Sylvia Chalikosa",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Mpika Central",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q29539941"
-    },
-    {
-      "id": "felix-mutati",
-      "name": "Felix Mutati",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1403691"
-    },
-    {
-      "id": "christopher-yaluma",
-      "name": "Christopher Yaluma",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Malole",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q29543126"
-    },
-    {
-      "id": "japhen-mwakalombe",
-      "name": "Japhen Mwakalombe",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Chongwe",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q29559369"
-    },
-    {
-      "id": "makebi-zulu",
-      "name": "Makebi Zulu",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Malambo",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q29559372"
-    },
-    {
-      "id": "prisca-kucheka",
-      "name": "Prisca Kucheka",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Zambezi West",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q45384919"
-    },
-    {
-      "id": "stafford-mulusa",
-      "name": "Stafford Mulusa",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Solwezi Central",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q45385024"
-    },
-    {
-      "id": "teddy-kasonso",
-      "name": "Teddy Kasonso",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Solwezi West",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q45385060"
-    },
-    {
-      "id": "dipak-patel",
-      "name": "Dipak Patel",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5279692"
-    },
-    {
-      "id": "stanley-kakubo",
-      "name": "Stanley Kakubo",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Kapiri Mposhi",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q45385044"
-    },
-    {
-      "id": "sensio-banda",
-      "name": "Sensio Banda",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Kasenengwa",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q60854009"
-    },
-    {
-      "id": "bwalya-stanley-kasonde-chiti",
-      "name": "Bwalya Stanley Kasonde Chiti",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q93883132"
-    },
-    {
-      "id": "ester-banda",
-      "name": "Ester Banda",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q94450370"
-    },
-    {
-      "id": "margret-mbeba",
-      "name": "Margret Mbeba",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q95208540"
-    },
-    {
-      "id": "margaret-mwanakatwe",
-      "name": "Margaret Mwanakatwe",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Lusaka Central",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6759764"
-    },
-    {
-      "id": "mubika-mubika",
-      "name": "Mubika Mubika",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Shang’ombo",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q45384771"
-    },
-    {
-      "id": "chushi-c-kasanda",
-      "name": "Chushi C. Kasanda",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Chisamba",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q109862903"
-    },
-    {
-      "id": "mumbi-phiri",
-      "name": "Mumbi Phiri",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56229456"
-    },
-    {
-      "id": "alexander-grey-zulu",
-      "name": "Alexander Grey Zulu",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4719011"
-    },
-    {
-      "id": "baldwin-nkumbula",
-      "name": "Baldwin Nkumbula",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4850578"
-    },
-    {
-      "id": "besnat-jere",
-      "name": "Besnat Jere",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4896329"
-    },
-    {
-      "id": "cecil-dennistoun-burney",
-      "name": "Cecil Dennistoun Burney",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5056040"
-    },
-    {
-      "id": "paul-j-f-lusaka",
-      "name": "Paul J. F. Lusaka",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q642870"
-    },
-    {
-      "id": "edgar-unsworth",
-      "name": "Edgar Unsworth",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5337499"
-    },
-    {
-      "id": "emmanuel-kasonde",
-      "name": "Emmanuel Kasonde",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5373258"
-    },
-    {
-      "id": "enoch-kavindele",
-      "name": "Enoch Kavindele",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5379308"
-    },
-    {
-      "id": "francis-nkhoma",
-      "name": "Francis Nkhoma",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5482057"
-    },
-    {
-      "id": "gibson-chigaga",
-      "name": "Gibson Chigaga",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5559300"
-    },
-    {
-      "id": "kebby-musokotwane",
-      "name": "Kebby Musokotwane",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q716006"
-    },
-    {
-      "id": "elijah-mudenda",
-      "name": "Elijah Mudenda",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q717737"
-    },
-    {
-      "id": "james-john-skinner",
-      "name": "James John Skinner",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6136879"
-    },
-    {
-      "id": "jethro-mutti",
-      "name": "Jethro Mutti",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6189025"
-    },
-    {
-      "id": "mutinta-mazoka",
-      "name": "Mutinta Mazoka",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Pemba",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q45384819"
-    },
-    {
-      "id": "austin-liato",
-      "name": "Austin Liato",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q781111"
-    },
-    {
-      "id": "lameck-chibombamilimo",
-      "name": "Lameck Chibombamilimo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6481677"
-    },
-    {
-      "id": "lawrence-chola-katilunga",
-      "name": "Lawrence Chola Katilunga",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6503921"
-    },
-    {
-      "id": "benny-tetamashimba",
-      "name": "Benny Tetamashimba",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q818076"
-    },
-    {
-      "id": "n-gandu-peter-magande",
-      "name": "N’gandu Peter Magande",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7071637"
-    },
-    {
-      "id": "peter-chintala",
-      "name": "Peter Chintala",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7173258"
-    },
-    {
-      "id": "richard-edmonds-luyt",
-      "name": "Richard Edmonds Luyt",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7327509"
-    },
-    {
-      "id": "robert-selby-taylor",
-      "name": "Robert Selby Taylor",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7349678"
-    },
-    {
-      "id": "stewart-gore-browne",
-      "name": "Stewart Gore-Browne",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7615802"
-    },
-    {
-      "id": "paul-katema",
-      "name": "Paul Katema",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q50354989"
-    },
-    {
-      "id": "sylvester-chisembele",
-      "name": "Sylvester Chisembele",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7660772"
-    },
-    {
-      "id": "brian-chituwo",
-      "name": "Brian Chituwo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q912005"
-    },
-    {
-      "id": "esther-banda",
-      "name": "Esther Banda",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q48980036"
-    },
-    {
-      "id": "alexander-chiteme",
-      "name": "Alexander Chiteme",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Nkana",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q46160201"
-    },
-    {
-      "id": "clement-sinyinda",
-      "name": "Clement Sinyinda",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q47088134"
-    },
-    {
-      "id": "highvie-hamududu",
-      "name": "Highvie Hamududu",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q48656690"
-    },
-    {
-      "id": "japhet-moonde",
-      "name": "Japhet Moonde",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q48813015"
-    },
-    {
-      "id": "edgar-keembe",
-      "name": "Edgar Keembe",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q48897338"
-    },
-    {
-      "id": "eli-mwanang-onze",
-      "name": "Eli Mwanang'onze",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q48921853"
-    },
-    {
-      "id": "rex-natala",
-      "name": "Rex Natala",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q48976450"
-    },
-    {
-      "id": "wamundila-muliokela",
-      "name": "Wamundila Muliokela",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q48984623"
-    },
-    {
-      "id": "sikota-wina",
-      "name": "Sikota Wina",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q48991539"
-    },
-    {
-      "id": "emmanuel-chenda",
-      "name": "Emmanuel Chenda",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q49175417"
-    },
-    {
-      "id": "joseph-zulu",
-      "name": "Joseph Zulu",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q49560936"
-    },
-    {
-      "id": "james-kapyanga",
-      "name": "James Kapyanga",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q50191629"
-    },
-    {
-      "id": "kayula-kakusa",
-      "name": "Kayula Kakusa",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q50278781"
-    },
-    {
-      "id": "mathew-mulanda",
-      "name": "Mathew Mulanda",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q50375778"
-    },
-    {
-      "id": "andrew-kashita",
-      "name": "Andrew Kashita",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q50376513"
-    },
-    {
-      "id": "patrick-musonda",
-      "name": "Patrick Musonda",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q50376838"
-    },
-    {
-      "id": "austin-chewe",
-      "name": "Austin Chewe",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q50377021"
-    },
-    {
-      "id": "paul-tembo",
-      "name": "Paul Tembo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q50384557"
-    },
-    {
-      "id": "thomas-spurgeon-page",
-      "name": "Thomas Spurgeon Page",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q50385868"
-    },
-    {
-      "id": "robinson-nabulyato",
-      "name": "Robinson Nabulyato",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q50387658"
-    },
-    {
-      "id": "fwanyanga-mulikita",
-      "name": "Fwanyanga Mulikita",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q50388037"
-    },
-    {
-      "id": "amusaa-mwanamwambwa",
-      "name": "Amusaa Mwanamwambwa",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q50402690"
-    },
-    {
-      "id": "gerry-chanda",
-      "name": "Gerry Chanda",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q50530899"
-    },
-    {
-      "id": "eddie-musonda",
-      "name": "Eddie Musonda",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q50615316"
-    },
-    {
-      "id": "lawrence-zimba",
-      "name": "Lawrence Zimba",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q50615973"
-    },
-    {
-      "id": "friday-malwa",
-      "name": "Friday Malwa",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q50617364"
-    },
-    {
-      "id": "john-mwaimba",
-      "name": "John Mwaimba",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q50620214"
-    },
-    {
-      "id": "macdonald-nkabika",
-      "name": "Macdonald Nkabika",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q50621789"
-    },
-    {
-      "id": "gabriel-maka",
-      "name": "Gabriel Maka",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q50628489"
-    },
-    {
-      "id": "abel-chambeshi",
-      "name": "Abel Chambeshi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q50804921"
-    },
-    {
-      "id": "given-lubinda",
-      "name": "Given Lubinda",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Kabwata",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5565823"
-    },
-    {
-      "id": "situmbeko-musokotwane",
-      "name": "Situmbeko Musokotwane",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Liuwa",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7532178"
-    },
-    {
-      "id": "nakatindi-yeta-nganga",
-      "name": "Nakatindi Yeta Nganga",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q60525004"
-    },
-    {
-      "id": "victor-lumayi",
-      "name": "Victor Lumayi",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Chavuma",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q45385077"
-    },
-    {
-      "id": "sililo-mutaba",
-      "name": "Sililo Mutaba",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Mwandi",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q45384980"
-    },
-    {
-      "id": "patrick-anthony-mwewa-chikusu",
-      "name": "Patrick Anthony Mwewa Chikusu",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q65044674"
-    },
-    {
-      "id": "moono-lubezhi",
-      "name": "Moono Lubezhi",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Namwala",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q45384753"
-    },
-    {
-      "id": "mukumbuta-mulowa",
-      "name": "Mukumbuta Mulowa",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Senanga",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q45384786"
-    },
-    {
-      "id": "mundia-ndalamei",
-      "name": "Mundia Ndalamei",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Sikongo",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q45384803"
-    },
-    {
-      "id": "mwilola-imakando",
-      "name": "Mwilola Imakando",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Mongu Central",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q45384835"
-    },
-    {
-      "id": "princess-kasune",
-      "name": "Princess Kasune",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Keembe",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q45384901"
-    },
-    {
-      "id": "sheal-s-mulyata",
-      "name": "Sheal S. Mulyata",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Rufunsa",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q45384968"
-    },
-    {
-      "id": "sitwala-sitwala",
-      "name": "Sitwala Sitwala",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Kaoma",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q45385011"
-    },
-    {
-      "id": "robert-lihefu",
-      "name": "Robert Lihefu",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Manyinga",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q45384953"
-    },
-    {
-      "id": "rasfold-bulaya",
-      "name": "Rasfold Bulaya",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Mpongwe",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q45384934"
-    },
-    {
-      "id": "maria-langa",
-      "name": "Maria Langa",
-      "sitting": true,
-      "party_id": "patriotic-front",
-      "caucus": "Patriotic Front",
-      "constituency_label": "Chilanga",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56071389"
-    },
-    {
-      "id": "newton-samakayi",
-      "name": "Newton Samakayi",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Mwinilunga",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q45384868"
-    },
-    {
-      "id": "patricia-mwashingwele",
-      "name": "Patricia Mwashingwele",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Katuba",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q45384885"
-    },
-    {
-      "id": "makozo-chikote",
-      "name": "Makozo Chikote",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Luampa",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q45384683"
-    },
-    {
-      "id": "stephen-miti",
+      "id": "stephen-miti-q1784088",
       "name": "Stephen Miti",
       "sitting": true,
       "party_id": "independent-politician",
@@ -2334,7 +24,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45382496"
     },
     {
-      "id": "mbololwa-subulwa",
+      "id": "mbololwa-subulwa-q1784088",
       "name": "Mbololwa Subulwa",
       "sitting": true,
       "party_id": "independent-politician",
@@ -2347,7 +37,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q45382421"
     },
     {
-      "id": "brian-kambita",
+      "id": "david-mabumba-q1784088",
+      "name": "David Mabumba",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Mwense",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29556814"
+    },
+    {
+      "id": "brian-kambita-q1784088",
       "name": "Brian Kambita",
       "sitting": true,
       "party_id": "united-party-for-national-development",
@@ -2360,7 +63,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45384169"
     },
     {
-      "id": "chinga-miyutu",
+      "id": "chinga-miyutu-q1784088",
       "name": "Chinga Miyutu",
       "sitting": true,
       "party_id": "united-party-for-national-development",
@@ -2373,7 +76,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45384183"
     },
     {
-      "id": "elija-muchima",
+      "id": "elija-muchima-q1784088",
       "name": "Elija Muchima",
       "sitting": true,
       "party_id": "united-party-for-national-development",
@@ -2386,46 +89,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45384371"
     },
     {
-      "id": "kapelwa-mbangweta",
-      "name": "Kapelwa Mbangweta",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Nkeyema",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q45384592"
-    },
-    {
-      "id": "kasautu-michelo",
-      "name": "Kasautu Michelo",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Bweengwa",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q45384604"
-    },
-    {
-      "id": "leaky-kintu",
-      "name": "Leaky Kintu",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Solwezi East",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q45384638"
-    },
-    {
-      "id": "masautso-tembo",
+      "id": "masautso-tembo-q1784088",
       "name": "Masautso Tembo",
       "sitting": true,
       "party_id": "independent-politician",
@@ -2438,7 +102,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q45382405"
     },
     {
-      "id": "mwalimu-simfukwe",
+      "id": "sichone-malozo-q1784088",
+      "name": "Sichone Malozo",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Isoka",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29559352"
+    },
+    {
+      "id": "mwalimu-simfukwe-q1784088",
       "name": "Mwalimu Simfukwe",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -2451,7 +128,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45383622"
     },
     {
-      "id": "rosaria-fundanga",
+      "id": "rosaria-fundanga-q1784088",
       "name": "Rosaria Fundanga",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -2464,7 +141,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45383873"
     },
     {
-      "id": "salatiel-tembo",
+      "id": "salatiel-tembo-q1784088",
       "name": "Salatiel Tembo",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -2477,7 +154,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45383897"
     },
     {
-      "id": "alfred-mandumbwa",
+      "id": "alfred-mandumbwa-q1784088",
       "name": "Alfred Mandumbwa",
       "sitting": true,
       "party_id": "independent-politician",
@@ -2490,7 +167,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45382079"
     },
     {
-      "id": "george-imbuwa",
+      "id": "george-imbuwa-q1784088",
       "name": "George Imbuwa",
       "sitting": true,
       "party_id": "independent-politician",
@@ -2503,7 +180,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45382336"
     },
     {
-      "id": "kelvin-sampa",
+      "id": "kelvin-sampa-q1784088",
       "name": "Kelvin Sampa",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -2516,7 +193,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45383375"
     },
     {
-      "id": "kalalwe-mukosa",
+      "id": "kalalwe-mukosa-q1784088",
       "name": "Kalalwe Mukosa",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -2529,7 +206,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45383326"
     },
     {
-      "id": "lawrence-nyirenda",
+      "id": "lawrence-nyirenda-q1784088",
       "name": "Lawrence Nyirenda",
       "sitting": true,
       "party_id": "independent-politician",
@@ -2542,7 +219,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45382371"
     },
     {
-      "id": "pilila-jere",
+      "id": "pilila-jere-q1784088",
       "name": "Pilila Jere",
       "sitting": true,
       "party_id": "independent-politician",
@@ -2555,7 +232,72 @@
       "roster_url": "http://www.wikidata.org/entity/Q45382477"
     },
     {
-      "id": "charles-zulu",
+      "id": "lucky-mulusa-q1784088",
+      "name": "Lucky Mulusa",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29539966"
+    },
+    {
+      "id": "edify-hamukale-q1784088",
+      "name": "Edify Hamukale",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29559341"
+    },
+    {
+      "id": "nathaniel-mubukwanu-q1784088",
+      "name": "Nathaniel Mubukwanu",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29559355"
+    },
+    {
+      "id": "richard-kapita-q1784088",
+      "name": "Richard Kapita",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29559347"
+    },
+    {
+      "id": "nickson-chilangwa-q1784088",
+      "name": "Nickson Chilangwa",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Kawambwa",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29557220"
+    },
+    {
+      "id": "charles-zulu-q1784088",
       "name": "Charles Zulu",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -2568,7 +310,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45382685"
     },
     {
-      "id": "joseph-malanji",
+      "id": "joseph-malanji-q1784088",
       "name": "Joseph Malanji",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -2581,7 +323,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45383291"
     },
     {
-      "id": "maxwell-kabanda",
+      "id": "maxwell-kabanda-q1784088",
       "name": "Maxwell Kabanda",
       "sitting": true,
       "party_id": "movement-for-multi-party-democracy",
@@ -2594,7 +336,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q45382535"
     },
     {
-      "id": "anthony-malama",
+      "id": "vincent-mwale-q1784088",
+      "name": "Vincent Mwale",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Chipangali",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29555795"
+    },
+    {
+      "id": "charles-banda-q1784088",
+      "name": "Charles Banda",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Kapoche",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29555800"
+    },
+    {
+      "id": "anthony-malama-q1784088",
       "name": "Anthony Malama",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -2607,7 +375,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45382568"
     },
     {
-      "id": "anthony-kasandwe",
+      "id": "anthony-kasandwe-q1784088",
       "name": "Anthony Kasandwe",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -2620,7 +388,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45382585"
     },
     {
-      "id": "evans-chibanda",
+      "id": "evans-chibanda-q1784088",
       "name": "Evans Chibanda",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -2633,7 +401,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45382994"
     },
     {
-      "id": "gerald-zimba",
+      "id": "gerald-zimba-q1784088",
       "name": "Gerald Zimba",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -2646,7 +414,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45383084"
     },
     {
-      "id": "lazarous-chungu",
+      "id": "lazarous-chungu-q1784088",
       "name": "Lazarous Chungu",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -2659,7 +427,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45383410"
     },
     {
-      "id": "maxas-ng-onga",
+      "id": "maxas-ng-onga-q1784088",
       "name": "Maxas Ng’onga",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -2672,7 +440,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45383553"
     },
     {
-      "id": "yizukanji-siwanzi",
+      "id": "yizukanji-siwanzi-q1784088",
       "name": "Yizukanji Siwanzi",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -2685,7 +453,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45384099"
     },
     {
-      "id": "mutotwe-kafwaya",
+      "id": "mutotwe-kafwaya-q1784088",
       "name": "Mutotwe Kafwaya",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -2698,7 +466,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q45383604"
     },
     {
-      "id": "elizabeth-phiri",
+      "id": "sydney-mushanga-q1784088",
+      "name": "Sydney Mushanga",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Bwacha (constituency)",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29559364"
+    },
+    {
+      "id": "dennis-wanchinga-q1784088",
+      "name": "Dennis Wanchinga",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Mambilima",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29555804"
+    },
+    {
+      "id": "elizabeth-phiri-q1784088",
       "name": "Elizabeth Phiri",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -2711,7 +505,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45382951"
     },
     {
-      "id": "jacob-siwale",
+      "id": "jacob-siwale-q1784088",
       "name": "Jacob Siwale",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -2724,7 +518,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45383183"
     },
     {
-      "id": "boyd-hamusonde",
+      "id": "boyd-hamusonde-q1784088",
       "name": "Boyd Hamusonde",
       "sitting": true,
       "party_id": "independent-politician",
@@ -2737,7 +531,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45382305"
     },
     {
-      "id": "elias-mwila",
+      "id": "elias-mwila-q1784088",
       "name": "Elias Mwila",
       "sitting": true,
       "party_id": "independent-politician",
@@ -2750,7 +544,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45382319"
     },
     {
-      "id": "pavyuma-kalobo",
+      "id": "pavyuma-kalobo-q1784088",
       "name": "Pavyuma Kalobo",
       "sitting": true,
       "party_id": "independent-politician",
@@ -2763,7 +557,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q45382456"
     },
     {
-      "id": "olipa-phiri",
+      "id": "bowman-lusambo-q1784088",
+      "name": "Bowman Lusambo",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Kabushi",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29559350"
+    },
+    {
+      "id": "olipa-phiri-q1784088",
       "name": "Olipa Phiri",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -2776,7 +583,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q45383726"
     },
     {
-      "id": "jewis-chabi",
+      "id": "moses-mawere-q1784088",
+      "name": "Moses Mawere",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Chipata Central",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29555797"
+    },
+    {
+      "id": "jewis-chabi-q1784088",
       "name": "Jewis Chabi",
       "sitting": true,
       "party_id": "independent-politician",
@@ -2789,7 +609,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q45382351"
     },
     {
-      "id": "chilombo-chali",
+      "id": "lawrence-sichalwe-q1784088",
+      "name": "Lawrence Sichalwe",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Chawama",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29556823"
+    },
+    {
+      "id": "chilombo-chali-q1784088",
       "name": "Chilombo Chali",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -2802,7 +635,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45382701"
     },
     {
-      "id": "mwenya-munkonge",
+      "id": "mwenya-munkonge-q1784088",
       "name": "Mwenya Munkonge",
       "sitting": true,
       "party_id": "independent-politician",
@@ -2815,7 +648,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45382440"
     },
     {
-      "id": "gift-chiyalika",
+      "id": "gift-chiyalika-q1784088",
       "name": "Gift Chiyalika",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -2828,7 +661,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45383101"
     },
     {
-      "id": "listed-tembo",
+      "id": "listed-tembo-q1784088",
       "name": "Listed Tembo",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -2841,7 +674,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45383430"
     },
     {
-      "id": "sebastian-kopulande",
+      "id": "sebastian-kopulande-q1784088",
       "name": "Sebastian Kopulande",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -2854,7 +687,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45383910"
     },
     {
-      "id": "whiteson-banda",
+      "id": "whiteson-banda-q1784088",
       "name": "Whiteson Banda",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -2867,7 +700,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45384082"
     },
     {
-      "id": "davies-chisopa",
+      "id": "davies-chisopa-q1784088",
       "name": "Davies Chisopa",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -2880,7 +713,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45382825"
     },
     {
-      "id": "emmanuel-mulenga",
+      "id": "emmanuel-mulenga-q1784088",
       "name": "Emmanuel Mulenga",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -2893,7 +726,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45382977"
     },
     {
-      "id": "mwimba-malama",
+      "id": "mwimba-malama-q1784088",
       "name": "Mwimba Malama",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -2906,7 +739,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45383658"
     },
     {
-      "id": "anthony-mumba",
+      "id": "anthony-mumba-q1784088",
       "name": "Anthony Mumba",
       "sitting": true,
       "party_id": "independent-politician",
@@ -2919,7 +752,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45382293"
     },
     {
-      "id": "machila-jamba",
+      "id": "machila-jamba-q1784088",
       "name": "Machila Jamba",
       "sitting": true,
       "party_id": "independent-politician",
@@ -2932,20 +765,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45382390"
     },
     {
-      "id": "roy-welensky",
-      "name": "Roy Welensky",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q367456"
-    },
-    {
-      "id": "ponde-mecha",
+      "id": "ponde-mecha-q1784088",
       "name": "Ponde Mecha",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -2958,7 +778,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45383765"
     },
     {
-      "id": "howard-kunda",
+      "id": "howard-kunda-q1784088",
       "name": "Howard Kunda",
       "sitting": true,
       "party_id": "movement-for-multi-party-democracy",
@@ -2971,7 +791,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45382514"
     },
     {
-      "id": "george-mwamba",
+      "id": "george-mwamba-q1784088",
       "name": "George Mwamba",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -2984,7 +804,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45383066"
     },
     {
-      "id": "richard-musukwa",
+      "id": "richard-musukwa-q1784088",
       "name": "Richard Musukwa",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -2997,7 +817,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45383817"
     },
     {
-      "id": "darious-mumba",
+      "id": "darious-mumba-q1784088",
       "name": "Darious Mumba",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -3010,7 +830,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45382790"
     },
     {
-      "id": "davison-mung-andu",
+      "id": "davison-mung-andu-q1784088",
       "name": "Davison Mung`andu",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -3023,7 +843,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45382843"
     },
     {
-      "id": "doreen-mwape",
+      "id": "doreen-mwape-q1784088",
       "name": "Doreen Mwape",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -3036,7 +856,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45382898"
     },
     {
-      "id": "elalio-musonda",
+      "id": "elalio-musonda-q1784088",
       "name": "Elalio Musonda",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -3049,7 +869,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45382933"
     },
     {
-      "id": "frank-ng-ambi",
+      "id": "frank-ng-ambi-q1784088",
       "name": "Frank Ng'ambi",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -3062,7 +882,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45383042"
     },
     {
-      "id": "hastings-chansa",
+      "id": "hastings-chansa-q1784088",
       "name": "Hastings Chansa",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -3075,7 +895,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45383152"
     },
     {
-      "id": "jonas-chanda",
+      "id": "jonas-chanda-q1784088",
       "name": "Jonas Chanda",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -3088,7 +908,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45383255"
     },
     {
-      "id": "joseph-kabamba",
+      "id": "joseph-kabamba-q1784088",
       "name": "Joseph Kabamba",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -3101,20 +921,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45383276"
     },
     {
-      "id": "luke-mwananshiku",
-      "name": "Luke Mwananshiku",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4286479"
-    },
-    {
-      "id": "margaret-miti",
+      "id": "margaret-miti-q1784088",
       "name": "Margaret Miti",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -3127,7 +934,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45383509"
     },
     {
-      "id": "martin-malama",
+      "id": "martin-malama-q1784088",
       "name": "Martin Malama",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -3140,7 +947,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45383524"
     },
     {
-      "id": "remember-mutale",
+      "id": "remember-mutale-q1784088",
       "name": "Remember Mutale",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -3153,7 +960,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45383783"
     },
     {
-      "id": "rodgers-mwewa",
+      "id": "rodgers-mwewa-q1784088",
       "name": "Rodgers Mwewa",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -3166,7 +973,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45383834"
     },
     {
-      "id": "stephen-chungu",
+      "id": "stephen-chungu-q1784088",
       "name": "Stephen Chungu",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -3179,7 +986,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q45383949"
     },
     {
-      "id": "tutwa-ngulube",
+      "id": "ali-simbule-q1784088",
+      "name": "Ali Simbule",
+      "sitting": true,
+      "party_id": "united-national-independence-party",
+      "caucus": "United National Independence Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q33144491"
+    },
+    {
+      "id": "tutwa-ngulube-q1784088",
       "name": "Tutwa Ngulube",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -3192,7 +1012,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q45384022"
     },
     {
-      "id": "mwansa-mbulakulima",
+      "id": "nakatindi-wina-q1784088",
+      "name": "Nakatindi Wina",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q42663477"
+    },
+    {
+      "id": "mwansa-mbulakulima-q1784088",
       "name": "Mwansa Mbulakulima",
       "sitting": true,
       "party_id": "patriotic-front",
@@ -3205,7 +1038,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45383644"
     },
     {
-      "id": "given-katuta",
+      "id": "given-katuta-q1784088",
       "name": "Given Katuta",
       "sitting": true,
       "party_id": "forum-for-democracy-and-development",
@@ -3218,33 +1051,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45381116"
     },
     {
-      "id": "nakatindi-wina",
-      "name": "Nakatindi Wina",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q42663477"
-    },
-    {
-      "id": "mathews-jere",
-      "name": "Mathews Jere",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Livingstone",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q45384702"
-    },
-    {
-      "id": "ambrose-lufuma",
+      "id": "ambrose-lufuma-q1784088",
       "name": "Ambrose Lufuma",
       "sitting": true,
       "party_id": "united-party-for-national-development",
@@ -3257,7 +1064,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45384113"
     },
     {
-      "id": "attractor-chisangano",
+      "id": "attractor-chisangano-q1784088",
       "name": "Attractor Chisangano",
       "sitting": true,
       "party_id": "united-party-for-national-development",
@@ -3270,7 +1077,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45384136"
     },
     {
-      "id": "peter-phiri",
+      "id": "peter-phiri-q1784088",
       "name": "Peter Phiri",
       "sitting": true,
       "party_id": "movement-for-multi-party-democracy",
@@ -3283,20 +1090,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q45382549"
     },
     {
-      "id": "mirriam-chonya",
-      "name": "Mirriam Chonya",
+      "id": "matthew-nkhuwa-q1784088",
+      "name": "Matthew Nkhuwa",
       "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Kafue",
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Chingola",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q45384719"
+      "roster_url": "http://www.wikidata.org/entity/Q29539961"
     },
     {
-      "id": "cornelius-mweetwa",
+      "id": "cornelius-mweetwa-q1784088",
       "name": "Cornelius Mweetwa",
       "sitting": true,
       "party_id": "united-party-for-national-development",
@@ -3309,20 +1116,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45384254"
     },
     {
-      "id": "frank-kufakwandi",
-      "name": "Frank Kufakwandi",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Sesheke",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q45384435"
-    },
-    {
-      "id": "david-kundoti",
+      "id": "david-kundoti-q1784088",
       "name": "David Kundoti",
       "sitting": true,
       "party_id": "united-party-for-national-development",
@@ -3335,7 +1129,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45384298"
     },
     {
-      "id": "clive-miyanda",
+      "id": "clive-miyanda-q1784088",
       "name": "Clive Miyanda",
       "sitting": true,
       "party_id": "united-party-for-national-development",
@@ -3348,7 +1142,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45384236"
     },
     {
-      "id": "christopher-kalila",
+      "id": "christopher-kalila-q1784088",
       "name": "Christopher Kalila",
       "sitting": true,
       "party_id": "united-party-for-national-development",
@@ -3361,7 +1155,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45384199"
     },
     {
-      "id": "darius-mulunda",
+      "id": "darius-mulunda-q1784088",
       "name": "Darius Mulunda",
       "sitting": true,
       "party_id": "united-party-for-national-development",
@@ -3374,7 +1168,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45384285"
     },
     {
-      "id": "derick-livune",
+      "id": "derick-livune-q1784088",
       "name": "Derick Livune",
       "sitting": true,
       "party_id": "united-party-for-national-development",
@@ -3387,7 +1181,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45384315"
     },
     {
-      "id": "edgar-sing-ombe",
+      "id": "edgar-sing-ombe-q1784088",
       "name": "Edgar Sing’ombe",
       "sitting": true,
       "party_id": "united-party-for-national-development",
@@ -3400,124 +1194,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45384351"
     },
     {
-      "id": "emmerson-machila",
-      "name": "Emmerson Machila",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Magoye",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q45384403"
-    },
-    {
-      "id": "ephraim-belemu",
-      "name": "Ephraim Belemu",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Mbabala",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q45384419"
-    },
-    {
-      "id": "fred-chaatila",
-      "name": "Fred Chaatila",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Moomba",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q45384454"
-    },
-    {
-      "id": "gary-nkombo",
-      "name": "Gary Nkombo",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Mazabuka Central",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q45384471"
-    },
-    {
-      "id": "gift-sialubalo",
-      "name": "Gift Sialubalo",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Sinazongwe",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q45384504"
-    },
-    {
-      "id": "harry-kamboni",
-      "name": "Harry Kamboni",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Kalomo Central",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q45384522"
-    },
-    {
-      "id": "kabwe-mwiinga",
-      "name": "Kabwe Mwiinga",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Chikankata",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q45384572"
-    },
-    {
-      "id": "jacob-mwiimbu",
-      "name": "Jacob Mwiimbu",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Monze",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q45384555"
-    },
-    {
-      "id": "misheck-mutelo",
-      "name": "Misheck Mutelo",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Mitete",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q45384734"
-    },
-    {
-      "id": "credo-nanjuwa",
+      "id": "credo-nanjuwa-q1784088",
       "name": "Credo Nanjuwa",
       "sitting": true,
       "party_id": "united-party-for-national-development",
@@ -3530,7 +1207,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45384270"
     },
     {
-      "id": "elliot-kamondo",
+      "id": "elliot-kamondo-q1784088",
       "name": "Elliot Kamondo",
       "sitting": true,
       "party_id": "united-party-for-national-development",
@@ -3543,20 +1220,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q45384388"
     },
     {
-      "id": "herbert-shabula",
-      "name": "Herbert Shabula",
-      "sitting": true,
-      "party_id": "united-party-for-national-development",
-      "caucus": "United Party for National Development",
-      "constituency_label": "Itezhi-Tezhi",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q45384543"
-    },
-    {
-      "id": "brenda-tambatamba",
+      "id": "brenda-tambatamba-q1784088",
       "name": "Brenda Tambatamba",
       "sitting": true,
       "party_id": "united-party-for-national-development",
@@ -3569,7 +1233,46 @@
       "roster_url": "http://www.wikidata.org/entity/Q45384153"
     },
     {
-      "id": "douglas-syakalima",
+      "id": "ronald-chitotela-q1784088",
+      "name": "Ronald Chitotela",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Pambashe",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29539957"
+    },
+    {
+      "id": "brian-mundubile-q1784088",
+      "name": "Brian Mundubile",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Mporokoso",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29559362"
+    },
+    {
+      "id": "christopher-yaluma-q1784088",
+      "name": "Christopher Yaluma",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Malole",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29543126"
+    },
+    {
+      "id": "douglas-syakalima-q1784088",
       "name": "Douglas Syakalima",
       "sitting": true,
       "party_id": "united-party-for-national-development",
@@ -3582,7 +1285,1476 @@
       "roster_url": "http://www.wikidata.org/entity/Q45384330"
     },
     {
-      "id": "leonard-fungulwe",
+      "id": "japhen-mwakalombe-q1784088",
+      "name": "Japhen Mwakalombe",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Chongwe",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29559369"
+    },
+    {
+      "id": "makebi-zulu-q1784088",
+      "name": "Makebi Zulu",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Malambo",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29559372"
+    },
+    {
+      "id": "dora-siliya-q1784088",
+      "name": "Dora Siliya",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Petauke Central",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1243653"
+    },
+    {
+      "id": "inonge-mbikusita-lewanika-q1784088",
+      "name": "Inonge Mbikusita-Lewanika",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q257156"
+    },
+    {
+      "id": "simon-kapwepwe-q1784088",
+      "name": "Simon Kapwepwe",
+      "sitting": true,
+      "party_id": "united-national-independence-party",
+      "caucus": "United National Independence Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2287615"
+    },
+    {
+      "id": "mainza-chona-q1784088",
+      "name": "Mainza Chona",
+      "sitting": true,
+      "party_id": "united-national-independence-party",
+      "caucus": "United National Independence Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q262053"
+    },
+    {
+      "id": "david-phiri-q1784088",
+      "name": "David Phiri",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1176125"
+    },
+    {
+      "id": "guy-scott-q1784088",
+      "name": "Guy Scott",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Lusaka Central",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q153986"
+    },
+    {
+      "id": "christon-tembo-q1784088",
+      "name": "Christon Tembo",
+      "sitting": true,
+      "party_id": "forum-for-democracy-and-development",
+      "caucus": "Forum for Democracy and Development",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1084438"
+    },
+    {
+      "id": "ronald-penza-q1784088",
+      "name": "Ronald Penza",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1370616"
+    },
+    {
+      "id": "evelyn-dennison-hone-q1784088",
+      "name": "Evelyn Dennison Hone",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1381724"
+    },
+    {
+      "id": "gwendoline-konie-q1784088",
+      "name": "Gwendoline Konie",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1557844"
+    },
+    {
+      "id": "geoffrey-lungwangwa-q1784088",
+      "name": "Geoffrey Lungwangwa",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Nalikwanda",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1503022"
+    },
+    {
+      "id": "kebby-musokotwane-q1784088",
+      "name": "Kebby Musokotwane",
+      "sitting": true,
+      "party_id": "united-national-independence-party",
+      "caucus": "United National Independence Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q716006"
+    },
+    {
+      "id": "elijah-mudenda-q1784088",
+      "name": "Elijah Mudenda",
+      "sitting": true,
+      "party_id": "united-national-independence-party",
+      "caucus": "United National Independence Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q717737"
+    },
+    {
+      "id": "jonas-shakafuswa-q1784088",
+      "name": "Jonas Shakafuswa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1703016"
+    },
+    {
+      "id": "kabinga-pande-q1784088",
+      "name": "Kabinga Pande",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1720830"
+    },
+    {
+      "id": "benjamin-mwila-q1784088",
+      "name": "Benjamin Mwila",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q817630"
+    },
+    {
+      "id": "benny-tetamashimba-q1784088",
+      "name": "Benny Tetamashimba",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q818076"
+    },
+    {
+      "id": "kenneth-kaunda-q1784088",
+      "name": "Kenneth Kaunda",
+      "sitting": true,
+      "party_id": "united-national-independence-party",
+      "caucus": "United National Independence Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105480"
+    },
+    {
+      "id": "winright-ngondo-q1784088",
+      "name": "Winright Ngondo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2584804"
+    },
+    {
+      "id": "nalumino-mundia-q1784088",
+      "name": "Nalumino Mundia",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q329514"
+    },
+    {
+      "id": "roy-welensky-q1784088",
+      "name": "Roy Welensky",
+      "sitting": true,
+      "party_id": "northern-rhodesian-labour-party",
+      "caucus": "Northern Rhodesian Labour Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q367456"
+    },
+    {
+      "id": "besnat-jere-q1784088",
+      "name": "Besnat Jere",
+      "sitting": true,
+      "party_id": "united-national-independence-party",
+      "caucus": "United National Independence Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4896329"
+    },
+    {
+      "id": "baldwin-nkumbula-q1784088",
+      "name": "Baldwin Nkumbula",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4850578"
+    },
+    {
+      "id": "sydney-chisanga-q1784088",
+      "name": "Sydney Chisanga",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2373674"
+    },
+    {
+      "id": "sylvia-masebo-q1784088",
+      "name": "Sylvia Masebo",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2374229"
+    },
+    {
+      "id": "dipak-patel-q1784088",
+      "name": "Dipak Patel",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5279692"
+    },
+    {
+      "id": "alexander-grey-zulu-q1784088",
+      "name": "Alexander Grey Zulu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4719011"
+    },
+    {
+      "id": "paul-j-f-lusaka-q1784088",
+      "name": "Paul J. F. Lusaka",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q642870"
+    },
+    {
+      "id": "gladys-nyirongo-q1784088",
+      "name": "Gladys Nyirongo",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1251953"
+    },
+    {
+      "id": "edgar-unsworth-q1784088",
+      "name": "Edgar Unsworth",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5337499"
+    },
+    {
+      "id": "gibson-chigaga-q1784088",
+      "name": "Gibson Chigaga",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5559300"
+    },
+    {
+      "id": "kapembwa-simbao-q1784088",
+      "name": "Kapembwa Simbao",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Senga Hill",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1498614"
+    },
+    {
+      "id": "levy-mwanawasa-q1784088",
+      "name": "Levy Mwanawasa",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q212058"
+    },
+    {
+      "id": "george-kunda-q1784088",
+      "name": "George Kunda",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1507722"
+    },
+    {
+      "id": "catherine-namugala-q1784088",
+      "name": "Catherine Namugala",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1051020"
+    },
+    {
+      "id": "brian-chituwo-q1784088",
+      "name": "Brian Chituwo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q912005"
+    },
+    {
+      "id": "gladys-lundwe-q1784088",
+      "name": "Gladys Lundwe",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1529107"
+    },
+    {
+      "id": "godfrey-miyanda-q1784088",
+      "name": "Godfrey Miyanda",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1533811"
+    },
+    {
+      "id": "rupiah-banda-q1784088",
+      "name": "Rupiah Banda",
+      "sitting": true,
+      "party_id": "united-national-independence-party",
+      "caucus": "United National Independence Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q217500"
+    },
+    {
+      "id": "peter-daka-q1784088",
+      "name": "Peter Daka",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Msanzala",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2074457"
+    },
+    {
+      "id": "daniel-lisulo-q1784088",
+      "name": "Daniel Lisulo",
+      "sitting": true,
+      "party_id": "united-national-independence-party",
+      "caucus": "United National Independence Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1161591"
+    },
+    {
+      "id": "vernon-mwaanga-q1784088",
+      "name": "Vernon Mwaanga",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2517357"
+    },
+    {
+      "id": "michael-sata-q1784088",
+      "name": "Michael Sata",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q299173"
+    },
+    {
+      "id": "harry-mwaanga-nkumbula-q1784088",
+      "name": "Harry Mwaanga Nkumbula",
+      "sitting": true,
+      "party_id": "united-national-independence-party",
+      "caucus": "United National Independence Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1586671"
+    },
+    {
+      "id": "given-lubinda-q1784088",
+      "name": "Given Lubinda",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Kabwata",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5565823"
+    },
+    {
+      "id": "cecil-dennistoun-burney-q1784088",
+      "name": "Cecil Dennistoun Burney",
+      "sitting": true,
+      "party_id": "united-federal-party",
+      "caucus": "United Federal Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5056040"
+    },
+    {
+      "id": "luke-mwananshiku-q1784088",
+      "name": "Luke Mwananshiku",
+      "sitting": true,
+      "party_id": "united-national-independence-party",
+      "caucus": "United National Independence Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4286479"
+    },
+    {
+      "id": "austin-liato-q1784088",
+      "name": "Austin Liato",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q781111"
+    },
+    {
+      "id": "emmanuel-kasonde-q1784088",
+      "name": "Emmanuel Kasonde",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5373258"
+    },
+    {
+      "id": "enoch-kavindele-q1784088",
+      "name": "Enoch Kavindele",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5379308"
+    },
+    {
+      "id": "wesley-nyirenda-q1784088",
+      "name": "Wesley Nyirenda",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q66393213"
+    },
+    {
+      "id": "francis-nkhoma-q1784088",
+      "name": "Francis Nkhoma",
+      "sitting": true,
+      "party_id": "united-national-independence-party",
+      "caucus": "United National Independence Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5482057"
+    },
+    {
+      "id": "reuben-kamanga-q1784088",
+      "name": "Reuben Kamanga",
+      "sitting": true,
+      "party_id": "united-national-independence-party",
+      "caucus": "United National Independence Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2146535"
+    },
+    {
+      "id": "nelly-mutti-q1784088",
+      "name": "Nelly Mutti",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108395814"
+    },
+    {
+      "id": "felix-mutati-q1784088",
+      "name": "Felix Mutati",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1403691"
+    },
+    {
+      "id": "chishimba-kambwili-q1784088",
+      "name": "Chishimba Kambwili",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Roan",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q23541019"
+    },
+    {
+      "id": "davies-chama-q1784088",
+      "name": "Davies Chama",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q27063175"
+    },
+    {
+      "id": "joyce-nonde-simukoko-q1784088",
+      "name": "Joyce Nonde-Simukoko",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q27063131"
+    },
+    {
+      "id": "godfridah-sumaili-q1784088",
+      "name": "Godfridah Sumaili",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q27063686"
+    },
+    {
+      "id": "vera-tembo-q1784088",
+      "name": "Vera Tembo",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q26923348"
+    },
+    {
+      "id": "joseph-kasonde-q1784088",
+      "name": "Joseph Kasonde",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19560941"
+    },
+    {
+      "id": "joseph-katema-q1784088",
+      "name": "Joseph Katema",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19560944"
+    },
+    {
+      "id": "edith-nawakwi-q1784088",
+      "name": "Edith Nawakwi",
+      "sitting": true,
+      "party_id": "forum-for-democracy-and-development",
+      "caucus": "Forum for Democracy and Development",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q26721408"
+    },
+    {
+      "id": "chifita-matafwali-q1784088",
+      "name": "Chifita Matafwali",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q21997858"
+    },
+    {
+      "id": "brian-andre-doyle-q1784088",
+      "name": "Brian Andre Doyle",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q21030318"
+    },
+    {
+      "id": "chitalu-chilufya-q1784088",
+      "name": "Chitalu Chilufya",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Mansa Central",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q27063490"
+    },
+    {
+      "id": "stephen-kampyongo-q1784088",
+      "name": "Stephen Kampyongo",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Shiwa Ng'andu",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q27063683"
+    },
+    {
+      "id": "patrick-matibini-q1784088",
+      "name": "Patrick Matibini",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q22006727"
+    },
+    {
+      "id": "robert-christopher-stafford-stanley-q1784088",
+      "name": "Robert Christopher Stafford Stanley",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24204899"
+    },
+    {
+      "id": "humphrey-mwanza-q1784088",
+      "name": "Humphrey Mwanza",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q21997866"
+    },
+    {
+      "id": "jean-kapata-q1784088",
+      "name": "Jean Kapata",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Mandevu",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q27947831"
+    },
+    {
+      "id": "nkandu-luo-q1784088",
+      "name": "Nkandu Luo",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Munali",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q27891778"
+    },
+    {
+      "id": "daniel-munkombwe-q1784088",
+      "name": "Daniel Munkombwe",
+      "sitting": true,
+      "party_id": "united-national-independence-party",
+      "caucus": "United National Independence Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28223205"
+    },
+    {
+      "id": "kampamba-chilumba-q1784088",
+      "name": "Kampamba Chilumba",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Kalulushi",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29539935"
+    },
+    {
+      "id": "chomba-sikazwe-q1784088",
+      "name": "Chomba Sikazwe",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Mpulungu",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29539950"
+    },
+    {
+      "id": "micheal-katambo-q1784088",
+      "name": "Micheal Katambo",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Masaiti",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q27517522"
+    },
+    {
+      "id": "frank-kufakwandi-q1784088",
+      "name": "Frank Kufakwandi",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Sesheke",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45384435"
+    },
+    {
+      "id": "emmerson-machila-q1784088",
+      "name": "Emmerson Machila",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Magoye",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45384403"
+    },
+    {
+      "id": "ephraim-belemu-q1784088",
+      "name": "Ephraim Belemu",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Mbabala",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45384419"
+    },
+    {
+      "id": "fred-chaatila-q1784088",
+      "name": "Fred Chaatila",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Moomba",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45384454"
+    },
+    {
+      "id": "gary-nkombo-q1784088",
+      "name": "Gary Nkombo",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Mazabuka Central",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45384471"
+    },
+    {
+      "id": "gift-sialubalo-q1784088",
+      "name": "Gift Sialubalo",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Sinazongwe",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45384504"
+    },
+    {
+      "id": "harry-kamboni-q1784088",
+      "name": "Harry Kamboni",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Kalomo Central",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45384522"
+    },
+    {
+      "id": "jacob-mwiimbu-q1784088",
+      "name": "Jacob Mwiimbu",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Monze",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45384555"
+    },
+    {
+      "id": "victoria-kalima-q1784088",
+      "name": "Victoria Kalima",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Kasenengwa",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q27899009"
+    },
+    {
+      "id": "brian-mushimba-q1784088",
+      "name": "Brian Mushimba",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Kankoyo",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q27662555"
+    },
+    {
+      "id": "lloyd-kaziya-q1784088",
+      "name": "Lloyd Kaziya",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Matero",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29539945"
+    },
+    {
+      "id": "emerine-kabanshi-q1784088",
+      "name": "Emerine Kabanshi",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Luapula",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29539929"
+    },
+    {
+      "id": "herbert-shabula-q1784088",
+      "name": "Herbert Shabula",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Itezhi-Tezhi",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45384543"
+    },
+    {
+      "id": "sylvia-chalikosa-q1784088",
+      "name": "Sylvia Chalikosa",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Mpika Central",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29539941"
+    },
+    {
+      "id": "makozo-chikote-q1784088",
+      "name": "Makozo Chikote",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Luampa",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45384683"
+    },
+    {
+      "id": "kapelwa-mbangweta-q1784088",
+      "name": "Kapelwa Mbangweta",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Nkeyema",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45384592"
+    },
+    {
+      "id": "kasautu-michelo-q1784088",
+      "name": "Kasautu Michelo",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Bweengwa",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45384604"
+    },
+    {
+      "id": "leaky-kintu-q1784088",
+      "name": "Leaky Kintu",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Solwezi East",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45384638"
+    },
+    {
+      "id": "prisca-kucheka-q1784088",
+      "name": "Prisca Kucheka",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Zambezi West",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45384919"
+    },
+    {
+      "id": "mubika-mubika-q1784088",
+      "name": "Mubika Mubika",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Shang’ombo",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45384771"
+    },
+    {
+      "id": "mutinta-mazoka-q1784088",
+      "name": "Mutinta Mazoka",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Pemba",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45384819"
+    },
+    {
+      "id": "mathews-jere-q1784088",
+      "name": "Mathews Jere",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Livingstone",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45384702"
+    },
+    {
+      "id": "keith-mukata-q1784088",
+      "name": "Keith Mukata",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Chilanga",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45384622"
+    },
+    {
+      "id": "mirriam-chonya-q1784088",
+      "name": "Mirriam Chonya",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Kafue",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45384719"
+    },
+    {
+      "id": "kabwe-mwiinga-q1784088",
+      "name": "Kabwe Mwiinga",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Chikankata",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45384572"
+    },
+    {
+      "id": "moono-lubezhi-q1784088",
+      "name": "Moono Lubezhi",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Namwala",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45384753"
+    },
+    {
+      "id": "mukumbuta-mulowa-q1784088",
+      "name": "Mukumbuta Mulowa",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Senanga",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45384786"
+    },
+    {
+      "id": "misheck-mutelo-q1784088",
+      "name": "Misheck Mutelo",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Mitete",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45384734"
+    },
+    {
+      "id": "mundia-ndalamei-q1784088",
+      "name": "Mundia Ndalamei",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Sikongo",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45384803"
+    },
+    {
+      "id": "mwilola-imakando-q1784088",
+      "name": "Mwilola Imakando",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Mongu Central",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45384835"
+    },
+    {
+      "id": "naluwa-mwene-q1784088",
+      "name": "Naluwa Mwene",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Mangango",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45384849"
+    },
+    {
+      "id": "princess-kasune-q1784088",
+      "name": "Princess Kasune",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Keembe",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45384901"
+    },
+    {
+      "id": "rasfold-bulaya-q1784088",
+      "name": "Rasfold Bulaya",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Mpongwe",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45384934"
+    },
+    {
+      "id": "newton-samakayi-q1784088",
+      "name": "Newton Samakayi",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Mwinilunga",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45384868"
+    },
+    {
+      "id": "patricia-mwashingwele-q1784088",
+      "name": "Patricia Mwashingwele",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Katuba",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45384885"
+    },
+    {
+      "id": "leonard-fungulwe-q1784088",
       "name": "Leonard Fungulwe",
       "sitting": true,
       "party_id": "united-party-for-national-development",
@@ -3593,6 +2765,1020 @@
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q45384661"
+    },
+    {
+      "id": "stafford-mulusa-q1784088",
+      "name": "Stafford Mulusa",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Solwezi Central",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45385024"
+    },
+    {
+      "id": "teddy-kasonso-q1784088",
+      "name": "Teddy Kasonso",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Solwezi West",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45385060"
+    },
+    {
+      "id": "stanley-kakubo-q1784088",
+      "name": "Stanley Kakubo",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Kapiri Mposhi",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45385044"
+    },
+    {
+      "id": "highvie-hamududu-q1784088",
+      "name": "Highvie Hamududu",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q48656690"
+    },
+    {
+      "id": "patrick-anthony-mwewa-chikusu-q1784088",
+      "name": "Patrick Anthony Mwewa Chikusu",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q65044674"
+    },
+    {
+      "id": "bwalya-stanley-kasonde-chiti-q1784088",
+      "name": "Bwalya Stanley Kasonde Chiti",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q93883132"
+    },
+    {
+      "id": "ester-banda-q1784088",
+      "name": "Ester Banda",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q94450370"
+    },
+    {
+      "id": "margret-mbeba-q1784088",
+      "name": "Margret Mbeba",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q95208540"
+    },
+    {
+      "id": "paul-katema-q1784088",
+      "name": "Paul Katema",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q50354989"
+    },
+    {
+      "id": "japhet-moonde-q1784088",
+      "name": "Japhet Moonde",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q48813015"
+    },
+    {
+      "id": "eli-mwanang-onze-q1784088",
+      "name": "Eli Mwanang'onze",
+      "sitting": true,
+      "party_id": "united-national-independence-party",
+      "caucus": "United National Independence Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q48921853"
+    },
+    {
+      "id": "rex-natala-q1784088",
+      "name": "Rex Natala",
+      "sitting": true,
+      "party_id": "united-national-independence-party",
+      "caucus": "United National Independence Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q48976450"
+    },
+    {
+      "id": "wamundila-muliokela-q1784088",
+      "name": "Wamundila Muliokela",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q48984623"
+    },
+    {
+      "id": "sikota-wina-q1784088",
+      "name": "Sikota Wina",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q48991539"
+    },
+    {
+      "id": "esther-banda-q1784088",
+      "name": "Esther Banda",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q48980036"
+    },
+    {
+      "id": "edgar-keembe-q1784088",
+      "name": "Edgar Keembe",
+      "sitting": true,
+      "party_id": "forum-for-democracy-and-development",
+      "caucus": "Forum for Democracy and Development",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q48897338"
+    },
+    {
+      "id": "joseph-zulu-q1784088",
+      "name": "Joseph Zulu",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q49560936"
+    },
+    {
+      "id": "emmanuel-chenda-q1784088",
+      "name": "Emmanuel Chenda",
+      "sitting": true,
+      "party_id": "forum-for-democracy-and-development",
+      "caucus": "Forum for Democracy and Development",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q49175417"
+    },
+    {
+      "id": "maria-langa-q1784088",
+      "name": "Maria Langa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Chilanga",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56071389"
+    },
+    {
+      "id": "james-kapyanga-q1784088",
+      "name": "James Kapyanga",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q50191629"
+    },
+    {
+      "id": "alexander-chiteme-q1784088",
+      "name": "Alexander Chiteme",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Nkana",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q46160201"
+    },
+    {
+      "id": "fube-mulenga-q1784088",
+      "name": "Fube Mulenga",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Chilubi",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107585938"
+    },
+    {
+      "id": "gerry-chanda-q1784088",
+      "name": "Gerry Chanda",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q50530899"
+    },
+    {
+      "id": "eddie-musonda-q1784088",
+      "name": "Eddie Musonda",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q50615316"
+    },
+    {
+      "id": "nakatindi-yeta-nganga-q1784088",
+      "name": "Nakatindi Yeta Nganga",
+      "sitting": true,
+      "party_id": "united-national-independence-party",
+      "caucus": "United National Independence Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60525004"
+    },
+    {
+      "id": "fwanyanga-mulikita-q1784088",
+      "name": "Fwanyanga Mulikita",
+      "sitting": true,
+      "party_id": "united-national-independence-party",
+      "caucus": "United National Independence Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q50388037"
+    },
+    {
+      "id": "kayula-kakusa-q1784088",
+      "name": "Kayula Kakusa",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q50278781"
+    },
+    {
+      "id": "goodwin-putu-q1784088",
+      "name": "Goodwin Putu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Mangango",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107585942"
+    },
+    {
+      "id": "mathew-mulanda-q1784088",
+      "name": "Mathew Mulanda",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q50375778"
+    },
+    {
+      "id": "andrew-kashita-q1784088",
+      "name": "Andrew Kashita",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q50376513"
+    },
+    {
+      "id": "patrick-musonda-q1784088",
+      "name": "Patrick Musonda",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q50376838"
+    },
+    {
+      "id": "clement-sinyinda-q1784088",
+      "name": "Clement Sinyinda",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q47088134"
+    },
+    {
+      "id": "charles-chalwe-q1784088",
+      "name": "Charles Chalwe",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Bahati",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107585937"
+    },
+    {
+      "id": "amusaa-mwanamwambwa-q1784088",
+      "name": "Amusaa Mwanamwambwa",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q50402690"
+    },
+    {
+      "id": "thomas-spurgeon-page-q1784088",
+      "name": "Thomas Spurgeon Page",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q50385868"
+    },
+    {
+      "id": "robinson-nabulyato-q1784088",
+      "name": "Robinson Nabulyato",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q50387658"
+    },
+    {
+      "id": "macdonald-nkabika-q1784088",
+      "name": "Macdonald Nkabika",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q50621789"
+    },
+    {
+      "id": "lawrence-zimba-q1784088",
+      "name": "Lawrence Zimba",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q50615973"
+    },
+    {
+      "id": "friday-malwa-q1784088",
+      "name": "Friday Malwa",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q50617364"
+    },
+    {
+      "id": "john-mwaimba-q1784088",
+      "name": "John Mwaimba",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q50620214"
+    },
+    {
+      "id": "mumbi-phiri-q1784088",
+      "name": "Mumbi Phiri",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56229456"
+    },
+    {
+      "id": "gabriel-maka-q1784088",
+      "name": "Gabriel Maka",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q50628489"
+    },
+    {
+      "id": "aubrey-kapalasa-q1784088",
+      "name": "Aubrey Kapalasa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Katuba",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107585925"
+    },
+    {
+      "id": "abel-chambeshi-q1784088",
+      "name": "Abel Chambeshi",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q50804921"
+    },
+    {
+      "id": "victor-lumayi-q1784088",
+      "name": "Victor Lumayi",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Chavuma",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45385077"
+    },
+    {
+      "id": "austin-chewe-q1784088",
+      "name": "Austin Chewe",
+      "sitting": true,
+      "party_id": "forum-for-democracy-and-development",
+      "caucus": "Forum for Democracy and Development",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q50377021"
+    },
+    {
+      "id": "george-chisanga-q1784088",
+      "name": "George Chisanga",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Lukashya",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107585940"
+    },
+    {
+      "id": "paul-tembo-q1784088",
+      "name": "Paul Tembo",
+      "sitting": true,
+      "party_id": "forum-for-democracy-and-development",
+      "caucus": "Forum for Democracy and Development",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q50384557"
+    },
+    {
+      "id": "sililo-mutaba-q1784088",
+      "name": "Sililo Mutaba",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Mwandi",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45384980"
+    },
+    {
+      "id": "sensio-banda-q1784088",
+      "name": "Sensio Banda",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Kasenengwa",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60854009"
+    },
+    {
+      "id": "bwalya-ng-andu-q1784088",
+      "name": "Bwalya Ng'andu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107585931"
+    },
+    {
+      "id": "sheal-s-mulyata-q1784088",
+      "name": "Sheal S. Mulyata",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Rufunsa",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45384968"
+    },
+    {
+      "id": "sitwala-sitwala-q1784088",
+      "name": "Sitwala Sitwala",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Kaoma",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45385011"
+    },
+    {
+      "id": "robert-lihefu-q1784088",
+      "name": "Robert Lihefu",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Manyinga",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q45384953"
+    },
+    {
+      "id": "inonge-wina-q1784088",
+      "name": "Inonge Wina",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18908010"
+    },
+    {
+      "id": "stewart-gore-browne-q1784088",
+      "name": "Stewart Gore-Browne",
+      "sitting": true,
+      "party_id": "united-national-independence-party",
+      "caucus": "United National Independence Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7615802"
+    },
+    {
+      "id": "geoffrey-bwalya-mwamba-q1784088",
+      "name": "Geoffrey Bwalya Mwamba",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18720153"
+    },
+    {
+      "id": "sylvester-chisembele-q1784088",
+      "name": "Sylvester Chisembele",
+      "sitting": true,
+      "party_id": "united-national-independence-party",
+      "caucus": "United National Independence Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7660772"
+    },
+    {
+      "id": "margaret-mwanakatwe-q1784088",
+      "name": "Margaret Mwanakatwe",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Lusaka Central",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6759764"
+    },
+    {
+      "id": "alexander-chikwanda-q1784088",
+      "name": "Alexander Chikwanda",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19281868"
+    },
+    {
+      "id": "chushi-c-kasanda-q1784088",
+      "name": "Chushi C. Kasanda",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Chisamba",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109862903"
+    },
+    {
+      "id": "lupando-mwape-q1784088",
+      "name": "Lupando Mwape",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6704660"
+    },
+    {
+      "id": "harry-kalaba-q1784088",
+      "name": "Harry Kalaba",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Bahati",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19560917"
+    },
+    {
+      "id": "richard-edmonds-luyt-q1784088",
+      "name": "Richard Edmonds Luyt",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7327509"
+    },
+    {
+      "id": "robert-selby-taylor-q1784088",
+      "name": "Robert Selby Taylor",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7349678"
+    },
+    {
+      "id": "james-john-skinner-q1784088",
+      "name": "James John Skinner",
+      "sitting": true,
+      "party_id": "united-national-independence-party",
+      "caucus": "United National Independence Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6136879"
+    },
+    {
+      "id": "joseph-chishala-q1784088",
+      "name": "Joseph Chishala",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Roan",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107585944"
+    },
+    {
+      "id": "jethro-mutti-q1784088",
+      "name": "Jethro Mutti",
+      "sitting": true,
+      "party_id": "united-national-independence-party",
+      "caucus": "United National Independence Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6189025"
+    },
+    {
+      "id": "n-gandu-peter-magande-q1784088",
+      "name": "N’gandu Peter Magande",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7071637"
+    },
+    {
+      "id": "romeo-kang-ombe-q1784088",
+      "name": "Romeo Kang'ombe",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Sesheke",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107585969"
+    },
+    {
+      "id": "peter-chintala-q1784088",
+      "name": "Peter Chintala",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7173258"
+    },
+    {
+      "id": "situmbeko-musokotwane-q1784088",
+      "name": "Situmbeko Musokotwane",
+      "sitting": true,
+      "party_id": "united-party-for-national-development",
+      "caucus": "United Party for National Development",
+      "constituency_label": "Liuwa",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7532178"
+    },
+    {
+      "id": "kabaso-kampampi-q1784088",
+      "name": "Kabaso Kampampi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Mwansabombwe",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107585956"
+    },
+    {
+      "id": "raphael-nakacinda-q1784088",
+      "name": "Raphael Nakacinda",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107585962"
+    },
+    {
+      "id": "edgar-lungu-q1784088",
+      "name": "Edgar Lungu",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "Chawama",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18352991"
+    },
+    {
+      "id": "miles-sampa-q1784088",
+      "name": "Miles Sampa",
+      "sitting": true,
+      "party_id": "patriotic-front",
+      "caucus": "Patriotic Front",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18720231"
+    },
+    {
+      "id": "lawrence-chola-katilunga-q1784088",
+      "name": "Lawrence Chola Katilunga",
+      "sitting": true,
+      "party_id": "northern-rhodesian-african-national-congress",
+      "caucus": "Northern Rhodesian African National Congress",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6503921"
+    },
+    {
+      "id": "lameck-chibombamilimo-q1784088",
+      "name": "Lameck Chibombamilimo",
+      "sitting": true,
+      "party_id": "movement-for-multi-party-democracy",
+      "caucus": "Movement for Multi-Party Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6481677"
     }
   ]
 }

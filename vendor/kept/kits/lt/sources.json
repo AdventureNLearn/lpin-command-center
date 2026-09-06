@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q374152"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q374152",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q374152",
+      "label": "Seimas",
+      "url": "https://www.lrs.lt/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q374152",
+      "label": "Seimas (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q374152",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q18507240",
+      "label": "Member of the Seimas (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q18507240",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

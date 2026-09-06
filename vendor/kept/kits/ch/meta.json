@@ -3,9 +3,9 @@
   "name": "Switzerland",
   "region": "",
   "chamber": "Federal Assembly of Switzerland",
-  "houses": "",
+  "houses": "bicameral",
   "system": "",
-  "seats": 643,
+  "seats": 492,
   "election": "",
   "session": "",
   "kit": "map",
@@ -14,20 +14,30 @@
   ],
   "threshold": 5,
   "counts": {
-    "members": 643,
-    "sitting": 643,
+    "members": 2155,
+    "sitting": 2155,
     "votes": 0,
     "committees": 0,
     "key_votes": 0,
-    "sourced_quotes": 0
+    "sourced_quotes": 0,
+    "pledged": 0
   },
   "capabilities": [
-    "members"
+    "members",
+    "pledges",
+    "votes",
+    "issues",
+    "gap",
+    "caucus",
+    "committees",
+    "ethics",
+    "money",
+    "method"
   ],
   "basis": "Evidence",
   "incomplete": true,
   "lane": "lpin-wikidata-fill",
   "source_live": null,
-  "note": "Wikidata sitting pull 2026-09-06. 649 named. Vacancies not invented.",
+  "note": "Full-ISO Wikidata fill 2026-09-06. 16 bodies. Sitting 2155. Votes/pledges/ethics/money not invented.",
   "roster_source": "https://www.wikidata.org/wiki/Q684719"
 }

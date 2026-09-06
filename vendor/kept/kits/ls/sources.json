@@ -3,8 +3,53 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q4345419"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q4345419",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q927191",
+      "label": "Senate of Lesotho",
+      "url": "http://senate.parliament.ls/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q927191",
+      "label": "Senate of Lesotho (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q927191",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1138713",
+      "label": "National Assembly",
+      "url": "https://nationalassembly.parliament.ls/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1138713",
+      "label": "National Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1138713",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q4345419",
+      "label": "Parliament of Lesotho",
+      "url": "https://parliament.ls/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q4345419",
+      "label": "Parliament of Lesotho (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q4345419",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

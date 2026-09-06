@@ -1,6 +1,59 @@
 {
   "iso2": "ga",
   "kit": "institutional",
-  "items": [],
-  "incomplete": true
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q1000",
+  "bodies": [
+    {
+      "qid": "Q4345413",
+      "label": "Parliament of Gabon",
+      "seats": 0,
+      "web": "",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q3510846",
+      "label": "Senate",
+      "seats": 102,
+      "web": "http://www.senatgabon.com/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1969545",
+      "label": "National Assembly",
+      "seats": 143,
+      "web": "https://www.assemblee-nationale.ga/",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Senate",
+    "National Assembly"
+  ],
+  "seats": 245,
+  "items": [
+    {
+      "id": "Q4345413",
+      "name": "Parliament of Gabon",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q4345413"
+    },
+    {
+      "id": "Q3510846",
+      "name": "Senate",
+      "kind": "chamber",
+      "seats": 102,
+      "url": "http://www.senatgabon.com/"
+    },
+    {
+      "id": "Q1969545",
+      "name": "National Assembly",
+      "kind": "chamber",
+      "seats": 143,
+      "url": "https://www.assemblee-nationale.ga/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

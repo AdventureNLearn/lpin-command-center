@@ -3,567 +3,1015 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q2080399",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 43,
+  "incomplete": true,
+  "claimed_seats": 72,
+  "chambers": [
+    "National Council of Bhutan",
+    "National Assembly of Bhutan",
+    "King of Bhutan",
+    "Parliament of Bhutan"
+  ],
   "items": [
     {
-      "id": "choida-jamtsho",
-      "name": "Choida Jamtsho",
+      "id": "tashi-dorji-q2668484",
+      "name": "Tashi Dorji",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
+      "chamber": "National Council of Bhutan",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q16196076"
+      "roster_url": "http://www.wikidata.org/entity/Q10293060"
     },
     {
-      "id": "dupthob",
-      "name": "Dupthob",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q20676510"
-    },
-    {
-      "id": "rinzin-jamtsho",
-      "name": "Rinzin Jamtsho",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q20677125"
-    },
-    {
-      "id": "dorji-wangdi",
-      "name": "Dorji Wangdi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q21063387"
-    },
-    {
-      "id": "tenzin",
-      "name": "Tenzin",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q60735970"
-    },
-    {
-      "id": "sangay-dorji",
-      "name": "Sangay Dorji",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q60769081"
-    },
-    {
-      "id": "tandi-dorji",
-      "name": "Tandi Dorji",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q58422562"
-    },
-    {
-      "id": "dechen-wangmo",
-      "name": "Dechen Wangmo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q58806797"
-    },
-    {
-      "id": "karma-wangchuk",
-      "name": "Karma Wangchuk",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q59782403"
-    },
-    {
-      "id": "ugyen-dorji",
-      "name": "Ugyen Dorji",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q59773551"
-    },
-    {
-      "id": "tshering-choden",
-      "name": "Tshering Choden",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q60325021"
-    },
-    {
-      "id": "lotay-tshering",
-      "name": "Lotay Tshering",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q57313851"
-    },
-    {
-      "id": "wangchuk-namgyel",
-      "name": "Wangchuk Namgyel",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q58754649"
-    },
-    {
-      "id": "tshencho-wangdi",
-      "name": "Tshencho Wangdi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q58755386"
-    },
-    {
-      "id": "yeshey-penjor",
-      "name": "Yeshey Penjor",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q58756421"
-    },
-    {
-      "id": "dorji-tshering",
-      "name": "Dorji Tshering",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q58813057"
-    },
-    {
-      "id": "loknath-sharma",
-      "name": "Loknath Sharma",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q58813011"
-    },
-    {
-      "id": "jai-bir-rai",
-      "name": "Jai Bir Rai",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q58813052"
-    },
-    {
-      "id": "karma-donnen-wangdi",
-      "name": "Karma Donnen Wangdi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q58972835"
-    },
-    {
-      "id": "namgay-tshering",
-      "name": "Namgay Tshering",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q58972868"
-    },
-    {
-      "id": "hemant-gurung",
-      "name": "Hemant Gurung",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q59782584"
-    },
-    {
-      "id": "jurmi-wangchuk",
-      "name": "Jurmi Wangchuk",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q59782570"
-    },
-    {
-      "id": "yeshey-dem",
-      "name": "Yeshey Dem",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q59811971"
-    },
-    {
-      "id": "dorjee-wangmo",
-      "name": "Dorjee Wangmo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q60048583"
-    },
-    {
-      "id": "choki-gyeltshen",
-      "name": "Choki Gyeltshen",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q60048615"
-    },
-    {
-      "id": "tshewang-lhamo",
+      "id": "tshewang-lhamo-q2668484",
       "name": "Tshewang Lhamo",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "druk-nyamrup-tshogpa",
+      "caucus": "Druk Nyamrup Tshogpa",
       "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
+      "chamber": "National Council of Bhutan",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q60048381"
     },
     {
-      "id": "ugen-tenzin",
-      "name": "Ugen Tenzin",
+      "id": "nima-q2668484",
+      "name": "Nima",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
+      "chamber": "National Council of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60769066"
+    },
+    {
+      "id": "sangay-dorji-q2668484",
+      "name": "Sangay Dorji",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60769081"
+    },
+    {
+      "id": "karma-tshering-q2668484",
+      "name": "Karma Tshering",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q61795322"
+    },
+    {
+      "id": "anand-rai-q2668484",
+      "name": "Anand Rai",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60769351"
+    },
+    {
+      "id": "jigme-wangchuk-q2668484",
+      "name": "Jigme Wangchuk",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60769119"
+    },
+    {
+      "id": "ugyen-tshering-q2668484",
+      "name": "Ugyen Tshering",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60769118"
+    },
+    {
+      "id": "lhaki-dolma-q2668484",
+      "name": "Lhaki Dolma",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60496291"
+    },
+    {
+      "id": "tashi-wangmo-q2668484",
+      "name": "Tashi Wangmo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60559253"
+    },
+    {
+      "id": "phuntsho-rapten-q2668484",
+      "name": "Phuntsho Rapten",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60559633"
+    },
+    {
+      "id": "tashi-wangyal-q2668484",
+      "name": "Tashi Wangyal",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60582053"
+    },
+    {
+      "id": "dhan-kumar-sunwar-q2668484",
+      "name": "Dhan Kumar Sunwar",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60675626"
+    },
+    {
+      "id": "karma-gyeltshen-q2668484",
+      "name": "Karma Gyeltshen",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60675628"
+    },
+    {
+      "id": "choining-dorji-q2668484",
+      "name": "Choining Dorji",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60675720"
+    },
+    {
+      "id": "pema-dakpa-q2668484",
+      "name": "Pema Dakpa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60675623"
+    },
+    {
+      "id": "dorji-khandu-q2668484",
+      "name": "Dorji Khandu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60675749"
+    },
+    {
+      "id": "tashi-samdrup-q2668484",
+      "name": "Tashi Samdrup",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60675627"
+    },
+    {
+      "id": "tshewang-rinzin-q2668484",
+      "name": "Tshewang Rinzin",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60675631"
+    },
+    {
+      "id": "tirtha-man-rai-q2668484",
+      "name": "Tirtha Man Rai",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60675632"
+    },
+    {
+      "id": "tempa-dorji-q2668484",
+      "name": "Tempa Dorji",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60675721"
+    },
+    {
+      "id": "ugyen-namgay-q2668484",
+      "name": "Ugyen Namgay",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60675723"
+    },
+    {
+      "id": "surjaman-thapa-q2668484",
+      "name": "Surjaman Thapa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60675752"
+    },
+    {
+      "id": "lhatu-q2668484",
+      "name": "Lhatu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60769352"
+    },
+    {
+      "id": "kesang-chuki-dorjee-q2668484",
+      "name": "Kesang Chuki Dorjee",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q61162010"
+    },
+    {
+      "id": "choida-jamtsho-q2579023",
+      "name": "Choida Jamtsho",
+      "sitting": true,
+      "party_id": "bhutan-peace-and-prosperity-party",
+      "caucus": "Bhutan Peace and Prosperity Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16196076"
+    },
+    {
+      "id": "karma-wangchuk-q2579023",
+      "name": "Karma Wangchuk",
+      "sitting": true,
+      "party_id": "bhutan-peace-and-prosperity-party",
+      "caucus": "Bhutan Peace and Prosperity Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q59782403"
+    },
+    {
+      "id": "sherub-gyeltshen-q2579023",
+      "name": "Sherub Gyeltshen",
+      "sitting": true,
+      "party_id": "druk-nyamrup-tshogpa",
+      "caucus": "Druk Nyamrup Tshogpa",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58754585"
+    },
+    {
+      "id": "wangchuk-namgyel-q2579023",
+      "name": "Wangchuk Namgyel",
+      "sitting": true,
+      "party_id": "druk-nyamrup-tshogpa",
+      "caucus": "Druk Nyamrup Tshogpa",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58754649"
+    },
+    {
+      "id": "tshencho-wangdi-q2579023",
+      "name": "Tshencho Wangdi",
+      "sitting": true,
+      "party_id": "druk-nyamrup-tshogpa",
+      "caucus": "Druk Nyamrup Tshogpa",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58755386"
+    },
+    {
+      "id": "yeshey-penjor-q2579023",
+      "name": "Yeshey Penjor",
+      "sitting": true,
+      "party_id": "druk-nyamrup-tshogpa",
+      "caucus": "Druk Nyamrup Tshogpa",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58756421"
+    },
+    {
+      "id": "dorji-tshering-q2579023",
+      "name": "Dorji Tshering",
+      "sitting": true,
+      "party_id": "druk-nyamrup-tshogpa",
+      "caucus": "Druk Nyamrup Tshogpa",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58813057"
+    },
+    {
+      "id": "loknath-sharma-q2579023",
+      "name": "Loknath Sharma",
+      "sitting": true,
+      "party_id": "druk-nyamrup-tshogpa",
+      "caucus": "Druk Nyamrup Tshogpa",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58813011"
+    },
+    {
+      "id": "jai-bir-rai-q2579023",
+      "name": "Jai Bir Rai",
+      "sitting": true,
+      "party_id": "druk-nyamrup-tshogpa",
+      "caucus": "Druk Nyamrup Tshogpa",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58813052"
+    },
+    {
+      "id": "karma-donnen-wangdi-q2579023",
+      "name": "Karma Donnen Wangdi",
+      "sitting": true,
+      "party_id": "druk-nyamrup-tshogpa",
+      "caucus": "Druk Nyamrup Tshogpa",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58972835"
+    },
+    {
+      "id": "namgay-tshering-q2579023",
+      "name": "Namgay Tshering",
+      "sitting": true,
+      "party_id": "druk-nyamrup-tshogpa",
+      "caucus": "Druk Nyamrup Tshogpa",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58972868"
+    },
+    {
+      "id": "ugyen-dorji-q2579023",
+      "name": "Ugyen Dorji",
+      "sitting": true,
+      "party_id": "bhutan-peace-and-prosperity-party",
+      "caucus": "Bhutan Peace and Prosperity Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60736215"
+    },
+    {
+      "id": "hemant-gurung-q2579023",
+      "name": "Hemant Gurung",
+      "sitting": true,
+      "party_id": "druk-nyamrup-tshogpa",
+      "caucus": "Druk Nyamrup Tshogpa",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q59782584"
+    },
+    {
+      "id": "jurmi-wangchuk-q2579023",
+      "name": "Jurmi Wangchuk",
+      "sitting": true,
+      "party_id": "druk-nyamrup-tshogpa",
+      "caucus": "Druk Nyamrup Tshogpa",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q59782570"
+    },
+    {
+      "id": "yeshey-dem-q2579023",
+      "name": "Yeshey Dem",
+      "sitting": true,
+      "party_id": "druk-nyamrup-tshogpa",
+      "caucus": "Druk Nyamrup Tshogpa",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q59811971"
+    },
+    {
+      "id": "jigme-wangchuk-q2579023",
+      "name": "Jigme Wangchuk",
+      "sitting": true,
+      "party_id": "bhutan-peace-and-prosperity-party",
+      "caucus": "Bhutan Peace and Prosperity Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q21934258"
+    },
+    {
+      "id": "dorjee-wangmo-q2579023",
+      "name": "Dorjee Wangmo",
+      "sitting": true,
+      "party_id": "druk-nyamrup-tshogpa",
+      "caucus": "Druk Nyamrup Tshogpa",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60048583"
+    },
+    {
+      "id": "tshewang-lhamo-q2579023",
+      "name": "Tshewang Lhamo",
+      "sitting": true,
+      "party_id": "druk-nyamrup-tshogpa",
+      "caucus": "Druk Nyamrup Tshogpa",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60048381"
+    },
+    {
+      "id": "ugen-tenzin-q2579023",
+      "name": "Ugen Tenzin",
+      "sitting": true,
+      "party_id": "druk-nyamrup-tshogpa",
+      "caucus": "Druk Nyamrup Tshogpa",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q60048408"
     },
     {
-      "id": "kinga-penjor",
+      "id": "kinga-penjor-q2579023",
       "name": "Kinga Penjor",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "druk-nyamrup-tshogpa",
+      "caucus": "Druk Nyamrup Tshogpa",
       "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
+      "chamber": "National Assembly of Bhutan",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q60048602"
     },
     {
-      "id": "dil-maya-rai",
+      "id": "choki-gyeltshen-q2579023",
+      "name": "Choki Gyeltshen",
+      "sitting": true,
+      "party_id": "bhutan-peace-and-prosperity-party",
+      "caucus": "Bhutan Peace and Prosperity Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60048615"
+    },
+    {
+      "id": "dil-maya-rai-q2579023",
       "name": "Dil Maya Rai",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "druk-nyamrup-tshogpa",
+      "caucus": "Druk Nyamrup Tshogpa",
       "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
+      "chamber": "National Assembly of Bhutan",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q60191529"
     },
     {
-      "id": "norbu-wangzom",
-      "name": "Norbu Wangzom",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q60191579"
-    },
-    {
-      "id": "lungten-namgyal",
-      "name": "Lungten Namgyal",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q60194765"
-    },
-    {
-      "id": "ganesh-ghimiray",
+      "id": "ganesh-ghimiray-q2579023",
       "name": "Ganesh Ghimiray",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "druk-nyamrup-tshogpa",
+      "caucus": "Druk Nyamrup Tshogpa",
       "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
+      "chamber": "National Assembly of Bhutan",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q60194950"
     },
     {
-      "id": "dinesh-kumar-pradhan",
+      "id": "dinesh-kumar-pradhan-q2579023",
       "name": "Dinesh Kumar Pradhan",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "druk-nyamrup-tshogpa",
+      "caucus": "Druk Nyamrup Tshogpa",
       "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
+      "chamber": "National Assembly of Bhutan",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q60195207"
     },
     {
-      "id": "bimal-thapa",
+      "id": "bimal-thapa-q2579023",
       "name": "Bimal Thapa",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "druk-nyamrup-tshogpa",
+      "caucus": "Druk Nyamrup Tshogpa",
       "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
+      "chamber": "National Assembly of Bhutan",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q60195411"
     },
     {
-      "id": "gyambo-tshering",
-      "name": "Gyambo Tshering",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q60195377"
-    },
-    {
-      "id": "gyem-dorji",
+      "id": "gyem-dorji-q2579023",
       "name": "Gyem Dorji",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "druk-nyamrup-tshogpa",
+      "caucus": "Druk Nyamrup Tshogpa",
       "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
+      "chamber": "National Assembly of Bhutan",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q60195380"
     },
     {
-      "id": "garja-man-rai",
+      "id": "garja-man-rai-q2579023",
       "name": "Garja Man Rai",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "druk-nyamrup-tshogpa",
+      "caucus": "Druk Nyamrup Tshogpa",
       "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
+      "chamber": "National Assembly of Bhutan",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q60195414"
     },
     {
-      "id": "karma-thinley",
-      "name": "Karma Thinley",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q60195372"
-    },
-    {
-      "id": "samdrup-r-wangchuk",
-      "name": "Samdrup R. Wangchuk",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q60195310"
-    },
-    {
-      "id": "tek-bahadur-rai",
+      "id": "tek-bahadur-rai-q2579023",
       "name": "Tek Bahadur Rai",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "druk-nyamrup-tshogpa",
+      "caucus": "Druk Nyamrup Tshogpa",
       "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
+      "chamber": "National Assembly of Bhutan",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q60195304"
     },
     {
-      "id": "ugyen-tshering",
+      "id": "ugyen-tshering-q2579023",
       "name": "Ugyen Tshering",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "druk-nyamrup-tshogpa",
+      "caucus": "Druk Nyamrup Tshogpa",
       "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
+      "chamber": "National Assembly of Bhutan",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q60736093"
     },
     {
-      "id": "passang-dorji",
+      "id": "norbu-wangzom-q2579023",
+      "name": "Norbu Wangzom",
+      "sitting": true,
+      "party_id": "bhutan-peace-and-prosperity-party",
+      "caucus": "Bhutan Peace and Prosperity Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60191579"
+    },
+    {
+      "id": "lungten-namgyal-q2579023",
+      "name": "Lungten Namgyal",
+      "sitting": true,
+      "party_id": "bhutan-peace-and-prosperity-party",
+      "caucus": "Bhutan Peace and Prosperity Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60194765"
+    },
+    {
+      "id": "gyambo-tshering-q2579023",
+      "name": "Gyambo Tshering",
+      "sitting": true,
+      "party_id": "bhutan-peace-and-prosperity-party",
+      "caucus": "Bhutan Peace and Prosperity Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60195377"
+    },
+    {
+      "id": "karma-thinley-q2579023",
+      "name": "Karma Thinley",
+      "sitting": true,
+      "party_id": "bhutan-peace-and-prosperity-party",
+      "caucus": "Bhutan Peace and Prosperity Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60195372"
+    },
+    {
+      "id": "kuenga-loday-q2579023",
+      "name": "Kuenga Loday",
+      "sitting": true,
+      "party_id": "bhutan-peace-and-prosperity-party",
+      "caucus": "Bhutan Peace and Prosperity Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60195376"
+    },
+    {
+      "id": "samdrup-r-wangchuk-q2579023",
+      "name": "Samdrup R. Wangchuk",
+      "sitting": true,
+      "party_id": "bhutan-peace-and-prosperity-party",
+      "caucus": "Bhutan Peace and Prosperity Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60195310"
+    },
+    {
+      "id": "tshering-choden-q2579023",
+      "name": "Tshering Choden",
+      "sitting": true,
+      "party_id": "bhutan-peace-and-prosperity-party",
+      "caucus": "Bhutan Peace and Prosperity Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60325021"
+    },
+    {
+      "id": "passang-dorji-q2579023",
       "name": "Passang Dorji",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "bhutan-peace-and-prosperity-party",
+      "caucus": "Bhutan Peace and Prosperity Party",
       "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
+      "chamber": "National Assembly of Bhutan",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q60736235"
     },
     {
-      "id": "kinley-wangchuk",
+      "id": "tenzin-q2579023",
+      "name": "Tenzin",
+      "sitting": true,
+      "party_id": "druk-nyamrup-tshogpa",
+      "caucus": "Druk Nyamrup Tshogpa",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60735970"
+    },
+    {
+      "id": "kinley-wangchuk-q2579023",
       "name": "Kinley Wangchuk",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "druk-nyamrup-tshogpa",
+      "caucus": "Druk Nyamrup Tshogpa",
       "constituency_label": "",
-      "chamber": "Parliament of Bhutan",
+      "chamber": "National Assembly of Bhutan",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q60736243"
+    },
+    {
+      "id": "lotay-tshering-q2579023",
+      "name": "Lotay Tshering",
+      "sitting": true,
+      "party_id": "druk-nyamrup-tshogpa",
+      "caucus": "Druk Nyamrup Tshogpa",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57313851"
+    },
+    {
+      "id": "tandi-dorji-q2579023",
+      "name": "Tandi Dorji",
+      "sitting": true,
+      "party_id": "druk-nyamrup-tshogpa",
+      "caucus": "Druk Nyamrup Tshogpa",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58422562"
+    },
+    {
+      "id": "dechen-wangmo-q2579023",
+      "name": "Dechen Wangmo",
+      "sitting": true,
+      "party_id": "druk-nyamrup-tshogpa",
+      "caucus": "Druk Nyamrup Tshogpa",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58806797"
+    },
+    {
+      "id": "dupthob-q2579023",
+      "name": "Dupthob",
+      "sitting": true,
+      "party_id": "bhutan-peace-and-prosperity-party",
+      "caucus": "Bhutan Peace and Prosperity Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20676510"
+    },
+    {
+      "id": "zangley-dukpa-q2579023",
+      "name": "Zangley Dukpa",
+      "sitting": true,
+      "party_id": "bhutan-peace-and-prosperity-party",
+      "caucus": "Bhutan Peace and Prosperity Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20676499"
+    },
+    {
+      "id": "rinzin-jamtsho-q2579023",
+      "name": "Rinzin Jamtsho",
+      "sitting": true,
+      "party_id": "bhutan-peace-and-prosperity-party",
+      "caucus": "Bhutan Peace and Prosperity Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20677125"
+    },
+    {
+      "id": "pema-gyamtsho-q2579023",
+      "name": "Pema Gyamtsho",
+      "sitting": true,
+      "party_id": "bhutan-peace-and-prosperity-party",
+      "caucus": "Bhutan Peace and Prosperity Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15952612"
+    },
+    {
+      "id": "wangdi-norbu-q2579023",
+      "name": "Wangdi Norbu",
+      "sitting": true,
+      "party_id": "bhutan-peace-and-prosperity-party",
+      "caucus": "Bhutan Peace and Prosperity Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20983456"
+    },
+    {
+      "id": "dechen-zangmo-q2579023",
+      "name": "Dechen Zangmo",
+      "sitting": true,
+      "party_id": "bhutan-peace-and-prosperity-party",
+      "caucus": "Bhutan Peace and Prosperity Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q21063384"
+    },
+    {
+      "id": "dorji-wangdi-q2579023",
+      "name": "Dorji Wangdi",
+      "sitting": true,
+      "party_id": "bhutan-peace-and-prosperity-party",
+      "caucus": "Bhutan Peace and Prosperity Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q21063387"
+    },
+    {
+      "id": "karma-rangdol-q2579023",
+      "name": "Karma Rangdol",
+      "sitting": true,
+      "party_id": "bhutan-peace-and-prosperity-party",
+      "caucus": "Bhutan Peace and Prosperity Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q21063382"
+    },
+    {
+      "id": "kinga-tshering-q2579023",
+      "name": "Kinga Tshering",
+      "sitting": true,
+      "party_id": "bhutan-peace-and-prosperity-party",
+      "caucus": "Bhutan Peace and Prosperity Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q21063385"
+    },
+    {
+      "id": "nidup-zangpo-q2579023",
+      "name": "Nidup Zangpo",
+      "sitting": true,
+      "party_id": "bhutan-peace-and-prosperity-party",
+      "caucus": "Bhutan Peace and Prosperity Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Bhutan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q21063386"
     }
   ]
 }

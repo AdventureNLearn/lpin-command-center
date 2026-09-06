@@ -3,28 +3,45 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1973075",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 6,
+  "incomplete": true,
+  "claimed_seats": 329,
+  "chambers": [
+    "Council of Representatives of Iraq",
+    "Member of the Council of Representatives of Iraq"
+  ],
   "items": [
     {
-      "id": "gandhi-mohammed-abdul-karim-al-kasnani",
-      "name": "Gandhi Mohammed Abdul Karim Al-Kasnani",
+      "id": "muthanna-amin-q1973075",
+      "name": "Muthanna Amin",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "kurdistan-islamic-union",
+      "caucus": "Kurdistan Islamic Union",
       "constituency_label": "",
       "chamber": "Council of Representatives of Iraq",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q97362631"
+      "roster_url": "http://www.wikidata.org/entity/Q31794219"
     },
     {
-      "id": "nozad-saleh-rifaat",
+      "id": "junaid-mohammed-ab-al-karim-abd-al-qader-q1973075",
+      "name": "Junaid  Mohammed Ab al-Karim Abd al-Qader",
+      "sitting": true,
+      "party_id": "al-wataniya",
+      "caucus": "Al-Wataniya",
+      "constituency_label": "Al Anbar Governorate",
+      "chamber": "Council of Representatives of Iraq",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56051010"
+    },
+    {
+      "id": "nozad-saleh-rifaat-q1973075",
       "name": "Nozad Saleh Rifaat",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "patriotic-union-of-kurdistan",
+      "caucus": "Patriotic Union of Kurdistan",
       "constituency_label": "",
       "chamber": "Council of Representatives of Iraq",
       "lang": [
@@ -33,7 +50,215 @@
       "roster_url": "http://www.wikidata.org/entity/Q136717791"
     },
     {
-      "id": "muhsin-al-mandalawi",
+      "id": "hani-musa-badre-q1973075",
+      "name": "Hani Musa Badre",
+      "sitting": true,
+      "party_id": "sadrist-movement",
+      "caucus": "Sadrist Movement",
+      "constituency_label": "",
+      "chamber": "Council of Representatives of Iraq",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q139814408"
+    },
+    {
+      "id": "abu-mahdi-al-muhandis-q1973075",
+      "name": "Abu Mahdi al-Muhandis",
+      "sitting": true,
+      "party_id": "islamic-dawa-party",
+      "caucus": "Islamic Dawa Party",
+      "constituency_label": "",
+      "chamber": "Council of Representatives of Iraq",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19609480"
+    },
+    {
+      "id": "ahmed-al-salmani-q1973075",
+      "name": "Ahmed Al-Salmani",
+      "sitting": true,
+      "party_id": "muttahidoon",
+      "caucus": "Muttahidoon",
+      "constituency_label": "Al Anbar Governorate",
+      "chamber": "Council of Representatives of Iraq",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56055074"
+    },
+    {
+      "id": "jaafar-al-sadr-q1973075",
+      "name": "Jaafar al-Sadr",
+      "sitting": true,
+      "party_id": "state-of-law-coalition",
+      "caucus": "State of Law Coalition",
+      "constituency_label": "",
+      "chamber": "Council of Representatives of Iraq",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5940909"
+    },
+    {
+      "id": "zakia-ismail-hakki-q1973075",
+      "name": "Zakia Ismail Hakki",
+      "sitting": true,
+      "party_id": "kurdistan-democratic-party",
+      "caucus": "Kurdistan Democratic Party",
+      "constituency_label": "",
+      "chamber": "Council of Representatives of Iraq",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q42331490"
+    },
+    {
+      "id": "ali-yousuf-shukri-q1973075",
+      "name": "Ali Yousuf Shukri",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives of Iraq",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20419164"
+    },
+    {
+      "id": "lamiya-abed-khadawi-q1973075",
+      "name": "Lamiya Abed Khadawi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives of Iraq",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6482031"
+    },
+    {
+      "id": "hamid-rashid-ma-ala-q1973075",
+      "name": "Hamid Rashid Ma`ala",
+      "sitting": true,
+      "party_id": "national-wisdom-movement",
+      "caucus": "National Wisdom Movement",
+      "constituency_label": "",
+      "chamber": "Council of Representatives of Iraq",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q42331566"
+    },
+    {
+      "id": "alaa-makki-q1973075",
+      "name": "Alaa Makki",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives of Iraq",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6817032"
+    },
+    {
+      "id": "dhia-al-shakarchi-q1973075",
+      "name": "Dhia al-Shakarchi",
+      "sitting": true,
+      "party_id": "islamic-dawa-party",
+      "caucus": "Islamic Dawa Party",
+      "constituency_label": "",
+      "chamber": "Council of Representatives of Iraq",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q113700352"
+    },
+    {
+      "id": "raouf-al-bahrani-q1973075",
+      "name": "Raouf Al Bahrani",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Baghdad Governorate",
+      "chamber": "Council of Representatives of Iraq",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56250087"
+    },
+    {
+      "id": "adnan-al-assadi-q1973075",
+      "name": "Adnan al-Assadi",
+      "sitting": true,
+      "party_id": "islamic-dawa-party",
+      "caucus": "Islamic Dawa Party",
+      "constituency_label": "Al Muthanna Governorate",
+      "chamber": "Council of Representatives of Iraq",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4683925"
+    },
+    {
+      "id": "mustafa-jabar-sanad-q1973075",
+      "name": "Mustafa Jabar Sanad",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives of Iraq",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q139796496"
+    },
+    {
+      "id": "sarwa-abdulwahid-q1973075",
+      "name": "Sarwa Abdulwahid",
+      "sitting": true,
+      "party_id": "movement-for-change",
+      "caucus": "Movement for Change",
+      "constituency_label": "",
+      "chamber": "Council of Representatives of Iraq",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56704735"
+    },
+    {
+      "id": "safia-taleb-ali-al-suhail-q1973075",
+      "name": "Safia Taleb Ali al-Suhail",
+      "sitting": true,
+      "party_id": "state-of-law-coalition",
+      "caucus": "State of Law Coalition",
+      "constituency_label": "",
+      "chamber": "Council of Representatives of Iraq",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12220071"
+    },
+    {
+      "id": "salim-shushkei-q1973075",
+      "name": "Salim Shushkei",
+      "sitting": true,
+      "party_id": "islamic-group-in-kurdistan",
+      "caucus": "Islamic Group in Kurdistan",
+      "constituency_label": "",
+      "chamber": "Council of Representatives of Iraq",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56654964"
+    },
+    {
+      "id": "muhsin-al-mandalawi-q1973075",
       "name": "Muhsin al-Mandalawi",
       "sitting": true,
       "party_id": "unknown",
@@ -46,11 +271,24 @@
       "roster_url": "http://www.wikidata.org/entity/Q114292527"
     },
     {
-      "id": "ala-talabani",
+      "id": "duraid-kashmoula-q1973075",
+      "name": "Duraid Kashmoula",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "Council of Representatives of Iraq",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12211737"
+    },
+    {
+      "id": "ala-talabani-q1973075",
       "name": "Ala Talabani",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "patriotic-union-of-kurdistan",
+      "caucus": "Patriotic Union of Kurdistan",
       "constituency_label": "",
       "chamber": "Council of Representatives of Iraq",
       "lang": [
@@ -59,7 +297,72 @@
       "roster_url": "http://www.wikidata.org/entity/Q42715703"
     },
     {
-      "id": "abdul-aziz-al-qassab",
+      "id": "najmiddin-karim-q1973075",
+      "name": "Najmiddin Karim",
+      "sitting": true,
+      "party_id": "kurdistan-list",
+      "caucus": "Kurdistan List",
+      "constituency_label": "",
+      "chamber": "Council of Representatives of Iraq",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6960048"
+    },
+    {
+      "id": "muhammad-kazem-al-hindawi-q1973075",
+      "name": "Muhammad Kazem Al-Hindawi",
+      "sitting": true,
+      "party_id": "islamic-dawa-party",
+      "caucus": "Islamic Dawa Party",
+      "constituency_label": "",
+      "chamber": "Council of Representatives of Iraq",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20423221"
+    },
+    {
+      "id": "shirwan-kamel-sabti-q1973075",
+      "name": "Shirwan Kamel Sabti",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives of Iraq",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q42315520"
+    },
+    {
+      "id": "ghaida-kambash-q1973075",
+      "name": "Ghaida Kambash",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Diyala Governorate",
+      "chamber": "Council of Representatives of Iraq",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97129077"
+    },
+    {
+      "id": "ahmed-al-dawood-q1973075",
+      "name": "Ahmed Al Dawood",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives of Iraq",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56243572"
+    },
+    {
+      "id": "abdul-aziz-al-qassab-q1973075",
       "name": "Abdul Aziz Al Qassab",
       "sitting": true,
       "party_id": "unknown",
@@ -72,8 +375,8 @@
       "roster_url": "http://www.wikidata.org/entity/Q56244133"
     },
     {
-      "id": "dhia-al-shakarchi",
-      "name": "Dhia al-Shakarchi",
+      "id": "abdul-majeed-al-qassab-q1973075",
+      "name": "Abdul Majeed Al Qassab",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -82,7 +385,46 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q113700352"
+      "roster_url": "http://www.wikidata.org/entity/Q56246470"
+    },
+    {
+      "id": "nasrat-al-farisi-q1973075",
+      "name": "Nasrat al-Farisi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives of Iraq",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57515176"
+    },
+    {
+      "id": "gandhi-mohammed-abdul-karim-al-kasnani-q1973075",
+      "name": "Gandhi Mohammed Abdul Karim Al-Kasnani",
+      "sitting": true,
+      "party_id": "al-wataniya",
+      "caucus": "Al-Wataniya",
+      "constituency_label": "",
+      "chamber": "Council of Representatives of Iraq",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97362631"
+    },
+    {
+      "id": "dhari-ali-al-fayadh-q1973075",
+      "name": "Dhari Ali al-Fayadh",
+      "sitting": true,
+      "party_id": "national-iraqi-alliance",
+      "caucus": "National Iraqi Alliance",
+      "constituency_label": "",
+      "chamber": "Council of Representatives of Iraq",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q35342986"
     }
   ]
 }

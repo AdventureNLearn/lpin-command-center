@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1112381"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1112381",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q19801674",
+      "label": "member of the House of Representatives of Cyprus (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q19801674",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1112381",
+      "label": "House of Representatives",
+      "url": "https://www.parliament.cy/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1112381",
+      "label": "House of Representatives (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1112381",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

@@ -1,7 +1,74 @@
 {
   "iso2": "us",
   "kit": "institutional",
-  "items": [],
   "incomplete": true,
-  "note": ":8103 claimed institutional_kits = 0."
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q30",
+  "bodies": [
+    {
+      "qid": "Q11268",
+      "label": "United States Congress",
+      "seats": 535,
+      "web": "https://www.congress.gov",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q11701",
+      "label": "United States House of Representatives",
+      "seats": 435,
+      "web": "https://house.gov",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q139796610",
+      "label": "member of the United States Congress",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q66096",
+      "label": "United States Senate",
+      "seats": 100,
+      "web": "https://senate.gov",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "United States House of Representatives",
+    "member of the United States Congress",
+    "United States Senate"
+  ],
+  "seats": 1070,
+  "items": [
+    {
+      "id": "Q11268",
+      "name": "United States Congress",
+      "kind": "parliament",
+      "seats": 535,
+      "url": "https://www.congress.gov"
+    },
+    {
+      "id": "Q11701",
+      "name": "United States House of Representatives",
+      "kind": "chamber",
+      "seats": 435,
+      "url": "https://house.gov"
+    },
+    {
+      "id": "Q139796610",
+      "name": "member of the United States Congress",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q139796610"
+    },
+    {
+      "id": "Q66096",
+      "name": "United States Senate",
+      "kind": "chamber",
+      "seats": 100,
+      "url": "https://senate.gov"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

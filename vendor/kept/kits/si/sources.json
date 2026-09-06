@@ -3,8 +3,53 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1288169"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1288169",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q953810",
+      "label": "National Council of Slovenia",
+      "url": "http://www.ds-rs.si",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q953810",
+      "label": "National Council of Slovenia (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q953810",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1568676",
+      "label": "National Assembly",
+      "url": "https://www.dz-rs.si",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1568676",
+      "label": "National Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1568676",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1288169",
+      "label": "Slovenian Parliament",
+      "url": "http://www.dz-rs.si/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1288169",
+      "label": "Slovenian Parliament (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1288169",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

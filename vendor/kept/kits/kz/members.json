@@ -3,1295 +3,1547 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q2995409",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 99,
+  "incomplete": true,
+  "claimed_seats": 154,
+  "chambers": [
+    "Mäjilis",
+    "Parliament of Kazakhstan",
+    "Senate of Kazakhstan"
+  ],
   "items": [
     {
-      "id": "janbolat-jorgenbaev",
-      "name": "Janbolat Jörgenbaev",
+      "id": "roman-sklyar-q1247199",
+      "name": "Roman Sklyar",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "nur-otan",
+      "caucus": "Nur Otan",
       "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
+      "chamber": "Mäjilis",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q126110661"
+      "roster_url": "http://www.wikidata.org/entity/Q16436743"
     },
     {
-      "id": "mukhtar-altynbayev",
-      "name": "Mukhtar Altynbayev",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1045853"
-    },
-    {
-      "id": "janna-asanova",
-      "name": "Janna Asanova",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131993216"
-    },
-    {
-      "id": "vladimir-bobrov",
-      "name": "Vladimir Bobrov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12538275"
-    },
-    {
-      "id": "pyotr-kolesov",
-      "name": "Pyotr Kolesov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12558636"
-    },
-    {
-      "id": "aleksandr-sudin",
-      "name": "Aleksandr Sudin",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12528302"
-    },
-    {
-      "id": "asqar-beisenbaev",
-      "name": "Asqar Beisenbaev",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12530396"
-    },
-    {
-      "id": "asqar-sakirov",
-      "name": "Asqar Şäkirov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12530406"
-    },
-    {
-      "id": "valery-kozhevnikov",
-      "name": "Valery Kozhevnikov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12537583"
-    },
-    {
-      "id": "zhenis-nurgaliyev",
-      "name": "Zhenis Nurgaliyev",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12544833"
-    },
-    {
-      "id": "nurschan-aschimbetow",
-      "name": "Nurschan Aschimbetow",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12556662"
-    },
-    {
-      "id": "oralbai-abdykarimov",
-      "name": "Oralbai Abdykarimov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12557416"
-    },
-    {
-      "id": "qairat-iscanov",
-      "name": "Qairat Işçanov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12573789"
-    },
-    {
-      "id": "omirbek-baigeldi",
-      "name": "Omirbek Baigeldi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12579562"
-    },
-    {
-      "id": "zauresh-battalova",
-      "name": "Zauresh Battalova",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q15064351"
-    },
-    {
-      "id": "darkhan-satybaldy",
-      "name": "Darkhan Satybaldy",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q15081342"
-    },
-    {
-      "id": "zhabal-ergaliev",
-      "name": "Zhabal Ergaliev",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16433949"
-    },
-    {
-      "id": "qojaxmet-baymaxanov",
-      "name": "Qojaxmet Baýmaxanov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16435113"
-    },
-    {
-      "id": "qaysar-omarov",
-      "name": "Qaysar Omarov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16436566"
-    },
-    {
-      "id": "rashit-akimov",
-      "name": "Rashit Äkimov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16436596"
-    },
-    {
-      "id": "alexander-savchenko",
-      "name": "Alexander Savchenko",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16437666"
-    },
-    {
-      "id": "engels-gabbasov",
-      "name": "Engels Gabbasov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q17412713"
-    },
-    {
-      "id": "zhabaikhan-mubarakovich-abdil-din",
-      "name": "Zhabaĭkhan Mubarakovich Abdilʹdin",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4054459"
-    },
-    {
-      "id": "gulsara-abd-qalyqova",
-      "name": "Gülşara Äbdıqalyqova",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4054654"
-    },
-    {
-      "id": "byrganym-aitimova",
-      "name": "Byrganym Aitimova",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4059015"
-    },
-    {
-      "id": "hussain-valiyev",
-      "name": "Hussain Valiyev",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4102880"
-    },
-    {
-      "id": "umirbek-dzholdasbekov",
-      "name": "Umirbek Dzholdasbekov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4160389"
-    },
-    {
-      "id": "gulzhan-karagusova",
-      "name": "Gulzhan Karagusova",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4213731"
-    },
-    {
-      "id": "uzakbay-karamanov",
-      "name": "Uzakbay Karamanov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4213990"
-    },
-    {
-      "id": "gani-qasymov",
-      "name": "Gani Qasymov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4216953"
-    },
-    {
-      "id": "erik-sultanov",
-      "name": "Erik Sultanov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q23656579"
-    },
-    {
-      "id": "ali-bektaev",
-      "name": "Äli Bektaev",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q25493939"
-    },
-    {
-      "id": "darkhan-kaletaev",
-      "name": "Darkhan Käletaev",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4209314"
-    },
-    {
-      "id": "yuriy-tskhay",
-      "name": "Yuriy Tskhay",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12572131"
-    },
-    {
-      "id": "olga-perepechina",
-      "name": "Olga Perepechina",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12557154"
-    },
-    {
-      "id": "nina-kayupova",
-      "name": "Nina Kayupova",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12556355"
-    },
-    {
-      "id": "mikhail-bortnik",
-      "name": "Mikhail Bortnik",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12554145"
-    },
-    {
-      "id": "mawlen-ashimbaev",
-      "name": "Mäwlen Äshimbaev",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12555734"
-    },
-    {
-      "id": "suyindik-aldasev",
-      "name": "Süyindik Aldaşev",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q109485107"
-    },
-    {
-      "id": "lyazzat-kaltaeva",
-      "name": "Lyazzat Kaltaeva",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112992805"
-    },
-    {
-      "id": "olga-bulavkina",
-      "name": "Olga Bulavkina",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q112992807"
-    },
-    {
-      "id": "manap-kubenov",
-      "name": "Manap Kubenov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q77681686"
-    },
-    {
-      "id": "aigul-quspan",
-      "name": "Aigül Qūspan",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q97208097"
-    },
-    {
-      "id": "berik-abdigalyuly",
-      "name": "Berik Abdigalyuly",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q820633"
-    },
-    {
-      "id": "salimzhan-nakpaev",
-      "name": "Salimzhan Nakpaev",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7404619"
-    },
-    {
-      "id": "saiasat-nurbek",
-      "name": "Saiasat Nurbek",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q137265252"
-    },
-    {
-      "id": "nurlybek-ojaev",
-      "name": "Nurlybek Ojaev",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q60831566"
-    },
-    {
-      "id": "andrey-lukin",
-      "name": "Andrey Lukin",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q70252350"
-    },
-    {
-      "id": "dania-espaeva",
-      "name": "Dania Espaeva",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q64494872"
-    },
-    {
-      "id": "bektas-beknazarov",
-      "name": "Bektas Beknazarov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q65152541"
-    },
-    {
-      "id": "dulat-kusdavletov",
-      "name": "Dulat Kusdavletov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q65969853"
-    },
-    {
-      "id": "irina-smirnova",
-      "name": "Irina Smirnova",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q97591795"
-    },
-    {
-      "id": "pavel-kazantsev",
-      "name": "Pavel Kazantsev",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q70252568"
-    },
-    {
-      "id": "nurlan-beknazarov",
-      "name": "Nurlan Beknazarov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q70253224"
-    },
-    {
-      "id": "nariman-toreghalijew",
-      "name": "Nariman Töreghalijew",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q70253496"
-    },
-    {
-      "id": "bauyrjan-smagulov",
-      "name": "Bauyrjan Smağulov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131744414"
-    },
-    {
-      "id": "oljas-quspekov",
-      "name": "Oljas Quspekov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131744492"
-    },
-    {
-      "id": "serik-egizbaev",
-      "name": "Serik Egizbaev",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q132775605"
-    },
-    {
-      "id": "amanzhan-zhamalov",
-      "name": "Amanzhan Zhamalov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12528951"
-    },
-    {
-      "id": "bekbolat-tileuhan",
-      "name": "Bekbolat Tileuhan",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12534778"
-    },
-    {
-      "id": "aiqyn-qongyrov",
-      "name": "Aiqyn Qongyrov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12578894"
-    },
-    {
-      "id": "tilektes-adambekov",
-      "name": "Tilektes Adambekov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105692468"
-    },
-    {
-      "id": "muhtar-erman",
-      "name": "Muhtar Erman",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q109488494"
-    },
-    {
-      "id": "juldyz-suleimenova",
-      "name": "Juldyz Süleimenova",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q109493950"
-    },
-    {
-      "id": "berik-ospanov",
+      "id": "berik-ospanov-q1247199",
       "name": "Berik Ospanov",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "nur-otan",
+      "caucus": "Nur Otan",
       "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
+      "chamber": "Mäjilis",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q16437445"
     },
     {
-      "id": "irina-unzhakova",
-      "name": "Irina Unzhakova",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16656122"
-    },
-    {
-      "id": "dzamilja-nurmanbetova",
+      "id": "dzamilja-nurmanbetova-q1247199",
       "name": "Džamilja Nurmanbetova",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "amanat",
+      "caucus": "Amanat",
       "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
+      "chamber": "Mäjilis",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q16681896"
     },
     {
-      "id": "azat-peruashev",
-      "name": "Azat Peruashev",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q17489784"
-    },
-    {
-      "id": "sauytbek-abdrakhmanov",
-      "name": "Sauytbek Abdrakhmanov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4054489"
-    },
-    {
-      "id": "abish-kekilbayev",
-      "name": "Abish Kekilbayev",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4219024"
-    },
-    {
-      "id": "muhambet-kopeev",
-      "name": "Muhambet Kopeev",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4232268"
-    },
-    {
-      "id": "abilgazy-qusaiynov",
-      "name": "Äbilgazy Qusaiynov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4249185"
-    },
-    {
-      "id": "albert-rau",
-      "name": "Albert Rau",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4390898"
-    },
-    {
-      "id": "yeleusin-sagindykov",
-      "name": "Yeleusin Sagindykov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4404434"
-    },
-    {
-      "id": "aitkul-samakova",
-      "name": "Aitkul Samakova",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4406272"
-    },
-    {
-      "id": "daulet-sembaev",
-      "name": "Daulet Sembaev",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4415084"
-    },
-    {
-      "id": "talgat-musabayev",
-      "name": "Talgat Musabayev",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q560360"
-    },
-    {
-      "id": "sejylbek-szauchamanow",
-      "name": "Sejylbek Szauchamanow",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4521051"
-    },
-    {
-      "id": "baqytjan-bazarbek",
-      "name": "Baqytjan Bazarbek",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q135258814"
-    },
-    {
-      "id": "abilfas-khamedov",
-      "name": "Abilfas Khamedov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q31194646"
-    },
-    {
-      "id": "qairat-qojamjarov",
-      "name": "Qairat Qojamjarov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4226249"
-    },
-    {
-      "id": "erlan-qoshanov",
-      "name": "Erlan Qoshanov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q29587228"
-    },
-    {
-      "id": "saule-ajtpajewa",
-      "name": "Saule Ajtpajewa",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q63797063"
-    },
-    {
-      "id": "balaiym-kesebaeva",
-      "name": "Balaiym Kesebaeva",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105551761"
-    },
-    {
-      "id": "vakil-nabiyev",
-      "name": "Vakil Nabiyev",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q109487943"
-    },
-    {
-      "id": "berik-bekzhanov",
-      "name": "Berik Bekzhanov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q109489225"
-    },
-    {
-      "id": "vera-kim",
-      "name": "Vera Kim",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q109490946"
-    },
-    {
-      "id": "erlan-sairov",
-      "name": "Erlan Sairov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q109493955"
-    },
-    {
-      "id": "natalia-dementieva",
-      "name": "Natalia Dementieva",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q115367930"
-    },
-    {
-      "id": "qanat-musin",
-      "name": "Qanat Musin",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q110692444"
-    },
-    {
-      "id": "madi-akhmetov",
-      "name": "Madi Akhmetov",
+      "id": "dinara-zakieva-q1247199",
+      "name": "Dinara Zakieva",
       "sitting": true,
       "party_id": "amanat",
       "caucus": "Amanat",
       "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q115367910"
-    },
-    {
-      "id": "dinara-zakieva",
-      "name": "Dinara Zakieva",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
+      "chamber": "Mäjilis",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q112992906"
     },
     {
-      "id": "daniyar-alimbaev",
+      "id": "amanzhan-zhamalov-q1247199",
+      "name": "Amanzhan Zhamalov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12528951"
+    },
+    {
+      "id": "tilektes-adambekov-q1247199",
+      "name": "Tilektes Adambekov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105692468"
+    },
+    {
+      "id": "aigul-quspan-q1247199",
+      "name": "Aigül Qūspan",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97208097"
+    },
+    {
+      "id": "irina-unzhakova-q1247199",
+      "name": "Irina Unzhakova",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16656122"
+    },
+    {
+      "id": "vakil-nabiyev-q1247199",
+      "name": "Vakil Nabiyev",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109487943"
+    },
+    {
+      "id": "vera-kim-q1247199",
+      "name": "Vera Kim",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109490946"
+    },
+    {
+      "id": "erlan-sairov-q1247199",
+      "name": "Erlan Sairov",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109493955"
+    },
+    {
+      "id": "zulfia-suleimenova-q1247199",
+      "name": "Zülfia Süleimenova",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109494028"
+    },
+    {
+      "id": "erasyl-abilqasymov-q1247199",
+      "name": "Erasyl Abilqasymov",
+      "sitting": true,
+      "party_id": "people-s-party-of-kazakhstan",
+      "caucus": "People's Party of Kazakhstan",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q100278004"
+    },
+    {
+      "id": "berik-abdigalyuly-q1247199",
+      "name": "Berik Abdigalyuly",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q820633"
+    },
+    {
+      "id": "qanat-musin-q1247199",
+      "name": "Qanat Musin",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110692444"
+    },
+    {
+      "id": "erlan-qoshanov-q1247199",
+      "name": "Erlan Qoshanov",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29587228"
+    },
+    {
+      "id": "salimzhan-nakpaev-q1247199",
+      "name": "Salimzhan Nakpaev",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7404619"
+    },
+    {
+      "id": "nurlan-jylqysiev-q1247199",
+      "name": "Nurlan Jylqyşiev",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28664542"
+    },
+    {
+      "id": "abilfas-khamedov-q1247199",
+      "name": "Abilfas Khamedov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q31194646"
+    },
+    {
+      "id": "azat-peruashev-q1247199",
+      "name": "Azat Peruashev",
+      "sitting": true,
+      "party_id": "democratic-party-of-kazakhstan-ak-zhol",
+      "caucus": "Democratic Party of Kazakhstan Ak Zhol",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17489784"
+    },
+    {
+      "id": "sauytbek-abdrakhmanov-q1247199",
+      "name": "Sauytbek Abdrakhmanov",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4054489"
+    },
+    {
+      "id": "gulsara-abd-qalyqova-q1247199",
+      "name": "Gülşara Äbdıqalyqova",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4054654"
+    },
+    {
+      "id": "darigha-nazarbaeva-q1247199",
+      "name": "Darigha Nazarbaeva",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q376532"
+    },
+    {
+      "id": "nurlybek-ojaev-q1247199",
+      "name": "Nurlybek Ojaev",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60831566"
+    },
+    {
+      "id": "pavel-kazantsev-q1247199",
+      "name": "Pavel Kazantsev",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q70252568"
+    },
+    {
+      "id": "nurlan-nyghmatulin-q1247199",
+      "name": "Nurlan Nyghmatulin",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3719139"
+    },
+    {
+      "id": "jambyl-akhmetbekov-q1247199",
+      "name": "Jambyl Akhmetbekov",
+      "sitting": true,
+      "party_id": "communist-party-of-the-soviet-union",
+      "caucus": "Communist Party of the Soviet Union",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4073101"
+    },
+    {
+      "id": "mawlen-ashimbaev-q1247199",
+      "name": "Mäwlen Äshimbaev",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12555734"
+    },
+    {
+      "id": "muhtar-erman-q1247199",
+      "name": "Muhtar Erman",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109488494"
+    },
+    {
+      "id": "balaiym-kesebaeva-q1247199",
+      "name": "Balaiym Kesebaeva",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105551761"
+    },
+    {
+      "id": "albert-rau-q1247199",
+      "name": "Albert Rau",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4390898"
+    },
+    {
+      "id": "bekbolat-tileuhan-q1247199",
+      "name": "Bekbolat Tileuhan",
+      "sitting": true,
+      "party_id": "nur-otan",
+      "caucus": "Nur Otan",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12534778"
+    },
+    {
+      "id": "dania-espaeva-q1247199",
+      "name": "Dania Espaeva",
+      "sitting": true,
+      "party_id": "democratic-party-of-kazakhstan-ak-zhol",
+      "caucus": "Democratic Party of Kazakhstan Ak Zhol",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q64494872"
+    },
+    {
+      "id": "berik-bekzhanov-q1247199",
+      "name": "Berik Bekzhanov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109489225"
+    },
+    {
+      "id": "galymzhan-eleuov-q1247199",
+      "name": "Galymzhan Eleuov",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q115341897"
+    },
+    {
+      "id": "aiqyn-qongyrov-q1247199",
+      "name": "Aiqyn Qongyrov",
+      "sitting": true,
+      "party_id": "communist-party-of-kazakhstan",
+      "caucus": "Communist Party of Kazakhstan",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12578894"
+    },
+    {
+      "id": "irina-smirnova-q1247199",
+      "name": "Irina Smirnova",
+      "sitting": true,
+      "party_id": "people-s-party-of-kazakhstan",
+      "caucus": "People's Party of Kazakhstan",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97591795"
+    },
+    {
+      "id": "daniyar-alimbaev-q1247199",
       "name": "Daniyar Alimbaev",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
+      "chamber": "Mäjilis",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q113674166"
     },
     {
-      "id": "dmitry-legkiy",
+      "id": "juldyz-suleimenova-q1247199",
+      "name": "Juldyz Süleimenova",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109493950"
+    },
+    {
+      "id": "dmitry-legkiy-q1247199",
       "name": "Dmitry Legkiy",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
+      "chamber": "Mäjilis",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q114981898"
     },
     {
-      "id": "shamil-osin",
+      "id": "andrey-linnik-q1247199",
+      "name": "Andrey Linnik",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q115000973"
+    },
+    {
+      "id": "shamil-osin-q1247199",
       "name": "Shamil Osin",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
+      "chamber": "Mäjilis",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q115316753"
     },
     {
-      "id": "fuat-satybayev",
+      "id": "madi-akhmetov-q1247199",
+      "name": "Madi Akhmetov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q115367910"
+    },
+    {
+      "id": "saiasat-nurbek-q1247199",
+      "name": "Saiasat Nurbek",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q137265252"
+    },
+    {
+      "id": "serik-egizbaev-q1247199",
+      "name": "Serik Egizbaev",
+      "sitting": true,
+      "party_id": "kazakhstani-social-democratic-party-auyl",
+      "caucus": "Kazakhstani Social Democratic Party Auyl",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q132775605"
+    },
+    {
+      "id": "sergey-zvolsky-q1247199",
+      "name": "Sergey Zvolsky",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q120280861"
+    },
+    {
+      "id": "baqytjan-bazarbek-q1247199",
+      "name": "Baqytjan Bazarbek",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135258814"
+    },
+    {
+      "id": "daulet-muqaev-q1247199",
+      "name": "Däulet Muqaev",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q117319724"
+    },
+    {
+      "id": "natalia-dementieva-q1247199",
+      "name": "Natalia Dementieva",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q115367930"
+    },
+    {
+      "id": "bauyrjan-smagulov-q1247199",
+      "name": "Bauyrjan Smağulov",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131744414"
+    },
+    {
+      "id": "oljas-quspekov-q1247199",
+      "name": "Oljas Quspekov",
+      "sitting": true,
+      "party_id": "respublica",
+      "caucus": "Respublica",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131744492"
+    },
+    {
+      "id": "fuat-satybayev-q1247199",
       "name": "Fuat Satybayev",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
+      "chamber": "Mäjilis",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q115399523"
     },
     {
-      "id": "avetik-amirkhanyan",
+      "id": "avetik-amirkhanyan-q1247199",
       "name": "Avetik Amirkhanyan",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
+      "chamber": "Mäjilis",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q115428741"
     },
     {
-      "id": "erlan-smailov",
+      "id": "aibek-payayev-q1247199",
+      "name": "Aibek Payayev",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Mäjilis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q115428819"
+    },
+    {
+      "id": "erlan-smailov-q1247199",
       "name": "Erlan Smailov",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
+      "chamber": "Mäjilis",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q115925416"
     },
     {
-      "id": "daulet-muqaev",
-      "name": "Däulet Muqaev",
+      "id": "mukhtar-altynbayev-q1316045",
+      "name": "Mukhtar Altynbayev",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Kazakhstan",
+      "chamber": "Senate of Kazakhstan",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q117319724"
+      "roster_url": "http://www.wikidata.org/entity/Q1045853"
+    },
+    {
+      "id": "olga-perepechina-q1316045",
+      "name": "Olga Perepechina",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12557154"
+    },
+    {
+      "id": "pyotr-kolesov-q1316045",
+      "name": "Pyotr Kolesov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12558636"
+    },
+    {
+      "id": "valery-kozhevnikov-q1316045",
+      "name": "Valery Kozhevnikov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12537583"
+    },
+    {
+      "id": "nurschan-aschimbetow-q1316045",
+      "name": "Nurschan Aschimbetow",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12556662"
+    },
+    {
+      "id": "nurlan-suleimenov-q1316045",
+      "name": "Nurlan Süleimenov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12556688"
+    },
+    {
+      "id": "sergey-tikhonov-q1316045",
+      "name": "Sergey Tikhonov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q140685206"
+    },
+    {
+      "id": "zhabaikhan-mubarakovich-abdil-din-q1316045",
+      "name": "Zhabaĭkhan Mubarakovich Abdilʹdin",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4054459"
+    },
+    {
+      "id": "ikram-adyrbekov-q1316045",
+      "name": "Ikram Adyrbekov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4058042"
+    },
+    {
+      "id": "byrganym-aitimova-q1316045",
+      "name": "Byrganym Aitimova",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4059015"
+    },
+    {
+      "id": "muhambet-kopeev-q1316045",
+      "name": "Muhambet Kopeev",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4232268"
+    },
+    {
+      "id": "daulet-sembaev-q1316045",
+      "name": "Daulet Sembaev",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4415084"
+    },
+    {
+      "id": "mikhail-bortnik-q1316045",
+      "name": "Mikhail Bortnik",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12554145"
+    },
+    {
+      "id": "qairat-qojamjarov-q1316045",
+      "name": "Qairat Qojamjarov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4226249"
+    },
+    {
+      "id": "gulsara-abd-qalyqova-q1316045",
+      "name": "Gülşara Äbdıqalyqova",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4054654"
+    },
+    {
+      "id": "hussain-valiyev-q1316045",
+      "name": "Hussain Valiyev",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4102880"
+    },
+    {
+      "id": "nina-kayupova-q1316045",
+      "name": "Nina Kayupova",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12556355"
+    },
+    {
+      "id": "gani-qasymov-q1316045",
+      "name": "Gani Qasymov",
+      "sitting": true,
+      "party_id": "party-of-patriots-of-kazakhstan",
+      "caucus": "Party of Patriots of Kazakhstan",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4216953"
+    },
+    {
+      "id": "gulzhan-karagusova-q1316045",
+      "name": "Gulzhan Karagusova",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4213731"
+    },
+    {
+      "id": "abilgazy-qusaiynov-q1316045",
+      "name": "Äbilgazy Qusaiynov",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4249185"
+    },
+    {
+      "id": "mawlen-ashimbaev-q1316045",
+      "name": "Mäwlen Äshimbaev",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12555734"
+    },
+    {
+      "id": "vladimir-bobrov-q1316045",
+      "name": "Vladimir Bobrov",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12538275"
+    },
+    {
+      "id": "umirbek-dzholdasbekov-q1316045",
+      "name": "Umirbek Dzholdasbekov",
+      "sitting": true,
+      "party_id": "communist-party-of-the-soviet-union",
+      "caucus": "Communist Party of the Soviet Union",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4160389"
+    },
+    {
+      "id": "aleksandr-sudin-q1316045",
+      "name": "Aleksandr Sudin",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12528302"
+    },
+    {
+      "id": "asqar-beisenbaev-q1316045",
+      "name": "Asqar Beisenbaev",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12530396"
+    },
+    {
+      "id": "asqar-sakirov-q1316045",
+      "name": "Asqar Şäkirov",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12530406"
+    },
+    {
+      "id": "uzakbay-karamanov-q1316045",
+      "name": "Uzakbay Karamanov",
+      "sitting": true,
+      "party_id": "communist-party-of-the-soviet-union",
+      "caucus": "Communist Party of the Soviet Union",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4213990"
+    },
+    {
+      "id": "oralbai-abdykarimov-q1316045",
+      "name": "Oralbai Abdykarimov",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12557416"
+    },
+    {
+      "id": "aitkul-samakova-q1316045",
+      "name": "Aitkul Samakova",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4406272"
+    },
+    {
+      "id": "zhenis-nurgaliyev-q1316045",
+      "name": "Zhenis Nurgaliyev",
+      "sitting": true,
+      "party_id": "nur-otan",
+      "caucus": "Nur Otan",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12544833"
+    },
+    {
+      "id": "talgat-musabayev-q1316045",
+      "name": "Talgat Musabayev",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q560360"
+    },
+    {
+      "id": "darkhan-kaletaev-q1316045",
+      "name": "Darkhan Käletaev",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4209314"
+    },
+    {
+      "id": "abish-kekilbayev-q1316045",
+      "name": "Abish Kekilbayev",
+      "sitting": true,
+      "party_id": "asar-party",
+      "caucus": "Asar Party",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4219024"
+    },
+    {
+      "id": "yeleusin-sagindykov-q1316045",
+      "name": "Yeleusin Sagindykov",
+      "sitting": true,
+      "party_id": "communist-party-of-the-soviet-union",
+      "caucus": "Communist Party of the Soviet Union",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4404434"
+    },
+    {
+      "id": "sejylbek-szauchamanow-q1316045",
+      "name": "Sejylbek Szauchamanow",
+      "sitting": true,
+      "party_id": "communist-party-of-the-soviet-union",
+      "caucus": "Communist Party of the Soviet Union",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4521051"
+    },
+    {
+      "id": "bektas-beknazarov-q1316045",
+      "name": "Bektas Beknazarov",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q65152541"
+    },
+    {
+      "id": "janbolat-jorgenbaev-q1316045",
+      "name": "Janbolat Jörgenbaev",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q126110661"
+    },
+    {
+      "id": "janna-asanova-q1316045",
+      "name": "Janna Asanova",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131993216"
+    },
+    {
+      "id": "lyazzat-kaltaeva-q1316045",
+      "name": "Lyazzat Kaltaeva",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112992805"
+    },
+    {
+      "id": "olga-bulavkina-q1316045",
+      "name": "Olga Bulavkina",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q112992807"
+    },
+    {
+      "id": "nurlan-orazalin-q1316045",
+      "name": "Nurlan Orazalin",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56310304"
+    },
+    {
+      "id": "suyindik-aldasev-q1316045",
+      "name": "Süyindik Aldaşev",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109485107"
+    },
+    {
+      "id": "manap-kubenov-q1316045",
+      "name": "Manap Kubenov",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q77681686"
+    },
+    {
+      "id": "erlan-qoshanov-q1316045",
+      "name": "Erlan Qoshanov",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29587228"
+    },
+    {
+      "id": "dulat-kusdavletov-q1316045",
+      "name": "Dulat Kusdavletov",
+      "sitting": true,
+      "party_id": "communist-party-of-the-soviet-union",
+      "caucus": "Communist Party of the Soviet Union",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q65969853"
+    },
+    {
+      "id": "saule-ajtpajewa-q1316045",
+      "name": "Saule Ajtpajewa",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q63797063"
+    },
+    {
+      "id": "nurlan-beknazarov-q1316045",
+      "name": "Nurlan Beknazarov",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q70253224"
+    },
+    {
+      "id": "nariman-toreghalijew-q1316045",
+      "name": "Nariman Töreghalijew",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q70253496"
+    },
+    {
+      "id": "ali-bektaev-q1316045",
+      "name": "Äli Bektaev",
+      "sitting": true,
+      "party_id": "communist-party-of-the-soviet-union",
+      "caucus": "Communist Party of the Soviet Union",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q25493939"
+    },
+    {
+      "id": "andrey-lukin-q1316045",
+      "name": "Andrey Lukin",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q70252350"
+    },
+    {
+      "id": "gulmira-karimova-q1316045",
+      "name": "Gulmira Karimova",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116480776"
+    },
+    {
+      "id": "erik-sultanov-q1316045",
+      "name": "Erik Sultanov",
+      "sitting": true,
+      "party_id": "nur-otan",
+      "caucus": "Nur Otan",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q23656579"
+    },
+    {
+      "id": "qaysar-omarov-q1316045",
+      "name": "Qaysar Omarov",
+      "sitting": true,
+      "party_id": "nur-otan",
+      "caucus": "Nur Otan",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16436566"
+    },
+    {
+      "id": "rashit-akimov-q1316045",
+      "name": "Rashit Äkimov",
+      "sitting": true,
+      "party_id": "nur-otan",
+      "caucus": "Nur Otan",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16436596"
+    },
+    {
+      "id": "yuriy-tskhay-q1316045",
+      "name": "Yuriy Tskhay",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12572131"
+    },
+    {
+      "id": "omirbek-baigeldi-q1316045",
+      "name": "Omirbek Baigeldi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12579562"
+    },
+    {
+      "id": "zauresh-battalova-q1316045",
+      "name": "Zauresh Battalova",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15064351"
+    },
+    {
+      "id": "darkhan-satybaldy-q1316045",
+      "name": "Darkhan Satybaldy",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15081342"
+    },
+    {
+      "id": "zhabal-ergaliev-q1316045",
+      "name": "Zhabal Ergaliev",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16433949"
+    },
+    {
+      "id": "engels-gabbasov-q1316045",
+      "name": "Engels Gabbasov",
+      "sitting": true,
+      "party_id": "communist-party-of-the-soviet-union",
+      "caucus": "Communist Party of the Soviet Union",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17412713"
+    },
+    {
+      "id": "qairat-iscanov-q1316045",
+      "name": "Qairat Işçanov",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12573789"
+    },
+    {
+      "id": "qojaxmet-baymaxanov-q1316045",
+      "name": "Qojaxmet Baýmaxanov",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16435113"
+    },
+    {
+      "id": "alexander-savchenko-q1316045",
+      "name": "Alexander Savchenko",
+      "sitting": true,
+      "party_id": "amanat",
+      "caucus": "Amanat",
+      "constituency_label": "",
+      "chamber": "Senate of Kazakhstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16437666"
     }
   ]
 }

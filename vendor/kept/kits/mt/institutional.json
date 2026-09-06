@@ -1,6 +1,59 @@
 {
   "iso2": "mt",
   "kit": "institutional",
-  "items": [],
-  "incomplete": true
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q233",
+  "bodies": [
+    {
+      "qid": "Q19367406",
+      "label": "Member of the House of Representatives of Malta",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q7450029",
+      "label": "Senate of Malta",
+      "seats": 0,
+      "web": "",
+      "kind": "lower"
+    },
+    {
+      "qid": "Q1817866",
+      "label": "Parliament of Malta",
+      "seats": 67,
+      "web": "https://www.parlament.mt/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Member of the House of Representatives of Malta",
+    "Senate of Malta"
+  ],
+  "seats": 67,
+  "items": [
+    {
+      "id": "Q19367406",
+      "name": "Member of the House of Representatives of Malta",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q19367406"
+    },
+    {
+      "id": "Q7450029",
+      "name": "Senate of Malta",
+      "kind": "lower",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q7450029"
+    },
+    {
+      "id": "Q1817866",
+      "name": "Parliament of Malta",
+      "kind": "parliament",
+      "seats": 67,
+      "url": "https://www.parlament.mt/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

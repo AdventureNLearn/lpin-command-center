@@ -3,1373 +3,1898 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q820697",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 105,
+  "incomplete": true,
+  "claimed_seats": 215,
+  "chambers": [
+    "Senate of Jordan",
+    "House of Representatives of Jordan",
+    "Parliament of Jordan"
+  ],
   "items": [
     {
-      "id": "khaled-al-sarayra",
-      "name": "Khaled Al-Sarayra",
+      "id": "rowaida-al-maaitah-q3510854",
+      "name": "Rowaida Al-Maaitah",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jordan",
+      "chamber": "Senate of Jordan",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q12210074"
+      "roster_url": "http://www.wikidata.org/entity/Q87603696"
     },
     {
-      "id": "tareq-suheimat",
-      "name": "Tareq Suheimat",
+      "id": "zaid-al-rifai-q3510854",
+      "name": "Zaid al-Rifai",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jordan",
+      "chamber": "Senate of Jordan",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q12221471"
+      "roster_url": "http://www.wikidata.org/entity/Q144271"
     },
     {
-      "id": "amer-khammash",
-      "name": "Amer Khammash",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12222363"
-    },
-    {
-      "id": "ali-abu-nuwar",
-      "name": "Ali Abu Nuwar",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12227827"
-    },
-    {
-      "id": "omar-maani",
-      "name": "Omar Maani",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12228395"
-    },
-    {
-      "id": "ma-an-abu-nowar",
-      "name": "Ma'an Abu Nowar",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12244284"
-    },
-    {
-      "id": "nabil-al-mashini",
-      "name": "Nabil Al Mashini",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12247924"
-    },
-    {
-      "id": "natheer-rasheed",
-      "name": "Natheer Rasheed",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12248187"
-    },
-    {
-      "id": "habis-al-majali",
-      "name": "Habis al-Majali",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2325218"
-    },
-    {
-      "id": "awni-abd-al-hadi",
-      "name": "Awni Abd al-Hadi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2874705"
-    },
-    {
-      "id": "taghreed-hikmat",
-      "name": "Taghreed Hikmat",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q14856058"
-    },
-    {
-      "id": "bassam-talhouni",
-      "name": "Bassam Talhouni",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q14949027"
-    },
-    {
-      "id": "abd-al-karim-mahmud-gharaybah",
-      "name": "ʿAbd al-Karīm Maḥmūd Gharāybah",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q15439581"
-    },
-    {
-      "id": "ina-am-al-mufti",
-      "name": "Ina'am Al-Mufti",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16091264"
-    },
-    {
-      "id": "amin-mahmoud",
-      "name": "Amin Mahmoud",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16105409"
-    },
-    {
-      "id": "saad-jumaa",
-      "name": "Saad Jumaa",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4165768"
-    },
-    {
-      "id": "hussein-ibn-nasser",
-      "name": "Hussein ibn Nasser",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4502514"
-    },
-    {
-      "id": "kamel-mahadin",
-      "name": "Kamel Mahadin",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4561737"
-    },
-    {
-      "id": "marwan-dudin",
-      "name": "Marwan Dudin",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q24039855"
-    },
-    {
-      "id": "tareq-masarwa",
-      "name": "Tareq Masarwa",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6810576"
-    },
-    {
-      "id": "rida-khawaldeh",
-      "name": "Rida Khawaldeh",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q24565246"
-    },
-    {
-      "id": "mohammad-al-malkawi",
-      "name": "Mohammad Al-Malkawi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q25455436"
-    },
-    {
-      "id": "seaz",
-      "name": "SEAZ",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7409432"
-    },
-    {
-      "id": "samir-habashneh",
-      "name": "Samir Habashneh",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7409504"
-    },
-    {
-      "id": "umayya-toukan",
-      "name": "Umayya Toukan",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7881219"
-    },
-    {
-      "id": "nayef-saoud-faris-al-kadi",
-      "name": "Nayef Saoud Faris Al Kadi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28089396"
-    },
-    {
-      "id": "muhammad-affash-al-adwan",
-      "name": "Muhammad Affash al-Adwan",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28092494"
-    },
-    {
-      "id": "omar-nimr-nabulsi",
-      "name": "Omar Nimr Nabulsi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28137171"
-    },
-    {
-      "id": "jamil-tutunji",
-      "name": "Jamil Tutunji",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28150073"
-    },
-    {
-      "id": "hani-bahjat-tabbara",
-      "name": "Hani Bahjat Tabbara",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28151820"
-    },
-    {
-      "id": "farhan-shubeilat",
-      "name": "Farhan Shubeilat",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28203335"
-    },
-    {
-      "id": "klaib-saud-al-fawwaz",
-      "name": "Klaib Saud Al-Fawwaz",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28717107"
-    },
-    {
-      "id": "said-al-tal",
-      "name": "Said Al-Tal",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q31075916"
-    },
-    {
-      "id": "jamal-j-ahmad-nasir",
-      "name": "Jamal J. Ahmad Nasir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q43216996"
-    },
-    {
-      "id": "yasera-ghosheh",
-      "name": "Yasera Ghosheh",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q43659837"
-    },
-    {
-      "id": "samar-haj-hassan",
-      "name": "Samar Haj Hassan",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q54875252"
-    },
-    {
-      "id": "mustafa-dudin",
-      "name": "Muṣṭafá Dūdīn",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q54875095"
-    },
-    {
-      "id": "abd-al-latif-salah",
-      "name": "Abd al-Latif Salah",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q71397951"
-    },
-    {
-      "id": "amenah-falah-al-zoubi",
-      "name": "Amenah Falah Al Zoubi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q116748647"
-    },
-    {
-      "id": "emily-naffer",
-      "name": "Emily Naffer",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q116748666"
-    },
-    {
-      "id": "entesar-hamza-jardaneh",
-      "name": "Entesar Hamza Jardaneh",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q116748683"
-    },
-    {
-      "id": "hiam-kalimat",
-      "name": "Hiam Kalimat",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q116748769"
-    },
-    {
-      "id": "leila-hamdan-ahmed-abu-hassan",
-      "name": "Leila Hamdan Ahmed Abu Hassan",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q116748779"
-    },
-    {
-      "id": "ra-eda-jiyad-al-qutob",
-      "name": "Ra'eda Jiyad Al-Qutob",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q116752526"
-    },
-    {
-      "id": "rima-batshoun",
-      "name": "Rima Batshoun",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q116752647"
-    },
-    {
-      "id": "salwa-al-damen-masri",
-      "name": "Salwa al Damen Masri",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q116752672"
-    },
-    {
-      "id": "tamam-ali-ghoul",
-      "name": "Tamam Ali Ghoul",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q116753171"
-    },
-    {
-      "id": "mohammad-qudah",
-      "name": "Mohammad Qudah",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q123480213"
-    },
-    {
-      "id": "faisal-al-fayez",
+      "id": "faisal-al-fayez-q3510854",
       "name": "Faisal al-Fayez",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jordan",
+      "chamber": "Senate of Jordan",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q1393504"
     },
     {
-      "id": "ishaq-al-farhan",
-      "name": "Ishaq Al-Farhan",
+      "id": "marwan-al-hamoud-q3510854",
+      "name": "Marwan al-Hamoud",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jordan",
+      "chamber": "Senate of Jordan",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q12182175"
+      "roster_url": "http://www.wikidata.org/entity/Q99670529"
     },
     {
-      "id": "bassam-al-amoush",
-      "name": "Bassam Al-Amoush",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12198314"
-    },
-    {
-      "id": "bassam-haddadin",
+      "id": "bassam-haddadin-q3510854",
       "name": "Bassam Haddadin",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jordan",
+      "chamber": "Senate of Jordan",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q12198322"
     },
     {
-      "id": "ibrahim-zeid-keilani",
-      "name": "Ibrahim Zeid Keilani",
+      "id": "khaled-al-sarayra-q3510854",
+      "name": "Khaled Al-Sarayra",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jordan",
+      "chamber": "Senate of Jordan",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q12201138"
+      "roster_url": "http://www.wikidata.org/entity/Q12210074"
     },
     {
-      "id": "hussein-mjalli",
-      "name": "Hussein Mjalli",
+      "id": "salwa-al-masri-q3510854",
+      "name": "Salwa Al Masri",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jordan",
+      "chamber": "Senate of Jordan",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q12208238"
+      "roster_url": "http://www.wikidata.org/entity/Q12216594"
     },
     {
-      "id": "saad-hayel-srour",
-      "name": "Saad Hayel Srour",
+      "id": "saleh-rusheidat-q3510854",
+      "name": "Saleh Rusheidat",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jordan",
+      "chamber": "Senate of Jordan",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q12215978"
+      "roster_url": "http://www.wikidata.org/entity/Q12219549"
     },
     {
-      "id": "abdul-baqi-jammoh",
-      "name": "Abdul Baqi Jammoh",
+      "id": "tareq-suheimat-q3510854",
+      "name": "Tareq Suheimat",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jordan",
+      "chamber": "Senate of Jordan",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q12222497"
+      "roster_url": "http://www.wikidata.org/entity/Q12221471"
     },
     {
-      "id": "abdul-rahim-malhas",
-      "name": "Abdul Rahim Malhas",
+      "id": "ali-abu-nuwar-q3510854",
+      "name": "Ali Abu Nuwar",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jordan",
+      "chamber": "Senate of Jordan",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q12222829"
+      "roster_url": "http://www.wikidata.org/entity/Q12227827"
     },
     {
-      "id": "abdel-karim-deghmi",
-      "name": "Abdel-Karim Deghmi",
+      "id": "omar-maani-q3510854",
+      "name": "Omar Maani",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jordan",
+      "chamber": "Senate of Jordan",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q12223240"
+      "roster_url": "http://www.wikidata.org/entity/Q12228395"
     },
     {
-      "id": "abu-zant",
-      "name": "Abu Zant",
+      "id": "ma-an-abu-nowar-q3510854",
+      "name": "Ma'an Abu Nowar",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jordan",
+      "chamber": "Senate of Jordan",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q12223840"
+      "roster_url": "http://www.wikidata.org/entity/Q12244284"
     },
     {
-      "id": "ablah-abu-ulbah",
-      "name": "ʻAblah Abu ʻUlbah",
+      "id": "nabil-al-mashini-q3510854",
+      "name": "Nabil Al Mashini",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jordan",
+      "chamber": "Senate of Jordan",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q12224249"
+      "roster_url": "http://www.wikidata.org/entity/Q12247924"
     },
     {
-      "id": "ali-ebu-es-sukkar",
-      "name": "Ali Ebu es-Sukkar",
+      "id": "natheer-rasheed-q3510854",
+      "name": "Natheer Rasheed",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jordan",
+      "chamber": "Senate of Jordan",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q12227826"
+      "roster_url": "http://www.wikidata.org/entity/Q12248187"
     },
     {
-      "id": "mohammed-abdul-rahman-khalifa",
-      "name": "Mohammed Abdul-Rahman Khalifa",
+      "id": "habis-al-majali-q3510854",
+      "name": "Habis al-Majali",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jordan",
+      "chamber": "Senate of Jordan",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q12240701"
+      "roster_url": "http://www.wikidata.org/entity/Q2325218"
     },
     {
-      "id": "mohammed-abdul-qader-abu-fares",
-      "name": "Mohammed Abdul Qader Abu Fares",
+      "id": "talal-abu-ghazaleh-q3510854",
+      "name": "Talal Abu-Ghazaleh",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jordan",
+      "chamber": "Senate of Jordan",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q12240720"
+      "roster_url": "http://www.wikidata.org/entity/Q265812"
     },
     {
-      "id": "moqbel-al-momani",
-      "name": "Moqbel Al momani",
+      "id": "taghreed-hikmat-q3510854",
+      "name": "Taghreed Hikmat",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jordan",
+      "chamber": "Senate of Jordan",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q12244644"
+      "roster_url": "http://www.wikidata.org/entity/Q14856058"
     },
     {
-      "id": "hammam-said",
-      "name": "Hammam Said",
+      "id": "bassam-talhouni-q3510854",
+      "name": "Bassam Talhouni",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jordan",
+      "chamber": "Senate of Jordan",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q12250067"
+      "roster_url": "http://www.wikidata.org/entity/Q14949027"
     },
     {
-      "id": "yusuf-azm",
-      "name": "Yūsuf ʻAẓm",
+      "id": "abd-al-karim-mahmud-gharaybah-q3510854",
+      "name": "ʿAbd al-Karīm Maḥmūd Gharāybah",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jordan",
+      "chamber": "Senate of Jordan",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q12252055"
+      "roster_url": "http://www.wikidata.org/entity/Q15439581"
     },
     {
-      "id": "abdelraouf-al-rawabdeh",
-      "name": "Abdelraouf al-Rawabdeh",
+      "id": "ina-am-al-mufti-q3510854",
+      "name": "Ina'am Al-Mufti",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jordan",
+      "chamber": "Senate of Jordan",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q2067199"
+      "roster_url": "http://www.wikidata.org/entity/Q16091264"
     },
     {
-      "id": "taher-masri",
-      "name": "Taher Masri",
+      "id": "amin-mahmoud-q3510854",
+      "name": "Amin Mahmoud",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jordan",
+      "chamber": "Senate of Jordan",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q2067182"
+      "roster_url": "http://www.wikidata.org/entity/Q16105409"
     },
     {
-      "id": "abdul-karim-al-kabariti",
-      "name": "Abdul Karim al-Kabariti",
+      "id": "hussein-ibn-nasser-q3510854",
+      "name": "Hussein ibn Nasser",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jordan",
+      "chamber": "Senate of Jordan",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q2067696"
+      "roster_url": "http://www.wikidata.org/entity/Q4502514"
     },
     {
-      "id": "tawfik-abu-al-huda",
-      "name": "Tawfik Abu al-Huda",
+      "id": "kamel-mahadin-q3510854",
+      "name": "Kamel Mahadin",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jordan",
+      "chamber": "Senate of Jordan",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q2096713"
+      "roster_url": "http://www.wikidata.org/entity/Q4561737"
     },
     {
-      "id": "ali-abu-al-ragheb",
-      "name": "Ali Abu al-Ragheb",
+      "id": "farouq-qasrawi-q3510854",
+      "name": "Farouq Qasrawi",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jordan",
+      "chamber": "Senate of Jordan",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q2509606"
+      "roster_url": "http://www.wikidata.org/entity/Q5436181"
     },
     {
-      "id": "abdullah-rimawi",
-      "name": "Abdullah Rimawi",
+      "id": "marwan-dudin-q3510854",
+      "name": "Marwan Dudin",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jordan",
+      "chamber": "Senate of Jordan",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q307623"
+      "roster_url": "http://www.wikidata.org/entity/Q24039855"
     },
     {
-      "id": "abdul-nasser-bani-hani",
-      "name": "Abdul Nasser Bani Hani",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q15992742"
-    },
-    {
-      "id": "mahmoud-hweimel",
-      "name": "Mahmoud Hweimel",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q15993101"
-    },
-    {
-      "id": "mohammad-mahseiri",
-      "name": "Mohammad Mahseiri",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q15993244"
-    },
-    {
-      "id": "atef-tarawneh",
-      "name": "Atef Tarawneh",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16186517"
-    },
-    {
-      "id": "mahmoud-kharabsheh",
-      "name": "Mahmoud Kharabsheh",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16730808"
-    },
-    {
-      "id": "saleh-wreikat",
-      "name": "Saleh Wreikat",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16929790"
-    },
-    {
-      "id": "talal-al-sharif",
-      "name": "Talal al-Sharif",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q17070373"
-    },
-    {
-      "id": "hani-abbadi",
-      "name": "Hani Abbadi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q17523750"
-    },
-    {
-      "id": "ahmad-lawzi",
-      "name": "Ahmad Lawzi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4072991"
-    },
-    {
-      "id": "kassim-al-rimawi",
-      "name": "Kassim al-Rimawi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4119846"
-    },
-    {
-      "id": "hazza-al-majali",
-      "name": "Hazza' al-Majali",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4166555"
-    },
-    {
-      "id": "mohammad-khasawneh",
-      "name": "Mohammad Khasawneh",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q18175190"
-    },
-    {
-      "id": "dima-tahboub",
-      "name": "Dima Tahboub",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q18193426"
-    },
-    {
-      "id": "fakhri-kawar",
-      "name": "Fakhri Kawar",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q18746531"
-    },
-    {
-      "id": "abdallah-al-jazi",
-      "name": "Abdallah Al-Jazi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4664651"
-    },
-    {
-      "id": "attallah-suheimat",
-      "name": "Attallah Suheimat",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4818087"
-    },
-    {
-      "id": "ayman-hazza-al-majali",
-      "name": "Ayman Hazza' al-Majali",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4831460"
-    },
-    {
-      "id": "anwar-nusseibeh",
-      "name": "Anwar Nusseibeh",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q613191"
-    },
-    {
-      "id": "barjas-al-hadid",
-      "name": "Barjas al-Hadid",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4860843"
-    },
-    {
-      "id": "fat-hi-abu-taleb",
-      "name": "Fat'hi Abu Taleb",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5437137"
-    },
-    {
-      "id": "eteiwi-majali",
-      "name": "Eteiwi Majali",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q21997854"
-    },
-    {
-      "id": "abdul-rahman-al-hanaqtah",
-      "name": "Abdul Rahman Al-Hanaqtah",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q22815215"
-    },
-    {
-      "id": "hind-al-fayez",
-      "name": "Hind Al-Fayez",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q22949000"
-    },
-    {
-      "id": "tawfiq-kreishan",
+      "id": "tawfiq-kreishan-q3510854",
       "name": "Tawfiq Kreishan",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jordan",
+      "chamber": "Senate of Jordan",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q6754063"
     },
     {
-      "id": "thuqan-hindawi",
+      "id": "tareq-masarwa-q3510854",
+      "name": "Tareq Masarwa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6810576"
+    },
+    {
+      "id": "adnan-abu-odeh-q3510854",
+      "name": "Adnan Abu Odeh",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6815416"
+    },
+    {
+      "id": "rida-khawaldeh-q3510854",
+      "name": "Rida Khawaldeh",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24565246"
+    },
+    {
+      "id": "asma-khader-q3510854",
+      "name": "Asma Khader",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q25450877"
+    },
+    {
+      "id": "mohammad-al-momani-q3510854",
+      "name": "Mohammad al-Momani",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q25451806"
+    },
+    {
+      "id": "seaz-q3510854",
+      "name": "SEAZ",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7409432"
+    },
+    {
+      "id": "samir-habashneh-q3510854",
+      "name": "Samir Habashneh",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7409504"
+    },
+    {
+      "id": "umayya-toukan-q3510854",
+      "name": "Umayya Toukan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7881219"
+    },
+    {
+      "id": "nayef-saoud-faris-al-kadi-q3510854",
+      "name": "Nayef Saoud Faris Al Kadi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28089396"
+    },
+    {
+      "id": "muhammad-affash-al-adwan-q3510854",
+      "name": "Muhammad Affash al-Adwan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28092494"
+    },
+    {
+      "id": "omar-nimr-nabulsi-q3510854",
+      "name": "Omar Nimr Nabulsi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28137171"
+    },
+    {
+      "id": "jamil-tutunji-q3510854",
+      "name": "Jamil Tutunji",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28150073"
+    },
+    {
+      "id": "hani-bahjat-tabbara-q3510854",
+      "name": "Hani Bahjat Tabbara",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28151820"
+    },
+    {
+      "id": "farhan-shubeilat-q3510854",
+      "name": "Farhan Shubeilat",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28203335"
+    },
+    {
+      "id": "abdul-majid-thuneibat-q3510854",
+      "name": "Abdul Majid Thuneibat",
+      "sitting": true,
+      "party_id": "society-of-the-muslim-brothers-in-jordan",
+      "caucus": "Society of the Muslim Brothers in Jordan",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12223757"
+    },
+    {
+      "id": "klaib-saud-al-fawwaz-q3510854",
+      "name": "Klaib Saud Al-Fawwaz",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28717107"
+    },
+    {
+      "id": "said-al-tal-q3510854",
+      "name": "Said Al-Tal",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q31075916"
+    },
+    {
+      "id": "abd-el-latif-arabiyat-q3510854",
+      "name": "Abd El Latif Arabiyat",
+      "sitting": true,
+      "party_id": "islamic-action-front",
+      "caucus": "Islamic Action Front",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12223307"
+    },
+    {
+      "id": "rajai-muasher-q3510854",
+      "name": "Rajai Muasher",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12213143"
+    },
+    {
+      "id": "amer-khammash-q3510854",
+      "name": "Amer Khammash",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12222363"
+    },
+    {
+      "id": "leila-a-sharaf-q3510854",
+      "name": "Leila A. Sharaf",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q42883022"
+    },
+    {
+      "id": "jamal-j-ahmad-nasir-q3510854",
+      "name": "Jamal J. Ahmad Nasir",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q43216996"
+    },
+    {
+      "id": "yasera-ghosheh-q3510854",
+      "name": "Yasera Ghosheh",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q43659837"
+    },
+    {
+      "id": "haifa-najjar-q3510854",
+      "name": "Haifa Najjar",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q54875250"
+    },
+    {
+      "id": "samar-haj-hassan-q3510854",
+      "name": "Samar Haj Hassan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q54875252"
+    },
+    {
+      "id": "alia-hatogh-buran-q3510854",
+      "name": "Alia Hatogh Buran",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q100258644"
+    },
+    {
+      "id": "mohammad-al-malkawi-q3510854",
+      "name": "Mohammad Al-Malkawi",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q25455436"
+    },
+    {
+      "id": "sulayman-al-taji-al-faruqi-q3510854",
+      "name": "Sulayman al-Taji al-Faruqi",
+      "sitting": true,
+      "party_id": "palestinian-national-party",
+      "caucus": "Palestinian National Party",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12216646"
+    },
+    {
+      "id": "saad-jumaa-q3510854",
+      "name": "Saad Jumaa",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4165768"
+    },
+    {
+      "id": "marouf-al-bakhit-q3510854",
+      "name": "Marouf al-Bakhit",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q299743"
+    },
+    {
+      "id": "abd-al-latif-salah-q3510854",
+      "name": "Abd al-Latif Salah",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q71397951"
+    },
+    {
+      "id": "ibrahim-jazi-q3510854",
+      "name": "Ibrahim Jazi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109257176"
+    },
+    {
+      "id": "mustafa-dudin-q3510854",
+      "name": "Muṣṭafá Dūdīn",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q54875095"
+    },
+    {
+      "id": "wajih-azaizeh-q3510854",
+      "name": "Wajih Azaizeh",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110065359"
+    },
+    {
+      "id": "sharari-al-shakhanbeh-q3510854",
+      "name": "Sharari al-Shakhanbeh",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110953724"
+    },
+    {
+      "id": "falah-hanun-q3510854",
+      "name": "Falah Hanun",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116242125"
+    },
+    {
+      "id": "may-abul-samen-q3510854",
+      "name": "May Abul Samen",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116738019"
+    },
+    {
+      "id": "subhieh-al-ma-ani-q3510854",
+      "name": "Subhieh Al Ma’ani",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116737969"
+    },
+    {
+      "id": "nawal-faouri-q3510854",
+      "name": "Nawal Faouri",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116742481"
+    },
+    {
+      "id": "amenah-falah-al-zoubi-q3510854",
+      "name": "Amenah Falah Al Zoubi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116748647"
+    },
+    {
+      "id": "emily-naffer-q3510854",
+      "name": "Emily Naffer",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116748666"
+    },
+    {
+      "id": "entesar-hamza-jardaneh-q3510854",
+      "name": "Entesar Hamza Jardaneh",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116748683"
+    },
+    {
+      "id": "hiam-kalimat-q3510854",
+      "name": "Hiam Kalimat",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116748769"
+    },
+    {
+      "id": "leila-hamdan-ahmed-abu-hassan-q3510854",
+      "name": "Leila Hamdan Ahmed Abu Hassan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116748779"
+    },
+    {
+      "id": "ra-eda-jiyad-al-qutob-q3510854",
+      "name": "Ra'eda Jiyad Al-Qutob",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116752526"
+    },
+    {
+      "id": "rima-batshoun-q3510854",
+      "name": "Rima Batshoun",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116752647"
+    },
+    {
+      "id": "salwa-al-damen-masri-q3510854",
+      "name": "Salwa al Damen Masri",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116752672"
+    },
+    {
+      "id": "tamam-ali-ghoul-q3510854",
+      "name": "Tamam Ali Ghoul",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116753171"
+    },
+    {
+      "id": "awni-abd-al-hadi-q3510854",
+      "name": "Awni Abd al-Hadi",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "",
+      "chamber": "Senate of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2874705"
+    },
+    {
+      "id": "shakeeb-jayyusi-q320304",
+      "name": "Shakeeb Jayyusi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q122764195"
+    },
+    {
+      "id": "mohammad-qudah-q320304",
+      "name": "Mohammad Qudah",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123480213"
+    },
+    {
+      "id": "faisal-al-fayez-q320304",
+      "name": "Faisal al-Fayez",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1393504"
+    },
+    {
+      "id": "ahmed-al-khattab-q320304",
+      "name": "Ahmed Al Khattab",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q99670168"
+    },
+    {
+      "id": "marwan-al-hamoud-q320304",
+      "name": "Marwan al-Hamoud",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q99670529"
+    },
+    {
+      "id": "bassam-al-amoush-q320304",
+      "name": "Bassam Al-Amoush",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12198314"
+    },
+    {
+      "id": "bassam-haddadin-q320304",
+      "name": "Bassam Haddadin",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12198322"
+    },
+    {
+      "id": "saad-hayel-srour-q320304",
+      "name": "Saad Hayel Srour",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12215978"
+    },
+    {
+      "id": "saleh-rusheidat-q320304",
+      "name": "Saleh Rusheidat",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12219549"
+    },
+    {
+      "id": "abdul-baqi-jammoh-q320304",
+      "name": "Abdul Baqi Jammoh",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12222497"
+    },
+    {
+      "id": "abdul-rahim-malhas-q320304",
+      "name": "Abdul Rahim Malhas",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12222829"
+    },
+    {
+      "id": "abdel-karim-deghmi-q320304",
+      "name": "Abdel-Karim Deghmi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12223240"
+    },
+    {
+      "id": "ablah-abu-ulbah-q320304",
+      "name": "ʻAblah Abu ʻUlbah",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12224249"
+    },
+    {
+      "id": "ali-ebu-es-sukkar-q320304",
+      "name": "Ali Ebu es-Sukkar",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12227826"
+    },
+    {
+      "id": "mohammed-abdul-rahman-khalifa-q320304",
+      "name": "Mohammed Abdul-Rahman Khalifa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12240701"
+    },
+    {
+      "id": "mohammed-abdul-qader-abu-fares-q320304",
+      "name": "Mohammed Abdul Qader Abu Fares",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12240720"
+    },
+    {
+      "id": "moqbel-al-momani-q320304",
+      "name": "Moqbel Al momani",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12244644"
+    },
+    {
+      "id": "hammam-said-q320304",
+      "name": "Hammam Said",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12250067"
+    },
+    {
+      "id": "yusuf-azm-q320304",
+      "name": "Yūsuf ʻAẓm",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12252055"
+    },
+    {
+      "id": "abdelraouf-al-rawabdeh-q320304",
+      "name": "Abdelraouf al-Rawabdeh",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2067199"
+    },
+    {
+      "id": "taher-masri-q320304",
+      "name": "Taher Masri",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2067182"
+    },
+    {
+      "id": "abdul-karim-al-kabariti-q320304",
+      "name": "Abdul Karim al-Kabariti",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2067696"
+    },
+    {
+      "id": "tawfik-abu-al-huda-q320304",
+      "name": "Tawfik Abu al-Huda",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2096713"
+    },
+    {
+      "id": "kamal-hanoun-q320304",
+      "name": "Kamal Hanoun",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Tulkarm Subdistrict, Jordanian annexation",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q122754107"
+    },
+    {
+      "id": "ali-abu-al-ragheb-q320304",
+      "name": "Ali Abu al-Ragheb",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2509606"
+    },
+    {
+      "id": "toujan-al-faisal-q320304",
+      "name": "Toujan al-Faisal",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3532868"
+    },
+    {
+      "id": "abdul-nasser-bani-hani-q320304",
+      "name": "Abdul Nasser Bani Hani",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15992742"
+    },
+    {
+      "id": "mahmoud-hweimel-q320304",
+      "name": "Mahmoud Hweimel",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15993101"
+    },
+    {
+      "id": "mohammad-mahseiri-q320304",
+      "name": "Mohammad Mahseiri",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15993244"
+    },
+    {
+      "id": "atef-tarawneh-q320304",
+      "name": "Atef Tarawneh",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16186517"
+    },
+    {
+      "id": "mahmoud-kharabsheh-q320304",
+      "name": "Mahmoud Kharabsheh",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16730808"
+    },
+    {
+      "id": "saleh-wreikat-q320304",
+      "name": "Saleh Wreikat",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16929790"
+    },
+    {
+      "id": "talal-al-sharif-q320304",
+      "name": "Talal al-Sharif",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17070373"
+    },
+    {
+      "id": "hani-abbadi-q320304",
+      "name": "Hani Abbadi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17523750"
+    },
+    {
+      "id": "ahmad-lawzi-q320304",
+      "name": "Ahmad Lawzi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4072991"
+    },
+    {
+      "id": "kassim-al-rimawi-q320304",
+      "name": "Kassim al-Rimawi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4119846"
+    },
+    {
+      "id": "mohammad-khasawneh-q320304",
+      "name": "Mohammad Khasawneh",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18175190"
+    },
+    {
+      "id": "fakhri-kawar-q320304",
+      "name": "Fakhri Kawar",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18746531"
+    },
+    {
+      "id": "abdallah-al-jazi-q320304",
+      "name": "Abdallah Al-Jazi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4664651"
+    },
+    {
+      "id": "attallah-suheimat-q320304",
+      "name": "Attallah Suheimat",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4818087"
+    },
+    {
+      "id": "ayman-hazza-al-majali-q320304",
+      "name": "Ayman Hazza' al-Majali",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4831460"
+    },
+    {
+      "id": "anwar-nusseibeh-q320304",
+      "name": "Anwar Nusseibeh",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q613191"
+    },
+    {
+      "id": "barjas-al-hadid-q320304",
+      "name": "Barjas al-Hadid",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4860843"
+    },
+    {
+      "id": "fat-hi-abu-taleb-q320304",
+      "name": "Fat'hi Abu Taleb",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5437137"
+    },
+    {
+      "id": "eteiwi-majali-q320304",
+      "name": "Eteiwi Majali",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q21997854"
+    },
+    {
+      "id": "abdul-rahman-al-hanaqtah-q320304",
+      "name": "Abdul Rahman Al-Hanaqtah",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q22815215"
+    },
+    {
+      "id": "hind-al-fayez-q320304",
+      "name": "Hind Al-Fayez",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q22949000"
+    },
+    {
+      "id": "kamel-arekat-q320304",
+      "name": "Kamel Arekat",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6356584"
+    },
+    {
+      "id": "laith-shubeilat-q320304",
+      "name": "Laith Shubeilat",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6474186"
+    },
+    {
+      "id": "tawfiq-kreishan-q320304",
+      "name": "Tawfiq Kreishan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6754063"
+    },
+    {
+      "id": "thuqan-hindawi-q320304",
       "name": "Thuqan hindawi",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jordan",
+      "chamber": "House of Representatives of Jordan",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q6771479"
     },
     {
-      "id": "ya-qub-ziyadin",
-      "name": "Yaʿqūb Ziyādin",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Jordan",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6898352"
-    },
-    {
-      "id": "salah-suheimat",
+      "id": "salah-suheimat-q320304",
       "name": "Salah Suheimat",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jordan",
+      "chamber": "House of Representatives of Jordan",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q7403448"
     },
     {
-      "id": "amin-yunis-al-husseini",
+      "id": "samir-habashneh-q320304",
+      "name": "Samir Habashneh",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7409504"
+    },
+    {
+      "id": "amin-yunis-al-husseini-q320304",
       "name": "Amin Yunis al Husseini",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jordan",
+      "chamber": "House of Representatives of Jordan",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q27825221"
     },
     {
-      "id": "sa-id-al-mufti",
+      "id": "ishaq-al-farhan-q320304",
+      "name": "Ishaq Al-Farhan",
+      "sitting": true,
+      "party_id": "islamic-action-front",
+      "caucus": "Islamic Action Front",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12182175"
+    },
+    {
+      "id": "sa-id-al-mufti-q320304",
       "name": "Sa`id al-Mufti",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jordan",
+      "chamber": "House of Representatives of Jordan",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q979812"
     },
     {
-      "id": "hamadah-fara-inah",
+      "id": "hussein-mjalli-q320304",
+      "name": "Hussein Mjalli",
+      "sitting": true,
+      "party_id": "ba-ath-party",
+      "caucus": "Ba'ath Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12208238"
+    },
+    {
+      "id": "ya-qub-ziyadin-q320304",
+      "name": "Yaʿqūb Ziyādin",
+      "sitting": true,
+      "party_id": "jordanian-communist-party",
+      "caucus": "Jordanian Communist Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6898352"
+    },
+    {
+      "id": "ibrahim-zeid-keilani-q320304",
+      "name": "Ibrahim Zeid Keilani",
+      "sitting": true,
+      "party_id": "islamic-action-front",
+      "caucus": "Islamic Action Front",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12201138"
+    },
+    {
+      "id": "abu-zant-q320304",
+      "name": "Abu Zant",
+      "sitting": true,
+      "party_id": "islamic-action-front",
+      "caucus": "Islamic Action Front",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12223840"
+    },
+    {
+      "id": "hamadah-fara-inah-q320304",
       "name": "Ḥamādah Farāʻinah",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jordan",
+      "chamber": "House of Representatives of Jordan",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q12208664"
     },
     {
-      "id": "mohammad-daoudiyeh",
+      "id": "yahia-al-saud-q320304",
+      "name": "Yahia Al-Saud",
+      "sitting": true,
+      "party_id": "muslim-centre-party",
+      "caucus": "Muslim Centre Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q101110495"
+    },
+    {
+      "id": "mohammad-daoudiyeh-q320304",
       "name": "Mohammad Daoudiyeh",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jordan",
+      "chamber": "House of Representatives of Jordan",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q100783566"
     },
     {
-      "id": "abdullah-ensour",
+      "id": "abdullah-ensour-q320304",
       "name": "Abdullah Ensour",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jordan",
+      "chamber": "House of Representatives of Jordan",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q34426"
     },
     {
-      "id": "mahmoud-al-rousan",
+      "id": "hazza-al-majali-q320304",
+      "name": "Hazza' al-Majali",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4166555"
+    },
+    {
+      "id": "abdullah-rimawi-q320304",
+      "name": "Abdullah Rimawi",
+      "sitting": true,
+      "party_id": "ba-ath-party",
+      "caucus": "Ba'ath Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q307623"
+    },
+    {
+      "id": "dima-tahboub-q320304",
+      "name": "Dima Tahboub",
+      "sitting": true,
+      "party_id": "islamic-action-front",
+      "caucus": "Islamic Action Front",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18193426"
+    },
+    {
+      "id": "mahmoud-al-rousan-q320304",
       "name": "Mahmoud al-Rousan",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Jordan",
+      "chamber": "House of Representatives of Jordan",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q74649103"
+    },
+    {
+      "id": "falah-hanun-q320304",
+      "name": "Falah Hanun",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116242125"
+    },
+    {
+      "id": "mariam-losi-q320304",
+      "name": "Mariam Losi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Jordan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116729657"
     }
   ]
 }

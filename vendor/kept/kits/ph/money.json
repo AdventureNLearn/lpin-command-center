@@ -1,13 +1,7 @@
 {
   "iso2": "ph",
-  "named_donors": false,
-  "buckets": [],
-  "unit": null,
-  "sitting_total_reconstructed": null,
+  "items": [],
   "incomplete": true,
-  "source_url": "https://www.comelec.gov.ph/html-tpls/2025NLE/Statistics.html",
-  "dbm_url": "https://www.dbm.gov.ph/wp-content/uploads/GAA/GAA2026/VolumeIA/CONGRESS/CONGRESS.pdf",
-  "psa_url": "https://psa.gov.ph/",
-  "note": "Second pass: no sitting-only occupation aggregate and no public party/chamber subsidy total after examining COMELEC html-tpls, DBM GAA/NEP Congress PDFs, and PSA. COMELEC html-tpls/2025NLE/Statistics.html HTTP 200 lists registered-voter, turnout, seats, and candidates-by-sex files — not a sitting House occupation census. COMELEC html-tpls/2025NLE/2025NLE_SOCE.html HTTP 200 is a named Senator / party-list / political-party SOCE filing index plus contributor-acceptance forms; named private donors and named filers were not collected. TRABAHO on that page is a party-list name, not an occupation table. COMELEC expenditure-limit and prohibited-sources pages are legal caps / bans, not received-peso totals, and were not stored. DBM GAA FY 2026 Volume I-A CONGRESS.pdf HTTP 200 (1103490 bytes, pdf_chars=13); NEP2026/CONGRESS.pdf HTTP 200 pdf_chars=114167. Chamber operating-budget / staffing chapters are institutional, not sitting-campaign occupation or an enacted public party-subsidy table, and were not stored as kit pesos. PSA (403) and openstat.psa.gov.ph (403) returned Cloudflare 403 from this host; no sitting-House occupation yearbook was retrieved. data.gov.ph home is an SPA stub without a sitting-House occupation package. Unenacted bills proposing a State Subsidy Fund were not treated as enacted public-finance totals. SALN names were not summed into invented pesos. Named private donors not collected. Existing money.json buckets were empty; nothing official to merge. Occupation / public-finance buckets left empty.",
-  "retrieved": "2026-08-20"
+  "retrieved": "2026-09-06",
+  "note": "No sourced money for this ISO. Not invented."
 }

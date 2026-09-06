@@ -3,11 +3,41 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q897278",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 21,
+  "incomplete": true,
+  "claimed_seats": 16,
+  "chambers": [
+    "Member of the Parliament of Tuvalu",
+    "Parliament of Tuvalu"
+  ],
   "items": [
     {
-      "id": "sione-tui-kleis",
+      "id": "seve-paeniu-q897278",
+      "name": "Seve Paeniu",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "Nukulaelae",
+      "chamber": "Parliament of Tuvalu",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7457133"
+    },
+    {
+      "id": "samuelu-teo-q897278",
+      "name": "Samuelu Teo",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "Niutao",
+      "chamber": "Parliament of Tuvalu",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q21062794"
+    },
+    {
+      "id": "sione-tui-kleis-q897278",
       "name": "Sione Tui Kleis",
       "sitting": true,
       "party_id": "unknown",
@@ -20,20 +50,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q88386716"
     },
     {
-      "id": "samuelu-teo",
-      "name": "Samuelu Teo",
+      "id": "alesana-seluka-q897278",
+      "name": "Alesana Seluka",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Niutao",
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
       "chamber": "Parliament of Tuvalu",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q21062794"
+      "roster_url": "http://www.wikidata.org/entity/Q21062847"
     },
     {
-      "id": "ampelosa-manoa-tehulu",
+      "id": "taom-tanukale-q897278",
+      "name": "Taom Tanukale",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Nui",
+      "chamber": "Parliament of Tuvalu",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7684285"
+    },
+    {
+      "id": "ampelosa-manoa-tehulu-q897278",
       "name": "Ampelosa Manoa Tehulu",
       "sitting": true,
       "party_id": "unknown",
@@ -46,7 +89,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q108805759"
     },
     {
-      "id": "timi-melei",
+      "id": "timi-melei-q897278",
       "name": "Timi Melei",
       "sitting": true,
       "party_id": "unknown",
@@ -59,7 +102,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q108805761"
     },
     {
-      "id": "isaia-vaipuna-taape",
+      "id": "saloa-tauia-q897278",
+      "name": "Saloa Tauia",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Niutao",
+      "chamber": "Parliament of Tuvalu",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108598616"
+    },
+    {
+      "id": "isaia-vaipuna-taape-q897278",
       "name": "Isaia Vaipuna Taape",
       "sitting": true,
       "party_id": "unknown",
@@ -72,7 +128,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q108805787"
     },
     {
-      "id": "nielu-meisake",
+      "id": "nielu-meisake-q897278",
       "name": "Nielu Meisake",
       "sitting": true,
       "party_id": "unknown",
@@ -85,7 +141,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q108805785"
     },
     {
-      "id": "enele-sopoaga",
+      "id": "maatia-toafa-q897278",
+      "name": "Maatia Toafa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Tuvalu",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q287513"
+    },
+    {
+      "id": "enele-sopoaga-q897278",
       "name": "Enele Sopoaga",
       "sitting": true,
       "party_id": "unknown",
@@ -98,7 +167,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q330640"
     },
     {
-      "id": "katepu-laoi",
+      "id": "katepu-laoi-q897278",
       "name": "Katepu Laoi",
       "sitting": true,
       "party_id": "unknown",
@@ -111,46 +180,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q108805768"
     },
     {
-      "id": "leneuoti-matusi",
-      "name": "Leneuoti Matusi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Tuvalu",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q17048835"
-    },
-    {
-      "id": "willy-telavi",
-      "name": "Willy Telavi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Tuvalu",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q561559"
-    },
-    {
-      "id": "puakena-boreham",
-      "name": "Puakena Boreham",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Tuvalu",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19795263"
-    },
-    {
-      "id": "fatoga-talama",
+      "id": "fatoga-talama-q897278",
       "name": "Fatoga Talama",
       "sitting": true,
       "party_id": "unknown",
@@ -163,8 +193,47 @@
       "roster_url": "http://www.wikidata.org/entity/Q108805777"
     },
     {
-      "id": "alesana-seluka",
-      "name": "Alesana Seluka",
+      "id": "elisala-pita-q897278",
+      "name": "Elisala Pita",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "Nukufetau",
+      "chamber": "Parliament of Tuvalu",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15968283"
+    },
+    {
+      "id": "fauoa-maani-q897278",
+      "name": "Fauoa Maani",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "Niutao",
+      "chamber": "Parliament of Tuvalu",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15972515"
+    },
+    {
+      "id": "isaia-italeli-q897278",
+      "name": "Isaia Italeli",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Nui",
+      "chamber": "Parliament of Tuvalu",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6078458"
+    },
+    {
+      "id": "taukelina-finikaso-q897278",
+      "name": "Taukelina Finikaso",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -173,23 +242,10 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q21062847"
+      "roster_url": "http://www.wikidata.org/entity/Q7688699"
     },
     {
-      "id": "kausea-natano",
-      "name": "Kausea Natano",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Tuvalu",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6378927"
-    },
-    {
-      "id": "tavau-teii",
+      "id": "tavau-teii-q897278",
       "name": "Tavau Teii",
       "sitting": true,
       "party_id": "unknown",
@@ -202,7 +258,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q7689043"
     },
     {
-      "id": "namoliki-sualiki",
+      "id": "leneuoti-matusi-q897278",
+      "name": "Leneuoti Matusi",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "Parliament of Tuvalu",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17048835"
+    },
+    {
+      "id": "vete-sakaio-q897278",
+      "name": "Vete Sakaio",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Tuvalu",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7923554"
+    },
+    {
+      "id": "namoliki-sualiki-q897278",
       "name": "Namoliki Sualiki",
       "sitting": true,
       "party_id": "unknown",
@@ -215,7 +297,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q6961984"
     },
     {
-      "id": "monise-laafai",
+      "id": "monise-laafai-q897278",
       "name": "Monise Laafai",
       "sitting": true,
       "party_id": "unknown",
@@ -228,7 +310,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q6900427"
     },
     {
-      "id": "simon-kofe",
+      "id": "puakena-boreham-q897278",
+      "name": "Puakena Boreham",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "Parliament of Tuvalu",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19795263"
+    },
+    {
+      "id": "pelenike-isaia-q897278",
+      "name": "Pelenike Isaia",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Nui",
+      "chamber": "Parliament of Tuvalu",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7161303"
+    },
+    {
+      "id": "simon-kofe-q897278",
       "name": "Simon Kofe",
       "sitting": true,
       "party_id": "unknown",
@@ -241,7 +349,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q67199457"
     },
     {
-      "id": "tuafafa-latasi",
+      "id": "kausea-natano-q897278",
+      "name": "Kausea Natano",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Funafuti",
+      "chamber": "Parliament of Tuvalu",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6378927"
+    },
+    {
+      "id": "tuafafa-latasi-q897278",
       "name": "Tuafafa Latasi",
       "sitting": true,
       "party_id": "unknown",
@@ -254,30 +375,56 @@
       "roster_url": "http://www.wikidata.org/entity/Q124666446"
     },
     {
-      "id": "seve-paeniu",
-      "name": "Seve Paeniu",
+      "id": "minute-alapati-taupo-q897278",
+      "name": "Minute Alapati Taupo",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
-      "constituency_label": "Nukulaelae",
+      "constituency_label": "Nanumanga",
       "chamber": "Parliament of Tuvalu",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q7457133"
+      "roster_url": "http://www.wikidata.org/entity/Q85895228"
     },
     {
-      "id": "mackenzie-kiritome",
+      "id": "mackenzie-kiritome-q897278",
       "name": "Mackenzie Kiritome",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
       "constituency_label": "Nui",
       "chamber": "Parliament of Tuvalu",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q21062795"
+    },
+    {
+      "id": "satini-manuella-q897278",
+      "name": "Satini Manuella",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "Parliament of Tuvalu",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18355480"
+    },
+    {
+      "id": "willy-telavi-q897278",
+      "name": "Willy Telavi",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "Parliament of Tuvalu",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q561559"
     }
   ]
 }

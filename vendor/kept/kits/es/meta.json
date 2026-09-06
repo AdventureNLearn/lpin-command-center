@@ -2,10 +2,10 @@
   "iso2": "es",
   "name": "Spain",
   "region": "europe",
-  "chamber": "Congreso de los Diputados",
-  "houses": "",
+  "chamber": "Cortes Generales",
+  "houses": "bicameral",
   "system": "",
-  "seats": 350,
+  "seats": 616,
   "election": "",
   "session": "XV Legislatura (2023–)",
   "kit": "map",
@@ -17,10 +17,11 @@
   "counts": {
     "members": 350,
     "sitting": 350,
-    "votes": 470,
+    "votes": 1968,
     "committees": 50,
     "key_votes": 470,
-    "sourced_quotes": 2
+    "sourced_quotes": 2,
+    "pledged": 2
   },
   "capabilities": [
     "members",
@@ -39,7 +40,7 @@
   "lane": "gold-kit-8103",
   "source_live": null,
   "note": "ES honest-complete 2026-08-21 FIRE Lead Oceania. Pledges 2 leftover hunt-stop (0 new owner-matched first-person https). votes.json.apply-tmp skipped (27854069 B, 2026-08-21 1:40 AM ET — do not fight). Votes/pledges/members not rewritten. named_donors false. Honest incomplete.",
-  "roster_source": "https://www.congreso.es/webpublica/opendata/diputados/DiputadosActivos__20260820050006.json",
+  "roster_source": "https://www.wikidata.org/wiki/Q219692",
   "named_donors": false,
   "honest_complete": true
 }

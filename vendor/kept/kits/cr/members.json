@@ -3,63 +3,80 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1386962",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 30,
+  "incomplete": true,
+  "claimed_seats": 57,
+  "chambers": [
+    "Member of the Legislative Assembly of Costa Rica",
+    "Legislative Assembly of Costa Rica"
+  ],
   "items": [
     {
-      "id": "carolina-hidalgo-herrera",
-      "name": "Carolina Hidalgo Herrera",
+      "id": "carmen-irene-chan-mora-q1386962",
+      "name": "Carmen Irene Chan Mora",
       "sitting": true,
-      "party_id": "citizens-action-party",
-      "caucus": "Citizens' Action Party",
-      "constituency_label": "Alajuela",
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Puntarenas",
       "chamber": "Legislative Assembly of Costa Rica",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q52768193"
+      "roster_url": "http://www.wikidata.org/entity/Q55399796"
     },
     {
-      "id": "stephan-brunner",
-      "name": "Stephan Brunner",
+      "id": "eduardo-cruickshank-q1386962",
+      "name": "Eduardo Cruickshank",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
+      "constituency_label": "",
+      "chamber": "Legislative Assembly of Costa Rica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q96104614"
+    },
+    {
+      "id": "fabricio-alvarado-munoz-q1386962",
+      "name": "Fabricio Alvarado Muñoz",
+      "sitting": true,
+      "party_id": "new-republic-party",
+      "caucus": "New Republic Party",
       "constituency_label": "San José Province",
       "chamber": "Legislative Assembly of Costa Rica",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q111677386"
+      "roster_url": "http://www.wikidata.org/entity/Q42685517"
     },
     {
-      "id": "laura-guido-perez",
-      "name": "Laura Guido Pérez",
+      "id": "alberto-salom-echeverria-q1386962",
+      "name": "Alberto Salom Echeverría",
       "sitting": true,
       "party_id": "citizens-action-party",
       "caucus": "Citizens' Action Party",
-      "constituency_label": "Cartago Province",
+      "constituency_label": "",
       "chamber": "Legislative Assembly of Costa Rica",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q90865537"
+      "roster_url": "http://www.wikidata.org/entity/Q4712195"
     },
     {
-      "id": "claudia-dobles-camargo",
-      "name": "Claudia Dobles Camargo",
+      "id": "daniel-siezar-cardenas-q1386962",
+      "name": "Daniel Siezar Cárdenas",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "San José Province",
+      "party_id": "sovereign-people-s-party",
+      "caucus": "Sovereign People's Party",
+      "constituency_label": "Guanacaste Province",
       "chamber": "Legislative Assembly of Costa Rica",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q51544231"
+      "roster_url": "http://www.wikidata.org/entity/Q139618221"
     },
     {
-      "id": "pilar-cisneros",
+      "id": "pilar-cisneros-q1386962",
       "name": "Pilar Cisneros",
       "sitting": true,
       "party_id": "unknown",
@@ -72,111 +89,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q12199913"
     },
     {
-      "id": "royner-mora-ruiz",
-      "name": "Royner Mora Ruiz",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Puntarenas Province",
-      "chamber": "Legislative Assembly of Costa Rica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q139596560"
-    },
-    {
-      "id": "juan-manuel-quesada",
-      "name": "Juan Manuel Quesada",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Heredia Province",
-      "chamber": "Legislative Assembly of Costa Rica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q139597073"
-    },
-    {
-      "id": "yara-jimenez-fallas",
-      "name": "Yara Jiménez Fallas",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Cartago Province",
-      "chamber": "Legislative Assembly of Costa Rica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q139603305"
-    },
-    {
-      "id": "daniel-siezar-cardenas",
-      "name": "Daniel Siezar Cárdenas",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Guanacaste Province",
-      "chamber": "Legislative Assembly of Costa Rica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q139618221"
-    },
-    {
-      "id": "osvaldo-artavia-carballo",
-      "name": "Osvaldo Artavia Carballo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Limón Province",
-      "chamber": "Legislative Assembly of Costa Rica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q139597237"
-    },
-    {
-      "id": "mayuli-ortega-guzman",
-      "name": "Mayuli Ortega Guzmán",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "San José Province",
-      "chamber": "Legislative Assembly of Costa Rica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q139603373"
-    },
-    {
-      "id": "abril-gordienko-lopez",
-      "name": "Abril Gordienko López",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "San José Province",
-      "chamber": "Legislative Assembly of Costa Rica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q139603695"
-    },
-    {
-      "id": "alvaro-ramirez-bogantes",
-      "name": "Álvaro Ramírez Bogantes",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "San José Province",
-      "chamber": "Legislative Assembly of Costa Rica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q139603809"
-    },
-    {
-      "id": "vianey-mora-vega",
+      "id": "vianey-mora-vega-q1386962",
       "name": "Vianey Mora Vega",
       "sitting": true,
       "party_id": "unknown",
@@ -189,7 +102,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q139605001"
     },
     {
-      "id": "jose-maria-villalta-florez-estrada",
+      "id": "jose-maria-villalta-florez-estrada-q1386962",
       "name": "José María Villalta Flórez-Estrada",
       "sitting": true,
       "party_id": "broad-front",
@@ -202,7 +115,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q5943676"
     },
     {
-      "id": "maureen-clarke",
+      "id": "carolina-hidalgo-herrera-q1386962",
+      "name": "Carolina Hidalgo Herrera",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Alajuela",
+      "chamber": "Legislative Assembly of Costa Rica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q52768193"
+    },
+    {
+      "id": "maureen-clarke-q1386962",
       "name": "Maureen Clarke",
       "sitting": true,
       "party_id": "unknown",
@@ -215,7 +141,85 @@
       "roster_url": "http://www.wikidata.org/entity/Q21005391"
     },
     {
-      "id": "gonzalo-ramirez-zamora",
+      "id": "nayuribe-guadamuz-rosales-q1386962",
+      "name": "Nayuribe Guadamuz Rosales",
+      "sitting": true,
+      "party_id": "sovereign-people-s-party",
+      "caucus": "Sovereign People's Party",
+      "constituency_label": "Guanacaste Province",
+      "chamber": "Legislative Assembly of Costa Rica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q114705154"
+    },
+    {
+      "id": "marta-esquivel-rodriguez-q1386962",
+      "name": "Marta Esquivel Rodríguez",
+      "sitting": true,
+      "party_id": "sovereign-people-s-party",
+      "caucus": "Sovereign People's Party",
+      "constituency_label": "Heredia Province",
+      "chamber": "Legislative Assembly of Costa Rica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q114705153"
+    },
+    {
+      "id": "stephan-brunner-q1386962",
+      "name": "Stephan Brunner",
+      "sitting": true,
+      "party_id": "social-democratic-progress-party",
+      "caucus": "Social Democratic Progress Party",
+      "constituency_label": "San José Province",
+      "chamber": "Legislative Assembly of Costa Rica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q111677386"
+    },
+    {
+      "id": "nogui-acosta-jaen-q1386962",
+      "name": "Nogui Acosta Jaén",
+      "sitting": true,
+      "party_id": "sovereign-people-s-party",
+      "caucus": "Sovereign People's Party",
+      "constituency_label": "San José Province",
+      "chamber": "Legislative Assembly of Costa Rica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q114705155"
+    },
+    {
+      "id": "rodrigo-arias-sanchez-q1386962",
+      "name": "Rodrigo Arias Sánchez",
+      "sitting": true,
+      "party_id": "national-liberation-party",
+      "caucus": "National Liberation Party",
+      "constituency_label": "",
+      "chamber": "Legislative Assembly of Costa Rica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6110636"
+    },
+    {
+      "id": "sonia-picado-sotela-q1386962",
+      "name": "Sonia Picado Sotela",
+      "sitting": true,
+      "party_id": "national-liberation-party",
+      "caucus": "National Liberation Party",
+      "constituency_label": "",
+      "chamber": "Legislative Assembly of Costa Rica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q374783"
+    },
+    {
+      "id": "gonzalo-ramirez-zamora-q1386962",
       "name": "Gonzalo Ramírez Zamora",
       "sitting": true,
       "party_id": "unknown",
@@ -228,24 +232,24 @@
       "roster_url": "http://www.wikidata.org/entity/Q113970809"
     },
     {
-      "id": "pablo-heriberto-abarca-mora",
-      "name": "Pablo Heriberto Abarca Mora",
+      "id": "silvia-hernandez-sanchez-q1386962",
+      "name": "Silvia Hernández Sánchez",
       "sitting": true,
-      "party_id": "social-christian-unity-party",
-      "caucus": "Social Christian Unity Party",
-      "constituency_label": "Cartago",
+      "party_id": "national-liberation-party",
+      "caucus": "National Liberation Party",
+      "constituency_label": "San José Province",
       "chamber": "Legislative Assembly of Costa Rica",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q55399797"
+      "roster_url": "http://www.wikidata.org/entity/Q90961464"
     },
     {
-      "id": "edgardo-araya-sibaja",
+      "id": "edgardo-araya-sibaja-q1386962",
       "name": "Edgardo Araya Sibaja",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "broad-front",
+      "caucus": "Broad Front",
       "constituency_label": "Alajuela Province",
       "chamber": "Legislative Assembly of Costa Rica",
       "lang": [
@@ -254,24 +258,50 @@
       "roster_url": "http://www.wikidata.org/entity/Q17629697"
     },
     {
-      "id": "wagner-alberto-jimenez-zuniga",
-      "name": "Wagner Alberto Jiménez Zúñiga",
+      "id": "jose-miguel-villalobos-umana-q1386962",
+      "name": "José Miguel Villalobos Umaña",
       "sitting": true,
-      "party_id": "national-liberation-party",
-      "caucus": "National Liberation Party",
+      "party_id": "sovereign-people-s-party",
+      "caucus": "Sovereign People's Party",
+      "constituency_label": "Alajuela Province",
+      "chamber": "Legislative Assembly of Costa Rica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28501767"
+    },
+    {
+      "id": "abril-gordienko-lopez-q1386962",
+      "name": "Abril Gordienko López",
+      "sitting": true,
+      "party_id": "social-christian-unity-party",
+      "caucus": "Social Christian Unity Party",
+      "constituency_label": "San José Province",
+      "chamber": "Legislative Assembly of Costa Rica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q139603695"
+    },
+    {
+      "id": "ana-rosa-chacon-q1386962",
+      "name": "Ana Rosa Chacón",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
       "constituency_label": "San José",
       "chamber": "Legislative Assembly of Costa Rica",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q55399795"
+      "roster_url": "http://www.wikidata.org/entity/Q20810623"
     },
     {
-      "id": "luis-ramon-carranza-cascante",
+      "id": "luis-ramon-carranza-cascante-q1386962",
       "name": "Luis Ramón Carranza Cascante",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "citizens-action-party",
+      "caucus": "Citizens' Action Party",
       "constituency_label": "Alajuela Province",
       "chamber": "Legislative Assembly of Costa Rica",
       "lang": [
@@ -280,7 +310,124 @@
       "roster_url": "http://www.wikidata.org/entity/Q90925743"
     },
     {
-      "id": "nielsen-perez",
+      "id": "karen-olsen-beck-q1386962",
+      "name": "Karen Olsen Beck",
+      "sitting": true,
+      "party_id": "national-liberation-party",
+      "caucus": "National Liberation Party",
+      "constituency_label": "",
+      "chamber": "Legislative Assembly of Costa Rica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6369927"
+    },
+    {
+      "id": "epsy-campbell-barr-q1386962",
+      "name": "Epsy Campbell Barr",
+      "sitting": true,
+      "party_id": "citizens-action-party",
+      "caucus": "Citizens' Action Party",
+      "constituency_label": "",
+      "chamber": "Legislative Assembly of Costa Rica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5384033"
+    },
+    {
+      "id": "natalia-diaz-quintana-q1386962",
+      "name": "Natalia Díaz Quintana",
+      "sitting": true,
+      "party_id": "libertarian-movement",
+      "caucus": "Libertarian Movement",
+      "constituency_label": "",
+      "chamber": "Legislative Assembly of Costa Rica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28501930"
+    },
+    {
+      "id": "claudia-dobles-camargo-q1386962",
+      "name": "Claudia Dobles Camargo",
+      "sitting": true,
+      "party_id": "citizens-action-party",
+      "caucus": "Citizens' Action Party",
+      "constituency_label": "San José Province",
+      "chamber": "Legislative Assembly of Costa Rica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q51544231"
+    },
+    {
+      "id": "laura-guido-perez-q1386962",
+      "name": "Laura Guido Pérez",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Cartago Province",
+      "chamber": "Legislative Assembly of Costa Rica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q90865537"
+    },
+    {
+      "id": "rosaura-mendez-gamboa-q1386962",
+      "name": "Rosaura Méndez Gamboa",
+      "sitting": true,
+      "party_id": "national-liberation-party",
+      "caucus": "National Liberation Party",
+      "constituency_label": "",
+      "chamber": "Legislative Assembly of Costa Rica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q111737884"
+    },
+    {
+      "id": "royner-mora-ruiz-q1386962",
+      "name": "Royner Mora Ruiz",
+      "sitting": true,
+      "party_id": "sovereign-people-s-party",
+      "caucus": "Sovereign People's Party",
+      "constituency_label": "Puntarenas Province",
+      "chamber": "Legislative Assembly of Costa Rica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q139596560"
+    },
+    {
+      "id": "carlos-ricardo-benavides-jimenez-q1386962",
+      "name": "Carlos Ricardo Benavides Jiménez",
+      "sitting": true,
+      "party_id": "national-liberation-party",
+      "caucus": "National Liberation Party",
+      "constituency_label": "",
+      "chamber": "Legislative Assembly of Costa Rica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q54848004"
+    },
+    {
+      "id": "juan-manuel-quesada-q1386962",
+      "name": "Juan Manuel Quesada",
+      "sitting": true,
+      "party_id": "sovereign-people-s-party",
+      "caucus": "Sovereign People's Party",
+      "constituency_label": "Heredia Province",
+      "chamber": "Legislative Assembly of Costa Rica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q139597073"
+    },
+    {
+      "id": "nielsen-perez-q1386962",
       "name": "Nielsen Pérez",
       "sitting": true,
       "party_id": "citizens-action-party",
@@ -293,59 +440,85 @@
       "roster_url": "http://www.wikidata.org/entity/Q90622265"
     },
     {
-      "id": "rosaura-mendez-gamboa",
-      "name": "Rosaura Méndez Gamboa",
+      "id": "alvaro-ramirez-bogantes-q1386962",
+      "name": "Álvaro Ramírez Bogantes",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "national-liberation-party",
+      "caucus": "National Liberation Party",
+      "constituency_label": "San José Province",
+      "chamber": "Legislative Assembly of Costa Rica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q139603809"
+    },
+    {
+      "id": "osvaldo-artavia-carballo-q1386962",
+      "name": "Osvaldo Artavia Carballo",
+      "sitting": true,
+      "party_id": "sovereign-people-s-party",
+      "caucus": "Sovereign People's Party",
+      "constituency_label": "Limón Province",
+      "chamber": "Legislative Assembly of Costa Rica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q139597237"
+    },
+    {
+      "id": "ana-helena-chacon-q1386962",
+      "name": "Ana Helena Chacón",
+      "sitting": true,
+      "party_id": "citizens-action-party",
+      "caucus": "Citizens' Action Party",
       "constituency_label": "",
       "chamber": "Legislative Assembly of Costa Rica",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q111737884"
+      "roster_url": "http://www.wikidata.org/entity/Q15980311"
     },
     {
-      "id": "nayuribe-guadamuz-rosales",
-      "name": "Nayuribe Guadamuz Rosales",
+      "id": "yara-jimenez-fallas-q1386962",
+      "name": "Yara Jiménez Fallas",
+      "sitting": true,
+      "party_id": "sovereign-people-s-party",
+      "caucus": "Sovereign People's Party",
+      "constituency_label": "Cartago Province",
+      "chamber": "Legislative Assembly of Costa Rica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q139603305"
+    },
+    {
+      "id": "wagner-alberto-jimenez-zuniga-q1386962",
+      "name": "Wagner Alberto Jiménez Zúñiga",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
-      "constituency_label": "Guanacaste Province",
+      "constituency_label": "San José",
       "chamber": "Legislative Assembly of Costa Rica",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q114705154"
+      "roster_url": "http://www.wikidata.org/entity/Q55399795"
     },
     {
-      "id": "carmen-irene-chan-mora",
-      "name": "Carmen Irene Chan Mora",
-      "sitting": true,
-      "party_id": "national-restoration-party",
-      "caucus": "National Restoration Party",
-      "constituency_label": "Puntarenas",
-      "chamber": "Legislative Assembly of Costa Rica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q55399796"
-    },
-    {
-      "id": "jose-miguel-villalobos-umana",
-      "name": "José Miguel Villalobos Umaña",
+      "id": "pablo-heriberto-abarca-mora-q1386962",
+      "name": "Pablo Heriberto Abarca Mora",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
-      "constituency_label": "Alajuela Province",
+      "constituency_label": "Cartago",
       "chamber": "Legislative Assembly of Costa Rica",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q28501767"
+      "roster_url": "http://www.wikidata.org/entity/Q55399797"
     },
     {
-      "id": "kattia-rivera-soto",
+      "id": "kattia-rivera-soto-q1386962",
       "name": "Kattia Rivera Soto",
       "sitting": true,
       "party_id": "unknown",
@@ -358,20 +531,46 @@
       "roster_url": "http://www.wikidata.org/entity/Q116784232"
     },
     {
-      "id": "marta-esquivel-rodriguez",
-      "name": "Marta Esquivel Rodríguez",
+      "id": "gloria-bejarano-almada-q1386962",
+      "name": "Gloria Bejarano Almada",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Heredia Province",
+      "party_id": "social-christian-unity-party",
+      "caucus": "Social Christian Unity Party",
+      "constituency_label": "",
       "chamber": "Legislative Assembly of Costa Rica",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q114705153"
+      "roster_url": "http://www.wikidata.org/entity/Q16493361"
     },
     {
-      "id": "anna-katharina-muller-castro",
+      "id": "mayuli-ortega-guzman-q1386962",
+      "name": "Mayuli Ortega Guzmán",
+      "sitting": true,
+      "party_id": "sovereign-people-s-party",
+      "caucus": "Sovereign People's Party",
+      "constituency_label": "San José Province",
+      "chamber": "Legislative Assembly of Costa Rica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q139603373"
+    },
+    {
+      "id": "marcelle-taylor-brown-q1386962",
+      "name": "Marcelle Taylor Brown",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Legislative Assembly of Costa Rica",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q122237938"
+    },
+    {
+      "id": "anna-katharina-muller-castro-q1386962",
       "name": "Anna Katharina Müller Castro",
       "sitting": true,
       "party_id": "unknown",
@@ -382,19 +581,6 @@
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q114705136"
-    },
-    {
-      "id": "nogui-acosta-jaen",
-      "name": "Nogui Acosta Jaén",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "San José Province",
-      "chamber": "Legislative Assembly of Costa Rica",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q114705155"
     }
   ]
 }

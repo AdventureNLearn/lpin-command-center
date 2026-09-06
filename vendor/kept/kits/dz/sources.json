@@ -3,8 +3,53 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q3142337"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q3142337",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q633590",
+      "label": "People's National Assembly",
+      "url": "http://www.apn.dz",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q633590",
+      "label": "People's National Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q633590",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q2119509",
+      "label": "Council of the Nation",
+      "url": "http://www.majliselouma.dz/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q2119509",
+      "label": "Council of the Nation (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q2119509",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q3142337",
+      "label": "Parliament of Algeria",
+      "url": "http://www.apn-dz.org",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q3142337",
+      "label": "Parliament of Algeria (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q3142337",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

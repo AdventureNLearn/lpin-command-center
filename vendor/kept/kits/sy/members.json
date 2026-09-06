@@ -3,37 +3,28 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1372196",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 34,
+  "incomplete": true,
+  "claimed_seats": 210,
+  "chambers": [
+    "Member of the People's Council of Syria",
+    "People's Assembly of Syria"
+  ],
   "items": [
     {
-      "id": "ali-haidar",
-      "name": "Ali Haidar",
+      "id": "khalid-bakdash-q1372196",
+      "name": "Khalid Bakdash",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "syrian-communist-party",
+      "caucus": "Syrian Communist Party",
       "constituency_label": "",
       "chamber": "People's Assembly of Syria",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q2646694"
+      "roster_url": "http://www.wikidata.org/entity/Q968674"
     },
     {
-      "id": "ibrahim-hananu",
-      "name": "Ibrahim Hananu",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "People's Assembly of Syria",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1337578"
-    },
-    {
-      "id": "husni-al-barazi",
+      "id": "husni-al-barazi-q1372196",
       "name": "Husni al-Barazi",
       "sitting": true,
       "party_id": "unknown",
@@ -46,33 +37,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q1352670"
     },
     {
-      "id": "riad-seif",
-      "name": "Riad Seif",
+      "id": "maher-hajjar-q1372196",
+      "name": "Maher Hajjar",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "syrian-communist-party",
+      "caucus": "Syrian Communist Party",
       "constituency_label": "",
       "chamber": "People's Assembly of Syria",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q169507"
+      "roster_url": "http://www.wikidata.org/entity/Q16751558"
     },
     {
-      "id": "mustafa-al-siba-i",
-      "name": "Mustafa al-Siba'i",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "People's Assembly of Syria",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1675962"
-    },
-    {
-      "id": "haqqi-al-azm",
+      "id": "haqqi-al-azm-q1372196",
       "name": "Haqqi al-Azm",
       "sitting": true,
       "party_id": "unknown",
@@ -85,33 +63,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q1710259"
     },
     {
-      "id": "jamil-mardam-bey",
-      "name": "Jamil Mardam Bey",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "People's Assembly of Syria",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1710270"
-    },
-    {
-      "id": "sabri-al-asali",
-      "name": "Sabri al-Asali",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "People's Assembly of Syria",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1751022"
-    },
-    {
-      "id": "khalid-al-abboud",
+      "id": "khalid-al-abboud-q1372196",
       "name": "Khalid al-Abboud",
       "sitting": true,
       "party_id": "unknown",
@@ -124,7 +76,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q12209939"
     },
     {
-      "id": "yusuf-al-sa-dun",
+      "id": "zuhair-ramadan-q1372196",
+      "name": "Zuhair Ramadan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "People's Assembly of Syria",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12214743"
+    },
+    {
+      "id": "shakir-al-fahham-q1372196",
+      "name": "Shakir al-Fahham",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "People's Assembly of Syria",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12218178"
+    },
+    {
+      "id": "yusuf-al-sa-dun-q1372196",
       "name": "Yusuf al-Sa'dun",
       "sitting": true,
       "party_id": "unknown",
@@ -137,20 +115,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q12252042"
     },
     {
-      "id": "qadri-jamil",
-      "name": "Qadri Jamil",
+      "id": "badawi-al-jabal-q1372196",
+      "name": "Badawi al-Jabal",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "national-party",
+      "caucus": "National Party",
       "constituency_label": "",
       "chamber": "People's Assembly of Syria",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q2121339"
+      "roster_url": "http://www.wikidata.org/entity/Q4840646"
     },
     {
-      "id": "salman-al-murshid",
+      "id": "salman-al-murshid-q1372196",
       "name": "Salman al-Murshid",
       "sitting": true,
       "party_id": "unknown",
@@ -163,7 +141,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q2364272"
     },
     {
-      "id": "adil-arslan",
+      "id": "adil-arslan-q1372196",
       "name": "ʿĀdil Arslān",
       "sitting": true,
       "party_id": "unknown",
@@ -176,7 +154,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q2652028"
     },
     {
-      "id": "jamil-al-assad",
+      "id": "jamil-al-assad-q1372196",
       "name": "Jamil al-Assad",
       "sitting": true,
       "party_id": "unknown",
@@ -189,7 +167,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q3302790"
     },
     {
-      "id": "khalid-al-azm",
+      "id": "khalid-al-azm-q1372196",
       "name": "Khalid al-Azm",
       "sitting": true,
       "party_id": "unknown",
@@ -202,20 +180,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q403528"
     },
     {
-      "id": "wasfi-al-atassi",
-      "name": "Wasfi al-Atassi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "People's Assembly of Syria",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q15982160"
-    },
-    {
-      "id": "suleyman-haddad",
+      "id": "suleyman-haddad-q1372196",
       "name": "Suleyman Haddad",
       "sitting": true,
       "party_id": "unknown",
@@ -228,7 +193,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q16294868"
     },
     {
-      "id": "khalil-al-rifaei",
+      "id": "khalil-al-rifaei-q1372196",
       "name": "Khalil al-Rifaei",
       "sitting": true,
       "party_id": "unknown",
@@ -241,7 +206,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q16735226"
     },
     {
-      "id": "daham-ben-al-hadi-ben-al-assi-al-jarba",
+      "id": "hassan-al-nouri-q1372196",
+      "name": "Hassan al-Nouri",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "People's Assembly of Syria",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16751286"
+    },
+    {
+      "id": "daham-ben-al-hadi-ben-al-assi-al-jarba-q1372196",
       "name": "Daham ben al-Hadi ben al-Assi al-Jarba",
       "sitting": true,
       "party_id": "unknown",
@@ -254,59 +232,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q17344738"
     },
     {
-      "id": "lutfi-al-haffar",
-      "name": "Lutfi al-Haffar",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "People's Assembly of Syria",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4405212"
-    },
-    {
-      "id": "zaki-khatib",
-      "name": "Zaki Khatib",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "People's Assembly of Syria",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4496525"
-    },
-    {
-      "id": "badawi-al-jabal",
-      "name": "Badawi al-Jabal",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "People's Assembly of Syria",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4840646"
-    },
-    {
-      "id": "diab-al-mashi",
-      "name": "Diab al-Mashi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "People's Assembly of Syria",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5270095"
-    },
-    {
-      "id": "fawzi-al-ghazzi",
+      "id": "fawzi-al-ghazzi-q1372196",
       "name": "Fawzi al-Ghazzi",
       "sitting": true,
       "party_id": "unknown",
@@ -319,7 +245,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q5438830"
     },
     {
-      "id": "aram-karamanoukian",
+      "id": "aram-karamanoukian-q1372196",
       "name": "Aram Karamanoukian",
       "sitting": true,
       "party_id": "unknown",
@@ -332,11 +258,24 @@
       "roster_url": "http://www.wikidata.org/entity/Q20900401"
     },
     {
-      "id": "munir-ajlani",
-      "name": "Munīr ʿAjlānī",
+      "id": "mohammad-nidal-al-shaar-q1372196",
+      "name": "Mohammad Nidal al-Shaar",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
+      "constituency_label": "",
+      "chamber": "People's Assembly of Syria",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6892259"
+    },
+    {
+      "id": "munir-ajlani-q1372196",
+      "name": "Munīr ʿAjlānī",
+      "sitting": true,
+      "party_id": "national-bloc",
+      "caucus": "National Bloc",
       "constituency_label": "",
       "chamber": "People's Assembly of Syria",
       "lang": [
@@ -345,8 +284,8 @@
       "roster_url": "http://www.wikidata.org/entity/Q6936668"
     },
     {
-      "id": "khalid-bakdash",
-      "name": "Khalid Bakdash",
+      "id": "sabah-fakhri-q1372196",
+      "name": "Sabah Fakhri",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -355,10 +294,10 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q968674"
+      "roster_url": "http://www.wikidata.org/entity/Q984486"
     },
     {
-      "id": "nabil-al-tawil",
+      "id": "nabil-al-tawil-q1372196",
       "name": "Nabīl al-Ṭawīl",
       "sitting": true,
       "party_id": "unknown",
@@ -371,7 +310,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q137117854"
     },
     {
-      "id": "ahmad-kaftaru",
+      "id": "ahmad-kaftaru-q1372196",
       "name": "Aḥmad Kaftārū",
       "sitting": true,
       "party_id": "unknown",
@@ -384,7 +323,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q324491"
     },
     {
-      "id": "najah-saati",
+      "id": "najah-saati-q1372196",
       "name": "Najah Saati",
       "sitting": true,
       "party_id": "unknown",
@@ -397,7 +336,98 @@
       "roster_url": "http://www.wikidata.org/entity/Q54861320"
     },
     {
-      "id": "bishr-riyad-yazigi",
+      "id": "ali-haidar-q1372196",
+      "name": "Ali Haidar",
+      "sitting": true,
+      "party_id": "syrian-social-nationalist-party",
+      "caucus": "Syrian Social Nationalist Party",
+      "constituency_label": "",
+      "chamber": "People's Assembly of Syria",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2646694"
+    },
+    {
+      "id": "diab-al-mashi-q1372196",
+      "name": "Diab al-Mashi",
+      "sitting": true,
+      "party_id": "people-s-party",
+      "caucus": "People's Party",
+      "constituency_label": "",
+      "chamber": "People's Assembly of Syria",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5270095"
+    },
+    {
+      "id": "ammar-saati-q1372196",
+      "name": "Ammar Saati",
+      "sitting": true,
+      "party_id": "arab-socialist-ba-ath-party-syria-region",
+      "caucus": "Arab Socialist Ba'ath Party – Syria Region",
+      "constituency_label": "",
+      "chamber": "People's Assembly of Syria",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q126963795"
+    },
+    {
+      "id": "riad-seif-q1372196",
+      "name": "Riad Seif",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "People's Assembly of Syria",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q169507"
+    },
+    {
+      "id": "radwan-al-habib-q1372196",
+      "name": "Radwan al-Habib",
+      "sitting": true,
+      "party_id": "ba-ath-party",
+      "caucus": "Ba'ath Party",
+      "constituency_label": "",
+      "chamber": "People's Assembly of Syria",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7281785"
+    },
+    {
+      "id": "ibrahim-hananu-q1372196",
+      "name": "Ibrahim Hananu",
+      "sitting": true,
+      "party_id": "national-bloc",
+      "caucus": "National Bloc",
+      "constituency_label": "",
+      "chamber": "People's Assembly of Syria",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1337578"
+    },
+    {
+      "id": "qadri-jamil-q1372196",
+      "name": "Qadri Jamil",
+      "sitting": true,
+      "party_id": "syrian-communist-party",
+      "caucus": "Syrian Communist Party",
+      "constituency_label": "",
+      "chamber": "People's Assembly of Syria",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2121339"
+    },
+    {
+      "id": "bishr-riyad-yazigi-q1372196",
       "name": "Bishr Riyad Yazigi",
       "sitting": true,
       "party_id": "unknown",
@@ -410,20 +440,46 @@
       "roster_url": "http://www.wikidata.org/entity/Q60455275"
     },
     {
-      "id": "najib-al-barazi",
-      "name": "Najib Al Barazi",
+      "id": "mustafa-al-siba-i-q1372196",
+      "name": "Mustafa al-Siba'i",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "muslim-brotherhood-in-syria",
+      "caucus": "Muslim Brotherhood in Syria",
       "constituency_label": "",
       "chamber": "People's Assembly of Syria",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q61743267"
+      "roster_url": "http://www.wikidata.org/entity/Q1675962"
     },
     {
-      "id": "ibtisam-al-samadi",
+      "id": "safwan-al-qudsi-q1372196",
+      "name": "Safwan al-Qudsi",
+      "sitting": true,
+      "party_id": "arab-socialist-union",
+      "caucus": "Arab Socialist Union",
+      "constituency_label": "",
+      "chamber": "People's Assembly of Syria",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7398853"
+    },
+    {
+      "id": "lutfi-al-haffar-q1372196",
+      "name": "Lutfi al-Haffar",
+      "sitting": true,
+      "party_id": "national-bloc",
+      "caucus": "National Bloc",
+      "constituency_label": "",
+      "chamber": "People's Assembly of Syria",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4405212"
+    },
+    {
+      "id": "ibtisam-al-samadi-q1372196",
       "name": "Ibtisam al-Samadi",
       "sitting": true,
       "party_id": "unknown",
@@ -436,7 +492,59 @@
       "roster_url": "http://www.wikidata.org/entity/Q65966862"
     },
     {
-      "id": "maria-saadeh",
+      "id": "wasfi-al-atassi-q1372196",
+      "name": "Wasfi al-Atassi",
+      "sitting": true,
+      "party_id": "national-bloc",
+      "caucus": "National Bloc",
+      "constituency_label": "",
+      "chamber": "People's Assembly of Syria",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15982160"
+    },
+    {
+      "id": "jamil-mardam-bey-q1372196",
+      "name": "Jamil Mardam Bey",
+      "sitting": true,
+      "party_id": "national-bloc",
+      "caucus": "National Bloc",
+      "constituency_label": "",
+      "chamber": "People's Assembly of Syria",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1710270"
+    },
+    {
+      "id": "zaki-khatib-q1372196",
+      "name": "Zaki Khatib",
+      "sitting": true,
+      "party_id": "national-bloc",
+      "caucus": "National Bloc",
+      "constituency_label": "",
+      "chamber": "People's Assembly of Syria",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4496525"
+    },
+    {
+      "id": "najib-al-barazi-q1372196",
+      "name": "Najib Al Barazi",
+      "sitting": true,
+      "party_id": "national-bloc",
+      "caucus": "National Bloc",
+      "constituency_label": "",
+      "chamber": "People's Assembly of Syria",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q61743267"
+    },
+    {
+      "id": "maria-saadeh-q1372196",
       "name": "Maria Saadeh",
       "sitting": true,
       "party_id": "unknown",
@@ -447,6 +555,19 @@
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q79240567"
+    },
+    {
+      "id": "sabri-al-asali-q1372196",
+      "name": "Sabri al-Asali",
+      "sitting": true,
+      "party_id": "national-bloc",
+      "caucus": "National Bloc",
+      "constituency_label": "",
+      "chamber": "People's Assembly of Syria",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1751022"
     }
   ]
 }

@@ -1,0 +1,59 @@
+{
+  "iso2": "bh",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q398",
+  "bodies": [
+    {
+      "qid": "Q3242616",
+      "label": "National Assembly of Bahrain",
+      "seats": 0,
+      "web": "",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q4118178",
+      "label": "Council of Representatives",
+      "seats": 40,
+      "web": "https://www.nuwab.bh/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1334620",
+      "label": "Consultative Council of Bahrain",
+      "seats": 40,
+      "web": "http://www.shura.gov.bh/",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Council of Representatives",
+    "Consultative Council of Bahrain"
+  ],
+  "seats": 80,
+  "items": [
+    {
+      "id": "Q3242616",
+      "name": "National Assembly of Bahrain",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q3242616"
+    },
+    {
+      "id": "Q4118178",
+      "name": "Council of Representatives",
+      "kind": "chamber",
+      "seats": 40,
+      "url": "https://www.nuwab.bh/"
+    },
+    {
+      "id": "Q1334620",
+      "name": "Consultative Council of Bahrain",
+      "kind": "chamber",
+      "seats": 40,
+      "url": "http://www.shura.gov.bh/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

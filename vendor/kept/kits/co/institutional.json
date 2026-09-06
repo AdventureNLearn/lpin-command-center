@@ -1,0 +1,59 @@
+{
+  "iso2": "co",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q739",
+  "bodies": [
+    {
+      "qid": "Q2398781",
+      "label": "Senate of Colombia",
+      "seats": 102,
+      "web": "https://www.senado.gov.co/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1571756",
+      "label": "Chamber of Representatives of Colombia",
+      "seats": 172,
+      "web": "https://www.camara.gov.co/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1284236",
+      "label": "Congress of Colombia",
+      "seats": 0,
+      "web": "",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Senate of Colombia",
+    "Chamber of Representatives of Colombia"
+  ],
+  "seats": 274,
+  "items": [
+    {
+      "id": "Q2398781",
+      "name": "Senate of Colombia",
+      "kind": "chamber",
+      "seats": 102,
+      "url": "https://www.senado.gov.co/"
+    },
+    {
+      "id": "Q1571756",
+      "name": "Chamber of Representatives of Colombia",
+      "kind": "chamber",
+      "seats": 172,
+      "url": "https://www.camara.gov.co/"
+    },
+    {
+      "id": "Q1284236",
+      "name": "Congress of Colombia",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q1284236"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

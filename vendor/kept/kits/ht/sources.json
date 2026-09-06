@@ -3,8 +3,53 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q742110"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q742110",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q320287",
+      "label": "Chamber of Deputies",
+      "url": "https://leparlementhaitien.info/chambredesdeputes/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q320287",
+      "label": "Chamber of Deputies (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q320287",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q3510849",
+      "label": "Senate of Haiti",
+      "url": "https://leparlementhaitien.info/lesenat/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q3510849",
+      "label": "Senate of Haiti (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q3510849",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q742110",
+      "label": "Parliament of Haiti",
+      "url": "http://www.leparlementhaitien.info/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q742110",
+      "label": "Parliament of Haiti (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q742110",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

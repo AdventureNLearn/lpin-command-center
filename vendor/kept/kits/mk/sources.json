@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1258164"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1258164",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1258164",
+      "label": "Assembly of North Macedonia",
+      "url": "https://www.sobranie.mk/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1258164",
+      "label": "Assembly of North Macedonia (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1258164",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q20015949",
+      "label": "member of the Assembly of the Republic of North Macedonia (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q20015949",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

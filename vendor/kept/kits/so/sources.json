@@ -3,8 +3,53 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q176597"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q176597",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q176597",
+      "label": "Federal Parliament of Somalia",
+      "url": "http://www.parliament.gov.so/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q176597",
+      "label": "Federal Parliament of Somalia (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q176597",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q21078126",
+      "label": "House of the People",
+      "url": "http://gsh.parliament.gov.so/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21078126",
+      "label": "House of the People (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21078126",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q25683566",
+      "label": "Upper House of Somalia",
+      "url": "http://senate.parliament.gov.so/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q25683566",
+      "label": "Upper House of Somalia (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q25683566",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

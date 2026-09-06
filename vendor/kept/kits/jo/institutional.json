@@ -1,6 +1,59 @@
 {
   "iso2": "jo",
   "kit": "institutional",
-  "items": [],
-  "incomplete": true
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q810",
+  "bodies": [
+    {
+      "qid": "Q3510854",
+      "label": "Senate of Jordan",
+      "seats": 65,
+      "web": "http://www.senate.jo/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q320304",
+      "label": "House of Representatives of Jordan",
+      "seats": 150,
+      "web": "https://representatives.jo/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q820697",
+      "label": "Parliament of Jordan",
+      "seats": 0,
+      "web": "http://www.parliament.jo",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Senate of Jordan",
+    "House of Representatives of Jordan"
+  ],
+  "seats": 215,
+  "items": [
+    {
+      "id": "Q3510854",
+      "name": "Senate of Jordan",
+      "kind": "chamber",
+      "seats": 65,
+      "url": "http://www.senate.jo/"
+    },
+    {
+      "id": "Q320304",
+      "name": "House of Representatives of Jordan",
+      "kind": "chamber",
+      "seats": 150,
+      "url": "https://representatives.jo/"
+    },
+    {
+      "id": "Q820697",
+      "name": "Parliament of Jordan",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "http://www.parliament.jo"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

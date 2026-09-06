@@ -3,596 +3,28 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1599346",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 166,
+  "incomplete": true,
+  "claimed_seats": 155,
+  "chambers": [
+    "Member of the National Assembly of Chad",
+    "National Assembly"
+  ],
   "items": [
     {
-      "id": "mansoura-hamid-nouri",
-      "name": "Mansoura Hamid Nouri",
+      "id": "romadoumngar-felix-nialbe-q1599346",
+      "name": "Romadoumngar Félix Nialbé",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "union-for-renewal-and-democracy",
+      "caucus": "Union for Renewal and Democracy",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882164"
+      "roster_url": "http://www.wikidata.org/entity/Q105882915"
     },
     {
-      "id": "abakar-bechir-ahmat",
-      "name": "Abakar Bechir Ahmat",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882638"
-    },
-    {
-      "id": "abakar-ahamat-djibrine",
-      "name": "Abakar Ahamat Djibrine",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882636"
-    },
-    {
-      "id": "abderamane-ahmat-borgou",
-      "name": "Abderamane Ahmat Borgou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882643"
-    },
-    {
-      "id": "abba-oumar-gombo",
-      "name": "Abba Oumar Gombo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882640"
-    },
-    {
-      "id": "abdel-ghani-ousselat",
-      "name": "Abdel-Ghani Ousselat",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882641"
-    },
-    {
-      "id": "abdramane-ahmat-choukou",
-      "name": "Abdramane Ahmat Choukou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882646"
-    },
-    {
-      "id": "abdoulaye-chouah",
-      "name": "Abdoulaye Chouah",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882644"
-    },
-    {
-      "id": "acheikh-abakar-hassan",
-      "name": "Acheikh Abakar Hassan",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882648"
-    },
-    {
-      "id": "adjedoue-weidou",
-      "name": "Adjedoue  Weidou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882651"
-    },
-    {
-      "id": "adeli-edji-tarsoui",
-      "name": "Adeli Edji  Tarsoui",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882649"
-    },
-    {
-      "id": "adoum-hindi-achair",
-      "name": "Adoum  Hindi  Achair",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882654"
-    },
-    {
-      "id": "adoum-moustapha-brahimi",
-      "name": "Adoum  Moustapha Brahimi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882655"
-    },
-    {
-      "id": "adoum-ali-kedelaye",
-      "name": "Adoum  Ali  Kedelaye",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882653"
-    },
-    {
-      "id": "ahmat-annadif-khatir",
-      "name": "Ahmat Annadif Khatir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882658"
-    },
-    {
-      "id": "adoum-khamis-nguili",
-      "name": "Adoum Khamis  Nguili",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882656"
-    },
-    {
-      "id": "ahmat-digui",
-      "name": "Ahmat Digui",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882659"
-    },
-    {
-      "id": "ahamat-azaim-barkatallah",
-      "name": "Ahamat Azaim  Barkatallah",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882657"
-    },
-    {
-      "id": "ahmat-tahir-ahmat",
-      "name": "Ahmat Tahir Ahmat",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882663"
-    },
-    {
-      "id": "ahmat-issa-badi",
-      "name": "Ahmat Issa Badi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882660"
-    },
-    {
-      "id": "ahmat-mahamat-abdoulaye",
-      "name": "Ahmat Mahamat Abdoulaye",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882661"
-    },
-    {
-      "id": "ali-abakar-adji",
-      "name": "Ali  Abakar Adji",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882667"
-    },
-    {
-      "id": "al-bachar-issa-taher",
-      "name": "Al Bachar Issa Taher",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882665"
-    },
-    {
-      "id": "alnoudjim-alladoum-rene",
-      "name": "Alnoudjim  Alladoum Rene",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882670"
-    },
-    {
-      "id": "ali-kolotou-tchaimi",
-      "name": "Ali  Kolotou Tchaimi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882668"
-    },
-    {
-      "id": "alkhali-mahamat-ramat",
-      "name": "Alkhali  Mahamat Ramat",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882669"
-    },
-    {
-      "id": "azzai-mahamat-hassane",
-      "name": "Azzai  Mahamat Hassane",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882671"
-    },
-    {
-      "id": "bandoum-roalate-rimingaye-ra",
-      "name": "Bandoum  Roalate  Rimingaye Ra",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882674"
-    },
-    {
-      "id": "balyamal-banssitan",
-      "name": "Balyamal Banssitan",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882672"
-    },
-    {
-      "id": "bana-baindiouleng",
-      "name": "Bana  Baindiouleng",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882673"
-    },
-    {
-      "id": "biouh-pabame-dallah",
-      "name": "Biouh  Pabame  Dallah",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882675"
-    },
-    {
-      "id": "biroue-wassi-kaibaina",
-      "name": "Biroue  Wassi  Kaibaina",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882676"
-    },
-    {
-      "id": "boukar-pailapi",
-      "name": "Boukar  Pailapi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882678"
-    },
-    {
-      "id": "bomra-robert",
-      "name": "Bomra  Robert",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882677"
-    },
-    {
-      "id": "dangaye-sadjigoto",
-      "name": "Dangaye  Sadjigoto",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882679"
-    },
-    {
-      "id": "djekornonde-tapambaye",
-      "name": "Djekornonde  Tapambaye",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882682"
-    },
-    {
-      "id": "djedanem-nemba-raymond",
-      "name": "Djedanem  Nemba Raymond",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882680"
-    },
-    {
-      "id": "djidda-mamar-mahamat",
-      "name": "Djidda Mamar Mahamat",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882686"
-    },
-    {
-      "id": "djiddi-allahi-mahamat",
-      "name": "Djiddi  Allahi  Mahamat",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882687"
-    },
-    {
-      "id": "djenguinade-laoumbo-malachie",
-      "name": "Djenguinade  Laoumbo  Malachie",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882685"
-    },
-    {
-      "id": "djimet-clement-bagaou",
-      "name": "Djimet Clement Bagaou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882690"
-    },
-    {
-      "id": "djoblaona-atoukoum",
-      "name": "Djoblaona  Atoukoum",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882691"
-    },
-    {
-      "id": "djidengar-ndjendi-bassa",
-      "name": "Djidengar  Ndjendi Bassa",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882688"
-    },
-    {
-      "id": "djokdelang-angobona",
-      "name": "Djokdelang  Angobona",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882692"
-    },
-    {
-      "id": "fadjack-malloum",
-      "name": "Fadjack Malloum",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882693"
-    },
-    {
-      "id": "achta-bechir",
+      "id": "achta-bechir-q1599346",
       "name": "Achta Bechir",
       "sitting": true,
       "party_id": "unknown",
@@ -605,7 +37,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882823"
     },
     {
-      "id": "achta-mahamat-nour",
+      "id": "achta-mahamat-nour-q1599346",
       "name": "Achta Mahamat Nour",
       "sitting": true,
       "party_id": "unknown",
@@ -618,7 +50,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882824"
     },
     {
-      "id": "alime-ali-haouan",
+      "id": "alime-ali-haouan-q1599346",
       "name": "Alime Ali  Haouan",
       "sitting": true,
       "party_id": "unknown",
@@ -631,7 +63,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882826"
     },
     {
-      "id": "alboukhari-habsita-souleymane",
+      "id": "alboukhari-habsita-souleymane-q1599346",
       "name": "Alboukhari  Habsita Souleymane",
       "sitting": true,
       "party_id": "unknown",
@@ -644,85 +76,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882825"
     },
     {
-      "id": "habib-hissein-issaka",
-      "name": "Habib Hissein Issaka",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882694"
-    },
-    {
-      "id": "hamid-ibarhim-moustapha",
-      "name": "Hamid Ibarhim Moustapha",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882695"
-    },
-    {
-      "id": "hassaballah-bichara-toino",
-      "name": "Hassaballah  Bichara Toino",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882698"
-    },
-    {
-      "id": "hamid-kodya-moustapha",
-      "name": "Hamid Kodya  Moustapha",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882696"
-    },
-    {
-      "id": "hamid-moussa-ibedou",
-      "name": "Hamid Moussa Ibedou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882697"
-    },
-    {
-      "id": "homi-bagaya-badoue",
-      "name": "Homi  Bagaya  Badoue",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882699"
-    },
-    {
-      "id": "amouna-liady",
+      "id": "amouna-liady-q1599346",
       "name": "Amouna Liady",
       "sitting": true,
       "party_id": "unknown",
@@ -735,7 +89,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882827"
     },
     {
-      "id": "aziza-ahmed-senoussi",
+      "id": "aziza-ahmed-senoussi-q1599346",
       "name": "Aziza Ahmed Senoussi",
       "sitting": true,
       "party_id": "unknown",
@@ -748,722 +102,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882828"
     },
     {
-      "id": "ismail-mahamat-saleh",
-      "name": "Ismail Mahamat Saleh",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882770"
-    },
-    {
-      "id": "issa-baba-hassan",
-      "name": "Issa Baba Hassan",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882771"
-    },
-    {
-      "id": "issa-mardo-djabir",
-      "name": "Issa Mardo Djabir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882775"
-    },
-    {
-      "id": "issaka-issa-youssouf",
-      "name": "Issaka Issa Youssouf",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882779"
-    },
-    {
-      "id": "issaka-abakari",
-      "name": "Issaka  Abakari",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882777"
-    },
-    {
-      "id": "keda-ballah",
-      "name": "Keda  Ballah",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882783"
-    },
-    {
-      "id": "laouhingamaye-dingaomaibe",
-      "name": "Laouhingamaye  Dingaomaibe",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882786"
-    },
-    {
-      "id": "lama-tchindebe",
-      "name": "Lama  Tchindebe",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882784"
-    },
-    {
-      "id": "lawane-gilbert",
-      "name": "Lawane Gilbert",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882787"
-    },
-    {
-      "id": "lambo-baissa",
-      "name": "Lambo  Baissa",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882785"
-    },
-    {
-      "id": "lhamdagoulou-tarya",
-      "name": "Lhamdagoulou Tarya",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882788"
-    },
-    {
-      "id": "madtoingue-benelngar",
-      "name": "Madtoingue  Benelngar",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882790"
-    },
-    {
-      "id": "mahamadou-djouga-djoddi",
-      "name": "Mahamadou  Djouga  Djoddi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882791"
-    },
-    {
-      "id": "madi-ngarmongola",
-      "name": "Madi   Ngarmongola",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882789"
-    },
-    {
-      "id": "mahamat-ahmat-bechir",
-      "name": "Mahamat Ahmat Bechir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882795"
-    },
-    {
-      "id": "mahamady-moussa-mahamady",
-      "name": "Mahamady  Moussa Mahamady",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882792"
-    },
-    {
-      "id": "mahamat-abakar-oudatallah",
-      "name": "Mahamat Abakar  Oudatallah",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882793"
-    },
-    {
-      "id": "mahamat-ali-kourtou",
-      "name": "Mahamat Ali  Kourtou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882798"
-    },
-    {
-      "id": "mahamat-bazingue-anni",
-      "name": "Mahamat Bazingue  Anni",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882799"
-    },
-    {
-      "id": "mahamat-ahmat-senoussi",
-      "name": "Mahamat Ahmat Senoussi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882796"
-    },
-    {
-      "id": "mahamat-ali-kosso",
-      "name": "Mahamat Ali  Kosso",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882797"
-    },
-    {
-      "id": "mahamat-ibni-bichara",
-      "name": "Mahamat Ibni  Bichara",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882802"
-    },
-    {
-      "id": "kamougue-nee-dene-assoum-mayanan",
-      "name": "Kamougue née Dene-Assoum Mayanan",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882821"
-    },
-    {
-      "id": "mahamat-idriss-ahmat-fakina",
-      "name": "Mahamat Idriss Ahmat Fakina",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882803"
-    },
-    {
-      "id": "mahamat-djibrine-nimir",
-      "name": "Mahamat Djibrine  Nimir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882800"
-    },
-    {
-      "id": "mahamat-eliye-ahmed",
-      "name": "Mahamat Eliye  Ahmed",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882801"
-    },
-    {
-      "id": "mahamat-malloum-kadre",
-      "name": "Mahamat Malloum   Kadre",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882807"
-    },
-    {
-      "id": "mahamat-kana-bady",
-      "name": "Mahamat Kana Bady",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882804"
-    },
-    {
-      "id": "mahamat-mallaye",
-      "name": "Mahamat Mallaye",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882805"
-    },
-    {
-      "id": "mahamat-saleh-ahmat-khayar",
-      "name": "Mahamat Saleh  Ahmat Khayar",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882810"
-    },
-    {
-      "id": "mahamat-saleh-makki",
-      "name": "Mahamat Saleh  Makki",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882811"
-    },
-    {
-      "id": "mahamat-oumar-malloum",
-      "name": "Mahamat Oumar Malloum",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882808"
-    },
-    {
-      "id": "mahamat-ousmane-ngargnargue",
-      "name": "Mahamat Ousmane Ngargnargue",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882809"
-    },
-    {
-      "id": "mahamat-zakaria-mamoun",
-      "name": "Mahamat Zakaria Mamoun",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882814"
-    },
-    {
-      "id": "mahamat-sountali",
-      "name": "Mahamat Sountali",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882812"
-    },
-    {
-      "id": "mahamat-togoi-tekilio",
-      "name": "Mahamat Togoi  Tekilio",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882813"
-    },
-    {
-      "id": "maney-wel-pagouipore",
-      "name": "Maney  Wel Pagouipore",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882818"
-    },
-    {
-      "id": "maki-saboune-moustapha",
-      "name": "Maki  Saboune  Moustapha",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882816"
-    },
-    {
-      "id": "manadji-tolkom-bertin",
-      "name": "Manadji  Tolkom  Bertin",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882817"
-    },
-    {
-      "id": "mbaidessemel-dionadji",
-      "name": "Mbaidessemel Dionadji",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882819"
-    },
-    {
-      "id": "mbairemtar-prosper",
-      "name": "Mbairemtar   Prosper",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882820"
-    },
-    {
-      "id": "ndoubanadji-taram",
-      "name": "Ndoubanadji  Taram",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882822"
-    },
-    {
-      "id": "haroun-kabadi",
-      "name": "Haroun Kabadi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1371523"
-    },
-    {
-      "id": "jean-alingue-bawoyeu",
-      "name": "Jean Alingué Bawoyeu",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1398174"
-    },
-    {
-      "id": "wadal-abdelkader-kamougue",
-      "name": "Wadal Abdelkader Kamougue",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3565005"
-    },
-    {
-      "id": "delwa-kassire-koumakoye",
-      "name": "Delwa Kassiré Koumakoye",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q449364"
-    },
-    {
-      "id": "ngarlejy-yorongar",
-      "name": "Ngarlejy Yorongar",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q17038427"
-    },
-    {
-      "id": "lol-mahamat-choua",
-      "name": "Lol Mahamat Choua",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q500374"
-    },
-    {
-      "id": "idriss-ndele-moussa",
-      "name": "Idriss Ndele Moussa",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3847967"
-    },
-    {
-      "id": "ahmat-acyl",
-      "name": "Ahmat Acyl",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4695685"
-    },
-    {
-      "id": "albert-pahimi-padacke",
-      "name": "Albert Pahimi Padacké",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4710950"
-    },
-    {
-      "id": "nassour-guelendouksia-ouaido",
-      "name": "Nassour Guelendouksia Ouaido",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q717952"
-    },
-    {
-      "id": "bourkou-louise-kabo",
-      "name": "Bourkou Louise Kabo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q24176220"
-    },
-    {
-      "id": "loum-n-neloumsei-elise",
-      "name": "Loum N. Neloumsei Elise",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6689633"
-    },
-    {
-      "id": "aziza-baroud",
-      "name": "Aziza Baroud",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q42415316"
-    },
-    {
-      "id": "dingamadji-nee-ngakoutou-moryo-delphine",
+      "id": "dingamadji-nee-ngakoutou-moryo-delphine-q1599346",
       "name": "Dingamadji née Ngakoutou Moryo Delphine",
       "sitting": true,
       "party_id": "unknown",
@@ -1476,7 +115,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882829"
     },
     {
-      "id": "epainete-nee-djimina-assil",
+      "id": "epainete-nee-djimina-assil-q1599346",
       "name": "Epainete née Djimina Assil",
       "sitting": true,
       "party_id": "unknown",
@@ -1489,7 +128,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882832"
     },
     {
-      "id": "fatime-abdraman-doubangar",
+      "id": "kamougue-nee-dene-assoum-mayanan-q1599346",
+      "name": "Kamougue née Dene-Assoum Mayanan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882821"
+    },
+    {
+      "id": "fatime-abdraman-doubangar-q1599346",
       "name": "Fatime  Abdraman Doubangar",
       "sitting": true,
       "party_id": "unknown",
@@ -1502,7 +154,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882870"
     },
     {
-      "id": "fatime-nouracham-ramadan",
+      "id": "fatime-nouracham-ramadan-q1599346",
       "name": "Fatime  Nouracham  Ramadan",
       "sitting": true,
       "party_id": "unknown",
@@ -1515,7 +167,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882871"
     },
     {
-      "id": "fatouma-issakha-haroun",
+      "id": "fatouma-issakha-haroun-q1599346",
       "name": "Fatouma  Issakha  Haroun",
       "sitting": true,
       "party_id": "unknown",
@@ -1528,7 +180,72 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882872"
     },
     {
-      "id": "hadje-zahara-affono",
+      "id": "mahamat-zakaria-mamoun-q1599346",
+      "name": "Mahamat Zakaria Mamoun",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882814"
+    },
+    {
+      "id": "maney-wel-pagouipore-q1599346",
+      "name": "Maney  Wel Pagouipore",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882818"
+    },
+    {
+      "id": "maki-saboune-moustapha-q1599346",
+      "name": "Maki  Saboune  Moustapha",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882816"
+    },
+    {
+      "id": "manadji-tolkom-bertin-q1599346",
+      "name": "Manadji  Tolkom  Bertin",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882817"
+    },
+    {
+      "id": "mbaidessemel-dionadji-q1599346",
+      "name": "Mbaidessemel Dionadji",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882819"
+    },
+    {
+      "id": "hadje-zahara-affono-q1599346",
       "name": "Hadje  Zahara Affono",
       "sitting": true,
       "party_id": "unknown",
@@ -1541,7 +258,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882873"
     },
     {
-      "id": "ildjima-abdraman",
+      "id": "mbairemtar-prosper-q1599346",
+      "name": "Mbairemtar   Prosper",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882820"
+    },
+    {
+      "id": "ildjima-abdraman-q1599346",
       "name": "Ildjima Abdraman",
       "sitting": true,
       "party_id": "unknown",
@@ -1554,7 +284,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882875"
     },
     {
-      "id": "keimbadje-betoudji-denise",
+      "id": "keimbadje-betoudji-denise-q1599346",
       "name": "Keimbadje  Betoudji  Denise",
       "sitting": true,
       "party_id": "unknown",
@@ -1567,7 +297,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882876"
     },
     {
-      "id": "khadidja-hassaballah",
+      "id": "khadidja-hassaballah-q1599346",
       "name": "Khadidja Hassaballah",
       "sitting": true,
       "party_id": "unknown",
@@ -1580,7 +310,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882877"
     },
     {
-      "id": "mbainaye-eugenie",
+      "id": "mbainaye-eugenie-q1599346",
       "name": "Mbainaye  Eugenie",
       "sitting": true,
       "party_id": "unknown",
@@ -1593,7 +323,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882879"
     },
     {
-      "id": "moctar-mahamat-ibrahim-kadjouk",
+      "id": "ndoubanadji-taram-q1599346",
+      "name": "Ndoubanadji  Taram",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882822"
+    },
+    {
+      "id": "moctar-mahamat-ibrahim-kadjouk-q1599346",
       "name": "Moctar Mahamat Ibrahim Kadjouk",
       "sitting": true,
       "party_id": "unknown",
@@ -1606,7 +349,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882885"
     },
     {
-      "id": "mog-nangar-ngarsoulede-josias",
+      "id": "mog-nangar-ngarsoulede-josias-q1599346",
       "name": "Mog-Nangar  Ngarsoulede Josias",
       "sitting": true,
       "party_id": "unknown",
@@ -1619,7 +362,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882886"
     },
     {
-      "id": "molia-tahar-kori",
+      "id": "molia-tahar-kori-q1599346",
       "name": "Molia  Tahar  Kori",
       "sitting": true,
       "party_id": "unknown",
@@ -1632,7 +375,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882887"
     },
     {
-      "id": "mouhadjir-ibet",
+      "id": "moussa-kadam-q1599346",
+      "name": "Moussa Kadam",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882890"
+    },
+    {
+      "id": "mouhadjir-ibet-q1599346",
       "name": "Mouhadjir  Ibet",
       "sitting": true,
       "party_id": "unknown",
@@ -1645,7 +401,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882889"
     },
     {
-      "id": "nekingam-mbayam",
+      "id": "nekingam-mbayam-q1599346",
       "name": "Nekingam  Mbayam",
       "sitting": true,
       "party_id": "unknown",
@@ -1658,7 +414,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882880"
     },
     {
-      "id": "napoleon-bonaparte-kone",
+      "id": "napoleon-bonaparte-kone-q1599346",
       "name": "Napoleon  Bonaparte  Kone",
       "sitting": true,
       "party_id": "unknown",
@@ -1671,7 +427,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882891"
     },
     {
-      "id": "ndimadjingar-assane-maurice",
+      "id": "ndimadjingar-assane-maurice-q1599346",
       "name": "Ndimadjingar Assane  Maurice",
       "sitting": true,
       "party_id": "unknown",
@@ -1684,7 +440,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882895"
     },
     {
-      "id": "nassardjimti-mordjimngarti",
+      "id": "nassardjimti-mordjimngarti-q1599346",
       "name": "Nassardjimti  Mordjimngarti",
       "sitting": true,
       "party_id": "unknown",
@@ -1697,7 +453,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882892"
     },
     {
-      "id": "ndiguindjita-dodih-kemtobaye",
+      "id": "ndiguindjita-dodih-kemtobaye-q1599346",
       "name": "Ndiguindjita  Dodih  Kemtobaye",
       "sitting": true,
       "party_id": "unknown",
@@ -1710,7 +466,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882893"
     },
     {
-      "id": "neatobeye-le-nasseguen-gar",
+      "id": "neatobeye-le-nasseguen-gar-q1599346",
       "name": "Neatobeye Le- Nasseguen’Gar",
       "sitting": true,
       "party_id": "unknown",
@@ -1723,7 +479,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882898"
     },
     {
-      "id": "ndoubabe-tomel",
+      "id": "ndoubabe-tomel-q1599346",
       "name": "Ndoubabe  Tomel",
       "sitting": true,
       "party_id": "unknown",
@@ -1736,7 +492,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882896"
     },
     {
-      "id": "neatobei-bidi-valentin",
+      "id": "neatobei-bidi-valentin-q1599346",
       "name": "Neatobei  Bidi  Valentin",
       "sitting": true,
       "party_id": "unknown",
@@ -1749,7 +505,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882897"
     },
     {
-      "id": "ngartokete-tatola",
+      "id": "ngartokete-tatola-q1599346",
       "name": "Ngartokete  Tatola",
       "sitting": true,
       "party_id": "unknown",
@@ -1762,7 +518,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882899"
     },
     {
-      "id": "ngonhaslaouel-ndiah",
+      "id": "ngonhaslaouel-ndiah-q1599346",
       "name": "Ngonhaslaouel  Ndiah",
       "sitting": true,
       "party_id": "unknown",
@@ -1775,7 +531,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882900"
     },
     {
-      "id": "nodjiadjim-laoubaou-abdias",
+      "id": "nodjiadjim-laoubaou-abdias-q1599346",
       "name": "Nodjiadjim Laoubaou Abdias",
       "sitting": true,
       "party_id": "unknown",
@@ -1788,7 +544,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882903"
     },
     {
-      "id": "nobo-n-djibo",
+      "id": "nobo-n-djibo-q1599346",
       "name": "Nobo   N’Djibo",
       "sitting": true,
       "party_id": "unknown",
@@ -1801,7 +557,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882901"
     },
     {
-      "id": "ogueye-nargaye",
+      "id": "ogueye-nargaye-q1599346",
       "name": "Ogueye  Nargaye",
       "sitting": true,
       "party_id": "unknown",
@@ -1814,7 +570,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882904"
     },
     {
-      "id": "ouchar-tourgoudi",
+      "id": "ouchar-tourgoudi-q1599346",
       "name": "Ouchar Tourgoudi",
       "sitting": true,
       "party_id": "unknown",
@@ -1827,7 +583,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882906"
     },
     {
-      "id": "oumar-ibn-daoud",
+      "id": "oumar-ibn-daoud-q1599346",
       "name": "Oumar  Ibn  Daoud",
       "sitting": true,
       "party_id": "unknown",
@@ -1840,7 +596,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882907"
     },
     {
-      "id": "ousman-cherif",
+      "id": "ousman-cherif-q1599346",
       "name": "Ousman  Cherif",
       "sitting": true,
       "party_id": "unknown",
@@ -1853,7 +609,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882910"
     },
     {
-      "id": "oumar-yakhoub-mouhadjir",
+      "id": "oumar-yakhoub-mouhadjir-q1599346",
       "name": "Oumar  Yakhoub   Mouhadjir",
       "sitting": true,
       "party_id": "unknown",
@@ -1866,7 +622,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882908"
     },
     {
-      "id": "ousman-awadalkerim",
+      "id": "ousman-awadalkerim-q1599346",
       "name": "Ousman  Awadalkerim",
       "sitting": true,
       "party_id": "unknown",
@@ -1879,7 +635,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882909"
     },
     {
-      "id": "outman-abakar-djame",
+      "id": "outman-abakar-djame-q1599346",
       "name": "Outman  Abakar Djame",
       "sitting": true,
       "party_id": "unknown",
@@ -1892,7 +648,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882912"
     },
     {
-      "id": "selguet-nee-achta-aguidi",
+      "id": "selguet-nee-achta-aguidi-q1599346",
       "name": "Selguet Née Achta Aguidi",
       "sitting": true,
       "party_id": "unknown",
@@ -1905,7 +661,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882881"
     },
     {
-      "id": "souraya-moustapha-mahamat",
+      "id": "souraya-moustapha-mahamat-q1599346",
       "name": "Souraya Moustapha  Mahamat",
       "sitting": true,
       "party_id": "unknown",
@@ -1918,7 +674,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882882"
     },
     {
-      "id": "ramadan-kody-tchotch",
+      "id": "ramadan-kody-tchotch-q1599346",
       "name": "Ramadan  Kody  Tchotch",
       "sitting": true,
       "party_id": "unknown",
@@ -1931,7 +687,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882914"
     },
     {
-      "id": "rakhis-ahmat-saleh",
+      "id": "rakhis-ahmat-saleh-q1599346",
       "name": "Rakhis Ahmat Saleh",
       "sitting": true,
       "party_id": "unknown",
@@ -1944,7 +700,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882913"
     },
     {
-      "id": "tchombi-fatime-djimadingar",
+      "id": "tchombi-fatime-djimadingar-q1599346",
       "name": "Tchombi  Fatime  Djimadingar",
       "sitting": true,
       "party_id": "unknown",
@@ -1957,20 +713,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882883"
     },
     {
-      "id": "romadoumngar-felix-nialbe",
-      "name": "Romadoumngar Félix Nialbé",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105882915"
-    },
-    {
-      "id": "sanoussi-abdoulaye-djima",
+      "id": "sanoussi-abdoulaye-djima-q1599346",
       "name": "Sanoussi  Abdoulaye   Djima",
       "sitting": true,
       "party_id": "unknown",
@@ -1983,7 +726,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882919"
     },
     {
-      "id": "saleh-ali-moustapha",
+      "id": "saleh-ali-moustapha-q1599346",
       "name": "Saleh  Ali   Moustapha",
       "sitting": true,
       "party_id": "unknown",
@@ -1996,7 +739,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882916"
     },
     {
-      "id": "salibou-garba",
+      "id": "salibou-garba-q1599346",
       "name": "Salibou   Garba",
       "sitting": true,
       "party_id": "unknown",
@@ -2009,7 +752,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882917"
     },
     {
-      "id": "sodja-adjobma-nikanor",
+      "id": "sodja-adjobma-nikanor-q1599346",
       "name": "Sodja  Adjobma  Nikanor",
       "sitting": true,
       "party_id": "unknown",
@@ -2022,7 +765,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882920"
     },
     {
-      "id": "souleyman-abbas",
+      "id": "souleyman-abbas-q1599346",
       "name": "Souleyman   Abbas",
       "sitting": true,
       "party_id": "unknown",
@@ -2035,7 +778,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882921"
     },
     {
-      "id": "tchari-madi-maina",
+      "id": "tchari-madi-maina-q1599346",
       "name": "Tchari Madi  Maina",
       "sitting": true,
       "party_id": "unknown",
@@ -2048,7 +791,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882922"
     },
     {
-      "id": "tchombi-getna-kami",
+      "id": "tchombi-getna-kami-q1599346",
       "name": "Tchombi   Getna Kami",
       "sitting": true,
       "party_id": "unknown",
@@ -2061,7 +804,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882923"
     },
     {
-      "id": "wihaouna-jean",
+      "id": "wihaouna-jean-q1599346",
       "name": "Wihaouna  Jean",
       "sitting": true,
       "party_id": "unknown",
@@ -2074,7 +817,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882924"
     },
     {
-      "id": "yombombe-madjitoloum-theophile",
+      "id": "yombombe-madjitoloum-theophile-q1599346",
       "name": "Yombombe Madjitoloum Theophile",
       "sitting": true,
       "party_id": "unknown",
@@ -2087,7 +830,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882926"
     },
     {
-      "id": "youssouf-moungache-abdallah",
+      "id": "youssouf-moungache-abdallah-q1599346",
       "name": "Youssouf Moungache Abdallah",
       "sitting": true,
       "party_id": "unknown",
@@ -2100,7 +843,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882927"
     },
     {
-      "id": "yamingaye-bruno",
+      "id": "yamingaye-bruno-q1599346",
       "name": "Yamingaye Bruno",
       "sitting": true,
       "party_id": "unknown",
@@ -2113,7 +856,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882925"
     },
     {
-      "id": "zakaria-mahamat-saleh",
+      "id": "zakaria-mahamat-saleh-q1599346",
       "name": "Zakaria Mahamat Saleh",
       "sitting": true,
       "party_id": "unknown",
@@ -2126,7 +869,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882942"
     },
     {
-      "id": "zakaria-hassan-al-said",
+      "id": "zakaria-hassan-al-said-q1599346",
       "name": "Zakaria  Hassan  Al-Said",
       "sitting": true,
       "party_id": "unknown",
@@ -2139,7 +882,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882940"
     },
     {
-      "id": "zakaria-mahamat-dalaye",
+      "id": "zakaria-mahamat-dalaye-q1599346",
       "name": "Zakaria Mahamat Dalaye",
       "sitting": true,
       "party_id": "unknown",
@@ -2152,8 +895,60 @@
       "roster_url": "http://www.wikidata.org/entity/Q105882941"
     },
     {
-      "id": "opportune-aymadji",
-      "name": "Opportune Aymadji",
+      "id": "haroun-kabadi-q1599346",
+      "name": "Haroun Kabadi",
+      "sitting": true,
+      "party_id": "patriotic-salvation-movement",
+      "caucus": "Patriotic Salvation Movement",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1371523"
+    },
+    {
+      "id": "delwa-kassire-koumakoye-q1599346",
+      "name": "Delwa Kassiré Koumakoye",
+      "sitting": true,
+      "party_id": "national-rally-for-development-and-progress",
+      "caucus": "National Rally for Development and Progress",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q449364"
+    },
+    {
+      "id": "jean-alingue-bawoyeu-q1599346",
+      "name": "Jean Alingué Bawoyeu",
+      "sitting": true,
+      "party_id": "union-for-democracy-and-the-republic",
+      "caucus": "Union for Democracy and the Republic",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1398174"
+    },
+    {
+      "id": "nassour-guelendouksia-ouaido-q1599346",
+      "name": "Nassour Guelendouksia Ouaido",
+      "sitting": true,
+      "party_id": "patriotic-salvation-movement",
+      "caucus": "Patriotic Salvation Movement",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q717952"
+    },
+    {
+      "id": "wadal-abdelkader-kamougue-q1599346",
+      "name": "Wadal Abdelkader Kamougue",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -2162,7 +957,1242 @@
       "lang": [
         "en"
       ],
+      "roster_url": "http://www.wikidata.org/entity/Q3565005"
+    },
+    {
+      "id": "lol-mahamat-choua-q1599346",
+      "name": "Lol Mahamat Choua",
+      "sitting": true,
+      "party_id": "rally-for-democracy-and-progress",
+      "caucus": "Rally for Democracy and Progress",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q500374"
+    },
+    {
+      "id": "idriss-ndele-moussa-q1599346",
+      "name": "Idriss Ndele Moussa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3847967"
+    },
+    {
+      "id": "opportune-aymadji-q1599346",
+      "name": "Opportune Aymadji",
+      "sitting": true,
+      "party_id": "patriotic-salvation-movement",
+      "caucus": "Patriotic Salvation Movement",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
       "roster_url": "http://www.wikidata.org/entity/Q72579209"
+    },
+    {
+      "id": "ahmat-acyl-q1599346",
+      "name": "Ahmat Acyl",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4695685"
+    },
+    {
+      "id": "albert-pahimi-padacke-q1599346",
+      "name": "Albert Pahimi Padacké",
+      "sitting": true,
+      "party_id": "national-rally-for-democracy-in-chad",
+      "caucus": "National Rally for Democracy in Chad",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4710950"
+    },
+    {
+      "id": "bourkou-louise-kabo-q1599346",
+      "name": "Bourkou Louise Kabo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24176220"
+    },
+    {
+      "id": "loum-n-neloumsei-elise-q1599346",
+      "name": "Loum N. Neloumsei Elise",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6689633"
+    },
+    {
+      "id": "ngarlejy-yorongar-q1599346",
+      "name": "Ngarlejy Yorongar",
+      "sitting": true,
+      "party_id": "federation-action-for-the-republic",
+      "caucus": "Federation, Action for the Republic",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17038427"
+    },
+    {
+      "id": "aziza-baroud-q1599346",
+      "name": "Aziza Baroud",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q42415316"
+    },
+    {
+      "id": "mansoura-hamid-nouri-q1599346",
+      "name": "Mansoura Hamid Nouri",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882164"
+    },
+    {
+      "id": "abakar-bechir-ahmat-q1599346",
+      "name": "Abakar Bechir Ahmat",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882638"
+    },
+    {
+      "id": "abakar-ahamat-djibrine-q1599346",
+      "name": "Abakar Ahamat Djibrine",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882636"
+    },
+    {
+      "id": "abderamane-ahmat-borgou-q1599346",
+      "name": "Abderamane Ahmat Borgou",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882643"
+    },
+    {
+      "id": "abba-oumar-gombo-q1599346",
+      "name": "Abba Oumar Gombo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882640"
+    },
+    {
+      "id": "abdel-ghani-ousselat-q1599346",
+      "name": "Abdel-Ghani Ousselat",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882641"
+    },
+    {
+      "id": "abdramane-ahmat-choukou-q1599346",
+      "name": "Abdramane Ahmat Choukou",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882646"
+    },
+    {
+      "id": "abdoulaye-chouah-q1599346",
+      "name": "Abdoulaye Chouah",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882644"
+    },
+    {
+      "id": "acheikh-abakar-hassan-q1599346",
+      "name": "Acheikh Abakar Hassan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882648"
+    },
+    {
+      "id": "adjedoue-weidou-q1599346",
+      "name": "Adjedoue  Weidou",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882651"
+    },
+    {
+      "id": "adeli-edji-tarsoui-q1599346",
+      "name": "Adeli Edji  Tarsoui",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882649"
+    },
+    {
+      "id": "adoum-hindi-achair-q1599346",
+      "name": "Adoum  Hindi  Achair",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882654"
+    },
+    {
+      "id": "adoum-moustapha-brahimi-q1599346",
+      "name": "Adoum  Moustapha Brahimi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882655"
+    },
+    {
+      "id": "adoum-ali-kedelaye-q1599346",
+      "name": "Adoum  Ali  Kedelaye",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882653"
+    },
+    {
+      "id": "saleh-kebzabo-q1599346",
+      "name": "Saleh Kebzabo",
+      "sitting": true,
+      "party_id": "national-union-for-democracy-and-renewal",
+      "caucus": "National Union for Democracy and Renewal",
+      "constituency_label": "Léré",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7403916"
+    },
+    {
+      "id": "adoum-khamis-nguili-q1599346",
+      "name": "Adoum Khamis  Nguili",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882656"
+    },
+    {
+      "id": "ahamat-azaim-barkatallah-q1599346",
+      "name": "Ahamat Azaim  Barkatallah",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882657"
+    },
+    {
+      "id": "ahmat-tahir-ahmat-q1599346",
+      "name": "Ahmat Tahir Ahmat",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882663"
+    },
+    {
+      "id": "ahmat-issa-badi-q1599346",
+      "name": "Ahmat Issa Badi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882660"
+    },
+    {
+      "id": "ahmat-mahamat-abdoulaye-q1599346",
+      "name": "Ahmat Mahamat Abdoulaye",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882661"
+    },
+    {
+      "id": "ali-abakar-adji-q1599346",
+      "name": "Ali  Abakar Adji",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882667"
+    },
+    {
+      "id": "al-bachar-issa-taher-q1599346",
+      "name": "Al Bachar Issa Taher",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882665"
+    },
+    {
+      "id": "alnoudjim-alladoum-rene-q1599346",
+      "name": "Alnoudjim  Alladoum Rene",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882670"
+    },
+    {
+      "id": "ali-kolotou-tchaimi-q1599346",
+      "name": "Ali  Kolotou Tchaimi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882668"
+    },
+    {
+      "id": "alkhali-mahamat-ramat-q1599346",
+      "name": "Alkhali  Mahamat Ramat",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882669"
+    },
+    {
+      "id": "azzai-mahamat-hassane-q1599346",
+      "name": "Azzai  Mahamat Hassane",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882671"
+    },
+    {
+      "id": "bandoum-roalate-rimingaye-ra-q1599346",
+      "name": "Bandoum  Roalate  Rimingaye Ra",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882674"
+    },
+    {
+      "id": "balyamal-banssitan-q1599346",
+      "name": "Balyamal Banssitan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882672"
+    },
+    {
+      "id": "bana-baindiouleng-q1599346",
+      "name": "Bana  Baindiouleng",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882673"
+    },
+    {
+      "id": "biouh-pabame-dallah-q1599346",
+      "name": "Biouh  Pabame  Dallah",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882675"
+    },
+    {
+      "id": "biroue-wassi-kaibaina-q1599346",
+      "name": "Biroue  Wassi  Kaibaina",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882676"
+    },
+    {
+      "id": "boukar-pailapi-q1599346",
+      "name": "Boukar  Pailapi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882678"
+    },
+    {
+      "id": "bomra-robert-q1599346",
+      "name": "Bomra  Robert",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882677"
+    },
+    {
+      "id": "dangaye-sadjigoto-q1599346",
+      "name": "Dangaye  Sadjigoto",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882679"
+    },
+    {
+      "id": "djekornonde-tapambaye-q1599346",
+      "name": "Djekornonde  Tapambaye",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882682"
+    },
+    {
+      "id": "djedanem-nemba-raymond-q1599346",
+      "name": "Djedanem  Nemba Raymond",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882680"
+    },
+    {
+      "id": "djidda-mamar-mahamat-q1599346",
+      "name": "Djidda Mamar Mahamat",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882686"
+    },
+    {
+      "id": "djiddi-allahi-mahamat-q1599346",
+      "name": "Djiddi  Allahi  Mahamat",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882687"
+    },
+    {
+      "id": "djenguinade-laoumbo-malachie-q1599346",
+      "name": "Djenguinade  Laoumbo  Malachie",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882685"
+    },
+    {
+      "id": "djimet-clement-bagaou-q1599346",
+      "name": "Djimet Clement Bagaou",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882690"
+    },
+    {
+      "id": "djoblaona-atoukoum-q1599346",
+      "name": "Djoblaona  Atoukoum",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882691"
+    },
+    {
+      "id": "djidengar-ndjendi-bassa-q1599346",
+      "name": "Djidengar  Ndjendi Bassa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882688"
+    },
+    {
+      "id": "djokdelang-angobona-q1599346",
+      "name": "Djokdelang  Angobona",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882692"
+    },
+    {
+      "id": "fadjack-malloum-q1599346",
+      "name": "Fadjack Malloum",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882693"
+    },
+    {
+      "id": "habib-hissein-issaka-q1599346",
+      "name": "Habib Hissein Issaka",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882694"
+    },
+    {
+      "id": "hamid-ibarhim-moustapha-q1599346",
+      "name": "Hamid Ibarhim Moustapha",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882695"
+    },
+    {
+      "id": "hassaballah-bichara-toino-q1599346",
+      "name": "Hassaballah  Bichara Toino",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882698"
+    },
+    {
+      "id": "hamid-kodya-moustapha-q1599346",
+      "name": "Hamid Kodya  Moustapha",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882696"
+    },
+    {
+      "id": "hamid-moussa-ibedou-q1599346",
+      "name": "Hamid Moussa Ibedou",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882697"
+    },
+    {
+      "id": "homi-bagaya-badoue-q1599346",
+      "name": "Homi  Bagaya  Badoue",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882699"
+    },
+    {
+      "id": "ismail-mahamat-saleh-q1599346",
+      "name": "Ismail Mahamat Saleh",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882770"
+    },
+    {
+      "id": "issa-baba-hassan-q1599346",
+      "name": "Issa Baba Hassan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882771"
+    },
+    {
+      "id": "issa-mardo-djabir-q1599346",
+      "name": "Issa Mardo Djabir",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882775"
+    },
+    {
+      "id": "issaka-issa-youssouf-q1599346",
+      "name": "Issaka Issa Youssouf",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882779"
+    },
+    {
+      "id": "issaka-abakari-q1599346",
+      "name": "Issaka  Abakari",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882777"
+    },
+    {
+      "id": "keda-ballah-q1599346",
+      "name": "Keda  Ballah",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882783"
+    },
+    {
+      "id": "laouhingamaye-dingaomaibe-q1599346",
+      "name": "Laouhingamaye  Dingaomaibe",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882786"
+    },
+    {
+      "id": "lama-tchindebe-q1599346",
+      "name": "Lama  Tchindebe",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882784"
+    },
+    {
+      "id": "lawane-gilbert-q1599346",
+      "name": "Lawane Gilbert",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882787"
+    },
+    {
+      "id": "lambo-baissa-q1599346",
+      "name": "Lambo  Baissa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882785"
+    },
+    {
+      "id": "lhamdagoulou-tarya-q1599346",
+      "name": "Lhamdagoulou Tarya",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882788"
+    },
+    {
+      "id": "madtoingue-benelngar-q1599346",
+      "name": "Madtoingue  Benelngar",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882790"
+    },
+    {
+      "id": "mahamadou-djouga-djoddi-q1599346",
+      "name": "Mahamadou  Djouga  Djoddi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882791"
+    },
+    {
+      "id": "madi-ngarmongola-q1599346",
+      "name": "Madi   Ngarmongola",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882789"
+    },
+    {
+      "id": "mahamat-ahmat-bechir-q1599346",
+      "name": "Mahamat Ahmat Bechir",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882795"
+    },
+    {
+      "id": "mahamady-moussa-mahamady-q1599346",
+      "name": "Mahamady  Moussa Mahamady",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882792"
+    },
+    {
+      "id": "mahamat-abakar-oudatallah-q1599346",
+      "name": "Mahamat Abakar  Oudatallah",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882793"
+    },
+    {
+      "id": "mahamat-ali-kourtou-q1599346",
+      "name": "Mahamat Ali  Kourtou",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882798"
+    },
+    {
+      "id": "mahamat-bazingue-anni-q1599346",
+      "name": "Mahamat Bazingue  Anni",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882799"
+    },
+    {
+      "id": "mahamat-ahmat-senoussi-q1599346",
+      "name": "Mahamat Ahmat Senoussi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882796"
+    },
+    {
+      "id": "mahamat-ali-kosso-q1599346",
+      "name": "Mahamat Ali  Kosso",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882797"
+    },
+    {
+      "id": "mahamat-ibni-bichara-q1599346",
+      "name": "Mahamat Ibni  Bichara",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882802"
+    },
+    {
+      "id": "mahamat-idriss-ahmat-fakina-q1599346",
+      "name": "Mahamat Idriss Ahmat Fakina",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882803"
+    },
+    {
+      "id": "mahamat-djibrine-nimir-q1599346",
+      "name": "Mahamat Djibrine  Nimir",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882800"
+    },
+    {
+      "id": "mahamat-eliye-ahmed-q1599346",
+      "name": "Mahamat Eliye  Ahmed",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882801"
+    },
+    {
+      "id": "mahamat-malloum-kadre-q1599346",
+      "name": "Mahamat Malloum   Kadre",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882807"
+    },
+    {
+      "id": "mahamat-kana-bady-q1599346",
+      "name": "Mahamat Kana Bady",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882804"
+    },
+    {
+      "id": "mahamat-mallaye-q1599346",
+      "name": "Mahamat Mallaye",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882805"
+    },
+    {
+      "id": "mahamat-saleh-ahmat-khayar-q1599346",
+      "name": "Mahamat Saleh  Ahmat Khayar",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882810"
+    },
+    {
+      "id": "mahamat-saleh-makki-q1599346",
+      "name": "Mahamat Saleh  Makki",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882811"
+    },
+    {
+      "id": "mahamat-oumar-malloum-q1599346",
+      "name": "Mahamat Oumar Malloum",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882808"
+    },
+    {
+      "id": "mahamat-ousmane-ngargnargue-q1599346",
+      "name": "Mahamat Ousmane Ngargnargue",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882809"
+    },
+    {
+      "id": "mahamat-sountali-q1599346",
+      "name": "Mahamat Sountali",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882812"
+    },
+    {
+      "id": "mahamat-togoi-tekilio-q1599346",
+      "name": "Mahamat Togoi  Tekilio",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882813"
+    },
+    {
+      "id": "ahmat-annadif-khatir-q1599346",
+      "name": "Ahmat Annadif Khatir",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882658"
+    },
+    {
+      "id": "ahmat-digui-q1599346",
+      "name": "Ahmat Digui",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105882659"
     }
   ]
 }

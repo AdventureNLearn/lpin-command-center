@@ -3,8 +3,53 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q4162795"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q4162795",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q4162795",
+      "label": "Parliament of Rwanda",
+      "url": "https://www.parliament.gov.rw/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q4162795",
+      "label": "Parliament of Rwanda (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q4162795",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q320292",
+      "label": "Chamber of Deputies",
+      "url": "https://www.parliament.gov.rw/chamber-of-deputies-2/mandate",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q320292",
+      "label": "Chamber of Deputies (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q320292",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q3510861",
+      "label": "Senate of Rwanda",
+      "url": "https://www.parliament.gov.rw/senate-2/mandate",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q3510861",
+      "label": "Senate of Rwanda (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q3510861",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

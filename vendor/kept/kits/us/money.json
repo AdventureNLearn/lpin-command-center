@@ -1,26 +1,7 @@
 {
   "iso2": "us",
-  "named_donors": false,
-  "unit": "USD million",
-  "sitting_total_reconstructed": null,
-  "buckets": [
-    {
-      "label": "individuals",
-      "amount": 1392
-    },
-    {
-      "label": "other political committees (PACs)",
-      "amount": 431.9
-    },
-    {
-      "label": "candidate contributions and loans",
-      "amount": 249.1
-    },
-    {
-      "label": "other receipts",
-      "amount": 219.3
-    }
-  ],
-  "source_url": "https://www.fec.gov/resources/campaign-finance-statistics/2024/tables/congressional/ConCand3_2024_24m.pdf",
-  "note": "FEC Congressional Candidate Table 3, 24-month House candidate cycle 2023–2024 (generated 2025-03-17). House candidates raised $2,292.3 million. Source-type buckets, not occupation names. Named private donors not collected."
+  "items": [],
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "note": "No sourced money for this ISO. Not invented."
 }

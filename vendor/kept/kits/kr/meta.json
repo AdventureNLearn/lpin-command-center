@@ -20,7 +20,8 @@
     "votes": 1201,
     "committees": 19,
     "key_votes": 1198,
-    "sourced_quotes": 477
+    "sourced_quotes": 477,
+    "pledged": 477
   },
   "capabilities": [
     "members",
@@ -30,16 +31,15 @@
     "gap",
     "caucus",
     "committees",
+    "ethics",
     "money",
-    "ask-grok",
-    "method",
-    "bilingual"
+    "method"
   ],
   "basis": "Evidence",
   "incomplete": true,
   "lane": "gold-kit-8103",
   "source_live": "https://keptsk.grok.me",
   "note": "KR honest-complete 2026-08-21. Sit 302. Pledges 477 / 268 sitting; 9 wiki artifacts not hunted; 25 sitting cache-mined 0 first-person https (hunt-stop). Votes 1201 named 1198 (clerk 본회의 issue-mapped leftover 0). Unmapped leftover 506 are 교육/농림/문체/예결 etc — not invented onto the packed 10 issues. Muni 22 skipped. Comm 19 ethics 19 money 6 gap 0. named_donors false.",
-  "roster_source": "https://en.wikipedia.org/wiki/List_of_members_of_the_National_Assembly_(South_Korea),_2024–2028",
+  "roster_source": "https://www.wikidata.org/wiki/Q494162",
   "honest_complete": true
 }

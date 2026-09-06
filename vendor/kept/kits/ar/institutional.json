@@ -1,7 +1,59 @@
 {
   "iso2": "ar",
   "kit": "institutional",
-  "items": [],
   "incomplete": true,
-  "note": ":8103 claimed institutional_kits = 0."
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q414",
+  "bodies": [
+    {
+      "qid": "Q2118303",
+      "label": "Argentine Senate",
+      "seats": 72,
+      "web": "https://www.senado.gob.ar/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q629133",
+      "label": "Chamber of Deputies of Argentina",
+      "seats": 257,
+      "web": "https://hcdn.gob.ar",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q646190",
+      "label": "Argentine National Congress",
+      "seats": 0,
+      "web": "https://www.congreso.gob.ar/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Argentine Senate",
+    "Chamber of Deputies of Argentina"
+  ],
+  "seats": 329,
+  "items": [
+    {
+      "id": "Q2118303",
+      "name": "Argentine Senate",
+      "kind": "chamber",
+      "seats": 72,
+      "url": "https://www.senado.gob.ar/"
+    },
+    {
+      "id": "Q629133",
+      "name": "Chamber of Deputies of Argentina",
+      "kind": "chamber",
+      "seats": 257,
+      "url": "https://hcdn.gob.ar"
+    },
+    {
+      "id": "Q646190",
+      "name": "Argentine National Congress",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://www.congreso.gob.ar/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

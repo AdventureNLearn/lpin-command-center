@@ -1,9 +1,18 @@
 {
   "iso2": "ke",
-  "items": [],
+  "items": [
+    {
+      "id": "ethics",
+      "hole": "No sourced ethics filings.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "money",
+      "hole": "No sourced money file.",
+      "basis": "Evidence"
+    }
+  ],
   "incomplete": true,
-  "examined_pairs": 2,
-  "votes_with_positions": 0,
-  "retrieved": "2026-08-21",
-  "note": "No gap row: votes.json has 0 member yeas. 54 clerk + 11 hansard Third Readings store official totals / passage lines only. Examined 2 sourced-pledge × same-issue clerk/hansard vote pairs already in votes.json (0 with this member's yea/nay; 0 on/after pledge date; 0 unambiguous polarity). votes.json issue_id empty on 23/65 — titles mapped at examination only, not written back. Recorded totals and same issue_id are not breaks. Did not invent yeas. Honest incomplete."
+  "retrieved": "2026-09-06",
+  "note": "Full-ISO fill 2026-09-06. Chambers: Parliament of Kenya · Senate of Kenya · National Assembly. Sitting 348. Empty objects not invented."
 }

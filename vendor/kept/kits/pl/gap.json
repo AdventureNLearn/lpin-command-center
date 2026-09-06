@@ -1,9 +1,13 @@
 {
   "iso2": "pl",
-  "items": [],
+  "items": [
+    {
+      "id": "money",
+      "hole": "No sourced money file.",
+      "basis": "Evidence"
+    }
+  ],
   "incomplete": true,
-  "examined_votes_with_positions": 921,
-  "examined_pairs": 1154,
-  "retrieved": "2026-08-21",
-  "note": "No dual-sourced own-pledge break. Examined 1154 sourced-pledge × same-issue clerk vote pairs already in votes.json (982 with this member's yea/nay; 489 on/after pledge date; 0 with unambiguous polarity). 921/921 clerk rolls have nominative positions. votes.json issue_id empty on 596/921 — titles mapped at examination only, not written back. Same issue_id is not a break. Procedural skrócenie terminu / kworum / porządek, omnibus ustawa budżetowa, mixed energy-climate, generic family/worker sentences, and unmapped titles not scored. Did not invent yeas. Honest empty."
+  "retrieved": "2026-09-06",
+  "note": "Full-ISO fill 2026-09-06. Chambers: Parliament of Poland · Sejm of the Republic of Poland · Senate of Poland. Sitting 460. Empty objects not invented."
 }

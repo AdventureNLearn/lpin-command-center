@@ -3,8 +3,53 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q820697"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q820697",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q3510854",
+      "label": "Senate of Jordan",
+      "url": "http://www.senate.jo/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q3510854",
+      "label": "Senate of Jordan (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q3510854",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q320304",
+      "label": "House of Representatives of Jordan",
+      "url": "https://representatives.jo/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q320304",
+      "label": "House of Representatives of Jordan (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q320304",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q820697",
+      "label": "Parliament of Jordan",
+      "url": "http://www.parliament.jo",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q820697",
+      "label": "Parliament of Jordan (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q820697",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

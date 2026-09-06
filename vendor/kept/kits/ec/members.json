@@ -3,11 +3,28 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1319595",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 22,
+  "incomplete": true,
+  "claimed_seats": 137,
+  "chambers": [
+    "National Assembly",
+    "Member of the National Assembly of Ecuador"
+  ],
   "items": [
     {
-      "id": "lucia-robles",
+      "id": "cesar-litardo-q1319595",
+      "name": "César Litardo",
+      "sitting": true,
+      "party_id": "pais-alliance",
+      "caucus": "PAIS Alliance",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q64590384"
+    },
+    {
+      "id": "lucia-robles-q1319595",
       "name": "Lucía Robles",
       "sitting": true,
       "party_id": "unknown",
@@ -20,46 +37,124 @@
       "roster_url": "http://www.wikidata.org/entity/Q123036434"
     },
     {
-      "id": "valentina-centeno",
-      "name": "Valentina Centeno",
+      "id": "paola-pabon-q1319595",
+      "name": "Paola Pabón",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "pais-alliance",
+      "caucus": "PAIS Alliance",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q123574322"
+      "roster_url": "http://www.wikidata.org/entity/Q20994955"
     },
     {
-      "id": "carlos-vera",
-      "name": "Carlos Vera",
+      "id": "sofia-sanchez-q1319595",
+      "name": "Sofía Sanchez",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
+      "constituency_label": "Azuay Province",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q111629605"
+    },
+    {
+      "id": "luisa-gonzalez-q1319595",
+      "name": "Luisa González",
+      "sitting": true,
+      "party_id": "social-christian-party",
+      "caucus": "Social Christian Party",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q269540"
+      "roster_url": "http://www.wikidata.org/entity/Q112323602"
     },
     {
-      "id": "ronny-aleaga",
-      "name": "Ronny Aleaga",
+      "id": "virgilio-hernandez-enriquez-q1319595",
+      "name": "Virgilio Hernández Enríquez",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "pachakutik",
+      "caucus": "Pachakutik",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q125923865"
+      "roster_url": "http://www.wikidata.org/entity/Q23691657"
     },
     {
-      "id": "angelica-maria-andino-robalino",
+      "id": "daniel-mendoza-q1319595",
+      "name": "Daniel Mendoza",
+      "sitting": true,
+      "party_id": "mejor-movement",
+      "caucus": "Mejor Movement",
+      "constituency_label": "Manabí Province",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q96679468"
+    },
+    {
+      "id": "fernando-villavicencio-q1319595",
+      "name": "Fernando Villavicencio",
+      "sitting": true,
+      "party_id": "gente-bueno",
+      "caucus": "Gente Bueno",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q55547400"
+    },
+    {
+      "id": "nathalie-viteri-q1319595",
+      "name": "Nathalie Viteri",
+      "sitting": true,
+      "party_id": "social-christian-party",
+      "caucus": "Social Christian Party",
+      "constituency_label": "Guayas Province",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q111363480"
+    },
+    {
+      "id": "alexandra-ocles-q1319595",
+      "name": "Alexandra Ocles",
+      "sitting": true,
+      "party_id": "pais-alliance",
+      "caucus": "PAIS Alliance",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16301572"
+    },
+    {
+      "id": "vicente-taiano-q1319595",
+      "name": "Vicente Taiano",
+      "sitting": true,
+      "party_id": "patriotic-society",
+      "caucus": "Patriotic Society",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16646170"
+    },
+    {
+      "id": "angelica-maria-andino-robalino-q1319595",
       "name": "Angélica María Andino Robalino",
       "sitting": true,
       "party_id": "unknown",
@@ -72,7 +167,72 @@
       "roster_url": "http://www.wikidata.org/entity/Q29051867"
     },
     {
-      "id": "mariana-constante",
+      "id": "maria-alejandra-vicuna-q1319595",
+      "name": "María Alejandra Vicuña",
+      "sitting": true,
+      "party_id": "bolivarian-alfarist-alliance",
+      "caucus": "Bolivarian Alfarist Alliance",
+      "constituency_label": "Guayas Province",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q41603596"
+    },
+    {
+      "id": "dalo-bucaram-q1319595",
+      "name": "Dalo Bucaram",
+      "sitting": true,
+      "party_id": "fuerza-ecuador",
+      "caucus": "Fuerza Ecuador",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4664698"
+    },
+    {
+      "id": "cristina-reyes-q1319595",
+      "name": "Cristina Reyes",
+      "sitting": true,
+      "party_id": "social-christian-party",
+      "caucus": "Social Christian Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16302329"
+    },
+    {
+      "id": "guadalupe-llori-q1319595",
+      "name": "Guadalupe Llori",
+      "sitting": true,
+      "party_id": "pachakutik",
+      "caucus": "Pachakutik",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q23902672"
+    },
+    {
+      "id": "montgomery-sanchez-ordonez-q1319595",
+      "name": "Montgomery Sánchez Ordóñez",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q62667740"
+    },
+    {
+      "id": "mariana-constante-q1319595",
       "name": "Mariana Constante",
       "sitting": true,
       "party_id": "unknown",
@@ -85,7 +245,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q29269082"
     },
     {
-      "id": "nicolas-kingman-riofrio",
+      "id": "paco-moncayo-q1319595",
+      "name": "Paco Moncayo",
+      "sitting": true,
+      "party_id": "democratic-left",
+      "caucus": "Democratic Left",
+      "constituency_label": "Pichincha Province",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2335730"
+    },
+    {
+      "id": "nicolas-kingman-riofrio-q1319595",
       "name": "Nicolás Kingman Riofrío",
       "sitting": true,
       "party_id": "unknown",
@@ -98,7 +271,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q16083952"
     },
     {
-      "id": "tania-hermida",
+      "id": "jorge-yunda-q1319595",
+      "name": "Jorge Yunda",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Pichincha Province",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q62398666"
+    },
+    {
+      "id": "tania-hermida-q1319595",
       "name": "Tania Hermida",
       "sitting": true,
       "party_id": "unknown",
@@ -111,8 +297,8 @@
       "roster_url": "http://www.wikidata.org/entity/Q532609"
     },
     {
-      "id": "virgilio-hernandez-enriquez",
-      "name": "Virgilio Hernández Enríquez",
+      "id": "juan-jose-flores-q1319595",
+      "name": "Juan José Flores",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -121,23 +307,62 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q23691657"
+      "roster_url": "http://www.wikidata.org/entity/Q554933"
     },
     {
-      "id": "moises-tacle",
-      "name": "Moisés Tacle",
+      "id": "ronny-aleaga-q1319595",
+      "name": "Ronny Aleaga",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "pais-alliance",
+      "caucus": "PAIS Alliance",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q28503395"
+      "roster_url": "http://www.wikidata.org/entity/Q125923865"
     },
     {
-      "id": "josebeth-jaramillo",
+      "id": "magali-orellana-q1319595",
+      "name": "Magali Orellana",
+      "sitting": true,
+      "party_id": "popular-unity",
+      "caucus": "Popular Unity",
+      "constituency_label": "Orellana Province",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q62566967"
+    },
+    {
+      "id": "elizabeth-cabezas-q1319595",
+      "name": "Elizabeth Cabezas",
+      "sitting": true,
+      "party_id": "independiente",
+      "caucus": "Independiente",
+      "constituency_label": "Pichincha Province",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q50524224"
+    },
+    {
+      "id": "jose-serrano-q1319595",
+      "name": "José Serrano",
+      "sitting": true,
+      "party_id": "pais-alliance",
+      "caucus": "PAIS Alliance",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13583431"
+    },
+    {
+      "id": "josebeth-jaramillo-q1319595",
       "name": "Josebeth Jaramillo",
       "sitting": true,
       "party_id": "unknown",
@@ -150,7 +375,111 @@
       "roster_url": "http://www.wikidata.org/entity/Q136439216"
     },
     {
-      "id": "veronica-rodriguez",
+      "id": "paola-cabezas-q1319595",
+      "name": "Paola Cabezas",
+      "sitting": true,
+      "party_id": "pais-alliance",
+      "caucus": "PAIS Alliance",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q106859811"
+    },
+    {
+      "id": "jose-joaquin-de-olmedo-q1319595",
+      "name": "José Joaquín de Olmedo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q981503"
+    },
+    {
+      "id": "valentina-centeno-q1319595",
+      "name": "Valentina Centeno",
+      "sitting": true,
+      "party_id": "national-democratic-action",
+      "caucus": "National Democratic Action",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123574322"
+    },
+    {
+      "id": "lenin-hurtado-q1319595",
+      "name": "Lenin Hurtado",
+      "sitting": true,
+      "party_id": "popular-unity",
+      "caucus": "Popular Unity",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q27786523"
+    },
+    {
+      "id": "esthela-acero-q1319595",
+      "name": "Esthela Acero",
+      "sitting": true,
+      "party_id": "pais-alliance",
+      "caucus": "PAIS Alliance",
+      "constituency_label": "Pichincha Province",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q59698527"
+    },
+    {
+      "id": "ana-galarza-q1319595",
+      "name": "Ana Galarza",
+      "sitting": true,
+      "party_id": "movimiento-ecuatoriano-unido",
+      "caucus": "Movimiento Ecuatoriano Unido",
+      "constituency_label": "Tungurahua Province",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4750356"
+    },
+    {
+      "id": "andres-paez-q1319595",
+      "name": "Andrés Páez",
+      "sitting": true,
+      "party_id": "movimiento-ecuatoriano-unido",
+      "caucus": "Movimiento Ecuatoriano Unido",
+      "constituency_label": "Pichincha Province",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20899865"
+    },
+    {
+      "id": "cesar-carrion-q1319595",
+      "name": "César Carrión",
+      "sitting": true,
+      "party_id": "movimiento-ecuatoriano-unido",
+      "caucus": "Movimiento Ecuatoriano Unido",
+      "constituency_label": "Cotopaxi Province",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60649982"
+    },
+    {
+      "id": "veronica-rodriguez-q1319595",
       "name": "Verónica Rodríguez",
       "sitting": true,
       "party_id": "unknown",
@@ -163,7 +492,46 @@
       "roster_url": "http://www.wikidata.org/entity/Q58894076"
     },
     {
-      "id": "gabriel-rivera",
+      "id": "diana-atamaint-q1319595",
+      "name": "Diana Atamaint",
+      "sitting": true,
+      "party_id": "pachakutik",
+      "caucus": "Pachakutik",
+      "constituency_label": "Morona-Santiago Province",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q44193792"
+    },
+    {
+      "id": "jonathan-parra-q1319595",
+      "name": "Jonathan Parra",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q122397561"
+    },
+    {
+      "id": "carlos-vera-q1319595",
+      "name": "Carlos Vera",
+      "sitting": true,
+      "party_id": "pais-alliance",
+      "caucus": "PAIS Alliance",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q269540"
+    },
+    {
+      "id": "gabriel-rivera-q1319595",
       "name": "Gabriel Rivera",
       "sitting": true,
       "party_id": "unknown",
@@ -176,63 +544,11 @@
       "roster_url": "http://www.wikidata.org/entity/Q50280913"
     },
     {
-      "id": "elizabeth-cabezas",
-      "name": "Elizabeth Cabezas",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Pichincha Province",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q50524224"
-    },
-    {
-      "id": "patricio-donoso",
-      "name": "Patricio Donoso",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q64225789"
-    },
-    {
-      "id": "paola-cabezas",
-      "name": "Paola Cabezas",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q106859811"
-    },
-    {
-      "id": "nathalie-viteri",
-      "name": "Nathalie Viteri",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q111363480"
-    },
-    {
-      "id": "vanessa-freire",
+      "id": "vanessa-freire-q1319595",
       "name": "Vanessa Freire",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "union-for-hope",
+      "caucus": "Union for Hope",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
@@ -241,7 +557,124 @@
       "roster_url": "http://www.wikidata.org/entity/Q111597784"
     },
     {
-      "id": "maria-velasquez-zambrano",
+      "id": "moises-tacle-q1319595",
+      "name": "Moisés Tacle",
+      "sitting": true,
+      "party_id": "social-christian-party",
+      "caucus": "Social Christian Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28503395"
+    },
+    {
+      "id": "lourdes-tiban-q1319595",
+      "name": "Lourdes Tibán",
+      "sitting": true,
+      "party_id": "pachakutik",
+      "caucus": "Pachakutik",
+      "constituency_label": "Ecuador",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16302212"
+    },
+    {
+      "id": "wilma-andrade-q1319595",
+      "name": "Wilma Andrade",
+      "sitting": true,
+      "party_id": "democratic-left",
+      "caucus": "Democratic Left",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28503151"
+    },
+    {
+      "id": "javier-cadena-q1319595",
+      "name": "Javier Cadena",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q101146495"
+    },
+    {
+      "id": "susana-gonzalez-q1319595",
+      "name": "Susana González",
+      "sitting": true,
+      "party_id": "movimiento-civico-madera-de-guerrero",
+      "caucus": "Movimiento Cívico Madera de Guerrero",
+      "constituency_label": "Guayas Province",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19934538"
+    },
+    {
+      "id": "clever-jimenez-q1319595",
+      "name": "Cléver Jiménez",
+      "sitting": true,
+      "party_id": "pachakutik",
+      "caucus": "Pachakutik",
+      "constituency_label": "Zamora Chinchipe",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q30084340"
+    },
+    {
+      "id": "maria-mercedes-cuesta-q1319595",
+      "name": "María Mercedes Cuesta",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q62004853"
+    },
+    {
+      "id": "fernando-aguirre-cordero-q1319595",
+      "name": "Fernando Aguirre Cordero",
+      "sitting": true,
+      "party_id": "social-christian-party",
+      "caucus": "Social Christian Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97940954"
+    },
+    {
+      "id": "pabel-munoz-q1319595",
+      "name": "Pabel Muñoz",
+      "sitting": true,
+      "party_id": "pais-alliance",
+      "caucus": "PAIS Alliance",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28503065"
+    },
+    {
+      "id": "maria-velasquez-zambrano-q1319595",
       "name": "María Velásquez Zambrano",
       "sitting": true,
       "party_id": "unknown",
@@ -254,7 +687,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q111971947"
     },
     {
-      "id": "sofia-espin",
+      "id": "sofia-espin-q1319595",
       "name": "Sofia Espin",
       "sitting": true,
       "party_id": "unknown",
@@ -267,30 +700,30 @@
       "roster_url": "http://www.wikidata.org/entity/Q112119497"
     },
     {
-      "id": "amada-ortiz",
+      "id": "patricio-donoso-q1319595",
+      "name": "Patricio Donoso",
+      "sitting": true,
+      "party_id": "movimiento-ecuatoriano-unido",
+      "caucus": "Movimiento Ecuatoriano Unido",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q64225789"
+    },
+    {
+      "id": "amada-ortiz-q1319595",
       "name": "Amada Ortíz",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "democratic-left",
+      "caucus": "Democratic Left",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q112206756"
-    },
-    {
-      "id": "jonathan-parra",
-      "name": "Jonathan Parra",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q122397561"
     }
   ]
 }

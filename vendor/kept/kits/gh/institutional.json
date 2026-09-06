@@ -1,7 +1,44 @@
 {
   "iso2": "gh",
   "kit": "institutional",
-  "items": [],
   "incomplete": true,
-  "note": ":8103 claimed institutional_kits = 0."
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q117",
+  "bodies": [
+    {
+      "qid": "Q21290881",
+      "label": "Member of the Parliament of Ghana",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1807513",
+      "label": "Parliament of Ghana",
+      "seats": 275,
+      "web": "http://www.parliament.gh",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Member of the Parliament of Ghana"
+  ],
+  "seats": 275,
+  "items": [
+    {
+      "id": "Q21290881",
+      "name": "Member of the Parliament of Ghana",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q21290881"
+    },
+    {
+      "id": "Q1807513",
+      "name": "Parliament of Ghana",
+      "kind": "parliament",
+      "seats": 275,
+      "url": "http://www.parliament.gh"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

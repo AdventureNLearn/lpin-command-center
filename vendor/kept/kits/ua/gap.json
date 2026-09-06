@@ -1,9 +1,13 @@
 {
   "iso2": "ua",
-  "items": [],
+  "items": [
+    {
+      "id": "money",
+      "hole": "No sourced money file.",
+      "basis": "Evidence"
+    }
+  ],
   "incomplete": true,
-  "examined_votes_with_positions": 22093,
-  "examined_pairs": 275575,
-  "retrieved": "2026-08-21",
-  "note": "No dual-sourced own-pledge break. Examined 22093 clerk votes that already have member yea/nay (of 22367 plenary events; 274 remaining empties are Реєстрація rows with no packed names; empty packed leftover 0). Same-issue pairs 275575; 118040 with this member's yea/nay; 1092 with unambiguous polarity. votes.json issue_id empty — titles mapped locally, not written back. Polarity only when pledge sentence and vote title are unambiguous opposites. Procedural, personnel, signal, martial-law/mobilisation-as-defence, and mixed titles not scored. Did not invent yeas. 58 vacancies not padded. Honest incomplete."
+  "retrieved": "2026-09-06",
+  "note": "Full-ISO fill 2026-09-06. Chambers: People's Deputy of Ukraine · Verkhovna Rada. Sitting 392. Empty objects not invented."
 }

@@ -1,0 +1,44 @@
+{
+  "iso2": "cu",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q241",
+  "bodies": [
+    {
+      "qid": "Q720753",
+      "label": "National Assembly of People's Power",
+      "seats": 470,
+      "web": "http://www.parlamentocubano.gob.cu/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q21272829",
+      "label": "Q21272829",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Q21272829"
+  ],
+  "seats": 470,
+  "items": [
+    {
+      "id": "Q720753",
+      "name": "National Assembly of People's Power",
+      "kind": "parliament",
+      "seats": 470,
+      "url": "http://www.parlamentocubano.gob.cu/"
+    },
+    {
+      "id": "Q21272829",
+      "name": "Q21272829",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q21272829"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

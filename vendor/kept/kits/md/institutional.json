@@ -1,0 +1,44 @@
+{
+  "iso2": "md",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q217",
+  "bodies": [
+    {
+      "qid": "Q555809",
+      "label": "Parliament of the Republic of Moldova",
+      "seats": 101,
+      "web": "https://parlament.md/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q18390049",
+      "label": "member of the Parliament of Moldova",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "member of the Parliament of Moldova"
+  ],
+  "seats": 101,
+  "items": [
+    {
+      "id": "Q555809",
+      "name": "Parliament of the Republic of Moldova",
+      "kind": "parliament",
+      "seats": 101,
+      "url": "https://parlament.md/"
+    },
+    {
+      "id": "Q18390049",
+      "name": "member of the Parliament of Moldova",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q18390049"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

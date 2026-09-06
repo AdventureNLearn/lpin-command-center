@@ -1,7 +1,59 @@
 {
   "iso2": "ph",
   "kit": "institutional",
-  "items": [],
   "incomplete": true,
-  "note": ":8103 claimed institutional_kits = 0."
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q928",
+  "bodies": [
+    {
+      "qid": "Q1542985",
+      "label": "Congress of the Philippines",
+      "seats": 0,
+      "web": "",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q678545",
+      "label": "House of Representatives of the Philippines",
+      "seats": 292,
+      "web": "https://www.congress.gov.ph/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1418426",
+      "label": "Senate of the Philippines",
+      "seats": 24,
+      "web": "http://senate.gov.ph/",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "House of Representatives of the Philippines",
+    "Senate of the Philippines"
+  ],
+  "seats": 316,
+  "items": [
+    {
+      "id": "Q1542985",
+      "name": "Congress of the Philippines",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q1542985"
+    },
+    {
+      "id": "Q678545",
+      "name": "House of Representatives of the Philippines",
+      "kind": "chamber",
+      "seats": 292,
+      "url": "https://www.congress.gov.ph/"
+    },
+    {
+      "id": "Q1418426",
+      "name": "Senate of the Philippines",
+      "kind": "chamber",
+      "seats": 24,
+      "url": "http://senate.gov.ph/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

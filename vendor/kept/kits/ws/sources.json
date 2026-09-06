@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1269555"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1269555",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21328619",
+      "label": "Member of the Legislative Assembly of Samoa (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21328619",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1269555",
+      "label": "Legislative Assembly of Samoa",
+      "url": "https://www.palemene.ws",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1269555",
+      "label": "Legislative Assembly of Samoa (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1269555",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

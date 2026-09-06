@@ -1,0 +1,44 @@
+{
+  "iso2": "hr",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q224",
+  "bodies": [
+    {
+      "qid": "Q371576",
+      "label": "Parliament of Croatia",
+      "seats": 151,
+      "web": "http://www.sabor.hr",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q18643511",
+      "label": "representative in the Croatian Parliament",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "representative in the Croatian Parliament"
+  ],
+  "seats": 151,
+  "items": [
+    {
+      "id": "Q371576",
+      "name": "Parliament of Croatia",
+      "kind": "parliament",
+      "seats": 151,
+      "url": "http://www.sabor.hr"
+    },
+    {
+      "id": "Q18643511",
+      "name": "representative in the Croatian Parliament",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q18643511"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

@@ -1,7 +1,59 @@
 {
   "iso2": "id",
   "kit": "institutional",
-  "items": [],
   "incomplete": true,
-  "note": ":8103 claimed institutional_kits = 0."
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q252",
+  "bodies": [
+    {
+      "qid": "Q2670027",
+      "label": "Dewan Perwakilan Rakyat",
+      "seats": 575,
+      "web": "https://www.dpr.go.id/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q2118693",
+      "label": "Regional Representative Council",
+      "seats": 152,
+      "web": "https://dpd.go.id/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q818711",
+      "label": "People's Consultative Assembly",
+      "seats": 732,
+      "web": "https://mpr.go.id/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Dewan Perwakilan Rakyat",
+    "Regional Representative Council"
+  ],
+  "seats": 1459,
+  "items": [
+    {
+      "id": "Q2670027",
+      "name": "Dewan Perwakilan Rakyat",
+      "kind": "chamber",
+      "seats": 575,
+      "url": "https://www.dpr.go.id/"
+    },
+    {
+      "id": "Q2118693",
+      "name": "Regional Representative Council",
+      "kind": "chamber",
+      "seats": 152,
+      "url": "https://dpd.go.id/"
+    },
+    {
+      "id": "Q818711",
+      "name": "People's Consultative Assembly",
+      "kind": "parliament",
+      "seats": 732,
+      "url": "https://mpr.go.id/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

@@ -1,0 +1,44 @@
+{
+  "iso2": "bw",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q963",
+  "bodies": [
+    {
+      "qid": "Q21290847",
+      "label": "member of the National Assembly of Botswana",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q859658",
+      "label": "National Assembly of Botswana",
+      "seats": 63,
+      "web": "http://www.parliament.gov.bw/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "member of the National Assembly of Botswana"
+  ],
+  "seats": 63,
+  "items": [
+    {
+      "id": "Q21290847",
+      "name": "member of the National Assembly of Botswana",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q21290847"
+    },
+    {
+      "id": "Q859658",
+      "name": "National Assembly of Botswana",
+      "kind": "parliament",
+      "seats": 63,
+      "url": "http://www.parliament.gov.bw/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

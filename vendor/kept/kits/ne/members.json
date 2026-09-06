@@ -3,11 +3,15 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1969585",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 200,
+  "incomplete": true,
+  "claimed_seats": 171,
+  "chambers": [
+    "Member of the National Assembly of Niger",
+    "National Assembly"
+  ],
   "items": [
     {
-      "id": "mahamadou-amadou",
+      "id": "mahamadou-amadou-q1969585",
       "name": "Mahamadou Amadou",
       "sitting": true,
       "party_id": "unknown",
@@ -20,20 +24,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679625"
     },
     {
-      "id": "hadizatou-kafougou",
-      "name": "Hadizatou Kafougou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679520"
-    },
-    {
-      "id": "amadou-oumarou",
+      "id": "amadou-oumarou-q1969585",
       "name": "Amadou Oumarou",
       "sitting": true,
       "party_id": "unknown",
@@ -46,267 +37,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679561"
     },
     {
-      "id": "amadou-djibo-ali",
-      "name": "Amadou Djibo Ali",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679526"
-    },
-    {
-      "id": "abdou-adamou",
-      "name": "Abdou Adamou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679538"
-    },
-    {
-      "id": "abdou-boubacar",
-      "name": "Abdou Boubacar",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679539"
-    },
-    {
-      "id": "abdallah-mahamadou",
-      "name": "Abdallah Mahamadou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679537"
-    },
-    {
-      "id": "abdou-hamza",
-      "name": "Abdou Hamza",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679540"
-    },
-    {
-      "id": "adam-efangal",
-      "name": "Adam Efangal",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679543"
-    },
-    {
-      "id": "abdou-mani",
-      "name": "Abdou Mani",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679541"
-    },
-    {
-      "id": "aichatou-abba",
-      "name": "Aichatou Abba",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679547"
-    },
-    {
-      "id": "ahmed-elhadji-gondji",
-      "name": "Ahmed Elhadji Gondji",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679544"
-    },
-    {
-      "id": "ahmet-hameda",
-      "name": "Ahmet Hameda",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679545"
-    },
-    {
-      "id": "aissatou-abdoulaye-tondi",
-      "name": "Aissatou Abdoulaye Tondi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679550"
-    },
-    {
-      "id": "aichatou-barko-amadou",
-      "name": "Aichatou Barko Amadou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679548"
-    },
-    {
-      "id": "algabi-elhadji-atta",
-      "name": "Algabi Elhadji Atta",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679551"
-    },
-    {
-      "id": "alkabouss-jalaoui",
-      "name": "Alkabouss Jalaoui",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679554"
-    },
-    {
-      "id": "alhader-samro",
-      "name": "Alhader Samro",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679552"
-    },
-    {
-      "id": "amadou-dioffo",
-      "name": "Amadou Dioffo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679555"
-    },
-    {
-      "id": "alio-namata",
-      "name": "Alio Namata",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679553"
-    },
-    {
-      "id": "amadou-idrissa",
-      "name": "Amadou Idrissa",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679558"
-    },
-    {
-      "id": "amadou-mahaman-sani",
-      "name": "Amadou Mahaman Sani",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679559"
-    },
-    {
-      "id": "amadou-goulo-abdou",
-      "name": "Amadou Goulo Abdou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679556"
-    },
-    {
-      "id": "amina-abdou-souna",
+      "id": "amina-abdou-souna-q1969585",
       "name": "Amina Abdou Souna",
       "sitting": true,
       "party_id": "unknown",
@@ -319,7 +50,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679562"
     },
     {
-      "id": "amadou-massalatchi",
+      "id": "amadou-massalatchi-q1969585",
       "name": "Amadou Massalatchi",
       "sitting": true,
       "party_id": "unknown",
@@ -332,7 +63,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679560"
     },
     {
-      "id": "amina-elhadji-ousmane-barmo",
+      "id": "amina-elhadji-ousmane-barmo-q1969585",
       "name": "Amina Elhadji Ousmane Barmo",
       "sitting": true,
       "party_id": "unknown",
@@ -345,7 +76,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679563"
     },
     {
-      "id": "aminatou-habibou",
+      "id": "aminatou-habibou-q1969585",
       "name": "Aminatou Habibou",
       "sitting": true,
       "party_id": "unknown",
@@ -358,7 +89,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679566"
     },
     {
-      "id": "amina-saminou",
+      "id": "amina-saminou-q1969585",
       "name": "Amina Saminou",
       "sitting": true,
       "party_id": "unknown",
@@ -371,7 +102,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679564"
     },
     {
-      "id": "aminata-garanke",
+      "id": "aminata-garanke-q1969585",
       "name": "Aminata Garanké",
       "sitting": true,
       "party_id": "unknown",
@@ -384,7 +115,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679565"
     },
     {
-      "id": "assane-dit-koubou-marou",
+      "id": "assane-dit-koubou-marou-q1969585",
       "name": "Assane Dit Koubou Marou",
       "sitting": true,
       "party_id": "unknown",
@@ -397,7 +128,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679567"
     },
     {
-      "id": "assoumana-karoua",
+      "id": "assoumana-karoua-q1969585",
       "name": "Assoumana Karoua",
       "sitting": true,
       "party_id": "unknown",
@@ -410,7 +141,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679568"
     },
     {
-      "id": "assoumi-tahirou",
+      "id": "assoumi-tahirou-q1969585",
       "name": "Assoumi Tahirou",
       "sitting": true,
       "party_id": "unknown",
@@ -423,7 +154,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679569"
     },
     {
-      "id": "bachir-sidi-abdoul-aziz",
+      "id": "bachir-sidi-abdoul-aziz-q1969585",
       "name": "Bachir Sidi Abdoul Aziz",
       "sitting": true,
       "party_id": "unknown",
@@ -436,7 +167,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679570"
     },
     {
-      "id": "badi-ibrahim",
+      "id": "badi-ibrahim-q1969585",
       "name": "Badi Ibrahim",
       "sitting": true,
       "party_id": "unknown",
@@ -449,7 +180,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679571"
     },
     {
-      "id": "baraka-mamane",
+      "id": "baraka-mamane-q1969585",
       "name": "Baraka Mamane",
       "sitting": true,
       "party_id": "unknown",
@@ -462,7 +193,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679572"
     },
     {
-      "id": "barakatou-laouali",
+      "id": "barakatou-laouali-q1969585",
       "name": "Barakatou Laouali",
       "sitting": true,
       "party_id": "unknown",
@@ -475,7 +206,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679573"
     },
     {
-      "id": "bibata-seyni-djibo",
+      "id": "bibata-seyni-djibo-q1969585",
       "name": "Bibata Seyni Djibo",
       "sitting": true,
       "party_id": "unknown",
@@ -488,7 +219,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679576"
     },
     {
-      "id": "boucary-sani",
+      "id": "boucary-sani-q1969585",
       "name": "Boucary Sani",
       "sitting": true,
       "party_id": "unknown",
@@ -501,7 +232,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679578"
     },
     {
-      "id": "boubacar-oumarou",
+      "id": "boubacar-oumarou-q1969585",
       "name": "Boubacar Oumarou",
       "sitting": true,
       "party_id": "unknown",
@@ -514,20 +245,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679577"
     },
     {
-      "id": "ibrahima-souleymane",
-      "name": "Ibrahima Souleymane",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679516"
-    },
-    {
-      "id": "dardaou-zanaidou",
+      "id": "dardaou-zanaidou-q1969585",
       "name": "Dardaou Zanaidou",
       "sitting": true,
       "party_id": "unknown",
@@ -540,7 +258,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679579"
     },
     {
-      "id": "doulla-moussa-afmad",
+      "id": "doulla-moussa-afmad-q1969585",
       "name": "Doulla Moussa Afmad",
       "sitting": true,
       "party_id": "unknown",
@@ -553,7 +271,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679582"
     },
     {
-      "id": "djibo-madougou",
+      "id": "djibo-madougou-q1969585",
       "name": "Djibo Madougou",
       "sitting": true,
       "party_id": "unknown",
@@ -566,7 +284,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679580"
     },
     {
-      "id": "elhadji-boulou-mamadou",
+      "id": "elhadji-boulou-mamadou-q1969585",
       "name": "Elhadji Boulou Mamadou",
       "sitting": true,
       "party_id": "unknown",
@@ -579,7 +297,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679583"
     },
     {
-      "id": "fatouma-abdoulaye-sambo",
+      "id": "fatouma-abdoulaye-sambo-q1969585",
       "name": "Fatouma Abdoulaye Sambo",
       "sitting": true,
       "party_id": "unknown",
@@ -592,7 +310,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679586"
     },
     {
-      "id": "fatsima-ibrahim",
+      "id": "fatsima-ibrahim-q1969585",
       "name": "Fatsima Ibrahim",
       "sitting": true,
       "party_id": "unknown",
@@ -605,7 +323,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679587"
     },
     {
-      "id": "fatima-doubou-dogo",
+      "id": "fatima-doubou-dogo-q1969585",
       "name": "Fatima Doubou Dogo",
       "sitting": true,
       "party_id": "unknown",
@@ -618,7 +336,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679585"
     },
     {
-      "id": "fougou-boukar",
+      "id": "fougou-boukar-q1969585",
       "name": "Fougou Boukar",
       "sitting": true,
       "party_id": "unknown",
@@ -631,20 +349,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679588"
     },
     {
-      "id": "mahamadou-karidio",
-      "name": "Mahamadou Karidio",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679530"
-    },
-    {
-      "id": "hadizatou-gado",
+      "id": "hadizatou-gado-q1969585",
       "name": "Hadizatou Gado",
       "sitting": true,
       "party_id": "unknown",
@@ -657,7 +362,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679591"
     },
     {
-      "id": "hadidjiatou-haladou",
+      "id": "hadidjiatou-haladou-q1969585",
       "name": "Hadidjiatou Haladou",
       "sitting": true,
       "party_id": "unknown",
@@ -670,7 +375,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679589"
     },
     {
-      "id": "hambali-ali",
+      "id": "hambali-ali-q1969585",
       "name": "Hambali Ali",
       "sitting": true,
       "party_id": "unknown",
@@ -683,7 +388,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679594"
     },
     {
-      "id": "hamissou-abdoua",
+      "id": "hamissou-abdoua-q1969585",
       "name": "Hamissou Abdoua",
       "sitting": true,
       "party_id": "unknown",
@@ -696,7 +401,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679595"
     },
     {
-      "id": "hadizatou-yacouba-bozari",
+      "id": "hadizatou-yacouba-bozari-q1969585",
       "name": "Hadizatou Yacouba Bozari",
       "sitting": true,
       "party_id": "unknown",
@@ -709,7 +414,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679592"
     },
     {
-      "id": "halidou-hama",
+      "id": "halidou-hama-q1969585",
       "name": "Halidou Hama",
       "sitting": true,
       "party_id": "unknown",
@@ -722,7 +427,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679593"
     },
     {
-      "id": "hamza-garba",
+      "id": "hamza-garba-q1969585",
       "name": "Hamza Garba",
       "sitting": true,
       "party_id": "unknown",
@@ -735,7 +440,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679598"
     },
     {
-      "id": "haoua-hassane",
+      "id": "haoua-hassane-q1969585",
       "name": "Haoua Hassane",
       "sitting": true,
       "party_id": "unknown",
@@ -748,7 +453,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679599"
     },
     {
-      "id": "hamza-boka",
+      "id": "hamza-boka-q1969585",
       "name": "Hamza Boka",
       "sitting": true,
       "party_id": "unknown",
@@ -761,7 +466,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679597"
     },
     {
-      "id": "hassane-ali-abdourahamane",
+      "id": "hassane-ali-abdourahamane-q1969585",
       "name": "Hassane Ali Abdourahamane",
       "sitting": true,
       "party_id": "unknown",
@@ -774,7 +479,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679602"
     },
     {
-      "id": "hapsatou-djibrilla",
+      "id": "hapsatou-djibrilla-q1969585",
       "name": "Hapsatou Djibrilla",
       "sitting": true,
       "party_id": "unknown",
@@ -787,7 +492,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679600"
     },
     {
-      "id": "hassane-saley",
+      "id": "hassane-saley-q1969585",
       "name": "Hassane Saley",
       "sitting": true,
       "party_id": "unknown",
@@ -800,7 +505,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679603"
     },
     {
-      "id": "hassana-boubacar",
+      "id": "hassana-boubacar-q1969585",
       "name": "Hassana Boubacar",
       "sitting": true,
       "party_id": "unknown",
@@ -813,7 +518,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679601"
     },
     {
-      "id": "hassia-hassan",
+      "id": "hassia-hassan-q1969585",
       "name": "Hassia Hassan",
       "sitting": true,
       "party_id": "unknown",
@@ -826,7 +531,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679604"
     },
     {
-      "id": "ibrahim-eka",
+      "id": "ibrahim-eka-q1969585",
       "name": "Ibrahim Eka",
       "sitting": true,
       "party_id": "unknown",
@@ -839,7 +544,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679606"
     },
     {
-      "id": "idi-ango-ousmane",
+      "id": "idi-ango-ousmane-q1969585",
       "name": "Idi Ango Ousmane",
       "sitting": true,
       "party_id": "unknown",
@@ -852,7 +557,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679607"
     },
     {
-      "id": "illiassou-hamadou",
+      "id": "illiassou-hamadou-q1969585",
       "name": "Illiassou Hamadou",
       "sitting": true,
       "party_id": "unknown",
@@ -865,7 +570,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679610"
     },
     {
-      "id": "illia-labo",
+      "id": "illia-labo-q1969585",
       "name": "Illia Labo",
       "sitting": true,
       "party_id": "unknown",
@@ -878,7 +583,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679609"
     },
     {
-      "id": "ismael-issoufou-salifou",
+      "id": "ismael-issoufou-salifou-q1969585",
       "name": "Ismaël Issoufou Salifou",
       "sitting": true,
       "party_id": "unknown",
@@ -891,7 +596,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679611"
     },
     {
-      "id": "issaka-assoumane",
+      "id": "issaka-assoumane-q1969585",
       "name": "Issaka Assoumane",
       "sitting": true,
       "party_id": "unknown",
@@ -904,7 +609,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679612"
     },
     {
-      "id": "kadi-zakari",
+      "id": "kadi-zakari-q1969585",
       "name": "Kadi Zakari",
       "sitting": true,
       "party_id": "unknown",
@@ -917,7 +622,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679613"
     },
     {
-      "id": "khalid-hamadi",
+      "id": "khalid-hamadi-q1969585",
       "name": "Khalid Hamadi",
       "sitting": true,
       "party_id": "unknown",
@@ -930,7 +635,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679614"
     },
     {
-      "id": "khalil-oumbarik",
+      "id": "khalil-oumbarik-q1969585",
       "name": "Khalil Oumbarik",
       "sitting": true,
       "party_id": "unknown",
@@ -943,7 +648,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679615"
     },
     {
-      "id": "lantana-oumarou",
+      "id": "lantana-oumarou-q1969585",
       "name": "Lantana Oumarou",
       "sitting": true,
       "party_id": "unknown",
@@ -956,7 +661,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679618"
     },
     {
-      "id": "laila-attoujani",
+      "id": "laila-attoujani-q1969585",
       "name": "Laila Attoujani",
       "sitting": true,
       "party_id": "unknown",
@@ -969,7 +674,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679617"
     },
     {
-      "id": "laouali-ibrahim",
+      "id": "laouali-ibrahim-q1969585",
       "name": "Laouali Ibrahim",
       "sitting": true,
       "party_id": "unknown",
@@ -982,7 +687,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679620"
     },
     {
-      "id": "laoure-elhadji-sanoussi",
+      "id": "laoure-elhadji-sanoussi-q1969585",
       "name": "Laouré Elhadji Sanoussi",
       "sitting": true,
       "party_id": "unknown",
@@ -995,7 +700,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679621"
     },
     {
-      "id": "maazou-hamidou-dade",
+      "id": "maazou-hamidou-dade-q1969585",
       "name": "Maazou Hamidou Dadé",
       "sitting": true,
       "party_id": "unknown",
@@ -1008,7 +713,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679623"
     },
     {
-      "id": "mahaman-bachir-abdou",
+      "id": "mahaman-bachir-abdou-q1969585",
       "name": "Mahaman Bachir Abdou",
       "sitting": true,
       "party_id": "unknown",
@@ -1021,7 +726,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679626"
     },
     {
-      "id": "mahaman-issa-maifada",
+      "id": "mahaman-issa-maifada-q1969585",
       "name": "Mahaman Issa Maifada",
       "sitting": true,
       "party_id": "unknown",
@@ -1034,7 +739,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679627"
     },
     {
-      "id": "magagi-issaka",
+      "id": "magagi-issaka-q1969585",
       "name": "Magagi Issaka",
       "sitting": true,
       "party_id": "unknown",
@@ -1047,7 +752,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679624"
     },
     {
-      "id": "mahamane-sani-laouali",
+      "id": "mahamane-sani-laouali-q1969585",
       "name": "Mahamane Sani Laouali",
       "sitting": true,
       "party_id": "unknown",
@@ -1060,7 +765,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679630"
     },
     {
-      "id": "mahaman-kabirou-ibrahim-maidaji",
+      "id": "mahaman-kabirou-ibrahim-maidaji-q1969585",
       "name": "Mahaman Kabirou Ibrahim Maidaji",
       "sitting": true,
       "party_id": "unknown",
@@ -1073,7 +778,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679628"
     },
     {
-      "id": "mahaman-laoual-bako-galadima",
+      "id": "mahaman-laoual-bako-galadima-q1969585",
       "name": "Mahaman Laoual Bako Galadima",
       "sitting": true,
       "party_id": "unknown",
@@ -1086,7 +791,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679629"
     },
     {
-      "id": "maman-rabiou-maina",
+      "id": "maman-rabiou-maina-q1969585",
       "name": "Maman Rabiou Maina",
       "sitting": true,
       "party_id": "unknown",
@@ -1099,7 +804,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679634"
     },
     {
-      "id": "mahmoud-sagdoun",
+      "id": "mahmoud-sagdoun-q1969585",
       "name": "Mahmoud Sagdoun",
       "sitting": true,
       "party_id": "unknown",
@@ -1112,7 +817,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679632"
     },
     {
-      "id": "mamane-bako",
+      "id": "mamane-bako-q1969585",
       "name": "Mamane Bako",
       "sitting": true,
       "party_id": "unknown",
@@ -1125,7 +830,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679635"
     },
     {
-      "id": "malam-moctar-garba",
+      "id": "malam-moctar-garba-q1969585",
       "name": "Malam Moctar Garba",
       "sitting": true,
       "party_id": "unknown",
@@ -1138,7 +843,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679633"
     },
     {
-      "id": "mamani-malan-goga",
+      "id": "mamani-malan-goga-q1969585",
       "name": "Mamani Malan Goga",
       "sitting": true,
       "party_id": "unknown",
@@ -1151,7 +856,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679638"
     },
     {
-      "id": "mamane-harouna",
+      "id": "mamane-harouna-q1969585",
       "name": "Mamane Harouna",
       "sitting": true,
       "party_id": "unknown",
@@ -1164,7 +869,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679636"
     },
     {
-      "id": "mamane-laouali-zabeye-moussa",
+      "id": "mamane-laouali-zabeye-moussa-q1969585",
       "name": "Mamane Laouali Zabèye Moussa",
       "sitting": true,
       "party_id": "unknown",
@@ -1177,254 +882,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679637"
     },
     {
-      "id": "mounkaila-issa",
-      "name": "Mounkaïla Issa",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q106510370"
-    },
-    {
-      "id": "ibrahim-idi-ango-ousmane",
-      "name": "Ibrahim Idi Ango Ousmane",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q106637549"
-    },
-    {
-      "id": "sani-maigochi",
-      "name": "Sani Maïgochi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q110004769"
-    },
-    {
-      "id": "rabi-maitournam-moustapha",
-      "name": "Rabi Maitournam Moustapha",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q110399010"
-    },
-    {
-      "id": "hadiza-seyni-zarmakoye",
-      "name": "Hadiza Seyni Zarmakoye",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q110399463"
-    },
-    {
-      "id": "abdou-rabiou",
-      "name": "Abdou Rabiou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q110537732"
-    },
-    {
-      "id": "hadiza-douara-kafougou",
-      "name": "Hadiza Douara Kafougou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q110537922"
-    },
-    {
-      "id": "amadou-harouna",
-      "name": "Amadou Harouna",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679557"
-    },
-    {
-      "id": "mohamed-ben-omar",
-      "name": "Mohamed Ben Omar",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q92159374"
-    },
-    {
-      "id": "seyni-oumarou",
-      "name": "Seyni Oumarou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q703987"
-    },
-    {
-      "id": "kalla-ankourao",
-      "name": "Kalla Ankourao",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6353461"
-    },
-    {
-      "id": "karidjo-mahamadou",
-      "name": "Karidjo Mahamadou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6370490"
-    },
-    {
-      "id": "mohamed-abdoulahi",
-      "name": "Mohamed Abdoulahi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6890945"
-    },
-    {
-      "id": "aissata-mounkaila",
-      "name": "Aïssata Mounkaïla",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6919199"
-    },
-    {
-      "id": "moussa-moumouni-djermakoye",
-      "name": "Moussa Moumouni Djermakoye",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6926188"
-    },
-    {
-      "id": "ouhoumoudou-mahamadou",
-      "name": "Ouhoumoudou Mahamadou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7110324"
-    },
-    {
-      "id": "oumarou-sidikou",
-      "name": "Oumarou Sidikou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7110501"
-    },
-    {
-      "id": "sanoussi-jackou",
-      "name": "Sanoussi Jackou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7418898"
-    },
-    {
-      "id": "kalla-moutari",
-      "name": "Kalla Moutari",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q81112514"
-    },
-    {
-      "id": "maria-saidou-soule",
+      "id": "maria-saidou-soule-q1969585",
       "name": "Maria Saidou Soulé",
       "sitting": true,
       "party_id": "unknown",
@@ -1437,7 +895,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679639"
     },
     {
-      "id": "mariama-iro",
+      "id": "mariama-iro-q1969585",
       "name": "Mariama Iro",
       "sitting": true,
       "party_id": "unknown",
@@ -1450,7 +908,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679642"
     },
     {
-      "id": "mariama-mamadou-maina",
+      "id": "mariama-mamadou-maina-q1969585",
       "name": "Mariama Mamadou Maïna",
       "sitting": true,
       "party_id": "unknown",
@@ -1463,7 +921,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679643"
     },
     {
-      "id": "mariama-adamou",
+      "id": "mariama-adamou-q1969585",
       "name": "Mariama Adamou",
       "sitting": true,
       "party_id": "unknown",
@@ -1476,7 +934,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679640"
     },
     {
-      "id": "mariama-elhadji-ibrahim",
+      "id": "mariama-elhadji-ibrahim-q1969585",
       "name": "Mariama Elhadji Ibrahim",
       "sitting": true,
       "party_id": "unknown",
@@ -1489,7 +947,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679641"
     },
     {
-      "id": "massaoudou-galy",
+      "id": "massaoudou-galy-q1969585",
       "name": "Massaoudou Galy",
       "sitting": true,
       "party_id": "unknown",
@@ -1502,7 +960,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679644"
     },
     {
-      "id": "moussa-ousmane",
+      "id": "moussa-ousmane-q1969585",
       "name": "Moussa Ousmane",
       "sitting": true,
       "party_id": "unknown",
@@ -1515,7 +973,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679646"
     },
     {
-      "id": "moussa-sale",
+      "id": "moussa-sale-q1969585",
       "name": "Moussa Salé",
       "sitting": true,
       "party_id": "unknown",
@@ -1528,7 +986,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679647"
     },
     {
-      "id": "moutari-ousmane",
+      "id": "moutari-ousmane-q1969585",
       "name": "Moutari Ousmane",
       "sitting": true,
       "party_id": "unknown",
@@ -1541,7 +999,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679650"
     },
     {
-      "id": "moustapha-assan",
+      "id": "moustapha-assan-q1969585",
       "name": "Moustapha Assan",
       "sitting": true,
       "party_id": "unknown",
@@ -1554,7 +1012,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679648"
     },
     {
-      "id": "nana-aicha-laouali",
+      "id": "nana-aicha-laouali-q1969585",
       "name": "Nana Aicha Laouali",
       "sitting": true,
       "party_id": "unknown",
@@ -1567,7 +1025,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679652"
     },
     {
-      "id": "nana-djoubie-harouna",
+      "id": "nana-djoubie-harouna-q1969585",
       "name": "Nana Djoubie Harouna",
       "sitting": true,
       "party_id": "unknown",
@@ -1580,7 +1038,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679653"
     },
     {
-      "id": "nouhou-arba",
+      "id": "nouhou-arba-q1969585",
       "name": "Nouhou Arba",
       "sitting": true,
       "party_id": "unknown",
@@ -1593,7 +1051,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679654"
     },
     {
-      "id": "oumarou-dogari-moumouni",
+      "id": "oumarou-dogari-moumouni-q1969585",
       "name": "Oumarou Dogari Moumouni",
       "sitting": true,
       "party_id": "unknown",
@@ -1606,7 +1064,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679655"
     },
     {
-      "id": "oumarou-tanja-mamadou",
+      "id": "oumarou-tanja-mamadou-q1969585",
       "name": "Oumarou Tanja Mamadou",
       "sitting": true,
       "party_id": "unknown",
@@ -1619,7 +1077,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679658"
     },
     {
-      "id": "oumarou-yahaya",
+      "id": "oumarou-yahaya-q1969585",
       "name": "Oumarou Yahaya",
       "sitting": true,
       "party_id": "unknown",
@@ -1632,7 +1090,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679659"
     },
     {
-      "id": "oumarou-harouna",
+      "id": "oumarou-harouna-q1969585",
       "name": "Oumarou Harouna",
       "sitting": true,
       "party_id": "unknown",
@@ -1645,7 +1103,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679657"
     },
     {
-      "id": "ousseyna-madougou",
+      "id": "ousseyna-madougou-q1969585",
       "name": "Ousseyna Madougou",
       "sitting": true,
       "party_id": "unknown",
@@ -1658,7 +1116,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679661"
     },
     {
-      "id": "rabi-hassane",
+      "id": "rabi-hassane-q1969585",
       "name": "Rabi Hassane",
       "sitting": true,
       "party_id": "unknown",
@@ -1671,7 +1129,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679662"
     },
     {
-      "id": "rabi-kiassa",
+      "id": "rabi-kiassa-q1969585",
       "name": "Rabi Kiassa",
       "sitting": true,
       "party_id": "unknown",
@@ -1684,7 +1142,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679663"
     },
     {
-      "id": "ramatou-hima",
+      "id": "ramatou-hima-q1969585",
       "name": "Ramatou Hima",
       "sitting": true,
       "party_id": "unknown",
@@ -1697,7 +1155,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679666"
     },
     {
-      "id": "rachida-mani-ali",
+      "id": "rachida-mani-ali-q1969585",
       "name": "Rachida Mani Ali",
       "sitting": true,
       "party_id": "unknown",
@@ -1710,7 +1168,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679664"
     },
     {
-      "id": "ramnatou-issa-mayaki",
+      "id": "ramnatou-issa-mayaki-q1969585",
       "name": "Ramnatou Issa Mayaki",
       "sitting": true,
       "party_id": "unknown",
@@ -1723,7 +1181,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679667"
     },
     {
-      "id": "rakiatou-ali-beidi",
+      "id": "rakiatou-ali-beidi-q1969585",
       "name": "Rakiatou Ali Beidi",
       "sitting": true,
       "party_id": "unknown",
@@ -1736,7 +1194,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679665"
     },
     {
-      "id": "sahadatou-saley",
+      "id": "sahadatou-saley-q1969585",
       "name": "Sahadatou Saley",
       "sitting": true,
       "party_id": "unknown",
@@ -1749,7 +1207,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679670"
     },
     {
-      "id": "saida-mohamed-cheloutan",
+      "id": "saida-mohamed-cheloutan-q1969585",
       "name": "Saïda Mohamed Cheloutan",
       "sitting": true,
       "party_id": "unknown",
@@ -1762,7 +1220,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679671"
     },
     {
-      "id": "saade-oumarou",
+      "id": "saade-oumarou-q1969585",
       "name": "Saadé Oumarou",
       "sitting": true,
       "party_id": "unknown",
@@ -1775,7 +1233,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679669"
     },
     {
-      "id": "salifou-moussa",
+      "id": "salifou-moussa-q1969585",
       "name": "Salifou Moussa",
       "sitting": true,
       "party_id": "unknown",
@@ -1788,7 +1246,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679674"
     },
     {
-      "id": "salissou-elh-alio",
+      "id": "salissou-elh-alio-q1969585",
       "name": "Salissou Elh Alio",
       "sitting": true,
       "party_id": "unknown",
@@ -1801,7 +1259,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679675"
     },
     {
-      "id": "saidou-ama",
+      "id": "saidou-ama-q1969585",
       "name": "Saidou Ama",
       "sitting": true,
       "party_id": "unknown",
@@ -1814,7 +1272,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679672"
     },
     {
-      "id": "sale-djibrillou",
+      "id": "sale-djibrillou-q1969585",
       "name": "Salé Djibrillou",
       "sitting": true,
       "party_id": "unknown",
@@ -1827,7 +1285,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679673"
     },
     {
-      "id": "sani-sanoussi",
+      "id": "sani-sanoussi-q1969585",
       "name": "Sani Sanoussi",
       "sitting": true,
       "party_id": "unknown",
@@ -1840,7 +1298,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679679"
     },
     {
-      "id": "samaila-maika",
+      "id": "ousmane-mahamane-q1969585",
+      "name": "Ousmane Mahamane",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131679660"
+    },
+    {
+      "id": "samaila-maika-q1969585",
       "name": "Samaila Maika",
       "sitting": true,
       "party_id": "unknown",
@@ -1853,8 +1324,47 @@
       "roster_url": "http://www.wikidata.org/entity/Q131679676"
     },
     {
-      "id": "samuila-sanoussi",
-      "name": "Samuila Sanoussi",
+      "id": "dandi-abarchi-q1969585",
+      "name": "Dandi Abarchi",
+      "sitting": true,
+      "party_id": "national-movement-for-the-development-of-society",
+      "caucus": "National Movement for the Development of Society",
+      "constituency_label": "Dosso Region",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15431173"
+    },
+    {
+      "id": "abdou-daouda-q1969585",
+      "name": "Abdou Daouda",
+      "sitting": true,
+      "party_id": "democratic-and-social-convention",
+      "caucus": "Democratic and Social Convention",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4665136"
+    },
+    {
+      "id": "abdou-labo-q1969585",
+      "name": "Abdou Labo",
+      "sitting": true,
+      "party_id": "democratic-and-social-convention",
+      "caucus": "Democratic and Social Convention",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4665143"
+    },
+    {
+      "id": "hadizatou-kafougou-q1969585",
+      "name": "Hadizatou Kafougou",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -1863,11 +1373,63 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679677"
+      "roster_url": "http://www.wikidata.org/entity/Q131679520"
     },
     {
-      "id": "sanoussi-moussa-maraini",
-      "name": "Sanoussi Moussa Maraini",
+      "id": "gremah-boucar-q1969585",
+      "name": "Grémah Boucar",
+      "sitting": true,
+      "party_id": "nigerien-party-for-democracy-and-socialism",
+      "caucus": "Nigerien Party for Democracy and Socialism",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5612787"
+    },
+    {
+      "id": "habib-moctar-q1969585",
+      "name": "Habib Moctar",
+      "sitting": true,
+      "party_id": "democratic-and-social-convention",
+      "caucus": "Democratic and Social Convention",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q26715424"
+    },
+    {
+      "id": "albade-abouba-q1969585",
+      "name": "Albadé Abouba",
+      "sitting": true,
+      "party_id": "national-movement-for-the-development-of-society",
+      "caucus": "National Movement for the Development of Society",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2830749"
+    },
+    {
+      "id": "amadou-hassane-q1969585",
+      "name": "Amadou Hassane",
+      "sitting": true,
+      "party_id": "nigerien-progressive-party-african-democratic-rally",
+      "caucus": "Nigerien Progressive Party – African Democratic Rally",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q452297"
+    },
+    {
+      "id": "aichatou-mainassara-q1969585",
+      "name": "Aïchatou Maïnassara",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -1876,11 +1438,11 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679680"
+      "roster_url": "http://www.wikidata.org/entity/Q89716691"
     },
     {
-      "id": "souley-dioffo",
-      "name": "Souley Dioffo",
+      "id": "ibrahima-souleymane-q1969585",
+      "name": "Ibrahima Souleymane",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -1889,11 +1451,24 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679682"
+      "roster_url": "http://www.wikidata.org/entity/Q131679516"
     },
     {
-      "id": "souley-oumarou",
-      "name": "Souley Oumarou",
+      "id": "habi-mahamadou-salissou-q1969585",
+      "name": "Habi Mahamadou Salissou",
+      "sitting": true,
+      "party_id": "national-movement-for-the-development-of-society",
+      "caucus": "National Movement for the Development of Society",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5636746"
+    },
+    {
+      "id": "mohamed-ben-omar-q1969585",
+      "name": "Mohamed Ben Omar",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -1902,11 +1477,76 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679683"
+      "roster_url": "http://www.wikidata.org/entity/Q92159374"
     },
     {
-      "id": "soumana-hassane",
-      "name": "Soumana Hassane",
+      "id": "abdoulaye-hamani-diori-q1969585",
+      "name": "Abdoulaye Hamani Diori",
+      "sitting": true,
+      "party_id": "nigerien-progressive-party-african-democratic-rally",
+      "caucus": "Nigerien Progressive Party – African Democratic Rally",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4665174"
+    },
+    {
+      "id": "amadou-cheiffou-q1969585",
+      "name": "Amadou Cheiffou",
+      "sitting": true,
+      "party_id": "democratic-and-social-convention",
+      "caucus": "Democratic and Social Convention",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q356237"
+    },
+    {
+      "id": "hassoumi-massoudou-q1969585",
+      "name": "Hassoumi Massoudou",
+      "sitting": true,
+      "party_id": "nigerien-party-for-democracy-and-socialism",
+      "caucus": "Nigerien Party for Democracy and Socialism",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5680106"
+    },
+    {
+      "id": "n-gade-nana-hadiza-noma-kaka-q1969585",
+      "name": "N’Gadé Nana Hadiza Noma Kaka",
+      "sitting": true,
+      "party_id": "nigerien-patriotic-movement",
+      "caucus": "Nigerien Patriotic Movement",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58806803"
+    },
+    {
+      "id": "seyni-oumarou-q1969585",
+      "name": "Seyni Oumarou",
+      "sitting": true,
+      "party_id": "national-movement-for-the-development-of-society",
+      "caucus": "National Movement for the Development of Society",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q703987"
+    },
+    {
+      "id": "roukayatou-abdou-issaka-q1969585",
+      "name": "Roukayatou Abdou Issaka",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -1915,11 +1555,11 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679686"
+      "roster_url": "http://www.wikidata.org/entity/Q99630863"
     },
     {
-      "id": "soumana-sanda",
-      "name": "Soumana Sanda",
+      "id": "oumarou-alma-q1969585",
+      "name": "Oumarou Alma",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -1928,114 +1568,23 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679687"
+      "roster_url": "http://www.wikidata.org/entity/Q99823830"
     },
     {
-      "id": "souleymane-arzika",
-      "name": "Souleymane Arzika",
+      "id": "boubou-hama-q1969585",
+      "name": "Boubou Hama",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "african-democratic-rally",
+      "caucus": "African Democratic Rally",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679684"
+      "roster_url": "http://www.wikidata.org/entity/Q2912103"
     },
     {
-      "id": "soumana-gaoh-yacoubou",
-      "name": "Soumana Gaoh Yacoubou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679685"
-    },
-    {
-      "id": "tanimoune-oumarou",
-      "name": "Tanimoune Oumarou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679688"
-    },
-    {
-      "id": "tidere-ahamani",
-      "name": "Tidère Ahamani",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679690"
-    },
-    {
-      "id": "yacine-ben-mohamed",
-      "name": "Yacine Ben Mohamed",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679691"
-    },
-    {
-      "id": "zeinabou-maiga-adama",
-      "name": "Zeinabou Maïga Adama",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679694"
-    },
-    {
-      "id": "zakari-garba",
-      "name": "Zakari Garba",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679692"
-    },
-    {
-      "id": "hadiza-moussa-gros",
-      "name": "Hadiza Moussa Gros",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1567506"
-    },
-    {
-      "id": "kassoum-mamane-moctar",
+      "id": "kassoum-mamane-moctar-q1969585",
       "name": "Kassoum Mamane Moctar",
       "sitting": true,
       "party_id": "unknown",
@@ -2048,124 +1597,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q1735274"
     },
     {
-      "id": "mamadou-tandja",
-      "name": "Mamadou Tandja",
+      "id": "amadou-ali-djibo-q1969585",
+      "name": "Amadou Ali Djibo",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "national-movement-for-the-development-of-society",
+      "caucus": "National Movement for the Development of Society",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q220227"
+      "roster_url": "http://www.wikidata.org/entity/Q4739087"
     },
     {
-      "id": "moumouni-adamou-djermakoye",
-      "name": "Moumouni Adamou Djermakoye",
+      "id": "mahamadou-issoufou-q1969585",
+      "name": "Mahamadou Issoufou",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
+      "party_id": "nigerien-party-for-democracy-and-socialism",
+      "caucus": "Nigerien Party for Democracy and Socialism",
+      "constituency_label": "Tahoua Region",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q2755794"
+      "roster_url": "http://www.wikidata.org/entity/Q57482"
     },
     {
-      "id": "mahamane-ousmane",
-      "name": "Mahamane Ousmane",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q319430"
-    },
-    {
-      "id": "hamid-algabid",
-      "name": "Hamid Algabid",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q331201"
-    },
-    {
-      "id": "albade-abouba",
-      "name": "Albadé Abouba",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2830749"
-    },
-    {
-      "id": "amadou-cheiffou",
-      "name": "Amadou Cheiffou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q356237"
-    },
-    {
-      "id": "boubou-hama",
-      "name": "Boubou Hama",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2912103"
-    },
-    {
-      "id": "boubacar-cisse",
-      "name": "Boubacar Cissé",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q15432114"
-    },
-    {
-      "id": "moutari-moussa",
-      "name": "Moutari Moussa",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q15437568"
-    },
-    {
-      "id": "issaka-issoufou",
+      "id": "issaka-issoufou-q1969585",
       "name": "Issaka Issoufou",
       "sitting": true,
       "party_id": "unknown",
@@ -2178,33 +1636,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q19956213"
     },
     {
-      "id": "ibrahim-yacouba",
-      "name": "Ibrahim Yacouba",
+      "id": "amadou-salifou-q1969585",
+      "name": "Amadou Salifou",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "national-movement-for-the-development-of-society",
+      "caucus": "National Movement for the Development of Society",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q15819843"
+      "roster_url": "http://www.wikidata.org/entity/Q19259177"
     },
     {
-      "id": "ousmane-issoufou-oubandawaki",
-      "name": "Ousmane Issoufou Oubandawaki",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16123823"
-    },
-    {
-      "id": "amadou-gaoh",
+      "id": "amadou-gaoh-q1969585",
       "name": "Amadou Gaoh",
       "sitting": true,
       "party_id": "unknown",
@@ -2217,202 +1662,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q452276"
     },
     {
-      "id": "amadou-hassane",
-      "name": "Amadou Hassane",
+      "id": "sani-maigochi-q1969585",
+      "name": "Sani Maïgochi",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "patriotic-movement-for-the-republic",
+      "caucus": "Patriotic Movement for the Republic",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q452297"
+      "roster_url": "http://www.wikidata.org/entity/Q110004769"
     },
     {
-      "id": "hama-amadou",
-      "name": "Hama Amadou",
+      "id": "bibata-adamou-dakaou-q1969585",
+      "name": "Bibata Adamou Dakaou",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "democratic-and-social-convention",
+      "caucus": "Democratic and Social Convention",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q544141"
+      "roster_url": "http://www.wikidata.org/entity/Q99630890"
     },
     {
-      "id": "abdou-daouda",
-      "name": "Abdou Daouda",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4665136"
-    },
-    {
-      "id": "abdou-labo",
-      "name": "Abdou Labo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4665143"
-    },
-    {
-      "id": "abdoulaye-hamani-diori",
-      "name": "Abdoulaye Hamani Diori",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4665174"
-    },
-    {
-      "id": "amadou-ali-djibo",
-      "name": "Amadou Ali Djibo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4739087"
-    },
-    {
-      "id": "amadou-salifou",
-      "name": "Amadou Salifou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19259177"
-    },
-    {
-      "id": "noma-kaka",
-      "name": "Noma Kaka",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q20027758"
-    },
-    {
-      "id": "daouda-marthe",
-      "name": "Daouda Marthé",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5221545"
-    },
-    {
-      "id": "falke-bacharou",
-      "name": "Falké Bacharou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5431991"
-    },
-    {
-      "id": "foumakoye-gado",
-      "name": "Foumakoye Gado",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5474228"
-    },
-    {
-      "id": "gremah-boucar",
-      "name": "Grémah Boucar",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5612787"
-    },
-    {
-      "id": "habi-mahamadou-salissou",
-      "name": "Habi Mahamadou Salissou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5636746"
-    },
-    {
-      "id": "hassoumi-massoudou",
-      "name": "Hassoumi Massoudou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5680106"
-    },
-    {
-      "id": "issa-lamine",
-      "name": "Issa Lamine",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6087974"
-    },
-    {
-      "id": "attaher-abdoulmoumine",
+      "id": "attaher-abdoulmoumine-q1969585",
       "name": "Attaher Abdoulmoumine",
       "sitting": true,
       "party_id": "unknown",
@@ -2425,20 +1701,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q23060908"
     },
     {
-      "id": "mahamane-jean-padonou",
-      "name": "Mahamane Jean Padonou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q23062821"
-    },
-    {
-      "id": "laouan-magagi",
+      "id": "laouan-magagi-q1969585",
       "name": "Laouan Magagi",
       "sitting": true,
       "party_id": "unknown",
@@ -2451,20 +1714,59 @@
       "roster_url": "http://www.wikidata.org/entity/Q23062948"
     },
     {
-      "id": "habib-moctar",
-      "name": "Habib Moctar",
+      "id": "souna-hadizatou-diallo-q1969585",
+      "name": "Souna Hadizatou Diallo",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "national-movement-for-the-development-of-society",
+      "caucus": "National Movement for the Development of Society",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q26715424"
+      "roster_url": "http://www.wikidata.org/entity/Q99521146"
     },
     {
-      "id": "ali-sirfi",
+      "id": "issa-lamine-q1969585",
+      "name": "Issa Lamine",
+      "sitting": true,
+      "party_id": "democratic-and-social-convention",
+      "caucus": "Democratic and Social Convention",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6087974"
+    },
+    {
+      "id": "mohamed-abdoulahi-q1969585",
+      "name": "Mohamed Abdoulahi",
+      "sitting": true,
+      "party_id": "national-movement-for-the-development-of-society",
+      "caucus": "National Movement for the Development of Society",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6890945"
+    },
+    {
+      "id": "marie-lebihan-q1969585",
+      "name": "Marie Lebihan",
+      "sitting": true,
+      "party_id": "national-movement-for-the-development-of-society",
+      "caucus": "National Movement for the Development of Society",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q99628785"
+    },
+    {
+      "id": "ali-sirfi-q1969585",
       "name": "Ali Sirfi",
       "sitting": true,
       "party_id": "unknown",
@@ -2477,11 +1779,128 @@
       "roster_url": "http://www.wikidata.org/entity/Q26980205"
     },
     {
-      "id": "ousseini-tinni",
+      "id": "rabi-maitournam-moustapha-q1969585",
+      "name": "Rabi Maitournam Moustapha",
+      "sitting": true,
+      "party_id": "nigerien-party-for-democracy-and-socialism",
+      "caucus": "Nigerien Party for Democracy and Socialism",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110399010"
+    },
+    {
+      "id": "brigi-rafini-q1969585",
+      "name": "Brigi Rafini",
+      "sitting": true,
+      "party_id": "nigerien-party-for-democracy-and-socialism",
+      "caucus": "Nigerien Party for Democracy and Socialism",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57877"
+    },
+    {
+      "id": "moutari-moussa-q1969585",
+      "name": "Moutari Moussa",
+      "sitting": true,
+      "party_id": "rally-for-democracy-and-progress",
+      "caucus": "Rally for Democracy and Progress",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15437568"
+    },
+    {
+      "id": "aissata-mounkaila-q1969585",
+      "name": "Aïssata Mounkaïla",
+      "sitting": true,
+      "party_id": "national-movement-for-the-development-of-society",
+      "caucus": "National Movement for the Development of Society",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6919199"
+    },
+    {
+      "id": "moussa-moumouni-djermakoye-q1969585",
+      "name": "Moussa Moumouni Djermakoye",
+      "sitting": true,
+      "party_id": "nigerien-alliance-for-democracy-and-progress",
+      "caucus": "Nigerien Alliance for Democracy and Progress",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6926188"
+    },
+    {
+      "id": "boukary-sabo-q1969585",
+      "name": "Boukary Sabo",
+      "sitting": true,
+      "party_id": "nigerien-progressive-party-african-democratic-rally",
+      "caucus": "Nigerien Progressive Party – African Democratic Rally",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q895031"
+    },
+    {
+      "id": "manirou-housseini-q1969585",
+      "name": "manirou housseini",
+      "sitting": true,
+      "party_id": "nigerien-party-for-democracy-and-socialism",
+      "caucus": "Nigerien Party for Democracy and Socialism",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q40704839"
+    },
+    {
+      "id": "jeannette-schmidt-degener-q1969585",
+      "name": "Jeannette Schmidt Degener",
+      "sitting": true,
+      "party_id": "democratic-and-social-convention",
+      "caucus": "Democratic and Social Convention",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q46996069"
+    },
+    {
+      "id": "mamadou-tandja-q1969585",
+      "name": "Mamadou Tandja",
+      "sitting": true,
+      "party_id": "national-movement-for-the-development-of-society",
+      "caucus": "National Movement for the Development of Society",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q220227"
+    },
+    {
+      "id": "ousseini-tinni-q1969585",
       "name": "Ousseini Tinni",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "nigerien-party-for-democracy-and-socialism",
+      "caucus": "Nigerien Party for Democracy and Socialism",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
@@ -2490,33 +1909,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q27825306"
     },
     {
-      "id": "habibou-allele",
-      "name": "Habibou Allélé",
+      "id": "noma-kaka-q1969585",
+      "name": "Noma Kaka",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "nigerien-progressive-party-african-democratic-rally",
+      "caucus": "Nigerien Progressive Party – African Democratic Rally",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q41074316"
+      "roster_url": "http://www.wikidata.org/entity/Q20027758"
     },
     {
-      "id": "yahaya-tounkara",
-      "name": "Yahaya Tounkara",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q41748339"
-    },
-    {
-      "id": "hama-assah",
+      "id": "hama-assah-q1969585",
       "name": "Hama Assah",
       "sitting": true,
       "party_id": "unknown",
@@ -2529,24 +1935,89 @@
       "roster_url": "http://www.wikidata.org/entity/Q43380162"
     },
     {
-      "id": "jeannette-schmidt-degener",
-      "name": "Jeannette Schmidt Degener",
+      "id": "boubacar-cisse-q1969585",
+      "name": "Boubacar Cissé",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "nigerien-progressive-party-african-democratic-rally",
+      "caucus": "Nigerien Progressive Party – African Democratic Rally",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q46996069"
+      "roster_url": "http://www.wikidata.org/entity/Q15432114"
     },
     {
-      "id": "ibrahim-nomao",
+      "id": "hadiza-moussa-gros-q1969585",
+      "name": "Hadiza Moussa Gros",
+      "sitting": true,
+      "party_id": "national-movement-for-the-development-of-society",
+      "caucus": "National Movement for the Development of Society",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1567506"
+    },
+    {
+      "id": "ouhoumoudou-mahamadou-q1969585",
+      "name": "Ouhoumoudou Mahamadou",
+      "sitting": true,
+      "party_id": "nigerien-party-for-democracy-and-socialism",
+      "caucus": "Nigerien Party for Democracy and Socialism",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7110324"
+    },
+    {
+      "id": "oumarou-sidikou-q1969585",
+      "name": "Oumarou Sidikou",
+      "sitting": true,
+      "party_id": "national-movement-for-the-development-of-society",
+      "caucus": "National Movement for the Development of Society",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7110501"
+    },
+    {
+      "id": "abdoulkarim-abani-q1969585",
+      "name": "Abdoulkarim Abani",
+      "sitting": true,
+      "party_id": "national-movement-for-the-development-of-society",
+      "caucus": "National Movement for the Development of Society",
+      "constituency_label": "Zinder",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q117306374"
+    },
+    {
+      "id": "daouda-marthe-q1969585",
+      "name": "Daouda Marthé",
+      "sitting": true,
+      "party_id": "nigerien-party-for-democracy-and-socialism",
+      "caucus": "Nigerien Party for Democracy and Socialism",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5221545"
+    },
+    {
+      "id": "ibrahim-nomao-q1969585",
       "name": "Ibrahim Nomao",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "nigerien-party-for-democracy-and-socialism",
+      "caucus": "Nigerien Party for Democracy and Socialism",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
@@ -2555,11 +2026,63 @@
       "roster_url": "http://www.wikidata.org/entity/Q57274601"
     },
     {
-      "id": "adamou-namata",
+      "id": "mohamed-bazoum-q1969585",
+      "name": "Mohamed Bazoum",
+      "sitting": true,
+      "party_id": "nigerien-party-for-democracy-and-socialism",
+      "caucus": "Nigerien Party for Democracy and Socialism",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3318398"
+    },
+    {
+      "id": "hama-amadou-q1969585",
+      "name": "Hama Amadou",
+      "sitting": true,
+      "party_id": "national-movement-for-the-development-of-society",
+      "caucus": "National Movement for the Development of Society",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q544141"
+    },
+    {
+      "id": "falke-bacharou-q1969585",
+      "name": "Falké Bacharou",
+      "sitting": true,
+      "party_id": "democratic-and-social-convention",
+      "caucus": "Democratic and Social Convention",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5431991"
+    },
+    {
+      "id": "sanoussi-jackou-q1969585",
+      "name": "Sanoussi Jackou",
+      "sitting": true,
+      "party_id": "democratic-and-social-convention",
+      "caucus": "Democratic and Social Convention",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7418898"
+    },
+    {
+      "id": "adamou-namata-q1969585",
       "name": "Adamou Namata",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "democratic-and-social-convention",
+      "caucus": "Democratic and Social Convention",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
@@ -2568,8 +2091,8 @@
       "roster_url": "http://www.wikidata.org/entity/Q57834669"
     },
     {
-      "id": "n-gade-nana-hadiza-noma-kaka",
-      "name": "N’Gadé Nana Hadiza Noma Kaka",
+      "id": "mounkaila-issa-q1969585",
+      "name": "Mounkaïla Issa",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -2578,11 +2101,11 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q58806803"
+      "roster_url": "http://www.wikidata.org/entity/Q106510370"
     },
     {
-      "id": "manirou-housseini",
-      "name": "manirou housseini",
+      "id": "ibrahim-idi-ango-ousmane-q1969585",
+      "name": "Ibrahim Idi Ango Ousmane",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -2591,11 +2114,89 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q40704839"
+      "roster_url": "http://www.wikidata.org/entity/Q106637549"
     },
     {
-      "id": "ousmane-mahamane",
-      "name": "Ousmane Mahamane",
+      "id": "kalla-ankourao-q1969585",
+      "name": "Kalla Ankourao",
+      "sitting": true,
+      "party_id": "nigerien-party-for-democracy-and-socialism",
+      "caucus": "Nigerien Party for Democracy and Socialism",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6353461"
+    },
+    {
+      "id": "mahamane-jean-padonou-q1969585",
+      "name": "Mahamane Jean Padonou",
+      "sitting": true,
+      "party_id": "social-democratic-rally",
+      "caucus": "Social Democratic Rally",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q23062821"
+    },
+    {
+      "id": "ibrahim-yacouba-q1969585",
+      "name": "Ibrahim Yacouba",
+      "sitting": true,
+      "party_id": "nigerien-party-for-democracy-and-socialism",
+      "caucus": "Nigerien Party for Democracy and Socialism",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15819843"
+    },
+    {
+      "id": "karidjo-mahamadou-q1969585",
+      "name": "Karidjo Mahamadou",
+      "sitting": true,
+      "party_id": "nigerien-party-for-democracy-and-socialism",
+      "caucus": "Nigerien Party for Democracy and Socialism",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6370490"
+    },
+    {
+      "id": "foumakoye-gado-q1969585",
+      "name": "Foumakoye Gado",
+      "sitting": true,
+      "party_id": "nigerien-party-for-democracy-and-socialism",
+      "caucus": "Nigerien Party for Democracy and Socialism",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5474228"
+    },
+    {
+      "id": "akoli-daouel-q1969585",
+      "name": "Akoli Daouel",
+      "sitting": true,
+      "party_id": "union-for-democracy-and-social-progress",
+      "caucus": "Union for Democracy and Social Progress",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q420397"
+    },
+    {
+      "id": "hadiza-seyni-zarmakoye-q1969585",
+      "name": "Hadiza Seyni Zarmakoye",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -2604,7 +2205,592 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q131679660"
+      "roster_url": "http://www.wikidata.org/entity/Q110399463"
+    },
+    {
+      "id": "abdou-rabiou-q1969585",
+      "name": "Abdou Rabiou",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110537732"
+    },
+    {
+      "id": "hadiza-douara-kafougou-q1969585",
+      "name": "Hadiza Douara Kafougou",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110537922"
+    },
+    {
+      "id": "hamid-algabid-q1969585",
+      "name": "Hamid Algabid",
+      "sitting": true,
+      "party_id": "rally-for-democracy-and-progress",
+      "caucus": "Rally for Democracy and Progress",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q331201"
+    },
+    {
+      "id": "moumouni-adamou-djermakoye-q1969585",
+      "name": "Moumouni Adamou Djermakoye",
+      "sitting": true,
+      "party_id": "nigerien-alliance-for-democracy-and-progress",
+      "caucus": "Nigerien Alliance for Democracy and Progress",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2755794"
+    },
+    {
+      "id": "abache-chaibou-q1969585",
+      "name": "Abaché Chaibou",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Tessaoua Department",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q117306297"
+    },
+    {
+      "id": "habibou-allele-q1969585",
+      "name": "Habibou Allélé",
+      "sitting": true,
+      "party_id": "national-movement-for-the-development-of-society",
+      "caucus": "National Movement for the Development of Society",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q41074316"
+    },
+    {
+      "id": "kalla-moutari-q1969585",
+      "name": "Kalla Moutari",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q81112514"
+    },
+    {
+      "id": "mahamane-ousmane-q1969585",
+      "name": "Mahamane Ousmane",
+      "sitting": true,
+      "party_id": "nigerien-party-for-democracy-and-socialism",
+      "caucus": "Nigerien Party for Democracy and Socialism",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q319430"
+    },
+    {
+      "id": "yahaya-tounkara-q1969585",
+      "name": "Yahaya Tounkara",
+      "sitting": true,
+      "party_id": "rally-for-democracy-and-progress",
+      "caucus": "Rally for Democracy and Progress",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q41748339"
+    },
+    {
+      "id": "ousmane-issoufou-oubandawaki-q1969585",
+      "name": "Ousmane Issoufou Oubandawaki",
+      "sitting": true,
+      "party_id": "nigerien-party-for-democracy-and-socialism",
+      "caucus": "Nigerien Party for Democracy and Socialism",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16123823"
+    },
+    {
+      "id": "amadou-djibo-ali-q1969585",
+      "name": "Amadou Djibo Ali",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131679526"
+    },
+    {
+      "id": "abdou-adamou-q1969585",
+      "name": "Abdou Adamou",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131679538"
+    },
+    {
+      "id": "abdou-boubacar-q1969585",
+      "name": "Abdou Boubacar",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131679539"
+    },
+    {
+      "id": "abdallah-mahamadou-q1969585",
+      "name": "Abdallah Mahamadou",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131679537"
+    },
+    {
+      "id": "abdou-hamza-q1969585",
+      "name": "Abdou Hamza",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131679540"
+    },
+    {
+      "id": "adam-efangal-q1969585",
+      "name": "Adam Efangal",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131679543"
+    },
+    {
+      "id": "abdou-mani-q1969585",
+      "name": "Abdou Mani",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131679541"
+    },
+    {
+      "id": "aichatou-abba-q1969585",
+      "name": "Aichatou Abba",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131679547"
+    },
+    {
+      "id": "ahmed-elhadji-gondji-q1969585",
+      "name": "Ahmed Elhadji Gondji",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131679544"
+    },
+    {
+      "id": "ahmet-hameda-q1969585",
+      "name": "Ahmet Hameda",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131679545"
+    },
+    {
+      "id": "aissatou-abdoulaye-tondi-q1969585",
+      "name": "Aissatou Abdoulaye Tondi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131679550"
+    },
+    {
+      "id": "aichatou-barko-amadou-q1969585",
+      "name": "Aichatou Barko Amadou",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131679548"
+    },
+    {
+      "id": "algabi-elhadji-atta-q1969585",
+      "name": "Algabi Elhadji Atta",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131679551"
+    },
+    {
+      "id": "alkabouss-jalaoui-q1969585",
+      "name": "Alkabouss Jalaoui",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131679554"
+    },
+    {
+      "id": "alhader-samro-q1969585",
+      "name": "Alhader Samro",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131679552"
+    },
+    {
+      "id": "amadou-dioffo-q1969585",
+      "name": "Amadou Dioffo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131679555"
+    },
+    {
+      "id": "alio-namata-q1969585",
+      "name": "Alio Namata",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131679553"
+    },
+    {
+      "id": "amadou-idrissa-q1969585",
+      "name": "Amadou Idrissa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131679558"
+    },
+    {
+      "id": "amadou-mahaman-sani-q1969585",
+      "name": "Amadou Mahaman Sani",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131679559"
+    },
+    {
+      "id": "amadou-goulo-abdou-q1969585",
+      "name": "Amadou Goulo Abdou",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131679556"
+    },
+    {
+      "id": "mahamadou-karidio-q1969585",
+      "name": "Mahamadou Karidio",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131679530"
+    },
+    {
+      "id": "samuila-sanoussi-q1969585",
+      "name": "Samuila Sanoussi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131679677"
+    },
+    {
+      "id": "sanoussi-moussa-maraini-q1969585",
+      "name": "Sanoussi Moussa Maraini",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131679680"
+    },
+    {
+      "id": "souley-dioffo-q1969585",
+      "name": "Souley Dioffo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131679682"
+    },
+    {
+      "id": "souley-oumarou-q1969585",
+      "name": "Souley Oumarou",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131679683"
+    },
+    {
+      "id": "soumana-hassane-q1969585",
+      "name": "Soumana Hassane",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131679686"
+    },
+    {
+      "id": "soumana-sanda-q1969585",
+      "name": "Soumana Sanda",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131679687"
+    },
+    {
+      "id": "souleymane-arzika-q1969585",
+      "name": "Souleymane Arzika",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131679684"
+    },
+    {
+      "id": "soumana-gaoh-yacoubou-q1969585",
+      "name": "Soumana Gaoh Yacoubou",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131679685"
+    },
+    {
+      "id": "tanimoune-oumarou-q1969585",
+      "name": "Tanimoune Oumarou",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131679688"
+    },
+    {
+      "id": "tidere-ahamani-q1969585",
+      "name": "Tidère Ahamani",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131679690"
+    },
+    {
+      "id": "yacine-ben-mohamed-q1969585",
+      "name": "Yacine Ben Mohamed",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131679691"
+    },
+    {
+      "id": "zeinabou-maiga-adama-q1969585",
+      "name": "Zeinabou Maïga Adama",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131679694"
+    },
+    {
+      "id": "zakari-garba-q1969585",
+      "name": "Zakari Garba",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131679692"
+    },
+    {
+      "id": "amadou-harouna-q1969585",
+      "name": "Amadou Harouna",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131679557"
     }
   ]
 }

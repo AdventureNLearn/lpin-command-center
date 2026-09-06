@@ -1,0 +1,44 @@
+{
+  "iso2": "ml",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q912",
+  "bodies": [
+    {
+      "qid": "Q21295991",
+      "label": "Member of the National Assembly of Mali",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1138071",
+      "label": "National Assembly",
+      "seats": 147,
+      "web": "http://www.assemblee-nationale.ml/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Member of the National Assembly of Mali"
+  ],
+  "seats": 147,
+  "items": [
+    {
+      "id": "Q21295991",
+      "name": "Member of the National Assembly of Mali",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q21295991"
+    },
+    {
+      "id": "Q1138071",
+      "name": "National Assembly",
+      "kind": "parliament",
+      "seats": 147,
+      "url": "http://www.assemblee-nationale.ml/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

@@ -1,0 +1,59 @@
+{
+  "iso2": "na",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q1030",
+  "bodies": [
+    {
+      "qid": "Q4167580",
+      "label": "Parliament of Namibia",
+      "seats": 0,
+      "web": "https://www.parliament.na/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q1969272",
+      "label": "National Council of Namibia",
+      "seats": 42,
+      "web": "https://www.parliament.na/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1769673",
+      "label": "National Assembly",
+      "seats": 104,
+      "web": "https://www.parliament.na/",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "National Council of Namibia",
+    "National Assembly"
+  ],
+  "seats": 146,
+  "items": [
+    {
+      "id": "Q4167580",
+      "name": "Parliament of Namibia",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://www.parliament.na/"
+    },
+    {
+      "id": "Q1969272",
+      "name": "National Council of Namibia",
+      "kind": "chamber",
+      "seats": 42,
+      "url": "https://www.parliament.na/"
+    },
+    {
+      "id": "Q1769673",
+      "name": "National Assembly",
+      "kind": "chamber",
+      "seats": 104,
+      "url": "https://www.parliament.na/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

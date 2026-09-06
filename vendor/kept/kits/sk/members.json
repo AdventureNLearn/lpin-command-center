@@ -3,63 +3,145 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1139204",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 159,
+  "incomplete": true,
+  "claimed_seats": 150,
+  "chambers": [
+    "Member of the National Council of the Slovak Republic",
+    "National Council of the Slovak Republic"
+  ],
   "items": [
     {
-      "id": "erik-kalinak",
-      "name": "Erik Kaliňák",
+      "id": "laszlo-miklos-q1139204",
+      "name": "László Miklós",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "party-of-the-hungarian-community",
+      "caucus": "Party of the Hungarian Community",
       "constituency_label": "",
       "chamber": "National Council of the Slovak Republic",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q124661466"
+      "roster_url": "http://www.wikidata.org/entity/Q588689"
     },
     {
-      "id": "vincent-lukac",
-      "name": "Vincent Lukáč",
+      "id": "katarina-tothova-q1139204",
+      "name": "Katarína Tóthová",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "people-s-party-movement-for-a-democratic-slovakia",
+      "caucus": "People's Party – Movement for a Democratic Slovakia",
       "constituency_label": "",
       "chamber": "National Council of the Slovak Republic",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q1029481"
+      "roster_url": "http://www.wikidata.org/entity/Q3486485"
     },
     {
-      "id": "istvan-harna",
-      "name": "István Harna",
+      "id": "pavol-hrusovsky-q1139204",
+      "name": "Pavol Hrušovský",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "christian-democratic-movement",
+      "caucus": "Christian Democratic Movement",
       "constituency_label": "",
       "chamber": "National Council of the Slovak Republic",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q1034084"
+      "roster_url": "http://www.wikidata.org/entity/Q700735"
     },
     {
-      "id": "jaroslav-volf",
-      "name": "Jaroslav Volf",
+      "id": "pavol-hamzik-q1139204",
+      "name": "Pavol Hamžík",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "people-s-party-movement-for-a-democratic-slovakia",
+      "caucus": "People's Party – Movement for a Democratic Slovakia",
       "constituency_label": "",
       "chamber": "National Council of the Slovak Republic",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q3162776"
+      "roster_url": "http://www.wikidata.org/entity/Q3497276"
     },
     {
-      "id": "jan-kroslak",
+      "id": "pavol-freso-q1139204",
+      "name": "Pavol Frešo",
+      "sitting": true,
+      "party_id": "slovak-democratic-and-christian-union-democratic-party",
+      "caucus": "Slovak Democratic and Christian Union – Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3495028"
+    },
+    {
+      "id": "marta-aibekova-q1139204",
+      "name": "Marta Aibeková",
+      "sitting": true,
+      "party_id": "people-s-party-movement-for-a-democratic-slovakia",
+      "caucus": "People's Party – Movement for a Democratic Slovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3504107"
+    },
+    {
+      "id": "julius-binder-q1139204",
+      "name": "Július Binder",
+      "sitting": true,
+      "party_id": "people-s-party-movement-for-a-democratic-slovakia",
+      "caucus": "People's Party – Movement for a Democratic Slovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3506238"
+    },
+    {
+      "id": "miroslav-abelovsky-q1139204",
+      "name": "Miroslav Abelovský",
+      "sitting": true,
+      "party_id": "people-s-party-movement-for-a-democratic-slovakia",
+      "caucus": "People's Party – Movement for a Democratic Slovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3506936"
+    },
+    {
+      "id": "ivan-lexa-q1139204",
+      "name": "Ivan Lexa",
+      "sitting": true,
+      "party_id": "people-s-party-movement-for-a-democratic-slovakia",
+      "caucus": "People's Party – Movement for a Democratic Slovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3507929"
+    },
+    {
+      "id": "ladislav-pittner-q1139204",
+      "name": "Ladislav Pittner",
+      "sitting": true,
+      "party_id": "slovak-democratic-and-christian-union-democratic-party",
+      "caucus": "Slovak Democratic and Christian Union – Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3505329"
+    },
+    {
+      "id": "jan-kroslak-q1139204",
       "name": "Ján Krošlák",
       "sitting": true,
       "party_id": "unknown",
@@ -72,59 +154,46 @@
       "roster_url": "http://www.wikidata.org/entity/Q1714777"
     },
     {
-      "id": "karol-bacilek",
-      "name": "Karol Bacílek",
+      "id": "vladimir-meciar-q1139204",
+      "name": "Vladimír Mečiar",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "communist-party-of-czechoslovakia",
+      "caucus": "Communist Party of Czechoslovakia",
       "constituency_label": "",
       "chamber": "National Council of the Slovak Republic",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q1120725"
+      "roster_url": "http://www.wikidata.org/entity/Q316526"
     },
     {
-      "id": "stefan-kvietik",
-      "name": "Štefan Kvietik",
+      "id": "ondrej-dostal-q1139204",
+      "name": "Ondrej Dostál",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "most-hid",
+      "caucus": "Most–Híd",
       "constituency_label": "",
       "chamber": "National Council of the Slovak Republic",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q10417725"
+      "roster_url": "http://www.wikidata.org/entity/Q727924"
     },
     {
-      "id": "peter-weiss",
-      "name": "Peter Weiss",
+      "id": "rudolf-bauer-q1139204",
+      "name": "Rudolf Bauer",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "conservative-democrats-of-slovakia",
+      "caucus": "Conservative Democrats of Slovakia",
       "constituency_label": "",
       "chamber": "National Council of the Slovak Republic",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q11815925"
+      "roster_url": "http://www.wikidata.org/entity/Q4180026"
     },
     {
-      "id": "vladimir-palko",
-      "name": "Vladimír Palko",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3090985"
-    },
-    {
-      "id": "peter-dvorsky",
+      "id": "peter-dvorsky-q1139204",
       "name": "Peter Dvorský",
       "sitting": true,
       "party_id": "unknown",
@@ -137,1047 +206,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q1969354"
     },
     {
-      "id": "dusan-galis",
-      "name": "Dušan Galis",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1268168"
-    },
-    {
-      "id": "dusan-tittel",
-      "name": "Dušan Tittel",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1268223"
-    },
-    {
-      "id": "frantisek-miklosko",
-      "name": "František Mikloško",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1291999"
-    },
-    {
-      "id": "jozef-migas",
-      "name": "Jozef Migaš",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1300892"
-    },
-    {
-      "id": "emil-vestenicky",
-      "name": "Emil Vestenický",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1336966"
-    },
-    {
-      "id": "pavol-paska",
-      "name": "Pavol Paška",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1374505"
-    },
-    {
-      "id": "robert-kalinak",
-      "name": "Robert Kaliňák",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1502209"
-    },
-    {
-      "id": "zdenka-kramplova",
-      "name": "Zdenka Kramplová",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q168928"
-    },
-    {
-      "id": "juraj-horvath",
-      "name": "Juraj Horváth",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q11729467"
-    },
-    {
-      "id": "mikulas-huba",
-      "name": "Mikuláš Huba",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12037115"
-    },
-    {
-      "id": "jozef-kollar",
-      "name": "Jozef Kollár",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q18341552"
-    },
-    {
-      "id": "mojmir-mamojka",
-      "name": "Mojmír Mamojka",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12771890"
-    },
-    {
-      "id": "dagmara-bollova",
-      "name": "Dagmara Bollová",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q11692624"
-    },
-    {
-      "id": "ida-rapaicova",
-      "name": "Ida Rapaičová",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q11710967"
-    },
-    {
-      "id": "igor-sidor",
-      "name": "Igor Sidor",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q11711474"
-    },
-    {
-      "id": "ivan-svejna",
-      "name": "Ivan Švejna",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q11714339"
-    },
-    {
-      "id": "jaroslav-ivanco",
-      "name": "Jaroslav Ivančo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q11720759"
-    },
-    {
-      "id": "jozef-bucek",
-      "name": "Jozef Buček",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q11728689"
-    },
-    {
-      "id": "jozef-hrdlicka",
-      "name": "Jozef Hrdlička",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q11728693"
-    },
-    {
-      "id": "jozef-viskupic",
-      "name": "Jozef Viskupič",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q11728697"
-    },
-    {
-      "id": "marian-kvasnicka",
-      "name": "Marián Kvasnička",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q11770267"
-    },
-    {
-      "id": "marian-radosovsky",
-      "name": "Marián Radošovský",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q11770269"
-    },
-    {
-      "id": "martin-fecko",
-      "name": "Martin Fecko",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q11770677"
-    },
-    {
-      "id": "peter-ziga",
-      "name": "Peter Žiga",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1800171"
-    },
-    {
-      "id": "milan-hort",
-      "name": "Milan Hort",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q11781153"
-    },
-    {
-      "id": "monika-gibalova",
-      "name": "Monika Gibalová",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q11785116"
-    },
-    {
-      "id": "maria-sabolova",
-      "name": "Mária Sabolová",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q11787767"
-    },
-    {
-      "id": "ondrej-matej",
-      "name": "Ondrej Matej",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q11798293"
-    },
-    {
-      "id": "peter-markovic",
-      "name": "Peter Markovič",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q11815884"
-    },
-    {
-      "id": "peter-muransky",
-      "name": "Peter Muránsky",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q11815889"
-    },
-    {
-      "id": "peter-osusky",
-      "name": "Peter Osuský",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q11815897"
-    },
-    {
-      "id": "peter-zajac",
-      "name": "Peter Zajac",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q11815924"
-    },
-    {
-      "id": "vojtech-tkac",
-      "name": "Vojtech Tkáč",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q11925822"
-    },
-    {
-      "id": "jozef-prokes",
-      "name": "Jozef Prokeš",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12027064"
-    },
-    {
-      "id": "jan-budaj",
-      "name": "Ján Budaj",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12027325"
-    },
-    {
-      "id": "jan-sitek",
-      "name": "Ján Sitek",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12027472"
-    },
-    {
-      "id": "marian-kotleba",
-      "name": "Marian Kotleba",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12035354"
-    },
-    {
-      "id": "miroslav-maxon",
-      "name": "Miroslav Maxon",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12037917"
-    },
-    {
-      "id": "peter-brnak",
-      "name": "Peter Brňák",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12044696"
-    },
-    {
-      "id": "peter-kresak",
-      "name": "Peter Kresák",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12044728"
-    },
-    {
-      "id": "mikulas-dzurinda",
-      "name": "Mikuláš Dzurinda",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q212765"
-    },
-    {
-      "id": "tibor-sagat",
-      "name": "Tibor Šagát",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12058953"
-    },
-    {
-      "id": "andrej-danko",
-      "name": "Andrej Danko",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q13397958"
-    },
-    {
-      "id": "jozef-banas",
-      "name": "Jozef Banáš",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q224902"
-    },
-    {
-      "id": "pal-farkas",
-      "name": "Pál Farkas",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12774922"
-    },
-    {
-      "id": "andrej-hrnciar",
-      "name": "Andrej Hrnčiar",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12762300"
-    },
-    {
-      "id": "anton-hrnko",
-      "name": "Anton Hrnko",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12762465"
-    },
-    {
-      "id": "bohumil-hanzel",
-      "name": "Bohumil Hanzel",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12763335"
-    },
-    {
-      "id": "gabriel-karlin",
-      "name": "Gabriel Karlin",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12766209"
-    },
-    {
-      "id": "ivan-harman",
-      "name": "Ivan Harman",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12767662"
-    },
-    {
-      "id": "peter-biros",
-      "name": "Peter Biroš",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12773704"
-    },
-    {
-      "id": "ludmila-muskova",
-      "name": "Ľudmila Mušková",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12781477"
-    },
-    {
-      "id": "jan-slota",
-      "name": "Ján Slota",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q262574"
-    },
-    {
-      "id": "alojz-hlina",
-      "name": "Alojz Hlina",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q13374407"
-    },
-    {
-      "id": "miroslav-ciz",
-      "name": "Miroslav Čiž",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q13450383"
-    },
-    {
-      "id": "peter-pollak",
-      "name": "Peter Pollák",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q13538232"
-    },
-    {
-      "id": "lubos-michel",
-      "name": "Ľuboš Micheľ",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q332467"
-    },
-    {
-      "id": "helena-mezenska",
-      "name": "Helena Mezenská",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q14923362"
-    },
-    {
-      "id": "frantisek-svec",
-      "name": "František Švec",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q22346183"
-    },
-    {
-      "id": "eugen-jurzyca",
-      "name": "Eugen Jurzyca",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3059549"
-    },
-    {
-      "id": "ivan-simko",
-      "name": "Ivan Šimko",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3090781"
-    },
-    {
-      "id": "lucia-zitnanska",
-      "name": "Lucia Žitňanská",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3090972"
-    },
-    {
-      "id": "frantisek-gaulieder",
-      "name": "František Gaulieder",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q15303766"
-    },
-    {
-      "id": "jozef-mihal",
-      "name": "Jozef Mihál",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3133564"
-    },
-    {
-      "id": "klara-sarkozy",
-      "name": "Klára Sárközy",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3197936"
-    },
-    {
-      "id": "martin-pado",
-      "name": "Martin Pado",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3295590"
-    },
-    {
-      "id": "peter-jaros",
-      "name": "Peter Jaroš",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3394963"
-    },
-    {
-      "id": "katarina-tothova",
-      "name": "Katarína Tóthová",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3486485"
-    },
-    {
-      "id": "peter-pellegrini",
-      "name": "Peter Pellegrini",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q17330556"
-    },
-    {
-      "id": "stefan-kuffa",
-      "name": "Štefan Kuffa",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q17413013"
-    },
-    {
-      "id": "ondrej-binder",
-      "name": "Ondrej Binder",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q24192821"
-    },
-    {
-      "id": "simona-petrik",
-      "name": "Simona Petrík",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28793186"
-    },
-    {
-      "id": "ivan-stefunko",
-      "name": "Ivan Štefunko",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q29789884"
-    },
-    {
-      "id": "pavel-koncos",
-      "name": "Pavel Koncoš",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q13538095"
-    },
-    {
-      "id": "laszlo-miklos",
-      "name": "László Miklós",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q588689"
-    },
-    {
-      "id": "roman-mikulec",
-      "name": "Roman Mikulec",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q88188383"
-    },
-    {
-      "id": "kamil-sasko",
-      "name": "Kamil Šaško",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q130324164"
-    },
-    {
-      "id": "zoltan-horvath",
-      "name": "Zoltán Horváth",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q9391957"
-    },
-    {
-      "id": "dusan-caplovic",
-      "name": "Dušan Čaplovič",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q725799"
-    },
-    {
-      "id": "ivan-hudec",
-      "name": "Ivan Hudec",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3506785"
-    },
-    {
-      "id": "karol-kucera",
+      "id": "karol-kucera-q1139204",
       "name": "Karol Kučera",
       "sitting": true,
       "party_id": "unknown",
@@ -1190,11 +219,24 @@
       "roster_url": "http://www.wikidata.org/entity/Q460621"
     },
     {
-      "id": "jan-luptak",
+      "id": "jan-slota-q1139204",
+      "name": "Ján Slota",
+      "sitting": true,
+      "party_id": "slovak-national-party",
+      "caucus": "Slovak National Party",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q262574"
+    },
+    {
+      "id": "jan-luptak-q1139204",
       "name": "Ján Ľupták",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "communist-party-of-slovakia",
+      "caucus": "Communist party of Slovakia",
       "constituency_label": "",
       "chamber": "National Council of the Slovak Republic",
       "lang": [
@@ -1203,11 +245,102 @@
       "roster_url": "http://www.wikidata.org/entity/Q3566334"
     },
     {
-      "id": "tibor-jancula",
+      "id": "karol-bacilek-q1139204",
+      "name": "Karol Bacílek",
+      "sitting": true,
+      "party_id": "communist-party-of-slovakia",
+      "caucus": "Communist party of Slovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1120725"
+    },
+    {
+      "id": "pal-csaky-q1139204",
+      "name": "Pál Csáky",
+      "sitting": true,
+      "party_id": "party-of-the-hungarian-community",
+      "caucus": "Party of the Hungarian Community",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q875200"
+    },
+    {
+      "id": "miklos-duray-q1139204",
+      "name": "Miklós Duray",
+      "sitting": true,
+      "party_id": "coexistence",
+      "caucus": "Coexistence",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q831957"
+    },
+    {
+      "id": "pavol-paska-q1139204",
+      "name": "Pavol Paška",
+      "sitting": true,
+      "party_id": "direction-social-democracy",
+      "caucus": "Direction – Social Democracy",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1374505"
+    },
+    {
+      "id": "ivan-gasparovic-q1139204",
+      "name": "Ivan Gašparovič",
+      "sitting": true,
+      "party_id": "republic",
+      "caucus": "Republic",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57295"
+    },
+    {
+      "id": "vincent-lukac-q1139204",
+      "name": "Vincent Lukáč",
+      "sitting": true,
+      "party_id": "slovak-national-party",
+      "caucus": "Slovak National Party",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1029481"
+    },
+    {
+      "id": "lubos-michel-q1139204",
+      "name": "Ľuboš Micheľ",
+      "sitting": true,
+      "party_id": "slovak-democratic-and-christian-union-democratic-party",
+      "caucus": "Slovak Democratic and Christian Union – Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q332467"
+    },
+    {
+      "id": "tibor-jancula-q1139204",
       "name": "Tibor Jančula",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "slovak-national-party",
+      "caucus": "Slovak National Party",
       "constituency_label": "",
       "chamber": "National Council of the Slovak Republic",
       "lang": [
@@ -1216,267 +349,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q874272"
     },
     {
-      "id": "bela-bugar",
-      "name": "Béla Bugár",
+      "id": "mikulas-dzurinda-q1139204",
+      "name": "Mikuláš Dzurinda",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "christian-democratic-movement",
+      "caucus": "Christian Democratic Movement",
       "constituency_label": "",
       "chamber": "National Council of the Slovak Republic",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q283359"
+      "roster_url": "http://www.wikidata.org/entity/Q212765"
     },
     {
-      "id": "jan-pataky",
-      "name": "Ján Pataky",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q13421415"
-    },
-    {
-      "id": "magdalena-vasaryova",
-      "name": "Magdaléna Vášáryová",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q376787"
-    },
-    {
-      "id": "jaroslav-demian",
-      "name": "Jaroslav Demian",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q15534108"
-    },
-    {
-      "id": "zuzana-martinakova",
-      "name": "Zuzana Martináková",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3489125"
-    },
-    {
-      "id": "pavol-freso",
-      "name": "Pavol Frešo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3495028"
-    },
-    {
-      "id": "pavol-hamzik",
-      "name": "Pavol Hamžík",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3497276"
-    },
-    {
-      "id": "marta-aibekova",
-      "name": "Marta Aibeková",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3504107"
-    },
-    {
-      "id": "ladislav-pittner",
-      "name": "Ladislav Pittner",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3505329"
-    },
-    {
-      "id": "julius-binder",
-      "name": "Július Binder",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3506238"
-    },
-    {
-      "id": "anton-hykisch",
-      "name": "Anton Hykisch",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3506653"
-    },
-    {
-      "id": "miroslav-abelovsky",
-      "name": "Miroslav Abelovský",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3506936"
-    },
-    {
-      "id": "pavol-abrhan",
-      "name": "Pavol Abrhan",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3507463"
-    },
-    {
-      "id": "ivan-lexa",
-      "name": "Ivan Lexa",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3507929"
-    },
-    {
-      "id": "andrej-durkovsky",
-      "name": "Andrej Ďurkovský",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q503099"
-    },
-    {
-      "id": "stano-kropilak",
-      "name": "Stano Kropilák",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3968257"
-    },
-    {
-      "id": "karol-smidke",
-      "name": "Karol Šmidke",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q515214"
-    },
-    {
-      "id": "peter-tatar",
-      "name": "Peter Tatár",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4177854"
-    },
-    {
-      "id": "anna-belousovova",
-      "name": "Anna Belousovová",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q544068"
-    },
-    {
-      "id": "jozef-mikus",
-      "name": "Jozef Mikuš",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q546561"
-    },
-    {
-      "id": "sergej-chelemendik",
+      "id": "sergej-chelemendik-q1139204",
       "name": "Sergej Chelemendik",
       "sitting": true,
       "party_id": "unknown",
@@ -1489,115 +375,11 @@
       "roster_url": "http://www.wikidata.org/entity/Q4497144"
     },
     {
-      "id": "mikulas-juscik",
-      "name": "Mikuláš Juščík",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4535622"
-    },
-    {
-      "id": "juraj-blanar",
-      "name": "Juraj Blanár",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q637471"
-    },
-    {
-      "id": "fedor-hodza",
-      "name": "Fedor Hodža",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5441114"
-    },
-    {
-      "id": "frantisek-sebej",
-      "name": "František Šebej",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q673555"
-    },
-    {
-      "id": "pavol-hrusovsky",
-      "name": "Pavol Hrušovský",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q700735"
-    },
-    {
-      "id": "ondrej-dostal",
-      "name": "Ondrej Dostál",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q727924"
-    },
-    {
-      "id": "jana-valova",
-      "name": "Jana Vaľová",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6150597"
-    },
-    {
-      "id": "jozsef-berenyi",
-      "name": "József Berényi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q793959"
-    },
-    {
-      "id": "marian-andel",
+      "id": "marian-andel-q1139204",
       "name": "Marián Andel",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "slovak-national-party",
+      "caucus": "Slovak National Party",
       "constituency_label": "",
       "chamber": "National Council of the Slovak Republic",
       "lang": [
@@ -1606,11 +388,37 @@
       "roster_url": "http://www.wikidata.org/entity/Q6766108"
     },
     {
-      "id": "martin-poliacik",
+      "id": "bela-bugar-q1139204",
+      "name": "Béla Bugár",
+      "sitting": true,
+      "party_id": "most-hid",
+      "caucus": "Most–Híd",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q283359"
+    },
+    {
+      "id": "jozef-mihal-q1139204",
+      "name": "Jozef Mihál",
+      "sitting": true,
+      "party_id": "democrats",
+      "caucus": "Democrats",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3133564"
+    },
+    {
+      "id": "martin-poliacik-q1139204",
       "name": "Martin Poliačik",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "freedom-and-solidarity",
+      "caucus": "Freedom and Solidarity",
       "constituency_label": "",
       "chamber": "National Council of the Slovak Republic",
       "lang": [
@@ -1619,115 +427,63 @@
       "roster_url": "http://www.wikidata.org/entity/Q6776399"
     },
     {
-      "id": "michal-drobny",
-      "name": "Michal Drobný",
+      "id": "peter-ziga-q1139204",
+      "name": "Peter Žiga",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "voice-social-democracy",
+      "caucus": "Voice – Social Democracy",
       "constituency_label": "",
       "chamber": "National Council of the Slovak Republic",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q6835727"
+      "roster_url": "http://www.wikidata.org/entity/Q1800171"
     },
     {
-      "id": "gyula-bardos",
-      "name": "Gyula Bárdos",
+      "id": "andrej-durkovsky-q1139204",
+      "name": "Andrej Ďurkovský",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "christian-democratic-movement",
+      "caucus": "Christian Democratic Movement",
       "constituency_label": "",
       "chamber": "National Council of the Slovak Republic",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q853371"
+      "roster_url": "http://www.wikidata.org/entity/Q503099"
     },
     {
-      "id": "peter-kresanek",
-      "name": "Peter Kresánek",
+      "id": "ivan-simko-q1139204",
+      "name": "Ivan Šimko",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "christian-democratic-movement",
+      "caucus": "Christian Democratic Movement",
       "constituency_label": "",
       "chamber": "National Council of the Slovak Republic",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q7175283"
+      "roster_url": "http://www.wikidata.org/entity/Q3090781"
     },
     {
-      "id": "stefan-zelnik",
-      "name": "Štefan Zelník",
+      "id": "iveta-radicova-q1139204",
+      "name": "Iveta Radičová",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "public-against-violence",
+      "caucus": "Public Against Violence",
       "constituency_label": "",
       "chamber": "National Council of the Slovak Republic",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q9396994"
+      "roster_url": "http://www.wikidata.org/entity/Q211771"
     },
     {
-      "id": "pal-csaky",
-      "name": "Pál Csáky",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q875200"
-    },
-    {
-      "id": "vladimir-chovan",
-      "name": "Vladimír Chovan",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7938789"
-    },
-    {
-      "id": "katarina-cibulkova",
-      "name": "Katarína Cibulková",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q923455"
-    },
-    {
-      "id": "greta-gregorova",
-      "name": "Gréta Gregorová",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q136353425"
-    },
-    {
-      "id": "alojz-pridal",
+      "id": "alojz-pridal-q1139204",
       "name": "Alojz Přidal",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "christian-democratic-movement",
+      "caucus": "Christian Democratic Movement",
       "constituency_label": "",
       "chamber": "National Council of the Slovak Republic",
       "lang": [
@@ -1736,11 +492,11 @@
       "roster_url": "http://www.wikidata.org/entity/Q9148778"
     },
     {
-      "id": "anton-marcincin",
+      "id": "anton-marcincin-q1139204",
       "name": "Anton Marcinčin",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "christian-democratic-movement",
+      "caucus": "Christian Democratic Movement",
       "constituency_label": "",
       "chamber": "National Council of the Slovak Republic",
       "lang": [
@@ -1749,8 +505,723 @@
       "roster_url": "http://www.wikidata.org/entity/Q9156377"
     },
     {
-      "id": "anton-neuwirth",
-      "name": "Anton Neuwirth",
+      "id": "stano-kropilak-q1139204",
+      "name": "Stano Kropilák",
+      "sitting": true,
+      "party_id": "idea",
+      "caucus": "IDEA",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3968257"
+    },
+    {
+      "id": "frantisek-miklosko-q1139204",
+      "name": "František Mikloško",
+      "sitting": true,
+      "party_id": "christian-democratic-movement",
+      "caucus": "Christian Democratic Movement",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1291999"
+    },
+    {
+      "id": "dusan-tittel-q1139204",
+      "name": "Dušan Tittel",
+      "sitting": true,
+      "party_id": "slovak-national-party",
+      "caucus": "Slovak National Party",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1268223"
+    },
+    {
+      "id": "jozef-banas-q1139204",
+      "name": "Jozef Banáš",
+      "sitting": true,
+      "party_id": "idea",
+      "caucus": "IDEA",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q224902"
+    },
+    {
+      "id": "istvan-harna-q1139204",
+      "name": "István Harna",
+      "sitting": true,
+      "party_id": "party-of-the-hungarian-community",
+      "caucus": "Party of the Hungarian Community",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1034084"
+    },
+    {
+      "id": "klara-sarkozy-q1139204",
+      "name": "Klára Sárközy",
+      "sitting": true,
+      "party_id": "hungarian-christian-democratic-movement",
+      "caucus": "Hungarian Christian Democratic Movement",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3197936"
+    },
+    {
+      "id": "robert-kalinak-q1139204",
+      "name": "Robert Kaliňák",
+      "sitting": true,
+      "party_id": "direction-social-democracy",
+      "caucus": "Direction – Social Democracy",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1502209"
+    },
+    {
+      "id": "gyula-bardos-q1139204",
+      "name": "Gyula Bárdos",
+      "sitting": true,
+      "party_id": "hungarian-christian-democratic-movement",
+      "caucus": "Hungarian Christian Democratic Movement",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q853371"
+    },
+    {
+      "id": "michal-drobny-q1139204",
+      "name": "Michal Drobný",
+      "sitting": true,
+      "party_id": "people-s-party-movement-for-a-democratic-slovakia",
+      "caucus": "People's Party – Movement for a Democratic Slovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6835727"
+    },
+    {
+      "id": "robert-fico-q1139204",
+      "name": "Robert Fico",
+      "sitting": true,
+      "party_id": "direction-social-democracy",
+      "caucus": "Direction – Social Democracy",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57606"
+    },
+    {
+      "id": "igor-matovic-q1139204",
+      "name": "Igor Matovič",
+      "sitting": true,
+      "party_id": "slovakia",
+      "caucus": "Slovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q552706"
+    },
+    {
+      "id": "dusan-galis-q1139204",
+      "name": "Dušan Galis",
+      "sitting": true,
+      "party_id": "direction-social-democracy",
+      "caucus": "Direction – Social Democracy",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1268168"
+    },
+    {
+      "id": "dusan-caplovic-q1139204",
+      "name": "Dušan Čaplovič",
+      "sitting": true,
+      "party_id": "direction-social-democracy",
+      "caucus": "Direction – Social Democracy",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q725799"
+    },
+    {
+      "id": "eugen-jurzyca-q1139204",
+      "name": "Eugen Jurzyca",
+      "sitting": true,
+      "party_id": "slovak-democratic-and-christian-union-democratic-party",
+      "caucus": "Slovak Democratic and Christian Union – Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3059549"
+    },
+    {
+      "id": "lucia-zitnanska-q1139204",
+      "name": "Lucia Žitňanská",
+      "sitting": true,
+      "party_id": "slovak-democratic-and-christian-union-democratic-party",
+      "caucus": "Slovak Democratic and Christian Union – Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3090972"
+    },
+    {
+      "id": "eduard-kukan-q1139204",
+      "name": "Eduard Kukan",
+      "sitting": true,
+      "party_id": "communist-party-of-czechoslovakia",
+      "caucus": "Communist Party of Czechoslovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1289100"
+    },
+    {
+      "id": "pavol-rusko-q1139204",
+      "name": "Pavol Rusko",
+      "sitting": true,
+      "party_id": "idea",
+      "caucus": "IDEA",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3489643"
+    },
+    {
+      "id": "vladimir-chovan-q1139204",
+      "name": "Vladimír Chovan",
+      "sitting": true,
+      "party_id": "people-s-party-movement-for-a-democratic-slovakia",
+      "caucus": "People's Party – Movement for a Democratic Slovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7938789"
+    },
+    {
+      "id": "peter-jaros-q1139204",
+      "name": "Peter Jaroš",
+      "sitting": true,
+      "party_id": "party-of-the-democratic-left",
+      "caucus": "Party of the Democratic Left",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3394963"
+    },
+    {
+      "id": "jana-valova-q1139204",
+      "name": "Jana Vaľová",
+      "sitting": true,
+      "party_id": "direction-social-democracy",
+      "caucus": "Direction – Social Democracy",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6150597"
+    },
+    {
+      "id": "jozef-migas-q1139204",
+      "name": "Jozef Migaš",
+      "sitting": true,
+      "party_id": "direction-social-democracy",
+      "caucus": "Direction – Social Democracy",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1300892"
+    },
+    {
+      "id": "zdenka-kramplova-q1139204",
+      "name": "Zdenka Kramplová",
+      "sitting": true,
+      "party_id": "people-s-party-movement-for-a-democratic-slovakia",
+      "caucus": "People's Party – Movement for a Democratic Slovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q168928"
+    },
+    {
+      "id": "anna-belousovova-q1139204",
+      "name": "Anna Belousovová",
+      "sitting": true,
+      "party_id": "slovak-national-party",
+      "caucus": "Slovak National Party",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q544068"
+    },
+    {
+      "id": "rudolf-schuster-q1139204",
+      "name": "Rudolf Schuster",
+      "sitting": true,
+      "party_id": "communist-party-of-slovakia",
+      "caucus": "Communist party of Slovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q163813"
+    },
+    {
+      "id": "karol-smidke-q1139204",
+      "name": "Karol Šmidke",
+      "sitting": true,
+      "party_id": "communist-party-of-czechoslovakia",
+      "caucus": "Communist Party of Czechoslovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q515214"
+    },
+    {
+      "id": "juraj-blanar-q1139204",
+      "name": "Juraj Blanár",
+      "sitting": true,
+      "party_id": "direction-social-democracy",
+      "caucus": "Direction – Social Democracy",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q637471"
+    },
+    {
+      "id": "peter-tatar-q1139204",
+      "name": "Peter Tatár",
+      "sitting": true,
+      "party_id": "public-against-violence",
+      "caucus": "Public Against Violence",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4177854"
+    },
+    {
+      "id": "anton-hykisch-q1139204",
+      "name": "Anton Hykisch",
+      "sitting": true,
+      "party_id": "christian-democratic-movement",
+      "caucus": "Christian Democratic Movement",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3506653"
+    },
+    {
+      "id": "pavol-abrhan-q1139204",
+      "name": "Pavol Abrhan",
+      "sitting": true,
+      "party_id": "christian-democratic-movement",
+      "caucus": "Christian Democratic Movement",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3507463"
+    },
+    {
+      "id": "frantisek-sebej-q1139204",
+      "name": "František Šebej",
+      "sitting": true,
+      "party_id": "most-hid",
+      "caucus": "Most–Híd",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q673555"
+    },
+    {
+      "id": "vladimir-palko-q1139204",
+      "name": "Vladimír Palko",
+      "sitting": true,
+      "party_id": "conservative-democrats-of-slovakia",
+      "caucus": "Conservative Democrats of Slovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3090985"
+    },
+    {
+      "id": "emil-vestenicky-q1139204",
+      "name": "Emil Vestenický",
+      "sitting": true,
+      "party_id": "slovak-national-party",
+      "caucus": "Slovak National Party",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1336966"
+    },
+    {
+      "id": "fedor-hodza-q1139204",
+      "name": "Fedor Hodža",
+      "sitting": true,
+      "party_id": "republican-party-of-agricultural-and-smallholder-people",
+      "caucus": "Republican Party of Agricultural and Smallholder People",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5441114"
+    },
+    {
+      "id": "magdalena-vasaryova-q1139204",
+      "name": "Magdaléna Vášáryová",
+      "sitting": true,
+      "party_id": "slovak-democratic-and-christian-union-democratic-party",
+      "caucus": "Slovak Democratic and Christian Union – Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q376787"
+    },
+    {
+      "id": "peter-kresanek-q1139204",
+      "name": "Peter Kresánek",
+      "sitting": true,
+      "party_id": "slovak-democratic-and-christian-union-democratic-party",
+      "caucus": "Slovak Democratic and Christian Union – Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7175283"
+    },
+    {
+      "id": "martin-pado-q1139204",
+      "name": "Martin Pado",
+      "sitting": true,
+      "party_id": "slovak-democratic-and-christian-union-democratic-party",
+      "caucus": "Slovak Democratic and Christian Union – Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3295590"
+    },
+    {
+      "id": "jaroslav-volf-q1139204",
+      "name": "Jaroslav Volf",
+      "sitting": true,
+      "party_id": "social-democratic-party-of-slovakia",
+      "caucus": "Social Democratic Party of Slovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3162776"
+    },
+    {
+      "id": "ivan-uhliarik-q1139204",
+      "name": "Ivan Uhliarik",
+      "sitting": true,
+      "party_id": "christian-democratic-movement",
+      "caucus": "Christian Democratic Movement",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q680582"
+    },
+    {
+      "id": "zuzana-martinakova-q1139204",
+      "name": "Zuzana Martináková",
+      "sitting": true,
+      "party_id": "free-forum",
+      "caucus": "Free Forum",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3489125"
+    },
+    {
+      "id": "katarina-cibulkova-q1139204",
+      "name": "Katarína Cibulková",
+      "sitting": true,
+      "party_id": "slovak-democratic-and-christian-union-democratic-party",
+      "caucus": "Slovak Democratic and Christian Union – Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q923455"
+    },
+    {
+      "id": "mikulas-juscik-q1139204",
+      "name": "Mikuláš Juščík",
+      "sitting": true,
+      "party_id": "communist-party-of-slovakia",
+      "caucus": "Communist Party of Slovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4535622"
+    },
+    {
+      "id": "ivan-hudec-q1139204",
+      "name": "Ivan Hudec",
+      "sitting": true,
+      "party_id": "communist-party-of-czechoslovakia",
+      "caucus": "Communist Party of Czechoslovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3506785"
+    },
+    {
+      "id": "jozef-mikus-q1139204",
+      "name": "Jozef Mikuš",
+      "sitting": true,
+      "party_id": "slovak-democratic-and-christian-union-democratic-party",
+      "caucus": "Slovak Democratic and Christian Union – Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q546561"
+    },
+    {
+      "id": "jozsef-berenyi-q1139204",
+      "name": "József Berényi",
+      "sitting": true,
+      "party_id": "fidesz",
+      "caucus": "Fidesz",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q793959"
+    },
+    {
+      "id": "peter-zajac-q1139204",
+      "name": "Peter Zajac",
+      "sitting": true,
+      "party_id": "most-hid",
+      "caucus": "Most–Híd",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q11815924"
+    },
+    {
+      "id": "jozef-hrdlicka-q1139204",
+      "name": "Jozef Hrdlička",
+      "sitting": true,
+      "party_id": "communist-party-of-slovakia",
+      "caucus": "Communist Party of Slovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q11728693"
+    },
+    {
+      "id": "marian-kvasnicka-q1139204",
+      "name": "Marián Kvasnička",
+      "sitting": true,
+      "party_id": "christian-democratic-movement",
+      "caucus": "Christian Democratic Movement",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q11770267"
+    },
+    {
+      "id": "marian-radosovsky-q1139204",
+      "name": "Marián Radošovský",
+      "sitting": true,
+      "party_id": "christian-democratic-movement",
+      "caucus": "Christian Democratic Movement",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q11770269"
+    },
+    {
+      "id": "simona-petrik-q1139204",
+      "name": "Simona Petrík",
+      "sitting": true,
+      "party_id": "progressive-slovakia",
+      "caucus": "Progressive Slovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28793186"
+    },
+    {
+      "id": "monika-gibalova-q1139204",
+      "name": "Monika Gibalová",
+      "sitting": true,
+      "party_id": "christian-democratic-movement",
+      "caucus": "Christian Democratic Movement",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q11785116"
+    },
+    {
+      "id": "maria-sabolova-q1139204",
+      "name": "Mária Sabolová",
+      "sitting": true,
+      "party_id": "christian-democratic-movement",
+      "caucus": "Christian Democratic Movement",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q11787767"
+    },
+    {
+      "id": "peter-muransky-q1139204",
+      "name": "Peter Muránsky",
+      "sitting": true,
+      "party_id": "christian-democratic-movement",
+      "caucus": "Christian Democratic Movement",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q11815889"
+    },
+    {
+      "id": "anton-hrnko-q1139204",
+      "name": "Anton Hrnko",
+      "sitting": true,
+      "party_id": "slovak-national-party",
+      "caucus": "Slovak National Party",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12762465"
+    },
+    {
+      "id": "mojmir-mamojka-q1139204",
+      "name": "Mojmír Mamojka",
+      "sitting": true,
+      "party_id": "direction-social-democracy",
+      "caucus": "Direction – Social Democracy",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12771890"
+    },
+    {
+      "id": "lucia-duris-nicholsonova-q1139204",
+      "name": "Lucia Ďuriš Nicholsonová",
+      "sitting": true,
+      "party_id": "freedom-and-solidarity",
+      "caucus": "Freedom and Solidarity",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12770572"
+    },
+    {
+      "id": "stefan-kvietik-q1139204",
+      "name": "Štefan Kvietik",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -1759,144 +1230,27 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q9156381"
+      "roster_url": "http://www.wikidata.org/entity/Q10417725"
     },
     {
-      "id": "edita-pfundtner",
-      "name": "Edita Pfundtner",
+      "id": "ivan-stefanec-q1139204",
+      "name": "Ivan Štefanec",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
       "constituency_label": "",
       "chamber": "National Council of the Slovak Republic",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q9250348"
+      "roster_url": "http://www.wikidata.org/entity/Q11714338"
     },
     {
-      "id": "erika-jurinova",
-      "name": "Erika Jurinová",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q9254610"
-    },
-    {
-      "id": "radoslav-prochazka",
-      "name": "Radoslav Procházka",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q9302525"
-    },
-    {
-      "id": "rafael-rafaj",
-      "name": "Rafael Rafaj",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q9302825"
-    },
-    {
-      "id": "rudolf-pucik",
-      "name": "Rudolf Pučík",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q9323821"
-    },
-    {
-      "id": "stanislav-janis",
-      "name": "Stanislav Janiš",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q9341483"
-    },
-    {
-      "id": "tatiana-rosova",
-      "name": "Tatiana Rosová",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q9355838"
-    },
-    {
-      "id": "tibor-bastrnak",
-      "name": "Tibor Bastrnák",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q9358652"
-    },
-    {
-      "id": "viliam-novotny",
-      "name": "Viliam Novotný",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q9368751"
-    },
-    {
-      "id": "pavol-zajac",
-      "name": "Pavol Zajac",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Council of the Slovak Republic",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q66385603"
-    },
-    {
-      "id": "milan-uhrik",
+      "id": "milan-uhrik-q1139204",
       "name": "Milan Uhrík",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "republic",
+      "caucus": "Republic",
       "constituency_label": "",
       "chamber": "National Council of the Slovak Republic",
       "lang": [
@@ -1905,50 +1259,102 @@
       "roster_url": "http://www.wikidata.org/entity/Q38655134"
     },
     {
-      "id": "lubomir-fogas",
-      "name": "Ľubomír Fogaš",
+      "id": "pal-farkas-q1139204",
+      "name": "Pál Farkas",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "party-of-the-hungarian-community",
+      "caucus": "Party of the Hungarian Community",
       "constituency_label": "",
       "chamber": "National Council of the Slovak Republic",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q47036138"
+      "roster_url": "http://www.wikidata.org/entity/Q12774922"
     },
     {
-      "id": "alojz-baranik",
-      "name": "Alojz Baránik",
+      "id": "peter-marcek-q1139204",
+      "name": "Peter Marček",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "republic",
+      "caucus": "Republic",
       "constituency_label": "",
       "chamber": "National Council of the Slovak Republic",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q47509238"
+      "roster_url": "http://www.wikidata.org/entity/Q29789902"
     },
     {
-      "id": "igor-janckulik",
-      "name": "Igor Janckulík",
+      "id": "helena-mezenska-q1139204",
+      "name": "Helena Mezenská",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "slovakia",
+      "caucus": "Slovakia",
       "constituency_label": "",
       "chamber": "National Council of the Slovak Republic",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q50737422"
+      "roster_url": "http://www.wikidata.org/entity/Q14923362"
     },
     {
-      "id": "milan-krajniak",
+      "id": "peter-osusky-q1139204",
+      "name": "Peter Osuský",
+      "sitting": true,
+      "party_id": "freedom-and-solidarity",
+      "caucus": "Freedom and Solidarity",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q11815897"
+    },
+    {
+      "id": "olga-keltosova-q1139204",
+      "name": "Oľga Keltošová",
+      "sitting": true,
+      "party_id": "democratic-party",
+      "caucus": "Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12043421"
+    },
+    {
+      "id": "peter-brnak-q1139204",
+      "name": "Peter Brňák",
+      "sitting": true,
+      "party_id": "democratic-party",
+      "caucus": "Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12044696"
+    },
+    {
+      "id": "peter-kresak-q1139204",
+      "name": "Peter Kresák",
+      "sitting": true,
+      "party_id": "most-hid",
+      "caucus": "Most–Híd",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12044728"
+    },
+    {
+      "id": "milan-krajniak-q1139204",
       "name": "Milan Krajniak",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "conservatives-christian-union",
+      "caucus": "Conservatives – Christian Union",
       "constituency_label": "",
       "chamber": "National Council of the Slovak Republic",
       "lang": [
@@ -1957,24 +1363,219 @@
       "roster_url": "http://www.wikidata.org/entity/Q54991677"
     },
     {
-      "id": "juraj-kolesar",
-      "name": "Juraj Kolesár",
+      "id": "bohumil-hanzel-q1139204",
+      "name": "Bohumil Hanzel",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "direction-social-democracy",
+      "caucus": "Direction – Social Democracy",
       "constituency_label": "",
       "chamber": "National Council of the Slovak Republic",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q59271135"
+      "roster_url": "http://www.wikidata.org/entity/Q12763335"
     },
     {
-      "id": "alan-suchanek",
+      "id": "ida-rapaicova-q1139204",
+      "name": "Ida Rapaičová",
+      "sitting": true,
+      "party_id": "people-s-party-movement-for-a-democratic-slovakia",
+      "caucus": "People's Party – Movement for a Democratic Slovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q11710967"
+    },
+    {
+      "id": "gabriel-karlin-q1139204",
+      "name": "Gabriel Karlin",
+      "sitting": true,
+      "party_id": "people-s-party-movement-for-a-democratic-slovakia",
+      "caucus": "People's Party – Movement for a Democratic Slovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12766209"
+    },
+    {
+      "id": "renata-zmajkovicova-q1139204",
+      "name": "Renáta Zmajkovičová",
+      "sitting": true,
+      "party_id": "direction-social-democracy",
+      "caucus": "Direction – Social Democracy",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12775234"
+    },
+    {
+      "id": "ivan-harman-q1139204",
+      "name": "Ivan Harman",
+      "sitting": true,
+      "party_id": "slovak-democratic-and-christian-union-democratic-party",
+      "caucus": "Slovak Democratic and Christian Union – Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12767662"
+    },
+    {
+      "id": "ludmila-muskova-q1139204",
+      "name": "Ľudmila Mušková",
+      "sitting": true,
+      "party_id": "people-s-party-movement-for-a-democratic-slovakia",
+      "caucus": "People's Party – Movement for a Democratic Slovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12781477"
+    },
+    {
+      "id": "jaroslav-ivanco-q1139204",
+      "name": "Jaroslav Ivančo",
+      "sitting": true,
+      "party_id": "slovak-democratic-and-christian-union-democratic-party",
+      "caucus": "Slovak Democratic and Christian Union – Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q11720759"
+    },
+    {
+      "id": "jozef-bucek-q1139204",
+      "name": "Jozef Buček",
+      "sitting": true,
+      "party_id": "direction-social-democracy",
+      "caucus": "Direction – Social Democracy",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q11728689"
+    },
+    {
+      "id": "pavel-koncos-q1139204",
+      "name": "Pavel Koncoš",
+      "sitting": true,
+      "party_id": "party-of-the-democratic-left",
+      "caucus": "Party of the Democratic Left",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13538095"
+    },
+    {
+      "id": "ondrej-binder-q1139204",
+      "name": "Ondrej Binder",
+      "sitting": true,
+      "party_id": "kotlebists-people-s-party-our-slovakia",
+      "caucus": "Kotlebists – People's Party Our Slovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24192821"
+    },
+    {
+      "id": "erzsebet-dolnik-q1139204",
+      "name": "Erzsébet Dolník",
+      "sitting": true,
+      "party_id": "party-of-the-hungarian-community",
+      "caucus": "Party of the Hungarian Community",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12765455"
+    },
+    {
+      "id": "tibor-sagat-q1139204",
+      "name": "Tibor Šagát",
+      "sitting": true,
+      "party_id": "democratic-union-of-slovakia",
+      "caucus": "Democratic Union of Slovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12058953"
+    },
+    {
+      "id": "alojz-hlina-q1139204",
+      "name": "Alojz Hlina",
+      "sitting": true,
+      "party_id": "slovakia",
+      "caucus": "Slovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13374407"
+    },
+    {
+      "id": "milan-hort-q1139204",
+      "name": "Milan Hort",
+      "sitting": true,
+      "party_id": "slovak-democratic-and-christian-union-democratic-party",
+      "caucus": "Slovak Democratic and Christian Union – Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q11781153"
+    },
+    {
+      "id": "ondrej-matej-q1139204",
+      "name": "Ondrej Matej",
+      "sitting": true,
+      "party_id": "slovak-democratic-and-christian-union-democratic-party",
+      "caucus": "Slovak Democratic and Christian Union – Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q11798293"
+    },
+    {
+      "id": "peter-markovic-q1139204",
+      "name": "Peter Markovič",
+      "sitting": true,
+      "party_id": "slovak-democratic-and-christian-union-democratic-party",
+      "caucus": "Slovak Democratic and Christian Union – Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q11815884"
+    },
+    {
+      "id": "alan-suchanek-q1139204",
       "name": "Alan Suchánek",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "slovakia",
+      "caucus": "Slovakia",
       "constituency_label": "",
       "chamber": "National Council of the Slovak Republic",
       "lang": [
@@ -1983,24 +1584,388 @@
       "roster_url": "http://www.wikidata.org/entity/Q60234562"
     },
     {
-      "id": "vladimira-marcinkova",
-      "name": "Vladimíra Marcinková",
+      "id": "jozef-prokes-q1139204",
+      "name": "Jozef Prokeš",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "slovak-national-party",
+      "caucus": "Slovak National Party",
       "constituency_label": "",
       "chamber": "National Council of the Slovak Republic",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q101421294"
+      "roster_url": "http://www.wikidata.org/entity/Q12027064"
     },
     {
-      "id": "milan-laurencik",
+      "id": "jan-sitek-q1139204",
+      "name": "Ján Sitek",
+      "sitting": true,
+      "party_id": "slovak-national-party",
+      "caucus": "Slovak National Party",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12027472"
+    },
+    {
+      "id": "juraj-kolesar-q1139204",
+      "name": "Juraj Kolesár",
+      "sitting": true,
+      "party_id": "kotlebists-people-s-party-our-slovakia",
+      "caucus": "Kotlebists – People's Party Our Slovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q59271135"
+    },
+    {
+      "id": "marian-kotleba-q1139204",
+      "name": "Marian Kotleba",
+      "sitting": true,
+      "party_id": "kotlebists-people-s-party-our-slovakia",
+      "caucus": "Kotlebists – People's Party Our Slovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12035354"
+    },
+    {
+      "id": "jan-budaj-q1139204",
+      "name": "Ján Budaj",
+      "sitting": true,
+      "party_id": "public-against-violence",
+      "caucus": "Public Against Violence",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12027325"
+    },
+    {
+      "id": "erika-jurinova-q1139204",
+      "name": "Erika Jurinová",
+      "sitting": true,
+      "party_id": "slovakia",
+      "caucus": "Slovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q9254610"
+    },
+    {
+      "id": "ivan-stefunko-q1139204",
+      "name": "Ivan Štefunko",
+      "sitting": true,
+      "party_id": "progressive-slovakia",
+      "caucus": "Progressive Slovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29789884"
+    },
+    {
+      "id": "anton-neuwirth-q1139204",
+      "name": "Anton Neuwirth",
+      "sitting": true,
+      "party_id": "christian-democratic-movement",
+      "caucus": "Christian Democratic Movement",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q9156381"
+    },
+    {
+      "id": "stefan-kuffa-q1139204",
+      "name": "Štefan Kuffa",
+      "sitting": true,
+      "party_id": "christian-democratic-movement",
+      "caucus": "Christian Democratic Movement",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17413013"
+    },
+    {
+      "id": "vojtech-tkac-q1139204",
+      "name": "Vojtech Tkáč",
+      "sitting": true,
+      "party_id": "people-s-party-movement-for-a-democratic-slovakia",
+      "caucus": "People's Party – Movement for a Democratic Slovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q11925822"
+    },
+    {
+      "id": "edita-pfundtner-q1139204",
+      "name": "Edita Pfundtner",
+      "sitting": true,
+      "party_id": "most-hid",
+      "caucus": "Most–Híd",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q9250348"
+    },
+    {
+      "id": "andrej-danko-q1139204",
+      "name": "Andrej Danko",
+      "sitting": true,
+      "party_id": "slovak-national-party",
+      "caucus": "Slovak National Party",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13397958"
+    },
+    {
+      "id": "peter-pollak-q1139204",
+      "name": "Peter Pollák",
+      "sitting": true,
+      "party_id": "slovakia",
+      "caucus": "Slovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13538232"
+    },
+    {
+      "id": "peter-weiss-q1139204",
+      "name": "Peter Weiss",
+      "sitting": true,
+      "party_id": "party-of-the-democratic-left",
+      "caucus": "Party of the Democratic Left",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q11815925"
+    },
+    {
+      "id": "lubomir-fogas-q1139204",
+      "name": "Ľubomír Fogaš",
+      "sitting": true,
+      "party_id": "party-of-the-democratic-left",
+      "caucus": "Party of the Democratic Left",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q47036138"
+    },
+    {
+      "id": "radoslav-prochazka-q1139204",
+      "name": "Radoslav Procházka",
+      "sitting": true,
+      "party_id": "christian-democratic-movement",
+      "caucus": "Christian Democratic Movement",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q9302525"
+    },
+    {
+      "id": "zoltan-horvath-q1139204",
+      "name": "Zoltán Horváth",
+      "sitting": true,
+      "party_id": "slovak-democratic-and-christian-union-democratic-party",
+      "caucus": "Slovak Democratic and Christian Union – Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q9391957"
+    },
+    {
+      "id": "tibor-bastrnak-q1139204",
+      "name": "Tibor Bastrnák",
+      "sitting": true,
+      "party_id": "most-hid",
+      "caucus": "Most–Híd",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q9358652"
+    },
+    {
+      "id": "frantisek-svec-q1139204",
+      "name": "František Švec",
+      "sitting": true,
+      "party_id": "people-s-party-movement-for-a-democratic-slovakia",
+      "caucus": "People's Party – Movement for a Democratic Slovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q22346183"
+    },
+    {
+      "id": "zuzana-zimenova-q1139204",
+      "name": "Zuzana Zimenová",
+      "sitting": true,
+      "party_id": "slovak-conservative-party",
+      "caucus": "Slovak Conservative Party",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q27927105"
+    },
+    {
+      "id": "igor-janckulik-q1139204",
+      "name": "Igor Janckulík",
+      "sitting": true,
+      "party_id": "most-hid",
+      "caucus": "Most–Híd",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q50737422"
+    },
+    {
+      "id": "sandor-albert-q1139204",
+      "name": "Sándor Albert",
+      "sitting": true,
+      "party_id": "party-of-the-hungarian-community",
+      "caucus": "Party of the Hungarian Community",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12058026"
+    },
+    {
+      "id": "mikulas-huba-q1139204",
+      "name": "Mikuláš Huba",
+      "sitting": true,
+      "party_id": "green-party",
+      "caucus": "Green Party",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12037115"
+    },
+    {
+      "id": "miroslav-maxon-q1139204",
+      "name": "Miroslav Maxon",
+      "sitting": true,
+      "party_id": "zemedelska-strana",
+      "caucus": "Zemědělská strana",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12037917"
+    },
+    {
+      "id": "boris-kollar-q1139204",
+      "name": "Boris Kollár",
+      "sitting": true,
+      "party_id": "we-are-family",
+      "caucus": "We Are Family",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q23022210"
+    },
+    {
+      "id": "rafael-rafaj-q1139204",
+      "name": "Rafael Rafaj",
+      "sitting": true,
+      "party_id": "slovak-national-party",
+      "caucus": "Slovak National Party",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q9302825"
+    },
+    {
+      "id": "rudolf-pucik-q1139204",
+      "name": "Rudolf Pučík",
+      "sitting": true,
+      "party_id": "slovak-national-party",
+      "caucus": "Slovak National Party",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q9323821"
+    },
+    {
+      "id": "frantisek-gaulieder-q1139204",
+      "name": "František Gaulieder",
+      "sitting": true,
+      "party_id": "people-s-party-movement-for-a-democratic-slovakia",
+      "caucus": "People's Party – Movement for a Democratic Slovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15303766"
+    },
+    {
+      "id": "stefan-zelnik-q1139204",
+      "name": "Štefan Zelník",
+      "sitting": true,
+      "party_id": "slovak-national-party",
+      "caucus": "Slovak National Party",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q9396994"
+    },
+    {
+      "id": "milan-laurencik-q1139204",
       "name": "Milan Laurenčík",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "freedom-and-solidarity",
+      "caucus": "Freedom and Solidarity",
       "constituency_label": "",
       "chamber": "National Council of the Slovak Republic",
       "lang": [
@@ -2009,7 +1974,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q60819384"
     },
     {
-      "id": "peter-pcolinsky",
+      "id": "peter-pellegrini-q1139204",
+      "name": "Peter Pellegrini",
+      "sitting": true,
+      "party_id": "voice-social-democracy",
+      "caucus": "Voice – Social Democracy",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17330556"
+    },
+    {
+      "id": "jan-pataky-q1139204",
+      "name": "Ján Pataky",
+      "sitting": true,
+      "party_id": "slovak-democratic-and-christian-union-democratic-party",
+      "caucus": "Slovak Democratic and Christian Union – Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13421415"
+    },
+    {
+      "id": "peter-pcolinsky-q1139204",
       "name": "Peter Pčolinský",
       "sitting": true,
       "party_id": "unknown",
@@ -2022,24 +2013,154 @@
       "roster_url": "http://www.wikidata.org/entity/Q62631849"
     },
     {
-      "id": "ladislav-kamenicky",
-      "name": "Ladislav Kamenický",
+      "id": "miroslav-ciz-q1139204",
+      "name": "Miroslav Čiž",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "direction-social-democracy",
+      "caucus": "Direction – Social Democracy",
       "constituency_label": "",
       "chamber": "National Council of the Slovak Republic",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q63365846"
+      "roster_url": "http://www.wikidata.org/entity/Q13450383"
     },
     {
-      "id": "michal-simecka",
+      "id": "jozef-kollar-q1139204",
+      "name": "Jozef Kollár",
+      "sitting": true,
+      "party_id": "freedom-and-solidarity",
+      "caucus": "Freedom and Solidarity",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18341552"
+    },
+    {
+      "id": "alojz-baranik-q1139204",
+      "name": "Alojz Baránik",
+      "sitting": true,
+      "party_id": "freedom-and-solidarity",
+      "caucus": "Freedom and Solidarity",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q47509238"
+    },
+    {
+      "id": "juraj-horvath-q1139204",
+      "name": "Juraj Horváth",
+      "sitting": true,
+      "party_id": "direction-social-democracy",
+      "caucus": "Direction – Social Democracy",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q11729467"
+    },
+    {
+      "id": "jaroslav-demian-q1139204",
+      "name": "Jaroslav Demian",
+      "sitting": true,
+      "party_id": "direction-social-democracy",
+      "caucus": "Direction – Social Democracy",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15534108"
+    },
+    {
+      "id": "jozef-viskupic-q1139204",
+      "name": "Jozef Viskupič",
+      "sitting": true,
+      "party_id": "slovakia",
+      "caucus": "Slovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q11728697"
+    },
+    {
+      "id": "igor-sidor-q1139204",
+      "name": "Igor Sidor",
+      "sitting": true,
+      "party_id": "most-hid",
+      "caucus": "Most–Híd",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q11711474"
+    },
+    {
+      "id": "andrej-hrnciar-q1139204",
+      "name": "Andrej Hrnčiar",
+      "sitting": true,
+      "party_id": "most-hid",
+      "caucus": "Most–Híd",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12762300"
+    },
+    {
+      "id": "ivan-svejna-q1139204",
+      "name": "Ivan Švejna",
+      "sitting": true,
+      "party_id": "most-hid",
+      "caucus": "Most–Híd",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q11714339"
+    },
+    {
+      "id": "stanislav-janis-q1139204",
+      "name": "Stanislav Janiš",
+      "sitting": true,
+      "party_id": "slovak-democratic-and-christian-union-democratic-party",
+      "caucus": "Slovak Democratic and Christian Union – Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q9341483"
+    },
+    {
+      "id": "peter-biros-q1139204",
+      "name": "Peter Biroš",
+      "sitting": true,
+      "party_id": "idea",
+      "caucus": "IDEA",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12773704"
+    },
+    {
+      "id": "michal-simecka-q1139204",
       "name": "Michal Šimečka",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "progressive-slovakia",
+      "caucus": "Progressive Slovakia",
       "constituency_label": "",
       "chamber": "National Council of the Slovak Republic",
       "lang": [
@@ -2048,8 +2169,86 @@
       "roster_url": "http://www.wikidata.org/entity/Q64159898"
     },
     {
-      "id": "robert-fico",
-      "name": "Robert Fico",
+      "id": "tatiana-rosova-q1139204",
+      "name": "Tatiana Rosová",
+      "sitting": true,
+      "party_id": "slovak-democratic-and-christian-union-democratic-party",
+      "caucus": "Slovak Democratic and Christian Union – Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q9355838"
+    },
+    {
+      "id": "martin-fecko-q1139204",
+      "name": "Martin Fecko",
+      "sitting": true,
+      "party_id": "slovakia",
+      "caucus": "Slovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q11770677"
+    },
+    {
+      "id": "milan-mazurek-q1139204",
+      "name": "Milan Mazurek",
+      "sitting": true,
+      "party_id": "republic",
+      "caucus": "Republic",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q55376476"
+    },
+    {
+      "id": "viliam-novotny-q1139204",
+      "name": "Viliam Novotný",
+      "sitting": true,
+      "party_id": "slovak-democratic-and-christian-union-democratic-party",
+      "caucus": "Slovak Democratic and Christian Union – Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q9368751"
+    },
+    {
+      "id": "gabor-gal-q1139204",
+      "name": "Gábor Gál",
+      "sitting": true,
+      "party_id": "most-hid",
+      "caucus": "Most–Híd",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q9283321"
+    },
+    {
+      "id": "dagmara-bollova-q1139204",
+      "name": "Dagmara Bollová",
+      "sitting": true,
+      "party_id": "communist-party-of-slovakia",
+      "caucus": "Communist Party of Slovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q11692624"
+    },
+    {
+      "id": "richard-takac-q1139204",
+      "name": "Richard Takáč",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -2058,20 +2257,215 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q57606"
+      "roster_url": "http://www.wikidata.org/entity/Q123192113"
     },
     {
-      "id": "jan-kerekreti",
-      "name": "Ján Kerekréti",
+      "id": "maria-sofranko-q1139204",
+      "name": "Mária Šofranko",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q88390417"
+    },
+    {
+      "id": "kamil-sasko-q1139204",
+      "name": "Kamil Šaško",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q130324164"
+    },
+    {
+      "id": "monika-jankovska-q1139204",
+      "name": "Monika Jankovská",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q130467674"
+    },
+    {
+      "id": "samuel-migal-q1139204",
+      "name": "Samuel Migaľ",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131544768"
+    },
+    {
+      "id": "erik-kalinak-q1139204",
+      "name": "Erik Kaliňák",
+      "sitting": true,
+      "party_id": "direction-social-democracy",
+      "caucus": "Direction – Social Democracy",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124661466"
+    },
+    {
+      "id": "anna-veresova-q1139204",
+      "name": "Anna Verešová",
+      "sitting": true,
+      "party_id": "christian-democratic-movement",
+      "caucus": "Christian Democratic Movement",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q65499678"
+    },
+    {
+      "id": "vladimira-marcinkova-q1139204",
+      "name": "Vladimíra Marcinková",
+      "sitting": true,
+      "party_id": "for-the-people",
+      "caucus": "For the People",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q101421294"
+    },
+    {
+      "id": "roman-mikulec-q1139204",
+      "name": "Roman Mikulec",
+      "sitting": true,
+      "party_id": "slovakia",
+      "caucus": "Slovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q88188383"
+    },
+    {
+      "id": "jan-kerekreti-q1139204",
+      "name": "Ján Kerekréti",
+      "sitting": true,
+      "party_id": "slovakia",
+      "caucus": "Slovakia",
       "constituency_label": "",
       "chamber": "National Council of the Slovak Republic",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q114959228"
+    },
+    {
+      "id": "pavol-zajac-q1139204",
+      "name": "Pavol Zajac",
+      "sitting": true,
+      "party_id": "christian-democratic-movement",
+      "caucus": "Christian Democratic Movement",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q66385603"
+    },
+    {
+      "id": "ladislav-kamenicky-q1139204",
+      "name": "Ladislav Kamenický",
+      "sitting": true,
+      "party_id": "direction-social-democracy",
+      "caucus": "Direction – Social Democracy",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q63365846"
+    },
+    {
+      "id": "milos-svrcek-q1139204",
+      "name": "Miloš Svrček",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q104778528"
+    },
+    {
+      "id": "gyorgy-gyimesi-q1139204",
+      "name": "György Gyimesi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q106109296"
+    },
+    {
+      "id": "jan-marosz-q1139204",
+      "name": "Ján Marosz",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q65499708"
+    },
+    {
+      "id": "jakub-nedoba-q1139204",
+      "name": "Jakub Nedoba",
+      "sitting": true,
+      "party_id": "freedom-and-solidarity",
+      "caucus": "Freedom and Solidarity",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q74564091"
+    },
+    {
+      "id": "greta-gregorova-q1139204",
+      "name": "Gréta Gregorová",
+      "sitting": true,
+      "party_id": "progressive-slovakia",
+      "caucus": "Progressive Slovakia",
+      "constituency_label": "",
+      "chamber": "National Council of the Slovak Republic",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q136353425"
     }
   ]
 }

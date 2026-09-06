@@ -3,11 +3,171 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1427127",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 136,
+  "incomplete": true,
+  "claimed_seats": 58,
+  "chambers": [
+    "Member of the National Assembly of Gambia",
+    "National Assembly of The Gambia"
+  ],
   "items": [
     {
-      "id": "elizabeth-renner",
+      "id": "momodou-ceesay-q1427127",
+      "name": "Momodou Ceesay",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56172860"
+    },
+    {
+      "id": "ramzia-diab-q1427127",
+      "name": "Ramzia Diab",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q55077373"
+    },
+    {
+      "id": "bakary-camara-q1427127",
+      "name": "Bakary Camara",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56191888"
+    },
+    {
+      "id": "sainey-touray-q1427127",
+      "name": "Sainey Touray",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56192624"
+    },
+    {
+      "id": "bakary-njie-q1427127",
+      "name": "Bakary Njie",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56235701"
+    },
+    {
+      "id": "alhagie-drammeh-q1427127",
+      "name": "Alhagie Drammeh",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56241378"
+    },
+    {
+      "id": "baba-galleh-jallow-q1427127",
+      "name": "Baba Galleh Jallow",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56229145"
+    },
+    {
+      "id": "fatoumatta-njai-q1427127",
+      "name": "Fatoumatta Njai",
+      "sitting": true,
+      "party_id": "people-s-progressive-party",
+      "caucus": "People's Progressive Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29573264"
+    },
+    {
+      "id": "mariam-jack-denton-q1427127",
+      "name": "Mariam Jack-Denton",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29580200"
+    },
+    {
+      "id": "foday-jibani-manka-q1427127",
+      "name": "Foday Jibani Manka",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18710893"
+    },
+    {
+      "id": "fabakary-cham-q1427127",
+      "name": "Fabakary Cham",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1390063"
+    },
+    {
+      "id": "fabakary-jatta-q1427127",
+      "name": "Fabakary Jatta",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1390067"
+    },
+    {
+      "id": "elizabeth-renner-q1427127",
       "name": "Elizabeth Renner",
       "sitting": true,
       "party_id": "unknown",
@@ -20,167 +180,37 @@
       "roster_url": "http://www.wikidata.org/entity/Q1331301"
     },
     {
-      "id": "mamma-kandeh",
-      "name": "Mamma Kandeh",
+      "id": "billay-g-tunkara-q1427127",
+      "name": "Billay G. Tunkara",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "national-people-s-party",
+      "caucus": "National People's Party",
       "constituency_label": "",
       "chamber": "National Assembly of The Gambia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q1266544"
+      "roster_url": "http://www.wikidata.org/entity/Q55426613"
     },
     {
-      "id": "ebrima-janko-sanyang",
-      "name": "Ebrima Janko Sanyang",
+      "id": "amadou-camara-q1427127",
+      "name": "Amadou Camara",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "national-reconciliation-party",
+      "caucus": "National Reconciliation Party",
       "constituency_label": "",
       "chamber": "National Assembly of The Gambia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q1280080"
+      "roster_url": "http://www.wikidata.org/entity/Q56070689"
     },
     {
-      "id": "fabakary-cham",
-      "name": "Fabakary Cham",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1390063"
-    },
-    {
-      "id": "fabakary-jatta",
-      "name": "Fabakary Jatta",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1390067"
-    },
-    {
-      "id": "kalifa-kambi",
-      "name": "Kalifa Kambi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1525179"
-    },
-    {
-      "id": "hamat-bah",
-      "name": "Hamat Bah",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1572664"
-    },
-    {
-      "id": "kanimang-sanneh",
-      "name": "Kanimang Sanneh",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1615901"
-    },
-    {
-      "id": "almamy-touray",
-      "name": "Almamy Touray",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1620155"
-    },
-    {
-      "id": "louise-n-jie",
-      "name": "Louise N’Jie",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1872177"
-    },
-    {
-      "id": "madi-ceesay",
-      "name": "Madi Ceesay",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1883334"
-    },
-    {
-      "id": "mustapha-b-wadda",
-      "name": "Mustapha B. Wadda",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1955595"
-    },
-    {
-      "id": "nyimasata-sanneh-bojang",
-      "name": "Nyimasata Sanneh-Bojang",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2006110"
-    },
-    {
-      "id": "sidia-jatta",
+      "id": "sidia-jatta-q1427127",
       "name": "Sidia Jatta",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "people-s-democratic-organisation-for-independence-and-socialism",
+      "caucus": "People's Democratic Organisation for Independence and Socialism",
       "constituency_label": "",
       "chamber": "National Assembly of The Gambia",
       "lang": [
@@ -189,7 +219,267 @@
       "roster_url": "http://www.wikidata.org/entity/Q2281872"
     },
     {
-      "id": "tamsir-jallow",
+      "id": "louise-n-jie-q1427127",
+      "name": "Louise N’Jie",
+      "sitting": true,
+      "party_id": "people-s-progressive-party",
+      "caucus": "People's Progressive Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1872177"
+    },
+    {
+      "id": "muhammed-mahanera-q1427127",
+      "name": "Muhammed Mahanera",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q55986149"
+    },
+    {
+      "id": "dembo-bojang-q1427127",
+      "name": "Dembo Bojang",
+      "sitting": true,
+      "party_id": "national-convention-party",
+      "caucus": "National Convention Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29535468"
+    },
+    {
+      "id": "bekai-camara-q1427127",
+      "name": "Bekai Camara",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q814985"
+    },
+    {
+      "id": "foday-n-m-drammeh-q1427127",
+      "name": "Foday N. M. Drammeh",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56005593"
+    },
+    {
+      "id": "madi-ceesay-q1427127",
+      "name": "Madi Ceesay",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1883334"
+    },
+    {
+      "id": "belinda-bidwell-q1427127",
+      "name": "Belinda Bidwell",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q815618"
+    },
+    {
+      "id": "alhagie-f-b-sillah-q1427127",
+      "name": "Alhagie F. B. Sillah",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56070682"
+    },
+    {
+      "id": "alfusainey-ceesay-q1427127",
+      "name": "Alfusainey Ceesay",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56070681"
+    },
+    {
+      "id": "buba-samura-q1427127",
+      "name": "Buba Samura",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q997370"
+    },
+    {
+      "id": "dawda-kawsu-jawara-q1427127",
+      "name": "Dawda Kawsu Jawara",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56166103"
+    },
+    {
+      "id": "dembo-k-m-camara-q1427127",
+      "name": "Dembo K. M. Camara",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56172760"
+    },
+    {
+      "id": "alhagie-jawara-q1427127",
+      "name": "Alhagie Jawara",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56183128"
+    },
+    {
+      "id": "omar-darboe-q1427127",
+      "name": "Omar Darboe",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56190902"
+    },
+    {
+      "id": "fakebba-n-l-colley-q1427127",
+      "name": "Fakebba N. L. Colley",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56191447"
+    },
+    {
+      "id": "mahtarr-m-jeng-q1427127",
+      "name": "Mahtarr M. Jeng",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56191444"
+    },
+    {
+      "id": "kajali-fofana-q1427127",
+      "name": "Kajali Fofana",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56192034"
+    },
+    {
+      "id": "yaya-gassama-q1427127",
+      "name": "Yaya Gassama",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56191866"
+    },
+    {
+      "id": "alhagie-s-darboe-q1427127",
+      "name": "Alhagie S. Darboe",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56205565"
+    },
+    {
+      "id": "lamin-j-sanneh-q1427127",
+      "name": "Lamin J. Sanneh",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56205582"
+    },
+    {
+      "id": "tamsir-jallow-q1427127",
       "name": "Tamsir Jallow",
       "sitting": true,
       "party_id": "unknown",
@@ -202,128 +492,180 @@
       "roster_url": "http://www.wikidata.org/entity/Q2391822"
     },
     {
-      "id": "abdou-f-m-badjie",
-      "name": "Abdou F.M. Badjie",
+      "id": "sulayman-saho-q1427127",
+      "name": "Sulayman Saho",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
       "constituency_label": "",
       "chamber": "National Assembly of The Gambia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q308336"
+      "roster_url": "http://www.wikidata.org/entity/Q56183267"
     },
     {
-      "id": "abdoulie-bojang",
-      "name": "Abdoulie Bojang",
+      "id": "kebba-k-barrow-q1427127",
+      "name": "Kebba K. Barrow",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
       "constituency_label": "",
       "chamber": "National Assembly of The Gambia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q308425"
+      "roster_url": "http://www.wikidata.org/entity/Q56216499"
     },
     {
-      "id": "abdoulie-kanagi-jawla",
-      "name": "Abdoulie Kanagi Jawla",
+      "id": "muhammed-ndow-q1427127",
+      "name": "Muhammed Ndow",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "people-s-progressive-party",
+      "caucus": "People's Progressive Party",
       "constituency_label": "",
       "chamber": "National Assembly of The Gambia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q308435"
+      "roster_url": "http://www.wikidata.org/entity/Q56241371"
     },
     {
-      "id": "abou-karamba-kassamba",
-      "name": "Abou Karamba Kassamba",
+      "id": "lamin-f-m-conta-q1427127",
+      "name": "Lamin F. M. Conta",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
       "constituency_label": "",
       "chamber": "National Assembly of The Gambia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q323064"
+      "roster_url": "http://www.wikidata.org/entity/Q56229136"
     },
     {
-      "id": "halifa-sallah",
-      "name": "Halifa Sallah",
+      "id": "saikouba-jarju-q1427127",
+      "name": "Saikouba Jarju",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
       "constituency_label": "",
       "chamber": "National Assembly of The Gambia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q3125967"
+      "roster_url": "http://www.wikidata.org/entity/Q56229131"
     },
     {
-      "id": "buba-baldeh",
-      "name": "Buba Baldeh",
+      "id": "fatou-k-jawara-q1427127",
+      "name": "Fatou K. Jawara",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
       "constituency_label": "",
       "chamber": "National Assembly of The Gambia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q17464742"
+      "roster_url": "http://www.wikidata.org/entity/Q56235696"
     },
     {
-      "id": "samba-jallow",
-      "name": "Samba Jallow",
+      "id": "saikou-marong-q1427127",
+      "name": "Saikou Marong",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
       "constituency_label": "",
       "chamber": "National Assembly of The Gambia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q28839661"
+      "roster_url": "http://www.wikidata.org/entity/Q56235698"
     },
     {
-      "id": "foday-jibani-manka",
-      "name": "Foday Jibani Manka",
+      "id": "assan-touray-q1427127",
+      "name": "Assan Touray",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
       "constituency_label": "",
       "chamber": "National Assembly of The Gambia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q18710893"
+      "roster_url": "http://www.wikidata.org/entity/Q56241368"
     },
     {
-      "id": "babanding-k-k-daffeh",
-      "name": "Babanding K.K. Daffeh",
+      "id": "muhammed-magassy-q1427127",
+      "name": "Muhammed Magassy",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
       "constituency_label": "",
       "chamber": "National Assembly of The Gambia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q18761874"
+      "roster_url": "http://www.wikidata.org/entity/Q29577935"
     },
     {
-      "id": "paul-l-mendy",
+      "id": "ndey-yassin-secka-q1427127",
+      "name": "Ndey Yassin Secka",
+      "sitting": true,
+      "party_id": "people-s-democratic-organisation-for-independence-and-socialism",
+      "caucus": "People's Democratic Organisation for Independence and Socialism",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q55846074"
+    },
+    {
+      "id": "alhagie-mbow-q1427127",
+      "name": "Alhagie Mbow",
+      "sitting": true,
+      "party_id": "national-reconciliation-party",
+      "caucus": "National Reconciliation Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56159563"
+    },
+    {
+      "id": "sainey-jawara-q1427127",
+      "name": "Sainey Jawara",
+      "sitting": true,
+      "party_id": "national-reconciliation-party",
+      "caucus": "National Reconciliation Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56159570"
+    },
+    {
+      "id": "ousman-touray-q1427127",
+      "name": "Ousman Touray",
+      "sitting": true,
+      "party_id": "national-reconciliation-party",
+      "caucus": "National Reconciliation Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56172752"
+    },
+    {
+      "id": "paul-l-mendy-q1427127",
       "name": "Paul L. Mendy",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
       "constituency_label": "",
       "chamber": "National Assembly of The Gambia",
       "lang": [
@@ -332,7 +674,59 @@
       "roster_url": "http://www.wikidata.org/entity/Q19298298"
     },
     {
-      "id": "mama-fatima-singhateh",
+      "id": "suwaibou-touray-q1427127",
+      "name": "Suwaibou Touray",
+      "sitting": true,
+      "party_id": "people-s-democratic-organisation-for-independence-and-socialism",
+      "caucus": "People's Democratic Organisation for Independence and Socialism",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q55979356"
+    },
+    {
+      "id": "lamin-m-m-bojang-q1427127",
+      "name": "Lamin M. M. Bojang",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q991990"
+    },
+    {
+      "id": "salifu-jawo-q1427127",
+      "name": "Salifu Jawo",
+      "sitting": true,
+      "party_id": "national-people-s-party",
+      "caucus": "National People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56190687"
+    },
+    {
+      "id": "kebba-jallow-q1427127",
+      "name": "Kebba Jallow",
+      "sitting": true,
+      "party_id": "national-people-s-party",
+      "caucus": "National People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56192029"
+    },
+    {
+      "id": "mama-fatima-singhateh-q1427127",
       "name": "Mama Fatima Singhateh",
       "sitting": true,
       "party_id": "unknown",
@@ -345,323 +739,11 @@
       "roster_url": "http://www.wikidata.org/entity/Q23772063"
     },
     {
-      "id": "baba-jobe",
-      "name": "Baba Jobe",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28736806"
-    },
-    {
-      "id": "momodou-l-k-sanneh",
-      "name": "Momodou L. K. Sanneh",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28839669"
-    },
-    {
-      "id": "mam-mbye-secka",
-      "name": "Mam Mbye Secka",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28873762"
-    },
-    {
-      "id": "lamin-saine",
-      "name": "Lamin Saine",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28924985"
-    },
-    {
-      "id": "modou-bamba",
-      "name": "Modou Bamba",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28925177"
-    },
-    {
-      "id": "dembo-bojang",
-      "name": "Dembo Bojang",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q29535468"
-    },
-    {
-      "id": "fatoumatta-njai",
-      "name": "Fatoumatta Njai",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q29573264"
-    },
-    {
-      "id": "muhammed-magassy",
-      "name": "Muhammed Magassy",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q29577935"
-    },
-    {
-      "id": "alhagie-darboe",
-      "name": "Alhagie Darboe",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56166100"
-    },
-    {
-      "id": "abdoulie-ceesay",
-      "name": "Abdoulie Ceesay",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56229135"
-    },
-    {
-      "id": "amadou-camara",
-      "name": "Amadou Camara",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56070689"
-    },
-    {
-      "id": "momodou-ceesay",
-      "name": "Momodou Ceesay",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56172860"
-    },
-    {
-      "id": "bakary-camara",
-      "name": "Bakary Camara",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56191888"
-    },
-    {
-      "id": "sainey-touray",
-      "name": "Sainey Touray",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56192624"
-    },
-    {
-      "id": "bakary-njie",
-      "name": "Bakary Njie",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56235701"
-    },
-    {
-      "id": "alhagie-drammeh",
-      "name": "Alhagie Drammeh",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56241378"
-    },
-    {
-      "id": "baba-galleh-jallow",
-      "name": "Baba Galleh Jallow",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56229145"
-    },
-    {
-      "id": "sulayman-saho",
-      "name": "Sulayman Saho",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56183267"
-    },
-    {
-      "id": "ramzia-diab",
-      "name": "Ramzia Diab",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q55077373"
-    },
-    {
-      "id": "billay-g-tunkara",
-      "name": "Billay G. Tunkara",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q55426613"
-    },
-    {
-      "id": "ndey-yassin-secka",
-      "name": "Ndey Yassin Secka",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q55846074"
-    },
-    {
-      "id": "suwaibou-touray",
-      "name": "Suwaibou Touray",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q55979356"
-    },
-    {
-      "id": "muhammed-mahanera",
-      "name": "Muhammed Mahanera",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q55986149"
-    },
-    {
-      "id": "foday-n-m-drammeh",
-      "name": "Foday N. M. Drammeh",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56005593"
-    },
-    {
-      "id": "alhagie-h-sowe",
+      "id": "alhagie-h-sowe-q1427127",
       "name": "Alhagie H. Sowe",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "gambia-democratic-congress",
+      "caucus": "Gambia Democratic Congress",
       "constituency_label": "",
       "chamber": "National Assembly of The Gambia",
       "lang": [
@@ -670,271 +752,37 @@
       "roster_url": "http://www.wikidata.org/entity/Q56064928"
     },
     {
-      "id": "alhagie-f-b-sillah",
-      "name": "Alhagie F. B. Sillah",
+      "id": "nyimasata-sanneh-bojang-q1427127",
+      "name": "Nyimasata Sanneh-Bojang",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "people-s-progressive-party",
+      "caucus": "People's Progressive Party",
       "constituency_label": "",
       "chamber": "National Assembly of The Gambia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q56070682"
+      "roster_url": "http://www.wikidata.org/entity/Q2006110"
     },
     {
-      "id": "alfusainey-ceesay",
-      "name": "Alfusainey Ceesay",
+      "id": "buba-baldeh-q1427127",
+      "name": "Buba Baldeh",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
       "constituency_label": "",
       "chamber": "National Assembly of The Gambia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q56070681"
+      "roster_url": "http://www.wikidata.org/entity/Q17464742"
     },
     {
-      "id": "alhagie-mbow",
-      "name": "Alhagie Mbow",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56159563"
-    },
-    {
-      "id": "sainey-jawara",
-      "name": "Sainey Jawara",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56159570"
-    },
-    {
-      "id": "dawda-kawsu-jawara",
-      "name": "Dawda Kawsu Jawara",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56166103"
-    },
-    {
-      "id": "omar-ceesay",
-      "name": "Omar Ceesay",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56166580"
-    },
-    {
-      "id": "demba-sowe",
-      "name": "Demba Sowe",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56167025"
-    },
-    {
-      "id": "dembo-k-m-camara",
-      "name": "Dembo K. M. Camara",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56172760"
-    },
-    {
-      "id": "ousman-touray",
-      "name": "Ousman Touray",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56172752"
-    },
-    {
-      "id": "alhagie-jawara",
-      "name": "Alhagie Jawara",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56183128"
-    },
-    {
-      "id": "salifu-jawo",
-      "name": "Salifu Jawo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56190687"
-    },
-    {
-      "id": "omar-darboe",
-      "name": "Omar Darboe",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56190902"
-    },
-    {
-      "id": "fakebba-n-l-colley",
-      "name": "Fakebba N. L. Colley",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56191447"
-    },
-    {
-      "id": "mahtarr-m-jeng",
-      "name": "Mahtarr M. Jeng",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56191444"
-    },
-    {
-      "id": "kajali-fofana",
-      "name": "Kajali Fofana",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56192034"
-    },
-    {
-      "id": "kebba-jallow",
-      "name": "Kebba Jallow",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56192029"
-    },
-    {
-      "id": "yaya-gassama",
-      "name": "Yaya Gassama",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56191866"
-    },
-    {
-      "id": "alhagie-s-darboe",
-      "name": "Alhagie S. Darboe",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56205565"
-    },
-    {
-      "id": "lamin-j-sanneh",
-      "name": "Lamin J. Sanneh",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56205582"
-    },
-    {
-      "id": "kebba-k-barrow",
-      "name": "Kebba K. Barrow",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56216499"
-    },
-    {
-      "id": "fatoumatta-jahumpa-ceesay",
+      "id": "fatoumatta-jahumpa-ceesay-q1427127",
       "name": "Fatoumatta Jahumpa-Ceesay",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
       "constituency_label": "",
       "chamber": "National Assembly of The Gambia",
       "lang": [
@@ -943,154 +791,11 @@
       "roster_url": "http://www.wikidata.org/entity/Q56219634"
     },
     {
-      "id": "lamin-f-m-conta",
-      "name": "Lamin F. M. Conta",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56229136"
-    },
-    {
-      "id": "momodou-camara",
-      "name": "Momodou Camara",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56229139"
-    },
-    {
-      "id": "saikouba-jarju",
-      "name": "Saikouba Jarju",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56229131"
-    },
-    {
-      "id": "kaddy-camara",
-      "name": "Kaddy Camara",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56233158"
-    },
-    {
-      "id": "musa-amul-nyassi",
-      "name": "Musa Amul Nyassi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56233171"
-    },
-    {
-      "id": "sankung-jammeh",
-      "name": "Sankung Jammeh",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56233493"
-    },
-    {
-      "id": "sunkary-badjie",
-      "name": "Sunkary Badjie",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56233490"
-    },
-    {
-      "id": "fatou-k-jawara",
-      "name": "Fatou K. Jawara",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56235696"
-    },
-    {
-      "id": "saikou-marong",
-      "name": "Saikou Marong",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56235698"
-    },
-    {
-      "id": "assan-touray",
-      "name": "Assan Touray",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56241368"
-    },
-    {
-      "id": "muhammed-ndow",
-      "name": "Muhammed Ndow",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56241371"
-    },
-    {
-      "id": "ousman-sillah",
+      "id": "ousman-sillah-q1427127",
       "name": "Ousman Sillah",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "people-s-democratic-organisation-for-independence-and-socialism",
+      "caucus": "People's Democratic Organisation for Independence and Socialism",
       "constituency_label": "",
       "chamber": "National Assembly of The Gambia",
       "lang": [
@@ -1099,11 +804,76 @@
       "roster_url": "http://www.wikidata.org/entity/Q56241370"
     },
     {
-      "id": "kasum-jallow",
+      "id": "momodou-camara-q1427127",
+      "name": "Momodou Camara",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56229139"
+    },
+    {
+      "id": "kaddy-camara-q1427127",
+      "name": "Kaddy Camara",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56233158"
+    },
+    {
+      "id": "musa-amul-nyassi-q1427127",
+      "name": "Musa Amul Nyassi",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56233171"
+    },
+    {
+      "id": "sankung-jammeh-q1427127",
+      "name": "Sankung Jammeh",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56233493"
+    },
+    {
+      "id": "sunkary-badjie-q1427127",
+      "name": "Sunkary Badjie",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56233490"
+    },
+    {
+      "id": "kasum-jallow-q1427127",
       "name": "Kasum Jallow",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
       "constituency_label": "",
       "chamber": "National Assembly of The Gambia",
       "lang": [
@@ -1112,206 +882,167 @@
       "roster_url": "http://www.wikidata.org/entity/Q56243156"
     },
     {
-      "id": "habiboulie-k-jawo",
-      "name": "Habiboulie K. Jawo",
+      "id": "omar-ceesay-q1427127",
+      "name": "Omar Ceesay",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "gambia-democratic-congress",
+      "caucus": "Gambia Democratic Congress",
       "constituency_label": "",
       "chamber": "National Assembly of The Gambia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q56243284"
+      "roster_url": "http://www.wikidata.org/entity/Q56166580"
     },
     {
-      "id": "ahmad-malick-njie",
-      "name": "Ahmad Malick Njie",
+      "id": "demba-sowe-q1427127",
+      "name": "Demba Sowe",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "gambia-democratic-congress",
+      "caucus": "Gambia Democratic Congress",
       "constituency_label": "",
       "chamber": "National Assembly of The Gambia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q56261022"
+      "roster_url": "http://www.wikidata.org/entity/Q56167025"
     },
     {
-      "id": "foday-a-jallow",
-      "name": "Foday A. Jallow",
+      "id": "kalifa-kambi-q1427127",
+      "name": "Kalifa Kambi",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
       "constituency_label": "",
       "chamber": "National Assembly of The Gambia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q56261024"
+      "roster_url": "http://www.wikidata.org/entity/Q1525179"
     },
     {
-      "id": "lamin-jadama",
-      "name": "Lamin Jadama",
+      "id": "samba-jallow-q1427127",
+      "name": "Samba Jallow",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "national-reconciliation-party",
+      "caucus": "National Reconciliation Party",
       "constituency_label": "",
       "chamber": "National Assembly of The Gambia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q56271401"
+      "roster_url": "http://www.wikidata.org/entity/Q28839661"
     },
     {
-      "id": "dawda-j-k-bah",
-      "name": "Dawda J. K. Bah",
+      "id": "mustapha-b-wadda-q1427127",
+      "name": "Mustapha B. Wadda",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
       "constituency_label": "",
       "chamber": "National Assembly of The Gambia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q56285011"
+      "roster_url": "http://www.wikidata.org/entity/Q1955595"
     },
     {
-      "id": "buba-a-bojang",
-      "name": "Buba A. Bojang",
+      "id": "alhagie-darboe-q1427127",
+      "name": "Alhagie Darboe",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
       "constituency_label": "",
       "chamber": "National Assembly of The Gambia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q56285615"
+      "roster_url": "http://www.wikidata.org/entity/Q56166100"
     },
     {
-      "id": "sheriff-abba-sanyang",
-      "name": "Sheriff Abba Sanyang",
+      "id": "ebrima-janko-sanyang-q1427127",
+      "name": "Ebrima Janko Sanyang",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
       "constituency_label": "",
       "chamber": "National Assembly of The Gambia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q56285499"
+      "roster_url": "http://www.wikidata.org/entity/Q1280080"
     },
     {
-      "id": "kumba-jaiteh",
-      "name": "Kumba Jaiteh",
+      "id": "halifa-sallah-q1427127",
+      "name": "Halifa Sallah",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "people-s-democratic-organisation-for-independence-and-socialism",
+      "caucus": "People's Democratic Organisation for Independence and Socialism",
       "constituency_label": "",
       "chamber": "National Assembly of The Gambia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q56289458"
+      "roster_url": "http://www.wikidata.org/entity/Q3125967"
     },
     {
-      "id": "karafa-badjie",
-      "name": "Karafa Badjie",
+      "id": "hamat-bah-q1427127",
+      "name": "Hamat Bah",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "national-reconciliation-party",
+      "caucus": "National Reconciliation Party",
       "constituency_label": "",
       "chamber": "National Assembly of The Gambia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q56314167"
+      "roster_url": "http://www.wikidata.org/entity/Q1572664"
     },
     {
-      "id": "musa-gallel-j-njadoe",
-      "name": "Musa Gallel J. Njadoe",
+      "id": "abdoulie-ceesay-q1427127",
+      "name": "Abdoulie Ceesay",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
       "constituency_label": "",
       "chamber": "National Assembly of The Gambia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q56314165"
+      "roster_url": "http://www.wikidata.org/entity/Q56229135"
     },
     {
-      "id": "saidou-v-sabally",
-      "name": "Saidou V. Sabally",
+      "id": "kanimang-sanneh-q1427127",
+      "name": "Kanimang Sanneh",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
       "constituency_label": "",
       "chamber": "National Assembly of The Gambia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q56333358"
+      "roster_url": "http://www.wikidata.org/entity/Q1615901"
     },
     {
-      "id": "churchill-falai-baldeh",
-      "name": "Churchill Falai Baldeh",
+      "id": "almamy-touray-q1427127",
+      "name": "Almamy Touray",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
       "constituency_label": "",
       "chamber": "National Assembly of The Gambia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q108177382"
+      "roster_url": "http://www.wikidata.org/entity/Q1620155"
     },
     {
-      "id": "saidou-i-dem",
-      "name": "Saidou I. Dem",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q108177431"
-    },
-    {
-      "id": "bekai-camara",
-      "name": "Bekai Camara",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q814985"
-    },
-    {
-      "id": "belinda-bidwell",
-      "name": "Belinda Bidwell",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q815618"
-    },
-    {
-      "id": "bintanding-jarju",
+      "id": "bintanding-jarju-q1427127",
       "name": "Bintanding Jarju",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
       "constituency_label": "",
       "chamber": "National Assembly of The Gambia",
       "lang": [
@@ -1320,33 +1051,618 @@
       "roster_url": "http://www.wikidata.org/entity/Q864065"
     },
     {
-      "id": "lamin-m-m-bojang",
-      "name": "Lamin M. M. Bojang",
+      "id": "abou-karamba-kassamba-q1427127",
+      "name": "Abou Karamba Kassamba",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
       "constituency_label": "",
       "chamber": "National Assembly of The Gambia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q991990"
+      "roster_url": "http://www.wikidata.org/entity/Q323064"
     },
     {
-      "id": "buba-samura",
-      "name": "Buba Samura",
+      "id": "abdou-f-m-badjie-q1427127",
+      "name": "Abdou F.M. Badjie",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
       "constituency_label": "",
       "chamber": "National Assembly of The Gambia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q997370"
+      "roster_url": "http://www.wikidata.org/entity/Q308336"
     },
     {
-      "id": "omar-tobb",
+      "id": "abdoulie-bojang-q1427127",
+      "name": "Abdoulie Bojang",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q308425"
+    },
+    {
+      "id": "abdoulie-kanagi-jawla-q1427127",
+      "name": "Abdoulie Kanagi Jawla",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q308435"
+    },
+    {
+      "id": "modou-bamba-q1427127",
+      "name": "Modou Bamba",
+      "sitting": true,
+      "party_id": "national-reconciliation-party",
+      "caucus": "National Reconciliation Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28925177"
+    },
+    {
+      "id": "momodou-l-k-sanneh-q1427127",
+      "name": "Momodou L. K. Sanneh",
+      "sitting": true,
+      "party_id": "national-convention-party",
+      "caucus": "National Convention Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28839669"
+    },
+    {
+      "id": "baba-jobe-q1427127",
+      "name": "Baba Jobe",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28736806"
+    },
+    {
+      "id": "babanding-k-k-daffeh-q1427127",
+      "name": "Babanding K.K. Daffeh",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18761874"
+    },
+    {
+      "id": "mam-mbye-secka-q1427127",
+      "name": "Mam Mbye Secka",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28873762"
+    },
+    {
+      "id": "lamin-saine-q1427127",
+      "name": "Lamin Saine",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28924985"
+    },
+    {
+      "id": "ansumana-sanneh-q1427127",
+      "name": "Ansumana Sanneh",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q65184784"
+    },
+    {
+      "id": "musa-baldeh-q1427127",
+      "name": "Musa Baldeh",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q65384041"
+    },
+    {
+      "id": "kumba-jaiteh-q1427127",
+      "name": "Kumba Jaiteh",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56289458"
+    },
+    {
+      "id": "babou-gaye-sonko-q1427127",
+      "name": "Babou Gaye Sonko",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q65555743"
+    },
+    {
+      "id": "abdoulie-suku-singhateh-q1427127",
+      "name": "Abdoulie Suku Singhateh",
+      "sitting": true,
+      "party_id": "united-democratic-party",
+      "caucus": "United Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56461656"
+    },
+    {
+      "id": "musa-gallel-j-njadoe-q1427127",
+      "name": "Musa Gallel J. Njadoe",
+      "sitting": true,
+      "party_id": "national-reconciliation-party",
+      "caucus": "National Reconciliation Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56314165"
+    },
+    {
+      "id": "pa-malick-ceesay-q1427127",
+      "name": "Pa Malick Ceesay",
+      "sitting": true,
+      "party_id": "national-reconciliation-party",
+      "caucus": "National Reconciliation Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56447780"
+    },
+    {
+      "id": "habiboulie-k-jawo-q1427127",
+      "name": "Habiboulie K. Jawo",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56243284"
+    },
+    {
+      "id": "ahmad-malick-njie-q1427127",
+      "name": "Ahmad Malick Njie",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56261022"
+    },
+    {
+      "id": "foday-a-jallow-q1427127",
+      "name": "Foday A. Jallow",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56261024"
+    },
+    {
+      "id": "lamin-jadama-q1427127",
+      "name": "Lamin Jadama",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56271401"
+    },
+    {
+      "id": "dawda-j-k-bah-q1427127",
+      "name": "Dawda J. K. Bah",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56285011"
+    },
+    {
+      "id": "buba-a-bojang-q1427127",
+      "name": "Buba A. Bojang",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56285615"
+    },
+    {
+      "id": "sheriff-abba-sanyang-q1427127",
+      "name": "Sheriff Abba Sanyang",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56285499"
+    },
+    {
+      "id": "karafa-badjie-q1427127",
+      "name": "Karafa Badjie",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56314167"
+    },
+    {
+      "id": "saidou-v-sabally-q1427127",
+      "name": "Saidou V. Sabally",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56333358"
+    },
+    {
+      "id": "saikou-suso-q1427127",
+      "name": "Saikou Suso",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56406040"
+    },
+    {
+      "id": "habsana-jallow-q1427127",
+      "name": "Habsana Jallow",
+      "sitting": true,
+      "party_id": "people-s-democratic-organisation-for-independence-and-socialism",
+      "caucus": "People's Democratic Organisation for Independence and Socialism",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56421695"
+    },
+    {
+      "id": "netty-baldeh-q1427127",
+      "name": "Netty Baldeh",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56410847"
+    },
+    {
+      "id": "ousman-njie-q1427127",
+      "name": "Ousman Njie",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56419038"
+    },
+    {
+      "id": "sainey-mbye-q1427127",
+      "name": "Sainey Mbye",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56441144"
+    },
+    {
+      "id": "ousman-bah-q1427127",
+      "name": "Ousman Bah",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56450660"
+    },
+    {
+      "id": "lamin-kebba-jammeh-q1427127",
+      "name": "Lamin Kebba Jammeh",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56452334"
+    },
+    {
+      "id": "samba-cham-q1427127",
+      "name": "Samba Cham",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56460301"
+    },
+    {
+      "id": "amadou-o-khan-q1427127",
+      "name": "Amadou O. Khan",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56476260"
+    },
+    {
+      "id": "cherno-omar-jallow-q1427127",
+      "name": "Cherno Omar Jallow",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56476264"
+    },
+    {
+      "id": "sheriff-misba-hydara-q1427127",
+      "name": "Sheriff Misba Hydara",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56476268"
+    },
+    {
+      "id": "bafaye-saidykhan-q1427127",
+      "name": "Bafaye Saidykhan",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56479388"
+    },
+    {
+      "id": "bora-b-mass-q1427127",
+      "name": "Bora B. Mass",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56479399"
+    },
+    {
+      "id": "lamin-hydara-q1427127",
+      "name": "Lamin Hydara",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56479395"
+    },
+    {
+      "id": "njai-darboe-q1427127",
+      "name": "Njai Darboe",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56479398"
+    },
+    {
+      "id": "baboucarr-s-fadera-q1427127",
+      "name": "Baboucarr S. Fadera",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56488713"
+    },
+    {
+      "id": "yahya-dibba-q1427127",
+      "name": "Yahya Dibba",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56488714"
+    },
+    {
+      "id": "alhassana-bojang-q1427127",
+      "name": "Alhassana Bojang",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56490363"
+    },
+    {
+      "id": "borrie-l-s-b-kolley-q1427127",
+      "name": "Borrie L. S. B. Kolley",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56490357"
+    },
+    {
+      "id": "ebrima-jammeh-q1427127",
+      "name": "Ebrima Jammeh",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56490362"
+    },
+    {
+      "id": "matarr-kujabi-q1427127",
+      "name": "Matarr Kujabi",
+      "sitting": true,
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
+      "constituency_label": "",
+      "chamber": "National Assembly of The Gambia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56490361"
+    },
+    {
+      "id": "omar-tobb-q1427127",
       "name": "Omar Tobb",
       "sitting": true,
       "party_id": "unknown",
@@ -1359,33 +1675,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q56333767"
     },
     {
-      "id": "saikou-suso",
-      "name": "Saikou Suso",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56406040"
-    },
-    {
-      "id": "netty-baldeh",
-      "name": "Netty Baldeh",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56410847"
-    },
-    {
-      "id": "demba-b-t-sambou",
+      "id": "demba-b-t-sambou-q1427127",
       "name": "Demba B. T. Sambou",
       "sitting": true,
       "party_id": "unknown",
@@ -1398,280 +1688,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q56419039"
     },
     {
-      "id": "ousman-njie",
-      "name": "Ousman Njie",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56419038"
-    },
-    {
-      "id": "habsana-jallow",
-      "name": "Habsana Jallow",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56421695"
-    },
-    {
-      "id": "sainey-mbye",
-      "name": "Sainey Mbye",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56441144"
-    },
-    {
-      "id": "pa-malick-ceesay",
-      "name": "Pa Malick Ceesay",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56447780"
-    },
-    {
-      "id": "ousman-bah",
-      "name": "Ousman Bah",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56450660"
-    },
-    {
-      "id": "lamin-kebba-jammeh",
-      "name": "Lamin Kebba Jammeh",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56452334"
-    },
-    {
-      "id": "samba-cham",
-      "name": "Samba Cham",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56460301"
-    },
-    {
-      "id": "abdoulie-suku-singhateh",
-      "name": "Abdoulie Suku Singhateh",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56461656"
-    },
-    {
-      "id": "amadou-o-khan",
-      "name": "Amadou O. Khan",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56476260"
-    },
-    {
-      "id": "cherno-omar-jallow",
-      "name": "Cherno Omar Jallow",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56476264"
-    },
-    {
-      "id": "sheriff-misba-hydara",
-      "name": "Sheriff Misba Hydara",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56476268"
-    },
-    {
-      "id": "bafaye-saidykhan",
-      "name": "Bafaye Saidykhan",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56479388"
-    },
-    {
-      "id": "bora-b-mass",
-      "name": "Bora B. Mass",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56479399"
-    },
-    {
-      "id": "lamin-hydara",
-      "name": "Lamin Hydara",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56479395"
-    },
-    {
-      "id": "njai-darboe",
-      "name": "Njai Darboe",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56479398"
-    },
-    {
-      "id": "baboucarr-s-fadera",
-      "name": "Baboucarr S. Fadera",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56488713"
-    },
-    {
-      "id": "yahya-dibba",
-      "name": "Yahya Dibba",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56488714"
-    },
-    {
-      "id": "alhassana-bojang",
-      "name": "Alhassana Bojang",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56490363"
-    },
-    {
-      "id": "borrie-l-s-b-kolley",
-      "name": "Borrie L. S. B. Kolley",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56490357"
-    },
-    {
-      "id": "ebrima-jammeh",
-      "name": "Ebrima Jammeh",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56490362"
-    },
-    {
-      "id": "matarr-kujabi",
-      "name": "Matarr Kujabi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56490361"
-    },
-    {
-      "id": "kunda-kamara",
+      "id": "kunda-kamara-q1427127",
       "name": "Kunda Kamara",
       "sitting": true,
       "party_id": "unknown",
@@ -1684,7 +1701,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q60553418"
     },
     {
-      "id": "cecilia-cole",
+      "id": "cecilia-cole-q1427127",
       "name": "Cecilia Cole",
       "sitting": true,
       "party_id": "unknown",
@@ -1697,7 +1714,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q60554004"
     },
     {
-      "id": "fatou-mbye",
+      "id": "fatou-mbye-q1427127",
       "name": "Fatou Mbye",
       "sitting": true,
       "party_id": "unknown",
@@ -1710,7 +1727,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q60554798"
     },
     {
-      "id": "tina-faal",
+      "id": "tina-faal-q1427127",
       "name": "Tina Faal",
       "sitting": true,
       "party_id": "unknown",
@@ -1723,7 +1740,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q60554755"
     },
     {
-      "id": "oley-sey",
+      "id": "oley-sey-q1427127",
       "name": "Oley Sey",
       "sitting": true,
       "party_id": "unknown",
@@ -1736,43 +1753,30 @@
       "roster_url": "http://www.wikidata.org/entity/Q63807981"
     },
     {
-      "id": "ansumana-sanneh",
-      "name": "Ansumana Sanneh",
+      "id": "churchill-falai-baldeh-q1427127",
+      "name": "Churchill Falai Baldeh",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
       "constituency_label": "",
       "chamber": "National Assembly of The Gambia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q65184784"
+      "roster_url": "http://www.wikidata.org/entity/Q108177382"
     },
     {
-      "id": "musa-baldeh",
-      "name": "Musa Baldeh",
+      "id": "saidou-i-dem-q1427127",
+      "name": "Saidou I. Dem",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "alliance-for-patriotic-reorientation-and-construction",
+      "caucus": "Alliance for Patriotic Reorientation and Construction",
       "constituency_label": "",
       "chamber": "National Assembly of The Gambia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q65384041"
-    },
-    {
-      "id": "babou-gaye-sonko",
-      "name": "Babou Gaye Sonko",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of The Gambia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q65555743"
+      "roster_url": "http://www.wikidata.org/entity/Q108177431"
     }
   ]
 }

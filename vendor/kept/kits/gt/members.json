@@ -3,50 +3,145 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1136026",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 59,
+  "incomplete": true,
+  "claimed_seats": 160,
+  "chambers": [
+    "Member of the Congress of Guatemala",
+    "Congress of the Republic of Guatemala"
+  ],
   "items": [
     {
-      "id": "roman-castellanos",
-      "name": "Román Castellanos",
+      "id": "petrona-mejia-q1136026",
+      "name": "Petrona Mejía",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "nosotros",
+      "caucus": "Nosotros",
       "constituency_label": "",
       "chamber": "Congress of the Republic of Guatemala",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q122473117"
+      "roster_url": "http://www.wikidata.org/entity/Q108758081"
     },
     {
-      "id": "adim-maldonado",
-      "name": "Adim Maldonado",
+      "id": "mario-taracena-q1136026",
+      "name": "Mario Taracena",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "national-centre-union",
+      "caucus": "National Centre Union",
       "constituency_label": "",
       "chamber": "Congress of the Republic of Guatemala",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q124315825"
+      "roster_url": "http://www.wikidata.org/entity/Q23304498"
     },
     {
-      "id": "nery-ramos",
-      "name": "Nery Ramos",
+      "id": "aldo-davila-q1136026",
+      "name": "Aldo Dávila",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "will-opportunity-and-solidarity",
+      "caucus": "Will, Opportunity and Solidarity",
+      "constituency_label": "Guatemala City",
+      "chamber": "Congress of the Republic of Guatemala",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q65554003"
+    },
+    {
+      "id": "hector-cifuentes-mendoza-q1136026",
+      "name": "Héctor Cifuentes Mendoza",
+      "sitting": true,
+      "party_id": "unionist-party",
+      "caucus": "Unionist Party",
       "constituency_label": "",
       "chamber": "Congress of the Republic of Guatemala",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q124318743"
+      "roster_url": "http://www.wikidata.org/entity/Q115750076"
     },
     {
-      "id": "jose-roberto-alejos-cambara",
+      "id": "lucrecia-hernandez-mack-q1136026",
+      "name": "Lucrecia Hernández Mack",
+      "sitting": true,
+      "party_id": "semilla-movement",
+      "caucus": "Semilla Movement",
+      "constituency_label": "",
+      "chamber": "Congress of the Republic of Guatemala",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q26137134"
+    },
+    {
+      "id": "allan-rodriguez-q1136026",
+      "name": "Allan Rodríguez",
+      "sitting": true,
+      "party_id": "vamos",
+      "caucus": "Vamos",
+      "constituency_label": "Sololá Department",
+      "chamber": "Congress of the Republic of Guatemala",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97174505"
+    },
+    {
+      "id": "zury-rios-q1136026",
+      "name": "Zury Ríos",
+      "sitting": true,
+      "party_id": "valor",
+      "caucus": "Valor",
+      "constituency_label": "",
+      "chamber": "Congress of the Republic of Guatemala",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1846075"
+    },
+    {
+      "id": "oscar-chinchilla-q1136026",
+      "name": "Óscar Chinchilla",
+      "sitting": true,
+      "party_id": "commitment-renewal-and-order",
+      "caucus": "Commitment, Renewal and Order",
+      "constituency_label": "",
+      "chamber": "Congress of the Republic of Guatemala",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28837292"
+    },
+    {
+      "id": "roxana-baldetti-q1136026",
+      "name": "Roxana Baldetti",
+      "sitting": true,
+      "party_id": "patriotic-party",
+      "caucus": "Patriotic Party",
+      "constituency_label": "",
+      "chamber": "Congress of the Republic of Guatemala",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q590736"
+    },
+    {
+      "id": "alvaro-arzu-escobar-q1136026",
+      "name": "Alvaro Arzú Escobar",
+      "sitting": true,
+      "party_id": "unionist-party",
+      "caucus": "Unionist Party",
+      "constituency_label": "",
+      "chamber": "Congress of the Republic of Guatemala",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q27044664"
+    },
+    {
+      "id": "jose-roberto-alejos-cambara-q1136026",
       "name": "José Roberto Alejos Cámbara",
       "sitting": true,
       "party_id": "unknown",
@@ -59,7 +154,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q1225278"
     },
     {
-      "id": "rosa-castaneda-de-mora",
+      "id": "rosa-castaneda-de-mora-q1136026",
       "name": "Rosa Castañeda de Mora",
       "sitting": true,
       "party_id": "unknown",
@@ -72,59 +167,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q96746085"
     },
     {
-      "id": "alfonso-portillo",
-      "name": "Alfonso Portillo",
+      "id": "boris-espana-q1136026",
+      "name": "Boris España",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "patriotic-party",
+      "caucus": "Patriotic Party",
       "constituency_label": "",
       "chamber": "Congress of the Republic of Guatemala",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q182441"
+      "roster_url": "http://www.wikidata.org/entity/Q5732197"
     },
     {
-      "id": "ricardo-rosales",
-      "name": "Ricardo Rosales",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Republic of Guatemala",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16095855"
-    },
-    {
-      "id": "roberto-alejos",
-      "name": "Roberto Alejos",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Republic of Guatemala",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q11181780"
-    },
-    {
-      "id": "manuel-baldizon",
-      "name": "Manuel Baldizón",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Republic of Guatemala",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1891440"
-    },
-    {
-      "id": "rosalina-tuyuc",
+      "id": "rosalina-tuyuc-q1136026",
       "name": "Rosalina Tuyuc",
       "sitting": true,
       "party_id": "unknown",
@@ -137,7 +193,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q1907896"
     },
     {
-      "id": "rafael-spinola",
+      "id": "rafael-spinola-q1136026",
       "name": "Rafael Spínola",
       "sitting": true,
       "party_id": "unknown",
@@ -150,20 +206,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q20020214"
     },
     {
-      "id": "otilia-lux",
-      "name": "Otilia Lux",
+      "id": "jonathan-menkos-q1136026",
+      "name": "Jonathan Menkos",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "semilla-movement",
+      "caucus": "Semilla Movement",
       "constituency_label": "",
       "chamber": "Congress of the Republic of Guatemala",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q2410452"
+      "roster_url": "http://www.wikidata.org/entity/Q61978364"
     },
     {
-      "id": "francisco-villagran-kramer",
+      "id": "mario-roberto-paz-q1136026",
+      "name": "Mario Roberto Paz",
+      "sitting": true,
+      "party_id": "national-advancement-party",
+      "caucus": "National Advancement Party",
+      "constituency_label": "",
+      "chamber": "Congress of the Republic of Guatemala",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16734325"
+    },
+    {
+      "id": "francisco-villagran-kramer-q1136026",
       "name": "Francisco Villagrán Kramer",
       "sitting": true,
       "party_id": "unknown",
@@ -176,7 +245,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q2476428"
     },
     {
-      "id": "oscar-marroquin",
+      "id": "oscar-marroquin-q1136026",
       "name": "Óscar Marroquín",
       "sitting": true,
       "party_id": "unknown",
@@ -189,11 +258,89 @@
       "roster_url": "http://www.wikidata.org/entity/Q293387"
     },
     {
-      "id": "edmond-mulet",
+      "id": "ricardo-rosales-q1136026",
+      "name": "Ricardo Rosales",
+      "sitting": true,
+      "party_id": "guatemalan-party-of-labour",
+      "caucus": "Guatemalan Party of Labour",
+      "constituency_label": "",
+      "chamber": "Congress of the Republic of Guatemala",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16095855"
+    },
+    {
+      "id": "lucrecia-marroquin-q1136026",
+      "name": "Lucrecia Marroquín",
+      "sitting": true,
+      "party_id": "guatemalan-republican-front",
+      "caucus": "Guatemalan Republican Front",
+      "constituency_label": "Guatemala City",
+      "chamber": "Congress of the Republic of Guatemala",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q117360111"
+    },
+    {
+      "id": "oliverio-garcia-rodas-q1136026",
+      "name": "Oliverio García Rodas",
+      "sitting": true,
+      "party_id": "podemos",
+      "caucus": "Podemos",
+      "constituency_label": "",
+      "chamber": "Congress of the Republic of Guatemala",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110184165"
+    },
+    {
+      "id": "manuel-baldizon-q1136026",
+      "name": "Manuel Baldizón",
+      "sitting": true,
+      "party_id": "national-unity-of-hope",
+      "caucus": "National Unity of Hope",
+      "constituency_label": "",
+      "chamber": "Congress of the Republic of Guatemala",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1891440"
+    },
+    {
+      "id": "shirley-rivera-q1136026",
+      "name": "Shirley Rivera",
+      "sitting": true,
+      "party_id": "vamos",
+      "caucus": "Vamos",
+      "constituency_label": "Guatemala Department",
+      "chamber": "Congress of the Republic of Guatemala",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108929476"
+    },
+    {
+      "id": "vicenta-jeronimo-q1136026",
+      "name": "Vicenta Jerónimo",
+      "sitting": true,
+      "party_id": "movement-for-the-liberation-of-peoples",
+      "caucus": "Movement for the Liberation of Peoples",
+      "constituency_label": "",
+      "chamber": "Congress of the Republic of Guatemala",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108757925"
+    },
+    {
+      "id": "edmond-mulet-q1136026",
       "name": "Edmond Mulet",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "cabal",
+      "caucus": "Cabal",
       "constituency_label": "",
       "chamber": "Congress of the Republic of Guatemala",
       "lang": [
@@ -202,59 +349,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q3047936"
     },
     {
-      "id": "mario-roberto-paz",
-      "name": "Mario Roberto Paz",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Republic of Guatemala",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16734325"
-    },
-    {
-      "id": "ramiro-de-leon-carpio",
-      "name": "Ramiro de León Carpio",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Republic of Guatemala",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q539891"
-    },
-    {
-      "id": "amildo-morales",
-      "name": "Amildo Morales",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Republic of Guatemala",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q18249292"
-    },
-    {
-      "id": "roxana-baldetti",
-      "name": "Roxana Baldetti",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Republic of Guatemala",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q590736"
-    },
-    {
-      "id": "adrian-recinos",
+      "id": "adrian-recinos-q1136026",
       "name": "Adrián Recinos",
       "sitting": true,
       "party_id": "unknown",
@@ -267,7 +362,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q4685790"
     },
     {
-      "id": "amilcar-mendez-urizar",
+      "id": "amilcar-mendez-urizar-q1136026",
       "name": "Amílcar Méndez Urízar",
       "sitting": true,
       "party_id": "unknown",
@@ -280,7 +375,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q4749656"
     },
     {
-      "id": "jose-rolz-bennett",
+      "id": "jose-rolz-bennett-q1136026",
       "name": "José Rolz-Bennett",
       "sitting": true,
       "party_id": "unknown",
@@ -293,20 +388,59 @@
       "roster_url": "http://www.wikidata.org/entity/Q19593788"
     },
     {
-      "id": "catarina-castor",
-      "name": "Catarina Castor",
+      "id": "roberto-alejos-q1136026",
+      "name": "Roberto Alejos",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "todos",
+      "caucus": "Todos",
       "constituency_label": "",
       "chamber": "Congress of the Republic of Guatemala",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q5051481"
+      "roster_url": "http://www.wikidata.org/entity/Q11181780"
     },
     {
-      "id": "alfonzo-bauer-paiz",
+      "id": "sonia-gutierrez-raguay-q1136026",
+      "name": "Sonia Gutiérrez Raguay",
+      "sitting": true,
+      "party_id": "winaq",
+      "caucus": "Winaq",
+      "constituency_label": "",
+      "chamber": "Congress of the Republic of Guatemala",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108758043"
+    },
+    {
+      "id": "efrain-rios-montt-q1136026",
+      "name": "Efraín Ríos Montt",
+      "sitting": true,
+      "party_id": "guatemalan-republican-front",
+      "caucus": "Guatemalan Republican Front",
+      "constituency_label": "",
+      "chamber": "Congress of the Republic of Guatemala",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q467077"
+    },
+    {
+      "id": "ana-catalina-soberanis-q1136026",
+      "name": "Ana Catalina Soberanis",
+      "sitting": true,
+      "party_id": "guatemalan-christian-democracy",
+      "caucus": "Guatemalan Christian Democracy",
+      "constituency_label": "",
+      "chamber": "Congress of the Republic of Guatemala",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56025860"
+    },
+    {
+      "id": "alfonzo-bauer-paiz-q1136026",
       "name": "Alfonzo Bauer Paíz",
       "sitting": true,
       "party_id": "unknown",
@@ -319,33 +453,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q5666708"
     },
     {
-      "id": "boris-espana",
-      "name": "Boris España",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Republic of Guatemala",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5732197"
-    },
-    {
-      "id": "mario-monteforte-toledo",
-      "name": "Mario Monteforte Toledo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Republic of Guatemala",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5840731"
-    },
-    {
-      "id": "miguel-angel-asturias",
+      "id": "miguel-angel-asturias-q1136026",
       "name": "Miguel Ángel Asturias",
       "sitting": true,
       "party_id": "unknown",
@@ -358,7 +466,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q75603"
     },
     {
-      "id": "sandra-moran",
+      "id": "sandra-moran-q1136026",
       "name": "Sandra Morán",
       "sitting": true,
       "party_id": "unknown",
@@ -371,46 +479,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q22279284"
     },
     {
-      "id": "luis-rabbe",
-      "name": "Luis Rabbé",
+      "id": "vinicio-cerezo-q1136026",
+      "name": "Vinicio Cerezo",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "guatemalan-christian-democracy",
+      "caucus": "Guatemalan Christian Democracy",
       "constituency_label": "",
       "chamber": "Congress of the Republic of Guatemala",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q22279821"
+      "roster_url": "http://www.wikidata.org/entity/Q887617"
     },
     {
-      "id": "shirley-rivera",
-      "name": "Shirley Rivera",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Guatemala Department",
-      "chamber": "Congress of the Republic of Guatemala",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q108929476"
-    },
-    {
-      "id": "mario-taracena",
-      "name": "Mario Taracena",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Republic of Guatemala",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q23304498"
-    },
-    {
-      "id": "luis-cardoza-y-aragon",
+      "id": "luis-cardoza-y-aragon-q1136026",
       "name": "Luis Cardoza y Aragón",
       "sitting": true,
       "party_id": "unknown",
@@ -423,20 +505,46 @@
       "roster_url": "http://www.wikidata.org/entity/Q6700406"
     },
     {
-      "id": "oscar-valentin-leal-caal",
-      "name": "Oscar Valentín Leal Caal",
+      "id": "alejandro-maldonado-aguirre-q1136026",
+      "name": "Alejandro Maldonado Aguirre",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "unionist-party",
+      "caucus": "Unionist Party",
       "constituency_label": "",
       "chamber": "Congress of the Republic of Guatemala",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q7106284"
+      "roster_url": "http://www.wikidata.org/entity/Q19914009"
     },
     {
-      "id": "rafael-castillo-valdez",
+      "id": "alvaro-gonzalez-ricci-q1136026",
+      "name": "Álvaro González Ricci",
+      "sitting": true,
+      "party_id": "vamos",
+      "caucus": "Vamos",
+      "constituency_label": "Guatemala City",
+      "chamber": "Congress of the Republic of Guatemala",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110184164"
+    },
+    {
+      "id": "otto-perez-molina-q1136026",
+      "name": "Otto Pérez Molina",
+      "sitting": true,
+      "party_id": "patriotic-party",
+      "caucus": "Patriotic Party",
+      "constituency_label": "",
+      "chamber": "Congress of the Republic of Guatemala",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57539"
+    },
+    {
+      "id": "rafael-castillo-valdez-q1136026",
       "name": "Rafael Castillo Valdez",
       "sitting": true,
       "party_id": "unknown",
@@ -449,102 +557,167 @@
       "roster_url": "http://www.wikidata.org/entity/Q7282072"
     },
     {
-      "id": "alvaro-arzu-escobar",
-      "name": "Alvaro Arzú Escobar",
+      "id": "mario-monteforte-toledo-q1136026",
+      "name": "Mario Monteforte Toledo",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "revolutionary-action-party",
+      "caucus": "Revolutionary Action Party",
       "constituency_label": "",
       "chamber": "Congress of the Republic of Guatemala",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q27044664"
+      "roster_url": "http://www.wikidata.org/entity/Q5840731"
     },
     {
-      "id": "vinicio-cerezo",
-      "name": "Vinicio Cerezo",
+      "id": "otilia-lux-q1136026",
+      "name": "Otilia Lux",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "encuentro-por-guatemala",
+      "caucus": "Encuentro por Guatemala",
       "constituency_label": "",
       "chamber": "Congress of the Republic of Guatemala",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q887617"
+      "roster_url": "http://www.wikidata.org/entity/Q2410452"
     },
     {
-      "id": "oscar-chinchilla",
-      "name": "Óscar Chinchilla",
+      "id": "catarina-castor-q1136026",
+      "name": "Catarina Castor",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "patriotic-party",
+      "caucus": "Patriotic Party",
       "constituency_label": "",
       "chamber": "Congress of the Republic of Guatemala",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q28837292"
+      "roster_url": "http://www.wikidata.org/entity/Q5051481"
     },
     {
-      "id": "luis-alberto-contreras-colindres",
-      "name": "Luis Alberto Contreras Colindres",
+      "id": "arabella-castro-quinonez-q1136026",
+      "name": "Arabella Castro Quiñónez",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "national-advancement-party",
+      "caucus": "National Advancement Party",
       "constituency_label": "",
       "chamber": "Congress of the Republic of Guatemala",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q136708231"
+      "roster_url": "http://www.wikidata.org/entity/Q110575794"
     },
     {
-      "id": "lucrecia-marroquin",
-      "name": "Lucrecia Marroquín",
+      "id": "rudio-lecsan-merida-q1136026",
+      "name": "Rudio Lecsan Mérida",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Guatemala City",
-      "chamber": "Congress of the Republic of Guatemala",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q117360111"
-    },
-    {
-      "id": "sandra-jovel",
-      "name": "Sandra Jovel",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "humanist-party-of-guatemala",
+      "caucus": "Humanist Party of Guatemala",
       "constituency_label": "",
       "chamber": "Congress of the Republic of Guatemala",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q38058073"
+      "roster_url": "http://www.wikidata.org/entity/Q116353933"
     },
     {
-      "id": "aldo-davila",
-      "name": "Aldo Dávila",
+      "id": "andrea-villagran-q1136026",
+      "name": "Andrea Villagrán",
+      "sitting": true,
+      "party_id": "semilla-movement",
+      "caucus": "Semilla Movement",
+      "constituency_label": "",
+      "chamber": "Congress of the Republic of Guatemala",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109380409"
+    },
+    {
+      "id": "oscar-valentin-leal-caal-q1136026",
+      "name": "Oscar Valentín Leal Caal",
+      "sitting": true,
+      "party_id": "national-unity-of-hope",
+      "caucus": "National Unity of Hope",
+      "constituency_label": "",
+      "chamber": "Congress of the Republic of Guatemala",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7106284"
+    },
+    {
+      "id": "samuel-perez-alvarez-q1136026",
+      "name": "Samuel Pérez Álvarez",
+      "sitting": true,
+      "party_id": "semilla-movement",
+      "caucus": "Semilla Movement",
+      "constituency_label": "",
+      "chamber": "Congress of the Republic of Guatemala",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q73038342"
+    },
+    {
+      "id": "amilcar-pop-q1136026",
+      "name": "Amílcar Pop",
       "sitting": true,
       "party_id": "winaq",
       "caucus": "Winaq",
-      "constituency_label": "Guatemala City",
+      "constituency_label": "",
       "chamber": "Congress of the Republic of Guatemala",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q65554003"
+      "roster_url": "http://www.wikidata.org/entity/Q116382523"
     },
     {
-      "id": "luis-hernandez-azmitia",
+      "id": "manuel-conde-orellana-q1136026",
+      "name": "Manuel Conde Orellana",
+      "sitting": true,
+      "party_id": "vamos",
+      "caucus": "Vamos",
+      "constituency_label": "",
+      "chamber": "Congress of the Republic of Guatemala",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q111443608"
+    },
+    {
+      "id": "karina-paz-q1136026",
+      "name": "Karina Paz",
+      "sitting": true,
+      "party_id": "will-opportunity-and-solidarity",
+      "caucus": "Will, Opportunity and Solidarity",
+      "constituency_label": "",
+      "chamber": "Congress of the Republic of Guatemala",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q117360015"
+    },
+    {
+      "id": "nineth-montenegro-q1136026",
+      "name": "Nineth Montenegro",
+      "sitting": true,
+      "party_id": "encuentro-por-guatemala",
+      "caucus": "Encuentro por Guatemala",
+      "constituency_label": "",
+      "chamber": "Congress of the Republic of Guatemala",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7038554"
+    },
+    {
+      "id": "luis-hernandez-azmitia-q1136026",
       "name": "Luis Hernández Azmitia",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "podemos",
+      "caucus": "Podemos",
       "constituency_label": "",
       "chamber": "Congress of the Republic of Guatemala",
       "lang": [
@@ -553,46 +726,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q47495218"
     },
     {
-      "id": "evelyn-morataya",
-      "name": "Evelyn Morataya",
+      "id": "luis-rabbe-q1136026",
+      "name": "Luis Rabbé",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "guatemalan-republican-front",
+      "caucus": "Guatemalan Republican Front",
       "constituency_label": "",
       "chamber": "Congress of the Republic of Guatemala",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q47825878"
+      "roster_url": "http://www.wikidata.org/entity/Q22279821"
     },
     {
-      "id": "allan-rodriguez",
-      "name": "Allan Rodríguez",
+      "id": "armando-castillo-q1136026",
+      "name": "Armando Castillo",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Sololá Department",
-      "chamber": "Congress of the Republic of Guatemala",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q97174505"
-    },
-    {
-      "id": "ana-catalina-soberanis",
-      "name": "Ana Catalina Soberanis",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "viva",
+      "caucus": "VIVA",
       "constituency_label": "",
       "chamber": "Congress of the Republic of Guatemala",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q56025860"
+      "roster_url": "http://www.wikidata.org/entity/Q117805648"
     },
     {
-      "id": "julio-hector-estrada-dominguez",
+      "id": "julio-hector-estrada-dominguez-q1136026",
       "name": "Julio Héctor Estrada Domínguez",
       "sitting": true,
       "party_id": "unknown",
@@ -605,150 +765,124 @@
       "roster_url": "http://www.wikidata.org/entity/Q60970569"
     },
     {
-      "id": "otto-perez-molina",
-      "name": "Otto Pérez Molina",
+      "id": "ramiro-de-leon-carpio-q1136026",
+      "name": "Ramiro de León Carpio",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
       "constituency_label": "",
       "chamber": "Congress of the Republic of Guatemala",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q57539"
+      "roster_url": "http://www.wikidata.org/entity/Q539891"
     },
     {
-      "id": "vicenta-jeronimo",
-      "name": "Vicenta Jerónimo",
+      "id": "evelyn-morataya-q1136026",
+      "name": "Evelyn Morataya",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "viva",
+      "caucus": "VIVA",
       "constituency_label": "",
       "chamber": "Congress of the Republic of Guatemala",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q108757925"
+      "roster_url": "http://www.wikidata.org/entity/Q47825878"
     },
     {
-      "id": "petrona-mejia",
-      "name": "Petrona Mejía",
+      "id": "juan-francisco-reyes-lopez-q1136026",
+      "name": "Juan Francisco Reyes López",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "guatemalan-republican-front",
+      "caucus": "Guatemalan Republican Front",
+      "constituency_label": "Guatemala City",
+      "chamber": "Congress of the Republic of Guatemala",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6299801"
+    },
+    {
+      "id": "valentin-gramajo-q1136026",
+      "name": "Valentín Gramajo",
+      "sitting": true,
+      "party_id": "patriotic-party",
+      "caucus": "Patriotic Party",
       "constituency_label": "",
       "chamber": "Congress of the Republic of Guatemala",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q108758081"
+      "roster_url": "http://www.wikidata.org/entity/Q105396507"
     },
     {
-      "id": "sonia-gutierrez-raguay",
-      "name": "Sonia Gutiérrez Raguay",
+      "id": "ligia-hernandez-q1136026",
+      "name": "Ligia Hernández",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "semilla-movement",
+      "caucus": "Semilla Movement",
       "constituency_label": "",
       "chamber": "Congress of the Republic of Guatemala",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q108758043"
+      "roster_url": "http://www.wikidata.org/entity/Q117360119"
     },
     {
-      "id": "andrea-villagran",
-      "name": "Andrea Villagrán",
+      "id": "amildo-morales-q1136026",
+      "name": "Amildo Morales",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "patriotic-party",
+      "caucus": "Patriotic Party",
       "constituency_label": "",
       "chamber": "Congress of the Republic of Guatemala",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q109380409"
+      "roster_url": "http://www.wikidata.org/entity/Q18249292"
     },
     {
-      "id": "samuel-perez-alvarez",
-      "name": "Samuel Pérez Álvarez",
+      "id": "hugo-rodriguez-chinchilla-q1136026",
+      "name": "Hugo Rodríguez Chinchilla",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "commitment-renewal-and-order",
+      "caucus": "Commitment, Renewal and Order",
       "constituency_label": "",
       "chamber": "Congress of the Republic of Guatemala",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q73038342"
+      "roster_url": "http://www.wikidata.org/entity/Q117458826"
     },
     {
-      "id": "manuel-conde-orellana",
-      "name": "Manuel Conde Orellana",
+      "id": "alfonso-portillo-q1136026",
+      "name": "Alfonso Portillo",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "guatemalan-republican-front",
+      "caucus": "Guatemalan Republican Front",
       "constituency_label": "",
       "chamber": "Congress of the Republic of Guatemala",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q111443608"
+      "roster_url": "http://www.wikidata.org/entity/Q182441"
     },
     {
-      "id": "hector-cifuentes-mendoza",
-      "name": "Héctor Cifuentes Mendoza",
+      "id": "sandra-jovel-q1136026",
+      "name": "Sandra Jovel",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "valor",
+      "caucus": "Valor",
       "constituency_label": "",
       "chamber": "Congress of the Republic of Guatemala",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q115750076"
+      "roster_url": "http://www.wikidata.org/entity/Q38058073"
     },
     {
-      "id": "rudio-lecsan-merida",
-      "name": "Rudio Lecsan Mérida",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Republic of Guatemala",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q116353933"
-    },
-    {
-      "id": "amilcar-pop",
-      "name": "Amílcar Pop",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Republic of Guatemala",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q116382523"
-    },
-    {
-      "id": "karina-paz",
-      "name": "Karina Paz",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Congress of the Republic of Guatemala",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q117360015"
-    },
-    {
-      "id": "nadia-de-leon-torres",
+      "id": "nadia-de-leon-torres-q1136026",
       "name": "Nadia de León Torres",
       "sitting": true,
       "party_id": "unknown",
@@ -761,11 +895,115 @@
       "roster_url": "http://www.wikidata.org/entity/Q119998687"
     },
     {
-      "id": "elena-motta",
-      "name": "Elena Motta",
+      "id": "adim-maldonado-q1136026",
+      "name": "Adim Maldonado",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
+      "constituency_label": "",
+      "chamber": "Congress of the Republic of Guatemala",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124315825"
+    },
+    {
+      "id": "fernando-linares-beltranena-q1136026",
+      "name": "Fernando Linares Beltranena",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Congress of the Republic of Guatemala",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q126441919"
+    },
+    {
+      "id": "milton-francisco-guerra-calderon-q1136026",
+      "name": "Milton Francisco Guerra Calderón",
+      "sitting": true,
+      "party_id": "national-convergence-front",
+      "caucus": "National Convergence Front",
+      "constituency_label": "",
+      "chamber": "Congress of the Republic of Guatemala",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q121930463"
+    },
+    {
+      "id": "manuela-alvarado-q1136026",
+      "name": "Manuela Alvarado",
+      "sitting": true,
+      "party_id": "semilla-movement",
+      "caucus": "Semilla Movement",
+      "constituency_label": "",
+      "chamber": "Congress of the Republic of Guatemala",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q122466002"
+    },
+    {
+      "id": "patricia-orantes-q1136026",
+      "name": "Patricia Orantes",
+      "sitting": true,
+      "party_id": "semilla-movement",
+      "caucus": "Semilla Movement",
+      "constituency_label": "",
+      "chamber": "Congress of the Republic of Guatemala",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q122470698"
+    },
+    {
+      "id": "roman-castellanos-q1136026",
+      "name": "Román Castellanos",
+      "sitting": true,
+      "party_id": "semilla-movement",
+      "caucus": "Semilla Movement",
+      "constituency_label": "",
+      "chamber": "Congress of the Republic of Guatemala",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q122473117"
+    },
+    {
+      "id": "luis-alberto-contreras-colindres-q1136026",
+      "name": "Luis Alberto Contreras Colindres",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Congress of the Republic of Guatemala",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q136708231"
+    },
+    {
+      "id": "nery-ramos-q1136026",
+      "name": "Nery Ramos",
+      "sitting": true,
+      "party_id": "blue-party-guatemala",
+      "caucus": "Blue Party (Guatemala)",
+      "constituency_label": "",
+      "chamber": "Congress of the Republic of Guatemala",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124318743"
+    },
+    {
+      "id": "elena-motta-q1136026",
+      "name": "Elena Motta",
+      "sitting": true,
+      "party_id": "semilla-movement",
+      "caucus": "Semilla Movement",
       "constituency_label": "",
       "chamber": "Congress of the Republic of Guatemala",
       "lang": [

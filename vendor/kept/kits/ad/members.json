@@ -3,12 +3,68 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q24824",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 31,
+  "incomplete": true,
+  "claimed_seats": 28,
+  "chambers": [
+    "Member of the General Council of Andorra",
+    "General Council of Andorra"
+  ],
   "items": [
     {
-      "id": "nuria-segues-daina",
-      "name": "Núria Segués Daina",
+      "id": "estanislau-sangra-i-font-q24824",
+      "name": "Estanislau Sangrà i Font",
+      "sitting": true,
+      "party_id": "liberal-party-of-andorra",
+      "caucus": "Liberal Party of Andorra",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q68111337"
+    },
+    {
+      "id": "roser-sune-pascuet-q24824",
+      "name": "Roser Suñé Pascuet",
+      "sitting": true,
+      "party_id": "democrats-for-andorra",
+      "caucus": "Democrats for Andorra",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q64746821"
+    },
+    {
+      "id": "josep-enric-dalleres-q24824",
+      "name": "Josep Enric Dallerès",
+      "sitting": true,
+      "party_id": "social-democratic-party",
+      "caucus": "Social Democratic Party",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q359655"
+    },
+    {
+      "id": "carles-blasi-vidal-q24824",
+      "name": "Carles Blasi Vidal",
+      "sitting": true,
+      "party_id": "social-democratic-party",
+      "caucus": "Social Democratic Party",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2939055"
+    },
+    {
+      "id": "joan-gabriel-i-estany-q24824",
+      "name": "Joan Gabriel i Estany",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -17,49 +73,36 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q123682988"
+      "roster_url": "http://www.wikidata.org/entity/Q731290"
     },
     {
-      "id": "carles-ensenyat-reig",
-      "name": "Carles Ensenyat Reig",
+      "id": "bernadeta-gaspa-bringueret-q24824",
+      "name": "Bernadeta Gaspà Bringueret",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "liberal-party-of-andorra",
+      "caucus": "Liberal Party of Andorra",
       "constituency_label": "",
       "chamber": "General Council of Andorra",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q85626793"
+      "roster_url": "http://www.wikidata.org/entity/Q2897339"
     },
     {
-      "id": "meritxell-mateu-i-pi",
-      "name": "Meritxell Mateu i Pi",
+      "id": "antoni-marti-q24824",
+      "name": "Antoni Martí",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "liberal-party-of-andorra",
+      "caucus": "Liberal Party of Andorra",
       "constituency_label": "",
       "chamber": "General Council of Andorra",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q140240"
+      "roster_url": "http://www.wikidata.org/entity/Q24801"
     },
     {
-      "id": "carles-naudi-d-areny-plandolit-balsells",
-      "name": "Carles Naudi d'Areny-Plandolit Balsells",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "General Council of Andorra",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q98751910"
-    },
-    {
-      "id": "maria-reig-i-moles",
+      "id": "maria-reig-i-moles-q24824",
       "name": "Maria Reig i Moles",
       "sitting": true,
       "party_id": "unknown",
@@ -72,215 +115,46 @@
       "roster_url": "http://www.wikidata.org/entity/Q11935471"
     },
     {
-      "id": "alain-bernat-gallego",
-      "name": "Alain Bernat Gallego",
+      "id": "francesc-cerqueda-pascuet-q24824",
+      "name": "Francesc Cerqueda Pascuet",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "liberal-party-of-andorra",
+      "caucus": "Liberal Party of Andorra",
       "constituency_label": "",
       "chamber": "General Council of Andorra",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q2829560"
+      "roster_url": "http://www.wikidata.org/entity/Q65497401"
     },
     {
-      "id": "bernadeta-gaspa-bringueret",
-      "name": "Bernadeta Gaspà Bringueret",
+      "id": "enric-tarrado-vives-q24824",
+      "name": "Enric Tarrado Vives",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "democratic-party",
+      "caucus": "Democratic Party",
       "constituency_label": "",
       "chamber": "General Council of Andorra",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q2897339"
+      "roster_url": "http://www.wikidata.org/entity/Q3054594"
     },
     {
-      "id": "carles-blasi-vidal",
-      "name": "Carles Blasi Vidal",
+      "id": "conxita-marsol-riart-q24824",
+      "name": "Conxita Marsol Riart",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "liberal-party-of-andorra",
+      "caucus": "Liberal Party of Andorra",
       "constituency_label": "",
       "chamber": "General Council of Andorra",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q2939055"
+      "roster_url": "http://www.wikidata.org/entity/Q2996190"
     },
     {
-      "id": "emili-prats-grau",
-      "name": "Emili Prats Grau",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "General Council of Andorra",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3052285"
-    },
-    {
-      "id": "eva-garcia-pastor",
-      "name": "Eva García Pastor",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "General Council of Andorra",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3061244"
-    },
-    {
-      "id": "gilbert-saboya-sunye",
-      "name": "Gilbert Saboya Sunyé",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "General Council of Andorra",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3105855"
-    },
-    {
-      "id": "jaume-serra-serra",
-      "name": "Jaume Serra Serra",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "General Council of Andorra",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3163071"
-    },
-    {
-      "id": "joan-albert-farre-santure",
-      "name": "Joan Albert Farré Santuré",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "General Council of Andorra",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3179546"
-    },
-    {
-      "id": "jordi-font-marine",
-      "name": "Jordi Font Mariné",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "General Council of Andorra",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3183747"
-    },
-    {
-      "id": "jordi-jordana-rossell",
-      "name": "Jordi Jordana Rossell",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "General Council of Andorra",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3183748"
-    },
-    {
-      "id": "josep-maria-farre-naudi",
-      "name": "Josep Maria Farré Naudi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "General Council of Andorra",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3184102"
-    },
-    {
-      "id": "maria-pilar-riba-font",
-      "name": "Maria Pilar Riba Font",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "General Council of Andorra",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3291023"
-    },
-    {
-      "id": "mariona-gonzalez-reolit",
-      "name": "Mariona González Reolit",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "General Council of Andorra",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3293681"
-    },
-    {
-      "id": "olga-adellach-coma",
-      "name": "Olga Adellach Coma",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "General Council of Andorra",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3350399"
-    },
-    {
-      "id": "roser-bastida-areny",
-      "name": "Roser Bastida Areny",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "General Council of Andorra",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3442565"
-    },
-    {
-      "id": "victor-naudi-zamora",
-      "name": "Víctor Naudi Zamora",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "General Council of Andorra",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3564462"
-    },
-    {
-      "id": "julia-reig-ribo",
+      "id": "julia-reig-ribo-q24824",
       "name": "Julià Reig Ribó",
       "sitting": true,
       "party_id": "unknown",
@@ -293,7 +167,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q3819390"
     },
     {
-      "id": "josep-calva",
+      "id": "guillem-de-plandolit-i-d-areny-q24824",
+      "name": "Guillem de Plandolit i d'Areny",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3913312"
+    },
+    {
+      "id": "josep-calva-q24824",
       "name": "Josep Calva",
       "sitting": true,
       "party_id": "unknown",
@@ -306,11 +193,583 @@
       "roster_url": "http://www.wikidata.org/entity/Q18945526"
     },
     {
-      "id": "judith-pallares-cortes",
-      "name": "Judith Pallarés Cortés",
+      "id": "conxita-mora-jordana-q24824",
+      "name": "Conxita Mora Jordana",
+      "sitting": true,
+      "party_id": "coalition-for-progress",
+      "caucus": "Coalition for Progress",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2996501"
+    },
+    {
+      "id": "jaume-bartumeu-cassany-q24824",
+      "name": "Jaume Bartumeu Cassany",
+      "sitting": true,
+      "party_id": "social-democratic-party",
+      "caucus": "Social Democratic Party",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q217598"
+    },
+    {
+      "id": "emili-prats-grau-q24824",
+      "name": "Emili Prats Grau",
+      "sitting": true,
+      "party_id": "liberal-party-of-andorra",
+      "caucus": "Liberal Party of Andorra",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3052285"
+    },
+    {
+      "id": "eva-garcia-pastor-q24824",
+      "name": "Eva García Pastor",
+      "sitting": true,
+      "party_id": "liberal-party-of-andorra",
+      "caucus": "Liberal Party of Andorra",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3061244"
+    },
+    {
+      "id": "bibiana-rossa-torres-q24824",
+      "name": "Bibiana Rossa Torres",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "Andorra",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2900959"
+    },
+    {
+      "id": "francesc-areny-casal-q24824",
+      "name": "Francesc Areny Casal",
+      "sitting": true,
+      "party_id": "liberal-party-of-andorra",
+      "caucus": "Liberal Party of Andorra",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3080837"
+    },
+    {
+      "id": "jordi-farras-forne-q24824",
+      "name": "Jordi Farràs Forné",
+      "sitting": true,
+      "party_id": "democratic-party",
+      "caucus": "Democratic Party",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3183745"
+    },
+    {
+      "id": "jordi-font-marine-q24824",
+      "name": "Jordi Font Mariné",
+      "sitting": true,
+      "party_id": "social-democratic-party",
+      "caucus": "Social Democratic Party",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3183747"
+    },
+    {
+      "id": "jaume-serra-serra-q24824",
+      "name": "Jaume Serra Serra",
+      "sitting": true,
+      "party_id": "liberal-party-of-andorra",
+      "caucus": "Liberal Party of Andorra",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3163071"
+    },
+    {
+      "id": "pere-lopez-agras-q24824",
+      "name": "Pere López Agràs",
+      "sitting": true,
+      "party_id": "social-democratic-party",
+      "caucus": "Social Democratic Party",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7167739"
+    },
+    {
+      "id": "joan-albert-farre-santure-q24824",
+      "name": "Joan Albert Farré Santuré",
+      "sitting": true,
+      "party_id": "liberal-party-of-andorra",
+      "caucus": "Liberal Party of Andorra",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3179546"
+    },
+    {
+      "id": "gilbert-saboya-sunye-q24824",
+      "name": "Gilbert Saboya Sunyé",
+      "sitting": true,
+      "party_id": "democrats-for-andorra",
+      "caucus": "Democrats for Andorra",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3105855"
+    },
+    {
+      "id": "vicenc-mateu-zamora-q24824",
+      "name": "Vicenç Mateu Zamora",
+      "sitting": true,
+      "party_id": "democrats-for-andorra",
+      "caucus": "Democrats for Andorra",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7925229"
+    },
+    {
+      "id": "jordi-jordana-rossell-q24824",
+      "name": "Jordi Jordana Rossell",
+      "sitting": true,
+      "party_id": "liberal-party-of-andorra",
+      "caucus": "Liberal Party of Andorra",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3183748"
+    },
+    {
+      "id": "josep-maria-farre-naudi-q24824",
+      "name": "Josep Maria Farré Naudi",
+      "sitting": true,
+      "party_id": "liberal-party-of-andorra",
+      "caucus": "Liberal Party of Andorra",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3184102"
+    },
+    {
+      "id": "maria-pilar-riba-font-q24824",
+      "name": "Maria Pilar Riba Font",
+      "sitting": true,
+      "party_id": "social-democratic-party",
+      "caucus": "Social Democratic Party",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3291023"
+    },
+    {
+      "id": "mariona-gonzalez-reolit-q24824",
+      "name": "Mariona González Reolit",
+      "sitting": true,
+      "party_id": "social-democratic-party",
+      "caucus": "Social Democratic Party",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3293681"
+    },
+    {
+      "id": "jordi-mas-i-torres-q24824",
+      "name": "Jordi Mas i Torres",
+      "sitting": true,
+      "party_id": "democratic-party",
+      "caucus": "Democratic Party",
+      "constituency_label": "Andorra",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20004319"
+    },
+    {
+      "id": "enric-casadevall-medrano-q24824",
+      "name": "Enric Casadevall Medrano",
+      "sitting": true,
+      "party_id": "democrats-for-andorra",
+      "caucus": "Democrats for Andorra",
+      "constituency_label": "Canillo",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3054591"
+    },
+    {
+      "id": "jordi-cinca-i-mateos-q24824",
+      "name": "Jordi Cinca i Mateos",
+      "sitting": true,
+      "party_id": "democrats-for-andorra",
+      "caucus": "Democrats for Andorra",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3183740"
+    },
+    {
+      "id": "josep-pintat-solans-q24824",
+      "name": "Josep Pintat-Solans",
+      "sitting": true,
+      "party_id": "conservative-party",
+      "caucus": "Conservative Party",
+      "constituency_label": "Sant Julià de Lòria",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q72546"
+    },
+    {
+      "id": "maria-rosa-ferrer-obiols-q24824",
+      "name": "Maria Rosa Ferrer Obiols",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q937374"
+    },
+    {
+      "id": "olga-adellach-coma-q24824",
+      "name": "Olga Adellach Coma",
+      "sitting": true,
+      "party_id": "liberal-party-of-andorra",
+      "caucus": "Liberal Party of Andorra",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3350399"
+    },
+    {
+      "id": "ricard-de-haro-jimenez-q24824",
+      "name": "Ricard de Haro Jiménez",
+      "sitting": true,
+      "party_id": "democratic-renewal",
+      "caucus": "Democratic Renewal",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3430204"
+    },
+    {
+      "id": "montserrat-gil-torne-q24824",
+      "name": "Montserrat Gil Torné",
+      "sitting": true,
+      "party_id": "lauredian-union",
+      "caucus": "Lauredian Union",
+      "constituency_label": "Sant Julià de Lòria",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3321320"
+    },
+    {
+      "id": "manuel-mas-ribo-q24824",
+      "name": "Manuel Mas Ribó",
+      "sitting": true,
+      "party_id": "national-andorran-coalition",
+      "caucus": "National Andorran Coalition",
+      "constituency_label": "Andorra",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16015204"
+    },
+    {
+      "id": "roser-bastida-areny-q24824",
+      "name": "Roser Bastida Areny",
+      "sitting": true,
+      "party_id": "liberal-party-of-andorra",
+      "caucus": "Liberal Party of Andorra",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3442565"
+    },
+    {
+      "id": "meritxell-mateu-i-pi-q24824",
+      "name": "Meritxell Mateu i Pi",
+      "sitting": true,
+      "party_id": "liberal-party-of-andorra",
+      "caucus": "Liberal Party of Andorra",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q140240"
+    },
+    {
+      "id": "victor-naudi-zamora-q24824",
+      "name": "Víctor Naudi Zamora",
+      "sitting": true,
+      "party_id": "social-democratic-party",
+      "caucus": "Social Democratic Party",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3564462"
+    },
+    {
+      "id": "francesc-cairat-freixes-q24824",
+      "name": "Francesc Cairat Freixes",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q68115365"
+    },
+    {
+      "id": "francesc-escude-ferrero-q24824",
+      "name": "Francesc Escudé Ferrero",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q68117747"
+    },
+    {
+      "id": "pere-font-i-altamir-q24824",
+      "name": "Pere Font i Altamir",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q68173609"
+    },
+    {
+      "id": "pere-torres-i-riba-q24824",
+      "name": "Pere Torres i Riba",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q68174128"
+    },
+    {
+      "id": "alain-bernat-gallego-q24824",
+      "name": "Alain Bernat Gallego",
+      "sitting": true,
+      "party_id": "liberal-party-of-andorra",
+      "caucus": "Liberal Party of Andorra",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2829560"
+    },
+    {
+      "id": "monica-bonell-tuset-q24824",
+      "name": "Mònica Bonell Tuset",
+      "sitting": true,
+      "party_id": "democrats-for-andorra",
+      "caucus": "Democrats for Andorra",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q44808359"
+    },
+    {
+      "id": "silvia-riva-gonzalez-q24824",
+      "name": "Sílvia Riva González",
+      "sitting": true,
+      "party_id": "democrats-for-andorra",
+      "caucus": "Democrats for Andorra",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q21012236"
+    },
+    {
+      "id": "albert-gelabert-grau-q24824",
+      "name": "Albert Gelabert Grau",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q130734149"
+    },
+    {
+      "id": "eusebi-nomen-calvet-q24824",
+      "name": "Eusebi Nomen Calvet",
+      "sitting": true,
+      "party_id": "andorra-for-change",
+      "caucus": "Andorra for Change",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q61982556"
+    },
+    {
+      "id": "josep-majoral-obiols-q24824",
+      "name": "Josep Majoral Obiols",
+      "sitting": true,
+      "party_id": "lauredian-union",
+      "caucus": "Lauredian Union",
+      "constituency_label": "Sant Julià de Lòria",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105489951"
+    },
+    {
+      "id": "carles-naudi-d-areny-plandolit-balsells-q24824",
+      "name": "Carles Naudi d'Areny-Plandolit Balsells",
+      "sitting": true,
+      "party_id": "committed-citizens",
+      "caucus": "Committed Citizens",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q98751910"
+    },
+    {
+      "id": "rosa-gili-casals-q24824",
+      "name": "Rosa Gili Casals",
+      "sitting": true,
+      "party_id": "social-democratic-party",
+      "caucus": "Social Democratic Party",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116467412"
+    },
+    {
+      "id": "cerni-escale-cabre-q24824",
+      "name": "Cerni Escalé Cabré",
+      "sitting": true,
+      "party_id": "concordia",
+      "caucus": "Concòrdia",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116467206"
+    },
+    {
+      "id": "carine-montaner-raynaud-q24824",
+      "name": "Carine Montaner Raynaud",
+      "sitting": true,
+      "party_id": "andorra-forward",
+      "caucus": "Andorra Forward",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116465502"
+    },
+    {
+      "id": "ferran-costa-marimon-q24824",
+      "name": "Ferran Costa Marimon",
+      "sitting": true,
+      "party_id": "action-for-andorra",
+      "caucus": "Action for Andorra",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56403526"
+    },
+    {
+      "id": "judith-pallares-cortes-q24824",
+      "name": "Judith Pallarés Cortés",
+      "sitting": true,
+      "party_id": "action-for-andorra",
+      "caucus": "Action for Andorra",
       "constituency_label": "",
       "chamber": "General Council of Andorra",
       "lang": [
@@ -319,20 +778,111 @@
       "roster_url": "http://www.wikidata.org/entity/Q56403529"
     },
     {
-      "id": "roser-sune-pascuet",
-      "name": "Roser Suñé Pascuet",
+      "id": "merce-bonell-q24824",
+      "name": "Mercè Bonell",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "liberal-party-of-andorra",
+      "caucus": "Liberal Party of Andorra",
       "constituency_label": "",
       "chamber": "General Council of Andorra",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q64746821"
+      "roster_url": "http://www.wikidata.org/entity/Q65966906"
     },
     {
-      "id": "amadeu-rossell-tarradellas",
+      "id": "josep-pintat-forne-q24824",
+      "name": "Josep Pintat Forné",
+      "sitting": true,
+      "party_id": "third-way",
+      "caucus": "Third Way",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q63033620"
+    },
+    {
+      "id": "jordi-gallardo-fernandez-q24824",
+      "name": "Jordi Gallardo Fernández",
+      "sitting": true,
+      "party_id": "liberal-party-of-andorra",
+      "caucus": "Liberal Party of Andorra",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56403525"
+    },
+    {
+      "id": "guillem-areny-q24824",
+      "name": "Guillem Areny",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "La Massana",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q104602091"
+    },
+    {
+      "id": "meritxell-palmitjavila-naudi-q24824",
+      "name": "Meritxell Palmitjavila Naudí",
+      "sitting": true,
+      "party_id": "democrats-for-andorra",
+      "caucus": "Democrats for Andorra",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q65966888"
+    },
+    {
+      "id": "nuria-segues-daina-q24824",
+      "name": "Núria Segués Daina",
+      "sitting": true,
+      "party_id": "concordia",
+      "caucus": "Concòrdia",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123682988"
+    },
+    {
+      "id": "carles-ensenyat-reig-q24824",
+      "name": "Carles Ensenyat Reig",
+      "sitting": true,
+      "party_id": "democrats-for-andorra",
+      "caucus": "Democrats for Andorra",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q85626793"
+    },
+    {
+      "id": "joan-pujal-areny-q24824",
+      "name": "Joan Pujal Areny",
+      "sitting": true,
+      "party_id": "lauredian-union",
+      "caucus": "Lauredian Union",
+      "constituency_label": "",
+      "chamber": "General Council of Andorra",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q117225173"
+    },
+    {
+      "id": "amadeu-rossell-tarradellas-q24824",
       "name": "Amadeu Rossell Tarradellas",
       "sitting": true,
       "party_id": "unknown",
@@ -345,8 +895,8 @@
       "roster_url": "http://www.wikidata.org/entity/Q65499144"
     },
     {
-      "id": "meritxell-palmitjavila-naudi",
-      "name": "Meritxell Palmitjavila Naudí",
+      "id": "francesc-molne-i-roge-q24824",
+      "name": "Francesc Molné i Rogé",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -355,23 +905,23 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q65966888"
+      "roster_url": "http://www.wikidata.org/entity/Q68192409"
     },
     {
-      "id": "merce-bonell",
-      "name": "Mercè Bonell",
+      "id": "joan-martinez-benazet-q24824",
+      "name": "Joan Martínez Benazet",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "democrats-for-andorra",
+      "caucus": "Democrats for Andorra",
       "constituency_label": "",
       "chamber": "General Council of Andorra",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q65966906"
+      "roster_url": "http://www.wikidata.org/entity/Q88194125"
     },
     {
-      "id": "josep-maria-beal",
+      "id": "josep-maria-beal-q24824",
       "name": "Josep Maria Beal",
       "sitting": true,
       "party_id": "unknown",
@@ -384,30 +934,17 @@
       "roster_url": "http://www.wikidata.org/entity/Q76716632"
     },
     {
-      "id": "carine-montaner-raynaud",
-      "name": "Carine Montaner Raynaud",
+      "id": "silvia-calvo-i-armengol-q24824",
+      "name": "Silvia Calvó i Armengol",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "democrats-for-andorra",
+      "caucus": "Democrats for Andorra",
       "constituency_label": "",
       "chamber": "General Council of Andorra",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q116465502"
-    },
-    {
-      "id": "cerni-escale-cabre",
-      "name": "Cerni Escalé Cabré",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "General Council of Andorra",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q116467206"
+      "roster_url": "http://www.wikidata.org/entity/Q58009929"
     }
   ]
 }

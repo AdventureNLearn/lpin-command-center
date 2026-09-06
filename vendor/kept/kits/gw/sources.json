@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q740533"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q740533",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21328631",
+      "label": "Member of the National People's Assembly of Guinea-Bissau (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21328631",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q740533",
+      "label": "National People's Assembly",
+      "url": "https://www.parlamento.gw/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q740533",
+      "label": "National People's Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q740533",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

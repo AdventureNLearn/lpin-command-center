@@ -1,6 +1,13 @@
 {
   "iso2": "it",
-  "items": [],
+  "items": [
+    {
+      "id": "money",
+      "hole": "No sourced money file.",
+      "basis": "Evidence"
+    }
+  ],
   "incomplete": true,
-  "note": "No gap row: no sourced personal pledge in this pack has a verified contrary clerk/Hansard vote stored in votes.json. Honest empty."
+  "retrieved": "2026-09-06",
+  "note": "Full-ISO fill 2026-09-06. Chambers: Chamber of Deputies of Italy · Senate of the Republic · Italian Parliament. Sitting 400. Empty objects not invented."
 }

@@ -3,11 +3,1004 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q3142337",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 2,
+  "incomplete": true,
+  "claimed_seats": 551,
+  "chambers": [
+    "People's National Assembly",
+    "Council of the Nation",
+    "Parliament of Algeria"
+  ],
   "items": [
     {
-      "id": "zuhur-wanasi",
+      "id": "abd-al-aziz-ziari-q633590",
+      "name": "Abd al-Aziz Ziari",
+      "sitting": true,
+      "party_id": "national-liberation-front",
+      "caucus": "National Liberation Front",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2821005"
+    },
+    {
+      "id": "boubekeur-benbouzid-q633590",
+      "name": "Boubekeur Benbouzid",
+      "sitting": true,
+      "party_id": "national-liberation-front",
+      "caucus": "National Liberation Front",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2821765"
+    },
+    {
+      "id": "ahmed-attaf-q633590",
+      "name": "Ahmed Attaf",
+      "sitting": true,
+      "party_id": "democratic-national-rally",
+      "caucus": "Democratic National Rally",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q401156"
+    },
+    {
+      "id": "amar-ouzegane-q633590",
+      "name": "Amar Ouzegane",
+      "sitting": true,
+      "party_id": "national-liberation-front",
+      "caucus": "National Liberation Front",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2841164"
+    },
+    {
+      "id": "abderrachid-boukerzaza-q633590",
+      "name": "Abderrachid Boukerzaza",
+      "sitting": true,
+      "party_id": "national-liberation-front",
+      "caucus": "National Liberation Front",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4664899"
+    },
+    {
+      "id": "cheikh-atallah-q633590",
+      "name": "Cheikh Atallah",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q130461742"
+    },
+    {
+      "id": "amar-ghoul-q633590",
+      "name": "Amar Ghoul",
+      "sitting": true,
+      "party_id": "movement-of-society-for-peace",
+      "caucus": "Movement of Society for Peace",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2841145"
+    },
+    {
+      "id": "mustapha-berraf-q633590",
+      "name": "Mustapha Berraf",
+      "sitting": true,
+      "party_id": "democratic-national-rally",
+      "caucus": "Democratic National Rally",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q94579476"
+    },
+    {
+      "id": "mustapha-bouchachi-q633590",
+      "name": "Mustapha Bouchachi",
+      "sitting": true,
+      "party_id": "human-rights",
+      "caucus": "human rights",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q26788405"
+    },
+    {
+      "id": "atmane-mazouz-q633590",
+      "name": "Atmane Mazouz",
+      "sitting": true,
+      "party_id": "rally-for-culture-and-democracy",
+      "caucus": "Rally for Culture and Democracy",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2869519"
+    },
+    {
+      "id": "sulaiman-shanin-q633590",
+      "name": "Sulaiman Shanin",
+      "sitting": true,
+      "party_id": "bina",
+      "caucus": "Bina",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q65501438"
+    },
+    {
+      "id": "ali-fawzi-rebaine-q633590",
+      "name": "Ali Fawzi Rebaine",
+      "sitting": true,
+      "party_id": "ahd-54",
+      "caucus": "Ahd 54",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2836221"
+    },
+    {
+      "id": "ibrahim-mezhoudi-q633590",
+      "name": "Ibrahim Mezhoudi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12181828"
+    },
+    {
+      "id": "salima-ghezali-q633590",
+      "name": "Salima Ghezali",
+      "sitting": true,
+      "party_id": "workers-party",
+      "caucus": "Workers' Party",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q127304"
+    },
+    {
+      "id": "mokdad-sifi-q633590",
+      "name": "Mokdad Sifi",
+      "sitting": true,
+      "party_id": "democratic-national-rally",
+      "caucus": "Democratic National Rally",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1370888"
+    },
+    {
+      "id": "ghania-eddalia-q633590",
+      "name": "Ghania Eddalia",
+      "sitting": true,
+      "party_id": "national-liberation-front",
+      "caucus": "National Liberation Front",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q42327877"
+    },
+    {
+      "id": "chafia-mentalecheta-q633590",
+      "name": "Chafia Mentalecheta",
+      "sitting": true,
+      "party_id": "socialist-party",
+      "caucus": "Socialist Party",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24590204"
+    },
+    {
+      "id": "louisa-hanoune-q633590",
+      "name": "Louisa Hanoune",
+      "sitting": true,
+      "party_id": "workers-party",
+      "caucus": "Workers' Party",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q269903"
+    },
+    {
+      "id": "ali-brahimi-q633590",
+      "name": "Ali Brahimi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2836171"
+    },
+    {
+      "id": "eveline-safir-lavalette-q633590",
+      "name": "Eveline Safir Lavalette",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16009030"
+    },
+    {
+      "id": "ali-mendjeli-q633590",
+      "name": "Ali Mendjeli",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16011496"
+    },
+    {
+      "id": "djilali-mehri-q633590",
+      "name": "Djilali Mehri",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5285345"
+    },
+    {
+      "id": "said-abu-hajjah-q633590",
+      "name": "Said Abu Hajjah",
+      "sitting": true,
+      "party_id": "national-liberation-front",
+      "caucus": "National Liberation Front",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q30028627"
+    },
+    {
+      "id": "khalfa-mameri-q633590",
+      "name": "Khalfa Mameri",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q25383110"
+    },
+    {
+      "id": "boualem-bouguetaia-q633590",
+      "name": "Boualem Bouguetaia",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q894942"
+    },
+    {
+      "id": "othmane-saadi-q633590",
+      "name": "Othmane Saadi",
+      "sitting": true,
+      "party_id": "national-liberation-front",
+      "caucus": "National Liberation Front",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12224375"
+    },
+    {
+      "id": "mustapha-stambouli-q633590",
+      "name": "Mustapha Stambouli",
+      "sitting": true,
+      "party_id": "national-liberation-front",
+      "caucus": "National Liberation Front",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12243325"
+    },
+    {
+      "id": "naima-salhi-q633590",
+      "name": "Naima Salhi",
+      "sitting": true,
+      "party_id": "national-liberation-front",
+      "caucus": "National Liberation Front",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12248733"
+    },
+    {
+      "id": "khalida-boufedeche-q633590",
+      "name": "Khalida Boufedeche",
+      "sitting": true,
+      "party_id": "national-liberation-front",
+      "caucus": "National Liberation Front",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q140751437"
+    },
+    {
+      "id": "tahar-hadjar-q633590",
+      "name": "Tahar Hadjar",
+      "sitting": true,
+      "party_id": "national-liberation-front",
+      "caucus": "National Liberation Front",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20020724"
+    },
+    {
+      "id": "samia-moualfi-q633590",
+      "name": "Samia Moualfi",
+      "sitting": true,
+      "party_id": "national-liberation-front",
+      "caucus": "National Liberation Front",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107452351"
+    },
+    {
+      "id": "abdeslam-bouchouareb-q633590",
+      "name": "Abdeslam Bouchouareb",
+      "sitting": true,
+      "party_id": "democratic-national-rally",
+      "caucus": "Democratic National Rally",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17175081"
+    },
+    {
+      "id": "tahar-missoum-q633590",
+      "name": "Tahar Missoum",
+      "sitting": true,
+      "party_id": "algerian-rally",
+      "caucus": "Algerian Rally",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q130613435"
+    },
+    {
+      "id": "m-hamed-yazid-q633590",
+      "name": "M'Hamed Yazid",
+      "sitting": true,
+      "party_id": "national-liberation-front",
+      "caucus": "National Liberation Front",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3272281"
+    },
+    {
+      "id": "mahdjoub-bedda-q633590",
+      "name": "Mahdjoub Bedda",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q48772854"
+    },
+    {
+      "id": "baha-eddine-tliba-q633590",
+      "name": "Baha Eddine Tliba",
+      "sitting": true,
+      "party_id": "national-liberation-front",
+      "caucus": "National Liberation Front",
+      "constituency_label": "Annaba Province",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q130396944"
+    },
+    {
+      "id": "khalida-toumi-q633590",
+      "name": "Khalida Toumi",
+      "sitting": true,
+      "party_id": "national-liberation-front",
+      "caucus": "National Liberation Front",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q541706"
+    },
+    {
+      "id": "amrane-ait-hamouda-q633590",
+      "name": "Amrane  Aït-Hamouda",
+      "sitting": true,
+      "party_id": "rally-for-culture-and-democracy",
+      "caucus": "Rally for Culture and Democracy",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3343601"
+    },
+    {
+      "id": "karim-tabbou-q633590",
+      "name": "Karim Tabbou",
+      "sitting": true,
+      "party_id": "socialist-forces-front",
+      "caucus": "Socialist Forces Front",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3193218"
+    },
+    {
+      "id": "wafa-chaalal-q633590",
+      "name": "Wafa Chaâlal",
+      "sitting": true,
+      "party_id": "democratic-national-rally",
+      "caucus": "Democratic National Rally",
+      "constituency_label": "Tiaret Province",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107447278"
+    },
+    {
+      "id": "abd-al-aziz-bilkhadim-q633590",
+      "name": "Abd al-Aziz Bilkhadim",
+      "sitting": true,
+      "party_id": "national-liberation-front",
+      "caucus": "National Liberation Front",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q307857"
+    },
+    {
+      "id": "smail-mira-q633590",
+      "name": "Smaïl Mira",
+      "sitting": true,
+      "party_id": "national-liberation-front",
+      "caucus": "National Liberation Front",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3486917"
+    },
+    {
+      "id": "meriem-belmihoub-q633590",
+      "name": "Meriem Belmihoub",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q66363348"
+    },
+    {
+      "id": "ramdane-youssef-tazibt-q633590",
+      "name": "Ramdane-Youssef Tazibt",
+      "sitting": true,
+      "party_id": "workers-party",
+      "caucus": "Workers' Party",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18202607"
+    },
+    {
+      "id": "djelloul-djoudi-q633590",
+      "name": "Djelloul Djoudi",
+      "sitting": true,
+      "party_id": "workers-party",
+      "caucus": "Workers' Party",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18214561"
+    },
+    {
+      "id": "mohamed-djemai-q633590",
+      "name": "Mohamed Djemai",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q67168494"
+    },
+    {
+      "id": "abdelhalim-abdelouahab-q633590",
+      "name": "Abdelhalim Abdelouahab",
+      "sitting": true,
+      "party_id": "green-algeria-alliance",
+      "caucus": "Green Algeria Alliance",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20666275"
+    },
+    {
+      "id": "ahmed-cherifi-q633590",
+      "name": "Ahmed Cherifi",
+      "sitting": true,
+      "party_id": "green-algeria-alliance",
+      "caucus": "Green Algeria Alliance",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20666283"
+    },
+    {
+      "id": "chahrazade-kirouani-q633590",
+      "name": "Chahrazade Kirouani",
+      "sitting": true,
+      "party_id": "green-algeria-alliance",
+      "caucus": "Green Algeria Alliance",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20666415"
+    },
+    {
+      "id": "fatima-boudjemline-q633590",
+      "name": "Fatima Boudjemline",
+      "sitting": true,
+      "party_id": "green-algeria-alliance",
+      "caucus": "Green Algeria Alliance",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20666560"
+    },
+    {
+      "id": "ghani-boudebouz-q633590",
+      "name": "Ghani Boudebouz",
+      "sitting": true,
+      "party_id": "green-algeria-alliance",
+      "caucus": "Green Algeria Alliance",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20666616"
+    },
+    {
+      "id": "karima-admane-q633590",
+      "name": "Karima Admane",
+      "sitting": true,
+      "party_id": "green-algeria-alliance",
+      "caucus": "Green Algeria Alliance",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20666740"
+    },
+    {
+      "id": "abdelkrim-bouderghouma-q633590",
+      "name": "Abdelkrim Bouderghouma",
+      "sitting": true,
+      "party_id": "national-liberation-front",
+      "caucus": "National Liberation Front",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20961754"
+    },
+    {
+      "id": "sid-ahmed-ferroukhi-q633590",
+      "name": "Sid Ahmed Ferroukhi",
+      "sitting": true,
+      "party_id": "national-liberation-front",
+      "caucus": "National Liberation Front",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20995417"
+    },
+    {
+      "id": "houari-souiah-q633590",
+      "name": "Houari Souiah",
+      "sitting": true,
+      "party_id": "national-liberation-front",
+      "caucus": "National Liberation Front",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q21093131"
+    },
+    {
+      "id": "rabah-bitat-q633590",
+      "name": "Rabah Bitat",
+      "sitting": true,
+      "party_id": "national-liberation-front",
+      "caucus": "National Liberation Front",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q327414"
+    },
+    {
+      "id": "youssef-yousfi-q633590",
+      "name": "Youssef Yousfi",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3572799"
+    },
+    {
+      "id": "mustapha-laliam-q633590",
+      "name": "Mustapha Laliam",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Relizane Province",
+      "chamber": "People's National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20995461"
+    },
+    {
+      "id": "abderrezak-bouhara-q2119509",
+      "name": "Abderrezak Bouhara",
+      "sitting": true,
+      "party_id": "national-liberation-front",
+      "caucus": "National Liberation Front",
+      "constituency_label": "",
+      "chamber": "Council of the Nation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2821282"
+    },
+    {
+      "id": "taleb-mohamed-cherif-q2119509",
+      "name": "Taleb Mohamed Chérif",
+      "sitting": true,
+      "party_id": "national-party-for-solidarity-and-development",
+      "caucus": "National Party for Solidarity and Development",
+      "constituency_label": "",
+      "chamber": "Council of the Nation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3514456"
+    },
+    {
+      "id": "amar-mellah-q2119509",
+      "name": "Amar Mellah",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of the Nation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2841152"
+    },
+    {
+      "id": "comandant-azzedine-q2119509",
+      "name": "Comandant Azzedine",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of the Nation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2985669"
+    },
+    {
+      "id": "djamel-eddine-habibi-q2119509",
+      "name": "Djamel-Eddine Habibi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of the Nation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3032756"
+    },
+    {
+      "id": "hocine-djoudi-q2119509",
+      "name": "Hocine Djoudi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of the Nation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3138943"
+    },
+    {
+      "id": "kamel-bounah-q2119509",
+      "name": "Kamel Bounah",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of the Nation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3192360"
+    },
+    {
+      "id": "salah-derradji-q2119509",
+      "name": "Salah Derradji",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of the Nation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3469521"
+    },
+    {
+      "id": "said-barkat-q2119509",
+      "name": "Saïd Barkat",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of the Nation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3474775"
+    },
+    {
+      "id": "tahar-zbiri-q2119509",
+      "name": "Tahar Zbiri",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of the Nation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3513895"
+    },
+    {
+      "id": "omar-ramdane-q2119509",
+      "name": "Omar Ramdane",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of the Nation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24950968"
+    },
+    {
+      "id": "saadi-yacef-q2119509",
+      "name": "Saadi Yacef",
+      "sitting": true,
+      "party_id": "national-liberation-front",
+      "caucus": "National Liberation Front",
+      "constituency_label": "",
+      "chamber": "Council of the Nation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q168663"
+    },
+    {
+      "id": "hafida-benchehida-q2119509",
+      "name": "Hafida Benchehida",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of the Nation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q55340956"
+    },
+    {
+      "id": "mokrane-ait-larbi-q2119509",
+      "name": "Mokrane Ait Larbi",
+      "sitting": true,
+      "party_id": "rally-for-culture-and-democracy",
+      "caucus": "Rally for Culture and Democracy",
+      "constituency_label": "",
+      "chamber": "Council of the Nation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3319393"
+    },
+    {
+      "id": "meriem-belmihoub-q2119509",
+      "name": "Meriem Belmihoub",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of the Nation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q66363348"
+    },
+    {
+      "id": "zohra-drif-q2119509",
+      "name": "Zohra Drif",
+      "sitting": true,
+      "party_id": "national-liberation-front",
+      "caucus": "National Liberation Front",
+      "constituency_label": "",
+      "chamber": "Council of the Nation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3575695"
+    },
+    {
+      "id": "salah-boubnider-q2119509",
+      "name": "Salah Boubnider",
+      "sitting": true,
+      "party_id": "movement-for-the-triumph-of-democratic-liberties",
+      "caucus": "Movement for the Triumph of Democratic Liberties",
+      "constituency_label": "",
+      "chamber": "Council of the Nation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3469516"
+    },
+    {
+      "id": "abdelkader-khelifa-q2119509",
+      "name": "Abdelkader Khelifa",
+      "sitting": true,
+      "party_id": "national-liberation-front",
+      "caucus": "National Liberation Front",
+      "constituency_label": "",
+      "chamber": "Council of the Nation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20961753"
+    },
+    {
+      "id": "zuhur-wanasi-q3142337",
       "name": "Zuhur Wanasi",
       "sitting": true,
       "party_id": "unknown",
@@ -20,11 +1013,11 @@
       "roster_url": "http://www.wikidata.org/entity/Q12214716"
     },
     {
-      "id": "salah-bouchatal",
+      "id": "salah-bouchatal-q3142337",
       "name": "Salah Bouchatal",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "national-liberation-front",
+      "caucus": "National Liberation Front",
       "constituency_label": "",
       "chamber": "Parliament of Algeria",
       "lang": [

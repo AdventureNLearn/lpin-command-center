@@ -1,0 +1,44 @@
+{
+  "iso2": "tl",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q574",
+  "bodies": [
+    {
+      "qid": "Q19966812",
+      "label": "Member of the National Parliament of East Timor",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q680806",
+      "label": "National Parliament",
+      "seats": 65,
+      "web": "https://www.parlamento.tl/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Member of the National Parliament of East Timor"
+  ],
+  "seats": 65,
+  "items": [
+    {
+      "id": "Q19966812",
+      "name": "Member of the National Parliament of East Timor",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q19966812"
+    },
+    {
+      "id": "Q680806",
+      "name": "National Parliament",
+      "kind": "parliament",
+      "seats": 65,
+      "url": "https://www.parlamento.tl/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

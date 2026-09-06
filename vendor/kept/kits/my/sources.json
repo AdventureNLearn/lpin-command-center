@@ -3,8 +3,53 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q2986392"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q2986392",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q2986392",
+      "label": "Parliament of Malaysia",
+      "url": "http://www.parlimen.gov.my/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q2986392",
+      "label": "Parliament of Malaysia (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q2986392",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1207095",
+      "label": "Dewan Negara",
+      "url": "http://www.parlimen.gov.my/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1207095",
+      "label": "Dewan Negara (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1207095",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1207092",
+      "label": "Dewan Rakyat",
+      "url": "http://www.parlimen.gov.my/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1207092",
+      "label": "Dewan Rakyat (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1207092",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

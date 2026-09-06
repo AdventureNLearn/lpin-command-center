@@ -1,4 +1,55 @@
 {
   "iso2": "nl",
-  "items": []
+  "items": [
+    {
+      "id": "wikidata",
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1371388",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q59486",
+      "label": "Senate",
+      "url": "https://www.eerstekamer.nl/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q59486",
+      "label": "Senate (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q59486",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q233262",
+      "label": "House of Representatives",
+      "url": "https://www.tweedekamer.nl/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q233262",
+      "label": "House of Representatives (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q233262",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1371388",
+      "label": "States General",
+      "url": "https://www.staten-generaal.nl/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1371388",
+      "label": "States General (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1371388",
+      "kind": "index",
+      "basis": "Evidence"
+    }
+  ],
+  "incomplete": false
 }

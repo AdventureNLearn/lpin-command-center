@@ -1,6 +1,59 @@
 {
   "iso2": "nl",
   "kit": "institutional",
-  "items": [],
-  "incomplete": true
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q55",
+  "bodies": [
+    {
+      "qid": "Q59486",
+      "label": "Senate",
+      "seats": 75,
+      "web": "https://www.eerstekamer.nl/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q233262",
+      "label": "House of Representatives",
+      "seats": 150,
+      "web": "https://www.tweedekamer.nl/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1371388",
+      "label": "States General",
+      "seats": 0,
+      "web": "https://www.staten-generaal.nl/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Senate",
+    "House of Representatives"
+  ],
+  "seats": 225,
+  "items": [
+    {
+      "id": "Q59486",
+      "name": "Senate",
+      "kind": "chamber",
+      "seats": 75,
+      "url": "https://www.eerstekamer.nl/"
+    },
+    {
+      "id": "Q233262",
+      "name": "House of Representatives",
+      "kind": "chamber",
+      "seats": 150,
+      "url": "https://www.tweedekamer.nl/"
+    },
+    {
+      "id": "Q1371388",
+      "name": "States General",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://www.staten-generaal.nl/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

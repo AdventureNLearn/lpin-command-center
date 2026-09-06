@@ -3,8 +3,39 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q339033"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q339033",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q339033",
+      "label": "Palestinian Legislative Council",
+      "url": "https://pal-plc.org",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q339033",
+      "label": "Palestinian Legislative Council (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q339033",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1585629",
+      "label": "Palestinian National Council",
+      "url": "http://www.palestinepnc.org/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1585629",
+      "label": "Palestinian National Council (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1585629",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

@@ -3,11 +3,16 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q3242616",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 1,
+  "incomplete": true,
+  "claimed_seats": 80,
+  "chambers": [
+    "National Assembly of Bahrain",
+    "Council of Representatives",
+    "Consultative Council of Bahrain"
+  ],
   "items": [
     {
-      "id": "ebrahim-daoud-nonoo",
+      "id": "ebrahim-daoud-nonoo-q3242616",
       "name": "Ebrahim Daoud Nonoo",
       "sitting": true,
       "party_id": "unknown",
@@ -18,6 +23,1020 @@
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q5331971"
+    },
+    {
+      "id": "mohamed-yousif-al-maarafi-q4118178",
+      "name": "Mohamed Yousif al Maarafi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125493629"
+    },
+    {
+      "id": "adel-mouwda-q4118178",
+      "name": "Adel Mouwda",
+      "sitting": true,
+      "party_id": "al-asalah",
+      "caucus": "Al-Asalah",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4681582"
+    },
+    {
+      "id": "ali-mattar-q4118178",
+      "name": "Ali Mattar",
+      "sitting": true,
+      "party_id": "al-asalah",
+      "caucus": "Al-Asalah",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4725002"
+    },
+    {
+      "id": "khalifa-al-dhahrani-q4118178",
+      "name": "Khalifa Al Dhahrani",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12210768"
+    },
+    {
+      "id": "ali-ahmed-abdulla-q4118178",
+      "name": "Ali Ahmed Abdulla",
+      "sitting": true,
+      "party_id": "al-menbar-islamic-society",
+      "caucus": "Al-Menbar Islamic Society",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4724573"
+    },
+    {
+      "id": "abdul-aziz-abul-q4118178",
+      "name": "Abdul Aziz Abul",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4665275"
+    },
+    {
+      "id": "othman-al-rayes-q4118178",
+      "name": "Othman Al Rayes",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20382680"
+    },
+    {
+      "id": "salman-hamad-al-sheikh-q4118178",
+      "name": "Salman Hamad Al-Sheikh",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20384113"
+    },
+    {
+      "id": "somaya-al-jowder-q4118178",
+      "name": "Somaya Al Jowder",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20385014"
+    },
+    {
+      "id": "ahmed-al-mulla-q4118178",
+      "name": "Ahmed Al Mulla",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20385366"
+    },
+    {
+      "id": "ahmed-behzad-bahrain-q4118178",
+      "name": "Ahmed Behzad (Bahrain)",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20385660"
+    },
+    {
+      "id": "ahmed-qarata-q4118178",
+      "name": "Ahmed Qarata",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20386058"
+    },
+    {
+      "id": "sawsan-taqawi-q4118178",
+      "name": "Sawsan Taqawi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20386880"
+    },
+    {
+      "id": "osama-al-khaja-q4118178",
+      "name": "Osama Al-Khaja",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20387078"
+    },
+    {
+      "id": "isa-al-kooheji-q4118178",
+      "name": "Isa Al-Kooheji",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20394357"
+    },
+    {
+      "id": "ebtisam-hejres-q4118178",
+      "name": "Ebtisam Hejres",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20397773"
+    },
+    {
+      "id": "roaa-alhayki-q4118178",
+      "name": "Roaa Alhayki",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20404043"
+    },
+    {
+      "id": "adel-al-asoomi-q4118178",
+      "name": "Adel Al Asoomi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20408969"
+    },
+    {
+      "id": "abdul-hakim-al-shammari-q4118178",
+      "name": "Abdul Hakim Al-Shammari",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20410876"
+    },
+    {
+      "id": "abdullah-bin-khalaf-al-dossari-q4118178",
+      "name": "Abdullah bin Khalaf Al Dossari",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20413992"
+    },
+    {
+      "id": "salah-ali-q4118178",
+      "name": "Salah Ali",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20420786"
+    },
+    {
+      "id": "mahmoud-al-mahmoud-q4118178",
+      "name": "Mahmoud Al Mahmoud",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20423350"
+    },
+    {
+      "id": "lateefa-al-gaood-q4118178",
+      "name": "Lateefa Al Gaood",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6495425"
+    },
+    {
+      "id": "mohammed-khalid-q4118178",
+      "name": "Mohammed Khalid",
+      "sitting": true,
+      "party_id": "al-menbar-islamic-society",
+      "caucus": "Al-Menbar Islamic Society",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6853808"
+    },
+    {
+      "id": "his-eminence-sheikh-dr-jasim-ahmed-al-saidi-q4118178",
+      "name": "His Eminence Sheikh Dr. Jasim Ahmed Al-Saidi",
+      "sitting": true,
+      "party_id": "al-asalah",
+      "caucus": "Al-Asalah",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6164174"
+    },
+    {
+      "id": "sayed-falah-hashim-q4118178",
+      "name": "Sayed Falah Hashim",
+      "sitting": true,
+      "party_id": "progressive-democratic-tribune",
+      "caucus": "Progressive Democratic Tribune",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60914281"
+    },
+    {
+      "id": "abdul-nabi-salman-q4118178",
+      "name": "Abdul Nabi Salman",
+      "sitting": true,
+      "party_id": "progressive-democratic-tribune",
+      "caucus": "Progressive Democratic Tribune",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60914396"
+    },
+    {
+      "id": "khalil-al-marzooq-q4118178",
+      "name": "Khalil al-Marzooq",
+      "sitting": true,
+      "party_id": "al-wefaq",
+      "caucus": "Al Wefaq",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6399738"
+    },
+    {
+      "id": "ghanem-al-buainain-q4118178",
+      "name": "Ghanem Al Buainain",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56406513"
+    },
+    {
+      "id": "ali-zayed-q4118178",
+      "name": "Ali Zayed",
+      "sitting": true,
+      "party_id": "al-asalah",
+      "caucus": "Al-Asalah",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20418671"
+    },
+    {
+      "id": "ammar-qambar-q4118178",
+      "name": "Ammar Qambar",
+      "sitting": true,
+      "party_id": "al-menbar-islamic-society",
+      "caucus": "Al-Menbar Islamic Society",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60565513"
+    },
+    {
+      "id": "ahmed-yousef-al-ansari-q4118178",
+      "name": "Ahmed Yousef Al Ansari",
+      "sitting": true,
+      "party_id": "al-asalah",
+      "caucus": "Al-Asalah",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60914552"
+    },
+    {
+      "id": "abdulrazzaq-hattab-q4118178",
+      "name": "Abdulrazzaq Hattab",
+      "sitting": true,
+      "party_id": "al-asalah",
+      "caucus": "Al-Asalah",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60914569"
+    },
+    {
+      "id": "fawzia-zainal-q4118178",
+      "name": "Fawzia Zainal",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60191533"
+    },
+    {
+      "id": "ahmed-al-salloum-q4118178",
+      "name": "Ahmed Al-Salloum",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60565425"
+    },
+    {
+      "id": "ammar-al-bannai-q4118178",
+      "name": "Ammar Al Bannai",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60565422"
+    },
+    {
+      "id": "ali-ishaqi-q4118178",
+      "name": "Ali Ishaqi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60565494"
+    },
+    {
+      "id": "fadhel-al-sawad-q4118178",
+      "name": "Fadhel Al Sawad",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60565489"
+    },
+    {
+      "id": "mamdouh-abbas-al-saleh-q4118178",
+      "name": "Mamdouh Abbas Al Saleh",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60565413"
+    },
+    {
+      "id": "masouma-abdelrahim-q4118178",
+      "name": "Masouma Abdelrahim",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60565427"
+    },
+    {
+      "id": "hamad-al-kooheji-q4118178",
+      "name": "Hamad Al Kooheji",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60565496"
+    },
+    {
+      "id": "ibrahim-al-nafei-q4118178",
+      "name": "Ibrahim Al-Nafei",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60565502"
+    },
+    {
+      "id": "hisham-al-asheeri-q4118178",
+      "name": "Hisham Al Asheeri",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60565509"
+    },
+    {
+      "id": "sawsan-kamal-q4118178",
+      "name": "Sawsan Kamal",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60565406"
+    },
+    {
+      "id": "khalid-saleh-buanaq-q4118178",
+      "name": "Khalid Saleh Buanaq",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60565506"
+    },
+    {
+      "id": "mohammed-isa-al-abbasi-q4118178",
+      "name": "Mohammed Isa Al Abbasi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60565504"
+    },
+    {
+      "id": "zainab-abdul-amir-q4118178",
+      "name": "Zainab Abdul Amir",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60565430"
+    },
+    {
+      "id": "kaltham-al-hayiki-q4118178",
+      "name": "Kaltham Al-Hayiki",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60914268"
+    },
+    {
+      "id": "yousef-al-thawadi-q4118178",
+      "name": "Yousef Al-Thawadi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60914264"
+    },
+    {
+      "id": "ahmed-al-dimistani-q4118178",
+      "name": "Ahmed Al-Dimistani",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60914402"
+    },
+    {
+      "id": "basim-al-malki-q4118178",
+      "name": "Basim Al-Malki",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60914412"
+    },
+    {
+      "id": "yousif-zainal-q4118178",
+      "name": "Yousif Zainal",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60914409"
+    },
+    {
+      "id": "ahmed-mohammed-al-amer-q4118178",
+      "name": "Ahmed Mohammed Al Amer",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60914546"
+    },
+    {
+      "id": "ali-bin-majid-al-naimi-q4118178",
+      "name": "Ali bin Majid Al-Naimi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60914577"
+    },
+    {
+      "id": "bader-al-dosari-q4118178",
+      "name": "Bader Al-Dosari",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60914585"
+    },
+    {
+      "id": "mahmood-al-bahrani-q4118178",
+      "name": "Mahmood Al Bahrani",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60914520"
+    },
+    {
+      "id": "mohammed-al-emadi-q4118178",
+      "name": "Mohammed Al Emadi",
+      "sitting": true,
+      "party_id": "al-menbar-islamic-society",
+      "caucus": "Al-Menbar Islamic Society",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20422627"
+    },
+    {
+      "id": "abduljalil-khalil-q4118178",
+      "name": "Abduljalil Khalil",
+      "sitting": true,
+      "party_id": "al-wefaq",
+      "caucus": "Al Wefaq",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16194140"
+    },
+    {
+      "id": "ahmed-hussain-ebrahim-abbas-q4118178",
+      "name": "Ahmed Hussain Ebrahim Abbas",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q117829462"
+    },
+    {
+      "id": "ahmed-bin-salman-al-musalam-q4118178",
+      "name": "Ahmed bin Salman Al-Musalam",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Council of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q117829498"
+    },
+    {
+      "id": "ali-bin-mohammed-al-rumaihi-q1334620",
+      "name": "Ali bin Mohammed Al Rumaihi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Consultative Council of Bahrain",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q98804586"
+    },
+    {
+      "id": "khalifa-al-dhahrani-q1334620",
+      "name": "Khalifa Al Dhahrani",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Consultative Council of Bahrain",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12210768"
+    },
+    {
+      "id": "nada-haffadh-q1334620",
+      "name": "Nada Haffadh",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Consultative Council of Bahrain",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16190522"
+    },
+    {
+      "id": "alees-samaan-q1334620",
+      "name": "Alees Samaan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Consultative Council of Bahrain",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4714362"
+    },
+    {
+      "id": "ahmed-al-bahar-q1334620",
+      "name": "Ahmed Al-Bahar",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Consultative Council of Bahrain",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20385097"
+    },
+    {
+      "id": "ahmed-behzad-bahrain-q1334620",
+      "name": "Ahmed Behzad (Bahrain)",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Consultative Council of Bahrain",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20385660"
+    },
+    {
+      "id": "jehad-alfadhel-q1334620",
+      "name": "Jehad Alfadhel",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Consultative Council of Bahrain",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20387315"
+    },
+    {
+      "id": "ebrahim-bashmi-q1334620",
+      "name": "Ebrahim Bashmi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Consultative Council of Bahrain",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20392500"
+    },
+    {
+      "id": "faisal-al-mousawi-q1334620",
+      "name": "Faisal Al-Mousawi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Consultative Council of Bahrain",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20411945"
+    },
+    {
+      "id": "abdulla-alaali-q1334620",
+      "name": "Abdulla Alaali",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Consultative Council of Bahrain",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20413194"
+    },
+    {
+      "id": "dalal-zayed-q1334620",
+      "name": "Dalal Zayed",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Consultative Council of Bahrain",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20415875"
+    },
+    {
+      "id": "ali-saleh-al-saleh-q1334620",
+      "name": "Ali Saleh Al-Saleh",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Consultative Council of Bahrain",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20418017"
+    },
+    {
+      "id": "salah-ali-q1334620",
+      "name": "Salah Ali",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Consultative Council of Bahrain",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20420786"
+    },
+    {
+      "id": "nancy-khedouri-q1334620",
+      "name": "Nancy Khedouri",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Consultative Council of Bahrain",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20423780"
+    },
+    {
+      "id": "mohammed-hasan-kamaluddin-q1334620",
+      "name": "Mohammed Hasan Kamaluddin",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Consultative Council of Bahrain",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6893124"
+    },
+    {
+      "id": "sameera-bint-ibrahim-rajab-q1334620",
+      "name": "Sameera bint Ibrahim Rajab",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Consultative Council of Bahrain",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q43252897"
+    },
+    {
+      "id": "ahmed-salman-kamal-q1334620",
+      "name": "Ahmed Salman Kamal",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Consultative Council of Bahrain",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q68167940"
+    },
+    {
+      "id": "hala-ramzy-fayez-q1334620",
+      "name": "Hala Ramzy Fayez",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Consultative Council of Bahrain",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116982519"
     }
   ]
 }

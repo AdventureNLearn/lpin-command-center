@@ -1,0 +1,59 @@
+{
+  "iso2": "cz",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q213",
+  "bodies": [
+    {
+      "qid": "Q2347172",
+      "label": "Parliament of the Czech Republic",
+      "seats": 0,
+      "web": "",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q320265",
+      "label": "Chamber of Deputies of the Parliament of the Czech Republic",
+      "seats": 200,
+      "web": "https://www.psp.cz/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q389423",
+      "label": "Senate of the Czech Republic",
+      "seats": 81,
+      "web": "http://www.senat.cz/",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Chamber of Deputies of the Parliament of the Czech Republic",
+    "Senate of the Czech Republic"
+  ],
+  "seats": 281,
+  "items": [
+    {
+      "id": "Q2347172",
+      "name": "Parliament of the Czech Republic",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q2347172"
+    },
+    {
+      "id": "Q320265",
+      "name": "Chamber of Deputies of the Parliament of the Czech Republic",
+      "kind": "chamber",
+      "seats": 200,
+      "url": "https://www.psp.cz/"
+    },
+    {
+      "id": "Q389423",
+      "name": "Senate of the Czech Republic",
+      "kind": "chamber",
+      "seats": 81,
+      "url": "http://www.senat.cz/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

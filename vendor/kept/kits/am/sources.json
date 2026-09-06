@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1337463"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1337463",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1337463",
+      "label": "National Assembly of Armenia",
+      "url": "https://parliament.am",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1337463",
+      "label": "National Assembly of Armenia (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1337463",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q17277248",
+      "label": "member of the National Assembly of Armenia (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q17277248",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

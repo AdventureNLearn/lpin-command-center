@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1512579"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1512579",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1512579",
+      "label": "National Assembly",
+      "url": "https://parliament.gov.gy/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1512579",
+      "label": "National Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1512579",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q18654760",
+      "label": "Member of the National Assembly  of Guyana (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q18654760",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

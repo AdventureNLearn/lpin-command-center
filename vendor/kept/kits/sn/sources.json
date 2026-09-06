@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1853640"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1853640",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1853640",
+      "label": "National Assembly",
+      "url": "http://www.assemblee-nationale.sn",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1853640",
+      "label": "National Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1853640",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q20757571",
+      "label": "Member of the National Assembly of Senegal (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q20757571",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

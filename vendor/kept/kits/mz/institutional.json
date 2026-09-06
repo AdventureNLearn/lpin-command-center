@@ -1,0 +1,74 @@
+{
+  "iso2": "mz",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q1029",
+  "bodies": [
+    {
+      "qid": "Q1848595",
+      "label": "Assembly of the Republic",
+      "seats": 250,
+      "web": "https://www.parlamento.mz/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q118406266",
+      "label": "FRELIMO parliamentary group",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q118406620",
+      "label": "RENAMO parliamentary group",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q118406817",
+      "label": "MDM parliamentary group",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "FRELIMO parliamentary group",
+    "RENAMO parliamentary group",
+    "MDM parliamentary group"
+  ],
+  "seats": 250,
+  "items": [
+    {
+      "id": "Q1848595",
+      "name": "Assembly of the Republic",
+      "kind": "parliament",
+      "seats": 250,
+      "url": "https://www.parlamento.mz/"
+    },
+    {
+      "id": "Q118406266",
+      "name": "FRELIMO parliamentary group",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q118406266"
+    },
+    {
+      "id": "Q118406620",
+      "name": "RENAMO parliamentary group",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q118406620"
+    },
+    {
+      "id": "Q118406817",
+      "name": "MDM parliamentary group",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q118406817"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

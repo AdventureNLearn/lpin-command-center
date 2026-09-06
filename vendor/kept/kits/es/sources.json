@@ -2,352 +2,54 @@
   "iso2": "es",
   "items": [
     {
+      "id": "wikidata",
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q219692",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q855343",
+      "label": "Senate of Spain",
+      "url": "http://www.senado.es",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q855343",
+      "label": "Senate of Spain (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q855343",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q219692",
+      "label": "Cortes Generales",
+      "url": "http://www.cortesgenerales.es/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q219692",
+      "label": "Cortes Generales (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q219692",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q539149",
+      "label": "Congress of Deputies",
       "url": "https://www.congreso.es/",
       "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
+      "basis": "Evidence"
     },
     {
-      "url": "https://www.congreso.es/opendata/diputados",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/opendata/votaciones",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/opendata/organos",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/comisiones",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.juntaelectoralcentral.es/",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.juntaelectoralcentral.es/cs/jec/elecciones",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.juntaelectoralcentral.es/cs/jec/documentos/GENERALES_2023_TCuentas_Resoluci%C3%B3n.pdf",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.juntaelectoralcentral.es/cs/jec/documentos/generales-2023-fiscalizacion.pdf",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.tcu.es/",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://tcu.es/es/Comunicacion-y-Espacio-Divulgativo/El-Tribunal-de-Cuentas-considera-justificados-gastos-por-valor-de-58-millones-de-euros-realizados-por-los-partidos-politicos-para-financiar-la-campana-de-las-elecciones-generales-de-2023/",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.cuentaspartidospoliticos.es/",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/opendata/votaciones",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://datos.congreso.es/",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=23%2F07%2F2026",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=14%2F07%2F2026",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/opendata/intervenciones",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/webpublica/opendata/intervenciones/IntervencionesCronologicamente__20260820050115.json",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=25%2F06%2F2026",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=23%2F06%2F2026",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=18%2F06%2F2026",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=16%2F06%2F2026",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=11%2F06%2F2026",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=28%2F05%2F2026",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=26%2F05%2F2026",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=20%2F05%2F2026",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/busqueda-de-diputados",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=searchDiputados&p_p_cacheability=cacheLevelPage",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/busqueda-de-intervenciones?p_p_id=intervenciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_intervenciones_mode=mostrarTextoIntegro&_intervenciones_legislatura=XV&_intervenciones_id_texto=(DSCD-15-PL-4.CODI.)",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/busqueda-de-intervenciones?p_p_id=intervenciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_intervenciones_mode=mostrarTextoIntegro&_intervenciones_legislatura=XV&_intervenciones_id_texto=(DSCD-15-PL-13.CODI.)",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/busqueda-de-intervenciones?p_p_id=intervenciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_intervenciones_mode=mostrarTextoIntegro&_intervenciones_legislatura=XV&_intervenciones_id_texto=(DSCD-15-PL-198.CODI.)",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=19%2F05%2F2026",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=30%2F04%2F2026",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=28%2F04%2F2026",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=22%2F04%2F2026",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=21%2F04%2F2026",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/busqueda-de-intervenciones?p_p_id=intervenciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_intervenciones_mode=mostrarTextoIntegro&_intervenciones_legislatura=XV&_intervenciones_id_texto=(DSCD-15-PL-48.CODI.)",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=15%2F04%2F2026",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=14%2F04%2F2026",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=26%2F03%2F2026",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/busqueda-de-intervenciones?p_p_id=intervenciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_intervenciones_mode=mostrarTextoIntegro&_intervenciones_legislatura=XV&_intervenciones_id_texto=(DSCD-15-PL-63.CODI.)",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/busqueda-de-intervenciones?p_p_id=intervenciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_intervenciones_mode=mostrarTextoIntegro&_intervenciones_legislatura=XV&_intervenciones_id_texto=(DSCD-15-PL-68.CODI.)",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=24%2F03%2F2026",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=18%2F03%2F2026",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=17%2F03%2F2026",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=26%2F02%2F2026",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=24%2F02%2F2026",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=18%2F02%2F2026",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=17%2F02%2F2026",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=12%2F02%2F2026",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=10%2F02%2F2026",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=27%2F01%2F2026",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=11%2F12%2F2025",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=09%2F12%2F2025",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=27%2F11%2F2025",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=19%2F11%2F2025",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=18%2F11%2F2025",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=13%2F11%2F2025",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
+      "id": "wd-q539149",
+      "label": "Congress of Deputies (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q539149",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

@@ -3,82 +3,1530 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q7138930",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 6,
+  "incomplete": true,
+  "claimed_seats": 160,
+  "chambers": [
+    "National Assembly",
+    "Parliament of Burundi",
+    "Senate"
+  ],
   "items": [
     {
-      "id": "catherine-mabobori",
-      "name": "Catherine Mabobori",
+      "id": "helene-kandava-q720003",
+      "name": "Helene Kandava",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Burundi",
+      "constituency_label": "Château Malou",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q134414346"
+      "roster_url": "http://www.wikidata.org/entity/Q135580858"
     },
     {
-      "id": "alice-nzomukunda",
-      "name": "Alice Nzomukunda",
+      "id": "souavis-habonarugira-q720003",
+      "name": "Souavis Habonarugira",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Burundi",
+      "constituency_label": "Château Malou",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q2836630"
+      "roster_url": "http://www.wikidata.org/entity/Q135580859"
     },
     {
-      "id": "frederic-bamvuginyumvira",
-      "name": "Frédéric Bamvuginyumvira",
+      "id": "oscar-ndizeye-q720003",
+      "name": "Oscar Ndizeye",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Burundi",
+      "constituency_label": "Château Malou",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q3089596"
+      "roster_url": "http://www.wikidata.org/entity/Q135580856"
     },
     {
-      "id": "therence-sinunguruza",
+      "id": "denis-karera-q720003",
+      "name": "Denis Karera",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Château Malou",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580857"
+    },
+    {
+      "id": "jacqueline-nizigama-q720003",
+      "name": "Jacqueline Nizigama",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Château Malou",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580862"
+    },
+    {
+      "id": "herman-habonarugira-q720003",
+      "name": "Herman Habonarugira",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Château Malou",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580860"
+    },
+    {
+      "id": "nicolas-barajingwa-q720003",
+      "name": "Nicolas Barajingwa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Château Malou",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580861"
+    },
+    {
+      "id": "monfort-bigirimana-q720003",
+      "name": "Monfort Bigirimana",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Château Malou",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580863"
+    },
+    {
+      "id": "pascaline-ndagijimana-q720003",
+      "name": "Pascaline Ndagijimana",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Château Malou",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580866"
+    },
+    {
+      "id": "valence-kaneza-q720003",
+      "name": "Valence Kaneza",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Château Malou",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580867"
+    },
+    {
+      "id": "joachin-barutwanayo-q720003",
+      "name": "Joachin Barutwanayo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Château Malou",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580864"
+    },
+    {
+      "id": "amelie-ninganza-q720003",
+      "name": "Amelie Ninganza",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Château Malou",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580865"
+    },
+    {
+      "id": "amedee-rucaragi-q720003",
+      "name": "Amedee Rucaragi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Château Malou",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580870"
+    },
+    {
+      "id": "emmanuel-ndorimana-q720003",
+      "name": "Emmanuel Ndorimana",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Château Malou",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580868"
+    },
+    {
+      "id": "mediatrice-manirakiza-q720003",
+      "name": "Mediatrice Manirakiza",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Château Malou",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580871"
+    },
+    {
+      "id": "jeanine-habarugira-q720003",
+      "name": "Jeanine Habarugira",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Château Malou",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580869"
+    },
+    {
+      "id": "ezechiel-nibigira-q720003",
+      "name": "Ezechiel Nibigira",
+      "sitting": true,
+      "party_id": "national-council-for-the-defense-of-democracy-forces-for-the-defense-of-democracy",
+      "caucus": "National Council for the Defense of Democracy–Forces for the Defense of Democracy",
+      "constituency_label": "Bujumbura",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5423116"
+    },
+    {
+      "id": "therence-sinunguruza-q720003",
       "name": "Therence Sinunguruza",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "union-for-national-progress",
+      "caucus": "Union for National Progress",
       "constituency_label": "",
-      "chamber": "Parliament of Burundi",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q3527314"
     },
     {
-      "id": "manasse-nzobonimpa",
+      "id": "jean-marie-muhirwa-q720003",
+      "name": "Jean-Marie Muhirwa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q126683901"
+    },
+    {
+      "id": "alice-nzomukunda-q720003",
+      "name": "Alice Nzomukunda",
+      "sitting": true,
+      "party_id": "national-council-for-the-defense-of-democracy-forces-for-the-defense-of-democracy",
+      "caucus": "National Council for the Defense of Democracy–Forces for the Defense of Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2836630"
+    },
+    {
+      "id": "patricie-nduwimana-q720003",
+      "name": "Patricie Nduwimana",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q134414096"
+    },
+    {
+      "id": "catherine-mabobori-q720003",
+      "name": "Catherine Mabobori",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q134414346"
+    },
+    {
+      "id": "martin-nivyabandi-q720003",
+      "name": "Martin Nivyabandi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q134712792"
+    },
+    {
+      "id": "manasse-nzobonimpa-q720003",
       "name": "Manasse Nzobonimpa",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Burundi",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q19904605"
     },
     {
-      "id": "emmanuel-niyonkuru",
-      "name": "Emmanuel Niyonkuru",
+      "id": "zenon-ndaruvukanye-q720003",
+      "name": "Zenon Ndaruvukanye",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Bujumbura",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580775"
+    },
+    {
+      "id": "alice-niyitunga-q720003",
+      "name": "Alice Niyitunga",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Bujumbura",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580776"
+    },
+    {
+      "id": "olivier-suguru-q720003",
+      "name": "Olivier Suguru",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Bujumbura",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580777"
+    },
+    {
+      "id": "sylvie-nizigama-q720003",
+      "name": "Sylvie Nizigama",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Bujumbura",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580782"
+    },
+    {
+      "id": "adeline-ingabire-q720003",
+      "name": "Adeline Ingabire",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Bujumbura",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580780"
+    },
+    {
+      "id": "doriane-imunezero-q720003",
+      "name": "Doriane Imunezero",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Bujumbura",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580783"
+    },
+    {
+      "id": "venerande-nahimana-q720003",
+      "name": "Venerande Nahimana",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Bujumbura",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580786"
+    },
+    {
+      "id": "renovat-mbazumutima-q720003",
+      "name": "Renovat Mbazumutima",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Bujumbura",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580784"
+    },
+    {
+      "id": "chrysologue-mutwa-q720003",
+      "name": "Chrysologue Mutwa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Bujumbura",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580787"
+    },
+    {
+      "id": "juma-saidi-q720003",
+      "name": "Juma Saidi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Bujumbura",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580785"
+    },
+    {
+      "id": "chantal-barampama-q720003",
+      "name": "Chantal Barampama",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Bujumbura",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580790"
+    },
+    {
+      "id": "salvator-ntahobakinira-q720003",
+      "name": "Salvator Ntahobakinira",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Bujumbura",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580788"
+    },
+    {
+      "id": "jerome-bahati-q720003",
+      "name": "Jerome Bahati",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Bujumbura",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580791"
+    },
+    {
+      "id": "justin-niyobuhungiro-q720003",
+      "name": "Justin Niyobuhungiro",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Bujumbura",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580789"
+    },
+    {
+      "id": "julienne-ndayihaya-q720003",
+      "name": "Julienne Ndayihaya",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Bujumbura",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580794"
+    },
+    {
+      "id": "gerard-bikebako-q720003",
+      "name": "Gerard Bikebako",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Bujumbura",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580795"
+    },
+    {
+      "id": "felicite-iraharira-q720003",
+      "name": "Felicite Iraharira",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Bujumbura",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580792"
+    },
+    {
+      "id": "evelyne-nduwayezu-q720003",
+      "name": "Evelyne Nduwayezu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Bujumbura",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580793"
+    },
+    {
+      "id": "floribert-nzambimana-q720003",
+      "name": "Floribert Nzambimana",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Bujumbura",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580798"
+    },
+    {
+      "id": "josee-kwizera-q720003",
+      "name": "Josee Kwizera",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Bujumbura",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580796"
+    },
+    {
+      "id": "claude-badugaritse-q720003",
+      "name": "Claude Badugaritse",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Bujumbura",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580799"
+    },
+    {
+      "id": "dieudonne-bizimana-q720003",
+      "name": "Dieudonne Bizimana",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Bujumbura",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580797"
+    },
+    {
+      "id": "jeanne-izomporera-q720003",
+      "name": "Jeanne Izomporera",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Bujumbura",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580800"
+    },
+    {
+      "id": "chantal-niyonzima-q720003",
+      "name": "Chantal Niyonzima",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Bujumbura",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580801"
+    },
+    {
+      "id": "jean-ciza-q720003",
+      "name": "Jean Ciza",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Burundi",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q25431475"
+    },
+    {
+      "id": "emmanuel-ndayizeye-q720003",
+      "name": "Emmanuel Ndayizeye",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580823"
+    },
+    {
+      "id": "charles-ndizeye-q720003",
+      "name": "Charles NDIZEYE",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135465574"
+    },
+    {
+      "id": "fabien-haramategeko-q720003",
+      "name": "Fabien HARAMATEGEKO",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135465731"
+    },
+    {
+      "id": "pacifique-ndihokubwayo-q720003",
+      "name": "Pacifique NDIHOKUBWAYO",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135466233"
+    },
+    {
+      "id": "gervais-abayeho-q720003",
+      "name": "Gervais Abayeho",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135487835"
+    },
+    {
+      "id": "boussessia-nkezimana-q720003",
+      "name": "Boussessia Nkezimana",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135559172"
+    },
+    {
+      "id": "ernest-niyokindi-q720003",
+      "name": "Ernest Niyokindi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580743"
+    },
+    {
+      "id": "joselyne-baranyanka-q720003",
+      "name": "Joselyne Baranyanka",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580762"
+    },
+    {
+      "id": "ruben-ntamavyariro-q720003",
+      "name": "Ruben Ntamavyariro",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580763"
+    },
+    {
+      "id": "deogratias-intunguka-q720003",
+      "name": "Deogratias Intunguka",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580766"
+    },
+    {
+      "id": "ange-denise-kamere-q720003",
+      "name": "Ange Denise Kamere",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580767"
+    },
+    {
+      "id": "boniface-banyiyezako-q720003",
+      "name": "Boniface Banyiyezako",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580764"
+    },
+    {
+      "id": "remy-ndarufatiye-q720003",
+      "name": "Remy Ndarufatiye",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580765"
+    },
+    {
+      "id": "redempteur-gahitira-q720003",
+      "name": "Redempteur Gahitira",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580770"
+    },
+    {
+      "id": "ancile-nibigira-q720003",
+      "name": "Ancile Nibigira",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580768"
+    },
+    {
+      "id": "fulgence-kwizera-q720003",
+      "name": "Fulgence Kwizera",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580771"
+    },
+    {
+      "id": "shabani-nimubona-q720003",
+      "name": "Shabani Nimubona",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580769"
+    },
+    {
+      "id": "georgine-mbonimpa-q720003",
+      "name": "Georgine Mbonimpa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580774"
+    },
+    {
+      "id": "nadia-niyonkuru-q720003",
+      "name": "Nadia Niyonkuru",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580772"
+    },
+    {
+      "id": "pascal-nitunga-q720003",
+      "name": "Pascal Nitunga",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580773"
+    },
+    {
+      "id": "ernest-ciza-q720003",
+      "name": "Ernest Ciza",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580802"
+    },
+    {
+      "id": "renovat-hakizimana-q720003",
+      "name": "Renovat Hakizimana",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580803"
+    },
+    {
+      "id": "fabrice-nkurunziza-q720003",
+      "name": "Fabrice Nkurunziza",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580806"
+    },
+    {
+      "id": "adda-nsengiyumva-q720003",
+      "name": "Adda Nsengiyumva",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580807"
+    },
+    {
+      "id": "esperance-nininahazwe-q720003",
+      "name": "Esperance Nininahazwe",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580804"
+    },
+    {
+      "id": "revocate-nibigira-q720003",
+      "name": "Revocate Nibigira",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580810"
+    },
+    {
+      "id": "donatien-manirakiza-q720003",
+      "name": "Donatien Manirakiza",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580811"
+    },
+    {
+      "id": "dieudonne-iradukunda-q720003",
+      "name": "Dieudonne Iradukunda",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580808"
+    },
+    {
+      "id": "celestin-niyonsaba-q720003",
+      "name": "Celestin Niyonsaba",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580809"
+    },
+    {
+      "id": "eric-nshimirimana-q720003",
+      "name": "Eric Nshimirimana",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580814"
+    },
+    {
+      "id": "odette-ntibesha-q720003",
+      "name": "Odette Ntibesha",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580815"
+    },
+    {
+      "id": "zachee-misago-q720003",
+      "name": "Zachee Misago",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580812"
+    },
+    {
+      "id": "petronie-bucumi-q720003",
+      "name": "Petronie Bucumi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580818"
+    },
+    {
+      "id": "donavine-niyonsaba-q720003",
+      "name": "Donavine Niyonsaba",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580816"
+    },
+    {
+      "id": "nestor-irambona-q720003",
+      "name": "Nestor Irambona",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580817"
+    },
+    {
+      "id": "tantine-ncutinamagara-q720003",
+      "name": "Tantine Ncutinamagara",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580820"
+    },
+    {
+      "id": "ndutura-nibitanga-q720003",
+      "name": "Ndutura Nibitanga",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580821"
+    },
+    {
+      "id": "mediatrice-kankuyo-q720003",
+      "name": "Mediatrice Kankuyo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580824"
+    },
+    {
+      "id": "godefilde-nduwarugira-q720003",
+      "name": "Godefilde Nduwarugira",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580826"
+    },
+    {
+      "id": "jean-claude-mbarushimana-q720003",
+      "name": "Jean-Claude Mbarushimana",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580830"
+    },
+    {
+      "id": "sandrine-ikitonze-q720003",
+      "name": "Sandrine Ikitonze",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580829"
+    },
+    {
+      "id": "sylvestre-ngendakumana-q720003",
+      "name": "Sylvestre Ngendakumana",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580834"
+    },
+    {
+      "id": "marie-odette-hakizimana-q720003",
+      "name": "Marie Odette Hakizimana",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580832"
+    },
+    {
+      "id": "nestor-musafiri-q720003",
+      "name": "Nestor Musafiri",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580833"
+    },
+    {
+      "id": "vincent-ndagijimana-q720003",
+      "name": "Vincent Ndagijimana",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580838"
+    },
+    {
+      "id": "francine-dusabe-q720003",
+      "name": "Francine Dusabe",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580839"
+    },
+    {
+      "id": "leonidas-ndaruzaniye-q720003",
+      "name": "Leonidas Ndaruzaniye",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580836"
+    },
+    {
+      "id": "venant-nduwimana-q720003",
+      "name": "Venant Nduwimana",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580842"
+    },
+    {
+      "id": "beline-uwimana-q720003",
+      "name": "Beline Uwimana",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580840"
+    },
+    {
+      "id": "dieudonne-niyonsavye-q720003",
+      "name": "Dieudonne Niyonsavye",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580843"
+    },
+    {
+      "id": "epipode-baranyikwa-q720003",
+      "name": "Epipode Baranyikwa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580846"
+    },
+    {
+      "id": "jeannette-ndayishimiye-q720003",
+      "name": "Jeannette Ndayishimiye",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580844"
+    },
+    {
+      "id": "phocas-bigirimana-q720003",
+      "name": "Phocas Bigirimana",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580845"
+    },
+    {
+      "id": "epipode-kamana-q720003",
+      "name": "Epipode Kamana",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580848"
+    },
+    {
+      "id": "francoise-nivyimana-q720003",
+      "name": "Françoise Nivyimana",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580819"
+    },
+    {
+      "id": "come-manirakiza-q720003",
+      "name": "Come Manirakiza",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Bujumbura",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q134712585"
+    },
+    {
+      "id": "frederic-bamvuginyumvira-q720003",
+      "name": "Frédéric Bamvuginyumvira",
+      "sitting": true,
+      "party_id": "front-for-democracy-in-burundi",
+      "caucus": "Front for Democracy in Burundi",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3089596"
+    },
+    {
+      "id": "venant-manirambona-q720003",
+      "name": "Venant Manirambona",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Château Malou",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580849"
+    },
+    {
+      "id": "innocent-niyonkuru-q720003",
+      "name": "Innocent Niyonkuru",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Château Malou",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580854"
+    },
+    {
+      "id": "beatrice-bukuru-q720003",
+      "name": "Beatrice Bukuru",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Château Malou",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580855"
+    },
+    {
+      "id": "devote-nizigiyimana-q720003",
+      "name": "Devote Nizigiyimana",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Château Malou",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580852"
+    },
+    {
+      "id": "louis-kamwenubusa-q720003",
+      "name": "Louis Kamwenubusa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Château Malou",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135580853"
+    },
+    {
+      "id": "jean-marie-nibirantije-q720003",
+      "name": "Jean-Marie Nibirantije",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Château Malou",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123701217"
+    },
+    {
+      "id": "alain-mutabazi-q720003",
+      "name": "Alain Mutabazi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107135910"
+    },
+    {
+      "id": "denise-ndadaye-q720003",
+      "name": "Dénise Ndadaye",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Château Malou",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q134413690"
+    },
+    {
+      "id": "gelase-ndabirabe-q720003",
+      "name": "Gelase Ndabirabe",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q113847468"
+    },
+    {
+      "id": "martin-niteretse-q720003",
+      "name": "Martin Niteretse",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q114297339"
+    },
+    {
+      "id": "emmanuel-niyonkuru-q3510838",
+      "name": "Emmanuel Niyonkuru",
+      "sitting": true,
+      "party_id": "national-council-for-the-defense-of-democracy-forces-for-the-defense-of-democracy",
+      "caucus": "National Council for the Defense of Democracy–Forces for the Defense of Democracy",
+      "constituency_label": "",
+      "chamber": "Senate",
       "lang": [
         "en"
       ],

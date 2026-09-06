@@ -1,7 +1,44 @@
 {
   "iso2": "ua",
   "kit": "institutional",
-  "items": [],
   "incomplete": true,
-  "note": ":8103 claimed institutional_kits = 0."
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q212",
+  "bodies": [
+    {
+      "qid": "Q12132454",
+      "label": "People's Deputy of Ukraine",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q176296",
+      "label": "Verkhovna Rada",
+      "seats": 450,
+      "web": "https://rada.gov.ua",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "People's Deputy of Ukraine"
+  ],
+  "seats": 450,
+  "items": [
+    {
+      "id": "Q12132454",
+      "name": "People's Deputy of Ukraine",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q12132454"
+    },
+    {
+      "id": "Q176296",
+      "name": "Verkhovna Rada",
+      "kind": "parliament",
+      "seats": 450,
+      "url": "https://rada.gov.ua"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

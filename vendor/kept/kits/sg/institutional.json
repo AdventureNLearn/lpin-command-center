@@ -1,0 +1,44 @@
+{
+  "iso2": "sg",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q334",
+  "bodies": [
+    {
+      "qid": "Q21294917",
+      "label": "Member of the Parliament of Singapore",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1517231",
+      "label": "Parliament of Singapore",
+      "seats": 99,
+      "web": "https://www.parliament.gov.sg/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Member of the Parliament of Singapore"
+  ],
+  "seats": 99,
+  "items": [
+    {
+      "id": "Q21294917",
+      "name": "Member of the Parliament of Singapore",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q21294917"
+    },
+    {
+      "id": "Q1517231",
+      "name": "Parliament of Singapore",
+      "kind": "parliament",
+      "seats": 99,
+      "url": "https://www.parliament.gov.sg/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

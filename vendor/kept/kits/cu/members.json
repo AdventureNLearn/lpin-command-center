@@ -3,11 +3,28 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q720753",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 49,
+  "incomplete": true,
+  "claimed_seats": 470,
+  "chambers": [
+    "National Assembly of People's Power",
+    "Q21272829"
+  ],
   "items": [
     {
-      "id": "santiago-alvarez",
+      "id": "jose-ramon-balaguer-q720753",
+      "name": "José Ramón Balaguer",
+      "sitting": true,
+      "party_id": "communist-party-of-cuba",
+      "caucus": "Communist Party of Cuba",
+      "constituency_label": "",
+      "chamber": "National Assembly of People's Power",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1709592"
+    },
+    {
+      "id": "santiago-alvarez-q720753",
       "name": "Santiago Álvarez",
       "sitting": true,
       "party_id": "unknown",
@@ -20,7 +37,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q1484780"
     },
     {
-      "id": "guillermo-garcia",
+      "id": "abelardo-colome-ibarra-q720753",
+      "name": "Abelardo Colomé Ibarra",
+      "sitting": true,
+      "party_id": "communist-party-of-cuba",
+      "caucus": "Communist Party of Cuba",
+      "constituency_label": "",
+      "chamber": "National Assembly of People's Power",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q318528"
+    },
+    {
+      "id": "isidoro-malmierca-q720753",
+      "name": "Isidoro Malmierca",
+      "sitting": true,
+      "party_id": "popular-socialist-party",
+      "caucus": "Popular Socialist Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of People's Power",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q956466"
+    },
+    {
+      "id": "guillermo-garcia-q720753",
       "name": "Guillermo García",
       "sitting": true,
       "party_id": "unknown",
@@ -33,7 +76,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q1472485"
     },
     {
-      "id": "roberto-fernandez-retamar",
+      "id": "jose-ramon-machado-ventura-q720753",
+      "name": "José Ramón Machado Ventura",
+      "sitting": true,
+      "party_id": "communist-party-of-cuba",
+      "caucus": "Communist Party of Cuba",
+      "constituency_label": "",
+      "chamber": "National Assembly of People's Power",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1208395"
+    },
+    {
+      "id": "roberto-fernandez-retamar-q720753",
       "name": "Roberto Fernández Retamar",
       "sitting": true,
       "party_id": "unknown",
@@ -46,24 +102,11 @@
       "roster_url": "http://www.wikidata.org/entity/Q1067549"
     },
     {
-      "id": "jose-ramon-machado-ventura",
-      "name": "José Ramón Machado Ventura",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of People's Power",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1208395"
-    },
-    {
-      "id": "esteban-lazo-hernandez",
+      "id": "esteban-lazo-hernandez-q720753",
       "name": "Esteban Lazo Hernández",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "communist-party-of-cuba",
+      "caucus": "Communist Party of Cuba",
       "constituency_label": "",
       "chamber": "National Assembly of People's Power",
       "lang": [
@@ -72,20 +115,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q1369810"
     },
     {
-      "id": "julio-casas-regueiro",
-      "name": "Julio Casas Regueiro",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of People's Power",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1617861"
-    },
-    {
-      "id": "harry-pombo-villegas",
+      "id": "harry-pombo-villegas-q720753",
       "name": "Harry \"Pombo\" Villegas",
       "sitting": true,
       "party_id": "unknown",
@@ -98,20 +128,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q1644513"
     },
     {
-      "id": "roberto-robaina",
-      "name": "Roberto Robaina",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of People's Power",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1702623"
-    },
-    {
-      "id": "julio-martinez-ramirez",
+      "id": "julio-martinez-ramirez-q720753",
       "name": "Julio Martínez Ramírez",
       "sitting": true,
       "party_id": "unknown",
@@ -124,7 +141,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q1712374"
     },
     {
-      "id": "mariela-castro-espin",
+      "id": "mariela-castro-espin-q720753",
       "name": "Mariela Castro Espín",
       "sitting": true,
       "party_id": "unknown",
@@ -137,20 +154,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q253736"
     },
     {
-      "id": "abelardo-colome-ibarra",
-      "name": "Abelardo Colomé Ibarra",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of People's Power",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q318528"
-    },
-    {
-      "id": "alvaro-lopez-miera",
+      "id": "alvaro-lopez-miera-q720753",
       "name": "Álvaro López Miera",
       "sitting": true,
       "party_id": "unknown",
@@ -163,7 +167,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q2886425"
     },
     {
-      "id": "arnaldo-tamayo-mendez",
+      "id": "arnaldo-tamayo-mendez-q720753",
       "name": "Arnaldo Tamayo Méndez",
       "sitting": true,
       "party_id": "unknown",
@@ -176,7 +180,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q362902"
     },
     {
-      "id": "juan-contino-aslan",
+      "id": "carlos-fernandez-gondin-q720753",
+      "name": "Carlos Fernández Gondín",
+      "sitting": true,
+      "party_id": "communist-party-of-cuba",
+      "caucus": "Communist Party of Cuba",
+      "constituency_label": "",
+      "chamber": "National Assembly of People's Power",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5750320"
+    },
+    {
+      "id": "juan-contino-aslan-q720753",
       "name": "Juan Contino Aslán",
       "sitting": true,
       "party_id": "unknown",
@@ -189,7 +206,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q3187628"
     },
     {
-      "id": "liaena-hernandez-martinez",
+      "id": "liaena-hernandez-martinez-q720753",
       "name": "Liaena Hernández Martínez",
       "sitting": true,
       "party_id": "unknown",
@@ -202,7 +219,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q3237606"
     },
     {
-      "id": "silvio-rodriguez",
+      "id": "silvio-rodriguez-q720753",
       "name": "Silvio Rodríguez",
       "sitting": true,
       "party_id": "unknown",
@@ -215,20 +232,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q377956"
     },
     {
-      "id": "leopoldo-cintra-frias",
-      "name": "Leopoldo Cintra Frías",
+      "id": "jose-ramon-fernandez-q720753",
+      "name": "José Ramón Fernández",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "communist-party-of-cuba",
+      "caucus": "Communist Party of Cuba",
       "constituency_label": "",
       "chamber": "National Assembly of People's Power",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q3434491"
+      "roster_url": "http://www.wikidata.org/entity/Q959399"
     },
     {
-      "id": "elian-gonzalez-brotons",
+      "id": "elian-gonzalez-brotons-q720753",
       "name": "Elián González Brotons",
       "sitting": true,
       "party_id": "unknown",
@@ -241,7 +258,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q551503"
     },
     {
-      "id": "jose-luis-rodriguez-garcia",
+      "id": "jose-luis-rodriguez-garcia-q720753",
       "name": "José Luis Rodríguez García",
       "sitting": true,
       "party_id": "unknown",
@@ -254,7 +271,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q5646406"
     },
     {
-      "id": "miguel-barnet",
+      "id": "miguel-barnet-q720753",
       "name": "Miguel Barnet",
       "sitting": true,
       "party_id": "unknown",
@@ -267,7 +284,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q573296"
     },
     {
-      "id": "antonio-evidio-hernandez-lopez",
+      "id": "antonio-evidio-hernandez-lopez-q720753",
       "name": "Antonio Evidio Hernández López",
       "sitting": true,
       "party_id": "unknown",
@@ -280,20 +297,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q5408006"
     },
     {
-      "id": "fabio-grobart",
-      "name": "Fabio Grobart",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of People's Power",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5427825"
-    },
-    {
-      "id": "pedro-alcantara-ross-leal",
+      "id": "pedro-alcantara-ross-leal-q720753",
       "name": "Pedro Alcántara Ross Leal",
       "sitting": true,
       "party_id": "unknown",
@@ -306,20 +310,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q5547647"
     },
     {
-      "id": "carlos-fernandez-gondin",
-      "name": "Carlos Fernández Gondín",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of People's Power",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5750320"
-    },
-    {
-      "id": "carlos-liranza-garcia",
+      "id": "carlos-liranza-garcia-q720753",
       "name": "Carlos Liranza García",
       "sitting": true,
       "party_id": "unknown",
@@ -332,7 +323,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q5750727"
     },
     {
-      "id": "delsa-esther-puebla-viltre",
+      "id": "delsa-esther-puebla-viltre-q720753",
       "name": "Delsa Esther Puebla Viltre",
       "sitting": true,
       "party_id": "unknown",
@@ -345,7 +336,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q5801986"
     },
     {
-      "id": "pedro-jose-astrain-rodriguez",
+      "id": "pedro-jose-astrain-rodriguez-q720753",
       "name": "Pedro José Astraín Rodríguez",
       "sitting": true,
       "party_id": "unknown",
@@ -358,7 +349,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q5857399"
     },
     {
-      "id": "gerardo-enrique-hernandez-suarez",
+      "id": "gerardo-enrique-hernandez-suarez-q720753",
       "name": "Gerardo Enrique Hernández Suárez",
       "sitting": true,
       "party_id": "unknown",
@@ -371,7 +362,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q5878240"
     },
     {
-      "id": "jaime-crombet-hernandez-baquero",
+      "id": "jaime-crombet-hernandez-baquero-q720753",
       "name": "Jaime Crombet Hernández-Baquero",
       "sitting": true,
       "party_id": "unknown",
@@ -384,7 +375,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q5924992"
     },
     {
-      "id": "jesus-antonio-infante-lopez",
+      "id": "jesus-antonio-infante-lopez-q720753",
       "name": "Jesús Antonio Infante López",
       "sitting": true,
       "party_id": "unknown",
@@ -397,7 +388,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q5929874"
     },
     {
-      "id": "jorge-luis-guerrero-almaguer",
+      "id": "jorge-luis-guerrero-almaguer-q720753",
       "name": "Jorge Luis Guerrero Almaguer",
       "sitting": true,
       "party_id": "unknown",
@@ -410,7 +401,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q5935479"
     },
     {
-      "id": "jose-antonio-carrillo-gomez",
+      "id": "jose-antonio-carrillo-gomez-q720753",
       "name": "José Antonio Carrillo Gómez",
       "sitting": true,
       "party_id": "unknown",
@@ -423,7 +414,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q5937751"
     },
     {
-      "id": "leonardo-andollo-valdes",
+      "id": "leonardo-andollo-valdes-q720753",
       "name": "Leonardo Andollo Valdés",
       "sitting": true,
       "party_id": "unknown",
@@ -436,7 +427,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q5973127"
     },
     {
-      "id": "leonardo-tamayo",
+      "id": "leonardo-tamayo-q720753",
       "name": "Leonardo Tamayo",
       "sitting": true,
       "party_id": "unknown",
@@ -449,7 +440,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q5973226"
     },
     {
-      "id": "orlando-almaguel-vidal",
+      "id": "orlando-almaguel-vidal-q720753",
       "name": "Orlando Almaguel Vidal",
       "sitting": true,
       "party_id": "unknown",
@@ -462,20 +453,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q6053026"
     },
     {
-      "id": "orlando-lugo-fonte",
-      "name": "Orlando Lugo Fonte",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of People's Power",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6053070"
-    },
-    {
-      "id": "pedro-saez-montejo",
+      "id": "pedro-saez-montejo-q720753",
       "name": "Pedro Sáez Montejo",
       "sitting": true,
       "party_id": "unknown",
@@ -488,7 +466,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q6070206"
     },
     {
-      "id": "ramon-espinosa-martin",
+      "id": "ramon-espinosa-martin-q720753",
       "name": "Ramón Espinosa Martín",
       "sitting": true,
       "party_id": "unknown",
@@ -501,7 +479,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q6099593"
     },
     {
-      "id": "ramon-pardo-guerra",
+      "id": "ramon-pardo-guerra-q720753",
       "name": "Ramón Pardo Guerra",
       "sitting": true,
       "party_id": "unknown",
@@ -514,7 +492,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q6099923"
     },
     {
-      "id": "roberto-francisco-unger-perez",
+      "id": "roberto-francisco-unger-perez-q720753",
       "name": "Roberto Francisco Unger Pérez",
       "sitting": true,
       "party_id": "unknown",
@@ -527,20 +505,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q6109746"
     },
     {
-      "id": "ruben-martinez-puente",
-      "name": "Rubén Martínez Puente",
+      "id": "faure-chomon-q720753",
+      "name": "Faure Chomón",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
+      "party_id": "communist-party-of-cuba",
+      "caucus": "Communist Party of Cuba",
+      "constituency_label": "Camagüey Province",
       "chamber": "National Assembly of People's Power",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q6113294"
+      "roster_url": "http://www.wikidata.org/entity/Q5696752"
     },
     {
-      "id": "tubal-paez-hernandez",
+      "id": "tubal-paez-hernandez-q720753",
       "name": "Tubal Páez Hernández",
       "sitting": true,
       "party_id": "unknown",
@@ -553,20 +531,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q6153625"
     },
     {
-      "id": "jorge-luis-sierra-cruz",
-      "name": "Jorge Luis Sierra Cruz",
+      "id": "marta-hernandez-romero-q720753",
+      "name": "Marta Hernández Romero",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "communist-party-of-cuba",
+      "caucus": "Communist Party of Cuba",
       "constituency_label": "",
       "chamber": "National Assembly of People's Power",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q6278251"
+      "roster_url": "http://www.wikidata.org/entity/Q6774124"
     },
     {
-      "id": "abelardo-alvarez-gil",
+      "id": "abelardo-alvarez-gil-q720753",
       "name": "Abelardo Álvarez Gil",
       "sitting": true,
       "party_id": "unknown",
@@ -579,20 +557,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q8183931"
     },
     {
-      "id": "isidoro-malmierca",
-      "name": "Isidoro Malmierca",
+      "id": "melba-hernandez-q720753",
+      "name": "Melba Hernández",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "communist-party-of-cuba",
+      "caucus": "Communist Party of Cuba",
       "constituency_label": "",
       "chamber": "National Assembly of People's Power",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q956466"
+      "roster_url": "http://www.wikidata.org/entity/Q6811664"
     },
     {
-      "id": "raul-roa-garcia",
+      "id": "raul-roa-garcia-q720753",
       "name": "Raúl Roa García",
       "sitting": true,
       "party_id": "unknown",
@@ -605,7 +583,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q956516"
     },
     {
-      "id": "lazaro-fernando-exposito-canto",
+      "id": "lazaro-fernando-exposito-canto-q720753",
       "name": "Lázaro Fernando Expósito Canto",
       "sitting": true,
       "party_id": "unknown",
@@ -618,7 +596,46 @@
       "roster_url": "http://www.wikidata.org/entity/Q1879082"
     },
     {
-      "id": "alberto-juantorena",
+      "id": "orlando-lugo-fonte-q720753",
+      "name": "Orlando Lugo Fonte",
+      "sitting": true,
+      "party_id": "communist-party-of-cuba",
+      "caucus": "Communist Party of Cuba",
+      "constituency_label": "",
+      "chamber": "National Assembly of People's Power",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6053070"
+    },
+    {
+      "id": "ruben-martinez-puente-q720753",
+      "name": "Rubén Martínez Puente",
+      "sitting": true,
+      "party_id": "communist-party-of-cuba",
+      "caucus": "Communist Party of Cuba",
+      "constituency_label": "",
+      "chamber": "National Assembly of People's Power",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6113294"
+    },
+    {
+      "id": "raul-casatro-q720753",
+      "name": "Raúl Casatro",
+      "sitting": true,
+      "party_id": "communist-party-of-cuba",
+      "caucus": "Communist Party of Cuba",
+      "constituency_label": "",
+      "chamber": "National Assembly of People's Power",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q46809"
+    },
+    {
+      "id": "alberto-juantorena-q720753",
       "name": "Alberto Juantorena",
       "sitting": true,
       "party_id": "unknown",
@@ -631,17 +648,95 @@
       "roster_url": "http://www.wikidata.org/entity/Q52667"
     },
     {
-      "id": "raul-casatro",
-      "name": "Raúl Casatro",
+      "id": "jorge-luis-sierra-cruz-q720753",
+      "name": "Jorge Luis Sierra Cruz",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "communist-party-of-cuba",
+      "caucus": "Communist Party of Cuba",
       "constituency_label": "",
       "chamber": "National Assembly of People's Power",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q46809"
+      "roster_url": "http://www.wikidata.org/entity/Q6278251"
+    },
+    {
+      "id": "fabio-grobart-q720753",
+      "name": "Fabio Grobart",
+      "sitting": true,
+      "party_id": "popular-socialist-party",
+      "caucus": "Popular Socialist Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of People's Power",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5427825"
+    },
+    {
+      "id": "julio-casas-regueiro-q720753",
+      "name": "Julio Casas Regueiro",
+      "sitting": true,
+      "party_id": "communist-party-of-cuba",
+      "caucus": "Communist Party of Cuba",
+      "constituency_label": "",
+      "chamber": "National Assembly of People's Power",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1617861"
+    },
+    {
+      "id": "leopoldo-cintra-frias-q720753",
+      "name": "Leopoldo Cintra Frías",
+      "sitting": true,
+      "party_id": "communist-party-of-cuba",
+      "caucus": "Communist Party of Cuba",
+      "constituency_label": "",
+      "chamber": "National Assembly of People's Power",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3434491"
+    },
+    {
+      "id": "roberto-robaina-q720753",
+      "name": "Roberto Robaina",
+      "sitting": true,
+      "party_id": "communist-party-of-cuba",
+      "caucus": "Communist Party of Cuba",
+      "constituency_label": "",
+      "chamber": "National Assembly of People's Power",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1702623"
+    },
+    {
+      "id": "blas-roca-calderio-q720753",
+      "name": "Blas Roca Calderio",
+      "sitting": true,
+      "party_id": "popular-socialist-party",
+      "caucus": "Popular Socialist Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of People's Power",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4088018"
+    },
+    {
+      "id": "ricardo-alarcon-q720753",
+      "name": "Ricardo Alarcón",
+      "sitting": true,
+      "party_id": "communist-party-of-cuba",
+      "caucus": "Communist Party of Cuba",
+      "constituency_label": "",
+      "chamber": "National Assembly of People's Power",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1345182"
     }
   ]
 }

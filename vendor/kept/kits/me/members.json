@@ -3,11 +3,821 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1579497",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 82,
+  "incomplete": true,
+  "claimed_seats": 81,
+  "chambers": [
+    "Member of the Parliament of Montenegro",
+    "Parliament of Montenegro"
+  ],
   "items": [
     {
-      "id": "vladimir-dobricanin",
+      "id": "suzana-pribilovic-q1579497",
+      "name": "Suzana Pribilović",
+      "sitting": true,
+      "party_id": "democratic-party-of-socialists-of-montenegro",
+      "caucus": "Democratic Party of Socialists of Montenegro",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57817777"
+    },
+    {
+      "id": "maja-vukicevic-q1579497",
+      "name": "Maja Vukićević",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124076317"
+    },
+    {
+      "id": "milun-zogovic-q1579497",
+      "name": "Milun Zogović",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124303485"
+    },
+    {
+      "id": "rasko-konjevic-q1579497",
+      "name": "Raško Konjević",
+      "sitting": true,
+      "party_id": "social-democratic-party-of-montenegro",
+      "caucus": "Social Democratic Party of Montenegro",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q80850839"
+    },
+    {
+      "id": "dragica-sekulic-q1579497",
+      "name": "Dragica Sekulić",
+      "sitting": true,
+      "party_id": "democratic-party-of-socialists-of-montenegro",
+      "caucus": "Democratic Party of Socialists of Montenegro",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57915520"
+    },
+    {
+      "id": "boris-pejovic-q1579497",
+      "name": "Boris Pejović",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125846064"
+    },
+    {
+      "id": "abaz-dizdarevic-q1579497",
+      "name": "Abaz Dizdarević",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850809"
+    },
+    {
+      "id": "albin-ceman-q1579497",
+      "name": "Albin Ćeman",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850811"
+    },
+    {
+      "id": "aleksandra-despotovic-q1579497",
+      "name": "Aleksandra Despotović",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850812"
+    },
+    {
+      "id": "aleksandra-vukovic-kuc-q1579497",
+      "name": "Aleksandra Vuković-Kuč",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850813"
+    },
+    {
+      "id": "amer-smailovic-q1579497",
+      "name": "Amer Smailović",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850814"
+    },
+    {
+      "id": "andrija-nikolic-q1579497",
+      "name": "Andrija Nikolić",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850815"
+    },
+    {
+      "id": "an-ela-vojinovic-q1579497",
+      "name": "Anđela Vojinović",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850816"
+    },
+    {
+      "id": "artan-cobi-q1579497",
+      "name": "Artan Çobi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850818"
+    },
+    {
+      "id": "armen-sehovic-q1579497",
+      "name": "Armen Šehović",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850817"
+    },
+    {
+      "id": "bogdan-bozovic-q1579497",
+      "name": "Bogdan Božović",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850819"
+    },
+    {
+      "id": "boris-mugosa-q1579497",
+      "name": "Boris Mugoša",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850822"
+    },
+    {
+      "id": "branislav-nenezic-q1579497",
+      "name": "Branislav Nenezić",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850823"
+    },
+    {
+      "id": "boris-bogdanovic-q1579497",
+      "name": "Boris Bogdanović",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850821"
+    },
+    {
+      "id": "branka-markovic-q1579497",
+      "name": "Branka Marković",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850825"
+    },
+    {
+      "id": "damir-gutic-q1579497",
+      "name": "Damir Gutić",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850826"
+    },
+    {
+      "id": "dane-markovic-q1579497",
+      "name": "Dane Marković",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850827"
+    },
+    {
+      "id": "darko-dragovic-q1579497",
+      "name": "Darko Dragović",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850828"
+    },
+    {
+      "id": "dejan-urovic-q1579497",
+      "name": "Dejan Đurović",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850829"
+    },
+    {
+      "id": "dragana-vucevic-q1579497",
+      "name": "Dragana Vučević",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850830"
+    },
+    {
+      "id": "drazen-petric-q1579497",
+      "name": "Dražen Petrić",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850831"
+    },
+    {
+      "id": "dusko-stjepovic-q1579497",
+      "name": "Duško Stjepović",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850834"
+    },
+    {
+      "id": "drita-llolla-q1579497",
+      "name": "Drita Llolla",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850832"
+    },
+    {
+      "id": "dusan-raicevic-q1579497",
+      "name": "Dušan Raičević",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850833"
+    },
+    {
+      "id": "gordan-stojovic-q1579497",
+      "name": "Gordan Stojović",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850835"
+    },
+    {
+      "id": "jelenka-andric-q1579497",
+      "name": "Jelenka Andrić",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850838"
+    },
+    {
+      "id": "jelena-nedovic-q1579497",
+      "name": "Jelena Nedović",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850837"
+    },
+    {
+      "id": "jevrosima-pejovic-q1579497",
+      "name": "Jevrosima Pejović",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850840"
+    },
+    {
+      "id": "jevto-erakovic-q1579497",
+      "name": "Jevto Eraković",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850841"
+    },
+    {
+      "id": "jovan-jole-vucurovic-q1579497",
+      "name": "Jovan Jole Vučurović",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850842"
+    },
+    {
+      "id": "jovan-subotic-q1579497",
+      "name": "Jovan Subotić",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850843"
+    },
+    {
+      "id": "kenana-strujic-harbic-q1579497",
+      "name": "Kenana Strujić-Harbić",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850844"
+    },
+    {
+      "id": "maja-vucelic-q1579497",
+      "name": "Maja Vučelić",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850845"
+    },
+    {
+      "id": "mehmed-zenka-q1579497",
+      "name": "Mehmed Zenka",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850846"
+    },
+    {
+      "id": "milos-konatar-q1579497",
+      "name": "Miloš Konatar",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850851"
+    },
+    {
+      "id": "mihailo-an-usic-q1579497",
+      "name": "Mihailo Anđušić",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850848"
+    },
+    {
+      "id": "milan-zecevic-q1579497",
+      "name": "Milan Zečević",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850849"
+    },
+    {
+      "id": "milos-pizurica-q1579497",
+      "name": "Miloš Pižurica",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850852"
+    },
+    {
+      "id": "miodrag-lakovic-q1579497",
+      "name": "Miodrag Laković",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850853"
+    },
+    {
+      "id": "momcilo-lekovic-q1579497",
+      "name": "Momčilo Leković",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850855"
+    },
+    {
+      "id": "na-a-lakovic-q1579497",
+      "name": "Nađa Laković",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850856"
+    },
+    {
+      "id": "nikola-milovic-q1579497",
+      "name": "Nikola Milović",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850858"
+    },
+    {
+      "id": "nermin-abdic-q1579497",
+      "name": "Nermin Abdić",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850857"
+    },
+    {
+      "id": "nikola-rakocevic-q1579497",
+      "name": "Nikola Rakočević",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850859"
+    },
+    {
+      "id": "nikolla-camaj-q1579497",
+      "name": "Nikolla Camaj",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850862"
+    },
+    {
+      "id": "nikola-rovcanin-q1579497",
+      "name": "Nikola Rovčanin",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850860"
+    },
+    {
+      "id": "nikola-zirojevic-q1579497",
+      "name": "Nikola Zirojević",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850861"
+    },
+    {
+      "id": "oskar-huter-q1579497",
+      "name": "Oskar Huter",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850863"
+    },
+    {
+      "id": "radinka-cincur-q1579497",
+      "name": "Radinka Ćinćur",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850864"
+    },
+    {
+      "id": "sla-ana-kalu-erovic-q1579497",
+      "name": "Slađana Kaluđerović",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850866"
+    },
+    {
+      "id": "sonja-milatovic-q1579497",
+      "name": "Sonja Milatović",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850867"
+    },
+    {
+      "id": "tonci-janovic-q1579497",
+      "name": "Tonći Janović",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850869"
+    },
+    {
+      "id": "ugljesa-urosevic-q1579497",
+      "name": "Uglješa Urošević",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850870"
+    },
+    {
+      "id": "vasilije-carapic-q1579497",
+      "name": "Vasilije Čarapić",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850871"
+    },
+    {
+      "id": "ivan-brajovic-q1579497",
+      "name": "Ivan Brajović",
+      "sitting": true,
+      "party_id": "social-democrats-of-montenegro",
+      "caucus": "Social Democrats of Montenegro",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12752123"
+    },
+    {
+      "id": "nebojsa-medojevic-q1579497",
+      "name": "Nebojša Medojević",
+      "sitting": true,
+      "party_id": "movement-for-changes",
+      "caucus": "Movement for Changes",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q11790414"
+    },
+    {
+      "id": "nik-gjeloshaj-q1579497",
+      "name": "Nik Gjeloshaj",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q98460898"
+    },
+    {
+      "id": "vladimir-dobricanin-q1579497",
       "name": "Vladimir Dobričanin",
       "sitting": true,
       "party_id": "unknown",
@@ -20,46 +830,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q98959223"
     },
     {
-      "id": "ivan-vukovic",
-      "name": "Ivan Vuković",
+      "id": "maksim-vucinic-q1579497",
+      "name": "Maksim Vučinić",
       "sitting": true,
-      "party_id": "pg-democratic-party-of-socialists",
-      "caucus": "PG Democratic Party of Socialists",
+      "party_id": "unknown",
+      "caucus": "",
       "constituency_label": "",
       "chamber": "Parliament of Montenegro",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q85770290"
+      "roster_url": "http://www.wikidata.org/entity/Q98959402"
     },
     {
-      "id": "dritan-abazovic",
-      "name": "Dritan Abazović",
+      "id": "dragan-krapovic-q1579497",
+      "name": "Dragan Krapović",
       "sitting": true,
-      "party_id": "pg-civic-movement-ura",
-      "caucus": "PG Civic Movement URA",
+      "party_id": "unknown",
+      "caucus": "",
       "constituency_label": "",
       "chamber": "Parliament of Montenegro",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q16353146"
+      "roster_url": "http://www.wikidata.org/entity/Q98961089"
     },
     {
-      "id": "simonida-kordic",
-      "name": "Simonida Kordić",
-      "sitting": true,
-      "party_id": "pg-for-the-future-of-montenegro-new-serb-democracy",
-      "caucus": "PG For the Future of Montenegro – New Serb Democracy",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q109916562"
-    },
-    {
-      "id": "nikola-janovic",
+      "id": "nikola-janovic-q1579497",
       "name": "Nikola Janović",
       "sitting": true,
       "party_id": "unknown",
@@ -72,840 +869,8 @@
       "roster_url": "http://www.wikidata.org/entity/Q1751500"
     },
     {
-      "id": "ervin-ibrahimovic",
-      "name": "Ervin Ibrahimović",
-      "sitting": true,
-      "party_id": "pg-bosniak-party",
-      "caucus": "PG Bosniak Party",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q65499722"
-    },
-    {
-      "id": "boris-pejovic",
-      "name": "Boris Pejović",
-      "sitting": true,
-      "party_id": "pg-europe-now",
-      "caucus": "PG Europe now",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125846064"
-    },
-    {
-      "id": "abaz-dizdarevic",
-      "name": "Abaz Dizdarević",
-      "sitting": true,
-      "party_id": "pg-democratic-party-of-socialists",
-      "caucus": "PG Democratic Party of Socialists",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850809"
-    },
-    {
-      "id": "albin-ceman",
-      "name": "Albin Ćeman",
-      "sitting": true,
-      "party_id": "pg-democrats",
-      "caucus": "PG Democrats",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850811"
-    },
-    {
-      "id": "aleksandra-despotovic",
-      "name": "Aleksandra Despotović",
-      "sitting": true,
-      "party_id": "pg-democratic-party-of-socialists",
-      "caucus": "PG Democratic Party of Socialists",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850812"
-    },
-    {
-      "id": "aleksandra-vukovic-kuc",
-      "name": "Aleksandra Vuković-Kuč",
-      "sitting": true,
-      "party_id": "pg-democratic-party-of-socialists",
-      "caucus": "PG Democratic Party of Socialists",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850813"
-    },
-    {
-      "id": "amer-smailovic",
-      "name": "Amer Smailović",
-      "sitting": true,
-      "party_id": "pg-bosniak-party",
-      "caucus": "PG Bosniak Party",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850814"
-    },
-    {
-      "id": "andrija-nikolic",
-      "name": "Andrija Nikolić",
-      "sitting": true,
-      "party_id": "pg-democratic-party-of-socialists",
-      "caucus": "PG Democratic Party of Socialists",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850815"
-    },
-    {
-      "id": "an-ela-vojinovic",
-      "name": "Anđela Vojinović",
-      "sitting": true,
-      "party_id": "pg-democrats",
-      "caucus": "PG Democrats",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850816"
-    },
-    {
-      "id": "artan-cobi",
-      "name": "Artan Çobi",
-      "sitting": true,
-      "party_id": "pg-albanian-forum-forumi-shqiptar",
-      "caucus": "PG Albanian Forum – Forumi Shqiptar",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850818"
-    },
-    {
-      "id": "armen-sehovic",
-      "name": "Armen Šehović",
-      "sitting": true,
-      "party_id": "pg-europe-now",
-      "caucus": "PG Europe now",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850817"
-    },
-    {
-      "id": "bogdan-bozovic",
-      "name": "Bogdan Božović",
-      "sitting": true,
-      "party_id": "pg-snp-civis",
-      "caucus": "PG SNP – CIVIS",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850819"
-    },
-    {
-      "id": "boris-mugosa",
-      "name": "Boris Mugoša",
-      "sitting": true,
-      "party_id": "pg-social-democrats-of-montenegro",
-      "caucus": "PG Social Democrats of Montenegro",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850822"
-    },
-    {
-      "id": "bojana-pican",
-      "name": "Bojana Pićan",
-      "sitting": true,
-      "party_id": "pg-for-the-future-of-montenegro-new-serb-democracy",
-      "caucus": "PG For the Future of Montenegro – New Serb Democracy",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850820"
-    },
-    {
-      "id": "branislav-nenezic",
-      "name": "Branislav Nenezić",
-      "sitting": true,
-      "party_id": "pg-social-democrats-of-montenegro",
-      "caucus": "PG Social Democrats of Montenegro",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850823"
-    },
-    {
-      "id": "boris-bogdanovic",
-      "name": "Boris Bogdanović",
-      "sitting": true,
-      "party_id": "pg-democrats",
-      "caucus": "PG Democrats",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850821"
-    },
-    {
-      "id": "branka-markovic",
-      "name": "Branka Marković",
-      "sitting": true,
-      "party_id": "pg-europe-now",
-      "caucus": "PG Europe now",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850825"
-    },
-    {
-      "id": "damir-gutic",
-      "name": "Damir Gutić",
-      "sitting": true,
-      "party_id": "pg-bosniak-party",
-      "caucus": "PG Bosniak Party",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850826"
-    },
-    {
-      "id": "dane-markovic",
-      "name": "Dane Marković",
-      "sitting": true,
-      "party_id": "pg-europe-now",
-      "caucus": "PG Europe now",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850827"
-    },
-    {
-      "id": "darko-dragovic",
-      "name": "Darko Dragović",
-      "sitting": true,
-      "party_id": "pg-europe-now",
-      "caucus": "PG Europe now",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850828"
-    },
-    {
-      "id": "dejan-urovic",
-      "name": "Dejan Đurović",
-      "sitting": true,
-      "party_id": "pg-for-the-future-of-montenegro-new-serb-democracy",
-      "caucus": "PG For the Future of Montenegro – New Serb Democracy",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850829"
-    },
-    {
-      "id": "dragana-vucevic",
-      "name": "Dragana Vučević",
-      "sitting": true,
-      "party_id": "pg-europe-now",
-      "caucus": "PG Europe now",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850830"
-    },
-    {
-      "id": "drazen-petric",
-      "name": "Dražen Petrić",
-      "sitting": true,
-      "party_id": "pg-europe-now",
-      "caucus": "PG Europe now",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850831"
-    },
-    {
-      "id": "dusko-stjepovic",
-      "name": "Duško Stjepović",
-      "sitting": true,
-      "party_id": "pg-democrats",
-      "caucus": "PG Democrats",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850834"
-    },
-    {
-      "id": "dusan-raicevic",
-      "name": "Dušan Raičević",
-      "sitting": true,
-      "party_id": "pg-democratic-party-of-socialists",
-      "caucus": "PG Democratic Party of Socialists",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850833"
-    },
-    {
-      "id": "gordan-stojovic",
-      "name": "Gordan Stojović",
-      "sitting": true,
-      "party_id": "pg-europe-now",
-      "caucus": "PG Europe now",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850835"
-    },
-    {
-      "id": "jelenka-andric",
-      "name": "Jelenka Andrić",
-      "sitting": true,
-      "party_id": "pg-europe-now",
-      "caucus": "PG Europe now",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850838"
-    },
-    {
-      "id": "jelena-nedovic",
-      "name": "Jelena Nedović",
-      "sitting": true,
-      "party_id": "pg-europe-now",
-      "caucus": "PG Europe now",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850837"
-    },
-    {
-      "id": "jevrosima-pejovic",
-      "name": "Jevrosima Pejović",
-      "sitting": true,
-      "party_id": "special-parliamentary-group",
-      "caucus": "Special Parliamentary Group",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850840"
-    },
-    {
-      "id": "jevto-erakovic",
-      "name": "Jevto Eraković",
-      "sitting": true,
-      "party_id": "pg-democratic-party-of-socialists",
-      "caucus": "PG Democratic Party of Socialists",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850841"
-    },
-    {
-      "id": "jovan-jole-vucurovic",
-      "name": "Jovan Jole Vučurović",
-      "sitting": true,
-      "party_id": "pg-for-the-future-of-montenegro-new-serb-democracy",
-      "caucus": "PG For the Future of Montenegro – New Serb Democracy",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850842"
-    },
-    {
-      "id": "jovan-subotic",
-      "name": "Jovan Subotić",
-      "sitting": true,
-      "party_id": "pg-europe-now",
-      "caucus": "PG Europe now",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850843"
-    },
-    {
-      "id": "kenana-strujic-harbic",
-      "name": "Kenana Strujić-Harbić",
-      "sitting": true,
-      "party_id": "pg-bosniak-party",
-      "caucus": "PG Bosniak Party",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850844"
-    },
-    {
-      "id": "maja-vucelic",
-      "name": "Maja Vučelić",
-      "sitting": true,
-      "party_id": "pg-snp-civis",
-      "caucus": "PG SNP – CIVIS",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850845"
-    },
-    {
-      "id": "mehmed-zenka",
-      "name": "Mehmed Zenka",
-      "sitting": true,
-      "party_id": "pg-democratic-union-of-albanians-and-the-croatian-civic-initiative",
-      "caucus": "PG Democratic Union of Albanians and the Croatian Civic Initiative",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850846"
-    },
-    {
-      "id": "milos-konatar",
-      "name": "Miloš Konatar",
-      "sitting": true,
-      "party_id": "pg-civic-movement-ura",
-      "caucus": "PG Civic Movement URA",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850851"
-    },
-    {
-      "id": "mihailo-an-usic",
-      "name": "Mihailo Anđušić",
-      "sitting": true,
-      "party_id": "pg-democratic-party-of-socialists",
-      "caucus": "PG Democratic Party of Socialists",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850848"
-    },
-    {
-      "id": "milan-zecevic",
-      "name": "Milan Zečević",
-      "sitting": true,
-      "party_id": "pg-europe-now",
-      "caucus": "PG Europe now",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850849"
-    },
-    {
-      "id": "milos-pizurica",
-      "name": "Miloš Pižurica",
-      "sitting": true,
-      "party_id": "pg-europe-now",
-      "caucus": "PG Europe now",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850852"
-    },
-    {
-      "id": "miodrag-lakovic",
-      "name": "Miodrag Laković",
-      "sitting": true,
-      "party_id": "pg-europe-now",
-      "caucus": "PG Europe now",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850853"
-    },
-    {
-      "id": "momcilo-lekovic",
-      "name": "Momčilo Leković",
-      "sitting": true,
-      "party_id": "pg-democrats",
-      "caucus": "PG Democrats",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850855"
-    },
-    {
-      "id": "na-a-lakovic",
-      "name": "Nađa Laković",
-      "sitting": true,
-      "party_id": "pg-europe-now",
-      "caucus": "PG Europe now",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850856"
-    },
-    {
-      "id": "nikola-milovic",
-      "name": "Nikola Milović",
-      "sitting": true,
-      "party_id": "pg-democratic-party-of-socialists",
-      "caucus": "PG Democratic Party of Socialists",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850858"
-    },
-    {
-      "id": "nermin-abdic",
-      "name": "Nermin Abdić",
-      "sitting": true,
-      "party_id": "pg-democratic-party-of-socialists",
-      "caucus": "PG Democratic Party of Socialists",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850857"
-    },
-    {
-      "id": "nikola-rakocevic",
-      "name": "Nikola Rakočević",
-      "sitting": true,
-      "party_id": "pg-democratic-party-of-socialists",
-      "caucus": "PG Democratic Party of Socialists",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850859"
-    },
-    {
-      "id": "nikolla-camaj",
-      "name": "Nikolla Camaj",
-      "sitting": true,
-      "party_id": "pg-albanian-forum-forumi-shqiptar",
-      "caucus": "PG Albanian Forum – Forumi Shqiptar",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850862"
-    },
-    {
-      "id": "nikola-rovcanin",
-      "name": "Nikola Rovčanin",
-      "sitting": true,
-      "party_id": "pg-democrats",
-      "caucus": "PG Democrats",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850860"
-    },
-    {
-      "id": "nikola-zirojevic",
-      "name": "Nikola Zirojević",
-      "sitting": true,
-      "party_id": "pg-social-democrats-of-montenegro",
-      "caucus": "PG Social Democrats of Montenegro",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850861"
-    },
-    {
-      "id": "oskar-huter",
-      "name": "Oskar Huter",
-      "sitting": true,
-      "party_id": "pg-democratic-party-of-socialists",
-      "caucus": "PG Democratic Party of Socialists",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850863"
-    },
-    {
-      "id": "radinka-cincur",
-      "name": "Radinka Ćinćur",
-      "sitting": true,
-      "party_id": "special-parliamentary-group",
-      "caucus": "Special Parliamentary Group",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850864"
-    },
-    {
-      "id": "sla-ana-kalu-erovic",
-      "name": "Slađana Kaluđerović",
-      "sitting": true,
-      "party_id": "pg-snp-civis",
-      "caucus": "PG SNP – CIVIS",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850866"
-    },
-    {
-      "id": "sonja-milatovic",
-      "name": "Sonja Milatović",
-      "sitting": true,
-      "party_id": "pg-democratic-party-of-socialists",
-      "caucus": "PG Democratic Party of Socialists",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850867"
-    },
-    {
-      "id": "tonci-janovic",
-      "name": "Tonći Janović",
-      "sitting": true,
-      "party_id": "pg-europe-now",
-      "caucus": "PG Europe now",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850869"
-    },
-    {
-      "id": "ugljesa-urosevic",
-      "name": "Uglješa Urošević",
-      "sitting": true,
-      "party_id": "pg-europe-now",
-      "caucus": "PG Europe now",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850870"
-    },
-    {
-      "id": "vasilije-carapic",
-      "name": "Vasilije Čarapić",
-      "sitting": true,
-      "party_id": "pg-europe-now",
-      "caucus": "PG Europe now",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850871"
-    },
-    {
-      "id": "vaso-obradovic",
-      "name": "Vaso Obradović",
-      "sitting": true,
-      "party_id": "pg-for-the-future-of-montenegro-new-serb-democracy",
-      "caucus": "PG For the Future of Montenegro – New Serb Democracy",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850872"
-    },
-    {
-      "id": "vladislav-bojovic",
-      "name": "Vladislav Bojović",
-      "sitting": true,
-      "party_id": "pg-for-the-future-of-montenegro-democratic-people-s-party",
-      "caucus": "PG For the Future of Montenegro – Democratic People’s Party",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850875"
-    },
-    {
-      "id": "vladimir-bakrac",
-      "name": "Vladimir Bakrač",
-      "sitting": true,
-      "party_id": "pg-europe-now",
-      "caucus": "PG Europe now",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850873"
-    },
-    {
-      "id": "zdenka-popovic",
-      "name": "Zdenka Popović",
-      "sitting": true,
-      "party_id": "pg-democrats",
-      "caucus": "PG Democrats",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850876"
-    },
-    {
-      "id": "zoja-bojanic-lalovic",
-      "name": "Zoja Bojanić-Lalović",
-      "sitting": true,
-      "party_id": "pg-democratic-party-of-socialists",
-      "caucus": "PG Democratic Party of Socialists",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850877"
-    },
-    {
-      "id": "jelena-bozovic",
-      "name": "Jelena Božović",
-      "sitting": true,
-      "party_id": "pg-for-the-future-of-montenegro-new-serb-democracy",
-      "caucus": "PG For the Future of Montenegro – New Serb Democracy",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125854769"
-    },
-    {
-      "id": "mirsad-nurkovic",
-      "name": "Mirsad Nurković",
-      "sitting": true,
-      "party_id": "pg-bosniak-party",
-      "caucus": "PG Bosniak Party",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125854723"
-    },
-    {
-      "id": "slaven-radunovic",
-      "name": "Slaven Radunović",
-      "sitting": true,
-      "party_id": "pg-for-the-future-of-montenegro-new-serb-democracy",
-      "caucus": "PG For the Future of Montenegro – New Serb Democracy",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q110047118"
-    },
-    {
-      "id": "ilir-capuni",
-      "name": "Ilir Capuni",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q103814939"
-    },
-    {
-      "id": "drita-llolla",
-      "name": "Drita Llolla",
+      "id": "branimir-gvozdenovic-q1579497",
+      "name": "Branimir Gvozdenović",
       "sitting": true,
       "party_id": "democratic-party-of-socialists-of-montenegro",
       "caucus": "Democratic Party of Socialists of Montenegro",
@@ -914,63 +879,37 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q125850832"
+      "roster_url": "http://www.wikidata.org/entity/Q23836550"
     },
     {
-      "id": "andrija-mandic",
-      "name": "Andrija Mandić",
+      "id": "vladimir-jokovic-q1579497",
+      "name": "Vladimir Joković",
       "sitting": true,
-      "party_id": "pg-for-the-future-of-montenegro-new-serb-democracy",
-      "caucus": "PG For the Future of Montenegro – New Serb Democracy",
+      "party_id": "socialist-people-s-party-of-montenegro",
+      "caucus": "Socialist People's Party of Montenegro",
       "constituency_label": "",
       "chamber": "Parliament of Montenegro",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q511453"
+      "roster_url": "http://www.wikidata.org/entity/Q36384401"
     },
     {
-      "id": "milan-knezevic",
-      "name": "Milan Knežević",
+      "id": "miodrag-lekic-q1579497",
+      "name": "Miodrag Lekić",
       "sitting": true,
-      "party_id": "pg-for-the-future-of-montenegro-democratic-people-s-party",
-      "caucus": "PG For the Future of Montenegro – Democratic People’s Party",
+      "party_id": "democratic-front",
+      "caucus": "Democratic Front",
       "constituency_label": "",
       "chamber": "Parliament of Montenegro",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q56733060"
+      "roster_url": "http://www.wikidata.org/entity/Q10944678"
     },
     {
-      "id": "seid-hadzic",
-      "name": "Seid Hadžić",
-      "sitting": true,
-      "party_id": "pg-europe-now",
-      "caucus": "PG Europe now",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q116980916"
-    },
-    {
-      "id": "maja-vukicevic",
-      "name": "Maja Vukićević",
-      "sitting": true,
-      "party_id": "pg-for-the-future-of-montenegro-democratic-people-s-party",
-      "caucus": "PG For the Future of Montenegro – Democratic People’s Party",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q124076317"
-    },
-    {
-      "id": "draginja-vuksanovic",
-      "name": "Draginja Vuksanović",
+      "id": "adrijan-vuksanovic-q1579497",
+      "name": "Adrijan Vuksanović",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -979,14 +918,261 @@
       "lang": [
         "en"
       ],
+      "roster_url": "http://www.wikidata.org/entity/Q31199718"
+    },
+    {
+      "id": "andrija-mandic-q1579497",
+      "name": "Andrija Mandić",
+      "sitting": true,
+      "party_id": "serb-people-s-party",
+      "caucus": "Serb People's Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q511453"
+    },
+    {
+      "id": "bojana-pican-q1579497",
+      "name": "Bojana Pićan",
+      "sitting": true,
+      "party_id": "for-the-future-of-montenegro",
+      "caucus": "For the Future of Montenegro",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850820"
+    },
+    {
+      "id": "milo-ukanovic-q1579497",
+      "name": "Milo Đukanović",
+      "sitting": true,
+      "party_id": "democratic-party-of-socialists-of-montenegro",
+      "caucus": "Democratic Party of Socialists of Montenegro",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q200305"
+    },
+    {
+      "id": "milan-knezevic-q1579497",
+      "name": "Milan Knežević",
+      "sitting": true,
+      "party_id": "socialist-people-s-party-of-montenegro",
+      "caucus": "Socialist People's Party of Montenegro",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56733060"
+    },
+    {
+      "id": "marko-milacic-q1579497",
+      "name": "Marko Milačić",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q51284515"
+    },
+    {
+      "id": "predrag-bulatovic-q1579497",
+      "name": "Predrag Bulatović",
+      "sitting": true,
+      "party_id": "democratic-people-s-party",
+      "caucus": "Democratic People's Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7239705"
+    },
+    {
+      "id": "ivan-vukovic-q1579497",
+      "name": "Ivan Vuković",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q85770290"
+    },
+    {
+      "id": "zoran-pazin-q1579497",
+      "name": "Zoran Pažin",
+      "sitting": true,
+      "party_id": "democratic-party-of-socialists-of-montenegro",
+      "caucus": "Democratic Party of Socialists of Montenegro",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q79619334"
+    },
+    {
+      "id": "dusko-markovic-q1579497",
+      "name": "Duško Marković",
+      "sitting": true,
+      "party_id": "democratic-party-of-socialists-of-montenegro",
+      "caucus": "Democratic Party of Socialists of Montenegro",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q27941657"
+    },
+    {
+      "id": "ilir-capuni-q1579497",
+      "name": "Ilir Capuni",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q103814939"
+    },
+    {
+      "id": "andrija-popovic-q1579497",
+      "name": "Andrija Popović",
+      "sitting": true,
+      "party_id": "liberal-party-of-montenegro",
+      "caucus": "Liberal Party of Montenegro",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3485241"
+    },
+    {
+      "id": "zdravko-krivokapic-q1579497",
+      "name": "Zdravko Krivokapić",
+      "sitting": true,
+      "party_id": "ne-damo-crnu-goru",
+      "caucus": "Ne damo Crnu Goru",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97999161"
+    },
+    {
+      "id": "marko-kovacevic-q1579497",
+      "name": "Marko Kovačević",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105888145"
+    },
+    {
+      "id": "ervin-ibrahimovic-q1579497",
+      "name": "Ervin Ibrahimović",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q65499722"
+    },
+    {
+      "id": "aleksa-becic-q1579497",
+      "name": "Aleksa Bečić",
+      "sitting": true,
+      "party_id": "democratic-montenegro",
+      "caucus": "Democratic Montenegro",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28723561"
+    },
+    {
+      "id": "predrag-boskovic-q1579497",
+      "name": "Predrag Bošković",
+      "sitting": true,
+      "party_id": "democratic-party-of-socialists-of-montenegro",
+      "caucus": "Democratic Party of Socialists of Montenegro",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7239703"
+    },
+    {
+      "id": "simonida-kordic-q1579497",
+      "name": "Simonida Kordić",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109916562"
+    },
+    {
+      "id": "slaven-radunovic-q1579497",
+      "name": "Slaven Radunović",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110047118"
+    },
+    {
+      "id": "draginja-vuksanovic-q1579497",
+      "name": "Draginja Vuksanović",
+      "sitting": true,
+      "party_id": "social-democratic-party-of-montenegro",
+      "caucus": "Social Democratic Party of Montenegro",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
       "roster_url": "http://www.wikidata.org/entity/Q51031129"
     },
     {
-      "id": "danijel-zivkovic",
+      "id": "danijel-zivkovic-q1579497",
       "name": "Danijel Živković",
       "sitting": true,
-      "party_id": "pg-democratic-party-of-socialists",
-      "caucus": "PG Democratic Party of Socialists",
+      "party_id": "democratic-party-of-socialists-of-montenegro",
+      "caucus": "Democratic Party of Socialists of Montenegro",
       "constituency_label": "",
       "chamber": "Parliament of Montenegro",
       "lang": [
@@ -995,37 +1181,24 @@
       "roster_url": "http://www.wikidata.org/entity/Q117452101"
     },
     {
-      "id": "milun-zogovic",
-      "name": "Milun Zogović",
+      "id": "danijela-urovic-q1579497",
+      "name": "Danijela Đurović",
       "sitting": true,
-      "party_id": "pg-for-the-future-of-montenegro-democratic-people-s-party",
-      "caucus": "PG For the Future of Montenegro – Democratic People’s Party",
+      "party_id": "unknown",
+      "caucus": "",
       "constituency_label": "",
       "chamber": "Parliament of Montenegro",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q124303485"
+      "roster_url": "http://www.wikidata.org/entity/Q111748499"
     },
     {
-      "id": "adrijan-vuksanovic",
-      "name": "Adrijan Vuksanović",
-      "sitting": true,
-      "party_id": "pg-democratic-union-of-albanians-and-the-croatian-civic-initiative",
-      "caucus": "PG Democratic Union of Albanians and the Croatian Civic Initiative",
-      "constituency_label": "",
-      "chamber": "Parliament of Montenegro",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q31199718"
-    },
-    {
-      "id": "ana-novakovic-urovic",
+      "id": "ana-novakovic-urovic-q1579497",
       "name": "Ana Novaković Đurović",
       "sitting": true,
-      "party_id": "pg-bosniak-party",
-      "caucus": "PG Bosniak Party",
+      "party_id": "unknown",
+      "caucus": "",
       "constituency_label": "",
       "chamber": "Parliament of Montenegro",
       "lang": [
@@ -1034,11 +1207,11 @@
       "roster_url": "http://www.wikidata.org/entity/Q111781550"
     },
     {
-      "id": "admir-adrovic",
+      "id": "admir-adrovic-q1579497",
       "name": "Admir Adrović",
       "sitting": true,
-      "party_id": "pg-bosniak-party",
-      "caucus": "PG Bosniak Party",
+      "party_id": "unknown",
+      "caucus": "",
       "constituency_label": "",
       "chamber": "Parliament of Montenegro",
       "lang": [
@@ -1047,11 +1220,24 @@
       "roster_url": "http://www.wikidata.org/entity/Q111795411"
     },
     {
-      "id": "filip-adzic",
+      "id": "seid-hadzic-q1579497",
+      "name": "Seid Hadžić",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116980916"
+    },
+    {
+      "id": "filip-adzic-q1579497",
       "name": "Filip Adžić",
       "sitting": true,
-      "party_id": "pg-civic-movement-ura",
-      "caucus": "PG Civic Movement URA",
+      "party_id": "united-reform-action",
+      "caucus": "United Reform Action",
       "constituency_label": "",
       "chamber": "Parliament of Montenegro",
       "lang": [
@@ -1060,17 +1246,95 @@
       "roster_url": "http://www.wikidata.org/entity/Q111795549"
     },
     {
-      "id": "marko-kovacevic",
-      "name": "Marko Kovačević",
+      "id": "vaso-obradovic-q1579497",
+      "name": "Vaso Obradović",
       "sitting": true,
-      "party_id": "pg-for-the-future-of-montenegro-new-serb-democracy",
-      "caucus": "PG For the Future of Montenegro – New Serb Democracy",
+      "party_id": "unknown",
+      "caucus": "",
       "constituency_label": "",
       "chamber": "Parliament of Montenegro",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q105888145"
+      "roster_url": "http://www.wikidata.org/entity/Q125850872"
+    },
+    {
+      "id": "vladislav-bojovic-q1579497",
+      "name": "Vladislav Bojović",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850875"
+    },
+    {
+      "id": "vladimir-bakrac-q1579497",
+      "name": "Vladimir Bakrač",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850873"
+    },
+    {
+      "id": "zdenka-popovic-q1579497",
+      "name": "Zdenka Popović",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850876"
+    },
+    {
+      "id": "zoja-bojanic-lalovic-q1579497",
+      "name": "Zoja Bojanić-Lalović",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125850877"
+    },
+    {
+      "id": "jelena-bozovic-q1579497",
+      "name": "Jelena Božović",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125854769"
+    },
+    {
+      "id": "mirsad-nurkovic-q1579497",
+      "name": "Mirsad Nurković",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Montenegro",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125854723"
     }
   ]
 }

@@ -3,11 +3,28 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q24563",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 50,
+  "incomplete": true,
+  "claimed_seats": 111,
+  "chambers": [
+    "Member of the National Parliament of Papua New Guinea",
+    "National Parliament of Papua New Guinea"
+  ],
   "items": [
     {
-      "id": "thomas-pelika",
+      "id": "moi-avei-q24563",
+      "name": "Moi Avei",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Kairuku-Hiri District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q61746838"
+    },
+    {
+      "id": "thomas-pelika-q24563",
       "name": "Thomas Pelika",
       "sitting": true,
       "party_id": "unknown",
@@ -20,8 +37,21 @@
       "roster_url": "http://www.wikidata.org/entity/Q108186412"
     },
     {
-      "id": "job-pomat",
-      "name": "Job Pomat",
+      "id": "ken-fairweather-q24563",
+      "name": "Ken Fairweather",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "Sumkar District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6387586"
+    },
+    {
+      "id": "dennis-young-q24563",
+      "name": "Dennis Young",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -30,37 +60,24 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q90000254"
+      "roster_url": "http://www.wikidata.org/entity/Q1189612"
     },
     {
-      "id": "allan-bird",
-      "name": "Allan Bird",
+      "id": "peter-wararu-waranaka-q24563",
+      "name": "Peter Wararu Waranaka",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "East Sepik Province",
+      "party_id": "papua-new-guinea-party",
+      "caucus": "Papua New Guinea Party",
+      "constituency_label": "Yangoru-Saussia District",
       "chamber": "National Parliament of Papua New Guinea",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q124713551"
+      "roster_url": "http://www.wikidata.org/entity/Q7177586"
     },
     {
-      "id": "soroi-eoe",
-      "name": "Soroi Eoe",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Kikori District",
-      "chamber": "National Parliament of Papua New Guinea",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q64747295"
-    },
-    {
-      "id": "keith-iduhu",
-      "name": "Keith Iduhu",
+      "id": "tei-abal-q24563",
+      "name": "Tei Abal",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -69,11 +86,24 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q131397101"
+      "roster_url": "http://www.wikidata.org/entity/Q87848310"
     },
     {
-      "id": "agena-gamai",
-      "name": "Agena Gamai",
+      "id": "luther-wenge-q24563",
+      "name": "Luther Wenge",
+      "sitting": true,
+      "party_id": "people-s-first-party",
+      "caucus": "People's First Party",
+      "constituency_label": "Morobe Province",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6705658"
+    },
+    {
+      "id": "koriam-urekit-q24563",
+      "name": "Koriam Urekit",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -82,23 +112,88 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q131414375"
+      "roster_url": "http://www.wikidata.org/entity/Q88224226"
     },
     {
-      "id": "walter-schnaubelt",
-      "name": "Walter Schnaubelt",
+      "id": "jeffrey-nape-q24563",
+      "name": "Jeffrey Nape",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Namatanai District",
+      "party_id": "triumph-heritage-empowerment-rural-party",
+      "caucus": "Triumph Heritage Empowerment Rural Party",
+      "constituency_label": "",
       "chamber": "National Parliament of Papua New Guinea",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q35498105"
+      "roster_url": "http://www.wikidata.org/entity/Q1686476"
     },
     {
-      "id": "francesca-semoso",
+      "id": "sevese-morea-q24563",
+      "name": "Sevese Morea",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q89429908"
+    },
+    {
+      "id": "buaki-singeri-q24563",
+      "name": "Buaki Singeri",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q92206533"
+    },
+    {
+      "id": "ephraim-t-apelis-q24563",
+      "name": "Ephraim T. Apelis",
+      "sitting": true,
+      "party_id": "national-alliance-party",
+      "caucus": "National Alliance Party",
+      "constituency_label": "",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29452698"
+    },
+    {
+      "id": "arthur-somare-q24563",
+      "name": "Arthur Somare",
+      "sitting": true,
+      "party_id": "national-alliance-party",
+      "caucus": "National Alliance Party",
+      "constituency_label": "",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q711564"
+    },
+    {
+      "id": "francis-marus-q24563",
+      "name": "Francis Marus",
+      "sitting": true,
+      "party_id": "papua-new-guinea-party",
+      "caucus": "Papua New Guinea Party",
+      "constituency_label": "Talasea District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16732077"
+    },
+    {
+      "id": "francesca-semoso-q24563",
       "name": "Francesca Semoso",
       "sitting": true,
       "party_id": "unknown",
@@ -111,37 +206,89 @@
       "roster_url": "http://www.wikidata.org/entity/Q55584363"
     },
     {
-      "id": "julius-chan",
-      "name": "Julius Chan",
+      "id": "don-polye-q24563",
+      "name": "Don Polye",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "New Ireland Province",
+      "party_id": "national-alliance-party",
+      "caucus": "National Alliance Party",
+      "constituency_label": "Kandep District",
       "chamber": "National Parliament of Papua New Guinea",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q950406"
+      "roster_url": "http://www.wikidata.org/entity/Q1239419"
     },
     {
-      "id": "james-donald",
-      "name": "James Donald",
+      "id": "william-tongamp-q24563",
+      "name": "William Tongamp",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
-      "constituency_label": "North Fly District",
+      "constituency_label": "Jiwaka Province",
       "chamber": "National Parliament of Papua New Guinea",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q89927590"
+      "roster_url": "http://www.wikidata.org/entity/Q24053597"
     },
     {
-      "id": "anton-yagama",
+      "id": "nixon-duban-q24563",
+      "name": "Nixon Duban",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "Madang District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28967069"
+    },
+    {
+      "id": "andrew-mald-q24563",
+      "name": "Andrew Mald",
+      "sitting": true,
+      "party_id": "national-alliance-party",
+      "caucus": "National Alliance Party",
+      "constituency_label": "",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4757866"
+    },
+    {
+      "id": "john-pundari-q24563",
+      "name": "John Pundari",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "Kompiam District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17318841"
+    },
+    {
+      "id": "jelta-wong-q24563",
+      "name": "Jelta Wong",
+      "sitting": true,
+      "party_id": "united-resources-party",
+      "caucus": "United Resources Party",
+      "constituency_label": "Gazelle District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q89992188"
+    },
+    {
+      "id": "anton-yagama-q24563",
       "name": "Anton Yagama",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "united-resources-party",
+      "caucus": "United Resources Party",
       "constituency_label": "Usino Bundi District",
       "chamber": "National Parliament of Papua New Guinea",
       "lang": [
@@ -150,111 +297,280 @@
       "roster_url": "http://www.wikidata.org/entity/Q23883417"
     },
     {
-      "id": "peter-ipatas",
-      "name": "Peter Ipatas",
+      "id": "ezekiel-anisi-q24563",
+      "name": "Ezekiel Anisi",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Enga Province",
+      "party_id": "people-s-progress-party",
+      "caucus": "People's Progress Party",
+      "constituency_label": "Ambunti-Dreikikir District",
       "chamber": "National Parliament of Papua New Guinea",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q28967536"
+      "roster_url": "http://www.wikidata.org/entity/Q28037442"
     },
     {
-      "id": "peter-isoaimo",
-      "name": "Peter Isoaimo",
+      "id": "james-lagea-q24563",
+      "name": "James Lagea",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Kairuku-Hiri District",
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "",
       "chamber": "National Parliament of Papua New Guinea",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q29583256"
+      "roster_url": "http://www.wikidata.org/entity/Q16731159"
     },
     {
-      "id": "francis-marus",
-      "name": "Francis Marus",
+      "id": "bill-skate-q24563",
+      "name": "Bill Skate",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Talasea District",
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "",
       "chamber": "National Parliament of Papua New Guinea",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q16732077"
+      "roster_url": "http://www.wikidata.org/entity/Q719336"
     },
     {
-      "id": "rufina-peter",
-      "name": "Rufina Peter",
+      "id": "chris-haiveta-q24563",
+      "name": "Chris Haiveta",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Central Province",
+      "party_id": "pangu-party",
+      "caucus": "Pangu Party",
+      "constituency_label": "Gulf Province",
       "chamber": "National Parliament of Papua New Guinea",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q113463040"
+      "roster_url": "http://www.wikidata.org/entity/Q5106757"
     },
     {
-      "id": "francis-galia-maneke",
-      "name": "Francis Galia Maneke",
+      "id": "turi-wari-q24563",
+      "name": "Turi Wari",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
-      "constituency_label": "Nakanai Open",
+      "constituency_label": "Ialibu-Pangia District",
       "chamber": "National Parliament of Papua New Guinea",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q89817169"
+      "roster_url": "http://www.wikidata.org/entity/Q92205368"
     },
     {
-      "id": "benjamin-mul",
-      "name": "Benjamin Mul",
+      "id": "delilah-gore-q24563",
+      "name": "Delilah Gore",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
-      "constituency_label": "North Waghi District",
+      "constituency_label": "",
       "chamber": "National Parliament of Papua New Guinea",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q4889049"
+      "roster_url": "http://www.wikidata.org/entity/Q16728478"
     },
     {
-      "id": "benjamin-poponawa",
-      "name": "Benjamin Poponawa",
+      "id": "nahau-rooney-q24563",
+      "name": "Nahau Rooney",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
-      "constituency_label": "Tambul-Nebilyer District",
+      "constituency_label": "",
       "chamber": "National Parliament of Papua New Guinea",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q4889136"
+      "roster_url": "http://www.wikidata.org/entity/Q16932382"
     },
     {
-      "id": "elias-kapavore",
-      "name": "Elias Kapavore",
+      "id": "chris-nangoi-q24563",
+      "name": "Chris Nangoi",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Pomio District",
+      "party_id": "united-labour-party",
+      "caucus": "United Labour Party",
+      "constituency_label": "Sumkar District",
       "chamber": "National Parliament of Papua New Guinea",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q29584147"
+      "roster_url": "http://www.wikidata.org/entity/Q109312246"
     },
     {
-      "id": "kerenga-kua",
+      "id": "posu-ank-q24563",
+      "name": "Posu Ank",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Mendi-Munihu District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q89370378"
+    },
+    {
+      "id": "ian-ling-stuckey-q24563",
+      "name": "Ian Ling-Stuckey",
+      "sitting": true,
+      "party_id": "national-alliance-party",
+      "caucus": "National Alliance Party",
+      "constituency_label": "Kavieng District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5959129"
+    },
+    {
+      "id": "walter-schnaubelt-q24563",
+      "name": "Walter Schnaubelt",
+      "sitting": true,
+      "party_id": "national-alliance-party",
+      "caucus": "National Alliance Party",
+      "constituency_label": "Namatanai District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q35498105"
+    },
+    {
+      "id": "bernard-narokobi-q24563",
+      "name": "Bernard Narokobi",
+      "sitting": true,
+      "party_id": "melanesian-alliance-party",
+      "caucus": "Melanesian Alliance Party",
+      "constituency_label": "",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q466818"
+    },
+    {
+      "id": "bob-tawa-danaya-q24563",
+      "name": "Bob Tawa Danaya",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5616472"
+    },
+    {
+      "id": "soroi-eoe-q24563",
+      "name": "Soroi Eoe",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "Kikori District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q64747295"
+    },
+    {
+      "id": "theo-zurenuoc-q24563",
+      "name": "Theo Zurenuoc",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "Finschhafen District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5362021"
+    },
+    {
+      "id": "jeffery-kuave-q24563",
+      "name": "Jeffery Kuave",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "Lufa District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29638946"
+    },
+    {
+      "id": "josephine-abaijah-q24563",
+      "name": "Josephine Abaijah",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6288297"
+    },
+    {
+      "id": "guao-zurenuoc-q24563",
+      "name": "Guao Zurenuoc",
+      "sitting": true,
+      "party_id": "people-s-progress-party",
+      "caucus": "People's Progress Party",
+      "constituency_label": "Finschhafen District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5613862"
+    },
+    {
+      "id": "gabriel-kapris-q24563",
+      "name": "Gabriel Kapris",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Maprik District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q122831965"
+    },
+    {
+      "id": "steven-pim-q24563",
+      "name": "Steven Pim",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Dei District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q122841257"
+    },
+    {
+      "id": "boka-kondra-q24563",
+      "name": "Boka Kondra",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4938707"
+    },
+    {
+      "id": "kerenga-kua-q24563",
       "name": "Kerenga Kua",
       "sitting": true,
       "party_id": "unknown",
@@ -267,59 +583,59 @@
       "roster_url": "http://www.wikidata.org/entity/Q113838856"
     },
     {
-      "id": "ian-ling-stuckey",
-      "name": "Ian Ling-Stuckey",
+      "id": "julie-soso-q24563",
+      "name": "Julie Soso",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q42631708"
+    },
+    {
+      "id": "leo-dion-q24563",
+      "name": "Leo Dion",
+      "sitting": true,
+      "party_id": "national-alliance-party",
+      "caucus": "National Alliance Party",
+      "constituency_label": "",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17318623"
+    },
+    {
+      "id": "akoka-doi-q24563",
+      "name": "Akoka Doi",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
-      "constituency_label": "Kavieng District",
+      "constituency_label": "",
       "chamber": "National Parliament of Papua New Guinea",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q5959129"
+      "roster_url": "http://www.wikidata.org/entity/Q29025244"
     },
     {
-      "id": "william-tongamp",
-      "name": "William Tongamp",
-      "sitting": true,
-      "party_id": "people-s-party",
-      "caucus": "People's Party",
-      "constituency_label": "Jiwaka Province",
-      "chamber": "National Parliament of Papua New Guinea",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q24053597"
-    },
-    {
-      "id": "don-polye",
-      "name": "Don Polye",
+      "id": "kingsford-dibela-q24563",
+      "name": "Kingsford Dibela",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
-      "constituency_label": "Kandep District",
+      "constituency_label": "",
       "chamber": "National Parliament of Papua New Guinea",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q1239419"
+      "roster_url": "http://www.wikidata.org/entity/Q957271"
     },
     {
-      "id": "jeffery-kuave",
-      "name": "Jeffery Kuave",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Lufa District",
-      "chamber": "National Parliament of Papua New Guinea",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q29638946"
-    },
-    {
-      "id": "powes-parkop",
+      "id": "powes-parkop-q24563",
       "name": "Powes Parkop",
       "sitting": true,
       "party_id": "social-democratic-party",
@@ -332,33 +648,72 @@
       "roster_url": "http://www.wikidata.org/entity/Q7236875"
     },
     {
-      "id": "john-pundari",
-      "name": "John Pundari",
+      "id": "peter-ipatas-q24563",
+      "name": "Peter Ipatas",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Kompiam District",
+      "party_id": "people-s-party",
+      "caucus": "People's Party",
+      "constituency_label": "Enga Province",
       "chamber": "National Parliament of Papua New Guinea",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q17318841"
+      "roster_url": "http://www.wikidata.org/entity/Q28967536"
     },
     {
-      "id": "joseph-lelang",
-      "name": "Joseph Lelang",
+      "id": "job-pomat-q24563",
+      "name": "Job Pomat",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Kandrian-Gloucester District",
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "",
       "chamber": "National Parliament of Papua New Guinea",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q113551449"
+      "roster_url": "http://www.wikidata.org/entity/Q90000254"
     },
     {
-      "id": "michael-marum",
+      "id": "loujaya-toni-q24563",
+      "name": "Loujaya Toni",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17319004"
+    },
+    {
+      "id": "ron-ganarafo-q24563",
+      "name": "Ron Ganarafo",
+      "sitting": true,
+      "party_id": "people-s-democratic-movement",
+      "caucus": "People's Democratic Movement",
+      "constituency_label": "Daulo District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29862015"
+    },
+    {
+      "id": "benjamin-poponawa-q24563",
+      "name": "Benjamin Poponawa",
+      "sitting": true,
+      "party_id": "national-alliance-party",
+      "caucus": "National Alliance Party",
+      "constituency_label": "Tambul-Nebilyer District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4889136"
+    },
+    {
+      "id": "michael-marum-q24563",
       "name": "Michael Marum",
       "sitting": true,
       "party_id": "unknown",
@@ -371,50 +726,102 @@
       "roster_url": "http://www.wikidata.org/entity/Q6832569"
     },
     {
-      "id": "maso-hewabi",
-      "name": "Maso Hewabi",
+      "id": "peter-humphreys-q24563",
+      "name": "Peter Humphreys",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Middle Fly District",
+      "party_id": "national-alliance-party",
+      "caucus": "National Alliance Party",
+      "constituency_label": "",
       "chamber": "National Parliament of Papua New Guinea",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q130558985"
+      "roster_url": "http://www.wikidata.org/entity/Q7174785"
     },
     {
-      "id": "william-hagahuno",
-      "name": "William Hagahuno",
+      "id": "sani-rambi-q24563",
+      "name": "Sani Rambi",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Kainantu District",
+      "party_id": "national-alliance-party",
+      "caucus": "National Alliance Party",
+      "constituency_label": "Mul-Baiyer District",
       "chamber": "National Parliament of Papua New Guinea",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q130559014"
+      "roster_url": "http://www.wikidata.org/entity/Q7418249"
     },
     {
-      "id": "jelta-wong",
-      "name": "Jelta Wong",
+      "id": "elias-kapavore-q24563",
+      "name": "Elias Kapavore",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Gazelle District",
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "Pomio District",
       "chamber": "National Parliament of Papua New Guinea",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q89992188"
+      "roster_url": "http://www.wikidata.org/entity/Q29584147"
     },
     {
-      "id": "kessy-sawang",
+      "id": "waliyato-clowes-q24563",
+      "name": "Waliyato Clowes",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q42506435"
+    },
+    {
+      "id": "allan-savenat-mesak-marat-q24563",
+      "name": "Allan Savenat Mesak Marat",
+      "sitting": true,
+      "party_id": "people-s-progress-party",
+      "caucus": "People's Progress Party",
+      "constituency_label": "Rabaul District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1631900"
+    },
+    {
+      "id": "malcolm-kela-smith-q24563",
+      "name": "Malcolm Kela Smith",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Eastern Highlands Province",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q96130472"
+    },
+    {
+      "id": "carol-kidu-q24563",
+      "name": "Carol Kidu",
+      "sitting": true,
+      "party_id": "melanesian-alliance-party",
+      "caucus": "Melanesian Alliance Party",
+      "constituency_label": "Moresby South",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2379592"
+    },
+    {
+      "id": "kessy-sawang-q24563",
       "name": "Kessy Sawang",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "people-s-first-party",
+      "caucus": "People's First Party",
       "constituency_label": "Maklay Coast",
       "chamber": "National Parliament of Papua New Guinea",
       "lang": [
@@ -423,33 +830,59 @@
       "roster_url": "http://www.wikidata.org/entity/Q113499830"
     },
     {
-      "id": "yangakun-miki-kaeok",
-      "name": "Yangakun Miki Kaeok",
+      "id": "francis-galia-maneke-q24563",
+      "name": "Francis Galia Maneke",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Wapenamanda District",
+      "party_id": "pangu-party",
+      "caucus": "Pangu Party",
+      "constituency_label": "Nakanai Open",
       "chamber": "National Parliament of Papua New Guinea",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q131152703"
+      "roster_url": "http://www.wikidata.org/entity/Q89817169"
     },
     {
-      "id": "ben-kiagi",
-      "name": "Ben Kiagi",
+      "id": "david-arore-q24563",
+      "name": "David Arore",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Daulo District",
+      "party_id": "national-alliance-party",
+      "caucus": "National Alliance Party",
+      "constituency_label": "",
       "chamber": "National Parliament of Papua New Guinea",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q131154179"
+      "roster_url": "http://www.wikidata.org/entity/Q5230872"
     },
     {
-      "id": "aiye-tambua",
+      "id": "peter-iwei-q24563",
+      "name": "Peter Iwei",
+      "sitting": true,
+      "party_id": "people-s-democratic-movement",
+      "caucus": "People's Democratic Movement",
+      "constituency_label": "",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7174843"
+    },
+    {
+      "id": "rufina-peter-q24563",
+      "name": "Rufina Peter",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "Central Province",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q113463040"
+    },
+    {
+      "id": "aiye-tambua-q24563",
       "name": "Aiye Tambua",
       "sitting": true,
       "party_id": "unknown",
@@ -462,24 +895,1194 @@
       "roster_url": "http://www.wikidata.org/entity/Q113833332"
     },
     {
-      "id": "aimos-joseph-akem",
-      "name": "Aimos Joseph Akem",
+      "id": "puri-ruing-q24563",
+      "name": "Puri Ruing",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Lagaip District",
+      "party_id": "people-s-democratic-movement",
+      "caucus": "People's Democratic Movement",
+      "constituency_label": "",
       "chamber": "National Parliament of Papua New Guinea",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q131433473"
+      "roster_url": "http://www.wikidata.org/entity/Q7261232"
     },
     {
-      "id": "solen-loifa",
-      "name": "Solen Loifa",
+      "id": "steven-pirika-kama-q24563",
+      "name": "Steven Pirika Kama",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
+      "constituency_label": "South Bougainville District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q22953338"
+    },
+    {
+      "id": "joseph-lelang-q24563",
+      "name": "Joseph Lelang",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "Kandrian-Gloucester District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q113551449"
+    },
+    {
+      "id": "sali-subam-q24563",
+      "name": "Sali Subam",
+      "sitting": true,
+      "party_id": "national-alliance-party",
+      "caucus": "National Alliance Party",
+      "constituency_label": "",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7404434"
+    },
+    {
+      "id": "julius-chan-q24563",
+      "name": "Julius Chan",
+      "sitting": true,
+      "party_id": "people-s-progress-party",
+      "caucus": "People's Progress Party",
+      "constituency_label": "New Ireland Province",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q950406"
+    },
+    {
+      "id": "simon-dumarinu-q24563",
+      "name": "Simon Dumarinu",
+      "sitting": true,
+      "party_id": "social-democratic-party",
+      "caucus": "Social Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q115054088"
+    },
+    {
+      "id": "puka-temu-q24563",
+      "name": "Puka Temu",
+      "sitting": true,
+      "party_id": "national-alliance-party",
+      "caucus": "National Alliance Party",
+      "constituency_label": "Abau District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2117670"
+    },
+    {
+      "id": "peter-isoaimo-q24563",
+      "name": "Peter Isoaimo",
+      "sitting": true,
+      "party_id": "national-alliance-party",
+      "caucus": "National Alliance Party",
+      "constituency_label": "Kairuku-Hiri District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29583256"
+    },
+    {
+      "id": "zibang-zurenuoc-q24563",
+      "name": "Zibang Zurenuoc",
+      "sitting": true,
+      "party_id": "people-s-progress-party",
+      "caucus": "People's Progress Party",
+      "constituency_label": "Finschhafen District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q8071441"
+    },
+    {
+      "id": "benjamin-mul-q24563",
+      "name": "Benjamin Mul",
+      "sitting": true,
+      "party_id": "triumph-heritage-empowerment-rural-party",
+      "caucus": "Triumph Heritage Empowerment Rural Party",
+      "constituency_label": "North Waghi District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4889049"
+    },
+    {
+      "id": "havila-kavo-q24563",
+      "name": "Havila Kavo",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "Gulf Province",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5683916"
+    },
+    {
+      "id": "lucas-waka-q24563",
+      "name": "Lucas Waka",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "West New Britain Provincial",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q118313919"
+    },
+    {
+      "id": "ben-micah-q24563",
+      "name": "Ben Micah",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q114060468"
+    },
+    {
+      "id": "simon-solo-q24563",
+      "name": "Simon Solo",
+      "sitting": true,
+      "party_id": "national-alliance-party",
+      "caucus": "National Alliance Party",
+      "constituency_label": "Sandaun Province",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7519801"
+    },
+    {
+      "id": "james-donald-q24563",
+      "name": "James Donald",
+      "sitting": true,
+      "party_id": "people-s-party",
+      "caucus": "People's Party",
+      "constituency_label": "North Fly District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q89927590"
+    },
+    {
+      "id": "isaac-joseph-q24563",
+      "name": "Isaac Joseph",
+      "sitting": true,
+      "party_id": "new-generation-party",
+      "caucus": "New Generation Party",
+      "constituency_label": "Mendi-Munihu District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6076583"
+    },
+    {
+      "id": "peter-waieng-q24563",
+      "name": "Peter Waieng",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Kundiawa-Gembogl District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15993624"
+    },
+    {
+      "id": "charlie-benjamin-q24563",
+      "name": "Charlie Benjamin",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "Manus Province",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29025022"
+    },
+    {
+      "id": "sekie-agisa-q24563",
+      "name": "Sekie Agisa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "South Fly District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86450088"
+    },
+    {
+      "id": "de-kewanu-q24563",
+      "name": "De Kewanu",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28966872"
+    },
+    {
+      "id": "paul-isikiel-q24563",
+      "name": "Paul Isikiel",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28974377"
+    },
+    {
+      "id": "mekere-morauta-q24563",
+      "name": "Mekere Morauta",
+      "sitting": true,
+      "party_id": "papua-new-guinea-party",
+      "caucus": "Papua New Guinea Party",
+      "constituency_label": "North West Central",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1381425"
+    },
+    {
+      "id": "isi-henry-leonard-q24563",
+      "name": "Isi Henry Leonard",
+      "sitting": true,
+      "party_id": "png-national-party",
+      "caucus": "PNG National Party",
+      "constituency_label": "Samarai-Murua District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q89921206"
+    },
+    {
+      "id": "kila-haoda-q24563",
+      "name": "Kila Haoda",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16225191"
+    },
+    {
+      "id": "samuel-basil-q24563",
+      "name": "Samuel Basil",
+      "sitting": true,
+      "party_id": "melanesian-alliance-party",
+      "caucus": "Melanesian Alliance Party",
+      "constituency_label": "Bulolo District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28966596"
+    },
+    {
+      "id": "manasseh-quiz-makiba-q24563",
+      "name": "Manasseh Quiz Makiba",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "Komo-Magarima District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q92784969"
+    },
+    {
+      "id": "bari-palma-q24563",
+      "name": "Bari Palma",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "Kerowagi District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q89778777"
+    },
+    {
+      "id": "mehrra-minne-kipefa-q24563",
+      "name": "Mehrra Minne Kipefa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Obura-Wonenara District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28967927"
+    },
+    {
+      "id": "allan-bird-q24563",
+      "name": "Allan Bird",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "East Sepik Province",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124713551"
+    },
+    {
+      "id": "rimbink-pato-q24563",
+      "name": "Rimbink Pato",
+      "sitting": true,
+      "party_id": "united-party",
+      "caucus": "United Party",
+      "constituency_label": "Wapenamanda District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17318820"
+    },
+    {
+      "id": "roy-biyama-q24563",
+      "name": "Roy Biyama",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "Middle Fly District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28962940"
+    },
+    {
+      "id": "paias-wingti-q24563",
+      "name": "Paias Wingti",
+      "sitting": true,
+      "party_id": "people-s-democratic-movement",
+      "caucus": "People's Democratic Movement",
+      "constituency_label": "Western Highlands Province",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2007264"
+    },
+    {
+      "id": "johnson-wapunai-q24563",
+      "name": "Johnson Wapunai",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "Ambunti-Dreikikir District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q92587750"
+    },
+    {
+      "id": "gary-juffa-q24563",
+      "name": "Gary Juffa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Oro Province",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q61800967"
+    },
+    {
+      "id": "davis-steven-q24563",
+      "name": "Davis Steven",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "Esa'ala District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q64740152"
+    },
+    {
+      "id": "koi-trappe-q24563",
+      "name": "Koi Trappe",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "Mul-Baiyer District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q92594028"
+    },
+    {
+      "id": "jeffery-komal-q24563",
+      "name": "Jeffery Komal",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "Nipa-Kutubu District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28967857"
+    },
+    {
+      "id": "sasindran-muthuvel-q24563",
+      "name": "Sasindran Muthuvel",
+      "sitting": true,
+      "party_id": "pangu-party",
+      "caucus": "Pangu Party",
+      "constituency_label": "West New Britain Province",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q25553147"
+    },
+    {
+      "id": "william-nakin-q24563",
+      "name": "William Nakin",
+      "sitting": true,
+      "party_id": "national-alliance-party",
+      "caucus": "National Alliance Party",
+      "constituency_label": "North Bougainville District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q90556856"
+    },
+    {
+      "id": "belden-namah-q24563",
+      "name": "Belden Namah",
+      "sitting": true,
+      "party_id": "papua-new-guinea-party",
+      "caucus": "Papua New Guinea Party",
+      "constituency_label": "Vanimo-Green River District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q815326"
+    },
+    {
+      "id": "lino-tom-q24563",
+      "name": "Lino Tom",
+      "sitting": true,
+      "party_id": "people-s-party",
+      "caucus": "People's Party",
+      "constituency_label": "Wabag District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q89782078"
+    },
+    {
+      "id": "richard-mendani-q24563",
+      "name": "Richard Mendani",
+      "sitting": true,
+      "party_id": "national-alliance-party",
+      "caucus": "National Alliance Party",
+      "constituency_label": "Kerema District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29944026"
+    },
+    {
+      "id": "john-luke-crittin-q24563",
+      "name": "John Luke Crittin",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "Milne Bay Province",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q92585016"
+    },
+    {
+      "id": "philip-undialu-q24563",
+      "name": "Philip Undialu",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "Hela Province",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q93146040"
+    },
+    {
+      "id": "geoffery-kama-q24563",
+      "name": "Geoffery Kama",
+      "sitting": true,
+      "party_id": "triumph-heritage-empowerment-rural-party",
+      "caucus": "Triumph Heritage Empowerment Rural Party",
+      "constituency_label": "Karimui-Nomane District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q89906305"
+    },
+    {
+      "id": "toboi-awi-yoto-q24563",
+      "name": "Toboi Awi Yoto",
+      "sitting": true,
+      "party_id": "united-resources-party",
+      "caucus": "United Resources Party",
+      "constituency_label": "Western Province",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q93350584"
+    },
+    {
+      "id": "michael-nali-q24563",
+      "name": "Michael Nali",
+      "sitting": true,
+      "party_id": "people-s-progress-party",
+      "caucus": "People's Progress Party",
+      "constituency_label": "Mendi-Munihu District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6833018"
+    },
+    {
+      "id": "nick-kopia-kuman-q24563",
+      "name": "Nick Kopia Kuman",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "Gumine District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q64746326"
+    },
+    {
+      "id": "william-marra-duma-q24563",
+      "name": "William Marra Duma",
+      "sitting": true,
+      "party_id": "united-resources-party",
+      "caucus": "United Resources Party",
+      "constituency_label": "Mount Hagen District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q93348468"
+    },
+    {
+      "id": "tony-puana-q24563",
+      "name": "Tony Puana",
+      "sitting": true,
+      "party_id": "new-generation-party",
+      "caucus": "New Generation Party",
+      "constituency_label": "",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7823216"
+    },
+    {
+      "id": "joe-sungi-q24563",
+      "name": "Joe Sungi",
+      "sitting": true,
+      "party_id": "national-alliance-party",
+      "caucus": "National Alliance Party",
+      "constituency_label": "Nuku District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q90144728"
+    },
+    {
+      "id": "justin-tkachenko-q24563",
+      "name": "Justin Tkachenko",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "Moresby South",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q85991458"
+    },
+    {
+      "id": "kobby-bomareo-q24563",
+      "name": "Kobby Bomareo",
+      "sitting": true,
+      "party_id": "pangu-party",
+      "caucus": "Pangu Party",
+      "constituency_label": "Tewae-Siassi District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q87476701"
+    },
+    {
+      "id": "kevin-isifu-q24563",
+      "name": "Kevin Isifu",
+      "sitting": true,
+      "party_id": "pangu-party",
+      "caucus": "Pangu Party",
+      "constituency_label": "Wewak District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q92487179"
+    },
+    {
+      "id": "jonny-ananias-alonk-q24563",
+      "name": "Jonny Ananias Alonk",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Middle Ramu District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q87466389"
+    },
+    {
+      "id": "sam-akoitai-q24563",
+      "name": "Sam Akoitai",
+      "sitting": true,
+      "party_id": "united-resources-party",
+      "caucus": "United Resources Party",
+      "constituency_label": "Central Bougainville District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7407084"
+    },
+    {
+      "id": "jimmy-uguro-q24563",
+      "name": "Jimmy Uguro",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "Usino Bundi District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q89995729"
+    },
+    {
+      "id": "william-hagahuno-q24563",
+      "name": "William Hagahuno",
+      "sitting": true,
+      "party_id": "united-resources-party",
+      "caucus": "United Resources Party",
+      "constituency_label": "Kainantu District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q130559014"
+    },
+    {
+      "id": "kennedy-manziong-wenge-q24563",
+      "name": "Kennedy Manziong Wenge",
+      "sitting": true,
+      "party_id": "melanesian-alliance-party",
+      "caucus": "Melanesian Alliance Party",
+      "constituency_label": "Nawae District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q86993820"
+    },
+    {
+      "id": "joe-kuli-q24563",
+      "name": "Joe Kuli",
+      "sitting": true,
+      "party_id": "united-resources-party",
+      "caucus": "United Resources Party",
+      "constituency_label": "Anglimp-South Waghi District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q90126334"
+    },
+    {
+      "id": "james-marape-q24563",
+      "name": "James Marape",
+      "sitting": true,
+      "party_id": "pangu-party",
+      "caucus": "Pangu Party",
+      "constituency_label": "",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6138903"
+    },
+    {
+      "id": "tobias-kulang-q24563",
+      "name": "Tobias Kulang",
+      "sitting": true,
+      "party_id": "people-s-progress-party",
+      "caucus": "People's Progress Party",
+      "constituency_label": "",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q30391049"
+    },
+    {
+      "id": "robert-atiyafa-q24563",
+      "name": "Robert Atiyafa",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "Henganofi District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28911703"
+    },
+    {
+      "id": "benny-allan-q24563",
+      "name": "Benny Allan",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "Unggai-Bena District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28911869"
+    },
+    {
+      "id": "henry-ame-q24563",
+      "name": "Henry Ame",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "Goroka District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q89910125"
+    },
+    {
+      "id": "maso-hewabi-q24563",
+      "name": "Maso Hewabi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Middle Fly District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q130558985"
+    },
+    {
+      "id": "rainbo-paita-q24563",
+      "name": "Rainbo Paita",
+      "sitting": true,
+      "party_id": "pangu-party",
+      "caucus": "Pangu Party",
+      "constituency_label": "Finschhafen District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q96054319"
+    },
+    {
+      "id": "timothy-masiu-q24563",
+      "name": "Timothy Masiu",
+      "sitting": true,
+      "party_id": "people-s-progress-party",
+      "caucus": "People's Progress Party",
+      "constituency_label": "South Bougainville District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29650223"
+    },
+    {
+      "id": "emil-tammur-q24563",
+      "name": "Emil Tammur",
+      "sitting": true,
+      "party_id": "people-s-progress-party",
+      "caucus": "People's Progress Party",
+      "constituency_label": "Kokopo District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q89783567"
+    },
+    {
+      "id": "douglas-tomuriesa-q24563",
+      "name": "Douglas Tomuriesa",
+      "sitting": true,
+      "party_id": "people-s-progress-party",
+      "caucus": "People's Progress Party",
+      "constituency_label": "Kiriwina-Goodenough District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19630347"
+    },
+    {
+      "id": "wake-goi-q24563",
+      "name": "Wake Goi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Jimi District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7960737"
+    },
+    {
+      "id": "yangakun-miki-kaeok-q24563",
+      "name": "Yangakun Miki Kaeok",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Wapenamanda District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131152703"
+    },
+    {
+      "id": "charles-kauvu-abel-q24563",
+      "name": "Charles Kauvu Abel",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q27975449"
+    },
+    {
+      "id": "peter-charles-yama-q24563",
+      "name": "Peter Charles Yama",
+      "sitting": true,
+      "party_id": "people-s-labour-party",
+      "caucus": "People's Labour Party",
+      "constituency_label": "",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7177816"
+    },
+    {
+      "id": "fabian-pok-q24563",
+      "name": "Fabian Pok",
+      "sitting": true,
+      "party_id": "united-resources-party",
+      "caucus": "United Resources Party",
+      "constituency_label": "North Waghi District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q89785640"
+    },
+    {
+      "id": "pila-kole-niningi-q24563",
+      "name": "Pila Kole Niningi",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "Imbonggu District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q64495984"
+    },
+    {
+      "id": "john-rosso-q24563",
+      "name": "John Rosso",
+      "sitting": true,
+      "party_id": "pangu-party",
+      "caucus": "Pangu Party",
+      "constituency_label": "Lae District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q80070005"
+    },
+    {
+      "id": "patrick-pruaitch-q24563",
+      "name": "Patrick Pruaitch",
+      "sitting": true,
+      "party_id": "national-alliance-party",
+      "caucus": "National Alliance Party",
+      "constituency_label": "Aitape-Lumi District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q35553617"
+    },
+    {
+      "id": "bryan-jared-kramer-q24563",
+      "name": "Bryan Jared Kramer",
+      "sitting": true,
+      "party_id": "pangu-party",
+      "caucus": "Pangu Party",
+      "constituency_label": "Madang District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56043281"
+    },
+    {
+      "id": "richard-maru-q24563",
+      "name": "Richard Maru",
+      "sitting": true,
+      "party_id": "national-alliance-party",
+      "caucus": "National Alliance Party",
+      "constituency_label": "Yangoru-Saussia District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q64746863"
+    },
+    {
+      "id": "ginson-gohehu-saonu-q24563",
+      "name": "Ginson Gohehu Saonu",
+      "sitting": true,
+      "party_id": "pangu-party",
+      "caucus": "Pangu Party",
+      "constituency_label": "Morobe Province",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q89906797"
+    },
+    {
+      "id": "john-simon-q24563",
+      "name": "John Simon",
+      "sitting": true,
+      "party_id": "pangu-party",
+      "caucus": "Pangu Party",
+      "constituency_label": "Maprik District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q89911048"
+    },
+    {
+      "id": "joe-lera-q24563",
+      "name": "Joe Lera",
+      "sitting": true,
+      "party_id": "united-resources-party",
+      "caucus": "United Resources Party",
+      "constituency_label": "Autonomous Region of Bougainville",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29791586"
+    },
+    {
+      "id": "robert-agarobe-q24563",
+      "name": "Robert Agarobe",
+      "sitting": true,
+      "party_id": "pangu-party",
+      "caucus": "Pangu Party",
+      "constituency_label": "",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q64359181"
+    },
+    {
+      "id": "koni-iguan-q24563",
+      "name": "Koni Iguan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Markham District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6429307"
+    },
+    {
+      "id": "keith-iduhu-q24563",
+      "name": "Keith Iduhu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131397101"
+    },
+    {
+      "id": "wera-mori-q24563",
+      "name": "Wera Mori",
+      "sitting": true,
+      "party_id": "triumph-heritage-empowerment-rural-party",
+      "caucus": "Triumph Heritage Empowerment Rural Party",
+      "constituency_label": "Chuave District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q96057708"
+    },
+    {
+      "id": "solan-mirisim-q24563",
+      "name": "Solan Mirisim",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "Telefomin District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q96059149"
+    },
+    {
+      "id": "thomas-opa-q24563",
+      "name": "Thomas Opa",
+      "sitting": true,
+      "party_id": "pangu-party",
+      "caucus": "Pangu Party",
+      "constituency_label": "Kerema District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131410363"
+    },
+    {
+      "id": "patrick-basa-q24563",
+      "name": "Patrick Basa",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "Kabwum District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q96638938"
+    },
+    {
+      "id": "william-samb-q24563",
+      "name": "William Samb",
+      "sitting": true,
+      "party_id": "pangu-party",
+      "caucus": "Pangu Party",
+      "constituency_label": "Goilala District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q96056567"
+    },
+    {
+      "id": "solen-loifa-q24563",
+      "name": "Solen Loifa",
+      "sitting": true,
+      "party_id": "pangu-party",
+      "caucus": "Pangu Party",
       "constituency_label": "Menyamya Open",
       "chamber": "National Parliament of Papua New Guinea",
       "lang": [
@@ -488,7 +2091,72 @@
       "roster_url": "http://www.wikidata.org/entity/Q134717136"
     },
     {
-      "id": "ekime-mek-gorosahu",
+      "id": "william-powi-q24563",
+      "name": "William Powi",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "Southern Highlands Province",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q96634095"
+    },
+    {
+      "id": "ben-kiagi-q24563",
+      "name": "Ben Kiagi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Daulo District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131154179"
+    },
+    {
+      "id": "westly-nukundj-q24563",
+      "name": "Westly Nukundj",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "Dei District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q96654358"
+    },
+    {
+      "id": "peter-o-neill-q24563",
+      "name": "Peter O'Neill",
+      "sitting": true,
+      "party_id": "people-s-national-congress-party",
+      "caucus": "People's National Congress Party",
+      "constituency_label": "Ialibu-Pangia District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57892"
+    },
+    {
+      "id": "aimos-joseph-akem-q24563",
+      "name": "Aimos Joseph Akem",
+      "sitting": true,
+      "party_id": "pangu-party",
+      "caucus": "Pangu Party",
+      "constituency_label": "Lagaip District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131433473"
+    },
+    {
+      "id": "ekime-mek-gorosahu-q24563",
       "name": "Ekime Mek Gorosahu",
       "sitting": true,
       "party_id": "unknown",
@@ -501,59 +2169,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131387505"
     },
     {
-      "id": "thomas-opa",
-      "name": "Thomas Opa",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Kerema District",
-      "chamber": "National Parliament of Papua New Guinea",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131410363"
-    },
-    {
-      "id": "peter-wararu-waranaka",
-      "name": "Peter Wararu Waranaka",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Yangoru-Saussia District",
-      "chamber": "National Parliament of Papua New Guinea",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7177586"
-    },
-    {
-      "id": "chris-haiveta",
-      "name": "Chris Haiveta",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Gulf Province",
-      "chamber": "National Parliament of Papua New Guinea",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5106757"
-    },
-    {
-      "id": "zibang-zurenuoc",
-      "name": "Zibang Zurenuoc",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Finschhafen District",
-      "chamber": "National Parliament of Papua New Guinea",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q8071441"
-    },
-    {
-      "id": "john-boito",
+      "id": "john-boito-q24563",
       "name": "John Boito",
       "sitting": true,
       "party_id": "unknown",
@@ -566,7 +2182,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131400341"
     },
     {
-      "id": "ramsey-pariwa",
+      "id": "ramsey-pariwa-q24563",
       "name": "Ramsey Pariwa",
       "sitting": true,
       "party_id": "unknown",
@@ -579,7 +2195,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131454365"
     },
     {
-      "id": "freddie-reu-kumai",
+      "id": "freddie-reu-kumai-q24563",
       "name": "Freddie Reu Kumai",
       "sitting": true,
       "party_id": "unknown",
@@ -592,20 +2208,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131462172"
     },
     {
-      "id": "puka-temu",
-      "name": "Puka Temu",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Abau District",
-      "chamber": "National Parliament of Papua New Guinea",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2117670"
-    },
-    {
-      "id": "casmiro-aia",
+      "id": "casmiro-aia-q24563",
       "name": "Casmiro Aia",
       "sitting": true,
       "party_id": "unknown",
@@ -618,7 +2221,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q131396346"
     },
     {
-      "id": "ereman-tobaining",
+      "id": "win-bakri-daki-q24563",
+      "name": "Win Bakri Daki",
+      "sitting": true,
+      "party_id": "pangu-party",
+      "caucus": "Pangu Party",
+      "constituency_label": "Tambul-Nebilyer District",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q96655331"
+    },
+    {
+      "id": "ereman-tobaining-q24563",
       "name": "Ereman ToBaining",
       "sitting": true,
       "party_id": "unknown",
@@ -631,20 +2247,46 @@
       "roster_url": "http://www.wikidata.org/entity/Q131432635"
     },
     {
-      "id": "allan-savenat-mesak-marat",
-      "name": "Allan Savenat Mesak Marat",
+      "id": "agena-gamai-q24563",
+      "name": "Agena Gamai",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Rabaul District",
+      "party_id": "papua-new-guinea-party",
+      "caucus": "Papua New Guinea Party",
+      "constituency_label": "",
       "chamber": "National Parliament of Papua New Guinea",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q1631900"
+      "roster_url": "http://www.wikidata.org/entity/Q131414375"
     },
     {
-      "id": "simon-sung-sing-sia",
+      "id": "nakikus-konga-q24563",
+      "name": "Nakikus Konga",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "East New Britain Province",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q114347590"
+    },
+    {
+      "id": "joseph-yopyyopy-q24563",
+      "name": "Joseph Yopyyopy",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Parliament of Papua New Guinea",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116897932"
+    },
+    {
+      "id": "simon-sung-sing-sia-q24563",
       "name": "Simon Sung Sing Sia",
       "sitting": true,
       "party_id": "unknown",

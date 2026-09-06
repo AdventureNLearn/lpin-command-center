@@ -1,0 +1,44 @@
+{
+  "iso2": "mw",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q1020",
+  "bodies": [
+    {
+      "qid": "Q21295990",
+      "label": "Member of the National Assembly of Malawi",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1577811",
+      "label": "National Assembly",
+      "seats": 193,
+      "web": "http://www.parliament.gov.mw/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Member of the National Assembly of Malawi"
+  ],
+  "seats": 193,
+  "items": [
+    {
+      "id": "Q21295990",
+      "name": "Member of the National Assembly of Malawi",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q21295990"
+    },
+    {
+      "id": "Q1577811",
+      "name": "National Assembly",
+      "kind": "parliament",
+      "seats": 193,
+      "url": "http://www.parliament.gov.mw/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

@@ -3,8 +3,46 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q4902948"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q4902948",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q2993867",
+      "label": "Council of States",
+      "url": "http://www.councilofstates.gov.sd/en/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q2993867",
+      "label": "Council of States (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q2993867",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q4902948",
+      "label": "National Legislature (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q4902948",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1969569",
+      "label": "National Assembly",
+      "url": "http://www.parliament.gov.sd",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1969569",
+      "label": "National Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1969569",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

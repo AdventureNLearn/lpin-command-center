@@ -1,0 +1,59 @@
+{
+  "iso2": "rw",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q1037",
+  "bodies": [
+    {
+      "qid": "Q4162795",
+      "label": "Parliament of Rwanda",
+      "seats": 0,
+      "web": "https://www.parliament.gov.rw/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q320292",
+      "label": "Chamber of Deputies",
+      "seats": 80,
+      "web": "https://www.parliament.gov.rw/chamber-of-deputies-2/mandate",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q3510861",
+      "label": "Senate of Rwanda",
+      "seats": 26,
+      "web": "https://www.parliament.gov.rw/senate-2/mandate",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Chamber of Deputies",
+    "Senate of Rwanda"
+  ],
+  "seats": 106,
+  "items": [
+    {
+      "id": "Q4162795",
+      "name": "Parliament of Rwanda",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://www.parliament.gov.rw/"
+    },
+    {
+      "id": "Q320292",
+      "name": "Chamber of Deputies",
+      "kind": "chamber",
+      "seats": 80,
+      "url": "https://www.parliament.gov.rw/chamber-of-deputies-2/mandate"
+    },
+    {
+      "id": "Q3510861",
+      "name": "Senate of Rwanda",
+      "kind": "chamber",
+      "seats": 26,
+      "url": "https://www.parliament.gov.rw/senate-2/mandate"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

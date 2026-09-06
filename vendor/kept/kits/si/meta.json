@@ -3,9 +3,9 @@
   "name": "Slovenia",
   "region": "",
   "chamber": "Slovenian Parliament",
-  "houses": "",
+  "houses": "bicameral",
   "system": "",
-  "seats": 196,
+  "seats": 130,
   "election": "",
   "session": "",
   "kit": "map",
@@ -14,20 +14,30 @@
   ],
   "threshold": 5,
   "counts": {
-    "members": 196,
-    "sitting": 196,
+    "members": 233,
+    "sitting": 233,
     "votes": 0,
     "committees": 0,
     "key_votes": 0,
-    "sourced_quotes": 0
+    "sourced_quotes": 0,
+    "pledged": 0
   },
   "capabilities": [
-    "members"
+    "members",
+    "pledges",
+    "votes",
+    "issues",
+    "gap",
+    "caucus",
+    "committees",
+    "ethics",
+    "money",
+    "method"
   ],
   "basis": "Evidence",
   "incomplete": true,
   "lane": "lpin-wikidata-fill",
   "source_live": null,
-  "note": "Wikidata sitting pull 2026-09-06. 256 named. Vacancies not invented.",
+  "note": "Full-ISO Wikidata fill 2026-09-06. 3 bodies. Sitting 233. Votes/pledges/ethics/money not invented.",
   "roster_source": "https://www.wikidata.org/wiki/Q1288169"
 }

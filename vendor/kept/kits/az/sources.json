@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q330600"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q330600",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21269547",
+      "label": "member of the National Assembly of Azerbaijan (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21269547",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q330600",
+      "label": "National Assembly of Azerbaijan",
+      "url": "https://meclis.gov.az",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q330600",
+      "label": "National Assembly of Azerbaijan (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q330600",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

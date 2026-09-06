@@ -1,28 +1,7 @@
 {
   "iso2": "ke",
-  "named_donors": false,
-  "unit": "KES",
-  "sitting_total_reconstructed": 1228300000,
-  "buckets": [
-    {
-      "label": "PPF 70% (votes at preceding general election)",
-      "amount": 859810000
-    },
-    {
-      "label": "PPF 15% (special interest groups elected)",
-      "amount": 184245000
-    },
-    {
-      "label": "PPF 10% (elected representatives)",
-      "amount": 122830000
-    },
-    {
-      "label": "PPF administration (ORPP)",
-      "amount": 61415000
-    }
-  ],
+  "items": [],
   "incomplete": true,
-  "source_url": "https://orpp.or.ke/wp-content/uploads/2026/02/ORPP-ANNUAL-REPORT-fy-24-25-compressed.pdf",
-  "note": "Third pass (IEBC / Parliament / Controller of Budget https). No official sitting-only National Assembly occupation aggregate after examination. parliament.go.ke MP list/house/chart HTTP 200/200/200/200: seat-type headcount (elected/women/nominated), not occupation. Cached NA MP pages: 220 html; occupation field=0; employment-history tables=195. Free-text employment was not classified into invented occupation classes. IEBC iebc.or.ke home/resources/electionlaws/ECF-news HTTP 200/200/200/200 (curl UA; node fetch 0). No sitting-NA occupation-of-donor or source-type statistical yearbook. Electoral Laws pages list Draft ECF Regulations and 2027 spending/contribution-limit determinations (maxima / formulae / memoranda) — not received-KES actuals, not stored. ECF news: first full implementation targeted for 2027; no sitting-campaign return table. Named private donors not collected. KES totals not invented from IEBC donor names. Controller of Budget cob.go.ke HTTP 200/200/200/200/200/200 (pdf_follow=2; pdf_extracted=2: NG-BIRR FY2024/25 annual + first nine months). Examined pages are National Government Budget Implementation Review Reports (MDA / exchequer performance under Art. 228(6)), not a sitting-NA occupation census and not sitting-campaign KES. Parliamentary Service Commission / National Assembly vote chapters are institutional operating budget, not sitting-member occupation or campaign-finance buckets, and were not stored. Existing ORPP Political Parties Fund public-finance buckets kept (party-wide Fund; not sitting-NA-only; not occupation-of-donor). No additional official sitting-only aggregate. Honest incomplete.",
-  "retrieved": "2026-08-21"
+  "retrieved": "2026-09-06",
+  "note": "No sourced money for this ISO. Not invented."
 }

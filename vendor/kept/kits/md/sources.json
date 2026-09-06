@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q555809"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q555809",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q555809",
+      "label": "Parliament of the Republic of Moldova",
+      "url": "https://parlament.md/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q555809",
+      "label": "Parliament of the Republic of Moldova (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q555809",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q18390049",
+      "label": "member of the Parliament of Moldova (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q18390049",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

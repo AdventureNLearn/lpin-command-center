@@ -3,11 +3,11 @@
   "name": "Ghana",
   "region": "africa",
   "chamber": "Parliament of Ghana",
-  "houses": "",
+  "houses": "unicameral",
   "system": "",
-  "seats": 0,
+  "seats": 275,
   "election": "",
-  "session": "9th of 4th Republic (2025\u2013)",
+  "session": "9th of 4th Republic (2025–)",
   "kit": "map",
   "lang": [
     "en"
@@ -19,7 +19,8 @@
     "votes": 193,
     "committees": 44,
     "key_votes": 0,
-    "sourced_quotes": 14
+    "sourced_quotes": 14,
+    "pledged": 14
   },
   "capabilities": [
     "members",
@@ -38,7 +39,7 @@
   "lane": "gold-kit-8103",
   "source_live": null,
   "note": "GH honest-complete 2026-08-21. Sit 275. Pledges 14 hunt-stop (personal Hansard only). Votes 193 named 0 (clerk VP through 29 Jul 2026; 8th leftover out of session; yeas unpublished). Comm 44 packed. Ethics 0 honest empty (sealed Act 550). Money 0 honest empty. Gap 0 after dual-source exam (0 member positions).",
-  "roster_source": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_2024_Ghanaian_general_election",
+  "roster_source": "https://www.wikidata.org/wiki/Q1807513",
   "honest_complete": true,
   "flagged_by": "CoS",
   "flagged_at": "2026-08-21T17:28:38Z"

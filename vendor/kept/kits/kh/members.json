@@ -3,1737 +3,1859 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1320418",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 133,
+  "incomplete": true,
+  "claimed_seats": 184,
+  "chambers": [
+    "Senate of Cambodia",
+    "Parliament of Cambodia",
+    "National Assembly"
+  ],
   "items": [
     {
-      "id": "chea-sim",
+      "id": "chea-sim-q3055339",
       "name": "Chea Sim",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
       "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
+      "chamber": "Senate of Cambodia",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q1068666"
     },
     {
-      "id": "ly-son",
-      "name": "Ly Son",
+      "id": "kok-an-q3055339",
+      "name": "Kok An",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
+      "chamber": "Senate of Cambodia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q6707006"
+      "roster_url": "http://www.wikidata.org/entity/Q117066137"
     },
     {
-      "id": "mu-sochua",
-      "name": "Mu Sochua",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1539074"
-    },
-    {
-      "id": "chan-sy",
-      "name": "Chan Sy",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1646066"
-    },
-    {
-      "id": "pen-sovan",
-      "name": "Pen Sovan",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1935910"
-    },
-    {
-      "id": "kong-sam-ol",
-      "name": "Kong Sam Ol",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Kampong Chhnang Province",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16190676"
-    },
-    {
-      "id": "pa-socheatvong",
-      "name": "Pa Socheatvong",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q14939366"
-    },
-    {
-      "id": "keb-chutema",
-      "name": "Keb Chutema",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3194577"
-    },
-    {
-      "id": "kem-sokha",
-      "name": "Kem Sokha",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3194965"
-    },
-    {
-      "id": "lu-laysreng",
-      "name": "Lu Laysreng",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16104907"
-    },
-    {
-      "id": "sar-kheng",
-      "name": "Sar Kheng",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16150274"
-    },
-    {
-      "id": "ho-non",
-      "name": "Ho Non",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16190556"
-    },
-    {
-      "id": "ith-prang",
-      "name": "Ith Prang",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16190599"
-    },
-    {
-      "id": "min-sean",
-      "name": "Min Sean",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16190835"
-    },
-    {
-      "id": "nguon-nhel",
-      "name": "Nguon Nhel",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16190921"
-    },
-    {
-      "id": "suy-sem",
-      "name": "Suy Sem",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16191229"
-    },
-    {
-      "id": "sim-ka",
-      "name": "Sim Ka",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16191271"
-    },
-    {
-      "id": "hun-mani",
-      "name": "Hun Mani",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16729974"
-    },
-    {
-      "id": "khuon-sodary",
-      "name": "Khuon Sodary",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16730825"
-    },
-    {
-      "id": "kuoch-ky",
-      "name": "Kuoch Ky",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16731110"
-    },
-    {
-      "id": "ly-thuch",
-      "name": "Ly Thuch",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16731714"
-    },
-    {
-      "id": "mam-bun-neang",
-      "name": "Mam Bun Neang",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16733230"
-    },
-    {
-      "id": "ngor-sovann",
-      "name": "Ngor Sovann",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16733324"
-    },
-    {
-      "id": "yim-sovann",
-      "name": "Yim Sovann",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16751397"
-    },
-    {
-      "id": "hangchuon-naron",
-      "name": "Hangchuon Naron",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16864093"
-    },
-    {
-      "id": "aun-porn-moniroth",
-      "name": "Aun Porn Moniroth",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16979822"
-    },
-    {
-      "id": "phoeung-sakona",
-      "name": "Phoeung Sakona",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q17523926"
-    },
-    {
-      "id": "pol-hom",
-      "name": "Pol Hom",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q17708806"
-    },
-    {
-      "id": "choulong-somora",
-      "name": "Choulong Somora",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q536071"
-    },
-    {
-      "id": "yem-ponhearith",
-      "name": "Yem Ponhearith",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q18208486"
-    },
-    {
-      "id": "khieu-kanharith",
-      "name": "Khieu Kanharith",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Kampong Cham Province",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4922790"
-    },
-    {
-      "id": "amath-yashya",
-      "name": "Amath Yashya",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4740599"
-    },
-    {
-      "id": "dien-del",
-      "name": "Dien Del",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q601348"
-    },
-    {
-      "id": "ay-khorn",
-      "name": "Ay Khorn",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4830741"
-    },
-    {
-      "id": "bou-thang",
-      "name": "Bou Thang",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4949211"
-    },
-    {
-      "id": "tep-sothy",
-      "name": "Tep Sothy",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19665914"
-    },
-    {
-      "id": "cham-prasidh",
-      "name": "Cham Prasidh",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5069253"
-    },
-    {
-      "id": "chan-cheng",
-      "name": "Chan Cheng",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5070292"
-    },
-    {
-      "id": "chan-sarun",
-      "name": "Chan Sarun",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5070358"
-    },
-    {
-      "id": "chay-saing-yun",
-      "name": "Chay Saing Yun",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5088596"
-    },
-    {
-      "id": "chea-poch",
-      "name": "Chea Poch",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5088784"
-    },
-    {
-      "id": "chea-soth",
-      "name": "Chea Soth",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5088785"
-    },
-    {
-      "id": "cheam-channy",
-      "name": "Cheam Channy",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5088824"
-    },
-    {
-      "id": "cheam-yeab",
-      "name": "Cheam Yeab",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5088833"
-    },
-    {
-      "id": "chhan-saphan",
-      "name": "Chhan Saphan",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5094764"
-    },
-    {
-      "id": "chhay-tan",
-      "name": "Chhay Tan",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5094851"
-    },
-    {
-      "id": "chhim-siek-leng",
-      "name": "Chhim Siek Leng",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5094884"
-    },
-    {
-      "id": "chhor-leang-huot",
-      "name": "Chhor Leang Huot",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5094928"
-    },
-    {
-      "id": "chin-bun-sean",
-      "name": "Chin Bun Sean",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5099470"
-    },
-    {
-      "id": "chrea-sochenda",
-      "name": "Chrea Sochenda",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5105630"
-    },
-    {
-      "id": "dul-koeun",
-      "name": "Dul Koeun",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5313264"
-    },
-    {
-      "id": "duong-vanna",
-      "name": "Duong Vanna",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5315890"
-    },
-    {
-      "id": "ek-sam-ol",
-      "name": "Ek Sam Ol",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5350238"
-    },
-    {
-      "id": "sam-rainsy",
-      "name": "Sam Rainsy",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q656817"
-    },
-    {
-      "id": "eng-chhai-eang",
-      "name": "Eng Chhai Eang",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5377367"
-    },
-    {
-      "id": "hem-khorn",
-      "name": "Hem Khorn",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5710857"
-    },
-    {
-      "id": "him-chhem",
-      "name": "Him Chhem",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5764812"
-    },
-    {
-      "id": "ho-vann",
-      "name": "Ho Vann",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5874181"
-    },
-    {
-      "id": "hong-sun-huot",
-      "name": "Hong Sun Huot",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5895678"
-    },
-    {
-      "id": "kimsour-phirith",
-      "name": "Kimsour Phirith",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5909563"
-    },
-    {
-      "id": "hul-savorn",
-      "name": "Hul Savorn",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5935452"
-    },
-    {
-      "id": "im-chhun-lim",
-      "name": "Im Chhun Lim",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6001780"
-    },
-    {
-      "id": "im-sothy",
-      "name": "Im Sothy",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6001836"
-    },
-    {
-      "id": "say-sam-al",
-      "name": "Say Sam Al",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q22100150"
-    },
-    {
-      "id": "kea-sahorn",
-      "name": "Kea Sahorn",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6382070"
-    },
-    {
-      "id": "keo-saphal",
-      "name": "Keo Saphal",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6393002"
-    },
-    {
-      "id": "keo-remy",
-      "name": "Keo Remy",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6393000"
-    },
-    {
-      "id": "ker-sonarorth",
-      "name": "Ker Sonarorth",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6393268"
-    },
-    {
-      "id": "khek-vandy",
-      "name": "Khek Vandy",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6401227"
-    },
-    {
-      "id": "khun-haing",
-      "name": "Khun Haing",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6402973"
-    },
-    {
-      "id": "khy-taing-lim",
-      "name": "Khy Taing Lim",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6403463"
-    },
-    {
-      "id": "kieng-vang",
-      "name": "Kieng Vang",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6405308"
-    },
-    {
-      "id": "kuoy-bun-reun",
-      "name": "Kuoy Bun Reun",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6445279"
-    },
-    {
-      "id": "prak-sokhon",
-      "name": "Prak Sokhon",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q23771428"
-    },
-    {
-      "id": "norodom-vichara",
-      "name": "Norodom Vichara",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6581557"
-    },
-    {
-      "id": "mao-monyvann",
-      "name": "Mao Monyvann",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6753591"
-    },
-    {
-      "id": "math-ly",
-      "name": "Math Ly",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6786763"
-    },
-    {
-      "id": "men-sam-an",
-      "name": "Men Sam An",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6816221"
-    },
-    {
-      "id": "mey-norn",
-      "name": "Mey Norn",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6826334"
-    },
-    {
-      "id": "ly-kim-leang",
-      "name": "Ly Kim Leang",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q25680140"
-    },
-    {
-      "id": "chea-sophara",
-      "name": "Chea Sophara",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Tbong Khmum Province",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q22099925"
-    },
-    {
-      "id": "ing-kuntha-phavi",
-      "name": "Ing Kuntha Phavi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28412157"
-    },
-    {
-      "id": "ek-sereywath",
-      "name": "Ek Sereywath",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28542578"
-    },
-    {
-      "id": "bin-chhin",
-      "name": "Bin Chhin",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28969538"
-    },
-    {
-      "id": "veng-sakhon",
-      "name": "Veng Sakhon",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q54362350"
-    },
-    {
-      "id": "suos-yara",
-      "name": "Suos Yara",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56223552"
-    },
-    {
-      "id": "mam-bunheng",
-      "name": "Mam Bunheng",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56255440"
-    },
-    {
-      "id": "lork-kheng",
-      "name": "Lork Kheng",
+      "id": "samrith-pech-q1234896",
+      "name": "Samrith Pech",
       "sitting": true,
       "party_id": "cambodian-people-s-party",
       "caucus": "Cambodian People's Party",
       "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q134412924"
-    },
-    {
-      "id": "sok-pheng",
-      "name": "Sok Pheng",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7555060"
-    },
-    {
-      "id": "sok-san",
-      "name": "Sok San",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7555064"
-    },
-    {
-      "id": "cheng-heng",
-      "name": "Cheng Heng",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q953209"
-    },
-    {
-      "id": "mok-mareth",
-      "name": "Mok Mareth",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6895205"
-    },
-    {
-      "id": "mom-chim-huy",
-      "name": "Mom Chim Huy",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6897008"
-    },
-    {
-      "id": "monh-saphan",
-      "name": "Monh Saphan",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6899830"
-    },
-    {
-      "id": "ngin-khorn",
-      "name": "Ngin Khorn",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7022359"
-    },
-    {
-      "id": "nhek-bun-chhay",
-      "name": "Nhek Bun Chhay",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7023348"
-    },
-    {
-      "id": "nhim-vanda",
-      "name": "Nhim Vanda",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7023358"
-    },
-    {
-      "id": "nim-thot",
-      "name": "Nim Thot",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7037514"
-    },
-    {
-      "id": "nin-saphon",
-      "name": "Nin Saphon",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7037818"
-    },
-    {
-      "id": "norodom-rattana-devi",
-      "name": "Norodom Rattana Devi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7053176"
-    },
-    {
-      "id": "nou-sam",
-      "name": "Nou Sam",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7063799"
-    },
-    {
-      "id": "nuth-rumduol",
-      "name": "Nuth Rumduol",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7070444"
-    },
-    {
-      "id": "pal-sam-oeun",
-      "name": "Pal Sam Oeun",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7126120"
-    },
-    {
-      "id": "pen-panha",
-      "name": "Pen Panha",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7162098"
-    },
-    {
-      "id": "poa-bun-sreu",
-      "name": "Poa Bun Sreu",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7206122"
-    },
-    {
-      "id": "poa-try",
-      "name": "Poa Try",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7206124"
-    },
-    {
-      "id": "pou-sohtireak",
-      "name": "Pou Sohtireak",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7235451"
-    },
-    {
-      "id": "rath-sarem",
-      "name": "Rath Sarem",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7295579"
-    },
-    {
-      "id": "samrith-pech",
-      "name": "Samrith Pech",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q7410301"
     },
     {
-      "id": "say-chhum",
+      "id": "say-chhum-q1234896",
       "name": "Say Chhum",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
       "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q7428913"
     },
     {
-      "id": "sieng-nam",
+      "id": "norodom-vichara-q1234896",
+      "name": "Norodom Vichara",
+      "sitting": true,
+      "party_id": "national-united-front-for-an-independent-neutral-peaceful-and-cooperative-cambodia",
+      "caucus": "National United Front for an Independent, Neutral, Peaceful and Cooperative Cambodia",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6581557"
+    },
+    {
+      "id": "kea-sahorn-q1234896",
+      "name": "Kea Sahorn",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6382070"
+    },
+    {
+      "id": "keo-saphal-q1234896",
+      "name": "Keo Saphal",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6393002"
+    },
+    {
+      "id": "keo-remy-q1234896",
+      "name": "Keo Remy",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6393000"
+    },
+    {
+      "id": "sieng-nam-q1234896",
       "name": "Sieng Nam",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
       "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q7511072"
     },
     {
-      "id": "so-khun",
-      "name": "So Khun",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7549331"
-    },
-    {
-      "id": "sok-soty",
-      "name": "Sok Soty",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7555065"
-    },
-    {
-      "id": "som-kimsuor",
-      "name": "Som Kimsuor",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7559076"
-    },
-    {
-      "id": "son-chhay",
+      "id": "son-chhay-q1234896",
       "name": "Son Chhay",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "cambodian-national-rescue-party",
+      "caucus": "Cambodian National Rescue Party",
       "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q7560572"
     },
     {
-      "id": "sorn-inthor",
+      "id": "dien-del-q1234896",
+      "name": "Dien Del",
+      "sitting": true,
+      "party_id": "national-united-front-for-an-independent-neutral-peaceful-and-cooperative-cambodia",
+      "caucus": "National United Front for an Independent, Neutral, Peaceful and Cooperative Cambodia",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q601348"
+    },
+    {
+      "id": "so-khun-q1234896",
+      "name": "So Khun",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7549331"
+    },
+    {
+      "id": "amath-yashya-q1234896",
+      "name": "Amath Yashya",
+      "sitting": true,
+      "party_id": "sam-rainsy-party",
+      "caucus": "Sam Rainsy Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4740599"
+    },
+    {
+      "id": "som-kimsuor-q1234896",
+      "name": "Som Kimsuor",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7559076"
+    },
+    {
+      "id": "sorn-inthor-q1234896",
       "name": "Sorn Inthor",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
       "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q7563596"
     },
     {
-      "id": "suk-sam-eng",
+      "id": "hong-sun-huot-q1234896",
+      "name": "Hong Sun Huot",
+      "sitting": true,
+      "party_id": "national-united-front-for-an-independent-neutral-peaceful-and-cooperative-cambodia",
+      "caucus": "National United Front for an Independent, Neutral, Peaceful and Cooperative Cambodia",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5895678"
+    },
+    {
+      "id": "sok-an-q1234896",
+      "name": "Sok An",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1385794"
+    },
+    {
+      "id": "keat-chhon-q1234896",
+      "name": "Keat Chhon",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "Kampong Cham",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6382284"
+    },
+    {
+      "id": "ho-vann-q1234896",
+      "name": "Ho Vann",
+      "sitting": true,
+      "party_id": "sam-rainsy-party",
+      "caucus": "Sam Rainsy Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5874181"
+    },
+    {
+      "id": "suk-sam-eng-q1234896",
       "name": "Suk Sam Eng",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
       "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q7635699"
     },
     {
-      "id": "sun-chanthol",
+      "id": "kimsour-phirith-q1234896",
+      "name": "Kimsour Phirith",
+      "sitting": true,
+      "party_id": "sam-rainsy-party",
+      "caucus": "Sam Rainsy Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5909563"
+    },
+    {
+      "id": "mao-monyvann-q1234896",
+      "name": "Mao Monyvann",
+      "sitting": true,
+      "party_id": "sam-rainsy-party",
+      "caucus": "Sam Rainsy Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6753591"
+    },
+    {
+      "id": "cheng-heng-q1234896",
+      "name": "Cheng Heng",
+      "sitting": true,
+      "party_id": "sangkum",
+      "caucus": "Sangkum",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q953209"
+    },
+    {
+      "id": "monh-saphan-q1234896",
+      "name": "Monh Saphan",
+      "sitting": true,
+      "party_id": "national-united-front-for-an-independent-neutral-peaceful-and-cooperative-cambodia",
+      "caucus": "National United Front for an Independent, Neutral, Peaceful and Cooperative Cambodia",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6899830"
+    },
+    {
+      "id": "hem-khorn-q1234896",
+      "name": "Hem Khorn",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5710857"
+    },
+    {
+      "id": "him-chhem-q1234896",
+      "name": "Him Chhem",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5764812"
+    },
+    {
+      "id": "mu-sochua-q1234896",
+      "name": "Mu Sochua",
+      "sitting": true,
+      "party_id": "national-united-front-for-an-independent-neutral-peaceful-and-cooperative-cambodia",
+      "caucus": "National United Front for an Independent, Neutral, Peaceful and Cooperative Cambodia",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1539074"
+    },
+    {
+      "id": "pen-sovan-q1234896",
+      "name": "Pen Sovan",
+      "sitting": true,
+      "party_id": "human-rights-party",
+      "caucus": "Human Rights Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1935910"
+    },
+    {
+      "id": "ay-khorn-q1234896",
+      "name": "Ay Khorn",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4830741"
+    },
+    {
+      "id": "chhim-siek-leng-q1234896",
+      "name": "Chhim Siek Leng",
+      "sitting": true,
+      "party_id": "national-united-front-for-an-independent-neutral-peaceful-and-cooperative-cambodia",
+      "caucus": "National United Front for an Independent, Neutral, Peaceful and Cooperative Cambodia",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5094884"
+    },
+    {
+      "id": "nhek-bun-chhay-q1234896",
+      "name": "Nhek Bun Chhay",
+      "sitting": true,
+      "party_id": "national-united-front-for-an-independent-neutral-peaceful-and-cooperative-cambodia",
+      "caucus": "National United Front for an Independent, Neutral, Peaceful and Cooperative Cambodia",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7023348"
+    },
+    {
+      "id": "hul-savorn-q1234896",
+      "name": "Hul Savorn",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5935452"
+    },
+    {
+      "id": "norodom-rattana-devi-q1234896",
+      "name": "Norodom Rattana Devi",
+      "sitting": true,
+      "party_id": "national-united-front-for-an-independent-neutral-peaceful-and-cooperative-cambodia",
+      "caucus": "National United Front for an Independent, Neutral, Peaceful and Cooperative Cambodia",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7053176"
+    },
+    {
+      "id": "chan-cheng-q1234896",
+      "name": "Chan Cheng",
+      "sitting": true,
+      "party_id": "sam-rainsy-party",
+      "caucus": "Sam Rainsy Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5070292"
+    },
+    {
+      "id": "khieu-kanharith-q1234896",
+      "name": "Khieu Kanharith",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "Phnom Penh",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4922790"
+    },
+    {
+      "id": "kem-sokha-q1234896",
+      "name": "Kem Sokha",
+      "sitting": true,
+      "party_id": "national-united-front-for-an-independent-neutral-peaceful-and-cooperative-cambodia",
+      "caucus": "National United Front for an Independent, Neutral, Peaceful and Cooperative Cambodia",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3194965"
+    },
+    {
+      "id": "math-ly-q1234896",
+      "name": "Math Ly",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6786763"
+    },
+    {
+      "id": "tea-banh-q1234896",
+      "name": "Tea Banh",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4922569"
+    },
+    {
+      "id": "chea-poch-q1234896",
+      "name": "Chea Poch",
+      "sitting": true,
+      "party_id": "sam-rainsy-party",
+      "caucus": "Sam Rainsy Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5088784"
+    },
+    {
+      "id": "cheam-channy-q1234896",
+      "name": "Cheam Channy",
+      "sitting": true,
+      "party_id": "sam-rainsy-party",
+      "caucus": "Sam Rainsy Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5088824"
+    },
+    {
+      "id": "men-sam-an-q1234896",
+      "name": "Men Sam An",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6816221"
+    },
+    {
+      "id": "chrea-sochenda-q1234896",
+      "name": "Chrea Sochenda",
+      "sitting": true,
+      "party_id": "sam-rainsy-party",
+      "caucus": "Sam Rainsy Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5105630"
+    },
+    {
+      "id": "mey-norn-q1234896",
+      "name": "Mey Norn",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6826334"
+    },
+    {
+      "id": "bou-thang-q1234896",
+      "name": "Bou Thang",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4949211"
+    },
+    {
+      "id": "im-chhun-lim-q1234896",
+      "name": "Im Chhun Lim",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6001780"
+    },
+    {
+      "id": "im-sothy-q1234896",
+      "name": "Im Sothy",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6001836"
+    },
+    {
+      "id": "nuth-rumduol-q1234896",
+      "name": "Nuth Rumduol",
+      "sitting": true,
+      "party_id": "sam-rainsy-party",
+      "caucus": "Sam Rainsy Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7070444"
+    },
+    {
+      "id": "mok-mareth-q1234896",
+      "name": "Mok Mareth",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6895205"
+    },
+    {
+      "id": "mom-chim-huy-q1234896",
+      "name": "Mom Chim Huy",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6897008"
+    },
+    {
+      "id": "poa-bun-sreu-q1234896",
+      "name": "Poa Bun Sreu",
+      "sitting": true,
+      "party_id": "national-united-front-for-an-independent-neutral-peaceful-and-cooperative-cambodia",
+      "caucus": "National United Front for an Independent, Neutral, Peaceful and Cooperative Cambodia",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7206122"
+    },
+    {
+      "id": "pou-sohtireak-q1234896",
+      "name": "Pou Sohtireak",
+      "sitting": true,
+      "party_id": "national-united-front-for-an-independent-neutral-peaceful-and-cooperative-cambodia",
+      "caucus": "National United Front for an Independent, Neutral, Peaceful and Cooperative Cambodia",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7235451"
+    },
+    {
+      "id": "hor-namhong-q1234896",
+      "name": "Hor Namhong",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58287"
+    },
+    {
+      "id": "sam-rainsy-q1234896",
+      "name": "Sam Rainsy",
+      "sitting": true,
+      "party_id": "national-united-front-for-an-independent-neutral-peaceful-and-cooperative-cambodia",
+      "caucus": "National United Front for an Independent, Neutral, Peaceful and Cooperative Cambodia",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q656817"
+    },
+    {
+      "id": "cham-prasidh-q1234896",
+      "name": "Cham Prasidh",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5069253"
+    },
+    {
+      "id": "chan-sarun-q1234896",
+      "name": "Chan Sarun",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5070358"
+    },
+    {
+      "id": "chay-saing-yun-q1234896",
+      "name": "Chay Saing Yun",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5088596"
+    },
+    {
+      "id": "chea-soth-q1234896",
+      "name": "Chea Soth",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5088785"
+    },
+    {
+      "id": "cheam-yeab-q1234896",
+      "name": "Cheam Yeab",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5088833"
+    },
+    {
+      "id": "chhan-saphan-q1234896",
+      "name": "Chhan Saphan",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5094764"
+    },
+    {
+      "id": "chhay-tan-q1234896",
+      "name": "Chhay Tan",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5094851"
+    },
+    {
+      "id": "chhor-leang-huot-q1234896",
+      "name": "Chhor Leang Huot",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5094928"
+    },
+    {
+      "id": "chin-bun-sean-q1234896",
+      "name": "Chin Bun Sean",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5099470"
+    },
+    {
+      "id": "ngin-khorn-q1234896",
+      "name": "Ngin Khorn",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7022359"
+    },
+    {
+      "id": "nhim-vanda-q1234896",
+      "name": "Nhim Vanda",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7023358"
+    },
+    {
+      "id": "nim-thot-q1234896",
+      "name": "Nim Thot",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7037514"
+    },
+    {
+      "id": "nin-saphon-q1234896",
+      "name": "Nin Saphon",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7037818"
+    },
+    {
+      "id": "nou-sam-q1234896",
+      "name": "Nou Sam",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7063799"
+    },
+    {
+      "id": "eng-chhai-eang-q1234896",
+      "name": "Eng Chhai Eang",
+      "sitting": true,
+      "party_id": "sam-rainsy-party",
+      "caucus": "Sam Rainsy Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5377367"
+    },
+    {
+      "id": "keb-chutema-q1234896",
+      "name": "Keb Chutema",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3194577"
+    },
+    {
+      "id": "khek-vandy-q1234896",
+      "name": "Khek Vandy",
+      "sitting": true,
+      "party_id": "national-united-front-for-an-independent-neutral-peaceful-and-cooperative-cambodia",
+      "caucus": "National United Front for an Independent, Neutral, Peaceful and Cooperative Cambodia",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6401227"
+    },
+    {
+      "id": "khun-haing-q1234896",
+      "name": "Khun Haing",
+      "sitting": true,
+      "party_id": "national-united-front-for-an-independent-neutral-peaceful-and-cooperative-cambodia",
+      "caucus": "National United Front for an Independent, Neutral, Peaceful and Cooperative Cambodia",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6402973"
+    },
+    {
+      "id": "khy-taing-lim-q1234896",
+      "name": "Khy Taing Lim",
+      "sitting": true,
+      "party_id": "national-united-front-for-an-independent-neutral-peaceful-and-cooperative-cambodia",
+      "caucus": "National United Front for an Independent, Neutral, Peaceful and Cooperative Cambodia",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6403463"
+    },
+    {
+      "id": "pal-sam-oeun-q1234896",
+      "name": "Pal Sam Oeun",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7126120"
+    },
+    {
+      "id": "choulong-somora-q1234896",
+      "name": "Choulong Somora",
+      "sitting": true,
+      "party_id": "cambodian-national-rescue-party",
+      "caucus": "Cambodian National Rescue Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q536071"
+    },
+    {
+      "id": "pen-panha-q1234896",
+      "name": "Pen Panha",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7162098"
+    },
+    {
+      "id": "poa-try-q1234896",
+      "name": "Poa Try",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7206124"
+    },
+    {
+      "id": "kieng-vang-q1234896",
+      "name": "Kieng Vang",
+      "sitting": true,
+      "party_id": "sam-rainsy-party",
+      "caucus": "Sam Rainsy Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6405308"
+    },
+    {
+      "id": "sok-san-q1234896",
+      "name": "Sok San",
+      "sitting": true,
+      "party_id": "national-united-front-for-an-independent-neutral-peaceful-and-cooperative-cambodia",
+      "caucus": "National United Front for an Independent, Neutral, Peaceful and Cooperative Cambodia",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7555064"
+    },
+    {
+      "id": "sok-pheng-q1234896",
+      "name": "Sok Pheng",
+      "sitting": true,
+      "party_id": "sam-rainsy-party",
+      "caucus": "Sam Rainsy Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7555060"
+    },
+    {
+      "id": "chea-sim-q1234896",
+      "name": "Chea Sim",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1068666"
+    },
+    {
+      "id": "kuoy-bun-reun-q1234896",
+      "name": "Kuoy Bun Reun",
+      "sitting": true,
+      "party_id": "sam-rainsy-party",
+      "caucus": "Sam Rainsy Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6445279"
+    },
+    {
+      "id": "ly-son-q1234896",
+      "name": "Ly Son",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6707006"
+    },
+    {
+      "id": "rath-sarem-q1234896",
+      "name": "Rath Sarem",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7295579"
+    },
+    {
+      "id": "dul-koeun-q1234896",
+      "name": "Dul Koeun",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5313264"
+    },
+    {
+      "id": "duong-vanna-q1234896",
+      "name": "Duong Vanna",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5315890"
+    },
+    {
+      "id": "ek-sam-ol-q1234896",
+      "name": "Ek Sam Ol",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5350238"
+    },
+    {
+      "id": "chan-sy-q1234896",
+      "name": "Chan Sy",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1646066"
+    },
+    {
+      "id": "sok-soty-q1234896",
+      "name": "Sok Soty",
+      "sitting": true,
+      "party_id": "sam-rainsy-party",
+      "caucus": "Sam Rainsy Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7555065"
+    },
+    {
+      "id": "ker-sonarorth-q1234896",
+      "name": "Ker Sonarorth",
+      "sitting": true,
+      "party_id": "cambodian-national-rescue-party",
+      "caucus": "Cambodian National Rescue Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6393268"
+    },
+    {
+      "id": "sun-chanthol-q1234896",
       "name": "Sun Chanthol",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "national-united-front-for-an-independent-neutral-peaceful-and-cooperative-cambodia",
+      "caucus": "National United Front for an Independent, Neutral, Peaceful and Cooperative Cambodia",
       "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q7638222"
     },
     {
-      "id": "suos-kanan",
-      "name": "Suos Kanan",
+      "id": "kuoch-ky-q1234896",
+      "name": "Kuoch Ky",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "national-united-front-for-an-independent-neutral-peaceful-and-cooperative-cambodia",
+      "caucus": "National United Front for an Independent, Neutral, Peaceful and Cooperative Cambodia",
       "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q7641862"
+      "roster_url": "http://www.wikidata.org/entity/Q16731110"
     },
     {
-      "id": "tep-ngorn",
-      "name": "Tep Ngorn",
+      "id": "mam-bun-neang-q1234896",
+      "name": "Mam Bun Neang",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "national-united-front-for-an-independent-neutral-peaceful-and-cooperative-cambodia",
+      "caucus": "National United Front for an Independent, Neutral, Peaceful and Cooperative Cambodia",
       "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q7701211"
+      "roster_url": "http://www.wikidata.org/entity/Q16733230"
     },
     {
-      "id": "thak-lany",
+      "id": "sar-kheng-q1234896",
+      "name": "Sar Kheng",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16150274"
+    },
+    {
+      "id": "ho-non-q1234896",
+      "name": "Ho Non",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16190556"
+    },
+    {
+      "id": "ith-prang-q1234896",
+      "name": "Ith Prang",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16190599"
+    },
+    {
+      "id": "min-sean-q1234896",
+      "name": "Min Sean",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16190835"
+    },
+    {
+      "id": "nguon-nhel-q1234896",
+      "name": "Nguon Nhel",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16190921"
+    },
+    {
+      "id": "suy-sem-q1234896",
+      "name": "Suy Sem",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16191229"
+    },
+    {
+      "id": "sim-ka-q1234896",
+      "name": "Sim Ka",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16191271"
+    },
+    {
+      "id": "thak-lany-q1234896",
       "name": "Thak Lany",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "sam-rainsy-party",
+      "caucus": "Sam Rainsy Party",
       "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q7709343"
     },
     {
-      "id": "than-sina",
-      "name": "Than Sina",
+      "id": "ngor-sovann-q1234896",
+      "name": "Ngor Sovann",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "sam-rainsy-party",
+      "caucus": "Sam Rainsy Party",
       "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q7710087"
+      "roster_url": "http://www.wikidata.org/entity/Q16733324"
     },
     {
-      "id": "thong-khon",
-      "name": "Thong Khon",
+      "id": "yim-sovann-q1234896",
+      "name": "Yim Sovann",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "sam-rainsy-party",
+      "caucus": "Sam Rainsy Party",
       "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q7795953"
+      "roster_url": "http://www.wikidata.org/entity/Q16751397"
     },
     {
-      "id": "toan-vanthara",
+      "id": "prak-sokhon-q1234896",
+      "name": "Prak Sokhon",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q23771428"
+    },
+    {
+      "id": "suos-kanan-q1234896",
+      "name": "Suos Kanan",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7641862"
+    },
+    {
+      "id": "toan-vanthara-q1234896",
       "name": "Toan Vanthara",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "sam-rainsy-party",
+      "caucus": "Sam Rainsy Party",
       "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q7811387"
     },
     {
-      "id": "try-chheang-huot",
-      "name": "Try Chheang Huot",
+      "id": "tep-ngorn-q1234896",
+      "name": "Tep Ngorn",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
       "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q7848396"
+      "roster_url": "http://www.wikidata.org/entity/Q7701211"
     },
     {
-      "id": "um-nhanh",
-      "name": "Um Nhanh",
+      "id": "hun-mani-q1234896",
+      "name": "Hun Mani",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
       "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q7880985"
+      "roster_url": "http://www.wikidata.org/entity/Q16729974"
     },
     {
-      "id": "un-neung",
-      "name": "Un Neung",
+      "id": "khuon-sodary-q1234896",
+      "name": "Khuon Sodary",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
       "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q7881998"
+      "roster_url": "http://www.wikidata.org/entity/Q16730825"
     },
     {
-      "id": "veng-sereyvuth",
+      "id": "ly-thuch-q1234896",
+      "name": "Ly Thuch",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16731714"
+    },
+    {
+      "id": "veng-sereyvuth-q1234896",
       "name": "Veng Sereyvuth",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "national-united-front-for-an-independent-neutral-peaceful-and-cooperative-cambodia",
+      "caucus": "National United Front for an Independent, Neutral, Peaceful and Cooperative Cambodia",
       "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q7919880"
     },
     {
-      "id": "vong-kan",
-      "name": "Vong Kan",
+      "id": "than-sina-q1234896",
+      "name": "Than Sina",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7710087"
+    },
+    {
+      "id": "ek-sereywath-q1234896",
+      "name": "Ek Sereywath",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28542578"
+    },
+    {
+      "id": "hangchuon-naron-q1234896",
+      "name": "Hangchuon Naron",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16864093"
+    },
+    {
+      "id": "aun-porn-moniroth-q1234896",
+      "name": "Aun Porn Moniroth",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16979822"
+    },
+    {
+      "id": "thong-khon-q1234896",
+      "name": "Thong Khon",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7795953"
+    },
+    {
+      "id": "pa-socheatvong-q1234896",
+      "name": "Pa Socheatvong",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q14939366"
+    },
+    {
+      "id": "ouk-rabun-q1234896",
+      "name": "Ouk Rabun",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "Kampong Chhnang Province",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7878253"
+    },
+    {
+      "id": "tep-sothy-q1234896",
+      "name": "Tep Sothy",
+      "sitting": true,
+      "party_id": "cambodian-national-rescue-party",
+      "caucus": "Cambodian National Rescue Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19665914"
+    },
+    {
+      "id": "suos-yara-q1234896",
+      "name": "Suos Yara",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56223552"
+    },
+    {
+      "id": "mam-bunheng-q1234896",
+      "name": "Mam Bunheng",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56255440"
+    },
+    {
+      "id": "try-chheang-huot-q1234896",
+      "name": "Try Chheang Huot",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7848396"
+    },
+    {
+      "id": "you-hokry-q1234896",
+      "name": "You Hokry",
+      "sitting": true,
+      "party_id": "national-united-front-for-an-independent-neutral-peaceful-and-cooperative-cambodia",
+      "caucus": "National United Front for an Independent, Neutral, Peaceful and Cooperative Cambodia",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q8057295"
+    },
+    {
+      "id": "um-nhanh-q1234896",
+      "name": "Um Nhanh",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7880985"
+    },
+    {
+      "id": "un-neung-q1234896",
+      "name": "Un Neung",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7881998"
+    },
+    {
+      "id": "pol-hom-q1234896",
+      "name": "Pol Hom",
+      "sitting": true,
+      "party_id": "human-rights-party",
+      "caucus": "Human Rights Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17708806"
+    },
+    {
+      "id": "say-sam-al-q1234896",
+      "name": "Say Sam Al",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q22100150"
+    },
+    {
+      "id": "vong-kan-q1234896",
+      "name": "Vong Kan",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q7941579"
     },
     {
-      "id": "y-chhean",
+      "id": "bin-chhin-q1234896",
+      "name": "Bin Chhin",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "Prey Veng",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28969538"
+    },
+    {
+      "id": "phoeung-sakona-q1234896",
+      "name": "Phoeung Sakona",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17523926"
+    },
+    {
+      "id": "chea-sophara-q1234896",
+      "name": "Chea Sophara",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "Tbong Khmum Province",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q22099925"
+    },
+    {
+      "id": "lork-kheng-q1234896",
+      "name": "Lork Kheng",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q134412924"
+    },
+    {
+      "id": "y-chhean-q1234896",
       "name": "Y Chhean",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
       "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q8046110"
     },
     {
-      "id": "yim-chhaily",
+      "id": "yem-ponhearith-q1234896",
+      "name": "Yem Ponhearith",
+      "sitting": true,
+      "party_id": "human-rights-party",
+      "caucus": "Human Rights Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18208486"
+    },
+    {
+      "id": "yim-chhaily-q1234896",
       "name": "Yim Chhaily",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
       "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q8053618"
     },
     {
-      "id": "yos-son",
+      "id": "tram-iv-teuk-q1234896",
+      "name": "Tram Iv Teuk",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "Kampong Chhnang Province",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7833112"
+    },
+    {
+      "id": "yos-son-q1234896",
       "name": "Yos Son",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
       "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q8055869"
     },
     {
-      "id": "you-hokry",
-      "name": "You Hokry",
+      "id": "lu-laysreng-q1234896",
+      "name": "Lu Laysreng",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "national-united-front-for-an-independent-neutral-peaceful-and-cooperative-cambodia",
+      "caucus": "National United Front for an Independent, Neutral, Peaceful and Cooperative Cambodia",
       "constituency_label": "",
-      "chamber": "Parliament of Cambodia",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q8057295"
+      "roster_url": "http://www.wikidata.org/entity/Q16104907"
+    },
+    {
+      "id": "lim-kimya-q1234896",
+      "name": "Lim Kimya",
+      "sitting": true,
+      "party_id": "cambodian-national-rescue-party",
+      "caucus": "Cambodian National Rescue Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131698945"
+    },
+    {
+      "id": "ly-kim-leang-q1234896",
+      "name": "Ly Kim Leang",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q25680140"
+    },
+    {
+      "id": "veng-sakhon-q1234896",
+      "name": "Veng Sakhon",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q54362350"
+    },
+    {
+      "id": "kong-sam-ol-q1234896",
+      "name": "Kong Sam Ol",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "Kampong Chhnang Province",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16190676"
+    },
+    {
+      "id": "ing-kuntha-phavi-q1234896",
+      "name": "Ing Kuntha Phavi",
+      "sitting": true,
+      "party_id": "cambodian-people-s-party",
+      "caucus": "Cambodian People's Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28412157"
     }
   ]
 }

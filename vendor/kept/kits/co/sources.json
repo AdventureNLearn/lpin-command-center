@@ -3,8 +3,46 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1284236"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1284236",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q2398781",
+      "label": "Senate of Colombia",
+      "url": "https://www.senado.gov.co/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q2398781",
+      "label": "Senate of Colombia (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q2398781",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1571756",
+      "label": "Chamber of Representatives of Colombia",
+      "url": "https://www.camara.gov.co/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1571756",
+      "label": "Chamber of Representatives of Colombia (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1571756",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1284236",
+      "label": "Congress of Colombia (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1284236",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

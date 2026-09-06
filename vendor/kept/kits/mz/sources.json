@@ -3,8 +3,46 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1848595"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1848595",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1848595",
+      "label": "Assembly of the Republic",
+      "url": "https://www.parlamento.mz/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1848595",
+      "label": "Assembly of the Republic (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1848595",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q118406266",
+      "label": "FRELIMO parliamentary group (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q118406266",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q118406620",
+      "label": "RENAMO parliamentary group (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q118406620",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q118406817",
+      "label": "MDM parliamentary group (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q118406817",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

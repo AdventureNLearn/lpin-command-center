@@ -1,6 +1,34 @@
 {
   "iso2": "tz",
-  "items": [],
-  "incomplete": true,
-  "note": "Empty until a sourced sitting roster and https rows exist. No invented pledges."
+  "items": [
+    {
+      "id": "wikidata",
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1138299",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1138299",
+      "label": "National Assembly",
+      "url": "https://www.parliament.go.tz/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1138299",
+      "label": "National Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1138299",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q17599130",
+      "label": "Member of the National Assembly of Tanzania (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q17599130",
+      "kind": "index",
+      "basis": "Evidence"
+    }
+  ],
+  "incomplete": false
 }

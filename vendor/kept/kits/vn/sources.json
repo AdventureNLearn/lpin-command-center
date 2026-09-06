@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1765001"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1765001",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1765001",
+      "label": "National Assembly of Vietnam",
+      "url": "https://quochoi.vn/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1765001",
+      "label": "National Assembly of Vietnam (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1765001",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q10841192",
+      "label": "member of the National Assembly of Vietnam (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q10841192",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

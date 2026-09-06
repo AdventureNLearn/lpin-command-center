@@ -3,8 +3,46 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1138935"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1138935",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21295992",
+      "label": "Member of the National Assembly of Mauritania (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21295992",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1138935",
+      "label": "National Assembly",
+      "url": "https://assembleenationale.mr/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1138935",
+      "label": "National Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1138935",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q3510858",
+      "label": "Senate",
+      "url": "http://www.senat.mr",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q3510858",
+      "label": "Senate (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q3510858",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

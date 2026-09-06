@@ -1,6 +1,44 @@
 {
   "iso2": "ve",
   "kit": "institutional",
-  "items": [],
-  "incomplete": true
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q717",
+  "bodies": [
+    {
+      "qid": "Q20011182",
+      "label": "member of the National Assembly of Venezuela",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1585014",
+      "label": "National Assembly  of Venezuela",
+      "seats": 285,
+      "web": "https://asambleanacionalvenezuela.org",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "member of the National Assembly of Venezuela"
+  ],
+  "seats": 285,
+  "items": [
+    {
+      "id": "Q20011182",
+      "name": "member of the National Assembly of Venezuela",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q20011182"
+    },
+    {
+      "id": "Q1585014",
+      "name": "National Assembly  of Venezuela",
+      "kind": "parliament",
+      "seats": 285,
+      "url": "https://asambleanacionalvenezuela.org"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

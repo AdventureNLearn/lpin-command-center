@@ -1,0 +1,59 @@
+{
+  "iso2": "et",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q115",
+  "bodies": [
+    {
+      "qid": "Q967407",
+      "label": "House of Federation",
+      "seats": 112,
+      "web": "http://www.hofethiopia.gov.et/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1133185",
+      "label": "House of Peoples' Representatives",
+      "seats": 547,
+      "web": "https://www.hopr.gov.et/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q257899",
+      "label": "Federal Parliamentary Assembly",
+      "seats": 0,
+      "web": "",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "House of Federation",
+    "House of Peoples' Representatives"
+  ],
+  "seats": 659,
+  "items": [
+    {
+      "id": "Q967407",
+      "name": "House of Federation",
+      "kind": "chamber",
+      "seats": 112,
+      "url": "http://www.hofethiopia.gov.et/"
+    },
+    {
+      "id": "Q1133185",
+      "name": "House of Peoples' Representatives",
+      "kind": "chamber",
+      "seats": 547,
+      "url": "https://www.hopr.gov.et/"
+    },
+    {
+      "id": "Q257899",
+      "name": "Federal Parliamentary Assembly",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q257899"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

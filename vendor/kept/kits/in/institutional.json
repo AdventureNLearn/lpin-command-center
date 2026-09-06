@@ -1,7 +1,59 @@
 {
   "iso2": "in",
   "kit": "institutional",
-  "items": [],
   "incomplete": true,
-  "note": ":8103 claimed institutional_kits = 0."
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q668",
+  "bodies": [
+    {
+      "qid": "Q230003",
+      "label": "Lok Sabha",
+      "seats": 545,
+      "web": "https://sansad.in/ls",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q695252",
+      "label": "Parliament of India",
+      "seats": 0,
+      "web": "https://sansad.in/poi",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q244730",
+      "label": "Rajya Sabha",
+      "seats": 233,
+      "web": "https://sansad.in/rs",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Lok Sabha",
+    "Rajya Sabha"
+  ],
+  "seats": 778,
+  "items": [
+    {
+      "id": "Q230003",
+      "name": "Lok Sabha",
+      "kind": "chamber",
+      "seats": 545,
+      "url": "https://sansad.in/ls"
+    },
+    {
+      "id": "Q695252",
+      "name": "Parliament of India",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://sansad.in/poi"
+    },
+    {
+      "id": "Q244730",
+      "name": "Rajya Sabha",
+      "kind": "chamber",
+      "seats": 233,
+      "url": "https://sansad.in/rs"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

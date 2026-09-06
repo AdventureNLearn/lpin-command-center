@@ -3,8 +3,46 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q257899"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q257899",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q967407",
+      "label": "House of Federation",
+      "url": "http://www.hofethiopia.gov.et/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q967407",
+      "label": "House of Federation (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q967407",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1133185",
+      "label": "House of Peoples' Representatives",
+      "url": "https://www.hopr.gov.et/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1133185",
+      "label": "House of Peoples' Representatives (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1133185",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q257899",
+      "label": "Federal Parliamentary Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q257899",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

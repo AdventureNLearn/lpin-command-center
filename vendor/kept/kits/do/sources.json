@@ -3,8 +3,46 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q595411"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q595411",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q595411",
+      "label": "Congress of the Dominican Republic (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q595411",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q320280",
+      "label": "Chamber of Deputies",
+      "url": "https://www.camaradediputados.gob.do/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q320280",
+      "label": "Chamber of Deputies (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q320280",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q2119267",
+      "label": "Senate of the Dominican Republic",
+      "url": "https://www.senadord.gob.do/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q2119267",
+      "label": "Senate of the Dominican Republic (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q2119267",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

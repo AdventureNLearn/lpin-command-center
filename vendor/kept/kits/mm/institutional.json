@@ -1,0 +1,89 @@
+{
+  "iso2": "mm",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q836",
+  "bodies": [
+    {
+      "qid": "Q2119357",
+      "label": "Amyotha Hluttaw",
+      "seats": 224,
+      "web": "http://www.amyothahluttaw.gov.mm/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q5069545",
+      "label": "Chamber of Nationalities",
+      "seats": 0,
+      "web": "",
+      "kind": "lower"
+    },
+    {
+      "qid": "Q3379823",
+      "label": "House of Representatives",
+      "seats": 440,
+      "web": "http://www.pyithuhluttaw.gov.mm/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q50839393",
+      "label": "Speaker of the Assembly of the Union of Myanmar",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q3363019",
+      "label": "Assembly of the Union",
+      "seats": 0,
+      "web": "http://www.pyithuhluttaw.gov.mm/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Amyotha Hluttaw",
+    "Chamber of Nationalities",
+    "House of Representatives",
+    "Speaker of the Assembly of the Union of Myanmar"
+  ],
+  "seats": 664,
+  "items": [
+    {
+      "id": "Q2119357",
+      "name": "Amyotha Hluttaw",
+      "kind": "chamber",
+      "seats": 224,
+      "url": "http://www.amyothahluttaw.gov.mm/"
+    },
+    {
+      "id": "Q5069545",
+      "name": "Chamber of Nationalities",
+      "kind": "lower",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q5069545"
+    },
+    {
+      "id": "Q3379823",
+      "name": "House of Representatives",
+      "kind": "chamber",
+      "seats": 440,
+      "url": "http://www.pyithuhluttaw.gov.mm/"
+    },
+    {
+      "id": "Q50839393",
+      "name": "Speaker of the Assembly of the Union of Myanmar",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q50839393"
+    },
+    {
+      "id": "Q3363019",
+      "name": "Assembly of the Union",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "http://www.pyithuhluttaw.gov.mm/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

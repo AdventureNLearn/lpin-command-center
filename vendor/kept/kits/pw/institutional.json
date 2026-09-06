@@ -1,0 +1,59 @@
+{
+  "iso2": "pw",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q695",
+  "bodies": [
+    {
+      "qid": "Q2118228",
+      "label": "House of Delegates of Palau",
+      "seats": 16,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1384462",
+      "label": "Palau National Congress",
+      "seats": 0,
+      "web": "http://www.palauoek.com/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q969494",
+      "label": "Senate of Palau",
+      "seats": 9,
+      "web": "",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "House of Delegates of Palau",
+    "Senate of Palau"
+  ],
+  "seats": 25,
+  "items": [
+    {
+      "id": "Q2118228",
+      "name": "House of Delegates of Palau",
+      "kind": "chamber",
+      "seats": 16,
+      "url": "https://www.wikidata.org/wiki/Q2118228"
+    },
+    {
+      "id": "Q1384462",
+      "name": "Palau National Congress",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "http://www.palauoek.com/"
+    },
+    {
+      "id": "Q969494",
+      "name": "Senate of Palau",
+      "kind": "chamber",
+      "seats": 9,
+      "url": "https://www.wikidata.org/wiki/Q969494"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

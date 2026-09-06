@@ -3,11 +3,30 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q17443556",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 1,
+  "incomplete": true,
+  "claimed_seats": 345,
+  "chambers": [
+    "Member of the House of Representatives of Libya",
+    "House of Representatives",
+    "High Council of State",
+    "Member of the High Council of State"
+  ],
   "items": [
     {
-      "id": "rabea-abouras",
+      "id": "abd-al-mawla-naqi-q17443556",
+      "name": "Abd al-Mawla Naqi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110394272"
+    },
+    {
+      "id": "rabea-abouras-q17443556",
       "name": "Rabea Abouras",
       "sitting": true,
       "party_id": "unknown",

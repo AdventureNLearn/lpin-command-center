@@ -3,8 +3,25 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1573424"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1573424",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21328589",
+      "label": "Member of the Assembly of the Union of the Comoros (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21328589",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1573424",
+      "label": "Assembly of the Union of the Comoros (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1573424",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

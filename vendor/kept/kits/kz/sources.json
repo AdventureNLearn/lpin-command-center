@@ -3,8 +3,46 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q2995409"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q2995409",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1247199",
+      "label": "Mäjilis",
+      "url": "http://www.parlam.kz/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1247199",
+      "label": "Mäjilis (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1247199",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q2995409",
+      "label": "Parliament of Kazakhstan",
+      "url": "http://www.parlam.kz",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q2995409",
+      "label": "Parliament of Kazakhstan (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q2995409",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1316045",
+      "label": "Senate of Kazakhstan (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1316045",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

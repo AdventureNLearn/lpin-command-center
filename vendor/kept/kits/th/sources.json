@@ -1,4 +1,55 @@
 {
-  "iso2": "xx",
-  "items": []
+  "iso2": "th",
+  "items": [
+    {
+      "id": "wikidata",
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1368318",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1368318",
+      "label": "National Assembly of Thailand",
+      "url": "http://www.parliament.go.th/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1368318",
+      "label": "National Assembly of Thailand (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1368318",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1699171",
+      "label": "Senate of Thailand",
+      "url": "https://www.senate.go.th/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1699171",
+      "label": "Senate of Thailand (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1699171",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q914226",
+      "label": "House of Representatives of Thailand",
+      "url": "http://www.parliament.go.th/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q914226",
+      "label": "House of Representatives of Thailand (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q914226",
+      "kind": "index",
+      "basis": "Evidence"
+    }
+  ],
+  "incomplete": false
 }

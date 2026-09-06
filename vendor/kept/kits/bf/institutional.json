@@ -1,0 +1,44 @@
+{
+  "iso2": "bf",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q965",
+  "bodies": [
+    {
+      "qid": "Q619238",
+      "label": "National Assembly of Burkina Faso",
+      "seats": 127,
+      "web": "https://www.assembleenationale.bf",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q18339650",
+      "label": "Member of the National Assembly of Burkina Faso",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Member of the National Assembly of Burkina Faso"
+  ],
+  "seats": 127,
+  "items": [
+    {
+      "id": "Q619238",
+      "name": "National Assembly of Burkina Faso",
+      "kind": "parliament",
+      "seats": 127,
+      "url": "https://www.assembleenationale.bf"
+    },
+    {
+      "id": "Q18339650",
+      "name": "Member of the National Assembly of Burkina Faso",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q18339650"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

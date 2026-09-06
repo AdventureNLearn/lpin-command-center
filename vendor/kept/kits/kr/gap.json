@@ -1,8 +1,13 @@
 {
   "iso2": "kr",
-  "items": [],
+  "items": [
+    {
+      "id": "money",
+      "hole": "No sourced money file.",
+      "basis": "Evidence"
+    }
+  ],
   "incomplete": true,
-  "examined_pairs": 3040,
-  "retrieved": "2026-08-20",
-  "note": "No gap row after KR member-level clerk 찬성/반대 merge (positions 21→76, 11309 clerk-named 찬성 already in votes.json). Examined 76 clerk votes with positions against 40 sourced sitting pledges (3040 pairs; 1996 with stored yea/nay; 2051 clerk-origin member positions; 2137 on/after pledge date; 13 unambiguous polarity). 3 탄핵 secret ballots still positions []. 2927 unmatched clerk romanizations were dropped at roll merge, not invented here. Bill-title pledges, Yellow Envelope nays without a labor-rights sentence, climate vs 원자력 진흥, 통일교 특검 vs 김건희/내란 특검, recorded totals, and same issue_id are not breaks. Polarity only when pledge sentence and vote title are unambiguous opposites. Did not invent yeas. Honest empty."
+  "retrieved": "2026-09-06",
+  "note": "Full-ISO fill 2026-09-06. Chambers: Member of the National Assembly of South Korea · National Assembly. Sitting 302. Empty objects not invented."
 }

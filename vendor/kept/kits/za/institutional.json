@@ -1,7 +1,59 @@
 {
   "iso2": "za",
   "kit": "institutional",
-  "items": [],
   "incomplete": true,
-  "note": ":8103 claimed institutional_kits = 0."
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q258",
+  "bodies": [
+    {
+      "qid": "Q2185780",
+      "label": "Parliament of South Africa",
+      "seats": 0,
+      "web": "https://www.parliament.gov.za/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q2119484",
+      "label": "National Council of Provinces",
+      "seats": 90,
+      "web": "https://www.parliament.gov.za/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q240823",
+      "label": "National Assembly of South Africa",
+      "seats": 400,
+      "web": "https://www.parliament.gov.za/",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "National Council of Provinces",
+    "National Assembly of South Africa"
+  ],
+  "seats": 490,
+  "items": [
+    {
+      "id": "Q2185780",
+      "name": "Parliament of South Africa",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://www.parliament.gov.za/"
+    },
+    {
+      "id": "Q2119484",
+      "name": "National Council of Provinces",
+      "kind": "chamber",
+      "seats": 90,
+      "url": "https://www.parliament.gov.za/"
+    },
+    {
+      "id": "Q240823",
+      "name": "National Assembly of South Africa",
+      "kind": "chamber",
+      "seats": 400,
+      "url": "https://www.parliament.gov.za/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

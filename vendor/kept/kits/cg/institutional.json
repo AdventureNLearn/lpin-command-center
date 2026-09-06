@@ -1,0 +1,59 @@
+{
+  "iso2": "cg",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q971",
+  "bodies": [
+    {
+      "qid": "Q4345421",
+      "label": "Parliament of the Republic of the Congo",
+      "seats": 0,
+      "web": "",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q3510840",
+      "label": "Senate",
+      "seats": 52,
+      "web": "https://www.senat.cg/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1969587",
+      "label": "National Assembly",
+      "seats": 153,
+      "web": "http://www.assemblee-nationale.cg/",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Senate",
+    "National Assembly"
+  ],
+  "seats": 205,
+  "items": [
+    {
+      "id": "Q4345421",
+      "name": "Parliament of the Republic of the Congo",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q4345421"
+    },
+    {
+      "id": "Q3510840",
+      "name": "Senate",
+      "kind": "chamber",
+      "seats": 52,
+      "url": "https://www.senat.cg/"
+    },
+    {
+      "id": "Q1969587",
+      "name": "National Assembly",
+      "kind": "chamber",
+      "seats": 153,
+      "url": "http://www.assemblee-nationale.cg/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

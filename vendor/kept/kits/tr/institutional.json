@@ -1,7 +1,44 @@
 {
   "iso2": "tr",
   "kit": "institutional",
-  "items": [],
   "incomplete": true,
-  "note": ":8103 claimed institutional_kits = 0."
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q43",
+  "bodies": [
+    {
+      "qid": "Q21030356",
+      "label": "member of the Grand National Assembly of Turkey",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q274918",
+      "label": "Grand National Assembly of Turkey",
+      "seats": 600,
+      "web": "https://global.tbmm.gov.tr/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "member of the Grand National Assembly of Turkey"
+  ],
+  "seats": 600,
+  "items": [
+    {
+      "id": "Q21030356",
+      "name": "member of the Grand National Assembly of Turkey",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q21030356"
+    },
+    {
+      "id": "Q274918",
+      "name": "Grand National Assembly of Turkey",
+      "kind": "parliament",
+      "seats": 600,
+      "url": "https://global.tbmm.gov.tr/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

@@ -3,463 +3,559 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1563736",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 35,
+  "incomplete": true,
+  "claimed_seats": 28,
+  "chambers": [
+    "House of Assembly of Saint Lucia",
+    "Senate of Saint Lucia",
+    "Parliament of Saint Lucia"
+  ],
   "items": [
     {
-      "id": "stephenson-king",
-      "name": "Stephenson King",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Castries North",
-      "chamber": "Parliament of Saint Lucia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q708289"
-    },
-    {
-      "id": "alva-romanus-baptiste",
-      "name": "Alva Romanus Baptiste",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Laborie",
-      "chamber": "Parliament of Saint Lucia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4737616"
-    },
-    {
-      "id": "marcus-nicholas",
-      "name": "Marcus Nicholas",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Saint Lucia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16196623"
-    },
-    {
-      "id": "edmund-estephane",
-      "name": "Edmund Estephane",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Saint Lucia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16198927"
-    },
-    {
-      "id": "jeannine-compton-antoine",
-      "name": "Jeannine Compton-Antoine",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Saint Lucia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16205063"
-    },
-    {
-      "id": "harold-dalson",
-      "name": "Harold Dalson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Saint Lucia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16206884"
-    },
-    {
-      "id": "kenny-anthony",
-      "name": "Kenny Anthony",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Vieux Fort South",
-      "chamber": "Parliament of Saint Lucia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q57750"
-    },
-    {
-      "id": "moses-jean-baptiste",
-      "name": "Moses Jean Baptiste",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Vieux Fort North",
-      "chamber": "Parliament of Saint Lucia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6915830"
-    },
-    {
-      "id": "alvina-reynolds",
-      "name": "Alvina Reynolds",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Saint Lucia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4738268"
-    },
-    {
-      "id": "arsene-james",
-      "name": "Arsene James",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Saint Lucia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4796441"
-    },
-    {
-      "id": "emma-hippolyte",
-      "name": "Emma Hippolyte",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Saint Lucia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5372840"
-    },
-    {
-      "id": "gale-rigobert",
-      "name": "Gale Rigobert",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Saint Lucia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5518285"
-    },
-    {
-      "id": "guy-joseph",
-      "name": "Guy Joseph",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Saint Lucia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5622382"
-    },
-    {
-      "id": "dominic-fedee",
-      "name": "Dominic Fedee",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Anse La Raye/Canaries",
-      "chamber": "Parliament of Saint Lucia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q24851870"
-    },
-    {
-      "id": "ezechiel-joseph",
-      "name": "Ezechiel Joseph",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Saint Lucia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q773795"
-    },
-    {
-      "id": "keith-mondesir",
-      "name": "Keith Mondesir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Saint Lucia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6384787"
-    },
-    {
-      "id": "lenard-montoute",
-      "name": "Lenard Montoute",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Saint Lucia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6522265"
-    },
-    {
-      "id": "alfred-prospere",
-      "name": "Alfred Prospere",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Dennery South",
-      "chamber": "Parliament of Saint Lucia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q109641213"
-    },
-    {
-      "id": "wayne-d-girard",
-      "name": "Wayne D. Girard",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Anse La Raye/Canaries",
-      "chamber": "Parliament of Saint Lucia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q109641269"
-    },
-    {
-      "id": "philip-j-pierre",
-      "name": "Philip J. Pierre",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Saint Lucia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7184214"
-    },
-    {
-      "id": "richard-frederick",
+      "id": "richard-frederick-q1282775",
       "name": "Richard Frederick",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Saint Lucia",
+      "party_id": "united-workers-party",
+      "caucus": "United Workers Party",
+      "constituency_label": "Castries Central",
+      "chamber": "House of Assembly of Saint Lucia",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q7325780"
     },
     {
-      "id": "robert-kennedy-lewis",
-      "name": "Robert Kennedy Lewis",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Saint Lucia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7346316"
-    },
-    {
-      "id": "ernest-hilaire",
-      "name": "Ernest Hilaire",
+      "id": "alvina-reynolds-q1282775",
+      "name": "Alvina Reynolds",
       "sitting": true,
       "party_id": "saint-lucia-labour-party",
       "caucus": "Saint Lucia Labour Party",
-      "constituency_label": "Castries South",
-      "chamber": "Parliament of Saint Lucia",
+      "constituency_label": "",
+      "chamber": "House of Assembly of Saint Lucia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q105139716"
+      "roster_url": "http://www.wikidata.org/entity/Q4738268"
     },
     {
-      "id": "herod-stanislas",
-      "name": "Herod Stanislas",
+      "id": "alva-romanus-baptiste-q1282775",
+      "name": "Alva Romanus Baptiste",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Soufriere",
-      "chamber": "Parliament of Saint Lucia",
+      "party_id": "saint-lucia-labour-party",
+      "caucus": "Saint Lucia Labour Party",
+      "constituency_label": "Laborie",
+      "chamber": "House of Assembly of Saint Lucia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q107486426"
+      "roster_url": "http://www.wikidata.org/entity/Q4737616"
     },
     {
-      "id": "bradley-felix",
-      "name": "Bradley Felix",
+      "id": "philip-j-pierre-q1282775",
+      "name": "Philip J. Pierre",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Choiseul",
-      "chamber": "Parliament of Saint Lucia",
+      "party_id": "saint-lucia-labour-party",
+      "caucus": "Saint Lucia Labour Party",
+      "constituency_label": "Castries East",
+      "chamber": "House of Assembly of Saint Lucia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q107486429"
+      "roster_url": "http://www.wikidata.org/entity/Q7184214"
     },
     {
-      "id": "shawn-edward",
-      "name": "Shawn Edward",
+      "id": "arsene-james-q1282775",
+      "name": "Arsene James",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Dennery North",
-      "chamber": "Parliament of Saint Lucia",
+      "party_id": "united-workers-party",
+      "caucus": "United Workers Party",
+      "constituency_label": "",
+      "chamber": "House of Assembly of Saint Lucia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q107486433"
+      "roster_url": "http://www.wikidata.org/entity/Q4796441"
     },
     {
-      "id": "joachim-henry",
-      "name": "Joachim Henry",
+      "id": "moses-jean-baptiste-q1282775",
+      "name": "Moses Jean Baptiste",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Castries South East",
-      "chamber": "Parliament of Saint Lucia",
+      "party_id": "saint-lucia-labour-party",
+      "caucus": "Saint Lucia Labour Party",
+      "constituency_label": "Vieux Fort North",
+      "chamber": "House of Assembly of Saint Lucia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q107664100"
+      "roster_url": "http://www.wikidata.org/entity/Q6915830"
     },
     {
-      "id": "jeremiah-norbert",
-      "name": "Jeremiah Norbert",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Micoud North",
-      "chamber": "Parliament of Saint Lucia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q107721186"
-    },
-    {
-      "id": "virginia-albert-poyotte",
-      "name": "Virginia Albert-Poyotte",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Babonneau",
-      "chamber": "Parliament of Saint Lucia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q107788041"
-    },
-    {
-      "id": "kenson-casimir",
-      "name": "Kenson Casimir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Gros Islet",
-      "chamber": "Parliament of Saint Lucia",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q108000688"
-    },
-    {
-      "id": "rufus-bousquet",
+      "id": "rufus-bousquet-q1282775",
       "name": "Rufus Bousquet",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "united-workers-party",
+      "caucus": "United Workers Party",
       "constituency_label": "",
-      "chamber": "Parliament of Saint Lucia",
+      "chamber": "House of Assembly of Saint Lucia",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q58308"
     },
     {
-      "id": "desmond-long",
-      "name": "Desmond Long",
+      "id": "ernest-hilaire-q1282775",
+      "name": "Ernest Hilaire",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Saint Lucia",
+      "party_id": "saint-lucia-labour-party",
+      "caucus": "Saint Lucia Labour Party",
+      "constituency_label": "Castries South",
+      "chamber": "House of Assembly of Saint Lucia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q107490155"
+      "roster_url": "http://www.wikidata.org/entity/Q105139716"
     },
     {
-      "id": "lorne-theophilus",
-      "name": "Lorne Theophilus",
+      "id": "guy-joseph-q1282775",
+      "name": "Guy Joseph",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Saint Lucia",
+      "party_id": "united-workers-party",
+      "caucus": "United Workers Party",
+      "constituency_label": "Castries South East",
+      "chamber": "House of Assembly of Saint Lucia",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q107490161"
+      "roster_url": "http://www.wikidata.org/entity/Q5622382"
     },
     {
-      "id": "sarah-flood-beaubrun",
+      "id": "stephenson-king-q1282775",
+      "name": "Stephenson King",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "Castries North",
+      "chamber": "House of Assembly of Saint Lucia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q708289"
+    },
+    {
+      "id": "edmund-estephane-q1282775",
+      "name": "Edmund Estephane",
+      "sitting": true,
+      "party_id": "united-workers-party",
+      "caucus": "United Workers Party",
+      "constituency_label": "Dennery South",
+      "chamber": "House of Assembly of Saint Lucia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16198927"
+    },
+    {
+      "id": "sarah-flood-beaubrun-q1282775",
       "name": "Sarah Flood-Beaubrun",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "saint-lucia-labour-party",
+      "caucus": "Saint Lucia Labour Party",
       "constituency_label": "Castries Central",
-      "chamber": "Parliament of Saint Lucia",
+      "chamber": "House of Assembly of Saint Lucia",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q16201615"
     },
     {
-      "id": "allen-chastanet",
+      "id": "lenard-montoute-q1282775",
+      "name": "Lenard Montoute",
+      "sitting": true,
+      "party_id": "united-workers-party",
+      "caucus": "United Workers Party",
+      "constituency_label": "Gros Islet",
+      "chamber": "House of Assembly of Saint Lucia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6522265"
+    },
+    {
+      "id": "dominic-fedee-q1282775",
+      "name": "Dominic Fedee",
+      "sitting": true,
+      "party_id": "united-workers-party",
+      "caucus": "United Workers Party",
+      "constituency_label": "Anse La Raye/Canaries",
+      "chamber": "House of Assembly of Saint Lucia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24851870"
+    },
+    {
+      "id": "kenny-anthony-q1282775",
+      "name": "Kenny Anthony",
+      "sitting": true,
+      "party_id": "saint-lucia-labour-party",
+      "caucus": "Saint Lucia Labour Party",
+      "constituency_label": "Vieux Fort South",
+      "chamber": "House of Assembly of Saint Lucia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57750"
+    },
+    {
+      "id": "allen-chastanet-q1282775",
       "name": "Allen Chastanet",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "united-workers-party",
+      "caucus": "United Workers Party",
       "constituency_label": "Micoud South",
-      "chamber": "Parliament of Saint Lucia",
+      "chamber": "House of Assembly of Saint Lucia",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q16203640"
+    },
+    {
+      "id": "gale-rigobert-q1282775",
+      "name": "Gale Rigobert",
+      "sitting": true,
+      "party_id": "united-workers-party",
+      "caucus": "United Workers Party",
+      "constituency_label": "Micoud North",
+      "chamber": "House of Assembly of Saint Lucia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5518285"
+    },
+    {
+      "id": "emma-hippolyte-q1282775",
+      "name": "Emma Hippolyte",
+      "sitting": true,
+      "party_id": "saint-lucia-labour-party",
+      "caucus": "Saint Lucia Labour Party",
+      "constituency_label": "Soufriere",
+      "chamber": "House of Assembly of Saint Lucia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5372840"
+    },
+    {
+      "id": "robert-kennedy-lewis-q1282775",
+      "name": "Robert Kennedy Lewis",
+      "sitting": true,
+      "party_id": "saint-lucia-labour-party",
+      "caucus": "Saint Lucia Labour Party",
+      "constituency_label": "",
+      "chamber": "House of Assembly of Saint Lucia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7346316"
+    },
+    {
+      "id": "keith-mondesir-q1282775",
+      "name": "Keith Mondesir",
+      "sitting": true,
+      "party_id": "united-workers-party",
+      "caucus": "United Workers Party",
+      "constituency_label": "",
+      "chamber": "House of Assembly of Saint Lucia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6384787"
+    },
+    {
+      "id": "ezechiel-joseph-q1282775",
+      "name": "Ezechiel Joseph",
+      "sitting": true,
+      "party_id": "united-workers-party",
+      "caucus": "United Workers Party",
+      "constituency_label": "Babonneau",
+      "chamber": "House of Assembly of Saint Lucia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q773795"
+    },
+    {
+      "id": "marcus-nicholas-q1282775",
+      "name": "Marcus Nicholas",
+      "sitting": true,
+      "party_id": "united-workers-party",
+      "caucus": "United Workers Party",
+      "constituency_label": "",
+      "chamber": "House of Assembly of Saint Lucia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16196623"
+    },
+    {
+      "id": "jeannine-compton-antoine-q1282775",
+      "name": "Jeannine Compton-Antoine",
+      "sitting": true,
+      "party_id": "united-workers-party",
+      "caucus": "United Workers Party",
+      "constituency_label": "",
+      "chamber": "House of Assembly of Saint Lucia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16205063"
+    },
+    {
+      "id": "harold-dalson-q1282775",
+      "name": "Harold Dalson",
+      "sitting": true,
+      "party_id": "saint-lucia-labour-party",
+      "caucus": "Saint Lucia Labour Party",
+      "constituency_label": "",
+      "chamber": "House of Assembly of Saint Lucia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16206884"
+    },
+    {
+      "id": "alfred-prospere-q1282775",
+      "name": "Alfred Prospere",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Dennery South",
+      "chamber": "House of Assembly of Saint Lucia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109641213"
+    },
+    {
+      "id": "wayne-d-girard-q1282775",
+      "name": "Wayne D. Girard",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Anse La Raye/Canaries",
+      "chamber": "House of Assembly of Saint Lucia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109641269"
+    },
+    {
+      "id": "herod-stanislas-q1282775",
+      "name": "Herod Stanislas",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Soufriere",
+      "chamber": "House of Assembly of Saint Lucia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107486426"
+    },
+    {
+      "id": "bradley-felix-q1282775",
+      "name": "Bradley Felix",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Choiseul",
+      "chamber": "House of Assembly of Saint Lucia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107486429"
+    },
+    {
+      "id": "shawn-edward-q1282775",
+      "name": "Shawn Edward",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Dennery North",
+      "chamber": "House of Assembly of Saint Lucia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107486433"
+    },
+    {
+      "id": "joachim-henry-q1282775",
+      "name": "Joachim Henry",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Castries South East",
+      "chamber": "House of Assembly of Saint Lucia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107664100"
+    },
+    {
+      "id": "jeremiah-norbert-q1282775",
+      "name": "Jeremiah Norbert",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Micoud North",
+      "chamber": "House of Assembly of Saint Lucia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107721186"
+    },
+    {
+      "id": "kenson-casimir-q1282775",
+      "name": "Kenson Casimir",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Gros Islet",
+      "chamber": "House of Assembly of Saint Lucia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108000688"
+    },
+    {
+      "id": "desmond-long-q1282775",
+      "name": "Desmond Long",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Assembly of Saint Lucia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107490155"
+    },
+    {
+      "id": "lorne-theophilus-q1282775",
+      "name": "Lorne Theophilus",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Assembly of Saint Lucia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107490161"
+    },
+    {
+      "id": "virginia-albert-poyotte-q1282775",
+      "name": "Virginia Albert-Poyotte",
+      "sitting": true,
+      "party_id": "saint-lucia-labour-party",
+      "caucus": "Saint Lucia Labour Party",
+      "constituency_label": "Babonneau",
+      "chamber": "House of Assembly of Saint Lucia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107788041"
+    },
+    {
+      "id": "francisco-jn-pierre-q1563075",
+      "name": "Francisco Jn Pierre",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Saint Lucia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107664115"
+    },
+    {
+      "id": "fortuna-belrose-q1563075",
+      "name": "Fortuna Belrose",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Saint Lucia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107664118"
+    },
+    {
+      "id": "guibion-ferdinand-q1563075",
+      "name": "Guibion Ferdinand",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Saint Lucia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107664110"
+    },
+    {
+      "id": "hermangild-francis-q1563075",
+      "name": "Hermangild Francis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Saint Lucia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107664108"
+    },
+    {
+      "id": "mary-issac-q1563075",
+      "name": "Mary Issac",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Saint Lucia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107664065"
+    },
+    {
+      "id": "jerome-gedeon-q1563075",
+      "name": "Jerome Gedeon",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Saint Lucia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107664103"
+    },
+    {
+      "id": "joachim-henry-q1563075",
+      "name": "Joachim Henry",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Saint Lucia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107664100"
     }
   ]
 }

@@ -3,9 +3,9 @@
   "name": "Finland",
   "region": "",
   "chamber": "Parliament of Finland",
-  "houses": "",
+  "houses": "unicameral",
   "system": "",
-  "seats": 681,
+  "seats": 200,
   "election": "",
   "session": "",
   "kit": "map",
@@ -14,20 +14,30 @@
   ],
   "threshold": 5,
   "counts": {
-    "members": 681,
-    "sitting": 681,
+    "members": 685,
+    "sitting": 685,
     "votes": 0,
     "committees": 0,
     "key_votes": 0,
-    "sourced_quotes": 0
+    "sourced_quotes": 0,
+    "pledged": 0
   },
   "capabilities": [
-    "members"
+    "members",
+    "pledges",
+    "votes",
+    "issues",
+    "gap",
+    "caucus",
+    "committees",
+    "ethics",
+    "money",
+    "method"
   ],
   "basis": "Evidence",
   "incomplete": true,
   "lane": "lpin-wikidata-fill",
   "source_live": null,
-  "note": "Wikidata sitting pull 2026-09-06. 798 named. Vacancies not invented.",
+  "note": "Full-ISO Wikidata fill 2026-09-06. 1 bodies. Sitting 685. Votes/pledges/ethics/money not invented.",
   "roster_source": "https://www.wikidata.org/wiki/Q643412"
 }

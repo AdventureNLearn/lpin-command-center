@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1138130"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1138130",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q19694740",
+      "label": "Member of the Parliament of Sierra Leone (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q19694740",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1138130",
+      "label": "Parliament of Sierra Leone",
+      "url": "https://www.parliament.gov.sl/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1138130",
+      "label": "Parliament of Sierra Leone (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1138130",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

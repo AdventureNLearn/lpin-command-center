@@ -2,10 +2,10 @@
   "iso2": "au",
   "name": "Australia",
   "region": "oceania",
-  "chamber": "House of Representatives",
-  "houses": "",
+  "chamber": "Parliament of Australia",
+  "houses": "bicameral",
   "system": "",
-  "seats": 151,
+  "seats": 454,
   "election": "",
   "session": "48th Parliament (2025–2028)",
   "kit": "map",
@@ -19,7 +19,8 @@
     "votes": 354,
     "committees": 42,
     "key_votes": 238,
-    "sourced_quotes": 79
+    "sourced_quotes": 79,
+    "pledged": 79
   },
   "capabilities": [
     "members",
@@ -38,7 +39,7 @@
   "lane": "gold-kit-8103",
   "source_live": null,
   "note": "AU honest-complete 2026-08-21. Sit 151. Pledges 79 / 75 sitting. House XML packed; leftover pledge hunt-stop. Votes 354 named 238. Gap 0 after dual-source exam. named_donors false. Did not invent yeas. Honest incomplete.",
-  "roster_source": "https://en.wikipedia.org/wiki/Members_of_the_Australian_House_of_Representatives,_2025–2028",
+  "roster_source": "https://www.wikidata.org/wiki/Q382118",
   "named_donors": false,
   "honest_complete": true
 }

@@ -3,9 +3,9 @@
   "name": "Eritrea",
   "region": "",
   "chamber": "National Assembly",
-  "houses": "",
+  "houses": "unicameral",
   "system": "",
-  "seats": 6,
+  "seats": 104,
   "election": "",
   "session": "",
   "kit": "map",
@@ -19,15 +19,25 @@
     "votes": 0,
     "committees": 0,
     "key_votes": 0,
-    "sourced_quotes": 0
+    "sourced_quotes": 0,
+    "pledged": 0
   },
   "capabilities": [
-    "members"
+    "members",
+    "pledges",
+    "votes",
+    "issues",
+    "gap",
+    "caucus",
+    "committees",
+    "ethics",
+    "money",
+    "method"
   ],
   "basis": "Evidence",
   "incomplete": true,
   "lane": "lpin-wikidata-fill",
   "source_live": null,
-  "note": "Wikidata sitting pull 2026-09-06. 6 named. Vacancies not invented.",
+  "note": "Full-ISO Wikidata fill 2026-09-06. 2 bodies. Sitting 6. Votes/pledges/ethics/money not invented.",
   "roster_source": "https://www.wikidata.org/wiki/Q2094027"
 }

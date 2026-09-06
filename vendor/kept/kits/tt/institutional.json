@@ -1,0 +1,59 @@
+{
+  "iso2": "tt",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q754",
+  "bodies": [
+    {
+      "qid": "Q7138943",
+      "label": "Parliament of Trinidad and Tobago",
+      "seats": 0,
+      "web": "http://www.ttparliament.org/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q3510869",
+      "label": "Senate of Trinidad and Tobago",
+      "seats": 31,
+      "web": "http://www.ttparliament.org/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q2145199",
+      "label": "House of Representatives",
+      "seats": 41,
+      "web": "http://www.ttparliament.org/",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Senate of Trinidad and Tobago",
+    "House of Representatives"
+  ],
+  "seats": 72,
+  "items": [
+    {
+      "id": "Q7138943",
+      "name": "Parliament of Trinidad and Tobago",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "http://www.ttparliament.org/"
+    },
+    {
+      "id": "Q3510869",
+      "name": "Senate of Trinidad and Tobago",
+      "kind": "chamber",
+      "seats": 31,
+      "url": "http://www.ttparliament.org/"
+    },
+    {
+      "id": "Q2145199",
+      "name": "House of Representatives",
+      "kind": "chamber",
+      "seats": 41,
+      "url": "http://www.ttparliament.org/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

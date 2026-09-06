@@ -1,0 +1,59 @@
+{
+  "iso2": "cd",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q974",
+  "bodies": [
+    {
+      "qid": "Q1574334",
+      "label": "National Assembly",
+      "seats": 500,
+      "web": "http://www.assemblee-nationale.cd/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q3510889",
+      "label": "Senate of the Democratic Republic of the Congo",
+      "seats": 109,
+      "web": "http://www.senat.cd/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q282928",
+      "label": "Parliament of the Democratic Republic of the Congo",
+      "seats": 0,
+      "web": "",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "National Assembly",
+    "Senate of the Democratic Republic of the Congo"
+  ],
+  "seats": 609,
+  "items": [
+    {
+      "id": "Q1574334",
+      "name": "National Assembly",
+      "kind": "chamber",
+      "seats": 500,
+      "url": "http://www.assemblee-nationale.cd/"
+    },
+    {
+      "id": "Q3510889",
+      "name": "Senate of the Democratic Republic of the Congo",
+      "kind": "chamber",
+      "seats": 109,
+      "url": "http://www.senat.cd/"
+    },
+    {
+      "id": "Q282928",
+      "name": "Parliament of the Democratic Republic of the Congo",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q282928"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

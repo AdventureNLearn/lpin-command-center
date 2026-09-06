@@ -3,11 +3,197 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q578193",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 23,
+  "incomplete": true,
+  "claimed_seats": 120,
+  "chambers": [
+    "Member of the Supreme Council of Kyrgyzstan",
+    "Supreme Council"
+  ],
   "items": [
     {
-      "id": "ravshanbek-rysbayev",
+      "id": "adakhan-madumarov-q21091853",
+      "name": "Adakhan Madumarov",
+      "sitting": true,
+      "party_id": "ata-zhurt",
+      "caucus": "Ata-Zhurt",
+      "constituency_label": "",
+      "chamber": "Member of the Supreme Council of Kyrgyzstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q346446"
+    },
+    {
+      "id": "marat-sultanov-q21091853",
+      "name": "Marat Sultanov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Member of the Supreme Council of Kyrgyzstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q11340957"
+    },
+    {
+      "id": "z-k-kurmanov-q21091853",
+      "name": "Z. K. Kurmanov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Member of the Supreme Council of Kyrgyzstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4248578"
+    },
+    {
+      "id": "kanatbek-isaev-q21091853",
+      "name": "Kanatbek Isaev",
+      "sitting": true,
+      "party_id": "respublika",
+      "caucus": "Respublika",
+      "constituency_label": "",
+      "chamber": "Member of the Supreme Council of Kyrgyzstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q84720784"
+    },
+    {
+      "id": "akhmatbek-keldibekov-q21091853",
+      "name": "Akhmatbek Keldibekov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Member of the Supreme Council of Kyrgyzstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4700766"
+    },
+    {
+      "id": "chynybai-tursunbekov-q21091853",
+      "name": "Chynybai Tursunbekov",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Member of the Supreme Council of Kyrgyzstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q21144397"
+    },
+    {
+      "id": "aytibay-tagaev-q21091853",
+      "name": "Aytibay Tagaev",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Member of the Supreme Council of Kyrgyzstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q25583601"
+    },
+    {
+      "id": "mukar-cholponbayev-q21091853",
+      "name": "Mukar Cholponbayev",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Member of the Supreme Council of Kyrgyzstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q31451910"
+    },
+    {
+      "id": "nurlanbek-shakiev-q21091853",
+      "name": "Nurlanbek Shakiev",
+      "sitting": true,
+      "party_id": "ata-jurt-kyrgyzstan",
+      "caucus": "Ata-Jurt Kyrgyzstan",
+      "constituency_label": "",
+      "chamber": "Member of the Supreme Council of Kyrgyzstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q114554418"
+    },
+    {
+      "id": "myktybek-abdyldaev-q21091853",
+      "name": "Myktybek Abdyldaev",
+      "sitting": true,
+      "party_id": "bir-bol",
+      "caucus": "Bir Bol",
+      "constituency_label": "",
+      "chamber": "Member of the Supreme Council of Kyrgyzstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q25597822"
+    },
+    {
+      "id": "dastan-jumabekov-q21091853",
+      "name": "Dastan Jumabekov",
+      "sitting": true,
+      "party_id": "kyrgyzstan-party",
+      "caucus": "Kyrgyzstan Party",
+      "constituency_label": "",
+      "chamber": "Member of the Supreme Council of Kyrgyzstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q25597842"
+    },
+    {
+      "id": "asylbek-jeenbekov-q21091853",
+      "name": "Asylbek Jêênbekov",
+      "sitting": true,
+      "party_id": "social-democratic-party-of-kyrgyzstan",
+      "caucus": "Social Democratic Party of Kyrgyzstan",
+      "constituency_label": "",
+      "chamber": "Member of the Supreme Council of Kyrgyzstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4182022"
+    },
+    {
+      "id": "talant-mamytov-q21091853",
+      "name": "Talant Mamytov",
+      "sitting": true,
+      "party_id": "respublika-ata-zhurt",
+      "caucus": "Respublika–Ata Zhurt",
+      "constituency_label": "",
+      "chamber": "Member of the Supreme Council of Kyrgyzstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q25597831"
+    },
+    {
+      "id": "omurbek-tekebayev-q21091853",
+      "name": "Omurbek Tekebayev",
+      "sitting": true,
+      "party_id": "ata-meken-socialist-party",
+      "caucus": "Ata Meken Socialist Party",
+      "constituency_label": "",
+      "chamber": "Member of the Supreme Council of Kyrgyzstan",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q297568"
+    },
+    {
+      "id": "ravshanbek-rysbayev-q578193",
       "name": "Ravshanbek Rysbayev",
       "sitting": true,
       "party_id": "unknown",
@@ -20,7 +206,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q125696228"
     },
     {
-      "id": "marat-sultanov",
+      "id": "almanbet-matubraimov-q578193",
+      "name": "Almanbet Matubraimov",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q567761"
+    },
+    {
+      "id": "aybek-matkerimov-q578193",
+      "name": "Aybek Matkerimov",
+      "sitting": true,
+      "party_id": "ata-jurt-kyrgyzstan",
+      "caucus": "Ata-Jurt Kyrgyzstan",
+      "constituency_label": "",
+      "chamber": "Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q115914970"
+    },
+    {
+      "id": "marat-sultanov-q578193",
       "name": "Marat Sultanov",
       "sitting": true,
       "party_id": "unknown",
@@ -33,33 +245,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q11340957"
     },
     {
-      "id": "osmonbek-artykbayev",
-      "name": "Osmonbek Artykbayev",
+      "id": "elvira-surabaldieva-q578193",
+      "name": "Elvira Surabaldieva",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "social-democratic-party-of-kyrgyzstan",
+      "caucus": "Social Democratic Party of Kyrgyzstan",
       "constituency_label": "",
       "chamber": "Supreme Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q4070339"
+      "roster_url": "http://www.wikidata.org/entity/Q65499727"
     },
     {
-      "id": "asylbek-jeenbekov",
-      "name": "Asylbek Jêênbekov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Supreme Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4182022"
-    },
-    {
-      "id": "aida-salyanova",
+      "id": "aida-salyanova-q578193",
       "name": "Aida Salyanova",
       "sitting": true,
       "party_id": "unknown",
@@ -72,20 +271,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q4406248"
     },
     {
-      "id": "almanbet-matubraimov",
-      "name": "Almanbet Matubraimov",
+      "id": "bakyt-torobayev-q578193",
+      "name": "Bakyt Torobayev",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "ak-jol",
+      "caucus": "Ak Jol",
       "constituency_label": "",
       "chamber": "Supreme Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q567761"
+      "roster_url": "http://www.wikidata.org/entity/Q38459236"
     },
     {
-      "id": "akhmatbek-keldibekov",
+      "id": "akhmatbek-keldibekov-q578193",
       "name": "Akhmatbek Keldibekov",
       "sitting": true,
       "party_id": "unknown",
@@ -98,7 +297,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q4700766"
     },
     {
-      "id": "bermet-akayeva",
+      "id": "bermet-akayeva-q578193",
       "name": "Bermet Akayeva",
       "sitting": true,
       "party_id": "unknown",
@@ -111,7 +310,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q4892570"
     },
     {
-      "id": "roza-aknazarova",
+      "id": "roza-aknazarova-q578193",
       "name": "Roza Aknazarova",
       "sitting": true,
       "party_id": "unknown",
@@ -124,33 +323,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q20618951"
     },
     {
-      "id": "absamat-masaliyev",
-      "name": "Absamat Masaliyev",
+      "id": "bakyt-zhetigenov-q578193",
+      "name": "Bakyt Zhetigenov",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "social-democratic-party-of-kyrgyzstan",
+      "caucus": "Social Democratic Party of Kyrgyzstan",
       "constituency_label": "",
       "chamber": "Supreme Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q834792"
+      "roster_url": "http://www.wikidata.org/entity/Q110242811"
     },
     {
-      "id": "janarbek-akayev",
-      "name": "Janarbek Akayev",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Supreme Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q25386837"
-    },
-    {
-      "id": "meerbek-miskenbaev",
+      "id": "meerbek-miskenbaev-q578193",
       "name": "Meerbek Miskenbaev",
       "sitting": true,
       "party_id": "unknown",
@@ -163,33 +349,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q25585031"
     },
     {
-      "id": "dastan-jumabekov",
-      "name": "Dastan Jumabekov",
+      "id": "absamat-masaliyev-q578193",
+      "name": "Absamat Masaliyev",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "communist-party-of-the-soviet-union",
+      "caucus": "Communist Party of the Soviet Union",
       "constituency_label": "",
       "chamber": "Supreme Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q25597842"
+      "roster_url": "http://www.wikidata.org/entity/Q834792"
     },
     {
-      "id": "natalya-nikitenko",
-      "name": "Natalya Nikitenko",
+      "id": "cholpon-ecenamanova-q578193",
+      "name": "Cholpon Ecenamanova",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "kyrgyzstan-party",
+      "caucus": "Kyrgyzstan Party",
       "constituency_label": "",
       "chamber": "Supreme Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q27663858"
+      "roster_url": "http://www.wikidata.org/entity/Q137754206"
     },
     {
-      "id": "jyrgalbek-surabaldiev",
+      "id": "jyrgalbek-surabaldiev-q578193",
       "name": "Jyrgalbek Surabaldiev",
       "sitting": true,
       "party_id": "unknown",
@@ -202,37 +388,11 @@
       "roster_url": "http://www.wikidata.org/entity/Q137101952"
     },
     {
-      "id": "cholpon-ecenamanova",
-      "name": "Cholpon Ecenamanova",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Supreme Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q137754206"
-    },
-    {
-      "id": "aynuru-altybayeva",
-      "name": "Aynuru Altybayeva",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Supreme Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q42666017"
-    },
-    {
-      "id": "ishenbai-kadyrbekov",
+      "id": "ishenbai-kadyrbekov-q578193",
       "name": "Ishenbai Kadyrbekov",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
       "constituency_label": "",
       "chamber": "Supreme Council",
       "lang": [
@@ -241,7 +401,124 @@
       "roster_url": "http://www.wikidata.org/entity/Q24669"
     },
     {
-      "id": "taalaybek-masabirov",
+      "id": "mukar-cholponbayev-q578193",
+      "name": "Mukar Cholponbayev",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q31451910"
+    },
+    {
+      "id": "janarbek-akayev-q578193",
+      "name": "Janarbek Akayev",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q25386837"
+    },
+    {
+      "id": "aynuru-altybayeva-q578193",
+      "name": "Aynuru Altybayeva",
+      "sitting": true,
+      "party_id": "ar-namys",
+      "caucus": "Ar-Namys",
+      "constituency_label": "",
+      "chamber": "Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q42666017"
+    },
+    {
+      "id": "irina-karamushkina-q578193",
+      "name": "Irina Karamushkina",
+      "sitting": true,
+      "party_id": "social-democratic-party-of-kyrgyzstan",
+      "caucus": "Social Democratic Party of Kyrgyzstan",
+      "constituency_label": "",
+      "chamber": "Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q66309176"
+    },
+    {
+      "id": "sadyr-japarov-q578193",
+      "name": "Sadyr Japarov",
+      "sitting": true,
+      "party_id": "mekenchil",
+      "caucus": "Mekenchil",
+      "constituency_label": "",
+      "chamber": "Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q25597826"
+    },
+    {
+      "id": "osmonbek-artykbayev-q578193",
+      "name": "Osmonbek Artykbayev",
+      "sitting": true,
+      "party_id": "social-democratic-party-of-kyrgyzstan",
+      "caucus": "Social Democratic Party of Kyrgyzstan",
+      "constituency_label": "",
+      "chamber": "Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4070339"
+    },
+    {
+      "id": "natalya-nikitenko-q578193",
+      "name": "Natalya Nikitenko",
+      "sitting": true,
+      "party_id": "ata-meken-socialist-party",
+      "caucus": "Ata Meken Socialist Party",
+      "constituency_label": "",
+      "chamber": "Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q27663858"
+    },
+    {
+      "id": "dastan-jumabekov-q578193",
+      "name": "Dastan Jumabekov",
+      "sitting": true,
+      "party_id": "kyrgyzstan-party",
+      "caucus": "Kyrgyzstan Party",
+      "constituency_label": "",
+      "chamber": "Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q25597842"
+    },
+    {
+      "id": "asylbek-jeenbekov-q578193",
+      "name": "Asylbek Jêênbekov",
+      "sitting": true,
+      "party_id": "social-democratic-party-of-kyrgyzstan",
+      "caucus": "Social Democratic Party of Kyrgyzstan",
+      "constituency_label": "",
+      "chamber": "Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4182022"
+    },
+    {
+      "id": "taalaybek-masabirov-q578193",
       "name": "Taalaybek Masabirov",
       "sitting": true,
       "party_id": "unknown",
@@ -254,8 +531,8 @@
       "roster_url": "http://www.wikidata.org/entity/Q62998074"
     },
     {
-      "id": "elvira-surabaldieva",
-      "name": "Elvira Surabaldieva",
+      "id": "gulnara-klara-samat-q578193",
+      "name": "Gulnara-Klara Samat",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -264,46 +541,7 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q65499727"
-    },
-    {
-      "id": "irina-karamushkina",
-      "name": "Irina Karamushkina",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Supreme Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q66309176"
-    },
-    {
-      "id": "bakyt-zhetigenov",
-      "name": "Bakyt Zhetigenov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Supreme Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q110242811"
-    },
-    {
-      "id": "aybek-matkerimov",
-      "name": "Aybek Matkerimov",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Supreme Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q115914970"
+      "roster_url": "http://www.wikidata.org/entity/Q109446127"
     }
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "iso2": "st",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q1039",
+  "bodies": [
+    {
+      "qid": "Q21295998",
+      "label": "Member of the National Assembly of Sao Tome and Principe",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1267064",
+      "label": "Asamblea Nacional de Santo Tomé y Príncipe",
+      "seats": 55,
+      "web": "http://www.parlamento.st",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Member of the National Assembly of Sao Tome and Principe"
+  ],
+  "seats": 55,
+  "items": [
+    {
+      "id": "Q21295998",
+      "name": "Member of the National Assembly of Sao Tome and Principe",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q21295998"
+    },
+    {
+      "id": "Q1267064",
+      "name": "Asamblea Nacional de Santo Tomé y Príncipe",
+      "kind": "parliament",
+      "seats": 55,
+      "url": "http://www.parlamento.st"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

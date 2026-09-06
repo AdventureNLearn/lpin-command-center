@@ -2,10 +2,10 @@
   "iso2": "it",
   "name": "Italy",
   "region": "europe",
-  "chamber": "Camera dei Deputati",
-  "houses": "",
+  "chamber": "Italian Parliament",
+  "houses": "bicameral",
   "system": "",
-  "seats": 400,
+  "seats": 605,
   "election": "",
   "session": "XIX legislatura (2022–)",
   "kit": "map",
@@ -17,10 +17,11 @@
   "counts": {
     "members": 400,
     "sitting": 400,
-    "votes": 2014,
+    "votes": 7514,
     "committees": 14,
     "key_votes": 2014,
-    "sourced_quotes": 0
+    "sourced_quotes": 0,
+    "pledged": 4
   },
   "capabilities": [
     "members",
@@ -39,7 +40,7 @@
   "lane": "gold-kit-8103",
   "source_live": null,
   "note": "IT thin honest-empty 2026-08-21. Sit 400. Sourced civic pledges 0 (4 stenographic kept, not new). Professioni di fede unpublished on XIX schede. Yeas/pledges/donors not invented. votes.json not rewritten. No rematch gb/fr/es.",
-  "roster_source": "https://www.wikidata.org/wiki/Q18558478",
+  "roster_source": "https://www.wikidata.org/wiki/Q1117578",
   "named_donors": false,
   "honest_complete": true,
   "thin": true,

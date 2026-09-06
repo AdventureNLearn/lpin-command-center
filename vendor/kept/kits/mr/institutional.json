@@ -1,0 +1,59 @@
+{
+  "iso2": "mr",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q1025",
+  "bodies": [
+    {
+      "qid": "Q21295992",
+      "label": "Member of the National Assembly of Mauritania",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1138935",
+      "label": "National Assembly",
+      "seats": 176,
+      "web": "https://assembleenationale.mr/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q3510858",
+      "label": "Senate",
+      "seats": 56,
+      "web": "http://www.senat.mr",
+      "kind": "lower"
+    }
+  ],
+  "houses": [
+    "Member of the National Assembly of Mauritania",
+    "Senate"
+  ],
+  "seats": 232,
+  "items": [
+    {
+      "id": "Q21295992",
+      "name": "Member of the National Assembly of Mauritania",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q21295992"
+    },
+    {
+      "id": "Q1138935",
+      "name": "National Assembly",
+      "kind": "parliament",
+      "seats": 176,
+      "url": "https://assembleenationale.mr/"
+    },
+    {
+      "id": "Q3510858",
+      "name": "Senate",
+      "kind": "lower",
+      "seats": 56,
+      "url": "http://www.senat.mr"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

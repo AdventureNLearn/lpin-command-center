@@ -1,0 +1,59 @@
+{
+  "iso2": "ci",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q1008",
+  "bodies": [
+    {
+      "qid": "Q1573929",
+      "label": "National Assembly",
+      "seats": 255,
+      "web": "http://www.assnat.ci/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q27881014",
+      "label": "Senate",
+      "seats": 99,
+      "web": "https://senat.ci/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q27881072",
+      "label": "Parliament of Ivory Coast",
+      "seats": 0,
+      "web": "",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "National Assembly",
+    "Senate"
+  ],
+  "seats": 354,
+  "items": [
+    {
+      "id": "Q1573929",
+      "name": "National Assembly",
+      "kind": "chamber",
+      "seats": 255,
+      "url": "http://www.assnat.ci/"
+    },
+    {
+      "id": "Q27881014",
+      "name": "Senate",
+      "kind": "chamber",
+      "seats": 99,
+      "url": "https://senat.ci/"
+    },
+    {
+      "id": "Q27881072",
+      "name": "Parliament of Ivory Coast",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q27881072"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

@@ -2,10 +2,10 @@
   "iso2": "ph",
   "name": "Philippines",
   "region": "asia",
-  "chamber": "House of Representatives",
-  "houses": "",
+  "chamber": "Congress of the Philippines",
+  "houses": "bicameral",
   "system": "",
-  "seats": 317,
+  "seats": 316,
   "election": "",
   "session": "20th Congress (2025–)",
   "kit": "map",
@@ -19,7 +19,8 @@
     "votes": 67,
     "committees": 85,
     "key_votes": 67,
-    "sourced_quotes": 12
+    "sourced_quotes": 12,
+    "pledged": 12
   },
   "capabilities": [
     "members",
@@ -38,7 +39,7 @@
   "lane": "gold-kit-8103",
   "source_live": null,
   "note": "PH honest-complete 2026-08-21. Sit 317. Pledges 12 / 2 sitting hunt-stop (member sites examined; congress.gov.ph press 403 one-and-stop). Votes 67 named 0 (64 clerk journal totals + 3 reconstructed speaker/impeachment; yeas not invented). Comm 85. Ethics 32 public categories. Money 0. Gap 0 after dual-source exam. named_donors false. Honest incomplete (Wikipedia roster).",
-  "roster_source": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_House_of_Representatives_of_the_Philippines",
+  "roster_source": "https://www.wikidata.org/wiki/Q1542985",
   "honest_complete": true,
   "named_donors": false
 }

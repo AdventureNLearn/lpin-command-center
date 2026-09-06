@@ -2,10 +2,10 @@
   "iso2": "gb",
   "name": "United Kingdom",
   "region": "europe",
-  "chamber": "House of Commons",
-  "houses": "",
+  "chamber": "Parliament of the United Kingdom",
+  "houses": "bicameral",
   "system": "",
-  "seats": 650,
+  "seats": 2891,
   "election": "",
   "session": "2024– (59th Parliament)",
   "kit": "map",
@@ -19,7 +19,8 @@
     "votes": 575,
     "committees": 95,
     "key_votes": 575,
-    "sourced_quotes": 106
+    "sourced_quotes": 106,
+    "pledged": 106
   },
   "capabilities": [
     "members",
@@ -38,7 +39,7 @@
   "lane": "gold-kit-8103",
   "source_live": null,
   "note": "GB honest-complete 2026-08-21. Sit 650. Pledges 106 personal https (quality-gate leftover merge). leftover-exam junk not merged. votes.json not rewritten (575/575 named). FIRE path corpus/kits/gb/meta.json only.",
-  "roster_source": "https://members-api.parliament.uk/api/Members/Search?House=Commons&IsCurrentMember=true",
+  "roster_source": "https://www.wikidata.org/wiki/Q11010",
   "named_donors": false,
   "honest_complete": true
 }

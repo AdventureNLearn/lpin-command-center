@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1149644"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1149644",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1149644",
+      "label": "Landtag of Liechtenstein",
+      "url": "https://www.landtag.li/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1149644",
+      "label": "Landtag of Liechtenstein (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1149644",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21328607",
+      "label": "member of the Landtag of Liechtenstein (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21328607",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

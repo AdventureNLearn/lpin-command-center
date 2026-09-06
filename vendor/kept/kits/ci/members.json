@@ -3,450 +3,598 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q27881072",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 34,
+  "incomplete": true,
+  "claimed_seats": 354,
+  "chambers": [
+    "National Assembly",
+    "Senate",
+    "Parliament of Ivory Coast"
+  ],
   "items": [
     {
-      "id": "bernard-kone-dossongui",
-      "name": "Bernard Koné Dossongui",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Ivory Coast",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q91611446"
-    },
-    {
-      "id": "ake-loba",
-      "name": "Aké Loba",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Ivory Coast",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q424732"
-    },
-    {
-      "id": "adama-bictogo",
-      "name": "Adama Bictogo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Ivory Coast",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q96678215"
-    },
-    {
-      "id": "laurent-gbagbo",
-      "name": "Laurent Gbagbo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Ivory Coast",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q179242"
-    },
-    {
-      "id": "mamadou-koulibaly",
-      "name": "Mamadou Koulibaly",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Ivory Coast",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1888117"
-    },
-    {
-      "id": "emile-boga-doudou",
-      "name": "Émile Boga Doudou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Ivory Coast",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2388022"
-    },
-    {
-      "id": "auguste-denise",
-      "name": "Auguste Denise",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Ivory Coast",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2804030"
-    },
-    {
-      "id": "adolphe-konan-saraka",
+      "id": "adolphe-konan-saraka-q1573929",
       "name": "Adolphe Konan Saraka",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "democratic-party-of-cote-d-ivoire-african-democratic-rally",
+      "caucus": "Democratic Party of Côte d'Ivoire – African Democratic Rally",
       "constituency_label": "",
-      "chamber": "Parliament of Ivory Coast",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q2824847"
     },
     {
-      "id": "bamba-kartiahouan",
-      "name": "Bamba Kartiahouan",
+      "id": "ally-coulibaly-q1573929",
+      "name": "Ally Coulibaly",
+      "sitting": true,
+      "party_id": "rally-of-the-republicans",
+      "caucus": "Rally of the Republicans",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2838739"
+    },
+    {
+      "id": "adjaratou-traore-q1573929",
+      "name": "Adjaratou Traoré",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Ivory Coast",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q2881744"
+      "roster_url": "http://www.wikidata.org/entity/Q129984590"
     },
     {
-      "id": "dagobert-banzio",
-      "name": "Dagobert Banzio",
+      "id": "bernard-kone-dossongui-q1573929",
+      "name": "Bernard Koné Dossongui",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Ivory Coast",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q3011884"
+      "roster_url": "http://www.wikidata.org/entity/Q91611446"
     },
     {
-      "id": "gaston-boka-mene",
-      "name": "Gaston Boka Mené",
+      "id": "ake-loba-q1573929",
+      "name": "Aké Loba",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Ivory Coast",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q3098923"
+      "roster_url": "http://www.wikidata.org/entity/Q424732"
     },
     {
-      "id": "hortense-aka-anghui",
-      "name": "Hortense Aka-Anghui",
+      "id": "adama-bictogo-q1573929",
+      "name": "Adama Bictogo",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Ivory Coast",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q3140836"
+      "roster_url": "http://www.wikidata.org/entity/Q96678215"
     },
     {
-      "id": "innocent-anaky",
-      "name": "Innocent Anaky",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Ivory Coast",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3151391"
-    },
-    {
-      "id": "lamine-fadiga",
-      "name": "Lamine Fadiga",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Ivory Coast",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3216756"
-    },
-    {
-      "id": "laurent-akoun",
-      "name": "Laurent Akoun",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Ivory Coast",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3218990"
-    },
-    {
-      "id": "leonard-offoumou-yapo",
-      "name": "Léonard Offoumou Yapo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Ivory Coast",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3271529"
-    },
-    {
-      "id": "michel-konan-bledou",
-      "name": "Michel Konan Blédou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Ivory Coast",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3310039"
-    },
-    {
-      "id": "philippe-adou",
-      "name": "Philippe Adou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Ivory Coast",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3379201"
-    },
-    {
-      "id": "rene-netro",
-      "name": "René Netro",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Ivory Coast",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3426681"
-    },
-    {
-      "id": "victor-capri-djedje",
-      "name": "Victor Capri Djédjé",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Ivory Coast",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3557204"
-    },
-    {
-      "id": "emile-atta-brou",
-      "name": "Émile Atta Brou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Ivory Coast",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3588311"
-    },
-    {
-      "id": "gnangbo-kacou",
-      "name": "Gnangbo Kacou",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Ivory Coast",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19956304"
-    },
-    {
-      "id": "gladys-anoma",
-      "name": "Gladys Anoma",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Ivory Coast",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28860033"
-    },
-    {
-      "id": "soumaila-diarrasouba",
-      "name": "Soumaila Diarrasouba",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Ivory Coast",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q138603146"
-    },
-    {
-      "id": "ballo-nouho",
-      "name": "Ballo Nouho",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Ivory Coast",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q138603107"
-    },
-    {
-      "id": "adama-bakayoko",
-      "name": "Adama Bakayoko",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Ivory Coast",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q138645775"
-    },
-    {
-      "id": "kouassi-koffi-kra-paulin",
-      "name": "Kouassi Koffi Kra Paulin",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Ivory Coast",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q138645801"
-    },
-    {
-      "id": "veronique-aka",
-      "name": "Véronique Aka",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Ivory Coast",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q43012487"
-    },
-    {
-      "id": "celestine-olibe-trazere",
-      "name": "Célestine Olibé Trazéré",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Ivory Coast",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q49500308"
-    },
-    {
-      "id": "madeleine-tchicaya",
-      "name": "Madeleine Tchicaya",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Ivory Coast",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q56457061"
-    },
-    {
-      "id": "kouassi-kouame-patrice",
+      "id": "kouassi-kouame-patrice-q1573929",
       "name": "Kouassi Kouamé Patrice",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "democratic-party-of-cote-d-ivoire-african-democratic-rally",
+      "caucus": "Democratic Party of Côte d'Ivoire – African Democratic Rally",
       "constituency_label": "",
-      "chamber": "Parliament of Ivory Coast",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q59397217"
     },
     {
-      "id": "laurent-tchagba",
-      "name": "Laurent Tchagba",
+      "id": "bamba-kartiahouan-q1573929",
+      "name": "Bamba Kartiahouan",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Ivory Coast",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q104437318"
+      "roster_url": "http://www.wikidata.org/entity/Q2881744"
     },
     {
-      "id": "amy-toungara",
-      "name": "Amy Toungara",
+      "id": "gaston-boka-mene-q1573929",
+      "name": "Gaston Boka Mené",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Ivory Coast",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3098923"
+    },
+    {
+      "id": "leonard-offoumou-yapo-q1573929",
+      "name": "Léonard Offoumou Yapo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3271529"
+    },
+    {
+      "id": "michel-konan-bledou-q1573929",
+      "name": "Michel Konan Blédou",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3310039"
+    },
+    {
+      "id": "philippe-adou-q1573929",
+      "name": "Philippe Adou",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3379201"
+    },
+    {
+      "id": "rene-netro-q1573929",
+      "name": "René Netro",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3426681"
+    },
+    {
+      "id": "emile-atta-brou-q1573929",
+      "name": "Émile Atta Brou",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3588311"
+    },
+    {
+      "id": "simone-gbagbo-q1573929",
+      "name": "Simone Gbagbo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q437761"
+    },
+    {
+      "id": "emile-boga-doudou-q1573929",
+      "name": "Émile Boga Doudou",
+      "sitting": true,
+      "party_id": "mouvement-des-generations-capables",
+      "caucus": "Mouvement des Générations Capables",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2388022"
+    },
+    {
+      "id": "mamadou-koulibaly-q1573929",
+      "name": "Mamadou Koulibaly",
+      "sitting": true,
+      "party_id": "mouvement-des-generations-capables",
+      "caucus": "Mouvement des Générations Capables",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1888117"
+    },
+    {
+      "id": "marthe-solange-achy-brou-q1573929",
+      "name": "Marthe Solange Achy Brou",
+      "sitting": true,
+      "party_id": "democratic-party-of-cote-d-ivoire-african-democratic-rally",
+      "caucus": "Democratic Party of Côte d'Ivoire – African Democratic Rally",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q100341292"
+    },
+    {
+      "id": "gnangbo-kacou-q1573929",
+      "name": "Gnangbo Kacou",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19956304"
+    },
+    {
+      "id": "francis-wodie-q1573929",
+      "name": "Francis Wodié",
+      "sitting": true,
+      "party_id": "ivorian-workers-party",
+      "caucus": "Ivorian Workers' Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1441795"
+    },
+    {
+      "id": "dagobert-banzio-q1573929",
+      "name": "Dagobert Banzio",
+      "sitting": true,
+      "party_id": "democratic-party-of-cote-d-ivoire-african-democratic-rally",
+      "caucus": "Democratic Party of Côte d'Ivoire – African Democratic Rally",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3011884"
+    },
+    {
+      "id": "amadou-soumahoro-q1573929",
+      "name": "Amadou Soumahoro",
+      "sitting": true,
+      "party_id": "rally-of-houphouetists-for-democracy-and-peace",
+      "caucus": "Rally of Houphouëtists for Democracy and Peace",
+      "constituency_label": "Séguéla",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q68770341"
+    },
+    {
+      "id": "gladys-anoma-q1573929",
+      "name": "Gladys Anoma",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28860033"
+    },
+    {
+      "id": "veronique-aka-q1573929",
+      "name": "Véronique Aka",
+      "sitting": true,
+      "party_id": "democratic-party-of-cote-d-ivoire-african-democratic-rally",
+      "caucus": "Democratic Party of Côte d'Ivoire – African Democratic Rally",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q43012487"
+    },
+    {
+      "id": "soumaila-diarrasouba-q1573929",
+      "name": "Soumaila Diarrasouba",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q138603146"
+    },
+    {
+      "id": "ballo-nouho-q1573929",
+      "name": "Ballo Nouho",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q138603107"
+    },
+    {
+      "id": "adama-bakayoko-q1573929",
+      "name": "Adama Bakayoko",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q138645775"
+    },
+    {
+      "id": "souleymane-roel-kone-q1573929",
+      "name": "Souleymane Roel Kone",
+      "sitting": true,
+      "party_id": "rally-of-the-republicans",
+      "caucus": "Rally of the Republicans",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q107136438"
+    },
+    {
+      "id": "yasmina-ouegnin-q1573929",
+      "name": "Yasmina Ouégnin",
+      "sitting": true,
+      "party_id": "democratic-party-of-cote-d-ivoire-african-democratic-rally",
+      "caucus": "Democratic Party of Côte d'Ivoire – African Democratic Rally",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q27757660"
+    },
+    {
+      "id": "hortense-aka-anghui-q1573929",
+      "name": "Hortense Aka-Anghui",
+      "sitting": true,
+      "party_id": "democratic-party-of-cote-d-ivoire-african-democratic-rally",
+      "caucus": "Democratic Party of Côte d'Ivoire – African Democratic Rally",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3140836"
+    },
+    {
+      "id": "hamed-bakayoko-q1573929",
+      "name": "Hamed Bakayoko",
+      "sitting": true,
+      "party_id": "rally-of-the-republicans",
+      "caucus": "Rally of the Republicans",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3126401"
+    },
+    {
+      "id": "lamine-fadiga-q1573929",
+      "name": "Lamine Fadiga",
+      "sitting": true,
+      "party_id": "democratic-party-of-cote-d-ivoire-african-democratic-rally",
+      "caucus": "Democratic Party of Côte d'Ivoire – African Democratic Rally",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3216756"
+    },
+    {
+      "id": "innocent-anaky-q1573929",
+      "name": "Innocent Anaky",
+      "sitting": true,
+      "party_id": "movement-of-the-forces-of-the-future",
+      "caucus": "Movement of the Forces of the Future",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3151391"
+    },
+    {
+      "id": "laurent-gbagbo-q1573929",
+      "name": "Laurent Gbagbo",
+      "sitting": true,
+      "party_id": "parti-des-peuples-africains-cote-d-ivoire",
+      "caucus": "Parti des peuples africains-Côte d'Ivoire",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q179242"
+    },
+    {
+      "id": "amy-toungara-q1573929",
+      "name": "Amy Toungara",
+      "sitting": true,
+      "party_id": "rally-of-the-republicans",
+      "caucus": "Rally of the Republicans",
+      "constituency_label": "",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q107466549"
     },
     {
-      "id": "dominique-zegoua",
+      "id": "celestine-olibe-trazere-q1573929",
+      "name": "Célestine Olibé Trazéré",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q49500308"
+    },
+    {
+      "id": "madeleine-tchicaya-q1573929",
+      "name": "Madeleine Tchicaya",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56457061"
+    },
+    {
+      "id": "kouassi-koffi-kra-paulin-q1573929",
+      "name": "Kouassi Koffi Kra Paulin",
+      "sitting": true,
+      "party_id": "rally-of-houphouetists-for-democracy-and-peace",
+      "caucus": "Rally of Houphouëtists for Democracy and Peace",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q138645801"
+    },
+    {
+      "id": "laurent-tchagba-q1573929",
+      "name": "Laurent Tchagba",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q104437318"
+    },
+    {
+      "id": "laurent-akoun-q1573929",
+      "name": "Laurent Akoun",
+      "sitting": true,
+      "party_id": "ivorian-workers-party",
+      "caucus": "Ivorian Workers' Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3218990"
+    },
+    {
+      "id": "tiemoko-antoine-assale-q1573929",
+      "name": "Tiemoko Antoine Assalé",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108666080"
+    },
+    {
+      "id": "jeanne-gervais-q1573929",
+      "name": "Jeanne Gervais",
+      "sitting": true,
+      "party_id": "democratic-party-of-cote-d-ivoire-african-democratic-rally",
+      "caucus": "Democratic Party of Côte d'Ivoire – African Democratic Rally",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28860034"
+    },
+    {
+      "id": "dominique-zegoua-q1573929",
       "name": "Dominique Zegoua",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Ivory Coast",
+      "chamber": "National Assembly",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q119295728"
+    },
+    {
+      "id": "victor-capri-djedje-q1573929",
+      "name": "Victor Capri Djédjé",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3557204"
+    },
+    {
+      "id": "auguste-denise-q1573929",
+      "name": "Auguste Denise",
+      "sitting": true,
+      "party_id": "democratic-party-of-cote-d-ivoire-african-democratic-rally",
+      "caucus": "Democratic Party of Côte d'Ivoire – African Democratic Rally",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2804030"
     }
   ]
 }

@@ -3,51 +3,16 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1127198",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 57,
+  "incomplete": true,
+  "claimed_seats": 24,
+  "chambers": [
+    "Member of the National Council of Monaco",
+    "National Council"
+  ],
   "items": [
     {
-      "id": "christophe-spiliotis",
-      "name": "Christophe Spiliotis",
-      "sitting": true,
-      "party_id": "independent-politician",
-      "caucus": "independent politician",
-      "constituency_label": "",
-      "chamber": "National Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16041150"
-    },
-    {
-      "id": "roland-marquet",
-      "name": "Roland Marquet",
-      "sitting": true,
-      "party_id": "union-for-monaco",
-      "caucus": "Union for Monaco",
-      "constituency_label": "",
-      "chamber": "National Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q41478819"
-    },
-    {
-      "id": "jean-francois-robillon",
-      "name": "Jean-François Robillon",
-      "sitting": true,
-      "party_id": "union-for-monaco",
-      "caucus": "Union for Monaco",
-      "constituency_label": "",
-      "chamber": "National Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16194850"
-    },
-    {
-      "id": "laurent-nouvion",
-      "name": "Laurent Nouvion",
+      "id": "daniel-boeri-q1127198",
+      "name": "Daniel Boeri",
       "sitting": true,
       "party_id": "horizon-monaco",
       "caucus": "Horizon Monaco",
@@ -56,49 +21,10 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q16204459"
+      "roster_url": "http://www.wikidata.org/entity/Q41447848"
     },
     {
-      "id": "caroline-rougaignon-vernin",
-      "name": "Caroline Rougaignon-Vernin",
-      "sitting": true,
-      "party_id": "horizon-monaco",
-      "caucus": "Horizon Monaco",
-      "constituency_label": "",
-      "chamber": "National Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q41446132"
-    },
-    {
-      "id": "alain-ficini",
-      "name": "Alain Ficini",
-      "sitting": true,
-      "party_id": "horizon-monaco",
-      "caucus": "Horizon Monaco",
-      "constituency_label": "",
-      "chamber": "National Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q41446929"
-    },
-    {
-      "id": "claude-boisson",
-      "name": "Claude Boisson",
-      "sitting": true,
-      "party_id": "horizon-monaco",
-      "caucus": "Horizon Monaco",
-      "constituency_label": "",
-      "chamber": "National Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q41447455"
-    },
-    {
-      "id": "nathalie-amoratti-blanc",
+      "id": "nathalie-amoratti-blanc-q1127198",
       "name": "Nathalie Amoratti-Blanc",
       "sitting": true,
       "party_id": "horizon-monaco",
@@ -111,20 +37,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q41448759"
     },
     {
-      "id": "jean-michel-cucchi",
-      "name": "Jean-Michel Cucchi",
-      "sitting": true,
-      "party_id": "horizon-monaco",
-      "caucus": "Horizon Monaco",
-      "constituency_label": "",
-      "chamber": "National Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q41448858"
-    },
-    {
-      "id": "christophe-robino",
+      "id": "christophe-robino-q1127198",
       "name": "Christophe Robino",
       "sitting": true,
       "party_id": "horizon-monaco",
@@ -137,167 +50,11 @@
       "roster_url": "http://www.wikidata.org/entity/Q41449140"
     },
     {
-      "id": "thierry-crovetto",
-      "name": "Thierry Crovetto",
-      "sitting": true,
-      "party_id": "horizon-monaco",
-      "caucus": "Horizon Monaco",
-      "constituency_label": "",
-      "chamber": "National Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q41449507"
-    },
-    {
-      "id": "marc-burini",
-      "name": "Marc Burini",
-      "sitting": true,
-      "party_id": "horizon-monaco",
-      "caucus": "Horizon Monaco",
-      "constituency_label": "",
-      "chamber": "National Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q41449622"
-    },
-    {
-      "id": "bernard-pasquier",
-      "name": "Bernard Pasquier",
-      "sitting": true,
-      "party_id": "union-for-monaco",
-      "caucus": "Union for Monaco",
-      "constituency_label": "",
-      "chamber": "National Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q41446633"
-    },
-    {
-      "id": "bernard-marquet",
-      "name": "Bernard Marquet",
-      "sitting": true,
-      "party_id": "union-for-monaco",
-      "caucus": "Union for Monaco",
-      "constituency_label": "",
-      "chamber": "National Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q41479345"
-    },
-    {
-      "id": "nicole-manzone-saquet",
-      "name": "Nicole Manzone-Saquet",
-      "sitting": true,
-      "party_id": "union-for-monaco",
-      "caucus": "Union for Monaco",
-      "constituency_label": "",
-      "chamber": "National Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q41479575"
-    },
-    {
-      "id": "pierre-lorenzi",
-      "name": "Pierre Lorenzi",
-      "sitting": true,
-      "party_id": "union-for-monaco",
-      "caucus": "Union for Monaco",
-      "constituency_label": "",
-      "chamber": "National Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q41479850"
-    },
-    {
-      "id": "jean-charles-gardetto",
-      "name": "Jean-Charles Gardetto",
-      "sitting": true,
-      "party_id": "union-for-monaco",
-      "caucus": "Union for Monaco",
-      "constituency_label": "",
-      "chamber": "National Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q41479946"
-    },
-    {
-      "id": "alexandre-bordero",
-      "name": "Alexandre Bordero",
-      "sitting": true,
-      "party_id": "union-for-monaco",
-      "caucus": "Union for Monaco",
-      "constituency_label": "",
-      "chamber": "National Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q41480271"
-    },
-    {
-      "id": "anne-poyard-vatrican",
-      "name": "Anne Poyard-Vatrican",
-      "sitting": true,
-      "party_id": "union-for-the-principality",
-      "caucus": "Union for the Principality",
-      "constituency_label": "",
-      "chamber": "National Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q41478401"
-    },
-    {
-      "id": "eric-guazzonne",
-      "name": "Éric Guazzonne",
-      "sitting": true,
-      "party_id": "national-union-for-the-future-of-monaco",
-      "caucus": "National Union for the Future of Monaco",
-      "constituency_label": "",
-      "chamber": "National Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q41478972"
-    },
-    {
-      "id": "claude-cellario",
-      "name": "Claude Cellario",
-      "sitting": true,
-      "party_id": "national-union-for-the-future-of-monaco",
-      "caucus": "National Union for the Future of Monaco",
-      "constituency_label": "",
-      "chamber": "National Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q41479112"
-    },
-    {
-      "id": "brigitte-boccone-pages",
-      "name": "Brigitte Boccone-Pagès",
-      "sitting": true,
-      "party_id": "priorite-monaco",
-      "caucus": "Priorité Monaco",
-      "constituency_label": "",
-      "chamber": "National Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q41479234"
-    },
-    {
-      "id": "michele-dittlot",
+      "id": "michele-dittlot-q1127198",
       "name": "Michèle Dittlot",
       "sitting": true,
-      "party_id": "priorite-monaco",
-      "caucus": "Priorité Monaco",
+      "party_id": "horizon-monaco",
+      "caucus": "Horizon Monaco",
       "constituency_label": "",
       "chamber": "National Council",
       "lang": [
@@ -306,7 +63,72 @@
       "roster_url": "http://www.wikidata.org/entity/Q41479448"
     },
     {
-      "id": "fabrice-notari",
+      "id": "corinne-bertani-q1127198",
+      "name": "Corinne Bertani",
+      "sitting": true,
+      "party_id": "horizon-monaco",
+      "caucus": "Horizon Monaco",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q48624362"
+    },
+    {
+      "id": "jean-francois-robillon-q1127198",
+      "name": "Jean-François Robillon",
+      "sitting": true,
+      "party_id": "union-for-the-principality",
+      "caucus": "Union for the Principality",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16194850"
+    },
+    {
+      "id": "laurent-nouvion-q1127198",
+      "name": "Laurent Nouvion",
+      "sitting": true,
+      "party_id": "rally-issues",
+      "caucus": "Rally & Issues",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16204459"
+    },
+    {
+      "id": "henry-rey-q1127198",
+      "name": "Henry Rey",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3133029"
+    },
+    {
+      "id": "brigitte-boccone-pages-q1127198",
+      "name": "Brigitte Boccone-Pagès",
+      "sitting": true,
+      "party_id": "union-for-the-principality",
+      "caucus": "Union for the Principality",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q41479234"
+    },
+    {
+      "id": "fabrice-notari-q1127198",
       "name": "Fabrice Notari",
       "sitting": true,
       "party_id": "priorite-monaco",
@@ -319,7 +141,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q41480413"
     },
     {
-      "id": "pierre-van-klaveren",
+      "id": "pierre-van-klaveren-q1127198",
       "name": "Pierre van Klaveren",
       "sitting": true,
       "party_id": "priorite-monaco",
@@ -332,20 +154,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q48619501"
     },
     {
-      "id": "balthazar-seydoux",
-      "name": "Balthazar Seydoux",
-      "sitting": true,
-      "party_id": "priorite-monaco",
-      "caucus": "Priorité Monaco",
-      "constituency_label": "",
-      "chamber": "National Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q48619921"
-    },
-    {
-      "id": "marc-mourou",
+      "id": "marc-mourou-q1127198",
       "name": "Marc Mourou",
       "sitting": true,
       "party_id": "priorite-monaco",
@@ -358,33 +167,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q48621015"
     },
     {
-      "id": "franck-lobono",
-      "name": "Franck Lobono",
-      "sitting": true,
-      "party_id": "priorite-monaco",
-      "caucus": "Priorité Monaco",
-      "constituency_label": "",
-      "chamber": "National Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q48621419"
-    },
-    {
-      "id": "marine-grisoul",
-      "name": "Marine Grisoul",
-      "sitting": true,
-      "party_id": "priorite-monaco",
-      "caucus": "Priorité Monaco",
-      "constituency_label": "",
-      "chamber": "National Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q48622226"
-    },
-    {
-      "id": "marie-noelle-gibelli",
+      "id": "marie-noelle-gibelli-q1127198",
       "name": "Marie-Noëlle Gibelli",
       "sitting": true,
       "party_id": "priorite-monaco",
@@ -397,20 +180,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q48622423"
     },
     {
-      "id": "jean-charles-emmerich",
-      "name": "Jean-Charles Emmerich",
-      "sitting": true,
-      "party_id": "priorite-monaco",
-      "caucus": "Priorité Monaco",
-      "constituency_label": "",
-      "chamber": "National Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q48622548"
-    },
-    {
-      "id": "thomas-brezzo",
+      "id": "thomas-brezzo-q1127198",
       "name": "Thomas Brezzo",
       "sitting": true,
       "party_id": "priorite-monaco",
@@ -423,33 +193,59 @@
       "roster_url": "http://www.wikidata.org/entity/Q48622862"
     },
     {
-      "id": "corinne-bertani",
-      "name": "Corinne Bertani",
+      "id": "jean-louis-grinda-q1127198",
+      "name": "Jean-Louis Grinda",
       "sitting": true,
-      "party_id": "priorite-monaco",
-      "caucus": "Priorité Monaco",
+      "party_id": "unknown",
+      "caucus": "",
       "constituency_label": "",
       "chamber": "National Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q48624362"
+      "roster_url": "http://www.wikidata.org/entity/Q3166802"
     },
     {
-      "id": "karen-aliprendi",
-      "name": "Karen Aliprendi",
+      "id": "jose-badia-q1127198",
+      "name": "José Badia",
       "sitting": true,
-      "party_id": "priorite-monaco",
-      "caucus": "Priorité Monaco",
+      "party_id": "unknown",
+      "caucus": "",
       "constituency_label": "",
       "chamber": "National Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q48625396"
+      "roster_url": "http://www.wikidata.org/entity/Q3186188"
     },
     {
-      "id": "pierre-bardy",
+      "id": "pierre-svara-q1127198",
+      "name": "Pierre Svara",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3387048"
+    },
+    {
+      "id": "christophe-spiliotis-q1127198",
+      "name": "Christophe Spiliotis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16041150"
+    },
+    {
+      "id": "pierre-bardy-q1127198",
       "name": "Pierre Bardy",
       "sitting": true,
       "party_id": "priorite-monaco",
@@ -462,7 +258,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q48625107"
     },
     {
-      "id": "sophie-lavagna",
+      "id": "gerard-bertrand-q1127198",
+      "name": "Gérard Bertrand",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q41479695"
+    },
+    {
+      "id": "sophie-lavagna-q1127198",
       "name": "Sophie Lavagna",
       "sitting": true,
       "party_id": "unknown",
@@ -475,7 +284,46 @@
       "roster_url": "http://www.wikidata.org/entity/Q27554868"
     },
     {
-      "id": "eric-elena",
+      "id": "beatrice-fresko-rolfo-q1127198",
+      "name": "Béatrice Fresko-Rolfo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q27569261"
+    },
+    {
+      "id": "valerie-rossi-q1127198",
+      "name": "Valérie Rossi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q27570638"
+    },
+    {
+      "id": "daniel-raymond-q1127198",
+      "name": "Daniel Raymond",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q41496932"
+    },
+    {
+      "id": "eric-elena-q1127198",
       "name": "Éric Elena",
       "sitting": true,
       "party_id": "renaissance",
@@ -488,8 +336,8 @@
       "roster_url": "http://www.wikidata.org/entity/Q17651814"
     },
     {
-      "id": "beatrice-fresko-rolfo",
-      "name": "Béatrice Fresko-Rolfo",
+      "id": "philippe-clerissi-q1127198",
+      "name": "Philippe Clerissi",
       "sitting": true,
       "party_id": "horizon-monaco",
       "caucus": "Horizon Monaco",
@@ -498,40 +346,14 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q27569261"
+      "roster_url": "http://www.wikidata.org/entity/Q27554925"
     },
     {
-      "id": "valerie-rossi",
-      "name": "Valérie Rossi",
-      "sitting": true,
-      "party_id": "horizon-monaco",
-      "caucus": "Horizon Monaco",
-      "constituency_label": "",
-      "chamber": "National Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q27570638"
-    },
-    {
-      "id": "jean-louis-grinda",
-      "name": "Jean-Louis Grinda",
-      "sitting": true,
-      "party_id": "union-for-monaco",
-      "caucus": "Union for Monaco",
-      "constituency_label": "",
-      "chamber": "National Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3166802"
-    },
-    {
-      "id": "guillaume-rose",
+      "id": "guillaume-rose-q1127198",
       "name": "Guillaume Rose",
       "sitting": true,
-      "party_id": "priorite-monaco",
-      "caucus": "Priorité Monaco",
+      "party_id": "horizon-monaco",
+      "caucus": "Horizon Monaco",
       "constituency_label": "",
       "chamber": "National Council",
       "lang": [
@@ -540,24 +362,336 @@
       "roster_url": "http://www.wikidata.org/entity/Q41480094"
     },
     {
-      "id": "jose-badia",
-      "name": "José Badia",
+      "id": "roland-marquet-q1127198",
+      "name": "Roland Marquet",
       "sitting": true,
-      "party_id": "priorite-monaco",
-      "caucus": "Priorité Monaco",
+      "party_id": "unknown",
+      "caucus": "",
       "constituency_label": "",
       "chamber": "National Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q3186188"
+      "roster_url": "http://www.wikidata.org/entity/Q41478819"
     },
     {
-      "id": "franck-julien",
+      "id": "caroline-rougaignon-vernin-q1127198",
+      "name": "Caroline Rougaignon-Vernin",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q41446132"
+    },
+    {
+      "id": "bernard-pasquier-q1127198",
+      "name": "Bernard Pasquier",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q41446633"
+    },
+    {
+      "id": "alain-ficini-q1127198",
+      "name": "Alain Ficini",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q41446929"
+    },
+    {
+      "id": "claude-boisson-q1127198",
+      "name": "Claude Boisson",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q41447455"
+    },
+    {
+      "id": "christian-barilaro-q1127198",
+      "name": "Christian Barilaro",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q41447580"
+    },
+    {
+      "id": "jean-michel-cucchi-q1127198",
+      "name": "Jean-Michel Cucchi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q41448858"
+    },
+    {
+      "id": "thierry-crovetto-q1127198",
+      "name": "Thierry Crovetto",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q41449507"
+    },
+    {
+      "id": "marc-burini-q1127198",
+      "name": "Marc Burini",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q41449622"
+    },
+    {
+      "id": "anne-poyard-vatrican-q1127198",
+      "name": "Anne Poyard-Vatrican",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q41478401"
+    },
+    {
+      "id": "eric-guazzonne-q1127198",
+      "name": "Éric Guazzonne",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q41478972"
+    },
+    {
+      "id": "claude-cellario-q1127198",
+      "name": "Claude Cellario",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q41479112"
+    },
+    {
+      "id": "bernard-marquet-q1127198",
+      "name": "Bernard Marquet",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q41479345"
+    },
+    {
+      "id": "nicole-manzone-saquet-q1127198",
+      "name": "Nicole Manzone-Saquet",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q41479575"
+    },
+    {
+      "id": "pierre-lorenzi-q1127198",
+      "name": "Pierre Lorenzi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q41479850"
+    },
+    {
+      "id": "jean-charles-gardetto-q1127198",
+      "name": "Jean-Charles Gardetto",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q41479946"
+    },
+    {
+      "id": "alexandre-bordero-q1127198",
+      "name": "Alexandre Bordero",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q41480271"
+    },
+    {
+      "id": "jean-joseph-pastor-q1127198",
+      "name": "Jean-Joseph Pastor",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q41495863"
+    },
+    {
+      "id": "christine-pasquier-ciulla-q1127198",
+      "name": "Christine Pasquier-Ciulla",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q41495974"
+    },
+    {
+      "id": "vincent-palmaro-q1127198",
+      "name": "Vincent Palmaro",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q41496069"
+    },
+    {
+      "id": "jean-luc-nigioni-q1127198",
+      "name": "Jean-Luc Nigioni",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q41496197"
+    },
+    {
+      "id": "jean-pierre-licari-q1127198",
+      "name": "Jean-Pierre Licari",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q41496279"
+    },
+    {
+      "id": "thomas-giaccardi-q1127198",
+      "name": "Thomas Giaccardi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q41496432"
+    },
+    {
+      "id": "bruno-blanchy-q1127198",
+      "name": "Bruno Blanchy",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q41496629"
+    },
+    {
+      "id": "catherine-fautrier-q1127198",
+      "name": "Catherine Fautrier",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q41496775"
+    },
+    {
+      "id": "franck-julien-q1127198",
       "name": "Franck Julien",
       "sitting": true,
-      "party_id": "priorite-monaco",
-      "caucus": "Priorité Monaco",
+      "party_id": "unknown",
+      "caucus": "",
       "constituency_label": "",
       "chamber": "National Council",
       "lang": [
@@ -566,8 +700,73 @@
       "roster_url": "http://www.wikidata.org/entity/Q48621657"
     },
     {
-      "id": "pierre-svara",
-      "name": "Pierre Svara",
+      "id": "balthazar-seydoux-q1127198",
+      "name": "Balthazar Seydoux",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q48619921"
+    },
+    {
+      "id": "franck-lobono-q1127198",
+      "name": "Franck Lobono",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q48621419"
+    },
+    {
+      "id": "marine-grisoul-q1127198",
+      "name": "Marine Grisoul",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q48622226"
+    },
+    {
+      "id": "jean-charles-emmerich-q1127198",
+      "name": "Jean-Charles Emmerich",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q48622548"
+    },
+    {
+      "id": "karen-aliprendi-q1127198",
+      "name": "Karen Aliprendi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q48625396"
+    },
+    {
+      "id": "jean-charles-allavena-q1127198",
+      "name": "Jean-Charles Allavena",
       "sitting": true,
       "party_id": "horizon-monaco",
       "caucus": "Horizon Monaco",
@@ -576,23 +775,23 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q3387048"
+      "roster_url": "http://www.wikidata.org/entity/Q20630486"
     },
     {
-      "id": "gerard-bertrand",
-      "name": "Gérard Bertrand",
+      "id": "christophe-steiner-q1127198",
+      "name": "Christophe Steiner",
       "sitting": true,
-      "party_id": "union-for-monaco",
-      "caucus": "Union for Monaco",
+      "party_id": "horizon-monaco",
+      "caucus": "Horizon Monaco",
       "constituency_label": "",
       "chamber": "National Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q41479695"
+      "roster_url": "http://www.wikidata.org/entity/Q25999626"
     },
     {
-      "id": "jacques-rit",
+      "id": "jacques-rit-q1127198",
       "name": "Jacques Rit",
       "sitting": true,
       "party_id": "horizon-monaco",
@@ -605,7 +804,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q25999631"
     },
     {
-      "id": "thierry-poyet",
+      "id": "thierry-poyet-q1127198",
       "name": "Thierry Poyet",
       "sitting": true,
       "party_id": "horizon-monaco",
@@ -618,7 +817,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q20774333"
     },
     {
-      "id": "christophe-brico",
+      "id": "christophe-brico-q1127198",
       "name": "Christophe Brico",
       "sitting": true,
       "party_id": "unknown",
@@ -631,7 +830,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q116973449"
     },
     {
-      "id": "jade-aureglia",
+      "id": "jade-aureglia-q1127198",
       "name": "Jade Aureglia",
       "sitting": true,
       "party_id": "unknown",
@@ -644,7 +843,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q116973413"
     },
     {
-      "id": "mathilde-le-clerc",
+      "id": "mathilde-le-clerc-q1127198",
       "name": "Mathilde Le Clerc",
       "sitting": true,
       "party_id": "unknown",
@@ -657,7 +856,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q116973389"
     },
     {
-      "id": "regis-bergonzi",
+      "id": "regis-bergonzi-q1127198",
       "name": "Régis Bergonzi",
       "sitting": true,
       "party_id": "unknown",
@@ -670,7 +869,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q116973355"
     },
     {
-      "id": "maryse-battaglia",
+      "id": "maryse-battaglia-q1127198",
       "name": "Maryse Battaglia",
       "sitting": true,
       "party_id": "unknown",
@@ -683,7 +882,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q116973452"
     },
     {
-      "id": "nicolas-croesi",
+      "id": "nicolas-croesi-q1127198",
       "name": "Nicolas Croesi",
       "sitting": true,
       "party_id": "unknown",
@@ -696,7 +895,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q116973434"
     },
     {
-      "id": "mikael-palmaro",
+      "id": "mikael-palmaro-q1127198",
       "name": "Mikaël Palmaro",
       "sitting": true,
       "party_id": "unknown",
@@ -709,7 +908,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q116973453"
     },
     {
-      "id": "philippe-brunner",
+      "id": "philippe-brunner-q1127198",
       "name": "Philippe Brunner",
       "sitting": true,
       "party_id": "unknown",
@@ -722,7 +921,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q116973455"
     },
     {
-      "id": "roland-mouflard",
+      "id": "roland-mouflard-q1127198",
       "name": "Roland Mouflard",
       "sitting": true,
       "party_id": "unknown",
@@ -735,11 +934,11 @@
       "roster_url": "http://www.wikidata.org/entity/Q116973454"
     },
     {
-      "id": "stephane-valeri",
+      "id": "stephane-valeri-q1127198",
       "name": "Stéphane Valeri",
       "sitting": true,
-      "party_id": "priorite-monaco",
-      "caucus": "Priorité Monaco",
+      "party_id": "rally-issues",
+      "caucus": "Rally & Issues",
       "constituency_label": "",
       "chamber": "National Council",
       "lang": [

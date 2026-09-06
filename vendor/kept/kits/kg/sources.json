@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q578193"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q578193",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21091853",
+      "label": "Member of the Supreme Council of Kyrgyzstan (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21091853",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q578193",
+      "label": "Supreme Council",
+      "url": "http://www.kenesh.kg/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q578193",
+      "label": "Supreme Council (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q578193",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

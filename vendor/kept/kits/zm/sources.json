@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1784088"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1784088",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1784088",
+      "label": "National Assembly",
+      "url": "https://www.parliament.gov.zm/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1784088",
+      "label": "National Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1784088",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q18607856",
+      "label": "Member of the National Assembly of Zambia (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q18607856",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

@@ -3,24 +3,55 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q650066",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 4,
+  "incomplete": true,
+  "claimed_seats": 85,
+  "chambers": [
+    "Member of the People's Majlis",
+    "Speaker of the People's Majlis",
+    "People's Majlis"
+  ],
   "items": [
     {
-      "id": "rozeyna-adam",
-      "name": "Rozeyna Adam",
+      "id": "ahmed-mahloof-q650066",
+      "name": "Ahmed Mahloof",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "people-s-national-congress",
+      "caucus": "People's National Congress",
       "constituency_label": "",
       "chamber": "People's Majlis",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q17279111"
+      "roster_url": "http://www.wikidata.org/entity/Q16146747"
     },
     {
-      "id": "adam-shareef",
+      "id": "abdulla-shahid-q650066",
+      "name": "Abdulla Shahid",
+      "sitting": true,
+      "party_id": "maldivian-democratic-party",
+      "caucus": "Maldivian Democratic Party",
+      "constituency_label": "",
+      "chamber": "People's Majlis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4665893"
+    },
+    {
+      "id": "ibrahim-mohamed-solih-q650066",
+      "name": "Ibrahim Mohamed Solih",
+      "sitting": true,
+      "party_id": "maldivian-democratic-party",
+      "caucus": "Maldivian Democratic Party",
+      "constituency_label": "",
+      "chamber": "People's Majlis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q55614252"
+    },
+    {
+      "id": "adam-shareef-q650066",
       "name": "Adam Shareef",
       "sitting": true,
       "party_id": "unknown",
@@ -33,11 +64,37 @@
       "roster_url": "http://www.wikidata.org/entity/Q17722041"
     },
     {
-      "id": "qasim-ibrahim",
+      "id": "faisal-naseem-q650066",
+      "name": "Faisal Naseem",
+      "sitting": true,
+      "party_id": "republican-party",
+      "caucus": "Republican Party",
+      "constituency_label": "",
+      "chamber": "People's Majlis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56752471"
+    },
+    {
+      "id": "rozeyna-adam-q650066",
+      "name": "Rozeyna Adam",
+      "sitting": true,
+      "party_id": "dhivehi-rayyithunge-party",
+      "caucus": "Dhivehi Rayyithunge Party",
+      "constituency_label": "",
+      "chamber": "People's Majlis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17279111"
+    },
+    {
+      "id": "qasim-ibrahim-q650066",
       "name": "Qasim Ibrahim",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "republican-party",
+      "caucus": "Republican Party",
       "constituency_label": "",
       "chamber": "People's Majlis",
       "lang": [
@@ -46,17 +103,43 @@
       "roster_url": "http://www.wikidata.org/entity/Q7267003"
     },
     {
-      "id": "eva-abdulla",
+      "id": "eva-abdulla-q650066",
       "name": "Eva Abdulla",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "maldivian-democratic-party",
+      "caucus": "Maldivian Democratic Party",
       "constituency_label": "",
       "chamber": "People's Majlis",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q117006040"
+    },
+    {
+      "id": "mohamed-latheef-q650066",
+      "name": "Mohamed Latheef",
+      "sitting": true,
+      "party_id": "maldivian-democratic-party",
+      "caucus": "Maldivian Democratic Party",
+      "constituency_label": "Gaafu Dhaalu Atoll",
+      "chamber": "People's Majlis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6891339"
+    },
+    {
+      "id": "ali-waheed-q650066",
+      "name": "Ali Waheed",
+      "sitting": true,
+      "party_id": "maldivian-democratic-party",
+      "caucus": "Maldivian Democratic Party",
+      "constituency_label": "",
+      "chamber": "People's Majlis",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20744775"
     }
   ]
 }

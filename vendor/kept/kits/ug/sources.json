@@ -3,8 +3,39 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q2052850"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q2052850",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21296005",
+      "label": "Member of Parliament of Uganda (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21296005",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q113130174",
+      "label": "Speaker of the Parliament of Uganda (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q113130174",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q2052850",
+      "label": "Parliament of Uganda",
+      "url": "https://www.parliament.go.ug/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q2052850",
+      "label": "Parliament of Uganda (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q2052850",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

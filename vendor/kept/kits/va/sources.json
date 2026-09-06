@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q7478146"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q7478146",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21328634",
+      "label": "Member of the Pontifical Commission for the Vatican City State (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21328634",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q7478146",
+      "label": "Pontifical Commission for the Vatican City State",
+      "url": "https://www.vaticanstate.va/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q7478146",
+      "label": "Pontifical Commission for the Vatican City State (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q7478146",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

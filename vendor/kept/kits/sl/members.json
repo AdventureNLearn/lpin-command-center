@@ -3,67 +3,19 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1138130",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 40,
+  "incomplete": true,
+  "claimed_seats": 124,
+  "chambers": [
+    "Member of the Parliament of Sierra Leone",
+    "Parliament of Sierra Leone"
+  ],
   "items": [
     {
-      "id": "ibrahim-sesay",
-      "name": "Ibrahim Sesay",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Sierra Leone",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5984720"
-    },
-    {
-      "id": "john-karefa-smart",
-      "name": "John Karefa-Smart",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Sierra Leone",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1700681"
-    },
-    {
-      "id": "frank-kposowa",
-      "name": "Frank Kposowa",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Sierra Leone",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q387657"
-    },
-    {
-      "id": "kandeh-baba-conteh",
-      "name": "Kandeh Baba Conteh",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Sierra Leone",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16192658"
-    },
-    {
-      "id": "youkie-foday",
+      "id": "youkie-foday-q1138130",
       "name": "Youkie Foday",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "sierra-leone-people-s-party",
+      "caucus": "Sierra Leone People's Party",
       "constituency_label": "",
       "chamber": "Parliament of Sierra Leone",
       "lang": [
@@ -72,7 +24,176 @@
       "roster_url": "http://www.wikidata.org/entity/Q16212163"
     },
     {
-      "id": "abu-mbawa-kongobah",
+      "id": "ibrahim-sesay-q1138130",
+      "name": "Ibrahim Sesay",
+      "sitting": true,
+      "party_id": "sierra-leone-people-s-party",
+      "caucus": "Sierra Leone People's Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Sierra Leone",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5984720"
+    },
+    {
+      "id": "sorie-ibrahim-koroma-q1138130",
+      "name": "Sorie Ibrahim Koroma",
+      "sitting": true,
+      "party_id": "all-people-s-congress",
+      "caucus": "All People's Congress",
+      "constituency_label": "",
+      "chamber": "Parliament of Sierra Leone",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7563483"
+    },
+    {
+      "id": "john-karefa-smart-q1138130",
+      "name": "John Karefa-Smart",
+      "sitting": true,
+      "party_id": "united-national-people-s-party",
+      "caucus": "United National People's Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Sierra Leone",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1700681"
+    },
+    {
+      "id": "kandeh-baba-conteh-q1138130",
+      "name": "Kandeh Baba Conteh",
+      "sitting": true,
+      "party_id": "peace-and-liberation-party",
+      "caucus": "Peace and Liberation Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Sierra Leone",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16192658"
+    },
+    {
+      "id": "haja-afsatu-kabba-q1138130",
+      "name": "Haja Afsatu Kabba",
+      "sitting": true,
+      "party_id": "all-people-s-congress",
+      "caucus": "All People's Congress",
+      "constituency_label": "",
+      "chamber": "Parliament of Sierra Leone",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5639816"
+    },
+    {
+      "id": "tamba-borbor-sawyer-q1138130",
+      "name": "Tamba Borbor-Sawyer",
+      "sitting": true,
+      "party_id": "sierra-leone-people-s-party",
+      "caucus": "Sierra Leone People's Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Sierra Leone",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7680992"
+    },
+    {
+      "id": "tamba-kaingbanja-q1138130",
+      "name": "Tamba Kaingbanja",
+      "sitting": true,
+      "party_id": "sierra-leone-people-s-party",
+      "caucus": "Sierra Leone People's Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Sierra Leone",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7680993"
+    },
+    {
+      "id": "alhaji-a-b-sheriff-q1138130",
+      "name": "Alhaji A. B. Sheriff",
+      "sitting": true,
+      "party_id": "sierra-leone-people-s-party",
+      "caucus": "Sierra Leone People's Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Sierra Leone",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4724411"
+    },
+    {
+      "id": "tamba-songu-m-briwa-q1138130",
+      "name": "Tamba Songu M'briwa",
+      "sitting": true,
+      "party_id": "all-people-s-congress",
+      "caucus": "All People's Congress",
+      "constituency_label": "",
+      "chamber": "Parliament of Sierra Leone",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7680995"
+    },
+    {
+      "id": "augustine-bockarie-q1138130",
+      "name": "Augustine Bockarie",
+      "sitting": true,
+      "party_id": "sierra-leone-people-s-party",
+      "caucus": "Sierra Leone People's Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Sierra Leone",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4821157"
+    },
+    {
+      "id": "tejan-amadu-mansaray-q1138130",
+      "name": "Tejan Amadu Mansaray",
+      "sitting": true,
+      "party_id": "all-people-s-congress",
+      "caucus": "All People's Congress",
+      "constituency_label": "",
+      "chamber": "Parliament of Sierra Leone",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7695188"
+    },
+    {
+      "id": "baba-jigida-q1138130",
+      "name": "Baba Jigida",
+      "sitting": true,
+      "party_id": "sierra-leone-people-s-party",
+      "caucus": "Sierra Leone People's Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Sierra Leone",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4837318"
+    },
+    {
+      "id": "andrew-lungay-q1138130",
+      "name": "Andrew Lungay",
+      "sitting": true,
+      "party_id": "all-people-s-congress",
+      "caucus": "All People's Congress",
+      "constituency_label": "",
+      "chamber": "Parliament of Sierra Leone",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4757809"
+    },
+    {
+      "id": "abu-mbawa-kongobah-q1138130",
       "name": "Abu Mbawa Kongobah",
       "sitting": true,
       "party_id": "unknown",
@@ -85,59 +206,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q4670269"
     },
     {
-      "id": "alhaji-a-b-sheriff",
-      "name": "Alhaji A. B. Sheriff",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Sierra Leone",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4724411"
-    },
-    {
-      "id": "andrew-lungay",
-      "name": "Andrew Lungay",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Sierra Leone",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4757809"
-    },
-    {
-      "id": "augustine-bockarie",
-      "name": "Augustine Bockarie",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Sierra Leone",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4821157"
-    },
-    {
-      "id": "baba-jigida",
-      "name": "Baba Jigida",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Sierra Leone",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4837318"
-    },
-    {
-      "id": "bindi-hindowa-samba",
+      "id": "bindi-hindowa-samba-q1138130",
       "name": "Bindi Hindowa Samba",
       "sitting": true,
       "party_id": "unknown",
@@ -150,11 +219,24 @@
       "roster_url": "http://www.wikidata.org/entity/Q4913997"
     },
     {
-      "id": "bomba-jawara",
+      "id": "bernadette-lahai-q1138130",
+      "name": "Bernadette Lahai",
+      "sitting": true,
+      "party_id": "sierra-leone-people-s-party",
+      "caucus": "Sierra Leone People's Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Sierra Leone",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4892796"
+    },
+    {
+      "id": "bomba-jawara-q1138130",
       "name": "Bomba Jawara",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "sierra-leone-people-s-party",
+      "caucus": "Sierra Leone People's Party",
       "constituency_label": "",
       "chamber": "Parliament of Sierra Leone",
       "lang": [
@@ -163,202 +245,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q4940445"
     },
     {
-      "id": "maigore-kallon",
-      "name": "Maigore Kallon",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Sierra Leone",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19693216"
-    },
-    {
-      "id": "dauda-kamara",
-      "name": "Dauda Kamara",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Sierra Leone",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5227869"
-    },
-    {
-      "id": "edward-turay",
-      "name": "Edward Turay",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Sierra Leone",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5345659"
-    },
-    {
-      "id": "elizabeth-alpha-lavalie",
-      "name": "Elizabeth Alpha-Lavalie",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Sierra Leone",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5362293"
-    },
-    {
-      "id": "eric-b-jumu",
-      "name": "Eric B. Jumu",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Sierra Leone",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5386061"
-    },
-    {
-      "id": "haja-afsatu-kabba",
-      "name": "Haja Afsatu Kabba",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Sierra Leone",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5639816"
-    },
-    {
-      "id": "j-b-dauda",
-      "name": "J. B. Dauda",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Sierra Leone",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6104671"
-    },
-    {
-      "id": "jengo-stevens",
-      "name": "Jengo Stevens",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Sierra Leone",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6177448"
-    },
-    {
-      "id": "joseph-mustapha",
-      "name": "Joseph Mustapha",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Sierra Leone",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6285703"
-    },
-    {
-      "id": "jusu-sawie",
-      "name": "Jusu Sawie",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Sierra Leone",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6318650"
-    },
-    {
-      "id": "jusufu-mansaray",
-      "name": "Jusufu Mansaray",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Sierra Leone",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6318660"
-    },
-    {
-      "id": "kai-abdul-foday",
-      "name": "Kai Abdul Foday",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Sierra Leone",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6347352"
-    },
-    {
-      "id": "kemoh-sesay",
-      "name": "Kemoh Sesay",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Sierra Leone",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6386988"
-    },
-    {
-      "id": "komba-eric-koedoyoma",
-      "name": "Komba Eric Koedoyoma",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Sierra Leone",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6428234"
-    },
-    {
-      "id": "komba-claudius-gbamanja",
-      "name": "Komba Claudius Gbamanja",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Sierra Leone",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6428233"
-    },
-    {
-      "id": "minkailu-mansaray",
+      "id": "minkailu-mansaray-q1138130",
       "name": "Minkailu Mansaray",
       "sitting": true,
       "party_id": "unknown",
@@ -371,20 +258,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q6867821"
     },
     {
-      "id": "mohamed-a-jalloh",
-      "name": "Mohamed A. Jalloh",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Sierra Leone",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6890923"
-    },
-    {
-      "id": "mohamed-kakay",
+      "id": "mohamed-kakay-q1138130",
       "name": "Mohamed Kakay",
       "sitting": true,
       "party_id": "unknown",
@@ -397,11 +271,50 @@
       "roster_url": "http://www.wikidata.org/entity/Q6891287"
     },
     {
-      "id": "nenneh-lebbie",
+      "id": "maigore-kallon-q1138130",
+      "name": "Maigore Kallon",
+      "sitting": true,
+      "party_id": "sierra-leone-people-s-party",
+      "caucus": "Sierra Leone People's Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Sierra Leone",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19693216"
+    },
+    {
+      "id": "ernest-bai-koroma-q1138130",
+      "name": "Ernest Bai Koroma",
+      "sitting": true,
+      "party_id": "all-people-s-congress",
+      "caucus": "All People's Congress",
+      "constituency_label": "",
+      "chamber": "Parliament of Sierra Leone",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57460"
+    },
+    {
+      "id": "mohamed-a-jalloh-q1138130",
+      "name": "Mohamed A. Jalloh",
+      "sitting": true,
+      "party_id": "all-people-s-congress",
+      "caucus": "All People's Congress",
+      "constituency_label": "",
+      "chamber": "Parliament of Sierra Leone",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6890923"
+    },
+    {
+      "id": "nenneh-lebbie-q1138130",
       "name": "Nenneh Lebbie",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "sierra-leone-people-s-party",
+      "caucus": "Sierra Leone People's Party",
       "constituency_label": "",
       "chamber": "Parliament of Sierra Leone",
       "lang": [
@@ -410,102 +323,24 @@
       "roster_url": "http://www.wikidata.org/entity/Q6991643"
     },
     {
-      "id": "robin-faley",
-      "name": "Robin Faley",
+      "id": "j-b-dauda-q1138130",
+      "name": "J. B. Dauda",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "all-people-s-congress",
+      "caucus": "All People's Congress",
       "constituency_label": "",
       "chamber": "Parliament of Sierra Leone",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q7352385"
+      "roster_url": "http://www.wikidata.org/entity/Q6104671"
     },
     {
-      "id": "sheik-i-kamara",
-      "name": "Sheik I. Kamara",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Sierra Leone",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7492872"
-    },
-    {
-      "id": "sorie-ibrahim-koroma",
-      "name": "Sorie Ibrahim Koroma",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Sierra Leone",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7563483"
-    },
-    {
-      "id": "tamba-songu-m-briwa",
-      "name": "Tamba Songu M'briwa",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Sierra Leone",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7680995"
-    },
-    {
-      "id": "tamba-borbor-sawyer",
-      "name": "Tamba Borbor-Sawyer",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Sierra Leone",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7680992"
-    },
-    {
-      "id": "tamba-kaingbanja",
-      "name": "Tamba Kaingbanja",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Sierra Leone",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7680993"
-    },
-    {
-      "id": "tejan-amadu-mansaray",
-      "name": "Tejan Amadu Mansaray",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Sierra Leone",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7695188"
-    },
-    {
-      "id": "rosaline-smith",
+      "id": "rosaline-smith-q1138130",
       "name": "Rosaline Smith",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "all-people-s-congress",
+      "caucus": "All People's Congress",
       "constituency_label": "",
       "chamber": "Parliament of Sierra Leone",
       "lang": [
@@ -514,17 +349,225 @@
       "roster_url": "http://www.wikidata.org/entity/Q43300580"
     },
     {
-      "id": "ernest-bai-koroma",
-      "name": "Ernest Bai Koroma",
+      "id": "jengo-stevens-q1138130",
+      "name": "Jengo Stevens",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "all-people-s-congress",
+      "caucus": "All People's Congress",
       "constituency_label": "",
       "chamber": "Parliament of Sierra Leone",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q57460"
+      "roster_url": "http://www.wikidata.org/entity/Q6177448"
+    },
+    {
+      "id": "siaka-stevens-q1138130",
+      "name": "Siaka Stevens",
+      "sitting": true,
+      "party_id": "all-people-s-congress",
+      "caucus": "All People's Congress",
+      "constituency_label": "",
+      "chamber": "Parliament of Sierra Leone",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q515657"
+    },
+    {
+      "id": "frank-kposowa-q1138130",
+      "name": "Frank Kposowa",
+      "sitting": true,
+      "party_id": "sierra-leone-people-s-party",
+      "caucus": "Sierra Leone People's Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Sierra Leone",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q387657"
+    },
+    {
+      "id": "joseph-mustapha-q1138130",
+      "name": "Joseph Mustapha",
+      "sitting": true,
+      "party_id": "sierra-leone-people-s-party",
+      "caucus": "Sierra Leone People's Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Sierra Leone",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6285703"
+    },
+    {
+      "id": "dauda-kamara-q1138130",
+      "name": "Dauda Kamara",
+      "sitting": true,
+      "party_id": "all-people-s-congress",
+      "caucus": "All People's Congress",
+      "constituency_label": "",
+      "chamber": "Parliament of Sierra Leone",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5227869"
+    },
+    {
+      "id": "elizabeth-alpha-lavalie-q1138130",
+      "name": "Elizabeth Alpha-Lavalie",
+      "sitting": true,
+      "party_id": "sierra-leone-people-s-party",
+      "caucus": "Sierra Leone People's Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Sierra Leone",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5362293"
+    },
+    {
+      "id": "jusu-sawie-q1138130",
+      "name": "Jusu Sawie",
+      "sitting": true,
+      "party_id": "sierra-leone-people-s-party",
+      "caucus": "Sierra Leone People's Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Sierra Leone",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6318650"
+    },
+    {
+      "id": "jusufu-mansaray-q1138130",
+      "name": "Jusufu Mansaray",
+      "sitting": true,
+      "party_id": "sierra-leone-people-s-party",
+      "caucus": "Sierra Leone People's Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Sierra Leone",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6318660"
+    },
+    {
+      "id": "eric-b-jumu-q1138130",
+      "name": "Eric B. Jumu",
+      "sitting": true,
+      "party_id": "sierra-leone-people-s-party",
+      "caucus": "Sierra Leone People's Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Sierra Leone",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5386061"
+    },
+    {
+      "id": "kai-abdul-foday-q1138130",
+      "name": "Kai Abdul Foday",
+      "sitting": true,
+      "party_id": "sierra-leone-people-s-party",
+      "caucus": "Sierra Leone People's Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Sierra Leone",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6347352"
+    },
+    {
+      "id": "edward-turay-q1138130",
+      "name": "Edward Turay",
+      "sitting": true,
+      "party_id": "all-people-s-congress",
+      "caucus": "All People's Congress",
+      "constituency_label": "",
+      "chamber": "Parliament of Sierra Leone",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5345659"
+    },
+    {
+      "id": "robin-faley-q1138130",
+      "name": "Robin Faley",
+      "sitting": true,
+      "party_id": "all-people-s-congress",
+      "caucus": "All People's Congress",
+      "constituency_label": "",
+      "chamber": "Parliament of Sierra Leone",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7352385"
+    },
+    {
+      "id": "sheik-i-kamara-q1138130",
+      "name": "Sheik I. Kamara",
+      "sitting": true,
+      "party_id": "sierra-leone-people-s-party",
+      "caucus": "Sierra Leone People's Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Sierra Leone",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7492872"
+    },
+    {
+      "id": "komba-eric-koedoyoma-q1138130",
+      "name": "Komba Eric Koedoyoma",
+      "sitting": true,
+      "party_id": "sierra-leone-people-s-party",
+      "caucus": "Sierra Leone People's Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Sierra Leone",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6428234"
+    },
+    {
+      "id": "komba-claudius-gbamanja-q1138130",
+      "name": "Komba Claudius Gbamanja",
+      "sitting": true,
+      "party_id": "sierra-leone-people-s-party",
+      "caucus": "Sierra Leone People's Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Sierra Leone",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6428233"
+    },
+    {
+      "id": "kemoh-sesay-q1138130",
+      "name": "Kemoh Sesay",
+      "sitting": true,
+      "party_id": "all-people-s-congress",
+      "caucus": "All People's Congress",
+      "constituency_label": "",
+      "chamber": "Parliament of Sierra Leone",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6386988"
+    },
+    {
+      "id": "sheku-badara-bashiru-dumbuya-q1138130",
+      "name": "Sheku Badara Bashiru Dumbuya",
+      "sitting": true,
+      "party_id": "all-people-s-congress",
+      "caucus": "All People's Congress",
+      "constituency_label": "",
+      "chamber": "Parliament of Sierra Leone",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7493283"
     }
   ]
 }

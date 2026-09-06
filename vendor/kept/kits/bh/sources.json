@@ -3,8 +3,46 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q3242616"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q3242616",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q3242616",
+      "label": "National Assembly of Bahrain (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q3242616",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q4118178",
+      "label": "Council of Representatives",
+      "url": "https://www.nuwab.bh/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q4118178",
+      "label": "Council of Representatives (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q4118178",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1334620",
+      "label": "Consultative Council of Bahrain",
+      "url": "http://www.shura.gov.bh/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1334620",
+      "label": "Consultative Council of Bahrain (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1334620",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

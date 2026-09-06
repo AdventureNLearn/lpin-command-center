@@ -1,0 +1,44 @@
+{
+  "iso2": "qa",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q846",
+  "bodies": [
+    {
+      "qid": "Q21328600",
+      "label": "Member of the Consultative Assembly of Qatar",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q818691",
+      "label": "Consultative Assembly of Qatar",
+      "seats": 45,
+      "web": "https://www.shura.qa/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Member of the Consultative Assembly of Qatar"
+  ],
+  "seats": 45,
+  "items": [
+    {
+      "id": "Q21328600",
+      "name": "Member of the Consultative Assembly of Qatar",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q21328600"
+    },
+    {
+      "id": "Q818691",
+      "name": "Consultative Assembly of Qatar",
+      "kind": "parliament",
+      "seats": 45,
+      "url": "https://www.shura.qa/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

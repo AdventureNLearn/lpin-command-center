@@ -1,6 +1,59 @@
 {
-  "iso2": "xx",
+  "iso2": "th",
   "kit": "institutional",
-  "items": [],
-  "incomplete": true
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q869",
+  "bodies": [
+    {
+      "qid": "Q1368318",
+      "label": "National Assembly of Thailand",
+      "seats": 500,
+      "web": "http://www.parliament.go.th/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q1699171",
+      "label": "Senate of Thailand",
+      "seats": 150,
+      "web": "https://www.senate.go.th/",
+      "kind": "lower"
+    },
+    {
+      "qid": "Q914226",
+      "label": "House of Representatives of Thailand",
+      "seats": 500,
+      "web": "http://www.parliament.go.th/",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Senate of Thailand",
+    "House of Representatives of Thailand"
+  ],
+  "seats": 1150,
+  "items": [
+    {
+      "id": "Q1368318",
+      "name": "National Assembly of Thailand",
+      "kind": "parliament",
+      "seats": 500,
+      "url": "http://www.parliament.go.th/"
+    },
+    {
+      "id": "Q1699171",
+      "name": "Senate of Thailand",
+      "kind": "lower",
+      "seats": 150,
+      "url": "https://www.senate.go.th/"
+    },
+    {
+      "id": "Q914226",
+      "name": "House of Representatives of Thailand",
+      "kind": "chamber",
+      "seats": 500,
+      "url": "http://www.parliament.go.th/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

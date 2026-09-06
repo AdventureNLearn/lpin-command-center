@@ -3,11 +3,15 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1280186",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 1,
+  "incomplete": true,
+  "claimed_seats": 33,
+  "chambers": [
+    "Member of the Legislature of the Marshall Islands",
+    "Legislature of the Marshall Islands"
+  ],
   "items": [
     {
-      "id": "tony-aiseia",
+      "id": "tony-aiseia-q1280186",
       "name": "Tony Aiseia",
       "sitting": true,
       "party_id": "unknown",

@@ -3,11 +3,67 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1573424",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 6,
+  "incomplete": true,
+  "claimed_seats": 33,
+  "chambers": [
+    "Member of the Assembly of the Union of the Comoros",
+    "Assembly of the Union of the Comoros"
+  ],
   "items": [
     {
-      "id": "djoueria-abdallah",
+      "id": "chamina-ben-mohamed-q1573424",
+      "name": "Chamina Ben Mohamed",
+      "sitting": true,
+      "party_id": "convention-for-the-renewal-of-the-comoros",
+      "caucus": "Convention for the Renewal of the Comoros",
+      "constituency_label": "",
+      "chamber": "Assembly of the Union of the Comoros",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q106088062"
+    },
+    {
+      "id": "hayda-nourdine-sidi-q1573424",
+      "name": "Hayda Nourdine Sidi",
+      "sitting": true,
+      "party_id": "convention-for-the-renewal-of-the-comoros",
+      "caucus": "Convention for the Renewal of the Comoros",
+      "constituency_label": "",
+      "chamber": "Assembly of the Union of the Comoros",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q106088088"
+    },
+    {
+      "id": "ladaenti-houmadi-q1573424",
+      "name": "Ladaenti Houmadi",
+      "sitting": true,
+      "party_id": "convention-for-the-renewal-of-the-comoros",
+      "caucus": "Convention for the Renewal of the Comoros",
+      "constituency_label": "",
+      "chamber": "Assembly of the Union of the Comoros",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q106088222"
+    },
+    {
+      "id": "mohamed-ali-soilihi-q1573424",
+      "name": "Mohamed Ali Soilihi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Assembly of the Union of the Comoros",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24930192"
+    },
+    {
+      "id": "djoueria-abdallah-q1573424",
       "name": "Djoueria Abdallah",
       "sitting": true,
       "party_id": "unknown",
@@ -20,7 +76,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q5285372"
     },
     {
-      "id": "mohamed-djaanfari",
+      "id": "mohamed-djaanfari-q1573424",
       "name": "Mohamed Djaanfari",
       "sitting": true,
       "party_id": "unknown",
@@ -33,8 +89,8 @@
       "roster_url": "http://www.wikidata.org/entity/Q6891134"
     },
     {
-      "id": "chamina-ben-mohamed",
-      "name": "Chamina Ben Mohamed",
+      "id": "bianrifi-tarmidi-q1573424",
+      "name": "Bianrifi Tarmidi",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -43,36 +99,23 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q106088062"
+      "roster_url": "http://www.wikidata.org/entity/Q855447"
     },
     {
-      "id": "hayda-nourdine-sidi",
-      "name": "Hayda Nourdine Sidi",
+      "id": "hadjira-oumouri-q1573424",
+      "name": "Hadjira Oumouri",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "democratic-rally-of-the-comoros",
+      "caucus": "Democratic Rally of the Comoros",
       "constituency_label": "",
       "chamber": "Assembly of the Union of the Comoros",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q106088088"
+      "roster_url": "http://www.wikidata.org/entity/Q104835826"
     },
     {
-      "id": "ladaenti-houmadi",
-      "name": "Ladaenti Houmadi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Assembly of the Union of the Comoros",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q106088222"
-    },
-    {
-      "id": "dhoihir-dhoulkamal",
+      "id": "dhoihir-dhoulkamal-q1573424",
       "name": "Dhoihir Dhoulkamal",
       "sitting": true,
       "party_id": "unknown",

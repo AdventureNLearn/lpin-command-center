@@ -1,7 +1,74 @@
 {
   "iso2": "ca",
   "kit": "institutional",
-  "items": [],
   "incomplete": true,
-  "note": ":8103 claimed institutional_kits = 0."
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q16",
+  "bodies": [
+    {
+      "qid": "Q383590",
+      "label": "House of Commons",
+      "seats": 343,
+      "web": "http://www.ourcommons.ca/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q475689",
+      "label": "Parliament of Canada",
+      "seats": 443,
+      "web": "https://parl.ca",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q14931511",
+      "label": "monarch of Canada",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q841180",
+      "label": "Senate of Canada",
+      "seats": 105,
+      "web": "https://www.sencanada.ca/",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "House of Commons",
+    "monarch of Canada",
+    "Senate of Canada"
+  ],
+  "seats": 891,
+  "items": [
+    {
+      "id": "Q383590",
+      "name": "House of Commons",
+      "kind": "chamber",
+      "seats": 343,
+      "url": "http://www.ourcommons.ca/"
+    },
+    {
+      "id": "Q475689",
+      "name": "Parliament of Canada",
+      "kind": "parliament",
+      "seats": 443,
+      "url": "https://parl.ca"
+    },
+    {
+      "id": "Q14931511",
+      "name": "monarch of Canada",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q14931511"
+    },
+    {
+      "id": "Q841180",
+      "name": "Senate of Canada",
+      "kind": "chamber",
+      "seats": 105,
+      "url": "https://www.sencanada.ca/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

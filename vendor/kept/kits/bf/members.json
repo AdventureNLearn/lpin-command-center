@@ -3,41 +3,45 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q619238",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 28,
+  "incomplete": true,
+  "claimed_seats": 127,
+  "chambers": [
+    "National Assembly of Burkina Faso",
+    "Member of the National Assembly of Burkina Faso"
+  ],
   "items": [
     {
-      "id": "clement-sawadogo",
-      "name": "Clément Sawadogo",
+      "id": "larba-yarga-q619238",
+      "name": "Larba Yarga",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "people-s-movement-for-progress",
+      "caucus": "People's Movement for Progress",
       "constituency_label": "",
       "chamber": "National Assembly of Burkina Faso",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q1103939"
+      "roster_url": "http://www.wikidata.org/entity/Q6488716"
     },
     {
-      "id": "gilbert-noel-ouedraogo",
-      "name": "Gilbert Noël Ouédraogo",
+      "id": "salif-diallo-q619238",
+      "name": "Salif Diallo",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "people-s-movement-for-progress",
+      "caucus": "People's Movement for Progress",
       "constituency_label": "",
       "chamber": "National Assembly of Burkina Faso",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q1524043"
+      "roster_url": "http://www.wikidata.org/entity/Q16188989"
     },
     {
-      "id": "alain-bedouma-yoda",
+      "id": "alain-bedouma-yoda-q619238",
       "name": "Alain Bédouma Yoda",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "congress-for-democracy-and-progress",
+      "caucus": "Congress for Democracy and Progress",
       "constituency_label": "",
       "chamber": "National Assembly of Burkina Faso",
       "lang": [
@@ -46,7 +50,98 @@
       "roster_url": "http://www.wikidata.org/entity/Q1723580"
     },
     {
-      "id": "norbert-michel-tiendrebeogo",
+      "id": "thomas-sanon-q619238",
+      "name": "Thomas Sanon",
+      "sitting": true,
+      "party_id": "congress-for-democracy-and-progress",
+      "caucus": "Congress for Democracy and Progress",
+      "constituency_label": "",
+      "chamber": "National Assembly of Burkina Faso",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16116649"
+    },
+    {
+      "id": "clement-sawadogo-q619238",
+      "name": "Clément Sawadogo",
+      "sitting": true,
+      "party_id": "congress-for-democracy-and-progress",
+      "caucus": "Congress for Democracy and Progress",
+      "constituency_label": "",
+      "chamber": "National Assembly of Burkina Faso",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1103939"
+    },
+    {
+      "id": "hama-arba-diallo-q619238",
+      "name": "Hama Arba Diallo",
+      "sitting": true,
+      "party_id": "party-for-democracy-and-socialism",
+      "caucus": "Party for Democracy and Socialism",
+      "constituency_label": "",
+      "chamber": "National Assembly of Burkina Faso",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5643911"
+    },
+    {
+      "id": "paramanga-ernest-yonli-q619238",
+      "name": "Paramanga Ernest Yonli",
+      "sitting": true,
+      "party_id": "congress-for-democracy-and-progress",
+      "caucus": "Congress for Democracy and Progress",
+      "constituency_label": "",
+      "chamber": "National Assembly of Burkina Faso",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q434742"
+    },
+    {
+      "id": "alassane-bala-sakande-q619238",
+      "name": "Alassane Bala Sakandé",
+      "sitting": true,
+      "party_id": "people-s-movement-for-progress",
+      "caucus": "People's Movement for Progress",
+      "constituency_label": "",
+      "chamber": "National Assembly of Burkina Faso",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q78185212"
+    },
+    {
+      "id": "soungalo-ouattara-q619238",
+      "name": "Soungalo Ouattara",
+      "sitting": true,
+      "party_id": "congress-for-democracy-and-progress",
+      "caucus": "Congress for Democracy and Progress",
+      "constituency_label": "",
+      "chamber": "National Assembly of Burkina Faso",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7565025"
+    },
+    {
+      "id": "roch-marc-christian-kabore-q619238",
+      "name": "Roch Marc Christian Kaboré",
+      "sitting": true,
+      "party_id": "people-s-movement-for-progress",
+      "caucus": "People's Movement for Progress",
+      "constituency_label": "",
+      "chamber": "National Assembly of Burkina Faso",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q599988"
+    },
+    {
+      "id": "norbert-michel-tiendrebeogo-q619238",
       "name": "Norbert Michel Tiendrébéogo",
       "sitting": true,
       "party_id": "unknown",
@@ -59,7 +154,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q1997031"
     },
     {
-      "id": "nurukyor-claude-somda",
+      "id": "nurukyor-claude-somda-q619238",
       "name": "Nurukyor Claude Somda",
       "sitting": true,
       "party_id": "unknown",
@@ -72,89 +167,11 @@
       "roster_url": "http://www.wikidata.org/entity/Q2005411"
     },
     {
-      "id": "simon-compaore",
-      "name": "Simon Compaoré",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Burkina Faso",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2287427"
-    },
-    {
-      "id": "laurent-bado",
-      "name": "Laurent Bado",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Burkina Faso",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3219014"
-    },
-    {
-      "id": "melegue-maurice-traore",
-      "name": "Mélégué Maurice Traoré",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Burkina Faso",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3333014"
-    },
-    {
-      "id": "thomas-sanon",
-      "name": "Thomas Sanon",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Burkina Faso",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16116649"
-    },
-    {
-      "id": "paramanga-ernest-yonli",
-      "name": "Paramanga Ernest Yonli",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Burkina Faso",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q434742"
-    },
-    {
-      "id": "salif-diallo",
-      "name": "Salif Diallo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Burkina Faso",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16188989"
-    },
-    {
-      "id": "abdoulkader-cisse",
+      "id": "abdoulkader-cisse-q619238",
       "name": "Abdoulkader Cissé",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "congress-for-democracy-and-progress",
+      "caucus": "Congress for Democracy and Progress",
       "constituency_label": "",
       "chamber": "National Assembly of Burkina Faso",
       "lang": [
@@ -163,7 +180,46 @@
       "roster_url": "http://www.wikidata.org/entity/Q4665186"
     },
     {
-      "id": "celestine-ouezzin-coulibaly",
+      "id": "simon-compaore-q619238",
+      "name": "Simon Compaoré",
+      "sitting": true,
+      "party_id": "congress-for-democracy-and-progress",
+      "caucus": "Congress for Democracy and Progress",
+      "constituency_label": "",
+      "chamber": "National Assembly of Burkina Faso",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2287427"
+    },
+    {
+      "id": "benewende-stanislas-sankara-q619238",
+      "name": "Bénéwendé Stanislas Sankara",
+      "sitting": true,
+      "party_id": "union-for-rebirth-sankarist-movement",
+      "caucus": "Union for Rebirth / Sankarist Movement",
+      "constituency_label": "",
+      "chamber": "National Assembly of Burkina Faso",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q722327"
+    },
+    {
+      "id": "ali-barraud-n-goni-q619238",
+      "name": "Ali Barraud N'Goni",
+      "sitting": true,
+      "party_id": "african-democratic-rally",
+      "caucus": "African Democratic Rally",
+      "constituency_label": "",
+      "chamber": "National Assembly of Burkina Faso",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q741331"
+    },
+    {
+      "id": "celestine-ouezzin-coulibaly-q619238",
       "name": "Célestine Ouezzin-Coulibaly",
       "sitting": true,
       "party_id": "unknown",
@@ -176,98 +232,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q20027648"
     },
     {
-      "id": "hama-arba-diallo",
-      "name": "Hama Arba Diallo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Burkina Faso",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5643911"
-    },
-    {
-      "id": "benewende-stanislas-sankara",
-      "name": "Bénéwendé Stanislas Sankara",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Burkina Faso",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q722327"
-    },
-    {
-      "id": "ali-lankoande",
-      "name": "Ali Lankoandé",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Burkina Faso",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q730034"
-    },
-    {
-      "id": "joseph-ki-zerbo",
-      "name": "Joseph Ki-Zerbo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Burkina Faso",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q739752"
-    },
-    {
-      "id": "ali-barraud-n-goni",
-      "name": "Ali Barraud N'Goni",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Burkina Faso",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q741331"
-    },
-    {
-      "id": "joseph-ouedraogo",
-      "name": "Joseph Ouédraogo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Burkina Faso",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6285972"
-    },
-    {
-      "id": "kanidoua-naboho",
-      "name": "Kanidoua Naboho",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Burkina Faso",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6363125"
-    },
-    {
-      "id": "bernard-ledea-ouedraogo",
+      "id": "bernard-ledea-ouedraogo-q619238",
       "name": "Bernard Lédéa Ouédraogo",
       "sitting": true,
       "party_id": "unknown",
@@ -280,20 +245,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q822574"
     },
     {
-      "id": "mahama-sawadogo",
-      "name": "Mahama Sawadogo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Burkina Faso",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6732984"
-    },
-    {
-      "id": "oubkiri-marc-yao",
+      "id": "oubkiri-marc-yao-q619238",
       "name": "Oubkiri Marc Yao",
       "sitting": true,
       "party_id": "unknown",
@@ -306,8 +258,21 @@
       "roster_url": "http://www.wikidata.org/entity/Q7110235"
     },
     {
-      "id": "seydou-bouda",
-      "name": "Seydou Bouda",
+      "id": "mahama-sawadogo-q619238",
+      "name": "Mahama Sawadogo",
+      "sitting": true,
+      "party_id": "congress-for-democracy-and-progress",
+      "caucus": "Congress for Democracy and Progress",
+      "constituency_label": "",
+      "chamber": "National Assembly of Burkina Faso",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6732984"
+    },
+    {
+      "id": "boubacari-dicko-q619238",
+      "name": "Boubacari Dicko",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -316,40 +281,53 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q7459009"
+      "roster_url": "http://www.wikidata.org/entity/Q137944442"
     },
     {
-      "id": "soungalo-ouattara",
-      "name": "Soungalo Ouattara",
+      "id": "gilbert-noel-ouedraogo-q619238",
+      "name": "Gilbert Noël Ouédraogo",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "alliance-for-democracy-and-federation-african-democratic-rally",
+      "caucus": "Alliance for Democracy and Federation – African Democratic Rally",
       "constituency_label": "",
       "chamber": "National Assembly of Burkina Faso",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q7565025"
+      "roster_url": "http://www.wikidata.org/entity/Q1524043"
     },
     {
-      "id": "youssouf-sambo-ba",
-      "name": "Youssouf Sambo Bâ",
+      "id": "bognessan-arsene-ye-q619238",
+      "name": "Bognessan Arsène Yé",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "congress-for-democracy-and-progress",
+      "caucus": "Congress for Democracy and Progress",
       "constituency_label": "",
       "chamber": "National Assembly of Burkina Faso",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q8059112"
+      "roster_url": "http://www.wikidata.org/entity/Q4937668"
     },
     {
-      "id": "justin-compaore",
+      "id": "ali-lankoande-q619238",
+      "name": "Ali Lankoandé",
+      "sitting": true,
+      "party_id": "party-for-democracy-and-progress-socialist-party",
+      "caucus": "Party for Democracy and Progress / Socialist Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Burkina Faso",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q730034"
+    },
+    {
+      "id": "justin-compaore-q619238",
       "name": "Justin Compaoré",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "union-for-progress-and-reform",
+      "caucus": "Union for Progress and Reform",
       "constituency_label": "",
       "chamber": "National Assembly of Burkina Faso",
       "lang": [
@@ -358,8 +336,86 @@
       "roster_url": "http://www.wikidata.org/entity/Q140919379"
     },
     {
-      "id": "youssouf-ouedraogo",
+      "id": "joseph-ki-zerbo-q619238",
+      "name": "Joseph Ki-Zerbo",
+      "sitting": true,
+      "party_id": "party-for-democracy-and-progress-socialist-party",
+      "caucus": "Party for Democracy and Progress / Socialist Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Burkina Faso",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q739752"
+    },
+    {
+      "id": "youssouf-ouedraogo-q619238",
       "name": "Youssouf Ouédraogo",
+      "sitting": true,
+      "party_id": "congress-for-democracy-and-progress",
+      "caucus": "Congress for Democracy and Progress",
+      "constituency_label": "",
+      "chamber": "National Assembly of Burkina Faso",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58205"
+    },
+    {
+      "id": "youssouf-sambo-ba-q619238",
+      "name": "Youssouf Sambo Bâ",
+      "sitting": true,
+      "party_id": "party-for-democracy-and-socialism",
+      "caucus": "Party for Democracy and Socialism",
+      "constituency_label": "",
+      "chamber": "National Assembly of Burkina Faso",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q8059112"
+    },
+    {
+      "id": "laurent-bado-q619238",
+      "name": "Laurent Bado",
+      "sitting": true,
+      "party_id": "national-rebirth-party",
+      "caucus": "National Rebirth Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Burkina Faso",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3219014"
+    },
+    {
+      "id": "melegue-maurice-traore-q619238",
+      "name": "Mélégué Maurice Traoré",
+      "sitting": true,
+      "party_id": "congress-for-democracy-and-progress",
+      "caucus": "Congress for Democracy and Progress",
+      "constituency_label": "",
+      "chamber": "National Assembly of Burkina Faso",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3333014"
+    },
+    {
+      "id": "joseph-ouedraogo-q619238",
+      "name": "Joseph Ouédraogo",
+      "sitting": true,
+      "party_id": "unified-democratic-party",
+      "caucus": "Unified Democratic Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Burkina Faso",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6285972"
+    },
+    {
+      "id": "ousmane-bougouma-q619238",
+      "name": "Ousmane Bougouma",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -368,7 +424,46 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q58205"
+      "roster_url": "http://www.wikidata.org/entity/Q116810406"
+    },
+    {
+      "id": "kanidoua-naboho-q619238",
+      "name": "Kanidoua Naboho",
+      "sitting": true,
+      "party_id": "congress-for-democracy-and-progress",
+      "caucus": "Congress for Democracy and Progress",
+      "constituency_label": "",
+      "chamber": "National Assembly of Burkina Faso",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6363125"
+    },
+    {
+      "id": "rose-marie-compaore-q619238",
+      "name": "Rose Marie Compaoré",
+      "sitting": true,
+      "party_id": "union-for-progress-and-reform",
+      "caucus": "Union for Progress and Reform",
+      "constituency_label": "",
+      "chamber": "National Assembly of Burkina Faso",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q88720923"
+    },
+    {
+      "id": "seydou-bouda-q619238",
+      "name": "Seydou Bouda",
+      "sitting": true,
+      "party_id": "congress-for-democracy-and-progress",
+      "caucus": "Congress for Democracy and Progress",
+      "constituency_label": "",
+      "chamber": "National Assembly of Burkina Faso",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7459009"
     }
   ]
 }

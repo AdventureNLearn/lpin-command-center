@@ -3,11 +3,15 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q131279",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 151,
+  "incomplete": true,
+  "claimed_seats": 63,
+  "chambers": [
+    "Althing",
+    "Member of the Althing"
+  ],
   "items": [
     {
-      "id": "eva-dogg-davi-sdottir",
+      "id": "eva-dogg-davi-sdottir-q131279",
       "name": "Eva Dögg Davíðsdóttir",
       "sitting": true,
       "party_id": "unknown",
@@ -20,72 +24,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q127784044"
     },
     {
-      "id": "sveinn-bjornsson",
-      "name": "Sveinn Björnsson",
+      "id": "sigurlin-margret-sigur-ardottir-q131279",
+      "name": "Sigurlín Margrét Sigurðardóttir",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "icelandic-movement-living-country",
+      "caucus": "Icelandic Movement – Living Country",
       "constituency_label": "",
       "chamber": "Althing",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q207206"
+      "roster_url": "http://www.wikidata.org/entity/Q7513318"
     },
     {
-      "id": "jon-sigur-sson",
-      "name": "Jón Sigurðsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q321275"
-    },
-    {
-      "id": "svava-jakobsdottir",
-      "name": "Svava Jakobsdóttir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q121693"
-    },
-    {
-      "id": "skuli-helgason",
-      "name": "Skúli Helgason",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1279631"
-    },
-    {
-      "id": "einar-kristinn-gu-finnsson",
-      "name": "Einar Kristinn Guðfinnsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1305893"
-    },
-    {
-      "id": "sveinn-olafsson",
+      "id": "sveinn-olafsson-q131279",
       "name": "Sveinn Ólafsson",
       "sitting": true,
       "party_id": "unknown",
@@ -98,228 +50,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q16428129"
     },
     {
-      "id": "ragnhei-ur-rikhar-sdottir",
-      "name": "Ragnheiður Ríkharðsdóttir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1328085"
-    },
-    {
-      "id": "orger-ur-katrin-gunnarsdottir",
-      "name": "Þorgerður Katrín Gunnarsdóttir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q139225"
-    },
-    {
-      "id": "sigur-ur-einarsson-i-holti",
-      "name": "Sigurður Einarsson í Holti",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1380813"
-    },
-    {
-      "id": "albert-gu-mundsson",
-      "name": "Albert Guðmundsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1397070"
-    },
-    {
-      "id": "sigurjon-or-arson",
-      "name": "Sigurjón Þórðarson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1480281"
-    },
-    {
-      "id": "gu-bjartur-hannesson",
-      "name": "Guðbjartur Hannesson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1557723"
-    },
-    {
-      "id": "gu-mundur-steingrimsson",
-      "name": "Guðmundur Steingrímsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1557755"
-    },
-    {
-      "id": "hoskuldur-orhallsson",
-      "name": "Höskuldur Þórhallsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1651907"
-    },
-    {
-      "id": "illugi-gunnarsson",
-      "name": "Illugi Gunnarsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1658872"
-    },
-    {
-      "id": "jon-baldvin-hannibalsson",
-      "name": "Jón Baldvin Hannibalsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1715045"
-    },
-    {
-      "id": "jon-gunnarsson",
-      "name": "Jón Gunnarsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1715048"
-    },
-    {
-      "id": "jonas-arnason",
-      "name": "Jónas Árnason",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1715064"
-    },
-    {
-      "id": "jonina-bjartmarz",
-      "name": "Jónína Bjartmarz",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1715069"
-    },
-    {
-      "id": "kristjan-or-juliusson",
-      "name": "Kristján Þór Júlíusson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1789402"
-    },
-    {
-      "id": "sigur-ur-ingi-johannsson",
-      "name": "Sigurður Ingi Jóhannsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q201075"
-    },
-    {
-      "id": "geir-haarde",
-      "name": "Geir Haarde",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q202032"
-    },
-    {
-      "id": "halldor-asgrimsson",
-      "name": "Halldór Ásgrímsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q208879"
-    },
-    {
-      "id": "benedikt-sveinsson",
+      "id": "benedikt-sveinsson-q131279",
       "name": "Benedikt Sveinsson",
       "sitting": true,
       "party_id": "unknown",
@@ -332,20 +63,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q12303099"
     },
     {
-      "id": "brynjolfur-bjarnason",
-      "name": "Brynjólfur Bjarnason",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2029076"
-    },
-    {
-      "id": "jon-hjaltalin",
+      "id": "jon-hjaltalin-q131279",
       "name": "Jón Hjaltalin",
       "sitting": true,
       "party_id": "unknown",
@@ -358,7 +76,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q12320695"
     },
     {
-      "id": "magnus-stephensen",
+      "id": "magnus-stephensen-q131279",
       "name": "Magnús Stephensen",
       "sitting": true,
       "party_id": "unknown",
@@ -371,7 +89,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q12325738"
     },
     {
-      "id": "pall-briem",
+      "id": "pall-briem-q131279",
       "name": "Páll Briem",
       "sitting": true,
       "party_id": "unknown",
@@ -384,7 +102,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q12332605"
     },
     {
-      "id": "olafur-palsson",
+      "id": "olafur-palsson-q131279",
       "name": "Ólafur Pálsson",
       "sitting": true,
       "party_id": "unknown",
@@ -397,280 +115,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q12344318"
     },
     {
-      "id": "bjort-olafsdottir",
-      "name": "Björt Ólafsdóttir",
+      "id": "freyja-haraldsdottir-q131279",
+      "name": "Freyja Haraldsdóttir",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "bright-future",
+      "caucus": "Bright Future",
       "constituency_label": "",
       "chamber": "Althing",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q12395898"
+      "roster_url": "http://www.wikidata.org/entity/Q42417824"
     },
     {
-      "id": "ragnhei-ur-elin-arnadottir",
-      "name": "Ragnheiður Elín Árnadóttir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2127304"
-    },
-    {
-      "id": "robert-marshall",
-      "name": "Róbert Marshall",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2179205"
-    },
-    {
-      "id": "alfhei-ur-ingadottir",
-      "name": "Álfheiður Ingadóttir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q250619"
-    },
-    {
-      "id": "salome-orkelsdottir",
-      "name": "Salome Þorkelsdóttir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2214870"
-    },
-    {
-      "id": "arni-mathiesen",
-      "name": "Árni Mathiesen",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q252264"
-    },
-    {
-      "id": "arni-pall-arnason",
-      "name": "Árni Páll Árnason",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q252271"
-    },
-    {
-      "id": "arni-or-sigur-sson",
-      "name": "Árni Þór Sigurðsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q252296"
-    },
-    {
-      "id": "sigmundur-ernir-runarsson",
-      "name": "Sigmundur Ernir Rúnarsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2285056"
-    },
-    {
-      "id": "sigur-ur-kari-kristjansson",
-      "name": "Sigurður Kári Kristjánsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2285487"
-    },
-    {
-      "id": "ingibjorg-solrun-gisladottir",
-      "name": "Ingibjörg Sólrún Gísladóttir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q262299"
-    },
-    {
-      "id": "helgi-hrafn-gunnarsson",
-      "name": "Helgi Hrafn Gunnarsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q13422896"
-    },
-    {
-      "id": "olina-orvar-ardottir",
-      "name": "Ólína Þorvarðardóttir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q293062"
-    },
-    {
-      "id": "ogmundur-jonasson",
-      "name": "Ögmundur Jónasson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q294666"
-    },
-    {
-      "id": "davi-oddsson",
-      "name": "Davíð Oddsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q298030"
-    },
-    {
-      "id": "orsteinn-palsson",
-      "name": "Þorsteinn Pálsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q335707"
-    },
-    {
-      "id": "or-saari",
-      "name": "Þór Saari",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q335776"
-    },
-    {
-      "id": "orhildur-orleifsdottir",
-      "name": "Þórhildur Þorleifsdóttir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q335850"
-    },
-    {
-      "id": "orunn-sveinbjarnardottir",
-      "name": "Þórunn Sveinbjarnardóttir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q335921"
-    },
-    {
-      "id": "ragnar-arnalds",
-      "name": "Ragnar Arnalds",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q338734"
-    },
-    {
-      "id": "orunn-egilsdottir",
-      "name": "Þórunn Egilsdóttir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q15109949"
-    },
-    {
-      "id": "olafur-briem",
+      "id": "olafur-briem-q131279",
       "name": "Ólafur Briem",
       "sitting": true,
       "party_id": "unknown",
@@ -683,72 +141,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q15127902"
     },
     {
-      "id": "steinunn-ora-arnadottir",
-      "name": "Steinunn Þóra Árnadóttir",
+      "id": "orunn-egilsdottir-q131279",
+      "name": "Þórunn Egilsdóttir",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "progressive-party",
+      "caucus": "Progressive Party",
       "constituency_label": "",
       "chamber": "Althing",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q15214902"
+      "roster_url": "http://www.wikidata.org/entity/Q15109949"
     },
     {
-      "id": "hjalmar-arnason",
-      "name": "Hjálmar Árnason",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3138791"
-    },
-    {
-      "id": "tryggvi-or-herbertsson",
-      "name": "Tryggvi Þór Herbertsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q378310"
-    },
-    {
-      "id": "asmundur-fri-riksson",
-      "name": "Ásmundur Friðriksson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q15622430"
-    },
-    {
-      "id": "bjarkey-gunnarsdottir",
-      "name": "Bjarkey Gunnarsdóttir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q15622449"
-    },
-    {
-      "id": "brynhildur-petursdottir",
+      "id": "brynhildur-petursdottir-q131279",
       "name": "Brynhildur Pétursdóttir",
       "sitting": true,
       "party_id": "unknown",
@@ -761,137 +167,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q15624512"
     },
     {
-      "id": "elsa-lara-arnardottir",
-      "name": "Elsa Lára Arnardóttir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q15632998"
-    },
-    {
-      "id": "frosti-sigurjonsson",
-      "name": "Frosti Sigurjónsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q15644764"
-    },
-    {
-      "id": "haraldur-benediktsson",
-      "name": "Haraldur Benediktsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q15730617"
-    },
-    {
-      "id": "hannibal-valdimarsson",
-      "name": "Hannibal Valdimarsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3480195"
-    },
-    {
-      "id": "halldor-blondal",
-      "name": "Halldór Blöndal",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3481195"
-    },
-    {
-      "id": "sverrir-hermannsson",
-      "name": "Sverrir Hermannsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3481185"
-    },
-    {
-      "id": "gylfi-orsteinsson-gislason",
-      "name": "Gylfi Þorsteinsson Gíslason",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3482246"
-    },
-    {
-      "id": "jorundur-brynjolfsson",
-      "name": "Jörundur Brynjólfsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q15982426"
-    },
-    {
-      "id": "haraldur-einarsson",
-      "name": "Haraldur Einarsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16103460"
-    },
-    {
-      "id": "johanna-maria-sigmundsdottir",
-      "name": "Jóhanna María Sigmundsdóttir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16334491"
-    },
-    {
-      "id": "arni-helgason",
+      "id": "arni-helgason-q131279",
       "name": "Árni Helgason",
       "sitting": true,
       "party_id": "unknown",
@@ -904,7 +180,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q16419363"
     },
     {
-      "id": "bergur-thorberg",
+      "id": "bergur-thorberg-q131279",
       "name": "Bergur Thorberg",
       "sitting": true,
       "party_id": "unknown",
@@ -917,20 +193,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q16420773"
     },
     {
-      "id": "ottarr-proppe",
-      "name": "Óttarr Proppé",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16420871"
-    },
-    {
-      "id": "bogi-thorarensen-melste",
+      "id": "bogi-thorarensen-melste-q131279",
       "name": "Bogi Thorarensen Melsteð",
       "sitting": true,
       "party_id": "unknown",
@@ -943,7 +206,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q16421538"
     },
     {
-      "id": "orleifur-jonsson",
+      "id": "orleifur-jonsson-q131279",
       "name": "Þorleifur Jónsson",
       "sitting": true,
       "party_id": "unknown",
@@ -956,33 +219,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q16421595"
     },
     {
-      "id": "orsteinn-b-s-mundsson",
-      "name": "Þorsteinn B. Sæmundsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16421718"
-    },
-    {
-      "id": "pall-johann-palsson",
-      "name": "Páll Jóhann Pálsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16423821"
-    },
-    {
-      "id": "pall-valur-bjornsson",
+      "id": "pall-valur-bjornsson-q131279",
       "name": "Páll Valur Björnsson",
       "sitting": true,
       "party_id": "unknown",
@@ -995,7 +232,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q16423843"
     },
     {
-      "id": "petur-halldorsson",
+      "id": "petur-halldorsson-q131279",
       "name": "Pétur Halldórsson",
       "sitting": true,
       "party_id": "unknown",
@@ -1008,33 +245,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q16423894"
     },
     {
-      "id": "sigrun-magnusdottir",
-      "name": "Sigrún Magnúsdóttir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16425503"
-    },
-    {
-      "id": "gu-run-larusdottir",
-      "name": "Guðrún Lárusdóttir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16426181"
-    },
-    {
-      "id": "hermann-jonasson",
+      "id": "hermann-jonasson-q131279",
       "name": "Hermann Jónasson",
       "sitting": true,
       "party_id": "unknown",
@@ -1047,46 +258,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q16427645"
     },
     {
-      "id": "ingibjorg-h-bjarnason",
-      "name": "Ingibjörg H. Bjarnason",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16429109"
-    },
-    {
-      "id": "karl-gar-arsson",
-      "name": "Karl Garðarsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16430033"
-    },
-    {
-      "id": "vilhjalmur-arnason",
-      "name": "Vilhjálmur Árnason",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16430083"
-    },
-    {
-      "id": "vilmundur-jonsson",
+      "id": "vilmundur-jonsson-q131279",
       "name": "Vilmundur Jónsson",
       "sitting": true,
       "party_id": "unknown",
@@ -1099,7 +271,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q16430103"
     },
     {
-      "id": "amal-tamimi",
+      "id": "ottarr-proppe-q131279",
+      "name": "Óttarr Proppé",
+      "sitting": true,
+      "party_id": "best-party",
+      "caucus": "Best Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16420871"
+    },
+    {
+      "id": "amal-tamimi-q131279",
       "name": "Amal Tamimi",
       "sitting": true,
       "party_id": "unknown",
@@ -1112,7 +297,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q17305615"
     },
     {
-      "id": "gu-mundur-hannesson",
+      "id": "jon-jonsson-q131279",
+      "name": "Jón Jónsson",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24018533"
+    },
+    {
+      "id": "gu-mundur-hannesson-q131279",
       "name": "Guðmundur Hannesson",
       "sitting": true,
       "party_id": "unknown",
@@ -1125,7 +323,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q20558431"
     },
     {
-      "id": "gu-run-agnarsdottir",
+      "id": "gu-run-agnarsdottir-q131279",
       "name": "Guðrún Agnarsdóttir",
       "sitting": true,
       "party_id": "unknown",
@@ -1138,7 +336,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q20558463"
     },
     {
-      "id": "sigri-ur-duna-kristmundsdottir",
+      "id": "sigri-ur-duna-kristmundsdottir-q131279",
       "name": "Sigríður Dúna Kristmundsdóttir",
       "sitting": true,
       "party_id": "unknown",
@@ -1151,7 +349,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q20559191"
     },
     {
-      "id": "magnus-nor-dahl",
+      "id": "magnus-nor-dahl-q131279",
       "name": "Magnús Norðdahl",
       "sitting": true,
       "party_id": "unknown",
@@ -1164,7 +362,46 @@
       "roster_url": "http://www.wikidata.org/entity/Q22279427"
     },
     {
-      "id": "gunnar-g-schram",
+      "id": "steinunn-ora-arnadottir-q131279",
+      "name": "Steinunn Þóra Árnadóttir",
+      "sitting": true,
+      "party_id": "left-green-movement",
+      "caucus": "Left-Green Movement",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15214902"
+    },
+    {
+      "id": "arni-ragnar-arnason-q131279",
+      "name": "Árni Ragnar Árnason",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28355573"
+    },
+    {
+      "id": "helgi-hrafn-gunnarsson-q131279",
+      "name": "Helgi Hrafn Gunnarsson",
+      "sitting": true,
+      "party_id": "pirate-party",
+      "caucus": "Pirate Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13422896"
+    },
+    {
+      "id": "gunnar-g-schram-q131279",
       "name": "Gunnar G. Schram",
       "sitting": true,
       "party_id": "unknown",
@@ -1177,505 +414,63 @@
       "roster_url": "http://www.wikidata.org/entity/Q31749403"
     },
     {
-      "id": "arna-lara-jonsdottir",
-      "name": "Arna Lára Jónsdóttir",
+      "id": "asmundur-fri-riksson-q131279",
+      "name": "Ásmundur Friðriksson",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
       "constituency_label": "",
       "chamber": "Althing",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q120609631"
+      "roster_url": "http://www.wikidata.org/entity/Q15622430"
     },
     {
-      "id": "jon-bjarnason",
-      "name": "Jón Bjarnason",
+      "id": "elsa-lara-arnardottir-q131279",
+      "name": "Elsa Lára Arnardóttir",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "progressive-party",
+      "caucus": "Progressive Party",
       "constituency_label": "",
       "chamber": "Althing",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q463598"
+      "roster_url": "http://www.wikidata.org/entity/Q15632998"
     },
     {
-      "id": "bjorn-bjarnason",
-      "name": "Björn Bjarnason",
+      "id": "frosti-sigurjonsson-q131279",
+      "name": "Frosti Sigurjónsson",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "progressive-party",
+      "caucus": "Progressive Party",
       "constituency_label": "",
       "chamber": "Althing",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q879568"
+      "roster_url": "http://www.wikidata.org/entity/Q15644764"
     },
     {
-      "id": "bjorn-jonsson",
-      "name": "Björn Jónsson",
+      "id": "bjort-olafsdottir-q131279",
+      "name": "Björt Ólafsdóttir",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "bright-future",
+      "caucus": "Bright Future",
       "constituency_label": "",
       "chamber": "Althing",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q879667"
+      "roster_url": "http://www.wikidata.org/entity/Q12395898"
     },
     {
-      "id": "hjalmar-jonsson",
-      "name": "Hjálmar Jónsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5873298"
-    },
-    {
-      "id": "bjarni-benediktsson",
-      "name": "Bjarni Benediktsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q561818"
-    },
-    {
-      "id": "oddny-gu-bjorg-har-ardottir",
-      "name": "Oddný Guðbjörg Harðardóttir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q437989"
-    },
-    {
-      "id": "siv-fri-leifsdottir",
-      "name": "Siv Friðleifsdóttir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q437932"
-    },
-    {
-      "id": "svandis-svavarsdottir",
-      "name": "Svandís Svavarsdóttir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q438056"
-    },
-    {
-      "id": "petur-blondal",
-      "name": "Pétur Blöndal",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q446307"
-    },
-    {
-      "id": "helgi-hjorvar",
-      "name": "Helgi Hjörvar",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q463525"
-    },
-    {
-      "id": "kristjan-l-moller",
-      "name": "Kristján L. Möller",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q463602"
-    },
-    {
-      "id": "magnus-stefansson",
-      "name": "Magnús Stefánsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6732262"
-    },
-    {
-      "id": "ragnhildur-helgadottir",
-      "name": "Ragnhildur Helgadóttir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q470222"
-    },
-    {
-      "id": "steingrimur-j-sigfusson",
-      "name": "Steingrímur J. Sigfússon",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q511882"
-    },
-    {
-      "id": "grimur-thomsen",
-      "name": "Grímur Thomsen",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3962335"
-    },
-    {
-      "id": "katrin-juliusdottir",
-      "name": "Katrín Júlíusdóttir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q539421"
-    },
-    {
-      "id": "margret-tryggvadottir",
-      "name": "Margrét Tryggvadóttir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q539440"
-    },
-    {
-      "id": "gu-fri-ur-lilja-gretarsdottir",
-      "name": "Guðfríður Lilja Grétarsdóttir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q539484"
-    },
-    {
-      "id": "lilja-rafney-magnusdottir",
-      "name": "Lilja Rafney Magnúsdóttir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q539467"
-    },
-    {
-      "id": "jonina-ros-gu-mundsdottir",
-      "name": "Jónína Rós Guðmundsdóttir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q540028"
-    },
-    {
-      "id": "vigdis-hauksdottir",
-      "name": "Vigdís Hauksdóttir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q540071"
-    },
-    {
-      "id": "sigri-ur-ingibjorg-ingadottir",
-      "name": "Sigríður Ingibjörg Ingadóttir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q540109"
-    },
-    {
-      "id": "valger-ur-bjarnadottir",
-      "name": "Valgerður Bjarnadóttir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q540116"
-    },
-    {
-      "id": "solveig-petursdottir",
-      "name": "Sólveig Pétursdóttir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q546985"
-    },
-    {
-      "id": "gu-jon-arnar-kristjansson",
-      "name": "Guðjón Arnar Kristjánsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q553616"
-    },
-    {
-      "id": "bergur-sigurbjornsson",
-      "name": "Bergur Sigurbjörnsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4891737"
-    },
-    {
-      "id": "bjarni-har-arson",
-      "name": "Bjarni Harðarson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4919576"
-    },
-    {
-      "id": "emil-jonsson",
-      "name": "Emil Jónsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q631523"
-    },
-    {
-      "id": "elin-hirst",
-      "name": "Elín Hirst",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5368677"
-    },
-    {
-      "id": "benedikt-sigur-sson-grondal",
-      "name": "Benedikt Sigurðsson Gröndal",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q712686"
-    },
-    {
-      "id": "johannes-ur-kotlum",
-      "name": "Jóhannes úr Kötlum",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q712630"
-    },
-    {
-      "id": "ingibjorg-palmadottir",
-      "name": "Ingibjörg Pálmadóttir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6032483"
-    },
-    {
-      "id": "atli-gislason",
-      "name": "Atli Gíslason",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q757377"
-    },
-    {
-      "id": "jon-halldor-kristjansson",
-      "name": "Jón Halldór Kristjánsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6320343"
-    },
-    {
-      "id": "lu-vik-geirsson",
-      "name": "Lúðvík Geirsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6711469"
-    },
-    {
-      "id": "pall-melste",
-      "name": "Páll Melsteð",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7264055"
-    },
-    {
-      "id": "petur-ottesen",
-      "name": "Pétur Ottesen",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7264741"
-    },
-    {
-      "id": "rannveig-gu-mundsdottir",
+      "id": "rannveig-gu-mundsdottir-q131279",
       "name": "Rannveig Guðmundsdóttir",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "social-democratic-party",
+      "caucus": "Social Democratic Party",
       "constituency_label": "",
       "chamber": "Althing",
       "lang": [
@@ -1684,180 +479,37 @@
       "roster_url": "http://www.wikidata.org/entity/Q7293411"
     },
     {
-      "id": "birgir-armannsson",
-      "name": "Birgir Ármannsson",
+      "id": "haraldur-benediktsson-q131279",
+      "name": "Haraldur Benediktsson",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
       "constituency_label": "",
       "chamber": "Althing",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q865180"
+      "roster_url": "http://www.wikidata.org/entity/Q15730617"
     },
     {
-      "id": "birkir-jon-jonsson",
-      "name": "Birkir Jón Jónsson",
+      "id": "bjarkey-gunnarsdottir-q131279",
+      "name": "Bjarkey Gunnarsdóttir",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "left-green-movement",
+      "caucus": "Left-Green Movement",
       "constituency_label": "",
       "chamber": "Althing",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q865674"
+      "roster_url": "http://www.wikidata.org/entity/Q15622449"
     },
     {
-      "id": "sigri-ur-anna-or-ardottir",
-      "name": "Sigríður Anna Þórðardóttir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7513164"
-    },
-    {
-      "id": "sigurlin-margret-sigur-ardottir",
-      "name": "Sigurlín Margrét Sigurðardóttir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7513318"
-    },
-    {
-      "id": "sigurros-orgrimsdottir",
-      "name": "Sigurrós Þorgrímsdóttir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7513321"
-    },
-    {
-      "id": "sturla-bo-varsson",
-      "name": "Sturla Böðvarsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7629074"
-    },
-    {
-      "id": "bjorn-m-olsen",
-      "name": "Björn M. Ólsen",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q879688"
-    },
-    {
-      "id": "bjorn-valur-gislason",
-      "name": "Björn Valur Gíslason",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q879755"
-    },
-    {
-      "id": "geir-hallgrimsson",
-      "name": "Geir Hallgrímsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q962090"
-    },
-    {
-      "id": "vilmundur-gylfason",
-      "name": "Vilmundur Gylfason",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q962185"
-    },
-    {
-      "id": "stefan-johann-stefansson",
-      "name": "Stefán Jóhann Stefánsson",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q962257"
-    },
-    {
-      "id": "johann-hafstein",
-      "name": "Jóhann Hafstein",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q984026"
-    },
-    {
-      "id": "freyja-haraldsdottir",
-      "name": "Freyja Haraldsdóttir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q42417824"
-    },
-    {
-      "id": "albertina-fri-bjorg-eliasdottir",
+      "id": "albertina-fri-bjorg-eliasdottir-q131279",
       "name": "Albertína Friðbjörg Elíasdóttir",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "social-democratic-alliance",
+      "caucus": "Social Democratic Alliance",
       "constituency_label": "",
       "chamber": "Althing",
       "lang": [
@@ -1866,20 +518,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q47481614"
     },
     {
-      "id": "anna-kolbrun-arnadottir",
-      "name": "Anna Kolbrún Árnadóttir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Althing",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q51846354"
-    },
-    {
-      "id": "hei-a-gu-ny-asgeirsdottir",
+      "id": "hei-a-gu-ny-asgeirsdottir-q131279",
       "name": "Heiða Guðný Ásgeirsdóttir",
       "sitting": true,
       "party_id": "unknown",
@@ -1892,7 +531,46 @@
       "roster_url": "http://www.wikidata.org/entity/Q58885808"
     },
     {
-      "id": "a-alhei-ur-bjarnfre-sdottir",
+      "id": "jorundur-brynjolfsson-q131279",
+      "name": "Jörundur Brynjólfsson",
+      "sitting": true,
+      "party_id": "social-democratic-party",
+      "caucus": "Social Democratic Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15982426"
+    },
+    {
+      "id": "sigri-ur-anna-or-ardottir-q131279",
+      "name": "Sigríður Anna Þórðardóttir",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7513164"
+    },
+    {
+      "id": "sigurros-orgrimsdottir-q131279",
+      "name": "Sigurrós Þorgrímsdóttir",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7513321"
+    },
+    {
+      "id": "a-alhei-ur-bjarnfre-sdottir-q131279",
       "name": "Aðalheiður Bjarnfreðsdóttir",
       "sitting": true,
       "party_id": "unknown",
@@ -1905,7 +583,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q65335311"
     },
     {
-      "id": "kristin-astgeirsdottir",
+      "id": "gu-run-ogmundsdottir-q131279",
+      "name": "Guðrún Ögmundsdóttir",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q65335472"
+    },
+    {
+      "id": "kristin-astgeirsdottir-q131279",
       "name": "Kristin Astgeirsdottir",
       "sitting": true,
       "party_id": "unknown",
@@ -1918,7 +609,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q65335601"
     },
     {
-      "id": "rannveig-thorsteinsdottir",
+      "id": "rannveig-thorsteinsdottir-q131279",
       "name": "Rannveig THorsteinsdottir",
       "sitting": true,
       "party_id": "unknown",
@@ -1931,7 +622,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q65335693"
     },
     {
-      "id": "sigurlaug-bjarnadottir",
+      "id": "sigurlaug-bjarnadottir-q131279",
       "name": "Sigurlaug Bjarnadóttir",
       "sitting": true,
       "party_id": "unknown",
@@ -1944,11 +635,193 @@
       "roster_url": "http://www.wikidata.org/entity/Q65335743"
     },
     {
-      "id": "johanna-sigur-ardottir",
-      "name": "Jóhanna Sigurðardóttir",
+      "id": "haraldur-einarsson-q131279",
+      "name": "Haraldur Einarsson",
+      "sitting": true,
+      "party_id": "progressive-party",
+      "caucus": "Progressive Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16103460"
+    },
+    {
+      "id": "bjarni-sn-bjornsson-q131279",
+      "name": "Bjarni Snæbjörnsson",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q118314708"
+    },
+    {
+      "id": "johanna-maria-sigmundsdottir-q131279",
+      "name": "Jóhanna María Sigmundsdóttir",
+      "sitting": true,
+      "party_id": "progressive-party",
+      "caucus": "Progressive Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16334491"
+    },
+    {
+      "id": "sturla-bo-varsson-q131279",
+      "name": "Sturla Böðvarsson",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7629074"
+    },
+    {
+      "id": "anna-kolbrun-arnadottir-q131279",
+      "name": "Anna Kolbrún Árnadóttir",
+      "sitting": true,
+      "party_id": "progressive-party",
+      "caucus": "Progressive Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q51846354"
+    },
+    {
+      "id": "gu-run-larusdottir-q131279",
+      "name": "Guðrún Lárusdóttir",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16426181"
+    },
+    {
+      "id": "vilhjalmur-arnason-q131279",
+      "name": "Vilhjálmur Árnason",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16430083"
+    },
+    {
+      "id": "ingibjorg-h-bjarnason-q131279",
+      "name": "Ingibjörg H. Bjarnason",
+      "sitting": true,
+      "party_id": "conservative-party",
+      "caucus": "Conservative Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16429109"
+    },
+    {
+      "id": "orsteinn-b-s-mundsson-q131279",
+      "name": "Þorsteinn B. Sæmundsson",
+      "sitting": true,
+      "party_id": "progressive-party",
+      "caucus": "Progressive Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16421718"
+    },
+    {
+      "id": "pall-johann-palsson-q131279",
+      "name": "Páll Jóhann Pálsson",
+      "sitting": true,
+      "party_id": "progressive-party",
+      "caucus": "Progressive Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16423821"
+    },
+    {
+      "id": "sigrun-magnusdottir-q131279",
+      "name": "Sigrún Magnúsdóttir",
+      "sitting": true,
+      "party_id": "progressive-party",
+      "caucus": "Progressive Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16425503"
+    },
+    {
+      "id": "karl-gar-arsson-q131279",
+      "name": "Karl Garðarsson",
+      "sitting": true,
+      "party_id": "progressive-party",
+      "caucus": "Progressive Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16430033"
+    },
+    {
+      "id": "arna-lara-jonsdottir-q131279",
+      "name": "Arna Lára Jónsdóttir",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q120609631"
+    },
+    {
+      "id": "ossur-skarphe-insson-q131279",
+      "name": "Össur Skarphéðinsson",
+      "sitting": true,
+      "party_id": "social-democratic-alliance",
+      "caucus": "Social Democratic Alliance",
+      "constituency_label": "Reykjavík North",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58123"
+    },
+    {
+      "id": "johanna-sigur-ardottir-q131279",
+      "name": "Jóhanna Sigurðardóttir",
+      "sitting": true,
+      "party_id": "social-democratic-party",
+      "caucus": "Social Democratic Party",
       "constituency_label": "",
       "chamber": "Althing",
       "lang": [
@@ -1957,8 +830,164 @@
       "roster_url": "http://www.wikidata.org/entity/Q57772"
     },
     {
-      "id": "ossur-skarphe-insson",
-      "name": "Össur Skarphéðinsson",
+      "id": "olafur-ragnar-grimsson-q131279",
+      "name": "Ólafur Ragnar Grímsson",
+      "sitting": true,
+      "party_id": "people-s-alliance",
+      "caucus": "People's Alliance",
+      "constituency_label": "Reykjavik Constituency",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57284"
+    },
+    {
+      "id": "ragnar-arnalds-q131279",
+      "name": "Ragnar Arnalds",
+      "sitting": true,
+      "party_id": "left-green-movement",
+      "caucus": "Left-Green Movement",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q338734"
+    },
+    {
+      "id": "magnus-stefansson-q131279",
+      "name": "Magnús Stefánsson",
+      "sitting": true,
+      "party_id": "progressive-party",
+      "caucus": "Progressive Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6732262"
+    },
+    {
+      "id": "geir-haarde-q131279",
+      "name": "Geir Haarde",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q202032"
+    },
+    {
+      "id": "jon-baldvin-hannibalsson-q131279",
+      "name": "Jón Baldvin Hannibalsson",
+      "sitting": true,
+      "party_id": "union-of-liberals-and-leftists",
+      "caucus": "Union of Liberals and Leftists",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1715045"
+    },
+    {
+      "id": "sigmundur-ernir-runarsson-q131279",
+      "name": "Sigmundur Ernir Rúnarsson",
+      "sitting": true,
+      "party_id": "social-democratic-alliance",
+      "caucus": "Social Democratic Alliance",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2285056"
+    },
+    {
+      "id": "benedikt-sigur-sson-grondal-q131279",
+      "name": "Benedikt Sigurðsson Gröndal",
+      "sitting": true,
+      "party_id": "social-democratic-party",
+      "caucus": "Social Democratic Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q712686"
+    },
+    {
+      "id": "ingibjorg-solrun-gisladottir-q131279",
+      "name": "Ingibjörg Sólrún Gísladóttir",
+      "sitting": true,
+      "party_id": "social-democratic-alliance",
+      "caucus": "Social Democratic Alliance",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q262299"
+    },
+    {
+      "id": "orhildur-orleifsdottir-q131279",
+      "name": "Þórhildur Þorleifsdóttir",
+      "sitting": true,
+      "party_id": "women-s-list",
+      "caucus": "Women's List",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q335850"
+    },
+    {
+      "id": "orunn-sveinbjarnardottir-q131279",
+      "name": "Þórunn Sveinbjarnardóttir",
+      "sitting": true,
+      "party_id": "women-s-list",
+      "caucus": "Women's List",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q335921"
+    },
+    {
+      "id": "helgi-hjorvar-q131279",
+      "name": "Helgi Hjörvar",
+      "sitting": true,
+      "party_id": "social-democratic-alliance",
+      "caucus": "Social Democratic Alliance",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q463525"
+    },
+    {
+      "id": "kristjan-l-moller-q131279",
+      "name": "Kristján L. Möller",
+      "sitting": true,
+      "party_id": "social-democratic-alliance",
+      "caucus": "Social Democratic Alliance",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q463602"
+    },
+    {
+      "id": "jon-sigur-sson-q131279",
+      "name": "Jón Sigurðsson",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -1967,7 +996,2620 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q58123"
+      "roster_url": "http://www.wikidata.org/entity/Q321275"
+    },
+    {
+      "id": "bjarni-benediktsson-q131279",
+      "name": "Bjarni Benediktsson",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q561818"
+    },
+    {
+      "id": "johann-hafstein-q131279",
+      "name": "Jóhann Hafstein",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q984026"
+    },
+    {
+      "id": "halldor-asgrimsson-q131279",
+      "name": "Halldór Ásgrímsson",
+      "sitting": true,
+      "party_id": "progressive-party",
+      "caucus": "Progressive Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q208879"
+    },
+    {
+      "id": "sigurjon-or-arson-q131279",
+      "name": "Sigurjón Þórðarson",
+      "sitting": true,
+      "party_id": "liberal-party",
+      "caucus": "Liberal Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1480281"
+    },
+    {
+      "id": "bjorn-valur-gislason-q131279",
+      "name": "Björn Valur Gíslason",
+      "sitting": true,
+      "party_id": "left-green-movement",
+      "caucus": "Left-Green Movement",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q879755"
+    },
+    {
+      "id": "jonas-arnason-q131279",
+      "name": "Jónas Árnason",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1715064"
+    },
+    {
+      "id": "bjarni-har-arson-q131279",
+      "name": "Bjarni Harðarson",
+      "sitting": true,
+      "party_id": "progressive-party",
+      "caucus": "Progressive Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4919576"
+    },
+    {
+      "id": "sveinn-bjornsson-q131279",
+      "name": "Sveinn Björnsson",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q207206"
+    },
+    {
+      "id": "bjorn-m-olsen-q131279",
+      "name": "Björn M. Ólsen",
+      "sitting": true,
+      "party_id": "home-rule-party",
+      "caucus": "Home Rule Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q879688"
+    },
+    {
+      "id": "hjalmar-jonsson-q131279",
+      "name": "Hjálmar Jónsson",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5873298"
+    },
+    {
+      "id": "ragnhildur-helgadottir-q131279",
+      "name": "Ragnhildur Helgadóttir",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q470222"
+    },
+    {
+      "id": "grimur-thomsen-q131279",
+      "name": "Grímur Thomsen",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3962335"
+    },
+    {
+      "id": "johannes-ur-kotlum-q131279",
+      "name": "Jóhannes úr Kötlum",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q712630"
+    },
+    {
+      "id": "emil-jonsson-q131279",
+      "name": "Emil Jónsson",
+      "sitting": true,
+      "party_id": "social-democratic-party",
+      "caucus": "Social Democratic Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q631523"
+    },
+    {
+      "id": "ingibjorg-palmadottir-q131279",
+      "name": "Ingibjörg Pálmadóttir",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6032483"
+    },
+    {
+      "id": "hjalmar-arnason-q131279",
+      "name": "Hjálmar Árnason",
+      "sitting": true,
+      "party_id": "progressive-party",
+      "caucus": "Progressive Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3138791"
+    },
+    {
+      "id": "lu-vik-geirsson-q131279",
+      "name": "Lúðvík Geirsson",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6711469"
+    },
+    {
+      "id": "atli-gislason-q131279",
+      "name": "Atli Gíslason",
+      "sitting": true,
+      "party_id": "left-green-movement",
+      "caucus": "Left-Green Movement",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q757377"
+    },
+    {
+      "id": "pall-melste-q131279",
+      "name": "Páll Melsteð",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7264055"
+    },
+    {
+      "id": "petur-ottesen-q131279",
+      "name": "Pétur Ottesen",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7264741"
+    },
+    {
+      "id": "skuli-helgason-q131279",
+      "name": "Skúli Helgason",
+      "sitting": true,
+      "party_id": "social-democratic-alliance",
+      "caucus": "Social Democratic Alliance",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1279631"
+    },
+    {
+      "id": "einar-kristinn-gu-finnsson-q131279",
+      "name": "Einar Kristinn Guðfinnsson",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1305893"
+    },
+    {
+      "id": "jon-bjarnason-q131279",
+      "name": "Jón Bjarnason",
+      "sitting": true,
+      "party_id": "left-green-movement",
+      "caucus": "Left-Green Movement",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q463598"
+    },
+    {
+      "id": "gu-mundur-steingrimsson-q131279",
+      "name": "Guðmundur Steingrímsson",
+      "sitting": true,
+      "party_id": "bright-future",
+      "caucus": "Bright Future",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1557755"
+    },
+    {
+      "id": "bjorn-bjarnason-q131279",
+      "name": "Björn Bjarnason",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q879568"
+    },
+    {
+      "id": "bjorn-jonsson-q131279",
+      "name": "Björn Jónsson",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q879667"
+    },
+    {
+      "id": "steingrimur-j-sigfusson-q131279",
+      "name": "Steingrímur J. Sigfússon",
+      "sitting": true,
+      "party_id": "left-green-movement",
+      "caucus": "Left-Green Movement",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q511882"
+    },
+    {
+      "id": "gu-bjartur-hannesson-q131279",
+      "name": "Guðbjartur Hannesson",
+      "sitting": true,
+      "party_id": "social-democratic-alliance",
+      "caucus": "Social Democratic Alliance",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1557723"
+    },
+    {
+      "id": "bergur-sigurbjornsson-q131279",
+      "name": "Bergur Sigurbjörnsson",
+      "sitting": true,
+      "party_id": "national-preservation-party",
+      "caucus": "National Preservation Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4891737"
+    },
+    {
+      "id": "tryggvi-or-herbertsson-q131279",
+      "name": "Tryggvi Þór Herbertsson",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q378310"
+    },
+    {
+      "id": "olina-orvar-ardottir-q131279",
+      "name": "Ólína Þorvarðardóttir",
+      "sitting": true,
+      "party_id": "social-democratic-alliance",
+      "caucus": "Social Democratic Alliance",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q293062"
+    },
+    {
+      "id": "vigdis-hauksdottir-q131279",
+      "name": "Vigdís Hauksdóttir",
+      "sitting": true,
+      "party_id": "progressive-party",
+      "caucus": "Progressive Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q540071"
+    },
+    {
+      "id": "davi-oddsson-q131279",
+      "name": "Davíð Oddsson",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q298030"
+    },
+    {
+      "id": "ogmundur-jonasson-q131279",
+      "name": "Ögmundur Jónasson",
+      "sitting": true,
+      "party_id": "left-green-movement",
+      "caucus": "Left-Green Movement",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q294666"
+    },
+    {
+      "id": "brynjolfur-bjarnason-q131279",
+      "name": "Brynjólfur Bjarnason",
+      "sitting": true,
+      "party_id": "communist-party-of-iceland",
+      "caucus": "Communist Party of Iceland",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2029076"
+    },
+    {
+      "id": "margret-tryggvadottir-q131279",
+      "name": "Margrét Tryggvadóttir",
+      "sitting": true,
+      "party_id": "citizens-movement",
+      "caucus": "Citizens' Movement",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q539440"
+    },
+    {
+      "id": "ragnhei-ur-rikhar-sdottir-q131279",
+      "name": "Ragnheiður Ríkharðsdóttir",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1328085"
+    },
+    {
+      "id": "solveig-petursdottir-q131279",
+      "name": "Sólveig Pétursdóttir",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q546985"
+    },
+    {
+      "id": "gu-run-helgadottir-q131279",
+      "name": "Guðrún Helgadóttir",
+      "sitting": true,
+      "party_id": "people-s-alliance",
+      "caucus": "People's Alliance",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q540138"
+    },
+    {
+      "id": "gu-fri-ur-lilja-gretarsdottir-q131279",
+      "name": "Guðfríður Lilja Grétarsdóttir",
+      "sitting": true,
+      "party_id": "left-green-movement",
+      "caucus": "Left-Green Movement",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q539484"
+    },
+    {
+      "id": "lilja-rafney-magnusdottir-q131279",
+      "name": "Lilja Rafney Magnúsdóttir",
+      "sitting": true,
+      "party_id": "left-green-movement",
+      "caucus": "Left-Green Movement",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q539467"
+    },
+    {
+      "id": "elin-hirst-q131279",
+      "name": "Elín Hirst",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5368677"
+    },
+    {
+      "id": "katrin-juliusdottir-q131279",
+      "name": "Katrín Júlíusdóttir",
+      "sitting": true,
+      "party_id": "social-democratic-alliance",
+      "caucus": "Social Democratic Alliance",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q539421"
+    },
+    {
+      "id": "jonina-ros-gu-mundsdottir-q131279",
+      "name": "Jónína Rós Guðmundsdóttir",
+      "sitting": true,
+      "party_id": "social-democratic-alliance",
+      "caucus": "Social Democratic Alliance",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q540028"
+    },
+    {
+      "id": "sigri-ur-ingibjorg-ingadottir-q131279",
+      "name": "Sigríður Ingibjörg Ingadóttir",
+      "sitting": true,
+      "party_id": "social-democratic-alliance",
+      "caucus": "Social Democratic Alliance",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q540109"
+    },
+    {
+      "id": "valger-ur-bjarnadottir-q131279",
+      "name": "Valgerður Bjarnadóttir",
+      "sitting": true,
+      "party_id": "social-democratic-alliance",
+      "caucus": "Social Democratic Alliance",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q540116"
+    },
+    {
+      "id": "jon-halldor-kristjansson-q131279",
+      "name": "Jón Halldór Kristjánsson",
+      "sitting": true,
+      "party_id": "progressive-party",
+      "caucus": "Progressive Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6320343"
+    },
+    {
+      "id": "birgir-armannsson-q131279",
+      "name": "Birgir Ármannsson",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q865180"
+    },
+    {
+      "id": "ragnhei-ur-elin-arnadottir-q131279",
+      "name": "Ragnheiður Elín Árnadóttir",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2127304"
+    },
+    {
+      "id": "birkir-jon-jonsson-q131279",
+      "name": "Birkir Jón Jónsson",
+      "sitting": true,
+      "party_id": "progressive-party",
+      "caucus": "Progressive Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q865674"
+    },
+    {
+      "id": "hoskuldur-orhallsson-q131279",
+      "name": "Höskuldur Þórhallsson",
+      "sitting": true,
+      "party_id": "progressive-party",
+      "caucus": "Progressive Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1651907"
+    },
+    {
+      "id": "illugi-gunnarsson-q131279",
+      "name": "Illugi Gunnarsson",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1658872"
+    },
+    {
+      "id": "gu-jon-arnar-kristjansson-q131279",
+      "name": "Guðjón Arnar Kristjánsson",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q553616"
+    },
+    {
+      "id": "halldor-blondal-q131279",
+      "name": "Halldór Blöndal",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3481195"
+    },
+    {
+      "id": "sverrir-hermannsson-q131279",
+      "name": "Sverrir Hermannsson",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3481185"
+    },
+    {
+      "id": "olof-nordal-q131279",
+      "name": "Ólöf Nordal",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "Northeast",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q293066"
+    },
+    {
+      "id": "gylfi-orsteinsson-gislason-q131279",
+      "name": "Gylfi Þorsteinsson Gíslason",
+      "sitting": true,
+      "party_id": "social-democratic-party",
+      "caucus": "Social Democratic Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3482246"
+    },
+    {
+      "id": "orger-ur-katrin-gunnarsdottir-q131279",
+      "name": "Þorgerður Katrín Gunnarsdóttir",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "Southwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q139225"
+    },
+    {
+      "id": "jon-gunnarsson-q131279",
+      "name": "Jón Gunnarsson",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1715048"
+    },
+    {
+      "id": "jonina-bjartmarz-q131279",
+      "name": "Jónína Bjartmarz",
+      "sitting": true,
+      "party_id": "progressive-party",
+      "caucus": "Progressive Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1715069"
+    },
+    {
+      "id": "salome-orkelsdottir-q131279",
+      "name": "Salome Þorkelsdóttir",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2214870"
+    },
+    {
+      "id": "siv-fri-leifsdottir-q131279",
+      "name": "Siv Friðleifsdóttir",
+      "sitting": true,
+      "party_id": "progressive-party",
+      "caucus": "Progressive Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q437932"
+    },
+    {
+      "id": "robert-marshall-q131279",
+      "name": "Róbert Marshall",
+      "sitting": true,
+      "party_id": "social-democratic-alliance",
+      "caucus": "Social Democratic Alliance",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2179205"
+    },
+    {
+      "id": "arni-mathiesen-q131279",
+      "name": "Árni Mathiesen",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q252264"
+    },
+    {
+      "id": "petur-blondal-q131279",
+      "name": "Pétur Blöndal",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q446307"
+    },
+    {
+      "id": "gunnar-birgisson-q131279",
+      "name": "Gunnar Birgisson",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5618946"
+    },
+    {
+      "id": "sigur-ur-einarsson-i-holti-q131279",
+      "name": "Sigurður Einarsson í Holti",
+      "sitting": true,
+      "party_id": "social-democratic-party",
+      "caucus": "Social Democratic Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1380813"
+    },
+    {
+      "id": "hannibal-valdimarsson-q131279",
+      "name": "Hannibal Valdimarsson",
+      "sitting": true,
+      "party_id": "union-of-liberals-and-leftists",
+      "caucus": "Union of Liberals and Leftists",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3480195"
+    },
+    {
+      "id": "svandis-svavarsdottir-q131279",
+      "name": "Svandís Svavarsdóttir",
+      "sitting": true,
+      "party_id": "left-green-movement",
+      "caucus": "Left-Green Movement",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q438056"
+    },
+    {
+      "id": "oddny-gu-bjorg-har-ardottir-q131279",
+      "name": "Oddný Guðbjörg Harðardóttir",
+      "sitting": true,
+      "party_id": "social-democratic-alliance",
+      "caucus": "Social Democratic Alliance",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q437989"
+    },
+    {
+      "id": "alfhei-ur-ingadottir-q131279",
+      "name": "Álfheiður Ingadóttir",
+      "sitting": true,
+      "party_id": "left-green-movement",
+      "caucus": "Left-Green Movement",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q250619"
+    },
+    {
+      "id": "orsteinn-palsson-q131279",
+      "name": "Þorsteinn Pálsson",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q335707"
+    },
+    {
+      "id": "albert-gu-mundsson-q131279",
+      "name": "Albert Guðmundsson",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1397070"
+    },
+    {
+      "id": "geir-hallgrimsson-q131279",
+      "name": "Geir Hallgrímsson",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q962090"
+    },
+    {
+      "id": "arni-or-sigur-sson-q131279",
+      "name": "Árni Þór Sigurðsson",
+      "sitting": true,
+      "party_id": "left-green-movement",
+      "caucus": "Left-Green Movement",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q252296"
+    },
+    {
+      "id": "arni-pall-arnason-q131279",
+      "name": "Árni Páll Árnason",
+      "sitting": true,
+      "party_id": "social-democratic-alliance",
+      "caucus": "Social Democratic Alliance",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q252271"
+    },
+    {
+      "id": "asta-ragnhei-ur-johannesdottir-q131279",
+      "name": "Ásta Ragnheiður Jóhannesdóttir",
+      "sitting": true,
+      "party_id": "social-democratic-alliance",
+      "caucus": "Social Democratic Alliance",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q252586"
+    },
+    {
+      "id": "kristjan-or-juliusson-q131279",
+      "name": "Kristján Þór Júlíusson",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1789402"
+    },
+    {
+      "id": "or-saari-q131279",
+      "name": "Þór Saari",
+      "sitting": true,
+      "party_id": "citizens-movement",
+      "caucus": "Citizens' Movement",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q335776"
+    },
+    {
+      "id": "vilmundur-gylfason-q131279",
+      "name": "Vilmundur Gylfason",
+      "sitting": true,
+      "party_id": "social-democratic-party",
+      "caucus": "Social Democratic Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q962185"
+    },
+    {
+      "id": "stefan-johann-stefansson-q131279",
+      "name": "Stefán Jóhann Stefánsson",
+      "sitting": true,
+      "party_id": "social-democratic-party",
+      "caucus": "Social Democratic Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q962257"
+    },
+    {
+      "id": "sigur-ur-kari-kristjansson-q131279",
+      "name": "Sigurður Kári Kristjánsson",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2285487"
+    },
+    {
+      "id": "sigmundur-davi-gunnlaugsson-q131279",
+      "name": "Sigmundur Davíð Gunnlaugsson",
+      "sitting": true,
+      "party_id": "centre-party",
+      "caucus": "Centre Party",
+      "constituency_label": "Reykjavík North",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q463588"
+    },
+    {
+      "id": "birgitta-jonsdottir-q131279",
+      "name": "Birgitta Jónsdóttir",
+      "sitting": true,
+      "party_id": "pirate-party",
+      "caucus": "Pirate Party",
+      "constituency_label": "Reykjavík South",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q144270"
+    },
+    {
+      "id": "arni-johnsen-q131279",
+      "name": "Árni Johnsen",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "South Constituency",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q252258"
+    },
+    {
+      "id": "asbjorn-ottarsson-q131279",
+      "name": "Ásbjörn Óttarsson",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "Northwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q252486"
+    },
+    {
+      "id": "sigur-ur-ingi-johannsson-q131279",
+      "name": "Sigurður Ingi Jóhannsson",
+      "sitting": true,
+      "party_id": "progressive-party",
+      "caucus": "Progressive Party",
+      "constituency_label": "South Constituency",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q201075"
+    },
+    {
+      "id": "asmundur-einar-da-ason-q131279",
+      "name": "Ásmundur Einar Daðason",
+      "sitting": true,
+      "party_id": "left-green-movement",
+      "caucus": "Left-Green Movement",
+      "constituency_label": "Northwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q252565"
+    },
+    {
+      "id": "uri-ur-backman-q131279",
+      "name": "Þuríður Backman",
+      "sitting": true,
+      "party_id": "people-s-alliance",
+      "caucus": "People's Alliance",
+      "constituency_label": "Northeast",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q335734"
+    },
+    {
+      "id": "rainn-bertelsson-q131279",
+      "name": "Þráinn Bertelsson",
+      "sitting": true,
+      "party_id": "citizens-movement",
+      "caucus": "Citizens' Movement",
+      "constituency_label": "Reykjavík North",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q200619"
+    },
+    {
+      "id": "valger-ur-sverrisdottir-q131279",
+      "name": "Valgerður Sverrisdóttir",
+      "sitting": true,
+      "party_id": "progressive-party",
+      "caucus": "Progressive Party",
+      "constituency_label": "Northeast",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q467509"
+    },
+    {
+      "id": "katrin-jakobsdottir-q131279",
+      "name": "Katrín Jakobsdóttir",
+      "sitting": true,
+      "party_id": "left-green-movement",
+      "caucus": "Left-Green Movement",
+      "constituency_label": "Reykjavík North",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q467464"
+    },
+    {
+      "id": "lilja-mosesdottir-q131279",
+      "name": "Lilja Mósesdóttir",
+      "sitting": true,
+      "party_id": "left-green-movement",
+      "caucus": "Left-Green Movement",
+      "constituency_label": "Reykjavík South",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q467437"
+    },
+    {
+      "id": "kolbrun-halldorsdottir-q131279",
+      "name": "Kolbrún Halldórsdóttir",
+      "sitting": true,
+      "party_id": "left-green-movement",
+      "caucus": "Left-Green Movement",
+      "constituency_label": "Reykjavík South",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q467455"
+    },
+    {
+      "id": "steinunn-valdis-oskarsdottir-q131279",
+      "name": "Steinunn Valdís Óskarsdóttir",
+      "sitting": true,
+      "party_id": "social-democratic-alliance",
+      "caucus": "Social Democratic Alliance",
+      "constituency_label": "Reykjavík North",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q467461"
+    },
+    {
+      "id": "unnur-bra-konra-sdottir-q131279",
+      "name": "Unnur Brá Konráðsdóttir",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "South Constituency",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q950297"
+    },
+    {
+      "id": "agust-olafur-agustsson-q131279",
+      "name": "Ágúst Ólafur Ágústsson",
+      "sitting": true,
+      "party_id": "social-democratic-alliance",
+      "caucus": "Social Democratic Alliance",
+      "constituency_label": "Reykjavík South",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5543712"
+    },
+    {
+      "id": "smari-mccarthy-q131279",
+      "name": "Smári McCarthy",
+      "sitting": true,
+      "party_id": "pirate-party",
+      "caucus": "Pirate Party",
+      "constituency_label": "South Constituency",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4269093"
+    },
+    {
+      "id": "jon-or-olafsson-q131279",
+      "name": "Jón Þór Ólafsson",
+      "sitting": true,
+      "party_id": "pirate-party",
+      "caucus": "Pirate Party",
+      "constituency_label": "Reykjavík South",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13370916"
+    },
+    {
+      "id": "eyglo-har-ardottir-q131279",
+      "name": "Eygló Harðardóttir",
+      "sitting": true,
+      "party_id": "progressive-party",
+      "caucus": "Progressive Party",
+      "constituency_label": "Southwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1385796"
+    },
+    {
+      "id": "gunnar-bragi-sveinsson-q131279",
+      "name": "Gunnar Bragi Sveinsson",
+      "sitting": true,
+      "party_id": "progressive-party",
+      "caucus": "Progressive Party",
+      "constituency_label": "Northwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5618945"
+    },
+    {
+      "id": "ari-trausti-gu-mundsson-q131279",
+      "name": "Ari Trausti Guðmundsson",
+      "sitting": true,
+      "party_id": "left-green-movement",
+      "caucus": "Left-Green Movement",
+      "constituency_label": "South Constituency",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q653949"
+    },
+    {
+      "id": "pawel-bartoszek-q131279",
+      "name": "Pawel Bartoszek",
+      "sitting": true,
+      "party_id": "liberal-reform-party",
+      "caucus": "Liberal Reform Party",
+      "constituency_label": "Reykjavík South",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q10313820"
+    },
+    {
+      "id": "willum-or-orsson-q131279",
+      "name": "Willum Þór Þórsson",
+      "sitting": true,
+      "party_id": "progressive-party",
+      "caucus": "Progressive Party",
+      "constituency_label": "Southwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3481103"
+    },
+    {
+      "id": "bjorgvin-g-sigur-sson-q131279",
+      "name": "Björgvin G. Sigurðsson",
+      "sitting": true,
+      "party_id": "social-democratic-alliance",
+      "caucus": "Social Democratic Alliance",
+      "constituency_label": "South Constituency",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q879490"
+    },
+    {
+      "id": "mor-ur-arnason-q131279",
+      "name": "Mörður Árnason",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Reykjavík North",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6950370"
+    },
+    {
+      "id": "valger-ur-gunnarsdottir-q131279",
+      "name": "Valgerður Gunnarsdóttir",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "Northeast",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5103475"
+    },
+    {
+      "id": "gu-ni-agustsson-q131279",
+      "name": "Guðni Ágústsson",
+      "sitting": true,
+      "party_id": "progressive-party",
+      "caucus": "Progressive Party",
+      "constituency_label": "South Constituency",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1036680"
+    },
+    {
+      "id": "pall-magnusson-q131279",
+      "name": "Páll Magnússon",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "South Constituency",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7264053"
+    },
+    {
+      "id": "gu-laugur-or-or-arson-q131279",
+      "name": "Guðlaugur Þór Þórðarson",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "Reykjavík North",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1557735"
+    },
+    {
+      "id": "hanna-birna-kristjansdottir-q131279",
+      "name": "Hanna Birna Kristjánsdóttir",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "Reykjavík South",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2276642"
+    },
+    {
+      "id": "magnus-orri-schram-q131279",
+      "name": "Magnús Orri Schram",
+      "sitting": true,
+      "party_id": "social-democratic-alliance",
+      "caucus": "Social Democratic Alliance",
+      "constituency_label": "Southwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1304334"
+    },
+    {
+      "id": "einar-oddur-kristjansson-q131279",
+      "name": "Einar Oddur Kristjánsson",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Northwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16422960"
+    },
+    {
+      "id": "brynjar-nielsson-q131279",
+      "name": "Brynjar Níelsson",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "Reykjavík North",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15630813"
+    },
+    {
+      "id": "aslaug-arna-sigurbjornsdottir-q131279",
+      "name": "Áslaug Arna Sigurbjörnsdóttir",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "Reykjavík North",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q27988721"
+    },
+    {
+      "id": "bjork-gu-jonsdottir-q131279",
+      "name": "Björk Guðjónsdóttir",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "South Constituency",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16421265"
+    },
+    {
+      "id": "lu-vik-bergvinsson-q131279",
+      "name": "Lúðvík Bergvinsson",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "South Constituency",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16421493"
+    },
+    {
+      "id": "gretar-mar-jonsson-q131279",
+      "name": "Grétar Mar Jónsson",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "South Constituency",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16425617"
+    },
+    {
+      "id": "vilhjalmur-bjarnason-q131279",
+      "name": "Vilhjálmur Bjarnason",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "Southwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16430061"
+    },
+    {
+      "id": "asta-helgadottir-q131279",
+      "name": "Ásta Helgadóttir",
+      "sitting": true,
+      "party_id": "pirate-party",
+      "caucus": "Pirate Party",
+      "constituency_label": "Reykjavík South",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q22236740"
+    },
+    {
+      "id": "asta-moller-q131279",
+      "name": "Ásta Möller",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Reykjavík South",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16419657"
+    },
+    {
+      "id": "oli-bjorn-karason-q131279",
+      "name": "Óli Björn Kárason",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "Southwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q31749123"
+    },
+    {
+      "id": "ellert-bjorgvinsson-schram-q131279",
+      "name": "Ellert Björgvinsson Schram",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "Reykjavík North",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15967307"
+    },
+    {
+      "id": "njall-trausti-fri-bertsson-q131279",
+      "name": "Njáll Trausti Friðbertsson",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "Northeast",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q31749109"
+    },
+    {
+      "id": "andres-ingi-jonsson-q131279",
+      "name": "Andrés Ingi Jónsson",
+      "sitting": true,
+      "party_id": "left-green-movement",
+      "caucus": "Left-Green Movement",
+      "constituency_label": "Reykjavík North",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q27688679"
+    },
+    {
+      "id": "ordis-kolbrun-r-gylfadottir-q131279",
+      "name": "Þórdís Kolbrún R. Gylfadóttir",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "Northwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28734624"
+    },
+    {
+      "id": "lineik-anna-s-varsdottir-q131279",
+      "name": "Líneik Anna Sævarsdóttir",
+      "sitting": true,
+      "party_id": "progressive-party",
+      "caucus": "Progressive Party",
+      "constituency_label": "Northeast",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16421281"
+    },
+    {
+      "id": "kjartan-olafsson-q131279",
+      "name": "Kjartan Ólafsson",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "South Constituency",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13607417"
+    },
+    {
+      "id": "sigri-ur-a-andersen-q131279",
+      "name": "Sigríður Á. Andersen",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "Reykjavík South",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q23059628"
+    },
+    {
+      "id": "einar-mar-sigur-arson-q131279",
+      "name": "Einar Már Sigurðarson",
+      "sitting": true,
+      "party_id": "social-democratic-alliance",
+      "caucus": "Social Democratic Alliance",
+      "constituency_label": "Northeast",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16422955"
+    },
+    {
+      "id": "kristinn-h-gunnarsson-q131279",
+      "name": "Kristinn H. Gunnarsson",
+      "sitting": true,
+      "party_id": "progressive-party",
+      "caucus": "Progressive Party",
+      "constituency_label": "Northwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16419044"
+    },
+    {
+      "id": "eva-pandora-baldursdottir-q131279",
+      "name": "Eva Pandora Baldursdóttir",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Northwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q30053077"
+    },
+    {
+      "id": "einar-brynjolfsson-q131279",
+      "name": "Einar Brynjólfsson",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Northeast",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q30015880"
+    },
+    {
+      "id": "rosa-bjork-brynjolfsdottir-q131279",
+      "name": "Rósa Björk Brynjólfsdóttir",
+      "sitting": true,
+      "party_id": "left-green-movement",
+      "caucus": "Left-Green Movement",
+      "constituency_label": "Southwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q14894348"
+    },
+    {
+      "id": "silja-dogg-gunnarsdottir-q131279",
+      "name": "Silja Dögg Gunnarsdóttir",
+      "sitting": true,
+      "party_id": "progressive-party",
+      "caucus": "Progressive Party",
+      "constituency_label": "South Constituency",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16425990"
+    },
+    {
+      "id": "gu-jon-s-brjansson-q131279",
+      "name": "Guðjón S. Brjánsson",
+      "sitting": true,
+      "party_id": "social-democratic-alliance",
+      "caucus": "Social Democratic Alliance",
+      "constituency_label": "Northwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q31749122"
+    },
+    {
+      "id": "orhildur-sunna-varsdottir-q131279",
+      "name": "Þórhildur Sunna Ævarsdóttir",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Southwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q27956749"
+    },
+    {
+      "id": "kolbeinn-ottarsson-proppe-q131279",
+      "name": "Kolbeinn Óttarsson Proppé",
+      "sitting": true,
+      "party_id": "left-green-movement",
+      "caucus": "Left-Green Movement",
+      "constituency_label": "Reykjavík South",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q31749113"
+    },
+    {
+      "id": "benedikt-johannesson-q131279",
+      "name": "Benedikt Jóhannesson",
+      "sitting": true,
+      "party_id": "liberal-reform-party",
+      "caucus": "Liberal Reform Party",
+      "constituency_label": "Northeast",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24884989"
+    },
+    {
+      "id": "bryndis-haraldsdottir-q131279",
+      "name": "Bryndís Haraldsdóttir",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "Southwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28927547"
+    },
+    {
+      "id": "bjorn-levi-gunnarsson-q131279",
+      "name": "Björn Leví Gunnarsson",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Reykjavík North",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28056970"
+    },
+    {
+      "id": "karl-v-matthiasson-q131279",
+      "name": "Karl V. Matthíasson",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Northwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13605967"
+    },
+    {
+      "id": "jon-steindor-valdimarsson-q131279",
+      "name": "Jón Steindór Valdimarsson",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Southwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q31749126"
+    },
+    {
+      "id": "theodora-s-orsteinsdottir-q131279",
+      "name": "Theodóra S. Þorsteinsdóttir",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Southwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q31749127"
+    },
+    {
+      "id": "orsteinn-viglundsson-q131279",
+      "name": "Þorsteinn Víglundsson",
+      "sitting": true,
+      "party_id": "liberal-reform-party",
+      "caucus": "Liberal Reform Party",
+      "constituency_label": "Reykjavík North",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28659343"
+    },
+    {
+      "id": "logi-mar-einarsson-q131279",
+      "name": "Logi Már Einarsson",
+      "sitting": true,
+      "party_id": "social-democratic-alliance",
+      "caucus": "Social Democratic Alliance",
+      "constituency_label": "Northeast",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q27901964"
+    },
+    {
+      "id": "teitur-bjorn-einarsson-q131279",
+      "name": "Teitur Björn Einarsson",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Northwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q31749117"
+    },
+    {
+      "id": "lilja-dogg-alfre-sdottir-q131279",
+      "name": "Lilja Dögg Alfreðsdóttir",
+      "sitting": true,
+      "party_id": "progressive-party",
+      "caucus": "Progressive Party",
+      "constituency_label": "Reykjavík South",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q23753778"
+    },
+    {
+      "id": "gunnar-svavarsson-q131279",
+      "name": "Gunnar Svavarsson",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Southwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16425816"
+    },
+    {
+      "id": "jona-solveig-elinardottir-q131279",
+      "name": "Jóna Sólveig Elínardóttir",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "South Constituency",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q31749121"
+    },
+    {
+      "id": "armann-kr-olafsson-q131279",
+      "name": "Ármann Kr. Ólafsson",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "Southwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16419293"
+    },
+    {
+      "id": "halldora-mogensen-q131279",
+      "name": "Halldóra Mogensen",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Reykjavík North",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q31749120"
+    },
+    {
+      "id": "arnbjorg-sveinsdottir-q131279",
+      "name": "Arnbjörg Sveinsdóttir",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Northeast",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16419747"
+    },
+    {
+      "id": "hanna-katrin-fri-riksson-q131279",
+      "name": "Hanna Katrín Friðriksson",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Reykjavík South",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q31749114"
+    },
+    {
+      "id": "gunnar-hrafn-jonsson-q131279",
+      "name": "Gunnar Hrafn Jónsson",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Reykjavík South",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q31749116"
+    },
+    {
+      "id": "nicole-leigh-mosty-q131279",
+      "name": "Nicole Leigh Mosty",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Reykjavík South",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28941997"
+    },
+    {
+      "id": "stefan-vagn-stefansson-q131279",
+      "name": "Stefán Vagn Stefánsson",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Northwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16427250"
+    },
+    {
+      "id": "herdis-or-ardottir-q131279",
+      "name": "Herdís Þórðardóttir",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Northwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16427595"
+    },
+    {
+      "id": "agust-bjarni-gar-arsson-q131279",
+      "name": "Ágúst Bjarni Garðarsson",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Southwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108881947"
+    },
+    {
+      "id": "gisli-rafn-olafsson-q131279",
+      "name": "Gísli Rafn Ólafsson",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Southwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108881948"
+    },
+    {
+      "id": "ingibjorg-olof-isaksen-q131279",
+      "name": "Ingibjörg Ólöf Isaksen",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Northeast",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108856310"
+    },
+    {
+      "id": "berglind-osk-gu-mundsdottir-q131279",
+      "name": "Berglind Ósk Guðmundsdóttir",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Northeast",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108881955"
+    },
+    {
+      "id": "jodis-skuladottir-q131279",
+      "name": "Jódís Skúladóttir",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Northeast",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108881957"
+    },
+    {
+      "id": "gu-finna-s-bjarnadottir-q131279",
+      "name": "Guðfinna S. Bjarnadóttir",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Reykjavík North",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16425985"
+    },
+    {
+      "id": "tomas-a-tomasson-q131279",
+      "name": "Tómas A. Tómasson",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Reykjavík North",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16429256"
+    },
+    {
+      "id": "bjarni-jonsson-q131279",
+      "name": "Bjarni Jónsson",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Northwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108881953"
+    },
+    {
+      "id": "lilja-rannveig-sigurgeirsdottir-q131279",
+      "name": "Lilja Rannveig Sigurgeirsdóttir",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Northwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108881950"
+    },
+    {
+      "id": "kristrun-mjoll-frostadottir-q131279",
+      "name": "Kristrún Mjöll Frostadóttir",
+      "sitting": true,
+      "party_id": "social-democratic-alliance",
+      "caucus": "Social Democratic Alliance",
+      "constituency_label": "Reykjavík South",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108856371"
+    },
+    {
+      "id": "orbjorg-sigri-ur-gunnlaugsdottir-q131279",
+      "name": "Þorbjörg Sigríður Gunnlaugsdóttir",
+      "sitting": true,
+      "party_id": "liberal-reform-party",
+      "caucus": "Liberal Reform Party",
+      "constituency_label": "Reykjavík North",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97260119"
+    },
+    {
+      "id": "gu-brandur-einarsson-q131279",
+      "name": "Guðbrandur Einarsson",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "South Constituency",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108856352"
+    },
+    {
+      "id": "helga-vala-helgadottir-q131279",
+      "name": "Helga Vala Helgadóttir",
+      "sitting": true,
+      "party_id": "social-democratic-alliance",
+      "caucus": "Social Democratic Alliance",
+      "constituency_label": "Reykjavík North",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q59399730"
+    },
+    {
+      "id": "hafdis-hronn-hafsteinsdottir-q131279",
+      "name": "Hafdís Hrönn Hafsteinsdóttir",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "South Constituency",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108881956"
+    },
+    {
+      "id": "johann-fri-rik-fri-riksson-q131279",
+      "name": "Jóhann Friðrik Friðriksson",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "South Constituency",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108881954"
+    },
+    {
+      "id": "johann-pall-johannsson-q131279",
+      "name": "Jóhann Páll Jóhannsson",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Reykjavík North",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108881945"
+    },
+    {
+      "id": "arndis-anna-k-gunnarsdottir-q131279",
+      "name": "Arndís Anna K. Gunnarsdóttir",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Reykjavík South",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108881946"
+    },
+    {
+      "id": "hildur-sverrisdottir-q131279",
+      "name": "Hildur Sverrisdóttir",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Reykjavík South",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108881942"
+    },
+    {
+      "id": "orri-pall-johannsson-q131279",
+      "name": "Orri Páll Jóhannsson",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Reykjavík South",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108881944"
+    },
+    {
+      "id": "berg-or-olason-q131279",
+      "name": "Bergþór Ólason",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "Northwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q55768528"
+    },
+    {
+      "id": "dilja-mist-einarsdottir-q131279",
+      "name": "Diljá Mist Einarsdóttir",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Reykjavík North",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q106713472"
+    },
+    {
+      "id": "jon-magnusson-q131279",
+      "name": "Jón Magnússon",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Reykjavík South",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16429613"
+    },
+    {
+      "id": "helga-sigrun-har-ardottir-q131279",
+      "name": "Helga Sigrún Harðardóttir",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "South Constituency",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q33084005"
+    },
+    {
+      "id": "jakob-frimann-magnusson-q131279",
+      "name": "Jakob Frímann Magnússon",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Northeast",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6125262"
+    },
+    {
+      "id": "inga-s-land-q131279",
+      "name": "Inga Sæland",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Reykjavík South",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q42666551"
+    },
+    {
+      "id": "birgir-orarinsson-q131279",
+      "name": "Birgir Þórarinsson",
+      "sitting": true,
+      "party_id": "progressive-party",
+      "caucus": "Progressive Party",
+      "constituency_label": "South Constituency",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q55768548"
+    },
+    {
+      "id": "svanfri-ur-jonasdottir-q131279",
+      "name": "Svanfríður Jónasdóttir",
+      "sitting": true,
+      "party_id": "social-democratic-alliance",
+      "caucus": "Social Democratic Alliance",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q69524474"
+    },
+    {
+      "id": "gu-mundur-ingi-gu-brandsson-q131279",
+      "name": "Guðmundur Ingi Guðbrandsson",
+      "sitting": true,
+      "party_id": "left-green-movement",
+      "caucus": "Left-Green Movement",
+      "constituency_label": "Southwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q44216756"
+    },
+    {
+      "id": "halla-signy-kristjansdottir-q131279",
+      "name": "Halla Signý Kristjánsdóttir",
+      "sitting": true,
+      "party_id": "progressive-party",
+      "caucus": "Progressive Party",
+      "constituency_label": "Northwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q51536993"
+    },
+    {
+      "id": "gu-mundur-ingi-kristinsson-q131279",
+      "name": "Guðmundur Ingi Kristinsson",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Southwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q85970033"
+    },
+    {
+      "id": "sigmar-gu-mundsson-q131279",
+      "name": "Sigmar Guðmundsson",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Southwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15838819"
+    },
+    {
+      "id": "kristin-halldorsdottir-q131279",
+      "name": "Kristín Halldórsdóttir",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60921240"
+    },
+    {
+      "id": "gu-run-hafsteinsdottir-q131279",
+      "name": "Guðrún Hafsteinsdóttir",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "South Constituency",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108856353"
+    },
+    {
+      "id": "eyjolfur-armannsson-q131279",
+      "name": "Eyjólfur Ármannsson",
+      "sitting": true,
+      "party_id": "people-s-party",
+      "caucus": "People's Party",
+      "constituency_label": "Northwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108856354"
+    },
+    {
+      "id": "orarinn-ingi-petursson-q131279",
+      "name": "Þórarinn Ingi Pétursson",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Northeast",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108510678"
+    },
+    {
+      "id": "asthildur-loa-orsdottir-q131279",
+      "name": "Ásthildur Lóa Þórsdóttir",
+      "sitting": true,
+      "party_id": "people-s-party",
+      "caucus": "People's Party",
+      "constituency_label": "South Constituency",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108856355"
+    },
+    {
+      "id": "svava-jakobsdottir-q131279",
+      "name": "Svava Jakobsdóttir",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q121693"
+    },
+    {
+      "id": "sigur-ur-pall-jonsson-q131279",
+      "name": "Sigurður Páll Jónsson",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Northwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q55768344"
+    },
+    {
+      "id": "katrin-fjeldsted-q131279",
+      "name": "Katrín Fjeldsted",
+      "sitting": true,
+      "party_id": "independence-party",
+      "caucus": "Independence Party",
+      "constituency_label": "Reykjavik Constituency",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16430143"
+    },
+    {
+      "id": "karl-gauti-hjaltason-q131279",
+      "name": "Karl Gauti Hjaltason",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "South Constituency",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q55768509"
+    },
+    {
+      "id": "olafur-isleifsson-q131279",
+      "name": "Ólafur Ísleifsson",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Reykjavík North",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q55768517"
+    },
+    {
+      "id": "olafur-or-gunnarsson-q131279",
+      "name": "Ólafur Þór Gunnarsson",
+      "sitting": true,
+      "party_id": "left-green-movement",
+      "caucus": "Left-Green Movement",
+      "constituency_label": "Southwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q55768494"
+    },
+    {
+      "id": "gu-mundur-andri-thorsson-q131279",
+      "name": "Guðmundur Andri Thorsson",
+      "sitting": true,
+      "party_id": "social-democratic-alliance",
+      "caucus": "Social Democratic Alliance",
+      "constituency_label": "Southwest",
+      "chamber": "Althing",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5623167"
     }
   ]
 }

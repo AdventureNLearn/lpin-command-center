@@ -3,8 +3,53 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q7138943"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q7138943",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q7138943",
+      "label": "Parliament of Trinidad and Tobago",
+      "url": "http://www.ttparliament.org/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q7138943",
+      "label": "Parliament of Trinidad and Tobago (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q7138943",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q3510869",
+      "label": "Senate of Trinidad and Tobago",
+      "url": "http://www.ttparliament.org/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q3510869",
+      "label": "Senate of Trinidad and Tobago (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q3510869",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q2145199",
+      "label": "House of Representatives",
+      "url": "http://www.ttparliament.org/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q2145199",
+      "label": "House of Representatives (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q2145199",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

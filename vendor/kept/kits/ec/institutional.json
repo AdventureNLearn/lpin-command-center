@@ -1,0 +1,44 @@
+{
+  "iso2": "ec",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q736",
+  "bodies": [
+    {
+      "qid": "Q1319595",
+      "label": "National Assembly",
+      "seats": 137,
+      "web": "https://www.asambleanacional.gob.ec/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q21295982",
+      "label": "Member of the National Assembly of Ecuador",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Member of the National Assembly of Ecuador"
+  ],
+  "seats": 137,
+  "items": [
+    {
+      "id": "Q1319595",
+      "name": "National Assembly",
+      "kind": "parliament",
+      "seats": 137,
+      "url": "https://www.asambleanacional.gob.ec/"
+    },
+    {
+      "id": "Q21295982",
+      "name": "Member of the National Assembly of Ecuador",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q21295982"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

@@ -1,7 +1,44 @@
 {
   "iso2": "kr",
   "kit": "institutional",
-  "items": [],
   "incomplete": true,
-  "note": ":8103 claimed institutional_kits = 0."
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q884",
+  "bodies": [
+    {
+      "qid": "Q14850694",
+      "label": "Member of the National Assembly of South Korea",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q494162",
+      "label": "National Assembly",
+      "seats": 300,
+      "web": "https://assembly.go.kr/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Member of the National Assembly of South Korea"
+  ],
+  "seats": 300,
+  "items": [
+    {
+      "id": "Q14850694",
+      "name": "Member of the National Assembly of South Korea",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q14850694"
+    },
+    {
+      "id": "Q494162",
+      "name": "National Assembly",
+      "kind": "parliament",
+      "seats": 300,
+      "url": "https://assembly.go.kr/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

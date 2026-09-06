@@ -3,8 +3,39 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1817866"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1817866",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q19367406",
+      "label": "Member of the House of Representatives of Malta (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q19367406",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q7450029",
+      "label": "Senate of Malta (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q7450029",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1817866",
+      "label": "Parliament of Malta",
+      "url": "https://www.parlament.mt/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1817866",
+      "label": "Parliament of Malta (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1817866",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

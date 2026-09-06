@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1718790"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1718790",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21295976",
+      "label": "Member of the National Assembly of Cape Verde (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21295976",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1718790",
+      "label": "National Assembly of Cape Verde",
+      "url": "https://www.parlamento.cv/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1718790",
+      "label": "National Assembly of Cape Verde (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1718790",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1969585"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1969585",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21295995",
+      "label": "Member of the National Assembly of Niger (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21295995",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1969585",
+      "label": "National Assembly",
+      "url": "http://www.assemblee.ne",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1969585",
+      "label": "National Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1969585",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

@@ -3,8 +3,46 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1798607"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1798607",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1649622",
+      "label": "House of Representatives",
+      "url": "http://house.gov.by/en/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1649622",
+      "label": "House of Representatives (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1649622",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1798607",
+      "label": "National Assembly of the Republic of Belarus (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1798607",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1512428",
+      "label": "Council of the Republic of Belarus",
+      "url": "http://www.sovrep.gov.by/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1512428",
+      "label": "Council of the Republic of Belarus (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1512428",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

@@ -3,8 +3,46 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1968458"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1968458",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q20081431",
+      "label": "Chamber of Deputies of Bolivia",
+      "url": "https://diputados.gob.bo/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q20081431",
+      "label": "Chamber of Deputies of Bolivia (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q20081431",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1968458",
+      "label": "Plurinational Legislative Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1968458",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q2948392",
+      "label": "Senate of Bolivia",
+      "url": "https://senado.gob.bo/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q2948392",
+      "label": "Senate of Bolivia (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q2948392",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

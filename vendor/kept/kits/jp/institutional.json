@@ -1,7 +1,59 @@
 {
   "iso2": "jp",
   "kit": "institutional",
-  "items": [],
   "incomplete": true,
-  "note": ":8103 claimed institutional_kits = 0."
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q17",
+  "bodies": [
+    {
+      "qid": "Q659587",
+      "label": "House of Representatives",
+      "seats": 465,
+      "web": "https://www.shugiin.go.jp/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q548911",
+      "label": "House of Councillors to the Emperor",
+      "seats": 248,
+      "web": "https://www.sangiin.go.jp/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q202384",
+      "label": "National Diet",
+      "seats": 0,
+      "web": "http://www.sangiin.go.jp/eng/index.htm",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "House of Representatives",
+    "House of Councillors to the Emperor"
+  ],
+  "seats": 713,
+  "items": [
+    {
+      "id": "Q659587",
+      "name": "House of Representatives",
+      "kind": "chamber",
+      "seats": 465,
+      "url": "https://www.shugiin.go.jp/"
+    },
+    {
+      "id": "Q548911",
+      "name": "House of Councillors to the Emperor",
+      "kind": "chamber",
+      "seats": 248,
+      "url": "https://www.sangiin.go.jp/"
+    },
+    {
+      "id": "Q202384",
+      "name": "National Diet",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "http://www.sangiin.go.jp/eng/index.htm"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

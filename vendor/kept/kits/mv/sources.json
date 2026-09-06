@@ -3,8 +3,39 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q650066"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q650066",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21328575",
+      "label": "Member of the People's Majlis (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21328575",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q108872155",
+      "label": "Speaker of the People's Majlis (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q108872155",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q650066",
+      "label": "People's Majlis",
+      "url": "https://majlis.gov.mv/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q650066",
+      "label": "People's Majlis (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q650066",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

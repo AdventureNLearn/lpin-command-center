@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1969591"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1969591",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1969591",
+      "label": "Asamblea Nacional de Nicaragua",
+      "url": "https://www.asamblea.gob.ni/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1969591",
+      "label": "Asamblea Nacional de Nicaragua (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1969591",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q18616113",
+      "label": "Member of the National Assembly of Nicaragua (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q18616113",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

@@ -1,0 +1,59 @@
+{
+  "iso2": "do",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q786",
+  "bodies": [
+    {
+      "qid": "Q595411",
+      "label": "Congress of the Dominican Republic",
+      "seats": 0,
+      "web": "",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q320280",
+      "label": "Chamber of Deputies",
+      "seats": 183,
+      "web": "https://www.camaradediputados.gob.do/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q2119267",
+      "label": "Senate of the Dominican Republic",
+      "seats": 32,
+      "web": "https://www.senadord.gob.do/",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Chamber of Deputies",
+    "Senate of the Dominican Republic"
+  ],
+  "seats": 215,
+  "items": [
+    {
+      "id": "Q595411",
+      "name": "Congress of the Dominican Republic",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q595411"
+    },
+    {
+      "id": "Q320280",
+      "name": "Chamber of Deputies",
+      "kind": "chamber",
+      "seats": 183,
+      "url": "https://www.camaradediputados.gob.do/"
+    },
+    {
+      "id": "Q2119267",
+      "name": "Senate of the Dominican Republic",
+      "kind": "chamber",
+      "seats": 32,
+      "url": "https://www.senadord.gob.do/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

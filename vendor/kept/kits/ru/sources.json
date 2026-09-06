@@ -3,8 +3,53 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q457869"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q457869",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q457869",
+      "label": "Federal Assembly of the Russian Federation",
+      "url": "http://www.gov.ru/main/page7.html",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q457869",
+      "label": "Federal Assembly of the Russian Federation (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q457869",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q715641",
+      "label": "State Duma",
+      "url": "http://www.duma.gov.ru/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q715641",
+      "label": "State Duma (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q715641",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q186473",
+      "label": "Federation Council",
+      "url": "http://www.council.gov.ru/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q186473",
+      "label": "Federation Council (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q186473",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

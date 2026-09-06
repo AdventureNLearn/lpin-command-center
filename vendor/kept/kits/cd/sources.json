@@ -3,8 +3,46 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q282928"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q282928",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1574334",
+      "label": "National Assembly",
+      "url": "http://www.assemblee-nationale.cd/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1574334",
+      "label": "National Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1574334",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q3510889",
+      "label": "Senate of the Democratic Republic of the Congo",
+      "url": "http://www.senat.cd/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q3510889",
+      "label": "Senate of the Democratic Republic of the Congo (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q3510889",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q282928",
+      "label": "Parliament of the Democratic Republic of the Congo (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q282928",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

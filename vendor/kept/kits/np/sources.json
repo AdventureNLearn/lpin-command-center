@@ -3,8 +3,53 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q3896143"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q3896143",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q8349995",
+      "label": "National Assembly",
+      "url": "https://na.parliament.gov.np/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q8349995",
+      "label": "National Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q8349995",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q5915308",
+      "label": "House of Representatives",
+      "url": "https://hr.parliament.gov.np/np",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q5915308",
+      "label": "House of Representatives (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q5915308",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q3896143",
+      "label": "Parliament of Nepal",
+      "url": "https://www.parliament.gov.np/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q3896143",
+      "label": "Parliament of Nepal (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q3896143",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

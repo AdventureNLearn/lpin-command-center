@@ -3,12 +3,42 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q740533",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 16,
+  "incomplete": true,
+  "claimed_seats": 100,
+  "chambers": [
+    "Member of the National People's Assembly of Guinea-Bissau",
+    "National People's Assembly"
+  ],
   "items": [
     {
-      "id": "adja-satu-camara",
-      "name": "Adja Satú Camará",
+      "id": "francisco-benante-q740533",
+      "name": "Francisco Benante",
+      "sitting": true,
+      "party_id": "african-party-for-the-independence-of-guinea-and-cape-verde",
+      "caucus": "African Party for the Independence of Guinea and Cape Verde",
+      "constituency_label": "",
+      "chamber": "National People's Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5483181"
+    },
+    {
+      "id": "raimundo-pereira-q740533",
+      "name": "Raimundo Pereira",
+      "sitting": true,
+      "party_id": "african-party-for-the-independence-of-guinea-and-cape-verde",
+      "caucus": "African Party for the Independence of Guinea and Cape Verde",
+      "constituency_label": "",
+      "chamber": "National People's Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q314538"
+    },
+    {
+      "id": "ibraima-sori-djalo-q740533",
+      "name": "Ibraima Sori Djaló",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -17,36 +47,23 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q123290104"
+      "roster_url": "http://www.wikidata.org/entity/Q98806318"
     },
     {
-      "id": "joao-bernardo-vieira",
-      "name": "João Bernardo Vieira",
+      "id": "soares-sambu-q740533",
+      "name": "Soares Sambú",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "african-party-for-the-independence-of-guinea-and-cape-verde",
+      "caucus": "African Party for the Independence of Guinea and Cape Verde",
       "constituency_label": "",
       "chamber": "National People's Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q106164"
+      "roster_url": "http://www.wikidata.org/entity/Q7549853"
     },
     {
-      "id": "manuel-saturnino-da-costa",
-      "name": "Manuel Saturnino da Costa",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National People's Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1554242"
-    },
-    {
-      "id": "helder-proenca",
+      "id": "helder-proenca-q740533",
       "name": "Hélder Proença",
       "sitting": true,
       "party_id": "unknown",
@@ -59,50 +76,37 @@
       "roster_url": "http://www.wikidata.org/entity/Q182735"
     },
     {
-      "id": "malam-bacai-sanha",
-      "name": "Malam Bacai Sanhá",
+      "id": "jorge-malu-q740533",
+      "name": "Jorge Malú",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "non-attached",
+      "caucus": "non-attached",
       "constituency_label": "",
       "chamber": "National People's Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q232796"
+      "roster_url": "http://www.wikidata.org/entity/Q95980717"
     },
     {
-      "id": "carmen-pereira",
-      "name": "Carmen Pereira",
+      "id": "joao-bernardo-vieira-q740533",
+      "name": "João Bernardo Vieira",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
       "constituency_label": "",
       "chamber": "National People's Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q275945"
+      "roster_url": "http://www.wikidata.org/entity/Q106164"
     },
     {
-      "id": "raimundo-pereira",
-      "name": "Raimundo Pereira",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National People's Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q314538"
-    },
-    {
-      "id": "zinha-vaz",
+      "id": "zinha-vaz-q740533",
       "name": "Zinha Vaz",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "resistance-of-guinea-bissau-bafata-movement",
+      "caucus": "Resistance of Guinea-Bissau-Bafatá Movement",
       "constituency_label": "",
       "chamber": "National People's Assembly",
       "lang": [
@@ -111,59 +115,46 @@
       "roster_url": "http://www.wikidata.org/entity/Q17022960"
     },
     {
-      "id": "aristides-gomes",
-      "name": "Aristides Gomes",
+      "id": "carmen-pereira-q740533",
+      "name": "Carmen Pereira",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "african-party-for-the-independence-of-guinea-and-cape-verde",
+      "caucus": "African Party for the Independence of Guinea and Cape Verde",
       "constituency_label": "",
       "chamber": "National People's Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q551585"
+      "roster_url": "http://www.wikidata.org/entity/Q275945"
     },
     {
-      "id": "cipriano-cassama",
-      "name": "Cipriano Cassamá",
+      "id": "adja-satu-camara-q740533",
+      "name": "Adja Satú Camará",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "madem-g-15",
+      "caucus": "Madem G-15",
       "constituency_label": "",
       "chamber": "National People's Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q5121308"
+      "roster_url": "http://www.wikidata.org/entity/Q123290104"
     },
     {
-      "id": "francisco-benante",
-      "name": "Francisco Benante",
+      "id": "manuel-serifo-nhamadjo-q740533",
+      "name": "Manuel Serifo Nhamadjo",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "african-party-for-the-independence-of-guinea-and-cape-verde",
+      "caucus": "African Party for the Independence of Guinea and Cape Verde",
       "constituency_label": "",
       "chamber": "National People's Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q5483181"
+      "roster_url": "http://www.wikidata.org/entity/Q57424"
     },
     {
-      "id": "soares-sambu",
-      "name": "Soares Sambú",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National People's Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7549853"
-    },
-    {
-      "id": "suzi-barbosa",
+      "id": "suzi-barbosa-q740533",
       "name": "Suzi Barbosa",
       "sitting": true,
       "party_id": "unknown",
@@ -176,24 +167,11 @@
       "roster_url": "http://www.wikidata.org/entity/Q43396447"
     },
     {
-      "id": "manuel-serifo-nhamadjo",
-      "name": "Manuel Serifo Nhamadjo",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National People's Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q57424"
-    },
-    {
-      "id": "carlos-gomes-junior",
+      "id": "carlos-gomes-junior-q740533",
       "name": "Carlos Gomes Júnior",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "african-party-for-the-independence-of-guinea-and-cape-verde",
+      "caucus": "African Party for the Independence of Guinea and Cape Verde",
       "constituency_label": "",
       "chamber": "National People's Assembly",
       "lang": [
@@ -202,17 +180,69 @@
       "roster_url": "http://www.wikidata.org/entity/Q57718"
     },
     {
-      "id": "adiato-djalo-nandigna",
+      "id": "adiato-djalo-nandigna-q740533",
       "name": "Adiato Djaló Nandigna",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "african-party-for-the-independence-of-guinea-and-cape-verde",
+      "caucus": "African Party for the Independence of Guinea and Cape Verde",
       "constituency_label": "",
       "chamber": "National People's Assembly",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q58164"
+    },
+    {
+      "id": "manuel-saturnino-da-costa-q740533",
+      "name": "Manuel Saturnino da Costa",
+      "sitting": true,
+      "party_id": "african-party-for-the-independence-of-guinea-and-cape-verde",
+      "caucus": "African Party for the Independence of Guinea and Cape Verde",
+      "constituency_label": "",
+      "chamber": "National People's Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1554242"
+    },
+    {
+      "id": "cipriano-cassama-q740533",
+      "name": "Cipriano Cassamá",
+      "sitting": true,
+      "party_id": "african-party-for-the-independence-of-guinea-and-cape-verde",
+      "caucus": "African Party for the Independence of Guinea and Cape Verde",
+      "constituency_label": "",
+      "chamber": "National People's Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5121308"
+    },
+    {
+      "id": "aristides-gomes-q740533",
+      "name": "Aristides Gomes",
+      "sitting": true,
+      "party_id": "republican-party-for-independence-and-development",
+      "caucus": "Republican Party for Independence and Development",
+      "constituency_label": "",
+      "chamber": "National People's Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q551585"
+    },
+    {
+      "id": "malam-bacai-sanha-q740533",
+      "name": "Malam Bacai Sanhá",
+      "sitting": true,
+      "party_id": "african-party-for-the-independence-of-guinea-and-cape-verde",
+      "caucus": "African Party for the Independence of Guinea and Cape Verde",
+      "constituency_label": "",
+      "chamber": "National People's Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q232796"
     }
   ]
 }

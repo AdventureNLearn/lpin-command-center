@@ -3,8 +3,46 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q7138930"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q7138930",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q720003",
+      "label": "National Assembly",
+      "url": "https://assemblee.bi/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q720003",
+      "label": "National Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q720003",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q7138930",
+      "label": "Parliament of Burundi (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q7138930",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q3510838",
+      "label": "Senate",
+      "url": "https://www.senat.bi/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q3510838",
+      "label": "Senate (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q3510838",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

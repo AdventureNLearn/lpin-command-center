@@ -1,6 +1,59 @@
 {
   "iso2": "jm",
   "kit": "institutional",
-  "items": [],
-  "incomplete": true
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q766",
+  "bodies": [
+    {
+      "qid": "Q27897650",
+      "label": "Senate of Jamaica",
+      "seats": 21,
+      "web": "https://www.japarliament.gov.jm/",
+      "kind": "lower"
+    },
+    {
+      "qid": "Q20080342",
+      "label": "House of Representatives of Jamaica",
+      "seats": 63,
+      "web": "https://www.japarliament.gov.jm/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q122635",
+      "label": "Parliament of Jamaica",
+      "seats": 84,
+      "web": "http://japarliament.gov.jm",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Senate of Jamaica",
+    "House of Representatives of Jamaica"
+  ],
+  "seats": 168,
+  "items": [
+    {
+      "id": "Q27897650",
+      "name": "Senate of Jamaica",
+      "kind": "lower",
+      "seats": 21,
+      "url": "https://www.japarliament.gov.jm/"
+    },
+    {
+      "id": "Q20080342",
+      "name": "House of Representatives of Jamaica",
+      "kind": "chamber",
+      "seats": 63,
+      "url": "https://www.japarliament.gov.jm/"
+    },
+    {
+      "id": "Q122635",
+      "name": "Parliament of Jamaica",
+      "kind": "parliament",
+      "seats": 84,
+      "url": "http://japarliament.gov.jm"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

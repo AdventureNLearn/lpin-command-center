@@ -1,7 +1,59 @@
 {
   "iso2": "ng",
   "kit": "institutional",
-  "items": [],
   "incomplete": true,
-  "note": ":8103 claimed institutional_kits = 0."
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q1033",
+  "bodies": [
+    {
+      "qid": "Q2635070",
+      "label": "National Assembly of Nigeria",
+      "seats": 0,
+      "web": "https://nass.gov.ng/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q2993611",
+      "label": "Senate of Nigeria",
+      "seats": 109,
+      "web": "https://nass.gov.ng/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q665693",
+      "label": "House of Representatives of Nigeria",
+      "seats": 360,
+      "web": "https://nass.gov.ng/",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Senate of Nigeria",
+    "House of Representatives of Nigeria"
+  ],
+  "seats": 469,
+  "items": [
+    {
+      "id": "Q2635070",
+      "name": "National Assembly of Nigeria",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://nass.gov.ng/"
+    },
+    {
+      "id": "Q2993611",
+      "name": "Senate of Nigeria",
+      "kind": "chamber",
+      "seats": 109,
+      "url": "https://nass.gov.ng/"
+    },
+    {
+      "id": "Q665693",
+      "name": "House of Representatives of Nigeria",
+      "kind": "chamber",
+      "seats": 360,
+      "url": "https://nass.gov.ng/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

@@ -3,8 +3,25 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1853235"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1853235",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21295985",
+      "label": "Member of the National Assembly of Guinea (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21295985",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1853235",
+      "label": "National Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1853235",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1386962"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1386962",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21328617",
+      "label": "Member of the Legislative Assembly of Costa Rica (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21328617",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1386962",
+      "label": "Legislative Assembly of Costa Rica",
+      "url": "http://www.asamblea.go.cr",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1386962",
+      "label": "Legislative Assembly of Costa Rica (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1386962",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

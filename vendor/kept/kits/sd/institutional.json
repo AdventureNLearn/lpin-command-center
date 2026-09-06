@@ -1,0 +1,59 @@
+{
+  "iso2": "sd",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q1049",
+  "bodies": [
+    {
+      "qid": "Q2993867",
+      "label": "Council of States",
+      "seats": 32,
+      "web": "http://www.councilofstates.gov.sd/en/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q4902948",
+      "label": "National Legislature",
+      "seats": 0,
+      "web": "",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q1969569",
+      "label": "National Assembly",
+      "seats": 426,
+      "web": "http://www.parliament.gov.sd",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Council of States",
+    "National Assembly"
+  ],
+  "seats": 458,
+  "items": [
+    {
+      "id": "Q2993867",
+      "name": "Council of States",
+      "kind": "chamber",
+      "seats": 32,
+      "url": "http://www.councilofstates.gov.sd/en/"
+    },
+    {
+      "id": "Q4902948",
+      "name": "National Legislature",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q4902948"
+    },
+    {
+      "id": "Q1969569",
+      "name": "National Assembly",
+      "kind": "chamber",
+      "seats": 426,
+      "url": "http://www.parliament.gov.sd"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

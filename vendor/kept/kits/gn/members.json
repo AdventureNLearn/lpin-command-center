@@ -3,12 +3,16 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1853235",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 15,
+  "incomplete": true,
+  "claimed_seats": 114,
+  "chambers": [
+    "Member of the National Assembly of Guinea",
+    "National Assembly"
+  ],
   "items": [
     {
-      "id": "baidy-aribot",
-      "name": "Baidy Aribot",
+      "id": "fatoumata-barry-q1853235",
+      "name": "Fatoumata Barry",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -17,11 +21,11 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q124358206"
+      "roster_url": "http://www.wikidata.org/entity/Q123989302"
     },
     {
-      "id": "mamadou-salim-bah",
-      "name": "Mamadou Salim Bah",
+      "id": "malick-sylla-q1853235",
+      "name": "Malick Sylla",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -30,11 +34,11 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q124358285"
+      "roster_url": "http://www.wikidata.org/entity/Q123989298"
     },
     {
-      "id": "thierno-kadiatou-bah",
-      "name": "Thierno kadiatou Bah",
+      "id": "mamadou-saliou-sow-q1853235",
+      "name": "Mamadou Saliou Sow",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -43,11 +47,11 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q124358957"
+      "roster_url": "http://www.wikidata.org/entity/Q123989307"
     },
     {
-      "id": "mohamed-aliou-bah",
-      "name": "Mohamed Aliou Bah",
+      "id": "moussa-soumah-q1853235",
+      "name": "Moussa Soumah",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -56,10 +60,114 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q124369298"
+      "roster_url": "http://www.wikidata.org/entity/Q123989294"
     },
     {
-      "id": "aly-kaba",
+      "id": "mamadou-alpha-bah-q1853235",
+      "name": "Mamadou Alpha Bah",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123989325"
+    },
+    {
+      "id": "morlaye-sylla-q1853235",
+      "name": "Morlaye Sylla",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123991670"
+    },
+    {
+      "id": "sata-diakite-q1853235",
+      "name": "Sata Diakité",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123991706"
+    },
+    {
+      "id": "saliou-bella-diallo-q1853235",
+      "name": "Saliou Bella Diallo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123991818"
+    },
+    {
+      "id": "djene-saran-camara-q1853235",
+      "name": "Djéné Saran Camara",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q88863811"
+    },
+    {
+      "id": "abdourahmane-diallo-q1853235",
+      "name": "Abdourahmane Diallo",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "Pita Prefecture",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124159815"
+    },
+    {
+      "id": "fode-soumah-q1853235",
+      "name": "Fodé Soumah",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "Kindia Prefecture",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124173086"
+    },
+    {
+      "id": "cheik-fantamady-camara-q1853235",
+      "name": "Cheik Fantamady Camara",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "Siguiri",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123987157"
+    },
+    {
+      "id": "aly-kaba-q1853235",
       "name": "Aly Kaba",
       "sitting": true,
       "party_id": "unknown",
@@ -72,7 +180,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q96678661"
     },
     {
-      "id": "elhadj-dembo-sylla",
+      "id": "elhadj-dembo-sylla-q1853235",
       "name": "Elhadj Dembo Sylla",
       "sitting": true,
       "party_id": "unknown",
@@ -85,7 +193,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q96678700"
     },
     {
-      "id": "ibrahima-deen-toure",
+      "id": "ibrahima-deen-toure-q1853235",
       "name": "Ibrahima Deen Touré",
       "sitting": true,
       "party_id": "unknown",
@@ -98,7 +206,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q96678697"
     },
     {
-      "id": "domani-dore",
+      "id": "domani-dore-q1853235",
       "name": "Domani Doré",
       "sitting": true,
       "party_id": "unknown",
@@ -111,7 +219,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q96695282"
     },
     {
-      "id": "oye-beavogui",
+      "id": "ousmane-diallo-q1853235",
+      "name": "Ousmane Diallo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3358505"
+    },
+    {
+      "id": "loffo-camara-q1853235",
+      "name": "Loffo Camara",
+      "sitting": true,
+      "party_id": "democratic-party-of-guinea-african-democratic-rally",
+      "caucus": "Democratic Party of Guinea – African Democratic Rally",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6666650"
+    },
+    {
+      "id": "oye-beavogui-q1853235",
       "name": "Oyé Béavogui",
       "sitting": true,
       "party_id": "unknown",
@@ -124,11 +258,115 @@
       "roster_url": "http://www.wikidata.org/entity/Q99399482"
     },
     {
-      "id": "siradiou-diallo",
-      "name": "Siradiou Diallo",
+      "id": "fode-abass-cisse-q1853235",
+      "name": "Fodé Abass Cissé",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "Dubréka Prefecture",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123987176"
+    },
+    {
+      "id": "mamadou-saliou-balde-q1853235",
+      "name": "Mamadou Saliou Baldé",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "Tougué Prefecture",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123987345"
+    },
+    {
+      "id": "zoupe-zogbelemou-q1853235",
+      "name": "Zoupé Zogbélémou",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "Nzérékoré Prefecture",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123987446"
+    },
+    {
+      "id": "mamadou-saliou-kante-q1853235",
+      "name": "Mamadou Saliou Kanté",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "Mali Prefecture",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123987327"
+    },
+    {
+      "id": "aboubacar-adama-sylla-q1853235",
+      "name": "Aboubacar Adama Sylla",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
+      "constituency_label": "Matoto",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109318712"
+    },
+    {
+      "id": "mamadou-dian-i-camara-q1853235",
+      "name": "Mamadou Dian I Camara",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "Lélouma Prefecture",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123987308"
+    },
+    {
+      "id": "mathieu-kpogomou-q1853235",
+      "name": "Mathieu Kpogomou",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "Yomou Prefecture",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123987468"
+    },
+    {
+      "id": "sekou-benna-camara-q1853235",
+      "name": "Sekou Benna Camara",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16186605"
+    },
+    {
+      "id": "siradiou-diallo-q1853235",
+      "name": "Siradiou Diallo",
+      "sitting": true,
+      "party_id": "union-for-progress-and-renewal",
+      "caucus": "Union for Progress and Renewal",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
@@ -137,8 +375,8 @@
       "roster_url": "http://www.wikidata.org/entity/Q2289977"
     },
     {
-      "id": "aboubacar-sompare",
-      "name": "Aboubacar Somparé",
+      "id": "aboubacar-soumah-q1853235",
+      "name": "Aboubacar Soumah",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -147,11 +385,167 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q323086"
+      "roster_url": "http://www.wikidata.org/entity/Q109609655"
     },
     {
-      "id": "jean-marie-dore",
-      "name": "Jean-Marie Doré",
+      "id": "nanfadima-magassouba-q1853235",
+      "name": "Nanfadima Magassouba",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q87442540"
+    },
+    {
+      "id": "mohamed-diop-q1853235",
+      "name": "Mohamed Diop",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "Kaloum",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123986912"
+    },
+    {
+      "id": "marie-madeleine-kamano-q1853235",
+      "name": "Marie Madeleine Kamano",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Kissidougou Prefecture",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109322199"
+    },
+    {
+      "id": "marie-kenneth-guilavogui-q1853235",
+      "name": "Marie Kenneth Guilavogui",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "Macenta Prefecture",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123987429"
+    },
+    {
+      "id": "ibrahima-sory-traore-q1853235",
+      "name": "Ibrahima Sory Traoré",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "Guéckédou Prefecture",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123987970"
+    },
+    {
+      "id": "louceny-fofana-q1853235",
+      "name": "Louceny Fofana",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "Forécariah Prefecture",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124212059"
+    },
+    {
+      "id": "daouda-sidibe-q1853235",
+      "name": "Daouda Sidibé",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "Siguiri Prefecture",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123988123"
+    },
+    {
+      "id": "abdoulaye-bernard-keita-q1853235",
+      "name": "Abdoulaye Bernard Keita",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109310549"
+    },
+    {
+      "id": "mamady-sidibe-q1853235",
+      "name": "Mamady Sidibé",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124248187"
+    },
+    {
+      "id": "abou-traore-q1853235",
+      "name": "Abou Traoré",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Faranah Prefecture",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109538043"
+    },
+    {
+      "id": "samouka-berete-q1853235",
+      "name": "Samouka Bérété",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "Beyla Prefecture",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123987404"
+    },
+    {
+      "id": "elhadj-ibrahima-diallo-q1853235",
+      "name": "Elhadj Ibrahima Diallo",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "Télimélé Prefecture",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123987192"
+    },
+    {
+      "id": "mamadou-baadiko-bah-q1853235",
+      "name": "Mamadou Baadiko Bah",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -160,11 +554,11 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q527792"
+      "roster_url": "http://www.wikidata.org/entity/Q123985730"
     },
     {
-      "id": "loffo-camara",
-      "name": "Loffo Camara",
+      "id": "abdoulaye-sanoh-q1853235",
+      "name": "Abdoulaye Sanoh",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -173,10 +567,218 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q6666650"
+      "roster_url": "http://www.wikidata.org/entity/Q123989304"
     },
     {
-      "id": "fatoumata-diallo",
+      "id": "bouna-keita-q1853235",
+      "name": "Bouna Keita",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123991742"
+    },
+    {
+      "id": "elhadj-ibrahima-sila-bah-q1853235",
+      "name": "Elhadj Ibrahima Sila Bah",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123991754"
+    },
+    {
+      "id": "fode-mohamed-soumah-q1853235",
+      "name": "Fodé Mohamed Soumah",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123991786"
+    },
+    {
+      "id": "mohamed-lamine-kaba-q1853235",
+      "name": "Mohamed Lamine Kaba",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123991748"
+    },
+    {
+      "id": "pepe-koulemou-q1853235",
+      "name": "Pépé Koulémou",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123991769"
+    },
+    {
+      "id": "saa-kossa-toure-q1853235",
+      "name": "Sâa Kossa Touré",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123991773"
+    },
+    {
+      "id": "bandian-neyba-conde-q1853235",
+      "name": "Bandian Neyba Condé",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "Kouroussa Prefecture",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124218166"
+    },
+    {
+      "id": "balla-camara-q1853235",
+      "name": "Balla Camara",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "Siguiri Prefecture",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123987942"
+    },
+    {
+      "id": "facely-camara-q1853235",
+      "name": "Facely Camara",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "Kérouané Prefecture",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123987995"
+    },
+    {
+      "id": "kaka-sekou-camara-q1853235",
+      "name": "Kaka Sékou Camara",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "Nzérékoré Prefecture",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124220104"
+    },
+    {
+      "id": "tokpa-jean-kolie-q1853235",
+      "name": "Tokpa Jean Kolié",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123988811"
+    },
+    {
+      "id": "elhadj-baila-ly-q1853235",
+      "name": "Elhadj Baila Ly",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Dinguiraye-Centre",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109321463"
+    },
+    {
+      "id": "antoine-kadouno-q1853235",
+      "name": "Antoine Kadouno",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Guéckédou Prefecture",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109321466"
+    },
+    {
+      "id": "togba-traore-q1853235",
+      "name": "Togba Traoré",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Lola Prefecture",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109321431"
+    },
+    {
+      "id": "boubacar-sidighi-diallo-q1853235",
+      "name": "Boubacar Sidighi Diallo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123989330"
+    },
+    {
+      "id": "boubacar-diallo-q1853235",
+      "name": "Boubacar Diallo",
+      "sitting": true,
+      "party_id": "peace-and-development-party",
+      "caucus": "Peace and Development Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123991807"
+    },
+    {
+      "id": "fatoumata-diallo-q1853235",
       "name": "Fatoumata Diallo",
       "sitting": true,
       "party_id": "unknown",
@@ -189,7 +791,358 @@
       "roster_url": "http://www.wikidata.org/entity/Q111520113"
     },
     {
-      "id": "dominique-kpoghomou",
+      "id": "sekou-koureissy-conde-q1853235",
+      "name": "Sékou Kouréissy Condé",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3510611"
+    },
+    {
+      "id": "el-hadj-ismael-mohamed-gassim-gushein-q1853235",
+      "name": "El Hadj Ismael Mohamed Gassim Gushein",
+      "sitting": true,
+      "party_id": "democratic-party-of-guinea-african-democratic-rally",
+      "caucus": "Democratic Party of Guinea – African Democratic Rally",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5351372"
+    },
+    {
+      "id": "bandjou-oulare-q1853235",
+      "name": "Bandjou Oularé",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Faranah Prefecture",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124218179"
+    },
+    {
+      "id": "abdoulaye-kaba-q1853235",
+      "name": "Abdoulaye Kaba",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123987867"
+    },
+    {
+      "id": "eva-kross-q1853235",
+      "name": "Eva Kross",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123987891"
+    },
+    {
+      "id": "aissatou-bobo-balde-q1853235",
+      "name": "Aissatou Bobo Baldé",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123988295"
+    },
+    {
+      "id": "sory-sow-q1853235",
+      "name": "Sory Sow",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123988038"
+    },
+    {
+      "id": "bakary-diakite-q1853235",
+      "name": "Bakary Diakité",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123988551"
+    },
+    {
+      "id": "mamady-kande-q1853235",
+      "name": "Mamady Kandé",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123988265"
+    },
+    {
+      "id": "michel-kamano-q1853235",
+      "name": "Michel Kamano",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123988307"
+    },
+    {
+      "id": "momo-camara-q1853235",
+      "name": "Momo Camara",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123988325"
+    },
+    {
+      "id": "mohamed-tounkara-q1853235",
+      "name": "Mohamed Tounkara",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123988333"
+    },
+    {
+      "id": "togba-zogbelemou-q1853235",
+      "name": "Togba Zogbélémou",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123988286"
+    },
+    {
+      "id": "souleymane-keita-q1853235",
+      "name": "Souleymane Keita",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123988512"
+    },
+    {
+      "id": "moussa-bangoura-q1853235",
+      "name": "Moussa Bangoura",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123988735"
+    },
+    {
+      "id": "mansa-samaoro-q1853235",
+      "name": "Mansa Samaoro",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123988819"
+    },
+    {
+      "id": "ramatoulaye-labo-diallo-q1853235",
+      "name": "Ramatoulaye Labo Diallo",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123988797"
+    },
+    {
+      "id": "souleymane-toure-q1853235",
+      "name": "Souleymane Touré",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "Forécariah Prefecture",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109322223"
+    },
+    {
+      "id": "meta-traore-q1853235",
+      "name": "Meta Traoré",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Koundara",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123986837"
+    },
+    {
+      "id": "thierno-aliou-diallo-q1853235",
+      "name": "Thierno Aliou Diallo",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "Labé Prefecture",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109321083"
+    },
+    {
+      "id": "joe-bebeto-q1853235",
+      "name": "Joe Bébéto",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Dixinn",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124080518"
+    },
+    {
+      "id": "amara-traore-q1853235",
+      "name": "Amara Traoré",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Mandiana Prefecture",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123987064"
+    },
+    {
+      "id": "jean-marie-dore-q1853235",
+      "name": "Jean-Marie Doré",
+      "sitting": true,
+      "party_id": "union-for-the-progress-of-guinea",
+      "caucus": "Union for the Progress of Guinea",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q527792"
+    },
+    {
+      "id": "moustapha-diane-q1853235",
+      "name": "Moustapha Diané",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109321066"
+    },
+    {
+      "id": "elhadj-mamadou-dian-barry-q1853235",
+      "name": "Elhadj Mamadou Dian Barry",
+      "sitting": true,
+      "party_id": "union-for-progress-and-renewal",
+      "caucus": "Union for Progress and Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123989334"
+    },
+    {
+      "id": "moustapha-kaba-q1853235",
+      "name": "Moustapha Kaba",
+      "sitting": true,
+      "party_id": "union-for-progress-and-renewal",
+      "caucus": "Union for Progress and Renewal",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123989333"
+    },
+    {
+      "id": "hadja-djakagbe-kaba-q1853235",
+      "name": "Hadja Djakagbè Kaba",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "Kankan Prefecture",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109321676"
+    },
+    {
+      "id": "dominique-kpoghomou-q1853235",
       "name": "Dominique Kpoghomou",
       "sitting": true,
       "party_id": "unknown",
@@ -200,6 +1153,1059 @@
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q111543965"
+    },
+    {
+      "id": "ibrahima-sory-diallo-q1853235",
+      "name": "Ibrahima Sory Diallo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q111550712"
+    },
+    {
+      "id": "mamadou-kaly-bah-q1853235",
+      "name": "Mamadou Kaly Bah",
+      "sitting": true,
+      "party_id": "union-of-the-forces-of-change",
+      "caucus": "Union of the Forces of Change",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123991647"
+    },
+    {
+      "id": "mamadou-diawara-q1853235",
+      "name": "Mamadou Diawara",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124024843"
+    },
+    {
+      "id": "ibrahima-diallo-q1853235",
+      "name": "Ibrahima Diallo",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "Koubia Prefecture",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123987208"
+    },
+    {
+      "id": "aboubacar-sompare-q1853235",
+      "name": "Aboubacar Somparé",
+      "sitting": true,
+      "party_id": "unity-and-progress-party",
+      "caucus": "Unity and Progress Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q323086"
+    },
+    {
+      "id": "nestor-kagbadouno-q1853235",
+      "name": "Nestor Kagbadouno",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124252328"
+    },
+    {
+      "id": "baidy-aribot-q1853235",
+      "name": "Baidy Aribot",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124358206"
+    },
+    {
+      "id": "mamadou-salim-bah-q1853235",
+      "name": "Mamadou Salim Bah",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124358285"
+    },
+    {
+      "id": "thierno-kadiatou-bah-q1853235",
+      "name": "Thierno kadiatou Bah",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124358957"
+    },
+    {
+      "id": "assiatou-diallo-bah-q1853235",
+      "name": "Assiatou Diallo Bah",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124369399"
+    },
+    {
+      "id": "alpha-mamadou-balde-q1853235",
+      "name": "Alpha Mamadou Baldé",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124369500"
+    },
+    {
+      "id": "jamsedine-balde-q1853235",
+      "name": "Jamsedine Baldé",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124369466"
+    },
+    {
+      "id": "mamadou-cellou-balde-q1853235",
+      "name": "Mamadou Cellou Baldé",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124369488"
+    },
+    {
+      "id": "ibrahima-bangoura-q1853235",
+      "name": "Ibrahima Bangoura",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124370561"
+    },
+    {
+      "id": "mamadou-alpha-balde-q1853235",
+      "name": "Mamadou Alpha Baldé",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124370540"
+    },
+    {
+      "id": "aissatou-barry-q1853235",
+      "name": "Aissatou Barry",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124371021"
+    },
+    {
+      "id": "saikou-yaya-barry-q1853235",
+      "name": "Saikou Yaya Barry",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124370772"
+    },
+    {
+      "id": "thierno-abdourahmane-barry-q1853235",
+      "name": "Thierno Abdourahmane Barry",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124371171"
+    },
+    {
+      "id": "sekou-camara-q1853235",
+      "name": "Sékou Camara",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124373640"
+    },
+    {
+      "id": "daouda-david-camara-q1853235",
+      "name": "Daouda David Camara",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124374261"
+    },
+    {
+      "id": "mamadouba-tawel-camara-q1853235",
+      "name": "Mamadouba Tawel Camara",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124374513"
+    },
+    {
+      "id": "fatoumata-boh-camara-q1853235",
+      "name": "Fatoumata Boh Camara",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124374662"
+    },
+    {
+      "id": "aliou-conde-q1853235",
+      "name": "Aliou Condé",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124378340"
+    },
+    {
+      "id": "moriba-gopou-camara-q1853235",
+      "name": "Moriba Gopou Camara",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124378124"
+    },
+    {
+      "id": "momo-ii-camara-q1853235",
+      "name": "Momo II Camara",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124378167"
+    },
+    {
+      "id": "fatoumata-tonguino-cissoko-q1853235",
+      "name": "Fatoumata Tonguino Cissoko",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124378282"
+    },
+    {
+      "id": "mamadou-n-fa-conde-q1853235",
+      "name": "Mamadou N'fa Condé",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124378305"
+    },
+    {
+      "id": "saloum-cise-q1853235",
+      "name": "Saloum Cisé",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124378254"
+    },
+    {
+      "id": "sidiki-cisse-q1853235",
+      "name": "Sidiki Cissé",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124378267"
+    },
+    {
+      "id": "mamadou-dian-diallo-q1853235",
+      "name": "Mamadou Dian Diallo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124387883"
+    },
+    {
+      "id": "alpha-ousmane-diallo-q1853235",
+      "name": "Alpha Ousmane Diallo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124388536"
+    },
+    {
+      "id": "alpha-mohamed-diallo-q1853235",
+      "name": "Alpha Mohamed Diallo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124388661"
+    },
+    {
+      "id": "demba-fadiga-q1853235",
+      "name": "Demba Fadiga",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124391136"
+    },
+    {
+      "id": "mohamed-aly-doumbouya-q1853235",
+      "name": "Mohamed Aly Doumbouya",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124391133"
+    },
+    {
+      "id": "ben-youssouf-keita-q1853235",
+      "name": "Ben Youssouf Keita",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124395820"
+    },
+    {
+      "id": "sory-haba-q1853235",
+      "name": "Sory Haba",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124395627"
+    },
+    {
+      "id": "bangaly-kourouma-q1853235",
+      "name": "Bangaly Kourouma",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124395925"
+    },
+    {
+      "id": "sekou-konate-q1853235",
+      "name": "Sékou Konaté",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124395893"
+    },
+    {
+      "id": "anne-marie-mansare-q1853235",
+      "name": "Anne-Marie Mansaré",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124399058"
+    },
+    {
+      "id": "lancinet-seny-kourouma-q1853235",
+      "name": "Lancinet Sény Kourouma",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124398848"
+    },
+    {
+      "id": "holomo-koni-kourouma-q1853235",
+      "name": "Holomo koni Kourouma",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124398890"
+    },
+    {
+      "id": "aly-nabe-q1853235",
+      "name": "Aly Nabé",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124399243"
+    },
+    {
+      "id": "abdoul-karim-oulare-q1853235",
+      "name": "Abdoul Karim Oularé",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124399367"
+    },
+    {
+      "id": "fode-amara-marega-q1853235",
+      "name": "Fodé Amara Maréga",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124399164"
+    },
+    {
+      "id": "sekou-savane-q1853235",
+      "name": "Sékou Savané",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124401845"
+    },
+    {
+      "id": "mamadou-dioulde-sow-q1853235",
+      "name": "Mamadou Diouldé Sow",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124401911"
+    },
+    {
+      "id": "christian-sinata-toure-q1853235",
+      "name": "Christian Sinata Touré",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124466453"
+    },
+    {
+      "id": "djantou-traore-q1853235",
+      "name": "Djantou Traoré",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124467441"
+    },
+    {
+      "id": "bakary-goyo-zoumanigui-q1853235",
+      "name": "Bakary Goyo Zoumanigui",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124467539"
+    },
+    {
+      "id": "alpha-sylla-q1853235",
+      "name": "Alpha Sylla",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124401958"
+    },
+    {
+      "id": "hamadou-diallo-q1853235",
+      "name": "Hamadou Diallo",
+      "sitting": true,
+      "party_id": "union-of-democratic-forces-of-guinea",
+      "caucus": "Union of Democratic Forces of Guinea",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124391086"
+    },
+    {
+      "id": "amadou-diallo-q1853235",
+      "name": "Amadou Diallo",
+      "sitting": true,
+      "party_id": "union-of-democratic-forces-of-guinea",
+      "caucus": "Union of Democratic Forces of Guinea",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124388053"
+    },
+    {
+      "id": "abdoulaye-diallo-q1853235",
+      "name": "Abdoulaye Diallo",
+      "sitting": true,
+      "party_id": "union-of-democratic-forces-of-guinea",
+      "caucus": "Union of Democratic Forces of Guinea",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124388029"
+    },
+    {
+      "id": "mamadi-diawara-q1853235",
+      "name": "Mamadi Diawara",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124391118"
+    },
+    {
+      "id": "fatoumata-binta-diallo-q1853235",
+      "name": "Fatoumata Binta Diallo",
+      "sitting": true,
+      "party_id": "union-of-democratic-forces-of-guinea",
+      "caucus": "Union of Democratic Forces of Guinea",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124388142"
+    },
+    {
+      "id": "hawa-eva-sylla-q1853235",
+      "name": "Hawa Eva Sylla",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "Dubréka Prefecture",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124248197"
+    },
+    {
+      "id": "mohamed-aliou-bah-q1853235",
+      "name": "Mohamed Aliou Bah",
+      "sitting": true,
+      "party_id": "liberal-democrats",
+      "caucus": "Liberal Democrats",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124369298"
+    },
+    {
+      "id": "seydouba-macire-camara-q1853235",
+      "name": "Seydouba Maciré Camara",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124249407"
+    },
+    {
+      "id": "souleymane-bah-q1853235",
+      "name": "Souleymane Bah",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124257619"
+    },
+    {
+      "id": "abdourahamane-sinkoun-camara-q1853235",
+      "name": "Abdourahamane Sinkoun Camara",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124373787"
+    },
+    {
+      "id": "naby-nouhan-conde-q1853235",
+      "name": "Naby Nouhan Condé",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124382166"
+    },
+    {
+      "id": "abdoulaye-doukoure-q1853235",
+      "name": "Abdoulaye Doukouré",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124391129"
+    },
+    {
+      "id": "diao-kante-q1853235",
+      "name": "Diao Kanté",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124395727"
+    },
+    {
+      "id": "mohamed-lamine-kamissoko-q1853235",
+      "name": "Mohamed Lamine Kamissoko",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124395678"
+    },
+    {
+      "id": "mamadi-kande-q1853235",
+      "name": "Mamadi Kandé",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124395693"
+    },
+    {
+      "id": "fode-mangue-toure-q1853235",
+      "name": "Fodé Mangué Touré",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124466506"
+    },
+    {
+      "id": "pepe-toupou-q1853235",
+      "name": "Pépé Toupou",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124466377"
+    },
+    {
+      "id": "yaya-traore-q1853235",
+      "name": "Yaya Traoré",
+      "sitting": true,
+      "party_id": "rally-of-the-guinean-people",
+      "caucus": "Rally of the Guinean People",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124466538"
+    },
+    {
+      "id": "aissata-soumah-q1853235",
+      "name": "Aissata Soumah",
+      "sitting": true,
+      "party_id": "union-of-republican-forces",
+      "caucus": "Union of Republican Forces",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124401888"
+    },
+    {
+      "id": "lamine-conde-q1853235",
+      "name": "Lamine Condé",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Kérouané Prefecture",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123987045"
+    },
+    {
+      "id": "abdoulaye-diouma-diallo-q1853235",
+      "name": "Abdoulaye Diouma Diallo",
+      "sitting": true,
+      "party_id": "union-of-democratic-forces-of-guinea",
+      "caucus": "Union of Democratic Forces of Guinea",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124382220"
+    },
+    {
+      "id": "dian-bailo-diallo-q1853235",
+      "name": "Dian Bailo Diallo",
+      "sitting": true,
+      "party_id": "union-of-democratic-forces-of-guinea",
+      "caucus": "Union of Democratic Forces of Guinea",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124387812"
+    },
+    {
+      "id": "mamadou-kenda-diallo-q1853235",
+      "name": "Mamadou Kenda Diallo",
+      "sitting": true,
+      "party_id": "union-of-democratic-forces-of-guinea",
+      "caucus": "Union of Democratic Forces of Guinea",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124388650"
+    },
+    {
+      "id": "hawa-binta-diallo-q1853235",
+      "name": "Hawa Binta Diallo",
+      "sitting": true,
+      "party_id": "union-of-democratic-forces-of-guinea",
+      "caucus": "Union of Democratic Forces of Guinea",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124391078"
+    },
+    {
+      "id": "abdoulaye-sylla-q1853235",
+      "name": "Abdoulaye Sylla",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124401989"
+    },
+    {
+      "id": "fode-oussou-fofana-q1853235",
+      "name": "Fodé Oussou Fofana",
+      "sitting": true,
+      "party_id": "union-of-democratic-forces-of-guinea",
+      "caucus": "Union of Democratic Forces of Guinea",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124395447"
+    },
+    {
+      "id": "fofana-marie-anne-q1853235",
+      "name": "Fofana Marie Anne",
+      "sitting": true,
+      "party_id": "union-of-democratic-forces-of-guinea",
+      "caucus": "Union of Democratic Forces of Guinea",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124395455"
+    },
+    {
+      "id": "amara-camara-q1853235",
+      "name": "Amara Camara",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124378189"
+    },
+    {
+      "id": "ibrahima-sory-toure-q1853235",
+      "name": "Ibrahima Sory Touré",
+      "sitting": true,
+      "party_id": "union-of-democratic-forces-of-guinea",
+      "caucus": "Union of Democratic Forces of Guinea",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124466406"
+    },
+    {
+      "id": "djessira-traore-q1853235",
+      "name": "Djessira Traoré",
+      "sitting": true,
+      "party_id": "union-of-democratic-forces-of-guinea",
+      "caucus": "Union of Democratic Forces of Guinea",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124466557"
+    },
+    {
+      "id": "kalemodou-yansane-q1853235",
+      "name": "Kalemodou Yansané",
+      "sitting": true,
+      "party_id": "union-of-democratic-forces-of-guinea",
+      "caucus": "Union of Democratic Forces of Guinea",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124467482"
     }
   ]
 }

@@ -3,11 +3,41 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q2396996",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 7,
+  "incomplete": true,
+  "claimed_seats": 37,
+  "chambers": [
+    "Member of the Legislative Council of Brunei",
+    "Legislative Council of Brunei"
+  ],
   "items": [
     {
-      "id": "al-muhtadee-billah-crown-prince-of-brunei",
+      "id": "zasia-binti-sirin-q2396996",
+      "name": "Zasia binti Sirin",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Legislative Council of Brunei",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q95951218"
+    },
+    {
+      "id": "mohammad-daud-q2396996",
+      "name": "Mohammad Daud",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Legislative Council of Brunei",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q117042830"
+    },
+    {
+      "id": "al-muhtadee-billah-crown-prince-of-brunei-q2396996",
       "name": "Al-Muhtadee Billah, Crown Prince of Brunei",
       "sitting": true,
       "party_id": "unknown",
@@ -20,7 +50,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q431442"
     },
     {
-      "id": "yura-halim",
+      "id": "suyoi-osman-q2396996",
+      "name": "Suyoi Osman",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Legislative Council of Brunei",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16733895"
+    },
+    {
+      "id": "salbiah-binti-haji-sulaiman-q2396996",
+      "name": "Salbiah binti Haji Sulaiman",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Legislative Council of Brunei",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16885945"
+    },
+    {
+      "id": "yura-halim-q2396996",
       "name": "Yura Halim",
       "sitting": true,
       "party_id": "unknown",
@@ -33,7 +89,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q20466819"
     },
     {
-      "id": "lim-jock-seng",
+      "id": "lim-jock-seng-q2396996",
       "name": "Lim Jock Seng",
       "sitting": true,
       "party_id": "unknown",
@@ -46,7 +102,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q28464475"
     },
     {
-      "id": "mustappa-bin-sirat",
+      "id": "adanan-yusof-q2396996",
+      "name": "Adanan Yusof",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Legislative Council of Brunei",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q30146077"
+    },
+    {
+      "id": "mustappa-bin-sirat-q2396996",
       "name": "Mustappa bin Sirat",
       "sitting": true,
       "party_id": "unknown",
@@ -59,7 +128,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q47356297"
     },
     {
-      "id": "awang-halbi-bin-mohammad-yussof",
+      "id": "awang-halbi-bin-mohammad-yussof-q2396996",
       "name": "Awang Halbi bin Mohammad Yussof",
       "sitting": true,
       "party_id": "unknown",
@@ -72,20 +141,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q47382814"
     },
     {
-      "id": "hassanal-bolkiah-i-of-brunei",
-      "name": "Hassanal Bolkiah I of Brunei",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Legislative Council of Brunei",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q57327"
-    },
-    {
-      "id": "prince-mohamed-bolkiah-of-brunei",
+      "id": "prince-mohamed-bolkiah-of-brunei-q2396996",
       "name": "Prince Mohamed Bolkiah of Brunei",
       "sitting": true,
       "party_id": "unknown",

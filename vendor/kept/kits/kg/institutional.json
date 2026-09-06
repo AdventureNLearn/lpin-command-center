@@ -1,0 +1,44 @@
+{
+  "iso2": "kg",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q813",
+  "bodies": [
+    {
+      "qid": "Q21091853",
+      "label": "Member of the Supreme Council of Kyrgyzstan",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q578193",
+      "label": "Supreme Council",
+      "seats": 120,
+      "web": "http://www.kenesh.kg/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Member of the Supreme Council of Kyrgyzstan"
+  ],
+  "seats": 120,
+  "items": [
+    {
+      "id": "Q21091853",
+      "name": "Member of the Supreme Council of Kyrgyzstan",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q21091853"
+    },
+    {
+      "id": "Q578193",
+      "name": "Supreme Council",
+      "kind": "parliament",
+      "seats": 120,
+      "url": "http://www.kenesh.kg/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

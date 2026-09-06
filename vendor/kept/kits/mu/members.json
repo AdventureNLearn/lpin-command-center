@@ -3,24 +3,41 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1854129",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 3,
+  "incomplete": true,
+  "claimed_seats": 70,
+  "chambers": [
+    "Member of the National Assembly of Mauritius",
+    "National Assembly of Mauritius"
+  ],
   "items": [
     {
-      "id": "nando-bodha",
-      "name": "Nando Bodha",
+      "id": "kavy-ramano-q1854129",
+      "name": "Kavy Ramano",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "militant-socialist-movement",
+      "caucus": "Militant Socialist Movement",
       "constituency_label": "",
       "chamber": "National Assembly of Mauritius",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q3335632"
+      "roster_url": "http://www.wikidata.org/entity/Q98228558"
     },
     {
-      "id": "andre-nairac",
+      "id": "deveena-boygah-q1854129",
+      "name": "Deveena Boygah",
+      "sitting": true,
+      "party_id": "militant-socialist-movement",
+      "caucus": "Militant Socialist Movement",
+      "constituency_label": "",
+      "chamber": "National Assembly of Mauritius",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116256072"
+    },
+    {
+      "id": "andre-nairac-q1854129",
       "name": "André Nairac",
       "sitting": true,
       "party_id": "unknown",
@@ -33,7 +50,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q107346178"
     },
     {
-      "id": "edouard-nairac",
+      "id": "edouard-nairac-q1854129",
       "name": "Edouard Nairac",
       "sitting": true,
       "party_id": "unknown",
@@ -44,6 +61,19 @@
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q108112147"
+    },
+    {
+      "id": "nando-bodha-q1854129",
+      "name": "Nando Bodha",
+      "sitting": true,
+      "party_id": "militant-socialist-movement",
+      "caucus": "Militant Socialist Movement",
+      "constituency_label": "",
+      "chamber": "National Assembly of Mauritius",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3335632"
     }
   ]
 }

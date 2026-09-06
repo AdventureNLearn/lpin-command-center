@@ -1,0 +1,59 @@
+{
+  "iso2": "lr",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q1014",
+  "bodies": [
+    {
+      "qid": "Q1137584",
+      "label": "House of Representatives",
+      "seats": 73,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q4345418",
+      "label": "Legislature of Liberia",
+      "seats": 0,
+      "web": "",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q1142439",
+      "label": "Senate of Liberia",
+      "seats": 30,
+      "web": "https://senate.gov.lr/",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "House of Representatives",
+    "Senate of Liberia"
+  ],
+  "seats": 103,
+  "items": [
+    {
+      "id": "Q1137584",
+      "name": "House of Representatives",
+      "kind": "chamber",
+      "seats": 73,
+      "url": "https://www.wikidata.org/wiki/Q1137584"
+    },
+    {
+      "id": "Q4345418",
+      "name": "Legislature of Liberia",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q4345418"
+    },
+    {
+      "id": "Q1142439",
+      "name": "Senate of Liberia",
+      "kind": "chamber",
+      "seats": 30,
+      "url": "https://senate.gov.lr/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

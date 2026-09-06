@@ -1,0 +1,44 @@
+{
+  "iso2": "sa",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q851",
+  "bodies": [
+    {
+      "qid": "Q62399316",
+      "label": "Government of Saudi Arabia",
+      "seats": 0,
+      "web": "",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q6866094",
+      "label": "Ministry of Defense Saudi Arabia",
+      "seats": 0,
+      "web": "http://www.moda.gov.sa",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Ministry of Defense Saudi Arabia"
+  ],
+  "seats": 0,
+  "items": [
+    {
+      "id": "Q62399316",
+      "name": "Government of Saudi Arabia",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q62399316"
+    },
+    {
+      "id": "Q6866094",
+      "name": "Ministry of Defense Saudi Arabia",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "http://www.moda.gov.sa"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

@@ -1,0 +1,44 @@
+{
+  "iso2": "is",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q189",
+  "bodies": [
+    {
+      "qid": "Q131279",
+      "label": "Althing",
+      "seats": 63,
+      "web": "https://althingi.is",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q21272959",
+      "label": "Member of the Althing",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Member of the Althing"
+  ],
+  "seats": 63,
+  "items": [
+    {
+      "id": "Q131279",
+      "name": "Althing",
+      "kind": "parliament",
+      "seats": 63,
+      "url": "https://althingi.is"
+    },
+    {
+      "id": "Q21272959",
+      "name": "Member of the Althing",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q21272959"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

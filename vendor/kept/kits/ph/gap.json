@@ -1,13 +1,13 @@
 {
   "iso2": "ph",
-  "chamber": "House of Representatives",
-  "items": [],
+  "items": [
+    {
+      "id": "money",
+      "hole": "No sourced money file.",
+      "basis": "Evidence"
+    }
+  ],
   "incomplete": true,
-  "retrieved": "2026-08-21",
-  "examined_pledges": 12,
-  "examined_votes": 67,
-  "named_votes": 0,
-  "same_issue_pairs": 4,
-  "pairs_with_member_side": 0,
-  "note": "Dual-source exam 2026-08-21: sitting member broke their own sourced pledge on a mapped vote that already stores yea/nay. 12 sourced pledges × 67 votes (0 named). 4 same-issue pairs; 0 with this member's yea/nay. House Journals publish totals only; member yeas were not invented and are not stored. Gap 0. Honest empty."
+  "retrieved": "2026-09-06",
+  "note": "Full-ISO fill 2026-09-06. Chambers: Congress of the Philippines · House of Representatives of the Philippines · Senate of the Philippines. Sitting 317. Empty objects not invented."
 }

@@ -1,0 +1,44 @@
+{
+  "iso2": "kp",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q423",
+  "bodies": [
+    {
+      "qid": "Q21328639",
+      "label": "member of the Supreme People's Assembly",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q714698",
+      "label": "Supreme People's Assembly",
+      "seats": 687,
+      "web": "",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "member of the Supreme People's Assembly"
+  ],
+  "seats": 687,
+  "items": [
+    {
+      "id": "Q21328639",
+      "name": "member of the Supreme People's Assembly",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q21328639"
+    },
+    {
+      "id": "Q714698",
+      "name": "Supreme People's Assembly",
+      "kind": "parliament",
+      "seats": 687,
+      "url": "https://www.wikidata.org/wiki/Q714698"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

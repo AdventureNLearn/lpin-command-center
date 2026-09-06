@@ -1,0 +1,59 @@
+{
+  "iso2": "bb",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q244",
+  "bodies": [
+    {
+      "qid": "Q2565909",
+      "label": "Parliament of Barbados",
+      "seats": 0,
+      "web": "https://www.barbadosparliament.com/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q586461",
+      "label": "Senate of Barbados",
+      "seats": 21,
+      "web": "https://www.barbadosparliament.com/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q570619",
+      "label": "House of Assembly of Barbados",
+      "seats": 30,
+      "web": "https://www.barbadosparliament.com/",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Senate of Barbados",
+    "House of Assembly of Barbados"
+  ],
+  "seats": 51,
+  "items": [
+    {
+      "id": "Q2565909",
+      "name": "Parliament of Barbados",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://www.barbadosparliament.com/"
+    },
+    {
+      "id": "Q586461",
+      "name": "Senate of Barbados",
+      "kind": "chamber",
+      "seats": 21,
+      "url": "https://www.barbadosparliament.com/"
+    },
+    {
+      "id": "Q570619",
+      "name": "House of Assembly of Barbados",
+      "kind": "chamber",
+      "seats": 30,
+      "url": "https://www.barbadosparliament.com/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

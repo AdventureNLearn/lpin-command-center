@@ -2,10 +2,10 @@
   "iso2": "de",
   "name": "Germany",
   "region": "europe",
-  "chamber": "Bundestag",
-  "houses": "",
+  "chamber": "Bundesrat",
+  "houses": "bicameral",
   "system": "",
-  "seats": 630,
+  "seats": 699,
   "election": "",
   "session": "21. Wahlperiode (2025–)",
   "kit": "map",
@@ -20,7 +20,8 @@
     "votes": 479,
     "committees": 46,
     "key_votes": 479,
-    "sourced_quotes": 86
+    "sourced_quotes": 86,
+    "pledged": 86
   },
   "capabilities": [
     "members",
@@ -39,7 +40,7 @@
   "lane": "gold-kit-8103",
   "source_live": null,
   "note": "DE leftover QA merge 2026-08-21. Sit 630. Pledges 86 personal https (76 prior + 10 leftover owner-matched). votes.json not rewritten (479/479 named). gap.json.tmp skipped. No rematch. No NL.",
-  "roster_source": "https://www.wikidata.org/wiki/Q1939555",
+  "roster_source": "https://www.wikidata.org/wiki/Q146138",
   "honest_complete": true,
   "named_donors": false
 }

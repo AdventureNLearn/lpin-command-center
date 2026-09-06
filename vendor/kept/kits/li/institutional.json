@@ -1,0 +1,44 @@
+{
+  "iso2": "li",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q347",
+  "bodies": [
+    {
+      "qid": "Q1149644",
+      "label": "Landtag of Liechtenstein",
+      "seats": 25,
+      "web": "https://www.landtag.li/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q21328607",
+      "label": "member of the Landtag of Liechtenstein",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "member of the Landtag of Liechtenstein"
+  ],
+  "seats": 25,
+  "items": [
+    {
+      "id": "Q1149644",
+      "name": "Landtag of Liechtenstein",
+      "kind": "parliament",
+      "seats": 25,
+      "url": "https://www.landtag.li/"
+    },
+    {
+      "id": "Q21328607",
+      "name": "member of the Landtag of Liechtenstein",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q21328607"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

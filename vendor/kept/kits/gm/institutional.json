@@ -1,0 +1,44 @@
+{
+  "iso2": "gm",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q1005",
+  "bodies": [
+    {
+      "qid": "Q21295984",
+      "label": "Member of the National Assembly of Gambia",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1427127",
+      "label": "National Assembly of The Gambia",
+      "seats": 58,
+      "web": "https://www.assembly.gm/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Member of the National Assembly of Gambia"
+  ],
+  "seats": 58,
+  "items": [
+    {
+      "id": "Q21295984",
+      "name": "Member of the National Assembly of Gambia",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q21295984"
+    },
+    {
+      "id": "Q1427127",
+      "name": "National Assembly of The Gambia",
+      "kind": "parliament",
+      "seats": 58,
+      "url": "https://www.assembly.gm/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

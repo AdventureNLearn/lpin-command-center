@@ -1,11 +1,7 @@
 {
   "iso2": "id",
-  "named_donors": false,
-  "buckets": [],
-  "unit": null,
-  "sitting_total_reconstructed": null,
+  "items": [],
   "incomplete": true,
-  "source_url": "https://peraturan.bpk.go.id/Details/64525",
-  "retrieved": "2026-08-20",
-  "note": "No sitting-only DPR occupation aggregate after examining official peraturan / KPK explainer / BPS / Kemendagri / KPU pages that returned 200. peraturan.bpk.go.id PP 1/2018 HTTP 200 / PDF 200 is the statutory per-suara-sah rate (Rp1.000 pusat / Rp1.200 provinsi / Rp1.500 kabupaten-kota), not an APBN sitting-DPR disbursement table; rate×votes not stored. www.bps.go.id HTTP 403 (403 not looped). sirusa.web.bps.go.id metadata HTTP 200 is a kegiatan catalog, not a sitting-DPR pekerjaan table. KPK LHKPN explainer HTTP 200; ACLC HTTP 200. elhkpn.kpk.go.id HTTP 0 is a name/year/institution search form, not a sitting register; individual LHKPN names were not summed into rupiah. Kemendagri home HTTP 200 (berita/data-pokok JS shells, no subsidy table in served HTML). KPU home HTTP 200; LPPDK filings name private contributors and were not collected. dpr.go.id skipped (known 403). peraturan.go.id not looped (prior timeout). Named private donors not collected. Occupation / public-finance buckets left empty. No invented rupiah totals. Honest empty."
+  "retrieved": "2026-09-06",
+  "note": "No sourced money for this ISO. Not invented."
 }

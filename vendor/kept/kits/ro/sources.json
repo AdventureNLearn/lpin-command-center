@@ -3,8 +3,53 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1813360"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1813360",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q320306",
+      "label": "Chamber of Deputies of Romania",
+      "url": "http://www.cdep.ro",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q320306",
+      "label": "Chamber of Deputies of Romania (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q320306",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1813360",
+      "label": "Parliament of Romania",
+      "url": "http://www.parlament.ro/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1813360",
+      "label": "Parliament of Romania (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1813360",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1466018",
+      "label": "Senate",
+      "url": "https://www.senat.ro",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1466018",
+      "label": "Senate (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1466018",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

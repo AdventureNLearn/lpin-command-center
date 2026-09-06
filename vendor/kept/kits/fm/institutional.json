@@ -1,0 +1,59 @@
+{
+  "iso2": "fm",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q702",
+  "bodies": [
+    {
+      "qid": "Q21328596",
+      "label": "member of the Congress of the Federated States of Micronesia",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q108873282",
+      "label": "Speaker of the Congress of the Federated States of Micronesia",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1287548",
+      "label": "Congress of the Federated States of Micronesia",
+      "seats": 14,
+      "web": "https://cfsm.gov.fm/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "member of the Congress of the Federated States of Micronesia",
+    "Speaker of the Congress of the Federated States of Micronesia"
+  ],
+  "seats": 14,
+  "items": [
+    {
+      "id": "Q21328596",
+      "name": "member of the Congress of the Federated States of Micronesia",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q21328596"
+    },
+    {
+      "id": "Q108873282",
+      "name": "Speaker of the Congress of the Federated States of Micronesia",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q108873282"
+    },
+    {
+      "id": "Q1287548",
+      "name": "Congress of the Federated States of Micronesia",
+      "kind": "parliament",
+      "seats": 14,
+      "url": "https://cfsm.gov.fm/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

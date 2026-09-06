@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q818691"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q818691",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21328600",
+      "label": "Member of the Consultative Assembly of Qatar (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21328600",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q818691",
+      "label": "Consultative Assembly of Qatar",
+      "url": "https://www.shura.qa/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q818691",
+      "label": "Consultative Assembly of Qatar (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q818691",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

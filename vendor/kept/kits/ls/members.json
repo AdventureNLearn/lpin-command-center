@@ -3,15 +3,267 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q4345419",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 1,
+  "incomplete": true,
+  "claimed_seats": 153,
+  "chambers": [
+    "Senate of Lesotho",
+    "National Assembly",
+    "Parliament of Lesotho"
+  ],
   "items": [
     {
-      "id": "mahali-phamotse",
-      "name": "Mahali Phamotse",
+      "id": "prince-seeiso-of-lesotho-q927191",
+      "name": "Prince Seeiso of Lesotho",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Lesotho",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5768127"
+    },
+    {
+      "id": "mohlabi-tsekoa-q927191",
+      "name": "Mohlabi Tsekoa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Lesotho",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58227"
+    },
+    {
+      "id": "pontso-sekatle-q927191",
+      "name": "Pontso Sekatle",
+      "sitting": true,
+      "party_id": "lesotho-congress-for-democracy",
+      "caucus": "Lesotho Congress for Democracy",
+      "constituency_label": "",
+      "chamber": "Senate of Lesotho",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7228376"
+    },
+    {
+      "id": "mathibeli-mokhothu-q1138713",
+      "name": "Mathibeli Mokhothu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q96286614"
+    },
+    {
+      "id": "justin-lekhanya-q1138713",
+      "name": "Justin Lekhanya",
+      "sitting": true,
+      "party_id": "basotho-national-party",
+      "caucus": "Basotho National Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1397999"
+    },
+    {
+      "id": "tom-thabane-q1138713",
+      "name": "Tom Thabane",
+      "sitting": true,
+      "party_id": "all-basotho-convention",
+      "caucus": "All Basotho Convention",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q983971"
+    },
+    {
+      "id": "kelebone-maope-q1138713",
+      "name": "Kelebone Maope",
+      "sitting": true,
+      "party_id": "lesotho-congress-for-democracy",
+      "caucus": "Lesotho Congress for Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1738158"
+    },
+    {
+      "id": "lesao-lehohla-q1138713",
+      "name": "Lesao Lehohla",
+      "sitting": true,
+      "party_id": "lesotho-congress-for-democracy",
+      "caucus": "Lesotho Congress for Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6530223"
+    },
+    {
+      "id": "pakalitha-mosisili-q1138713",
+      "name": "Pakalitha Mosisili",
+      "sitting": true,
+      "party_id": "democratic-congress",
+      "caucus": "Democratic Congress",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57732"
+    },
+    {
+      "id": "monyane-moleleki-q1138713",
+      "name": "Monyane Moleleki",
+      "sitting": true,
+      "party_id": "basutoland-congress-party",
+      "caucus": "Basutoland Congress Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1946582"
+    },
+    {
+      "id": "ntsu-mokhehle-q1138713",
+      "name": "Ntsu Mokhehle",
+      "sitting": true,
+      "party_id": "lesotho-congress-for-democracy",
+      "caucus": "Lesotho Congress for Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q278544"
+    },
+    {
+      "id": "makabelo-mosothoane-q1138713",
+      "name": "'Makabelo Mosothoane",
+      "sitting": true,
+      "party_id": "lesotho-congress-for-democracy",
+      "caucus": "Lesotho Congress for Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q27449430"
+    },
+    {
+      "id": "dominic-motikoe-q1138713",
+      "name": "Dominic Motikoe",
+      "sitting": true,
+      "party_id": "national-independent-party",
+      "caucus": "National Independent Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5290605"
+    },
+    {
+      "id": "mohlabi-tsekoa-q1138713",
+      "name": "Mohlabi Tsekoa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58227"
+    },
+    {
+      "id": "ntlhoi-motsamai-q1138713",
+      "name": "Ntlhoi Motsamai",
+      "sitting": true,
+      "party_id": "lesotho-congress-for-democracy",
+      "caucus": "Lesotho Congress for Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7067635"
+    },
+    {
+      "id": "mothetjoa-metsing-q1138713",
+      "name": "Mothetjoa Metsing",
+      "sitting": true,
+      "party_id": "lesotho-congress-for-democracy",
+      "caucus": "Lesotho Congress for Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17781861"
+    },
+    {
+      "id": "pontso-sekatle-q1138713",
+      "name": "Pontso Sekatle",
+      "sitting": true,
+      "party_id": "lesotho-congress-for-democracy",
+      "caucus": "Lesotho Congress for Democracy",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7228376"
+    },
+    {
+      "id": "mophato-monyake-q1138713",
+      "name": "Mophato Monyake",
+      "sitting": true,
+      "party_id": "all-basotho-convention",
+      "caucus": "All Basotho Convention",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16194214"
+    },
+    {
+      "id": "leabua-jonathan-q1138713",
+      "name": "Leabua Jonathan",
+      "sitting": true,
+      "party_id": "basotho-national-party",
+      "caucus": "Basotho National Party",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1347953"
+    },
+    {
+      "id": "mahali-phamotse-q4345419",
+      "name": "Mahali Phamotse",
+      "sitting": true,
+      "party_id": "united-africans-transformation-lesotho",
+      "caucus": "United Africans Transformation (Lesotho)",
       "constituency_label": "",
       "chamber": "Parliament of Lesotho",
       "lang": [

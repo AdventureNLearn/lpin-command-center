@@ -3,11 +3,15 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1544714",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 96,
+  "incomplete": true,
+  "claimed_seats": 76,
+  "chambers": [
+    "member of the State Great Khural",
+    "State Great Khural"
+  ],
   "items": [
     {
-      "id": "dangaasurengiin-enkhbat",
+      "id": "dangaasurengiin-enkhbat-q1544714",
       "name": "Dangaasürengiin Enkhbat",
       "sitting": true,
       "party_id": "unknown",
@@ -20,7 +24,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q123284852"
     },
     {
-      "id": "dashjamtsyn-arvin",
+      "id": "dashjamtsyn-arvin-q1544714",
       "name": "Dashjamtsyn Arvin",
       "sitting": true,
       "party_id": "unknown",
@@ -33,7 +37,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q85851671"
     },
     {
-      "id": "enkhtaivan-bat-amgalan",
+      "id": "enkhtaivan-bat-amgalan-q1544714",
       "name": "Enkhtaivan Bat-Amgalan",
       "sitting": true,
       "party_id": "unknown",
@@ -46,7 +50,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q124660436"
     },
     {
-      "id": "khavdislam-badyelkhan",
+      "id": "khavdislam-badyelkhan-q1544714",
       "name": "Khavdislam Badyelkhan",
       "sitting": true,
       "party_id": "unknown",
@@ -59,7 +63,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q124660432"
     },
     {
-      "id": "telukhan-aubakir",
+      "id": "telukhan-aubakir-q1544714",
       "name": "Telukhan Aubakir",
       "sitting": true,
       "party_id": "unknown",
@@ -72,7 +76,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q124660423"
     },
     {
-      "id": "agiparyn-bakei",
+      "id": "agiparyn-bakei-q1544714",
       "name": "Agiparyn Bakei",
       "sitting": true,
       "party_id": "unknown",
@@ -85,7 +89,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131283757"
     },
     {
-      "id": "batsukhiin-narankhuu",
+      "id": "batsukhiin-narankhuu-q1544714",
       "name": "Batsükhiin Narankhüü",
       "sitting": true,
       "party_id": "unknown",
@@ -98,20 +102,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131283779"
     },
     {
-      "id": "almalikiin-tleikhan",
-      "name": "Almalikiin Tleikhan",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131283790"
-    },
-    {
-      "id": "batkhuugiin-garamgaibaatar",
+      "id": "batkhuugiin-garamgaibaatar-q1544714",
       "name": "Batkhüügiin Garamgaibaatar",
       "sitting": true,
       "party_id": "unknown",
@@ -124,7 +115,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131283777"
     },
     {
-      "id": "dogsomyn-battsogt",
+      "id": "dogsomyn-battsogt-q1544714",
       "name": "Dogsomyn Battsogt",
       "sitting": true,
       "party_id": "unknown",
@@ -137,7 +128,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131283761"
     },
     {
-      "id": "dashdondogiin-ganbat",
+      "id": "dashdondogiin-ganbat-q1544714",
       "name": "Dashdondogiin Ganbat",
       "sitting": true,
       "party_id": "unknown",
@@ -150,7 +141,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131283775"
     },
     {
-      "id": "damdingin-khayankhyarvaa",
+      "id": "damdingin-khayankhyarvaa-q1544714",
       "name": "Damdingin Khayankhyarvaa",
       "sitting": true,
       "party_id": "unknown",
@@ -163,7 +154,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131283778"
     },
     {
-      "id": "davaajavyn-gankhuyag",
+      "id": "davaajavyn-gankhuyag-q1544714",
       "name": "Davaajavyn Gankhuyag",
       "sitting": true,
       "party_id": "unknown",
@@ -176,20 +167,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131283776"
     },
     {
-      "id": "dashzevegiin-zorigt",
-      "name": "Dashzevegiin Zorigt",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131283794"
-    },
-    {
-      "id": "dulamsurengiin-oyuunkhorol",
+      "id": "dulamsurengiin-oyuunkhorol-q1544714",
       "name": "Dulamsürengiin Oyuunkhorol",
       "sitting": true,
       "party_id": "unknown",
@@ -202,7 +180,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131283784"
     },
     {
-      "id": "garidkhuugiin-bayarsaikhan",
+      "id": "garidkhuugiin-bayarsaikhan-q1544714",
       "name": "Garidkhüügiin Bayarsaikhan",
       "sitting": true,
       "party_id": "unknown",
@@ -215,7 +193,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131283763"
     },
     {
-      "id": "jamiyansurengiin-batsuuri",
+      "id": "jamiyansurengiin-batsuuri-q1544714",
       "name": "Jamiyansürengiin Batsuuri",
       "sitting": true,
       "party_id": "unknown",
@@ -228,20 +206,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131283759"
     },
     {
-      "id": "gantomoriin-uyanga",
-      "name": "Gantömöriin Uyanga",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131283793"
-    },
-    {
-      "id": "jargaltulgiin-erdenebat",
+      "id": "jargaltulgiin-erdenebat-q1544714",
       "name": "Jargaltulgiin Erdenebat",
       "sitting": true,
       "party_id": "unknown",
@@ -254,7 +219,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131283774"
     },
     {
-      "id": "khayangaagiin-bolorchuluun",
+      "id": "khayangaagiin-bolorchuluun-q1544714",
       "name": "Khayangaagiin Bolorchuluun",
       "sitting": true,
       "party_id": "unknown",
@@ -267,7 +232,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131283764"
     },
     {
-      "id": "luvsantserengiin-enkh-amgalan",
+      "id": "luvsantserengiin-enkh-amgalan-q1544714",
       "name": "Luvsantserengiin Enkh-Amgalan",
       "sitting": true,
       "party_id": "unknown",
@@ -280,20 +245,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131283771"
     },
     {
-      "id": "khishigdembereliin-temuujin",
-      "name": "Khishigdembereliin Temüüjin",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131283788"
-    },
-    {
-      "id": "namdagiin-battsereg",
+      "id": "namdagiin-battsereg-q1544714",
       "name": "Namdagiin Battsereg",
       "sitting": true,
       "party_id": "unknown",
@@ -306,7 +258,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131283760"
     },
     {
-      "id": "oktyabriin-baasankhuu",
+      "id": "oktyabriin-baasankhuu-q1544714",
       "name": "Oktyabriin Baasankhüü",
       "sitting": true,
       "party_id": "unknown",
@@ -319,20 +271,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131283756"
     },
     {
-      "id": "logiin-tsog",
-      "name": "Logiin Tsog",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131283791"
-    },
-    {
-      "id": "nyamtaishiriin-nomtoibayar",
+      "id": "nyamtaishiriin-nomtoibayar-q1544714",
       "name": "Nyamtaishiriin Nomtoibayar",
       "sitting": true,
       "party_id": "unknown",
@@ -345,7 +284,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131283780"
     },
     {
-      "id": "radnaagiin-burmaa",
+      "id": "radnaagiin-burmaa-q1544714",
       "name": "Radnaagiin Burmaa",
       "sitting": true,
       "party_id": "unknown",
@@ -358,7 +297,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131283765"
     },
     {
-      "id": "otgonbilegiin-sodbileg",
+      "id": "otgonbilegiin-sodbileg-q1544714",
       "name": "Otgonbilegiin Sodbileg",
       "sitting": true,
       "party_id": "unknown",
@@ -371,7 +310,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131283787"
     },
     {
-      "id": "sandagiin-byambatsogt",
+      "id": "sandagiin-byambatsogt-q1544714",
       "name": "Sandagiin Byambatsogt",
       "sitting": true,
       "party_id": "unknown",
@@ -384,7 +323,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131283766"
     },
     {
-      "id": "sambuugiin-demberel",
+      "id": "sambuugiin-demberel-q1544714",
       "name": "Sambuugiin Demberel",
       "sitting": true,
       "party_id": "unknown",
@@ -397,7 +336,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131283770"
     },
     {
-      "id": "sodnomyn-chinzorig",
+      "id": "sodnomyn-chinzorig-q1544714",
       "name": "Sodnomyn Chinzorig",
       "sitting": true,
       "party_id": "unknown",
@@ -410,7 +349,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131283767"
     },
     {
-      "id": "sodnomzunduin-erdene",
+      "id": "sodnomzunduin-erdene-q1544714",
       "name": "Sodnomzunduin Erdene",
       "sitting": true,
       "party_id": "unknown",
@@ -423,7 +362,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131283773"
     },
     {
-      "id": "saldangiin-odontuyaa",
+      "id": "saldangiin-odontuyaa-q1544714",
       "name": "Saldangiin Odontuyaa",
       "sitting": true,
       "party_id": "unknown",
@@ -436,20 +375,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131283781"
     },
     {
-      "id": "sharavdorjiin-tuvdendorj",
-      "name": "Sharavdorjiin Tüvdendorj",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q131283792"
-    },
-    {
-      "id": "tsedeviin-dashdorj",
+      "id": "tsedeviin-dashdorj-q1544714",
       "name": "Tsedeviin Dashdorj",
       "sitting": true,
       "party_id": "unknown",
@@ -462,7 +388,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131283768"
     },
     {
-      "id": "tserenpiliin-davaasuren",
+      "id": "tserenpiliin-davaasuren-q1544714",
       "name": "Tserenpiliin Davaasüren",
       "sitting": true,
       "party_id": "unknown",
@@ -475,7 +401,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131283769"
     },
     {
-      "id": "tserendashiin-oyuunbaatar",
+      "id": "tserendashiin-oyuunbaatar-q1544714",
       "name": "Tserendashiin Oyuunbaatar",
       "sitting": true,
       "party_id": "unknown",
@@ -488,7 +414,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131283782"
     },
     {
-      "id": "tsedevdambyn-oyuungerel",
+      "id": "tsedevdambyn-oyuungerel-q1544714",
       "name": "Tsedevdambyn Oyuungerel",
       "sitting": true,
       "party_id": "unknown",
@@ -501,7 +427,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131283783"
     },
     {
-      "id": "zangadyn-bayanselenge",
+      "id": "zangadyn-bayanselenge-q1544714",
       "name": "Zangadyn Bayanselenge",
       "sitting": true,
       "party_id": "unknown",
@@ -514,7 +440,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131283762"
     },
     {
-      "id": "yangugiin-sodbaatar",
+      "id": "yangugiin-sodbaatar-q1544714",
       "name": "Yangugiin Sodbaatar",
       "sitting": true,
       "party_id": "unknown",
@@ -527,7 +453,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q131283786"
     },
     {
-      "id": "yadamsurengiin-sanjmyatav",
+      "id": "yadamsurengiin-sanjmyatav-q1544714",
       "name": "Yadamsürengiin Sanjmyatav",
       "sitting": true,
       "party_id": "unknown",
@@ -540,466 +466,11 @@
       "roster_url": "http://www.wikidata.org/entity/Q131283785"
     },
     {
-      "id": "rinchinnyamyn-amarjargal",
-      "name": "Rinchinnyamyn Amarjargal",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1393569"
-    },
-    {
-      "id": "mishigiin-sonompil",
-      "name": "Mishigiin Sonompil",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2153936"
-    },
-    {
-      "id": "oyuun-sanjaasuren",
-      "name": "Oyuun Sanjaasüren",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q276238"
-    },
-    {
-      "id": "sukhbaataryn-batbold",
-      "name": "Sükhbaataryn Batbold",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q372202"
-    },
-    {
-      "id": "nyamaagiin-enkhbold",
-      "name": "Nyamaagiin Enkhbold",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3346574"
-    },
-    {
-      "id": "olziisaikhan-enkhtuvshin",
-      "name": "Olziisaikhan Enkhtuvshin",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3351752"
-    },
-    {
-      "id": "chimediin-saikhanbileg",
-      "name": "Chimediin Saikhanbileg",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q15934317"
-    },
-    {
-      "id": "dolgorsurengiin-sumiyaabazar",
-      "name": "Dolgorsürengiin Sumiyaabazar",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3874608"
-    },
-    {
-      "id": "yondongiin-otgonbayar",
-      "name": "Yondongiin Otgonbayar",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4053765"
-    },
-    {
-      "id": "miyeegombyn-enkhbold",
-      "name": "Miyeegombyn Enkhbold",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q558683"
-    },
-    {
-      "id": "badmaanyambuugiin-bat-erdene",
-      "name": "Badmaanyambuugiin Bat-Erdene",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4841019"
-    },
-    {
-      "id": "monkhchuluuny-zorigt",
-      "name": "Mönkhchuluuny Zorigt",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19517912"
-    },
-    {
-      "id": "sainkhuugiin-ganbaatar",
-      "name": "Sainkhüügiin Ganbaatar",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q20609374"
-    },
-    {
-      "id": "luvsannyam-gantumur",
-      "name": "Luvsannyam Gantumur",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q20610865"
-    },
-    {
-      "id": "nomtoibayar-nyamtaishir",
-      "name": "Nomtoibayar Nyamtaishir",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q20611540"
-    },
-    {
-      "id": "luvsangiin-erdenechimeg",
-      "name": "Luvsangiin Erdenechimeg",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q20612402"
-    },
-    {
-      "id": "damdiny-demberel",
-      "name": "Damdiny Demberel",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q81067"
-    },
-    {
-      "id": "zandaakhuugiin-enkhbold",
-      "name": "Zandaakhüügiin Enkhbold",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q81065"
-    },
-    {
-      "id": "togmidyn-dorjkhand",
-      "name": "Togmidyn Dorjkhand",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Khan-Uul",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q113027310"
-    },
-    {
-      "id": "batchimeg-migeddorj",
-      "name": "Batchimeg Migeddorj",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q24174857"
-    },
-    {
-      "id": "enkh-amgalan-luvsantseren",
-      "name": "Enkh-Amgalan Luvsantseren",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q24174849"
-    },
-    {
-      "id": "nyamjavyn-batbayar",
-      "name": "Nyamjavyn Batbayar",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7070853"
-    },
-    {
-      "id": "damdin-khayankhyarvaa",
-      "name": "Damdin Khayankhyarvaa",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q25632752"
-    },
-    {
-      "id": "khurelsukh-ukhnaa",
-      "name": "Khurelsukh Ukhnaa",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q27058418"
-    },
-    {
-      "id": "tsendiin-nyamdorj",
-      "name": "Tsendiin Nyamdorj",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7849526"
-    },
-    {
-      "id": "battogtokh-choijilsuren",
-      "name": "Battogtokh Choijilsuren",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q30951223"
-    },
-    {
-      "id": "sunduin-batbold",
-      "name": "Sunduin Batbold",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q31795579"
-    },
-    {
-      "id": "khaltmaagiin-battulga",
-      "name": "Khaltmaagiin Battulga",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q9122260"
-    },
-    {
-      "id": "gavaagiin-batkhuu",
-      "name": "Gavaagiin Batkhüü",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q9123176"
-    },
-    {
-      "id": "dondogdorjiin-erdenebat",
-      "name": "Dondogdorjiin Erdenebat",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q9144761"
-    },
-    {
-      "id": "sangajavyn-bayartsogt",
-      "name": "Sangajavyn Bayartsogt",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q9297131"
-    },
-    {
-      "id": "chultemiin-ulaan",
-      "name": "Chültemiin Ulaan",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q9299563"
-    },
-    {
-      "id": "tsolmon-tserendash",
-      "name": "Tsolmon Tserendash",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q9322770"
-    },
-    {
-      "id": "davaajantsangiin-sarangerel",
-      "name": "Davaajantsangiin Sarangerel",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q42934448"
-    },
-    {
-      "id": "duger-regdel",
-      "name": "Duger Regdel",
-      "sitting": true,
-      "party_id": "mongolian-people-s-party",
-      "caucus": "Mongolian People's Party",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q117953856"
-    },
-    {
-      "id": "radnaasumbereliyn-gonchigdorj",
+      "id": "radnaasumbereliyn-gonchigdorj-q1544714",
       "name": "Radnaasumbereliyn Gonchigdorj",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "mongolian-social-democratic-party",
+      "caucus": "Mongolian Social Democratic Party",
       "constituency_label": "",
       "chamber": "State Great Khural",
       "lang": [
@@ -1008,150 +479,46 @@
       "roster_url": "http://www.wikidata.org/entity/Q64586913"
     },
     {
-      "id": "dashdemberal-bat-erdene",
-      "name": "Dashdemberal Bat-Erdene",
+      "id": "danzan-lundeejantsan-q1544714",
+      "name": "Danzan Lundeejantsan",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "mongolian-people-s-party",
+      "caucus": "Mongolian People's Party",
       "constituency_label": "",
       "chamber": "State Great Khural",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q64878246"
+      "roster_url": "http://www.wikidata.org/entity/Q24174854"
     },
     {
-      "id": "norovyn-altankhuyag",
-      "name": "Norovyn Altankhuyag",
+      "id": "khurelsukh-ukhnaa-q1544714",
+      "name": "Khurelsukh Ukhnaa",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "mongolian-people-s-party",
+      "caucus": "Mongolian People's Party",
       "constituency_label": "",
       "chamber": "State Great Khural",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q57888"
+      "roster_url": "http://www.wikidata.org/entity/Q27058418"
     },
     {
-      "id": "chimediin-khurelbaatar",
-      "name": "Chimediin Khürelbaatar",
+      "id": "badmaanyambuugiin-bat-erdene-q1544714",
+      "name": "Badmaanyambuugiin Bat-Erdene",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "mongolian-people-s-party",
+      "caucus": "Mongolian People's Party",
       "constituency_label": "",
       "chamber": "State Great Khural",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q110167847"
+      "roster_url": "http://www.wikidata.org/entity/Q4841019"
     },
     {
-      "id": "yondonperenlein-baatarbileg",
-      "name": "Yondonperenlein Baatarbileg",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q110168270"
-    },
-    {
-      "id": "sainbuyan-amarsaikhan",
-      "name": "Sainbuyan Amarsaikhan",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q110168680"
-    },
-    {
-      "id": "bayarbaataryn-bolor",
-      "name": "Bayarbaataryn Bolor",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q110943350"
-    },
-    {
-      "id": "shirnenbanid-adishaa",
-      "name": "Shirnenbanid Adishaa",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q115871817"
-    },
-    {
-      "id": "amgalan-adiyasuren",
-      "name": "Amgalan Adiyasuren",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q115872116"
-    },
-    {
-      "id": "ganibal-amartuvshin",
-      "name": "Ganibal Amartuvshin",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q115903078"
-    },
-    {
-      "id": "purev-ochiryn-anujin",
-      "name": "Purev-Ochiryn Anujin",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q116256552"
-    },
-    {
-      "id": "tsogt-ochir-anandbazar",
-      "name": "Tsogt-Ochir Anandbazar",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "State Great Khural",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q116256526"
-    },
-    {
-      "id": "jadambyn-enkhbayar",
+      "id": "jadambyn-enkhbayar-q1544714",
       "name": "Jadambyn Enkhbayar",
       "sitting": true,
       "party_id": "unknown",
@@ -1164,8 +531,8 @@
       "roster_url": "http://www.wikidata.org/entity/Q9143473"
     },
     {
-      "id": "gombojavyn-zandanshatar",
-      "name": "Gombojavyn Zandanshatar",
+      "id": "tsendiin-damdinsuren-q1544714",
+      "name": "Tsendiin Damdinsüren",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -1174,11 +541,50 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q4142905"
+      "roster_url": "http://www.wikidata.org/entity/Q2068149"
     },
     {
-      "id": "lodoisambuu-chuluunbileg",
-      "name": "Lodoisambuu Chuluunbileg",
+      "id": "monkhchuluuny-zorigt-q1544714",
+      "name": "Mönkhchuluuny Zorigt",
+      "sitting": true,
+      "party_id": "democratic-party",
+      "caucus": "Democratic Party",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19517912"
+    },
+    {
+      "id": "sanjaasurengiin-zorig-q1544714",
+      "name": "Sanjaasürengiin Zorig",
+      "sitting": true,
+      "party_id": "democratic-party",
+      "caucus": "Democratic Party",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3051543"
+    },
+    {
+      "id": "norovyn-altankhuyag-q1544714",
+      "name": "Norovyn Altankhuyag",
+      "sitting": true,
+      "party_id": "democratic-party",
+      "caucus": "Democratic Party",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57888"
+    },
+    {
+      "id": "jamiyan-munkhbat-q1544714",
+      "name": "Jamiyan Munkhbat",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -1187,11 +593,24 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q136698400"
+      "roster_url": "http://www.wikidata.org/entity/Q16905174"
     },
     {
-      "id": "batyn-batbaatar",
-      "name": "Batyn Batbaatar",
+      "id": "sukhbaataryn-batbold-q1544714",
+      "name": "Sükhbaataryn Batbold",
+      "sitting": true,
+      "party_id": "mongolian-people-s-party",
+      "caucus": "Mongolian People's Party",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q372202"
+    },
+    {
+      "id": "dolgorsurengiin-sumiyaabazar-q1544714",
+      "name": "Dolgorsürengiin Sumiyaabazar",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -1200,11 +619,37 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q138654832"
+      "roster_url": "http://www.wikidata.org/entity/Q3874608"
     },
     {
-      "id": "jadambyn-bat-erdene",
-      "name": "Jadambyn Bat-Erdene",
+      "id": "tsendiin-nyamdorj-q1544714",
+      "name": "Tsendiin Nyamdorj",
+      "sitting": true,
+      "party_id": "mongolian-people-s-party",
+      "caucus": "Mongolian People's Party",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7849526"
+    },
+    {
+      "id": "khaltmaagiin-battulga-q1544714",
+      "name": "Khaltmaagiin Battulga",
+      "sitting": true,
+      "party_id": "democratic-party",
+      "caucus": "Democratic Party",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q9122260"
+    },
+    {
+      "id": "luvsannyam-gantumur-q1544714",
+      "name": "Luvsannyam Gantumur",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -1213,11 +658,11 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q139410767"
+      "roster_url": "http://www.wikidata.org/entity/Q20610865"
     },
     {
-      "id": "dendev-terbishdagva",
-      "name": "Dendev Terbishdagva",
+      "id": "nomtoibayar-nyamtaishir-q1544714",
+      "name": "Nomtoibayar Nyamtaishir",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -1226,10 +671,166 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q9318440"
+      "roster_url": "http://www.wikidata.org/entity/Q20611540"
     },
     {
-      "id": "tsevelmaagiin-bayarsaikhan",
+      "id": "luvsangiin-erdenechimeg-q1544714",
+      "name": "Luvsangiin Erdenechimeg",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20612402"
+    },
+    {
+      "id": "batchimeg-migeddorj-q1544714",
+      "name": "Batchimeg Migeddorj",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24174857"
+    },
+    {
+      "id": "enkh-amgalan-luvsantseren-q1544714",
+      "name": "Enkh-Amgalan Luvsantseren",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24174849"
+    },
+    {
+      "id": "damdin-khayankhyarvaa-q1544714",
+      "name": "Damdin Khayankhyarvaa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q25632752"
+    },
+    {
+      "id": "nyamjavyn-batbayar-q1544714",
+      "name": "Nyamjavyn Batbayar",
+      "sitting": true,
+      "party_id": "democratic-party",
+      "caucus": "Democratic Party",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7070853"
+    },
+    {
+      "id": "battogtokh-choijilsuren-q1544714",
+      "name": "Battogtokh Choijilsuren",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q30951223"
+    },
+    {
+      "id": "sunduin-batbold-q1544714",
+      "name": "Sunduin Batbold",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q31795579"
+    },
+    {
+      "id": "gavaagiin-batkhuu-q1544714",
+      "name": "Gavaagiin Batkhüü",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q9123176"
+    },
+    {
+      "id": "dondogdorjiin-erdenebat-q1544714",
+      "name": "Dondogdorjiin Erdenebat",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q9144761"
+    },
+    {
+      "id": "sangajavyn-bayartsogt-q1544714",
+      "name": "Sangajavyn Bayartsogt",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q9297131"
+    },
+    {
+      "id": "chultemiin-ulaan-q1544714",
+      "name": "Chültemiin Ulaan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q9299563"
+    },
+    {
+      "id": "tsolmon-tserendash-q1544714",
+      "name": "Tsolmon Tserendash",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q9322770"
+    },
+    {
+      "id": "tsevelmaagiin-bayarsaikhan-q1544714",
       "name": "Tsevelmaagiin Bayarsaikhan",
       "sitting": true,
       "party_id": "unknown",
@@ -1242,7 +843,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q9322877"
     },
     {
-      "id": "luvsanvandangiin-bold",
+      "id": "luvsanvandangiin-bold-q1544714",
       "name": "Luvsanvandangiin Bold",
       "sitting": true,
       "party_id": "unknown",
@@ -1253,6 +854,474 @@
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q9452277"
+    },
+    {
+      "id": "dendev-terbishdagva-q1544714",
+      "name": "Dendev Terbishdagva",
+      "sitting": true,
+      "party_id": "democratic-party",
+      "caucus": "Democratic Party",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q9318440"
+    },
+    {
+      "id": "yondongiin-otgonbayar-q1544714",
+      "name": "Yondongiin Otgonbayar",
+      "sitting": true,
+      "party_id": "mongolian-people-s-party",
+      "caucus": "Mongolian People's Party",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4053765"
+    },
+    {
+      "id": "togmidyn-dorjkhand-q1544714",
+      "name": "Togmidyn Dorjkhand",
+      "sitting": true,
+      "party_id": "hun-party",
+      "caucus": "Hun Party",
+      "constituency_label": "Khan-Uul",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q113027310"
+    },
+    {
+      "id": "davaajantsangiin-sarangerel-q1544714",
+      "name": "Davaajantsangiin Sarangerel",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q42934448"
+    },
+    {
+      "id": "gombojavyn-zandanshatar-q1544714",
+      "name": "Gombojavyn Zandanshatar",
+      "sitting": true,
+      "party_id": "mongolian-people-s-party",
+      "caucus": "Mongolian People's Party",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4142905"
+    },
+    {
+      "id": "oyuun-sanjaasuren-q1544714",
+      "name": "Oyuun Sanjaasüren",
+      "sitting": true,
+      "party_id": "civil-will-green-party",
+      "caucus": "Civil Will-Green Party",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q276238"
+    },
+    {
+      "id": "jalbasurengiin-batzandan-q1544714",
+      "name": "Jalbasürengiin Batzandan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q47668202"
+    },
+    {
+      "id": "nyamaagiin-enkhbold-q1544714",
+      "name": "Nyamaagiin Enkhbold",
+      "sitting": true,
+      "party_id": "mongolian-people-s-party",
+      "caucus": "Mongolian People's Party",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3346574"
+    },
+    {
+      "id": "olziisaikhan-enkhtuvshin-q1544714",
+      "name": "Olziisaikhan Enkhtuvshin",
+      "sitting": true,
+      "party_id": "mongolian-people-s-party",
+      "caucus": "Mongolian People's Party",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3351752"
+    },
+    {
+      "id": "chimediin-saikhanbileg-q1544714",
+      "name": "Chimediin Saikhanbileg",
+      "sitting": true,
+      "party_id": "democratic-party",
+      "caucus": "Democratic Party",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15934317"
+    },
+    {
+      "id": "sainkhuugiin-ganbaatar-q1544714",
+      "name": "Sainkhüügiin Ganbaatar",
+      "sitting": true,
+      "party_id": "mongolian-people-s-revolutionary-party",
+      "caucus": "Mongolian People's Revolutionary Party",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20609374"
+    },
+    {
+      "id": "mishigiin-sonompil-q1544714",
+      "name": "Mishigiin Sonompil",
+      "sitting": true,
+      "party_id": "democratic-party",
+      "caucus": "Democratic Party",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2153936"
+    },
+    {
+      "id": "zandaakhuugiin-enkhbold-q1544714",
+      "name": "Zandaakhüügiin Enkhbold",
+      "sitting": true,
+      "party_id": "democratic-party",
+      "caucus": "Democratic Party",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q81065"
+    },
+    {
+      "id": "miyeegombyn-enkhbold-q1544714",
+      "name": "Miyeegombyn Enkhbold",
+      "sitting": true,
+      "party_id": "mongolian-people-s-party",
+      "caucus": "Mongolian People's Party",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q558683"
+    },
+    {
+      "id": "damdiny-demberel-q1544714",
+      "name": "Damdiny Demberel",
+      "sitting": true,
+      "party_id": "mongolian-people-s-party",
+      "caucus": "Mongolian People's Party",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q81067"
+    },
+    {
+      "id": "chimediin-khurelbaatar-q1544714",
+      "name": "Chimediin Khürelbaatar",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110167847"
+    },
+    {
+      "id": "yondonperenlein-baatarbileg-q1544714",
+      "name": "Yondonperenlein Baatarbileg",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110168270"
+    },
+    {
+      "id": "sainbuyan-amarsaikhan-q1544714",
+      "name": "Sainbuyan Amarsaikhan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110168680"
+    },
+    {
+      "id": "dashdemberal-bat-erdene-q1544714",
+      "name": "Dashdemberal Bat-Erdene",
+      "sitting": true,
+      "party_id": "democratic-party",
+      "caucus": "Democratic Party",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q64878246"
+    },
+    {
+      "id": "bayarbaataryn-bolor-q1544714",
+      "name": "Bayarbaataryn Bolor",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110943350"
+    },
+    {
+      "id": "rinchinnyamyn-amarjargal-q1544714",
+      "name": "Rinchinnyamyn Amarjargal",
+      "sitting": true,
+      "party_id": "democratic-party",
+      "caucus": "Democratic Party",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1393569"
+    },
+    {
+      "id": "shirnenbanid-adishaa-q1544714",
+      "name": "Shirnenbanid Adishaa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q115871817"
+    },
+    {
+      "id": "amgalan-adiyasuren-q1544714",
+      "name": "Amgalan Adiyasuren",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q115872116"
+    },
+    {
+      "id": "ganibal-amartuvshin-q1544714",
+      "name": "Ganibal Amartuvshin",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q115903078"
+    },
+    {
+      "id": "purev-ochiryn-anujin-q1544714",
+      "name": "Purev-Ochiryn Anujin",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116256552"
+    },
+    {
+      "id": "tsogt-ochir-anandbazar-q1544714",
+      "name": "Tsogt-Ochir Anandbazar",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116256526"
+    },
+    {
+      "id": "duger-regdel-q1544714",
+      "name": "Duger Regdel",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q117953856"
+    },
+    {
+      "id": "almalikiin-tleikhan-q1544714",
+      "name": "Almalikiin Tleikhan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131283790"
+    },
+    {
+      "id": "dashzevegiin-zorigt-q1544714",
+      "name": "Dashzevegiin Zorigt",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131283794"
+    },
+    {
+      "id": "gantomoriin-uyanga-q1544714",
+      "name": "Gantömöriin Uyanga",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131283793"
+    },
+    {
+      "id": "khishigdembereliin-temuujin-q1544714",
+      "name": "Khishigdembereliin Temüüjin",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131283788"
+    },
+    {
+      "id": "logiin-tsog-q1544714",
+      "name": "Logiin Tsog",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131283791"
+    },
+    {
+      "id": "sharavdorjiin-tuvdendorj-q1544714",
+      "name": "Sharavdorjiin Tüvdendorj",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131283792"
+    },
+    {
+      "id": "batyn-batbaatar-q1544714",
+      "name": "Batyn Batbaatar",
+      "sitting": true,
+      "party_id": "democratic-party",
+      "caucus": "Democratic Party",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q138654832"
+    },
+    {
+      "id": "lodoisambuu-chuluunbileg-q1544714",
+      "name": "Lodoisambuu Chuluunbileg",
+      "sitting": true,
+      "party_id": "democratic-party",
+      "caucus": "Democratic Party",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q136698400"
+    },
+    {
+      "id": "jadambyn-bat-erdene-q1544714",
+      "name": "Jadambyn Bat-Erdene",
+      "sitting": true,
+      "party_id": "mongolian-people-s-party",
+      "caucus": "Mongolian People's Party",
+      "constituency_label": "",
+      "chamber": "State Great Khural",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q139410767"
     }
   ]
 }

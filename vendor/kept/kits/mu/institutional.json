@@ -1,0 +1,44 @@
+{
+  "iso2": "mu",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q1027",
+  "bodies": [
+    {
+      "qid": "Q21295993",
+      "label": "Member of the National Assembly of Mauritius",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1854129",
+      "label": "National Assembly of Mauritius",
+      "seats": 70,
+      "web": "https://mauritiusassembly.govmu.org/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Member of the National Assembly of Mauritius"
+  ],
+  "seats": 70,
+  "items": [
+    {
+      "id": "Q21295993",
+      "name": "Member of the National Assembly of Mauritius",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q21295993"
+    },
+    {
+      "id": "Q1854129",
+      "name": "National Assembly of Mauritius",
+      "kind": "parliament",
+      "seats": 70,
+      "url": "https://mauritiusassembly.govmu.org/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

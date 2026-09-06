@@ -3,11 +3,54 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1969591",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 20,
+  "incomplete": true,
+  "claimed_seats": 92,
+  "chambers": [
+    "Asamblea Nacional de Nicaragua",
+    "Member of the National Assembly of Nicaragua"
+  ],
   "items": [
     {
-      "id": "sergio-ramirez",
+      "id": "herty-lewites-q1969591",
+      "name": "Herty Lewites",
+      "sitting": true,
+      "party_id": "democratic-renewal-union",
+      "caucus": "Democratic Renewal Union",
+      "constituency_label": "",
+      "chamber": "Asamblea Nacional de Nicaragua",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1614777"
+    },
+    {
+      "id": "omar-cabezas-q1969591",
+      "name": "Omar Cabezas",
+      "sitting": true,
+      "party_id": "sandinista-national-liberation-front",
+      "caucus": "Sandinista National Liberation Front",
+      "constituency_label": "",
+      "chamber": "Asamblea Nacional de Nicaragua",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q320442"
+    },
+    {
+      "id": "edmundo-jarquin-q1969591",
+      "name": "Edmundo Jarquín",
+      "sitting": true,
+      "party_id": "democratic-renewal-union",
+      "caucus": "Democratic Renewal Union",
+      "constituency_label": "",
+      "chamber": "Asamblea Nacional de Nicaragua",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5339968"
+    },
+    {
+      "id": "sergio-ramirez-q1969591",
       "name": "Sergio Ramírez",
       "sitting": true,
       "party_id": "unknown",
@@ -20,7 +63,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q1358652"
     },
     {
-      "id": "carlos-jiron",
+      "id": "carlos-jiron-q1969591",
       "name": "Carlos Jirón",
       "sitting": true,
       "party_id": "unknown",
@@ -33,72 +76,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q94949738"
     },
     {
-      "id": "herty-lewites",
-      "name": "Herty Lewites",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Asamblea Nacional de Nicaragua",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1614777"
-    },
-    {
-      "id": "omar-cabezas",
-      "name": "Omar Cabezas",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Asamblea Nacional de Nicaragua",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q320442"
-    },
-    {
-      "id": "eduardo-montealegre",
-      "name": "Eduardo Montealegre",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Asamblea Nacional de Nicaragua",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3048361"
-    },
-    {
-      "id": "carlos-nunez-tellez",
-      "name": "Carlos Núñez Téllez",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Asamblea Nacional de Nicaragua",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4328025"
-    },
-    {
-      "id": "oscar-moncada",
-      "name": "Óscar Moncada",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Asamblea Nacional de Nicaragua",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q18615762"
-    },
-    {
-      "id": "alfredo-gomez-urcuyo",
+      "id": "alfredo-gomez-urcuyo-q1969591",
       "name": "Alfredo Gómez Urcuyo",
       "sitting": true,
       "party_id": "unknown",
@@ -111,37 +89,24 @@
       "roster_url": "http://www.wikidata.org/entity/Q4723794"
     },
     {
-      "id": "edmundo-jarquin",
-      "name": "Edmundo Jarquín",
+      "id": "rene-nunez-tellez-q1969591",
+      "name": "René Núñez Téllez",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "sandinista-national-liberation-front",
+      "caucus": "Sandinista National Liberation Front",
       "constituency_label": "",
       "chamber": "Asamblea Nacional de Nicaragua",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q5339968"
+      "roster_url": "http://www.wikidata.org/entity/Q62594843"
     },
     {
-      "id": "julia-mena",
-      "name": "Julia Mena",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Asamblea Nacional de Nicaragua",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6306574"
-    },
-    {
-      "id": "manuel-fernando-zurita",
+      "id": "manuel-fernando-zurita-q1969591",
       "name": "Manuel Fernando Zurita",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "nationalist-liberal-party",
+      "caucus": "Nationalist Liberal Party",
       "constituency_label": "",
       "chamber": "Asamblea Nacional de Nicaragua",
       "lang": [
@@ -150,7 +115,59 @@
       "roster_url": "http://www.wikidata.org/entity/Q888462"
     },
     {
-      "id": "zoilamerica-ortega-murillo",
+      "id": "isidro-tellez-toruno-q1969591",
+      "name": "Isidro Téllez Toruño",
+      "sitting": true,
+      "party_id": "marxist-leninist-popular-action-movement",
+      "caucus": "Marxist–Leninist Popular Action Movement",
+      "constituency_label": "",
+      "chamber": "Asamblea Nacional de Nicaragua",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56276271"
+    },
+    {
+      "id": "eduardo-montealegre-q1969591",
+      "name": "Eduardo Montealegre",
+      "sitting": true,
+      "party_id": "independent-liberal-party",
+      "caucus": "Independent Liberal Party",
+      "constituency_label": "",
+      "chamber": "Asamblea Nacional de Nicaragua",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3048361"
+    },
+    {
+      "id": "eli-altamirano-q1969591",
+      "name": "Elí Altamirano",
+      "sitting": true,
+      "party_id": "communist-party-of-nicaragua",
+      "caucus": "Communist Party of Nicaragua",
+      "constituency_label": "",
+      "chamber": "Asamblea Nacional de Nicaragua",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q55958232"
+    },
+    {
+      "id": "rosario-murillo-q1969591",
+      "name": "Rosario Murillo",
+      "sitting": true,
+      "party_id": "sandinista-national-liberation-front",
+      "caucus": "Sandinista National Liberation Front",
+      "constituency_label": "",
+      "chamber": "Asamblea Nacional de Nicaragua",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3034382"
+    },
+    {
+      "id": "zoilamerica-ortega-murillo-q1969591",
       "name": "Zoilamérica Ortega Murillo",
       "sitting": true,
       "party_id": "unknown",
@@ -163,20 +180,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q55238363"
     },
     {
-      "id": "eli-altamirano",
-      "name": "Elí Altamirano",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Asamblea Nacional de Nicaragua",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q55958232"
-    },
-    {
-      "id": "allan-zambrana-salmeron",
+      "id": "allan-zambrana-salmeron-q1969591",
       "name": "Allan Zambrana Salmerón",
       "sitting": true,
       "party_id": "unknown",
@@ -189,7 +193,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q56222267"
     },
     {
-      "id": "angel-bravo-lorio",
+      "id": "angel-bravo-lorio-q1969591",
       "name": "Angel Bravo Lorio",
       "sitting": true,
       "party_id": "unknown",
@@ -202,7 +206,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q56276205"
     },
     {
-      "id": "carlos-domingo-cuadra-cuadra",
+      "id": "carlos-domingo-cuadra-cuadra-q1969591",
       "name": "Carlos Domingo Cuadra Cuadra",
       "sitting": true,
       "party_id": "unknown",
@@ -215,24 +219,37 @@
       "roster_url": "http://www.wikidata.org/entity/Q56276265"
     },
     {
-      "id": "isidro-tellez-toruno",
-      "name": "Isidro Téllez Toruño",
+      "id": "julia-mena-q1969591",
+      "name": "Julia Mena",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "independent-liberal-party",
+      "caucus": "Independent Liberal Party",
       "constituency_label": "",
       "chamber": "Asamblea Nacional de Nicaragua",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q56276271"
+      "roster_url": "http://www.wikidata.org/entity/Q6306574"
     },
     {
-      "id": "leticia-herrera-sanchez",
+      "id": "carlos-nunez-tellez-q1969591",
+      "name": "Carlos Núñez Téllez",
+      "sitting": true,
+      "party_id": "sandinista-national-liberation-front",
+      "caucus": "Sandinista National Liberation Front",
+      "constituency_label": "",
+      "chamber": "Asamblea Nacional de Nicaragua",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4328025"
+    },
+    {
+      "id": "leticia-herrera-sanchez-q1969591",
       "name": "Leticia Herrera Sánchez",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "sandinista-national-liberation-front",
+      "caucus": "Sandinista National Liberation Front",
       "constituency_label": "",
       "chamber": "Asamblea Nacional de Nicaragua",
       "lang": [
@@ -241,20 +258,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q61473597"
     },
     {
-      "id": "rene-nunez-tellez",
-      "name": "René Núñez Téllez",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Asamblea Nacional de Nicaragua",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q62594843"
-    },
-    {
-      "id": "milu-vargas",
+      "id": "milu-vargas-q1969591",
       "name": "Milú Vargas",
       "sitting": true,
       "party_id": "unknown",
@@ -265,6 +269,19 @@
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q83809479"
+    },
+    {
+      "id": "oscar-moncada-q1969591",
+      "name": "Óscar Moncada",
+      "sitting": true,
+      "party_id": "constitutionalist-liberal-party",
+      "caucus": "Constitutionalist Liberal Party",
+      "constituency_label": "",
+      "chamber": "Asamblea Nacional de Nicaragua",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18615762"
     }
   ]
 }

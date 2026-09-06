@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q822919"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q822919",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q822919",
+      "label": "Saeima",
+      "url": "https://www.saeima.lv/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q822919",
+      "label": "Saeima (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q822919",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21191589",
+      "label": "deputy of Saeima (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21191589",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

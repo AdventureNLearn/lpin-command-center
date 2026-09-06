@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q2396996"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q2396996",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21328623",
+      "label": "Member of the Legislative Council of Brunei (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21328623",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q2396996",
+      "label": "Legislative Council of Brunei",
+      "url": "http://www.councils.gov.bn/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q2396996",
+      "label": "Legislative Council of Brunei (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q2396996",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

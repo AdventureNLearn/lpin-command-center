@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1287831"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1287831",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21328621",
+      "label": "Member of the Legislative Assembly of Tonga (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21328621",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1287831",
+      "label": "Legislative Assembly of Tonga",
+      "url": "https://parliament.gov.to/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1287831",
+      "label": "Legislative Assembly of Tonga (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1287831",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

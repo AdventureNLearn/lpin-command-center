@@ -1,0 +1,44 @@
+{
+  "iso2": "kw",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q817",
+  "bodies": [
+    {
+      "qid": "Q21295986",
+      "label": "Member of the National Assembly of Kuwait",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1139228",
+      "label": "National Assembly of Kuwait",
+      "seats": 50,
+      "web": "http://kna.kw/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Member of the National Assembly of Kuwait"
+  ],
+  "seats": 50,
+  "items": [
+    {
+      "id": "Q21295986",
+      "name": "Member of the National Assembly of Kuwait",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q21295986"
+    },
+    {
+      "id": "Q1139228",
+      "name": "National Assembly of Kuwait",
+      "kind": "parliament",
+      "seats": 50,
+      "url": "http://kna.kw/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

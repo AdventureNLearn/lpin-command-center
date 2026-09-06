@@ -1,0 +1,44 @@
+{
+  "iso2": "lv",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q211",
+  "bodies": [
+    {
+      "qid": "Q822919",
+      "label": "Saeima",
+      "seats": 100,
+      "web": "https://www.saeima.lv/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q21191589",
+      "label": "deputy of Saeima",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "deputy of Saeima"
+  ],
+  "seats": 100,
+  "items": [
+    {
+      "id": "Q822919",
+      "name": "Saeima",
+      "kind": "parliament",
+      "seats": 100,
+      "url": "https://www.saeima.lv/"
+    },
+    {
+      "id": "Q21191589",
+      "name": "deputy of Saeima",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q21191589"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

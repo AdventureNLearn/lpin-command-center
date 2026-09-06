@@ -1,12 +1,7 @@
 {
   "iso2": "il",
-  "named_donors": false,
-  "buckets": [],
-  "unit": null,
-  "sitting_total_reconstructed": null,
+  "items": [],
   "incomplete": true,
-  "source_url": "https://data.gov.il/",
-  "note": "Hunt-stop. No sitting-only occupation aggregate after examination of data.gov.il CKAN, Knesset OData, and State Comptroller 25th-Knesset current-accounts materials. knesset.gov.il host(s) stopped after WAF/challenge (HTTP 474): knesset.gov.il, main.knesset.gov.il. No further probes on that host. Comptroller party-donations reporting publishes named donors and was not collected. Named private donors not collected. No ILS invented. Occupation / public-finance buckets left empty.",
-  "retrieved": "2026-08-20",
-  "hunt_stop": true
+  "retrieved": "2026-09-06",
+  "note": "No sourced money for this ISO. Not invented."
 }

@@ -1,6 +1,41 @@
 {
   "iso2": "fj",
-  "items": [],
-  "incomplete": true,
-  "note": "No URLs used yet. Official clerk/parliament to be listed when a roster is harvested. No scrape this seed."
+  "items": [
+    {
+      "id": "wikidata",
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q4345425",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q3510843",
+      "label": "Senate (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q3510843",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q4345425",
+      "label": "Parliament of Fiji",
+      "url": "http://www.parliament.gov.fj/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q4345425",
+      "label": "Parliament of Fiji (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q4345425",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q18145348",
+      "label": "Member of the Parliament of Fiji (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q18145348",
+      "kind": "index",
+      "basis": "Evidence"
+    }
+  ],
+  "incomplete": false
 }

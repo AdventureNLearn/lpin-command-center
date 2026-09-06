@@ -3,11 +3,6711 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q257899",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 1,
+  "incomplete": true,
+  "claimed_seats": 659,
+  "chambers": [
+    "House of Federation",
+    "House of Peoples' Representatives",
+    "Federal Parliamentary Assembly"
+  ],
   "items": [
     {
-      "id": "abdulahi-hassen",
+      "id": "abay-weldu-q967407",
+      "name": "Abay Weldu",
+      "sitting": true,
+      "party_id": "ethiopian-people-s-revolutionary-democratic-front",
+      "caucus": "Ethiopian People's Revolutionary Democratic Front",
+      "constituency_label": "",
+      "chamber": "House of Federation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q27058469"
+    },
+    {
+      "id": "abdikadir-shale-sherif-q967407",
+      "name": "Abdikadir Shale Sherif",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Federation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2821317"
+    },
+    {
+      "id": "abdulwase-yesuf-q967407",
+      "name": "Abdulwase Yesuf",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Federation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2821446"
+    },
+    {
+      "id": "atom-mehammed-q967407",
+      "name": "Atom Mehammed",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Federation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2869558"
+    },
+    {
+      "id": "bezabih-alem-q967407",
+      "name": "Bezabih Alem",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Federation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2900508"
+    },
+    {
+      "id": "birhane-haile-selassie-q967407",
+      "name": "Birhane Haile Selassie",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Federation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2904477"
+    },
+    {
+      "id": "degefe-bula-q967407",
+      "name": "Degefe Bula",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Federation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3021234"
+    },
+    {
+      "id": "dehab-debesay-q967407",
+      "name": "Dehab Debesay",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Federation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3021280"
+    },
+    {
+      "id": "esmael-alisiro-q967407",
+      "name": "Esmael Alisiro",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Federation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3058073"
+    },
+    {
+      "id": "fidila-adem-q967407",
+      "name": "Fidila Adem",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Federation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3071449"
+    },
+    {
+      "id": "guaner-yer-q967407",
+      "name": "Guaner Yer",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Federation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3118735"
+    },
+    {
+      "id": "hasen-ebrahim-q967407",
+      "name": "Hasen Ebrahim",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Federation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3128080"
+    },
+    {
+      "id": "jul-nangal-q967407",
+      "name": "Jul Nangal",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Federation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3188313"
+    },
+    {
+      "id": "mehammed-serhaye-q967407",
+      "name": "Mehammed Serhaye",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Federation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3304457"
+    },
+    {
+      "id": "mohammed-yesuf-q967407",
+      "name": "Mohammed Yesuf",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Federation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3319067"
+    },
+    {
+      "id": "remedan-ashenafi-q967407",
+      "name": "Remedan Ashenafi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Federation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3424480"
+    },
+    {
+      "id": "roman-gebre-selassie-q967407",
+      "name": "Roman Gebre Selassie",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Federation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3440848"
+    },
+    {
+      "id": "seyfedin-harun-q967407",
+      "name": "Seyfedin Harun",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Federation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3481016"
+    },
+    {
+      "id": "umad-ubong-q967407",
+      "name": "Umad Ubong",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Federation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3548175"
+    },
+    {
+      "id": "wolderufael-alemayehu-q967407",
+      "name": "Wolderufael Alemayehu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Federation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3569641"
+    },
+    {
+      "id": "woynato-abera-q967407",
+      "name": "Woynato Abera",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Federation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3570081"
+    },
+    {
+      "id": "yaregal-aysheshum-q967407",
+      "name": "Yaregal Aysheshum",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Federation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3571874"
+    },
+    {
+      "id": "mulatu-teshome-q967407",
+      "name": "Mulatu Teshome",
+      "sitting": true,
+      "party_id": "ethiopian-people-s-revolutionary-democratic-front",
+      "caucus": "Ethiopian People's Revolutionary Democratic Front",
+      "constituency_label": "",
+      "chamber": "House of Federation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15054736"
+    },
+    {
+      "id": "teshome-toga-q967407",
+      "name": "Teshome Toga",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Federation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20607067"
+    },
+    {
+      "id": "tsegay-berhe-hadera-q967407",
+      "name": "Tsegay Berhe Hadera",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Federation",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116953894"
+    },
+    {
+      "id": "eyob-tekalign-tolina-q1133185",
+      "name": "Eyob Tekalign Tolina",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998668"
+    },
+    {
+      "id": "azmera-andemo-kelo-q1133185",
+      "name": "Azmera Andemo Kelo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998466"
+    },
+    {
+      "id": "bartema-fikadu-siraga-q1133185",
+      "name": "Bartema Fikadu Siraga",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998470"
+    },
+    {
+      "id": "balew-baye-assefa-q1133185",
+      "name": "Balew Baye Assefa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998468"
+    },
+    {
+      "id": "bayush-birhanu-kerorsa-q1133185",
+      "name": "Bayush Birhanu Kerorsa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998474"
+    },
+    {
+      "id": "bayabl-mulate-fitgu-q1133185",
+      "name": "Bayabl Mulate Fitgu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998472"
+    },
+    {
+      "id": "behelhem-lakew-sisay-q1133185",
+      "name": "Behelhem Lakew Sisay",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998479"
+    },
+    {
+      "id": "begashaw-teklu-alemayehu-q1133185",
+      "name": "Begashaw Teklu Alemayehu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998477"
+    },
+    {
+      "id": "berhaneteshay-t-wold-q1133185",
+      "name": "Berhaneteshay T/Wold",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998482"
+    },
+    {
+      "id": "berhane-meskel-tena-zemenfes-q1133185",
+      "name": "Berhane Meskel Tena Zemenfes",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998480"
+    },
+    {
+      "id": "betel-melakumu-abdisa-q1133185",
+      "name": "Betel Melakumu Abdisa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998487"
+    },
+    {
+      "id": "berhanu-feisa-tila-q1133185",
+      "name": "Berhanu Feisa Tila",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998484"
+    },
+    {
+      "id": "berhanu-gobena-yabe-q1133185",
+      "name": "Berhanu Gobena Yabe",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998485"
+    },
+    {
+      "id": "beza-teshome-q1133185",
+      "name": "Beza Teshome",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998491"
+    },
+    {
+      "id": "beyenech-demeke-ato-q1133185",
+      "name": "Beyenech Demeke Ato",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998489"
+    },
+    {
+      "id": "biftu-hassan-jebero-q1133185",
+      "name": "Biftu Hassan Jebero",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998494"
+    },
+    {
+      "id": "birhanu-megersa-lenjiso-q1133185",
+      "name": "Birhanu Megersa Lenjiso",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998498"
+    },
+    {
+      "id": "birke-bahru-miraf-q1133185",
+      "name": "Birke Bahru Miraf",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998499"
+    },
+    {
+      "id": "birhanu-hankara-hatiya-q1133185",
+      "name": "Birhanu Hankara Hatiya",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998496"
+    },
+    {
+      "id": "bzuayehu-degefu-q1133185",
+      "name": "Bzuayehu Degefu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998503"
+    },
+    {
+      "id": "brooke-lambiso-wamisho-q1133185",
+      "name": "Brooke Lambiso Wamisho",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998501"
+    },
+    {
+      "id": "chala-wata-deres-q1133185",
+      "name": "Chala Wata Deres",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998506"
+    },
+    {
+      "id": "chala-lami-argane-q1133185",
+      "name": "Chala Lami Argane",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998504"
+    },
+    {
+      "id": "chaltu-werje-tuke-q1133185",
+      "name": "Chaltu Werje Tuke",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998511"
+    },
+    {
+      "id": "chaltu-mohommed-abdurahmn-q1133185",
+      "name": "Chaltu Mohommed Abdurahmn",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998509"
+    },
+    {
+      "id": "christian-tadele-tsegaye-q1133185",
+      "name": "Christian Tadele Tsegaye",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998515"
+    },
+    {
+      "id": "chimdo-hanchela-bulcha-q1133185",
+      "name": "Chimdo Hanchela Bulcha",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998513"
+    },
+    {
+      "id": "daniel-kibret-birhane-q1133185",
+      "name": "Daniel Kibret Birhane",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998518"
+    },
+    {
+      "id": "debebe-admasu-yilma-q1133185",
+      "name": "Debebe Admasu Yilma",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998522"
+    },
+    {
+      "id": "dawud-mohammed-nur-q1133185",
+      "name": "Dawud Mohammed Nur",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998521"
+    },
+    {
+      "id": "debritu-tadege-mengesha-q1133185",
+      "name": "Debritu Tadege Mengesha",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998526"
+    },
+    {
+      "id": "debele-kabeta-hursa-q1133185",
+      "name": "Debele Kabeta Hursa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998524"
+    },
+    {
+      "id": "demeke-achiso-hirgeto-q1133185",
+      "name": "Demeke Achiso Hirgeto",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998530"
+    },
+    {
+      "id": "dejitnu-alene-zewde-q1133185",
+      "name": "Dejitnu Alene Zewde",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998528"
+    },
+    {
+      "id": "dereje-debela-senbeto-q1133185",
+      "name": "Dereje Debela Senbeto",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998534"
+    },
+    {
+      "id": "dereje-teklemariam-gebremeskel-q1133185",
+      "name": "Dereje Teklemariam Gebremeskel",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998536"
+    },
+    {
+      "id": "desalegn-eriso-hasiso-q1133185",
+      "name": "Desalegn Eriso Hasiso",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998538"
+    },
+    {
+      "id": "dessie-dalke-dukamo-q1133185",
+      "name": "Dessie Dalke Dukamo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998543"
+    },
+    {
+      "id": "desalegn-wedaje-zemene-q1133185",
+      "name": "Desalegn Wedaje Zemene",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998540"
+    },
+    {
+      "id": "dessalegn-chanie-dagnew-q1133185",
+      "name": "Dessalegn Chanie Dagnew",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998541"
+    },
+    {
+      "id": "destaw-mekuanint-mezengiya-q1133185",
+      "name": "Destaw Mekuanint Mezengiya",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998547"
+    },
+    {
+      "id": "desta-befikadu-negewo-q1133185",
+      "name": "Desta Befikadu Negewo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998545"
+    },
+    {
+      "id": "dilamo-otere-frange-q1133185",
+      "name": "Dilamo Otere Frange",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998551"
+    },
+    {
+      "id": "destaye-tilahun-misker-q1133185",
+      "name": "Destaye Tilahun Misker",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998549"
+    },
+    {
+      "id": "dina-mufti-ledi-q1133185",
+      "name": "Dina Mufti Ledi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998555"
+    },
+    {
+      "id": "dima-nogo-serbo-q1133185",
+      "name": "Dima Nogo Serbo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998553"
+    },
+    {
+      "id": "dita-nura-tero-q1133185",
+      "name": "Dita Nura Tero",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998559"
+    },
+    {
+      "id": "diriba-galati-chali-q1133185",
+      "name": "Diriba Galati Chali",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998557"
+    },
+    {
+      "id": "dube-julo-maaga-q1133185",
+      "name": "Dube Julo Maaga",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998562"
+    },
+    {
+      "id": "eba-mijena-negero-q1133185",
+      "name": "Eba Mijena Negero",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998566"
+    },
+    {
+      "id": "duguma-adugna-debele-q1133185",
+      "name": "Duguma Adugna Debele",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998564"
+    },
+    {
+      "id": "ebenezer-bekele-amare-q1133185",
+      "name": "Ebenezer Bekele Amare",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998569"
+    },
+    {
+      "id": "elias-ahmed-sadik-q1133185",
+      "name": "Elias Ahmed Sadik",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998574"
+    },
+    {
+      "id": "ejigu-melake-g-meskel-q1133185",
+      "name": "Ejigu Melake G / Meskel",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998572"
+    },
+    {
+      "id": "elsabeth-ejigu-qena-a-q1133185",
+      "name": "Elsabeth Ejigu Qena'A",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998576"
+    },
+    {
+      "id": "endalkachew-lelisa-duresa-q1133185",
+      "name": "Endalkachew Lelisa Duresa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998583"
+    },
+    {
+      "id": "endalkachew-asrat-zeleke-q1133185",
+      "name": "Endalkachew Asrat Zeleke",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998580"
+    },
+    {
+      "id": "endriyas-geta-beldeda-q1133185",
+      "name": "Endriyas Geta Beldeda",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998590"
+    },
+    {
+      "id": "endalu-mulatu-lemi-q1133185",
+      "name": "Endalu Mulatu Lemi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998588"
+    },
+    {
+      "id": "eng-sileshi-kore-dube-q1133185",
+      "name": "Eng Sileshi Kore Dube",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998599"
+    },
+    {
+      "id": "mohammed-abdo-q1133185",
+      "name": "Mohammed Abdo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998560"
+    },
+    {
+      "id": "ephrem-tessema-taressa-q1133185",
+      "name": "Ephrem Tessema Taressa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998601"
+    },
+    {
+      "id": "ergoge-tesfaye-w-meskel-q1133185",
+      "name": "Ergoge Tesfaye W / Meskel",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998604"
+    },
+    {
+      "id": "eshetu-g-mariam-gol-q1133185",
+      "name": "Eshetu G/Mariam Gol",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998609"
+    },
+    {
+      "id": "kemal-mohammed-zeynu-q1133185",
+      "name": "Kemal Mohammed Zeynu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998594"
+    },
+    {
+      "id": "eshetu-temesgen-gelan-q1133185",
+      "name": "Eshetu Temesgen Gelan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998616"
+    },
+    {
+      "id": "eskinder-aliye-abdula-q1133185",
+      "name": "Eskinder Aliye Abdula",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998620"
+    },
+    {
+      "id": "essa-boru-tola-q1133185",
+      "name": "Essa Boru Tola",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998625"
+    },
+    {
+      "id": "esubalew-mebrate-tesema-q1133185",
+      "name": "Esubalew Mebrate Tesema",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998629"
+    },
+    {
+      "id": "etaferahu-mota-bogale-q1133185",
+      "name": "Etaferahu Mota Bogale",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998635"
+    },
+    {
+      "id": "etaferahu-zegeye-ambaw-q1133185",
+      "name": "Etaferahu Zegeye Ambaw",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998640"
+    },
+    {
+      "id": "etagegnehu-eshetu-gudeta-q1133185",
+      "name": "Etagegnehu Eshetu Gudeta",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998644"
+    },
+    {
+      "id": "etefa-obsa-duresa-q1133185",
+      "name": "Etefa Obsa Duresa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998649"
+    },
+    {
+      "id": "etsegenet-mengistu-zeleke-q1133185",
+      "name": "Etsegenet Mengistu Zeleke",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998654"
+    },
+    {
+      "id": "ewnete-alene-yalew-q1133185",
+      "name": "Ewnete Alene Yalew",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998659"
+    },
+    {
+      "id": "eyerusalem-lewi-essey-q1133185",
+      "name": "Eyerusalem Lewi Essey",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998665"
+    },
+    {
+      "id": "fahmi-ali-mohammed-q1133185",
+      "name": "Fahmi Ali Mohammed",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998672"
+    },
+    {
+      "id": "faima-shejemal-abamecha-q1133185",
+      "name": "Faima Shejemal Abamecha",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998679"
+    },
+    {
+      "id": "fanaye-melese-wolde-q1133185",
+      "name": "Fanaye Melese Wolde",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998683"
+    },
+    {
+      "id": "fanos-hailu-adera-q1133185",
+      "name": "Fanos Hailu Adera",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998686"
+    },
+    {
+      "id": "farah-mohamed-farah-q1133185",
+      "name": "Farah Mohamed Farah",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998691"
+    },
+    {
+      "id": "fantaye-legesse-weldegiorgis-q1133185",
+      "name": "Fantaye Legesse Weldegiorgis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998689"
+    },
+    {
+      "id": "faris-delil-yesuf-q1133185",
+      "name": "Faris Delil Yesuf",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998695"
+    },
+    {
+      "id": "fato-ismo-beriso-q1133185",
+      "name": "Fato Ismo Beriso",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998699"
+    },
+    {
+      "id": "fathi-mahdi-wezir-q1133185",
+      "name": "Fathi Mahdi Wezir",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998697"
+    },
+    {
+      "id": "fatuma-ali-ibrahim-q1133185",
+      "name": "Fatuma Ali Ibrahim",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998702"
+    },
+    {
+      "id": "faysal-odwa-abdi-q1133185",
+      "name": "Faysal Odwa Abdi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998705"
+    },
+    {
+      "id": "fekadu-mosisa-gemeda-q1133185",
+      "name": "Fekadu Mosisa Gemeda",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998708"
+    },
+    {
+      "id": "ferida-shemsedin-mohammed-q1133185",
+      "name": "Ferida Shemsedin Mohammed",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998715"
+    },
+    {
+      "id": "fekadu-tulu-ketema-q1133185",
+      "name": "Fekadu Tulu Ketema",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998712"
+    },
+    {
+      "id": "fetiya-ahmed-abrahim-q1133185",
+      "name": "Fetiya Ahmed Abrahim",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998717"
+    },
+    {
+      "id": "feyid-sherab-sherif-q1133185",
+      "name": "Feyid Sherab Sherif",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998723"
+    },
+    {
+      "id": "fetiya-ahmed-shire-q1133185",
+      "name": "Fetiya Ahmed Shire",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998720"
+    },
+    {
+      "id": "fikadu-gawshalo-memo-q1133185",
+      "name": "Fikadu Gawshalo Memo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998727"
+    },
+    {
+      "id": "fikadu-bedilu-bolja-q1133185",
+      "name": "Fikadu Bedilu Bolja",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998724"
+    },
+    {
+      "id": "fikir-abay-anawt-q1133185",
+      "name": "Fikir Abay Anawt",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998735"
+    },
+    {
+      "id": "fikadu-mengistu-ashemi-q1133185",
+      "name": "Fikadu Mengistu Ashemi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998732"
+    },
+    {
+      "id": "fikru-werku-birshe-q1133185",
+      "name": "Fikru Werku Birshe",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998738"
+    },
+    {
+      "id": "firew-tesfaye-odayte-q1133185",
+      "name": "Firew Tesfaye Odayte",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998742"
+    },
+    {
+      "id": "fisaha-w-senbet-tegegn-q1133185",
+      "name": "Fisaha W/Senbet Tegegn",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998743"
+    },
+    {
+      "id": "shewit-shanka-q1133185",
+      "name": "Shewit Shanka",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q127038755"
+    },
+    {
+      "id": "lomi-bedo-kumbi-q1133185",
+      "name": "Lomi Bedo Kumbi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131744049"
+    },
+    {
+      "id": "alemu-sime-q1133185",
+      "name": "Alemu Sime",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998398"
+    },
+    {
+      "id": "ababaw-ayalew-gal-q1133185",
+      "name": "Ababaw Ayalew Gal",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131997903"
+    },
+    {
+      "id": "abdikarim-akib-aden-q1133185",
+      "name": "Abdikarim Akib Aden",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998311"
+    },
+    {
+      "id": "abate-arega-atalay-q1133185",
+      "name": "Abate Arega Atalay",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998309"
+    },
+    {
+      "id": "abdulahi-mohammed-muse-q1133185",
+      "name": "Abdulahi Mohammed Muse",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998314"
+    },
+    {
+      "id": "abdu-hassan-mohamed-q1133185",
+      "name": "Abdu Hassan Mohamed",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998313"
+    },
+    {
+      "id": "abduljewad-mohammed-ahmed-q1133185",
+      "name": "Abduljewad Mohammed Ahmed",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998318"
+    },
+    {
+      "id": "abdulfatah-abdul-rahman-mohammed-q1133185",
+      "name": "Abdulfatah Abdul Rahman Mohammed",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998316"
+    },
+    {
+      "id": "abdurashed-abdilahi-ahmed-q1133185",
+      "name": "Abdurashed Abdilahi Ahmed",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998323"
+    },
+    {
+      "id": "abdulkadir-gelgelo-boru-q1133185",
+      "name": "Abdulkadir Gelgelo Boru",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998321"
+    },
+    {
+      "id": "abduwas-abdulahi-q1133185",
+      "name": "Abduwas Abdulahi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998327"
+    },
+    {
+      "id": "abdusemed-hussen-abo-q1133185",
+      "name": "Abdusemed Hussen Abo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998325"
+    },
+    {
+      "id": "abebaw-desalew-bayabl-q1133185",
+      "name": "Abebaw Desalew Bayabl",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998331"
+    },
+    {
+      "id": "abeba-sadik-buser-q1133185",
+      "name": "Abeba Sadik Buser",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998328"
+    },
+    {
+      "id": "abere-adamu-teferi-q1133185",
+      "name": "Abere Adamu Teferi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998333"
+    },
+    {
+      "id": "abosh-mustafa-musa-q1133185",
+      "name": "Abosh Mustafa Musa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998339"
+    },
+    {
+      "id": "abiyot-delegn-yirkayo-q1133185",
+      "name": "Abiyot Delegn Yirkayo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998336"
+    },
+    {
+      "id": "abraham-amish-assema-q1133185",
+      "name": "Abraham Amish Assema",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998343"
+    },
+    {
+      "id": "abraham-alemayehu-q1133185",
+      "name": "Abraham Alemayehu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998341"
+    },
+    {
+      "id": "abreham-berta-aneseyee-q1133185",
+      "name": "Abreham Berta Aneseyee",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998346"
+    },
+    {
+      "id": "abune-alem-temesgen-q1133185",
+      "name": "Abune Alem Temesgen",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998348"
+    },
+    {
+      "id": "adamu-kenea-daba-q1133185",
+      "name": "Adamu Kenea Daba",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998349"
+    },
+    {
+      "id": "adane-teshome-getahun-q1133185",
+      "name": "Adane Teshome Getahun",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998355"
+    },
+    {
+      "id": "adane-alto-mengesha-q1133185",
+      "name": "Adane Alto Mengesha",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998352"
+    },
+    {
+      "id": "adane-mande-damtew-q1133185",
+      "name": "Adane Mande Damtew",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998353"
+    },
+    {
+      "id": "addis-alemayehu-qumbi-q1133185",
+      "name": "Addis Alemayehu Qumbi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998359"
+    },
+    {
+      "id": "adanech-nashura-samago-q1133185",
+      "name": "Adanech Nashura Samago",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998357"
+    },
+    {
+      "id": "addisu-kamiso-garanba-q1133185",
+      "name": "Addisu Kamiso Garanba",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998362"
+    },
+    {
+      "id": "adugna-ahmed-uso-q1133185",
+      "name": "Adugna Ahmed Uso",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998366"
+    },
+    {
+      "id": "addisuwa-assefa-demise-q1133185",
+      "name": "Addisuwa Assefa Demise",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998364"
+    },
+    {
+      "id": "agu-deban-gesso-q1133185",
+      "name": "Agu Deban Gesso",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998371"
+    },
+    {
+      "id": "adugna-debela-bote-q1133185",
+      "name": "Adugna Debela Bote",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998368"
+    },
+    {
+      "id": "agumase-anteneh-wube-q1133185",
+      "name": "Agumase Anteneh Wube",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998373"
+    },
+    {
+      "id": "aknaw-kawza-malefiya-q1133185",
+      "name": "Aknaw Kawza Malefiya",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998378"
+    },
+    {
+      "id": "ahmed-hassen-mohammed-q1133185",
+      "name": "Ahmed Hassen Mohammed",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998376"
+    },
+    {
+      "id": "alemitu-assefa-tunduro-q1133185",
+      "name": "Alemitu Assefa Tunduro",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998382"
+    },
+    {
+      "id": "alemitu-umed-ujulu-q1133185",
+      "name": "Alemitu Umed Ujulu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998383"
+    },
+    {
+      "id": "alemitu-abebe-atisa-q1133185",
+      "name": "Alemitu Abebe Atisa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998380"
+    },
+    {
+      "id": "alemnesh-g-mariam-imo-q1133185",
+      "name": "Alemnesh G Mariam Imo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998387"
+    },
+    {
+      "id": "alemnesh-berhanu-obsa-q1133185",
+      "name": "Alemnesh Berhanu Obsa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998385"
+    },
+    {
+      "id": "alemu-getahun-sisay-q1133185",
+      "name": "Alemu Getahun Sisay",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998391"
+    },
+    {
+      "id": "alemu-damtew-ashenafi-q1133185",
+      "name": "Alemu Damtew Ashenafi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998389"
+    },
+    {
+      "id": "alemu-jemberu-ayalew-q1133185",
+      "name": "Alemu Jemberu Ayalew",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998395"
+    },
+    {
+      "id": "alemu-gonfa-robi-q1133185",
+      "name": "Alemu Gonfa Robi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998393"
+    },
+    {
+      "id": "almaw-mengist-ambaye-q1133185",
+      "name": "Almaw Mengist Ambaye",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998402"
+    },
+    {
+      "id": "almaw-tigabu-melesse-q1133185",
+      "name": "Almaw Tigabu Melesse",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998403"
+    },
+    {
+      "id": "alie-belachew-bala-q1133185",
+      "name": "Alie Belachew Bala",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998400"
+    },
+    {
+      "id": "almaz-temesgen-sisay-q1133185",
+      "name": "Almaz Temesgen Sisay",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998407"
+    },
+    {
+      "id": "almaz-asale-ergado-q1133185",
+      "name": "Almaz Asale Ergado",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998405"
+    },
+    {
+      "id": "amarech-bekalo-sapa-q1133185",
+      "name": "Amarech Bekalo Sapa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998410"
+    },
+    {
+      "id": "almaz-wedajo-adimo-q1133185",
+      "name": "Almaz Wedajo Adimo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998408"
+    },
+    {
+      "id": "amira-mohammed-ahmed-q1133185",
+      "name": "Amira Mohammed Ahmed",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998415"
+    },
+    {
+      "id": "amina-abdurahman-adem-q1133185",
+      "name": "Amina Abdurahman Adem",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998412"
+    },
+    {
+      "id": "amsal-amare-abate-q1133185",
+      "name": "Amsal Amare Abate",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998418"
+    },
+    {
+      "id": "anesa-melko-hebero-q1133185",
+      "name": "Anesa Melko Hebero",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998422"
+    },
+    {
+      "id": "amsal-mengistu-alemu-q1133185",
+      "name": "Amsal Mengistu Alemu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998420"
+    },
+    {
+      "id": "arare-mosisa-etisa-q1133185",
+      "name": "Arare Mosisa Etisa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998423"
+    },
+    {
+      "id": "aregash-kefle-karbo-q1133185",
+      "name": "Aregash Kefle Karbo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998426"
+    },
+    {
+      "id": "aregash-tekile-tantu-q1133185",
+      "name": "Aregash Tekile Tantu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998427"
+    },
+    {
+      "id": "aselefech-kuche-goa-q1133185",
+      "name": "Aselefech Kuche Goa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998431"
+    },
+    {
+      "id": "aschale-alamere-melesse-q1133185",
+      "name": "Aschale Alamere Melesse",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998429"
+    },
+    {
+      "id": "asha-yahya-salehi-q1133185",
+      "name": "Asha Yahya Salehi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998435"
+    },
+    {
+      "id": "asemahagn-aseres-q1133185",
+      "name": "Asemahagn Aseres",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998433"
+    },
+    {
+      "id": "aster-beshir-figa-q1133185",
+      "name": "Aster Beshir Figa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998443"
+    },
+    {
+      "id": "ashinie-astin-titoyik-q1133185",
+      "name": "Ashinie Astin Titoyik",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998440"
+    },
+    {
+      "id": "ashu-gololcha-oda-q1133185",
+      "name": "Ashu Gololcha Oda",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998441"
+    },
+    {
+      "id": "atsede-mamo-tamale-q1133185",
+      "name": "Atsede Mamo Tamale",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998446"
+    },
+    {
+      "id": "aster-keftaw-dachu-q1133185",
+      "name": "Aster Keftaw Dachu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998445"
+    },
+    {
+      "id": "ayan-ali-mussa-q1133185",
+      "name": "Ayan Ali Mussa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998451"
+    },
+    {
+      "id": "awoke-amzaye-assoma-q1133185",
+      "name": "Awoke Amzaye Assoma",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998448"
+    },
+    {
+      "id": "ayantu-gutata-fite-q1133185",
+      "name": "Ayantu Gutata Fite",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998453"
+    },
+    {
+      "id": "ayele-teshome-gonche-q1133185",
+      "name": "Ayele Teshome Gonche",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998458"
+    },
+    {
+      "id": "ayele-negeri-gibo-q1133185",
+      "name": "Ayele Negeri Gibo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998456"
+    },
+    {
+      "id": "aynalem-niguse-ali-q1133185",
+      "name": "Aynalem Niguse Ali",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998462"
+    },
+    {
+      "id": "ayisha-shehshifa-abdurahaman-q1133185",
+      "name": "Ayisha Shehshifa Abdurahaman",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998460"
+    },
+    {
+      "id": "aysha-mohammed-musa-q1133185",
+      "name": "Aysha Mohammed Musa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998465"
+    },
+    {
+      "id": "seyoum-mesfin-q1133185",
+      "name": "Seyoum Mesfin",
+      "sitting": true,
+      "party_id": "tigray-people-s-liberation-front",
+      "caucus": "Tigray People's Liberation Front",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2275961"
+    },
+    {
+      "id": "negasso-gidada-q1133185",
+      "name": "Negasso Gidada",
+      "sitting": true,
+      "party_id": "ethiopian-people-s-revolutionary-democratic-front",
+      "caucus": "Ethiopian People's Revolutionary Democratic Front",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q356741"
+    },
+    {
+      "id": "demeke-mekonnen-q1133185",
+      "name": "Demeke Mekonnen",
+      "sitting": true,
+      "party_id": "amhara-democratic-party",
+      "caucus": "Amhara Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16728486"
+    },
+    {
+      "id": "gedu-andargachew-q1133185",
+      "name": "Gedu Andargachew",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3100062"
+    },
+    {
+      "id": "yohannes-tiro-ejigayehu-q1133185",
+      "name": "Yohannes Tiro Ejigayehu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3572445"
+    },
+    {
+      "id": "ashebir-woldegiorgis-q1133185",
+      "name": "Ashebir Woldegiorgis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16149223"
+    },
+    {
+      "id": "meles-zenawi-q1133185",
+      "name": "Meles Zenawi",
+      "sitting": true,
+      "party_id": "ethiopian-people-s-revolutionary-democratic-front",
+      "caucus": "Ethiopian People's Revolutionary Democratic Front",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q161184"
+    },
+    {
+      "id": "getachew-jigi-demeksa-q1133185",
+      "name": "Getachew Jigi Demeksa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18921783"
+    },
+    {
+      "id": "azeb-mesfin-q1133185",
+      "name": "Azeb Mesfin",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4832330"
+    },
+    {
+      "id": "harka-haroyu-q1133185",
+      "name": "Harka Haroyu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5658111"
+    },
+    {
+      "id": "bulcha-demeksa-q1133185",
+      "name": "Bulcha Demeksa",
+      "sitting": true,
+      "party_id": "oromo-federalist-democratic-movement",
+      "caucus": "Oromo Federalist Democratic Movement",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4996096"
+    },
+    {
+      "id": "asheber-w-giorgis-gayo-q1133185",
+      "name": "Asheber W. Giorgis Gayo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998438"
+    },
+    {
+      "id": "yacob-haile-mariam-q1133185",
+      "name": "Yacob Haile-Mariam",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q8046468"
+    },
+    {
+      "id": "beyene-petros-q1133185",
+      "name": "Beyene Petros",
+      "sitting": true,
+      "party_id": "united-ethiopian-democratic-forces",
+      "caucus": "United Ethiopian Democratic Forces",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4899848"
+    },
+    {
+      "id": "lia-tadesse-q1133185",
+      "name": "Lia Tadesse",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57898816"
+    },
+    {
+      "id": "fitsum-assefa-q1133185",
+      "name": "Fitsum Assefa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q104794313"
+    },
+    {
+      "id": "girma-wolde-giorgis-q1133185",
+      "name": "Girma Wolde-Giorgis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57383"
+    },
+    {
+      "id": "abiy-ahmed-q1133185",
+      "name": "Abiy Ahmed",
+      "sitting": true,
+      "party_id": "prosperity-party",
+      "caucus": "Prosperity Party",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q50365049"
+    },
+    {
+      "id": "dagmawit-moges-q1133185",
+      "name": "Dagmawit Moges",
+      "sitting": true,
+      "party_id": "amhara-democratic-party",
+      "caucus": "Amhara Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q62123939"
+    },
+    {
+      "id": "lidetu-ayalew-q1133185",
+      "name": "Lidetu Ayalew",
+      "sitting": true,
+      "party_id": "united-ethiopian-democratic-party-medhin-party",
+      "caucus": "United Ethiopian Democratic Party – Medhin Party",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16205894"
+    },
+    {
+      "id": "sinknesh-ejigu-q1133185",
+      "name": "Sinknesh Ejigu",
+      "sitting": true,
+      "party_id": "oromo-democratic-party",
+      "caucus": "Oromo Democratic Party",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16187059"
+    },
+    {
+      "id": "muferihat-kamil-ahmed-q1133185",
+      "name": "Muferihat Kamil Ahmed",
+      "sitting": true,
+      "party_id": "southern-ethiopian-people-s-democratic-movement",
+      "caucus": "Southern Ethiopian People's Democratic Movement",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q55238035"
+    },
+    {
+      "id": "kemal-hashi-mohamoud-q1133185",
+      "name": "Kemal Hashi Mohamoud",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998898"
+    },
+    {
+      "id": "gashaw-dagnew-lakew-q1133185",
+      "name": "Gashaw Dagnew Lakew",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998751"
+    },
+    {
+      "id": "fraol-udessa-gelchu-q1133185",
+      "name": "Fraol Udessa Gelchu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998748"
+    },
+    {
+      "id": "fuad-abafita-ababulgo-q1133185",
+      "name": "Fuad Abafita Ababulgo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998749"
+    },
+    {
+      "id": "gashayalew-gala-galada-q1133185",
+      "name": "Gashayalew Gala Galada",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998753"
+    },
+    {
+      "id": "genet-abraham-yayu-q1133185",
+      "name": "Genet Abraham Yayu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998758"
+    },
+    {
+      "id": "gelane-bikila-woyecha-q1133185",
+      "name": "Gelane Bikila Woyecha",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998756"
+    },
+    {
+      "id": "genet-ketema-bekele-q1133185",
+      "name": "Genet Ketema Bekele",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998762"
+    },
+    {
+      "id": "genet-bete-gerawork-q1133185",
+      "name": "Genet Bete Gerawork",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998760"
+    },
+    {
+      "id": "genet-waqgari-fitie-q1133185",
+      "name": "Genet Waqgari Fitie",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998766"
+    },
+    {
+      "id": "getahun-limenh-abegaz-q1133185",
+      "name": "Getahun Limenh Abegaz",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998771"
+    },
+    {
+      "id": "geremu-huluka-amanu-q1133185",
+      "name": "Geremu Huluka Amanu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998769"
+    },
+    {
+      "id": "getnet-tadele-tefera-q1133185",
+      "name": "Getnet Tadele Tefera",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998773"
+    },
+    {
+      "id": "goiti-wancho-oke-q1133185",
+      "name": "Goiti Wancho Oke",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998778"
+    },
+    {
+      "id": "gezu-manaye-chakol-q1133185",
+      "name": "Gezu Manaye Chakol",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998776"
+    },
+    {
+      "id": "gusha-balko-birbirsa-q1133185",
+      "name": "Gusha Balko Birbirsa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998782"
+    },
+    {
+      "id": "gudeta-belelcha-sefisa-q1133185",
+      "name": "Gudeta Belelcha Sefisa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998780"
+    },
+    {
+      "id": "habtemariam-mekonnen-ali-q1133185",
+      "name": "Habtemariam Mekonnen Ali",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998786"
+    },
+    {
+      "id": "habtamu-tegegne-destaye-q1133185",
+      "name": "Habtamu Tegegne Destaye",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998784"
+    },
+    {
+      "id": "halimo-hassen-mohamed-q1133185",
+      "name": "Halimo Hassen Mohamed",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998790"
+    },
+    {
+      "id": "haji-kedir-abdule-q1133185",
+      "name": "Haji Kedir Abdule",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998788"
+    },
+    {
+      "id": "hangasa-ahmed-ibrahim-q1133185",
+      "name": "Hangasa Ahmed Ibrahim",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998794"
+    },
+    {
+      "id": "hamedu-geas-mohammed-q1133185",
+      "name": "Hamedu Geas Mohammed",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998792"
+    },
+    {
+      "id": "hasen-shek-yusuf-abadulai-q1133185",
+      "name": "Hasen Shek Yusuf Abadulai",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998798"
+    },
+    {
+      "id": "haregwoin-yimer-ahmed-q1133185",
+      "name": "Haregwoin Yimer Ahmed",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998796"
+    },
+    {
+      "id": "hasna-hanfere-q1133185",
+      "name": "Hasna Hanfere",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998800"
+    },
+    {
+      "id": "hassan-muhamed-moali-q1133185",
+      "name": "Hassan Muhamed Moali",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998801"
+    },
+    {
+      "id": "hayat-yusuf-mohammed-q1133185",
+      "name": "Hayat Yusuf Mohammed",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998807"
+    },
+    {
+      "id": "hassen-abdi-wali-q1133185",
+      "name": "Hassen Abdi Wali",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998804"
+    },
+    {
+      "id": "helina-akelew-tadesse-q1133185",
+      "name": "Helina Akelew Tadesse",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998811"
+    },
+    {
+      "id": "hayelo-gunefa-edosa-q1133185",
+      "name": "Hayelo Gunefa Edosa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998809"
+    },
+    {
+      "id": "hirut-kassaw-wondim-q1133185",
+      "name": "Hirut Kassaw Wondim",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998814"
+    },
+    {
+      "id": "hiwot-mossisa-deresse-q1133185",
+      "name": "Hiwot Mossisa Deresse",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998819"
+    },
+    {
+      "id": "hirut-w-mariam-teketel-q1133185",
+      "name": "Hirut W/Mariam Teketel",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998817"
+    },
+    {
+      "id": "ibsa-yusuf-hassan-q1133185",
+      "name": "Ibsa Yusuf Hassan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998822"
+    },
+    {
+      "id": "ibrahim-umar-aliyi-q1133185",
+      "name": "Ibrahim Umar Aliyi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998820"
+    },
+    {
+      "id": "ifrah-towfik-aden-q1133185",
+      "name": "Ifrah Towfik Aden",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998824"
+    },
+    {
+      "id": "ikram-maid-adan-q1133185",
+      "name": "Ikram Maid Adan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998825"
+    },
+    {
+      "id": "illubabor-buno-tesso-q1133185",
+      "name": "Illubabor Buno Tesso",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998830"
+    },
+    {
+      "id": "ishetu-gelan-q1133185",
+      "name": "Ishetu Gelan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998834"
+    },
+    {
+      "id": "iyasu-salah-ganjura-q1133185",
+      "name": "Iyasu Salah Ganjura",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998837"
+    },
+    {
+      "id": "jemal-abaso-ebu-q1133185",
+      "name": "Jemal Abaso Ebu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998842"
+    },
+    {
+      "id": "jamal-ali-mumi-q1133185",
+      "name": "Jamal Ali Mumi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998840"
+    },
+    {
+      "id": "jemal-abegaz-adem-q1133185",
+      "name": "Jemal Abegaz Adem",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998843"
+    },
+    {
+      "id": "jemanesh-w-michael-wege-q1133185",
+      "name": "Jemanesh W/Michael Wege",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998846"
+    },
+    {
+      "id": "jhon-amhed-abamilki-q1133185",
+      "name": "Jhon Amhed Abamilki",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998851"
+    },
+    {
+      "id": "jember-ayalneh-biru-q1133185",
+      "name": "Jember Ayalneh Biru",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998849"
+    },
+    {
+      "id": "jihad-nasser-abdu-q1133185",
+      "name": "Jihad Nasser Abdu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998854"
+    },
+    {
+      "id": "juhar-mohammed-q1133185",
+      "name": "Juhar Mohammed",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998857"
+    },
+    {
+      "id": "kaba-mebratu-dagne-q1133185",
+      "name": "Kaba Mebratu Dagne",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998860"
+    },
+    {
+      "id": "kalid-aba-mecha-haji-q1133185",
+      "name": "Kalid Aba Mecha Haji",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998867"
+    },
+    {
+      "id": "kairedin-tezera-adera-q1133185",
+      "name": "Kairedin Tezera Adera",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998864"
+    },
+    {
+      "id": "kamil-aliy-kasim-q1133185",
+      "name": "Kamil Aliy Kasim",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998874"
+    },
+    {
+      "id": "kamil-shemsu-siraj-q1133185",
+      "name": "Kamil Shemsu Siraj",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998875"
+    },
+    {
+      "id": "kasahun-jobir-gudeta-q1133185",
+      "name": "Kasahun Jobir Gudeta",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998877"
+    },
+    {
+      "id": "kebede-genet-feyisa-q1133185",
+      "name": "Kebede Genet Feyisa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998880"
+    },
+    {
+      "id": "kedir-edris-ahmed-q1133185",
+      "name": "Kedir Edris Ahmed",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998887"
+    },
+    {
+      "id": "kedir-adam-arero-q1133185",
+      "name": "Kedir Adam Arero",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998884"
+    },
+    {
+      "id": "kedir-gena-abdulkadir-q1133185",
+      "name": "Kedir Gena Abdulkadir",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998889"
+    },
+    {
+      "id": "kefena-ifa-delesa-q1133185",
+      "name": "Kefena Ifa Delesa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998895"
+    },
+    {
+      "id": "kedja-yassin-mohammed-q1133185",
+      "name": "Kedja Yassin Mohammed",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998892"
+    },
+    {
+      "id": "kidist-araya-tasew-q1133185",
+      "name": "Kidist Araya Tasew",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998903"
+    },
+    {
+      "id": "kibnesh-shiferaw-robe-q1133185",
+      "name": "Kibnesh Shiferaw Robe",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998901"
+    },
+    {
+      "id": "kidist-g-hana-mirgoye-q1133185",
+      "name": "Kidist G/Hana Mirgoye",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998906"
+    },
+    {
+      "id": "kimia-jundi-hamdo-q1133185",
+      "name": "Kimia Jundi Hamdo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998909"
+    },
+    {
+      "id": "kocheto-g-yesus-deneto-q1133185",
+      "name": "Kocheto G/Yesus Deneto",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998915"
+    },
+    {
+      "id": "kindiya-aycheluhm-atalay-q1133185",
+      "name": "Kindiya Aycheluhm Atalay",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998912"
+    },
+    {
+      "id": "kumaale-gadisa-obse-q1133185",
+      "name": "Kumaale Gadisa Obse",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998919"
+    },
+    {
+      "id": "latifa-a-temam-a-gisa-q1133185",
+      "name": "Latifa A/Temam A/Gisa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998922"
+    },
+    {
+      "id": "lema-abera-hirpo-q1133185",
+      "name": "Lema Abera Hirpo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998924"
+    },
+    {
+      "id": "lencho-ayala-bati-q1133185",
+      "name": "Lencho Ayala Bati",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998931"
+    },
+    {
+      "id": "lema-tessema-yimere-q1133185",
+      "name": "Lema Tessema Yimere",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998928"
+    },
+    {
+      "id": "leta-tesfaye-jule-q1133185",
+      "name": "Leta Tesfaye Jule",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998933"
+    },
+    {
+      "id": "letifa-a-sambi-a-gojam-q1133185",
+      "name": "Letifa A/Sambi A/Gojam",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998936"
+    },
+    {
+      "id": "lidia-chali-argeta-q1133185",
+      "name": "Lidia Chali Argeta",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998942"
+    },
+    {
+      "id": "lobele-yhirano-baskwa-q1133185",
+      "name": "Lobele Yhirano Baskwa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998946"
+    },
+    {
+      "id": "lubaba-ibrahim-hassen-q1133185",
+      "name": "Lubaba Ibrahim Hassen",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998952"
+    },
+    {
+      "id": "lubaba-seyidi-legasi-q1133185",
+      "name": "Lubaba Seyidi Legasi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998953"
+    },
+    {
+      "id": "magartu-mohammed-aman-q1133185",
+      "name": "Magartu Mohammed Aman",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998959"
+    },
+    {
+      "id": "maeza-asmare-abtew-q1133185",
+      "name": "Maeza Asmare Abtew",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998956"
+    },
+    {
+      "id": "mahatme-haile-workeneh-q1133185",
+      "name": "Mahatme Haile Workeneh",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998961"
+    },
+    {
+      "id": "mamo-esmealem-mihretu-q1133185",
+      "name": "Mamo Esmealem Mihretu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998964"
+    },
+    {
+      "id": "marta-liwji-q1133185",
+      "name": "Marta Liwji",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998967"
+    },
+    {
+      "id": "martha-lema-tulu-q1133185",
+      "name": "Martha Lema Tulu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998970"
+    },
+    {
+      "id": "mastewal-mekonen-siyeneh-q1133185",
+      "name": "Mastewal Mekonen Siyeneh",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998973"
+    },
+    {
+      "id": "matema-mika-galito-q1133185",
+      "name": "Matema Mīka Galito",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998977"
+    },
+    {
+      "id": "meaza-tigabe-alemu-q1133185",
+      "name": "Meaza Tigabe Alemu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998982"
+    },
+    {
+      "id": "meaza-assefa-ergete-q1133185",
+      "name": "Meaza Assefa Ergete",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998980"
+    },
+    {
+      "id": "mekdes-desta-jagare-q1133185",
+      "name": "Mekdes Desta Jagare",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998987"
+    },
+    {
+      "id": "mebrat-bacha-wakjira-q1133185",
+      "name": "Mebrat Bacha Wakjira",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998985"
+    },
+    {
+      "id": "melese-mana-gemeso-q1133185",
+      "name": "Melese Mana Gemeso",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998990"
+    },
+    {
+      "id": "melaku-fenta-chay-q1133185",
+      "name": "Melaku Fenta Chay",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998988"
+    },
+    {
+      "id": "merdia-aman-guye-q1133185",
+      "name": "Merdia Aman Guye",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998994"
+    },
+    {
+      "id": "melkias-ayele-q1133185",
+      "name": "Melkias Ayele",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998992"
+    },
+    {
+      "id": "meseret-assefa-godana-q1133185",
+      "name": "Meseret Assefa Godana",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998998"
+    },
+    {
+      "id": "meselech-kewiso-kaye-q1133185",
+      "name": "Meselech Kewiso Kaye",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131998996"
+    },
+    {
+      "id": "meseret-madole-ebo-q1133185",
+      "name": "Meseret Madole Ebo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999002"
+    },
+    {
+      "id": "meseret-mamo-gamuro-q1133185",
+      "name": "Meseret Mamo Gamuro",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999003"
+    },
+    {
+      "id": "meseret-haile-masresha-q1133185",
+      "name": "Meseret Haile Masresha",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999000"
+    },
+    {
+      "id": "meseret-mola-kassahun-q1133185",
+      "name": "Meseret Mola Kassahun",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999005"
+    },
+    {
+      "id": "mohammed-ahmed-musa-q1133185",
+      "name": "Mohammed Ahmed Musa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999044"
+    },
+    {
+      "id": "meseret-zelalem-tadesse-q1133185",
+      "name": "Meseret Zelalem Tadesse",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999009"
+    },
+    {
+      "id": "meseret-shiferaw-yadete-q1133185",
+      "name": "Meseret Shiferaw Yadete",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999008"
+    },
+    {
+      "id": "mesfin-dagna-tafesse-q1133185",
+      "name": "Mesfin Dagna Tafesse",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999012"
+    },
+    {
+      "id": "meskerem-hailu-alula-q1133185",
+      "name": "Meskerem Hailu Alula",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999019"
+    },
+    {
+      "id": "mesfin-erkabe-mirach-q1133185",
+      "name": "Mesfin Erkabe Mirach",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999016"
+    },
+    {
+      "id": "miraj-zekiyi-jemal-q1133185",
+      "name": "Miraj Zekiyi Jemal",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999022"
+    },
+    {
+      "id": "miretu-shanko-gidi-q1133185",
+      "name": "Miretu Shanko Gidi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999025"
+    },
+    {
+      "id": "misganu-arga-mo-och-q1133185",
+      "name": "Misganu Arga Mo'Och",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999028"
+    },
+    {
+      "id": "mitiknesh-cheleke-atsero-q1133185",
+      "name": "Mitiknesh Cheleke Atsero",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999029"
+    },
+    {
+      "id": "moges-balcha-gebremedhin-q1133185",
+      "name": "Moges Balcha Gebremedhin",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999035"
+    },
+    {
+      "id": "moga-ababulgu-abakebe-q1133185",
+      "name": "Moga Ababulgu Abakebe",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999032"
+    },
+    {
+      "id": "mohamed-musse-q1133185",
+      "name": "Mohamed Musse",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999037"
+    },
+    {
+      "id": "mohammed-ahmed-aliye-q1133185",
+      "name": "Mohammed Ahmed Aliye",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999040"
+    },
+    {
+      "id": "mohammed-hassan-abu-q1133185",
+      "name": "Mohammed Hassan Abu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999048"
+    },
+    {
+      "id": "mohammed-mohammedkemal-ali-al-arusi-q1133185",
+      "name": "Mohammed Mohammedkemal Ali Al-Arusi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999052"
+    },
+    {
+      "id": "mohammed-shikur-mussa-q1133185",
+      "name": "Mohammed Shikur Mussa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999053"
+    },
+    {
+      "id": "mohmmednur-ahmed-musa-q1133185",
+      "name": "Mohmmednur Ahmed Musa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999058"
+    },
+    {
+      "id": "mohamud-yusuf-mealin-q1133185",
+      "name": "Mohamud Yusuf Mealin",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999056"
+    },
+    {
+      "id": "mubarek-elias-mustefa-q1133185",
+      "name": "Mubarek Elias Mustefa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999063"
+    },
+    {
+      "id": "molla-feleke-desta-q1133185",
+      "name": "Molla Feleke Desta",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999061"
+    },
+    {
+      "id": "mulat-telayneh-asrate-q1133185",
+      "name": "Mulat Telayneh Asrate",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999065"
+    },
+    {
+      "id": "muluken-admasu-emru-q1133185",
+      "name": "Muluken Admasu Emru",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999071"
+    },
+    {
+      "id": "mulu-yirga-sahele-q1133185",
+      "name": "Mulu Yirga Sahele",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999068"
+    },
+    {
+      "id": "muluken-assefa-jenebere-q1133185",
+      "name": "Muluken Assefa Jenebere",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999074"
+    },
+    {
+      "id": "mulunesh-lamore-ushe-q1133185",
+      "name": "Mulunesh Lamore Ushe",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999077"
+    },
+    {
+      "id": "munira-hussen-hassen-q1133185",
+      "name": "Munira Hussen Hassen",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999082"
+    },
+    {
+      "id": "muna-ali-yassin-q1133185",
+      "name": "Muna Ali Yassin",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999080"
+    },
+    {
+      "id": "najaha-ahmed-abdullahi-q1133185",
+      "name": "Najaha Ahmed Abdullahi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999086"
+    },
+    {
+      "id": "muslim-rashid-a-gidi-q1133185",
+      "name": "Muslim Rashid A / Gidi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999084"
+    },
+    {
+      "id": "nebiyat-tilahun-chaemiso-q1133185",
+      "name": "Nebiyat Tilahun Chaemiso",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999089"
+    },
+    {
+      "id": "negash-bulala-abawalta-q1133185",
+      "name": "Negash Bulala Abawalta",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999095"
+    },
+    {
+      "id": "nefisa-almahadi-alakib-q1133185",
+      "name": "Nefisa Almahadi Alakib",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999092"
+    },
+    {
+      "id": "negasse-bayissa-dubiwak-q1133185",
+      "name": "Negasse Bayissa Dubiwak",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999098"
+    },
+    {
+      "id": "negeri-lencho-bultum-q1133185",
+      "name": "Negeri Lencho Bultum",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999101"
+    },
+    {
+      "id": "neima-usman-adem-q1133185",
+      "name": "Neima Usman Adem",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999104"
+    },
+    {
+      "id": "nejet-andorso-adem-q1133185",
+      "name": "Nejet Andorso Adem",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999111"
+    },
+    {
+      "id": "nejat-girma-waqjira-q1133185",
+      "name": "Nejat Girma Waqjira",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999108"
+    },
+    {
+      "id": "nesredin-abduelmusin-q1133185",
+      "name": "Nesredin Abduelmusin",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999115"
+    },
+    {
+      "id": "nemera-gebeyehu-mamo-q1133185",
+      "name": "Nemera Gebeyehu Mamo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999112"
+    },
+    {
+      "id": "nezif-zinab-a-lulessa-q1133185",
+      "name": "Nezif Zinab A/Lulessa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999118"
+    },
+    {
+      "id": "nikuse-mituku-gelaw-q1133185",
+      "name": "Nikuse Mituku Gelaw",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999120"
+    },
+    {
+      "id": "nurzeman-jibril-negewo-q1133185",
+      "name": "Nurzeman Jibril Negewo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999123"
+    },
+    {
+      "id": "qasim-kimo-kebelo-q1133185",
+      "name": "Qasim Kimo Kebelo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999125"
+    },
+    {
+      "id": "rahmet-awel-mohammed-q1133185",
+      "name": "Rahmet Awel Mohammed",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999131"
+    },
+    {
+      "id": "rahel-negero-gutu-q1133185",
+      "name": "Rahel Negero Gutu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999128"
+    },
+    {
+      "id": "rosa-omar-ahmed-q1133185",
+      "name": "Rosa Omar Ahmed",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999134"
+    },
+    {
+      "id": "ruqiya-ali-kewo-q1133185",
+      "name": "Ruqiya Ali Kewo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999138"
+    },
+    {
+      "id": "sadik-adem-umer-q1133185",
+      "name": "Sadik Adem Umer",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999142"
+    },
+    {
+      "id": "ruqiya-argo-wariyo-q1133185",
+      "name": "Ruqiya Argo Wariyo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999140"
+    },
+    {
+      "id": "sadiya-aman-gerado-q1133185",
+      "name": "Sadiya Aman Gerado",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999152"
+    },
+    {
+      "id": "sadiya-temam-shifa-q1133185",
+      "name": "Sadiya Temam Shifa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999158"
+    },
+    {
+      "id": "sadiya-usman-sheka-q1133185",
+      "name": "Sadiya Usman Sheka",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999165"
+    },
+    {
+      "id": "sahlu-diribsa-mosisa-q1133185",
+      "name": "Sahlu Diribsa Mosisa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999170"
+    },
+    {
+      "id": "samira-yusuf-ibro-q1133185",
+      "name": "Samira Yusuf Ibro",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999173"
+    },
+    {
+      "id": "seharla-abdulahi-bahdon-q1133185",
+      "name": "Seharla Abdulahi Bahdon",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999179"
+    },
+    {
+      "id": "seid-nuru-ali-q1133185",
+      "name": "Seid Nuru Ali",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999182"
+    },
+    {
+      "id": "selamwit-dawit-kamase-q1133185",
+      "name": "Selamwit Dawit Kamase",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999184"
+    },
+    {
+      "id": "senait-asradew-kokebe-q1133185",
+      "name": "Senait Asradew Kokebe",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999191"
+    },
+    {
+      "id": "seleshi-bekele-awlachew-q1133185",
+      "name": "Seleshi Bekele Awlachew",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999188"
+    },
+    {
+      "id": "sewasewi-tizazu-abate-q1133185",
+      "name": "Sewasewi Tizazu Abate",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999194"
+    },
+    {
+      "id": "seyid-mohammed-hussein-q1133185",
+      "name": "Seyid Mohammed Hussein",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999198"
+    },
+    {
+      "id": "shifera-telila-senbetu-q1133185",
+      "name": "Shifera Telila Senbetu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999203"
+    },
+    {
+      "id": "shumi-ayano-guto-q1133185",
+      "name": "Shumi Ayano Guto",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999206"
+    },
+    {
+      "id": "shurube-gemedi-nuna-q1133185",
+      "name": "Shurube Gemedi Nuna",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999209"
+    },
+    {
+      "id": "simneshi-sahlu-teum-q1133185",
+      "name": "Simneshi Sahlu Teum",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999212"
+    },
+    {
+      "id": "sintayehu-tilahun-abebe-q1133185",
+      "name": "Sintayehu Tilahun Abebe",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999216"
+    },
+    {
+      "id": "siti-redwan-biza-q1133185",
+      "name": "Siti Redwan Biza",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999223"
+    },
+    {
+      "id": "sintayehu-woldemichael-yohannes-q1133185",
+      "name": "Sintayehu Woldemichael Yohannes",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999221"
+    },
+    {
+      "id": "solomon-kuchu-robi-q1133185",
+      "name": "Solomon Kuchu Robi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999227"
+    },
+    {
+      "id": "solomon-soka-ginyarita-q1133185",
+      "name": "Solomon Soka Ginyarita",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999231"
+    },
+    {
+      "id": "sosna-getahun-azene-q1133185",
+      "name": "Sosna Getahun Azene",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999239"
+    },
+    {
+      "id": "solomone-lale-kalo-q1133185",
+      "name": "Solomone Lale Kalo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999236"
+    },
+    {
+      "id": "sultan-ibrahim-abagisa-q1133185",
+      "name": "Sultan Ibrahim Abagisa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999244"
+    },
+    {
+      "id": "sumiya-desalew-mola-q1133185",
+      "name": "Sumiya Desalew Mola",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999248"
+    },
+    {
+      "id": "suwerk-tafese-goshu-q1133185",
+      "name": "Suwerk Tafese Goshu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999252"
+    },
+    {
+      "id": "tadesse-beza-gebretsadik-q1133185",
+      "name": "Tadesse Beza Gebretsadik",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999259"
+    },
+    {
+      "id": "tadele-buraka-bushasha-q1133185",
+      "name": "Tadele Buraka Bushasha",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999256"
+    },
+    {
+      "id": "tadesse-getu-alemu-q1133185",
+      "name": "Tadesse Getu Alemu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999262"
+    },
+    {
+      "id": "tafesse-muleta-tesso-q1133185",
+      "name": "Tafesse Muleta Tesso",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999266"
+    },
+    {
+      "id": "tagese-chafo-q1133185",
+      "name": "Tagese Chafo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999269"
+    },
+    {
+      "id": "tana-gobena-fufa-q1133185",
+      "name": "Tana Gobena Fufa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999275"
+    },
+    {
+      "id": "talef-fitihawek-endeshaw-q1133185",
+      "name": "Talef Fitihawek Endeshaw",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999272"
+    },
+    {
+      "id": "tarke-daba-bobo-q1133185",
+      "name": "Tarke Daba Bobo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999278"
+    },
+    {
+      "id": "tawfik-abdullahi-ahmed-q1133185",
+      "name": "Tawfik Abdullahi Ahmed",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999282"
+    },
+    {
+      "id": "tegene-regassa-luba-q1133185",
+      "name": "Tegene Regassa Luba",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999286"
+    },
+    {
+      "id": "temesgen-ambachew-biresaw-q1133185",
+      "name": "Temesgen Ambachew Biresaw",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999290"
+    },
+    {
+      "id": "tesfahun-bogale-jember-q1133185",
+      "name": "Tesfahun Bogale Jember",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999295"
+    },
+    {
+      "id": "tesfahun-simegn-kebede-q1133185",
+      "name": "Tesfahun Simegn Kebede",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999299"
+    },
+    {
+      "id": "tesfahun-sisay-mengistu-q1133185",
+      "name": "Tesfahun Sisay Mengistu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999304"
+    },
+    {
+      "id": "tesfanesh-tefera-asres-q1133185",
+      "name": "Tesfanesh Tefera Asres",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999308"
+    },
+    {
+      "id": "tesfatsion-shuka-gadana-q1133185",
+      "name": "Tesfatsion Shuka Gadana",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999315"
+    },
+    {
+      "id": "tesfanesh-w-mariam-angi-q1133185",
+      "name": "Tesfanesh W/Mariam Angi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999312"
+    },
+    {
+      "id": "tesfaye-bangu-kacho-q1133185",
+      "name": "Tesfaye Bangu Kacho",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999319"
+    },
+    {
+      "id": "teshome-abdo-segni-q1133185",
+      "name": "Teshome Abdo Segni",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999327"
+    },
+    {
+      "id": "tesfaye-beljige-dara-q1133185",
+      "name": "Tesfaye Beljige Dara",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999324"
+    },
+    {
+      "id": "teshome-wale-gesesse-q1133185",
+      "name": "Teshome Wale Gesesse",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999331"
+    },
+    {
+      "id": "tewachew-abebe-yimer-q1133185",
+      "name": "Tewachew Abebe Yimer",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999334"
+    },
+    {
+      "id": "tewbo-mihereit-molla-q1133185",
+      "name": "Tewbo Mihereit Molla",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999339"
+    },
+    {
+      "id": "samuel-urkato-kurke-q1133185",
+      "name": "Samuel Urkato Kurke",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999176"
+    },
+    {
+      "id": "ahmed-shide-mohamed-q1133185",
+      "name": "Ahmed Shide Mohamed",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999657"
+    },
+    {
+      "id": "shurrubbee-gammadii-nunaa-q1133185",
+      "name": "Shurrubbee Gammadii Nunaa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999560"
+    },
+    {
+      "id": "thomas-tut-pok-q1133185",
+      "name": "Thomas Tut Pok",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999343"
+    },
+    {
+      "id": "tia-mio-arsawa-q1133185",
+      "name": "Tia Mio Arsawa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999348"
+    },
+    {
+      "id": "tigist-wuhib-tsega-q1133185",
+      "name": "Tigist Wuhib Tsega",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999355"
+    },
+    {
+      "id": "tidenek-guldu-tsedeke-q1133185",
+      "name": "Tidenek Guldu Tsedeke",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999352"
+    },
+    {
+      "id": "tilahun-tamirat-mulu-q1133185",
+      "name": "Tilahun Tamirat Mulu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999359"
+    },
+    {
+      "id": "tiruaynet-temesgen-ayalew-q1133185",
+      "name": "Tiruaynet Temesgen Ayalew",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999363"
+    },
+    {
+      "id": "tola-hailu-hunde-q1133185",
+      "name": "Tola Hailu Hunde",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999366"
+    },
+    {
+      "id": "tseganesh-gamato-gamo-q1133185",
+      "name": "Tseganesh Gamato Gamo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999370"
+    },
+    {
+      "id": "tsehay-bekele-tafesse-q1133185",
+      "name": "Tsehay Bekele Tafesse",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999376"
+    },
+    {
+      "id": "tsehaynesh-gebre-w-michael-q1133185",
+      "name": "Tsehaynesh Gebre W / Michael",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999380"
+    },
+    {
+      "id": "ume-abdela-umer-q1133185",
+      "name": "Ume Abdela Umer",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999387"
+    },
+    {
+      "id": "tsige-denboba-ayano-q1133185",
+      "name": "Tsige Denboba Ayano",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999384"
+    },
+    {
+      "id": "usheto-hobicho-dabelo-q1133185",
+      "name": "Usheto Hobicho Dabelo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999394"
+    },
+    {
+      "id": "usman-surur-siraj-q1133185",
+      "name": "Usman Surur Siraj",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999398"
+    },
+    {
+      "id": "werkinesh-jemal-asfaw-q1133185",
+      "name": "Werkinesh Jemal Asfaw",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999401"
+    },
+    {
+      "id": "werknesh-biru-bedasa-q1133185",
+      "name": "Werknesh Biru Bedasa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999404"
+    },
+    {
+      "id": "werksemu-mamo-mekonnen-q1133185",
+      "name": "Werksemu Mamo Mekonnen",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999408"
+    },
+    {
+      "id": "woldeyes-debebe-delki-q1133185",
+      "name": "Woldeyes Debebe Delki",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999412"
+    },
+    {
+      "id": "wondwosen-admase-tadesse-q1133185",
+      "name": "Wondwosen Admase Tadesse",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999417"
+    },
+    {
+      "id": "worknesh-mohammed-hebiso-q1133185",
+      "name": "Worknesh Mohammed Hebiso",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999421"
+    },
+    {
+      "id": "wubete-tadege-nibret-q1133185",
+      "name": "Wubete Tadege Nibret",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999425"
+    },
+    {
+      "id": "wudalat-minwuye-bayih-q1133185",
+      "name": "Wudalat Minwuye Bayih",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999429"
+    },
+    {
+      "id": "yasmin-wehabrebi-seid-q1133185",
+      "name": "Yasmin Wehabrebi Seid",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999432"
+    },
+    {
+      "id": "yeshi-muka-wakaye-q1133185",
+      "name": "Yeshi Muka Wakaye",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999439"
+    },
+    {
+      "id": "yemengist-tsegaw-walelign-q1133185",
+      "name": "Yemengist Tsegaw Walelign",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999436"
+    },
+    {
+      "id": "yeshihasab-tsegaw-welelaw-q1133185",
+      "name": "Yeshihasab Tsegaw Welelaw",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999443"
+    },
+    {
+      "id": "yeshimebet-demise-sewagegnehu-q1133185",
+      "name": "Yeshimebet Demise Sewagegnehu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999446"
+    },
+    {
+      "id": "yeshimebrat-mersha-kasa-q1133185",
+      "name": "Yeshimebrat Mersha Kasa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999449"
+    },
+    {
+      "id": "yezina-mulati-zeleke-q1133185",
+      "name": "Yezina Mulati Zeleke",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999455"
+    },
+    {
+      "id": "yezibalem-kasse-yismaw-q1133185",
+      "name": "Yezibalem Kasse Yismaw",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999452"
+    },
+    {
+      "id": "yiftu-gudisa-oshko-q1133185",
+      "name": "Yiftu Gudisa Oshko",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999458"
+    },
+    {
+      "id": "yohannis-mesfin-gebeyehu-q1133185",
+      "name": "Yohannis Mesfin Gebeyehu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999463"
+    },
+    {
+      "id": "yineger-dessie-belay-q1133185",
+      "name": "Yineger Dessie Belay",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999461"
+    },
+    {
+      "id": "zara-biftu-nabi-q1133185",
+      "name": "Zara Biftu Nabi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999466"
+    },
+    {
+      "id": "zamzam-ahmed-jama-q1133185",
+      "name": "Zamzam Ahmed Jama",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999465"
+    },
+    {
+      "id": "zara-mohammed-adana-q1133185",
+      "name": "Zara Mohammed Adana",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999469"
+    },
+    {
+      "id": "zegeye-muluye-asres-q1133185",
+      "name": "Zegeye Muluye Asres",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999474"
+    },
+    {
+      "id": "zeineba-nura-bati-q1133185",
+      "name": "Zeineba Nura Bati",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999477"
+    },
+    {
+      "id": "zekarias-erekola-yimamo-q1133185",
+      "name": "Zekarias Erekola Yimamo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999481"
+    },
+    {
+      "id": "zelalem-melak-bogale-q1133185",
+      "name": "Zelalem Melak Bogale",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999485"
+    },
+    {
+      "id": "zelalem-tadesse-ayalew-q1133185",
+      "name": "Zelalem Tadesse Ayalew",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999490"
+    },
+    {
+      "id": "zemene-hailu-mekonnen-q1133185",
+      "name": "Zemene Hailu Mekonnen",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999494"
+    },
+    {
+      "id": "zemu-tesfaye-bendi-q1133185",
+      "name": "Zemu Tesfaye Bendi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999496"
+    },
+    {
+      "id": "zeritu-shiferaw-beyene-q1133185",
+      "name": "Zeritu Shiferaw Beyene",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999500"
+    },
+    {
+      "id": "zewdu-tadesse-wondimkun-q1133185",
+      "name": "Zewdu Tadesse Wondimkun",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999507"
+    },
+    {
+      "id": "zewdenesh-tulu-gashe-q1133185",
+      "name": "Zewdenesh Tulu Gashe",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999504"
+    },
+    {
+      "id": "zeyini-abose-q1133185",
+      "name": "Zeyini Abose",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999511"
+    },
+    {
+      "id": "zinash-tsegaye-kalo-q1133185",
+      "name": "Zinash Tsegaye Kalo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999515"
+    },
+    {
+      "id": "asiya-qabdulkadir-barakat-q1133185",
+      "name": "Asiya Qabdulkadir Barakat",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999535"
+    },
+    {
+      "id": "eyasu-elias-fantahun-q1133185",
+      "name": "Eyasu Elias Fantahun",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999531"
+    },
+    {
+      "id": "zinaye-negash-zemedu-q1133185",
+      "name": "Zinaye Negash Zemedu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999520"
+    },
+    {
+      "id": "binalf-andualem-ashenafi-q1133185",
+      "name": "Binalf Andualem Ashenafi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999540"
+    },
+    {
+      "id": "zadig-abreha-sharew-q1133185",
+      "name": "Zadig Abreha Sharew",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999524"
+    },
+    {
+      "id": "bifto-mohammed-ibro-q1133185",
+      "name": "Bifto Mohammed Ibro",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999547"
+    },
+    {
+      "id": "wondimu-tekle-sigo-q1133185",
+      "name": "Wondimu Tekle Sigo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999528"
+    },
+    {
+      "id": "ababuu-damissee-kaamsuur-q1133185",
+      "name": "Ababuu Damissee Kaamsuur",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999551"
+    },
+    {
+      "id": "jamiilaa-simbiruu-tusaa-q1133185",
+      "name": "Jamiilaa Simbiruu Tusaa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999555"
+    },
+    {
+      "id": "miiliyoon-baqqalaa-damissee-q1133185",
+      "name": "Miiliyoon Baqqalaa Damissee",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999564"
+    },
+    {
+      "id": "kuulanii-mahammad-abdullaa-q1133185",
+      "name": "Kuulanii Mahammad Abdullaa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999575"
+    },
+    {
+      "id": "obbo-guutaa-laachoree-caakkee-q1133185",
+      "name": "Obbo Guutaa Laachoree Caakkee",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999569"
+    },
+    {
+      "id": "galaasaa-dilboo-goljaa-q1133185",
+      "name": "Galaasaa Dilboo Goljaa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999573"
+    },
+    {
+      "id": "itoophiyaa-shaambal-damboobaa-q1133185",
+      "name": "Itoophiyaa Shaambal Damboobaa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999579"
+    },
+    {
+      "id": "adaalee-odaa-tooduwaa-q1133185",
+      "name": "Adaalee Odaa Tooduwaa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999586"
+    },
+    {
+      "id": "wogee-kufaa-buutee-q1133185",
+      "name": "Wogee Kufaa Buutee",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999583"
+    },
+    {
+      "id": "eshetu-kebede-gichoro-q1133185",
+      "name": "Eshetu Kebede Gichoro",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999599"
+    },
+    {
+      "id": "umer-huseen-obaa-q1133185",
+      "name": "Umer Huseen Obaa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999590"
+    },
+    {
+      "id": "warquu-gaachanaa-nagarraa-q1133185",
+      "name": "Warquu Gaachanaa Nagarraa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999594"
+    },
+    {
+      "id": "alesa-mengesha-boko-q1133185",
+      "name": "Alesa Mengesha Boko",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999611"
+    },
+    {
+      "id": "shisema-gebresilassie-weranga-q1133185",
+      "name": "Shisema Gebresilassie Weranga",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999597"
+    },
+    {
+      "id": "gebeynesh-gizaw-yebo-q1133185",
+      "name": "Gebeynesh Gizaw Yebo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999605"
+    },
+    {
+      "id": "eyasu-kasa-ganjula-q1133185",
+      "name": "Eyasu Kasa Ganjula",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999608"
+    },
+    {
+      "id": "terefe-tadesse-godi-q1133185",
+      "name": "Terefe Tadesse Godi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999614"
+    },
+    {
+      "id": "redwan-hussien-rameto-q1133185",
+      "name": "Redwan Hussien Rameto",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999617"
+    },
+    {
+      "id": "genene-gedebu-feleha-q1133185",
+      "name": "Genene Gedebu Feleha",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999627"
+    },
+    {
+      "id": "million-mathewos-korsisa-q1133185",
+      "name": "Million Mathewos Korsisa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999630"
+    },
+    {
+      "id": "tigist-tadele-atenafu-q1133185",
+      "name": "Tigist Tadele Atenafu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999620"
+    },
+    {
+      "id": "desalegn-misa-wallasa-q1133185",
+      "name": "Desalegn Misa Wallasa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999639"
+    },
+    {
+      "id": "teshome-toga-cheneka-q1133185",
+      "name": "Teshome Toga Cheneka",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999624"
+    },
+    {
+      "id": "geremew-garj-gidabo-q1133185",
+      "name": "Geremew Garj Gidabo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999633"
+    },
+    {
+      "id": "bekele-fole-sare-q1133185",
+      "name": "Bekele Fole Sare",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999644"
+    },
+    {
+      "id": "selamu-bulado-bukana-q1133185",
+      "name": "Selamu Bulado Bukana",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999642"
+    },
+    {
+      "id": "tiratu-beyene-biltu-q1133185",
+      "name": "Tiratu Beyene Biltu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999636"
+    },
+    {
+      "id": "goyeti-wancho-ayke-q1133185",
+      "name": "Goyeti Wancho Ayke",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999650"
+    },
+    {
+      "id": "tekleweled-atnafu-ambula-q1133185",
+      "name": "Tekleweled Atnafu Ambula",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999647"
+    },
+    {
+      "id": "halimo-mahamed-abdi-q1133185",
+      "name": "Halimo Mahamed Abdi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999659"
+    },
+    {
+      "id": "guled-ahmed-ali-q1133185",
+      "name": "Guled Ahmed Ali",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999661"
+    },
+    {
+      "id": "wendemu-girma-tamrasha-q1133185",
+      "name": "Wendemu Girma Tamrasha",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999653"
+    },
+    {
+      "id": "usame-mohamed-muhumad-q1133185",
+      "name": "Usame Mohamed Muhumad",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Peoples' Representatives",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131999391"
+    },
+    {
+      "id": "abdulahi-hassen-q257899",
       "name": "Abdulahi Hassen",
       "sitting": true,
       "party_id": "unknown",

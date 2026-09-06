@@ -1,0 +1,59 @@
+{
+  "iso2": "py",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q733",
+  "bodies": [
+    {
+      "qid": "Q2119404",
+      "label": "Senate of Paraguay",
+      "seats": 45,
+      "web": "http://www.senado.gov.py/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q2511660",
+      "label": "Congress of Paraguay",
+      "seats": 0,
+      "web": "http://www.congreso.gov.py/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q320290",
+      "label": "Chamber of Deputies",
+      "seats": 80,
+      "web": "https://www.diputados.gov.py/",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Senate of Paraguay",
+    "Chamber of Deputies"
+  ],
+  "seats": 125,
+  "items": [
+    {
+      "id": "Q2119404",
+      "name": "Senate of Paraguay",
+      "kind": "chamber",
+      "seats": 45,
+      "url": "http://www.senado.gov.py/"
+    },
+    {
+      "id": "Q2511660",
+      "name": "Congress of Paraguay",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "http://www.congreso.gov.py/"
+    },
+    {
+      "id": "Q320290",
+      "name": "Chamber of Deputies",
+      "kind": "chamber",
+      "seats": 80,
+      "url": "https://www.diputados.gov.py/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

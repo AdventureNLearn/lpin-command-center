@@ -3,12 +3,16 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1139228",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 77,
+  "incomplete": true,
+  "claimed_seats": 50,
+  "chambers": [
+    "Member of the National Assembly of Kuwait",
+    "National Assembly of Kuwait"
+  ],
   "items": [
     {
-      "id": "aseel-al-awadhi",
-      "name": "Aseel al-Awadhi",
+      "id": "suleiman-aldhuwaikh-q1139228",
+      "name": "Suleiman AlDhuwaikh",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -17,101 +21,10 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q12179785"
+      "roster_url": "http://www.wikidata.org/entity/Q12216729"
     },
     {
-      "id": "bader-aldahoum",
-      "name": "Bader Aldahoum",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12201680"
-    },
-    {
-      "id": "jamaan-al-harbash",
-      "name": "Jamaan Al-Harbash",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12205938"
-    },
-    {
-      "id": "hassan-jawhar",
-      "name": "Hassan Jawhar",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12207945"
-    },
-    {
-      "id": "hussein-quwaian-al-mutairi",
-      "name": "Hussein Quwaian Al-Mutairi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12208234"
-    },
-    {
-      "id": "hamad-al-jouan",
-      "name": "Hamad al-Jouan",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12208729"
-    },
-    {
-      "id": "khaled-al-shatti",
-      "name": "Khaled Al-Shatti",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12210080"
-    },
-    {
-      "id": "khalid-al-ghunaim",
-      "name": "Khalid Al-Ghunaim",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12210111"
-    },
-    {
-      "id": "safa-al-hashem",
+      "id": "safa-al-hashem-q1139228",
       "name": "Safa Al Hashem",
       "sitting": true,
       "party_id": "unknown",
@@ -124,7 +37,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q12219999"
     },
     {
-      "id": "abdulaziz-f-al-masaeed",
+      "id": "abdulaziz-f-al-masaeed-q1139228",
       "name": "Abdulaziz F. Al-Masaeed",
       "sitting": true,
       "party_id": "unknown",
@@ -137,7 +50,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q12223081"
     },
     {
-      "id": "abdullah-al-nafisi",
+      "id": "abdullah-al-nafisi-q1139228",
       "name": "Abdullah Al-Nafisi",
       "sitting": true,
       "party_id": "unknown",
@@ -150,7 +63,46 @@
       "roster_url": "http://www.wikidata.org/entity/Q12223430"
     },
     {
-      "id": "essam-al-dabbous",
+      "id": "abdullah-al-nibari-q1139228",
+      "name": "Abdullah Al-Nibari",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12223432"
+    },
+    {
+      "id": "abdulmuttalib-al-kadhimi-q1139228",
+      "name": "Abdulmuttalib Al-Kadhimi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12223807"
+    },
+    {
+      "id": "obaid-al-wasmi-q1139228",
+      "name": "Obaid Al-Wasmi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12224277"
+    },
+    {
+      "id": "essam-al-dabbous-q1139228",
       "name": "Essam Al-Dabbous",
       "sitting": true,
       "party_id": "unknown",
@@ -163,306 +115,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q12227252"
     },
     {
-      "id": "rashed-abdullah-alfarhan",
-      "name": "Rashed Abdullah Alfarhan",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12212967"
-    },
-    {
-      "id": "fayez-ghannam-aljumhur",
-      "name": "Fayez Ghannam Aljumhur",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q104214943"
-    },
-    {
-      "id": "marzouq-al-hubaini-al-azmi",
-      "name": "Marzouq Al-Hubaini Al-Azmi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6781877"
-    },
-    {
-      "id": "mikhled-al-azmi",
-      "name": "Mikhled Al-Azmi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6849812"
-    },
-    {
-      "id": "mohammed-abdullah-al-ajmi",
-      "name": "Mohammed Abdullah Al-Ajmi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6892849"
-    },
-    {
-      "id": "mohammed-al-abduljader",
-      "name": "Mohammed Al-Abduljader",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6892884"
-    },
-    {
-      "id": "mohammed-al-kandari",
-      "name": "Mohammed Al-Kandari",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6892890"
-    },
-    {
-      "id": "mohammed-al-rasheedi",
-      "name": "Mohammed Al-Rasheedi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6892903"
-    },
-    {
-      "id": "mohammed-al-mutair",
-      "name": "Mohammed Al-Mutair",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6892901"
-    },
-    {
-      "id": "mohammed-faleh-al-ajmi",
-      "name": "Mohammed Faleh Al-Ajmi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6893079"
-    },
-    {
-      "id": "mohammed-hayef-al-mutairi",
-      "name": "Mohammed Hayef AlـMutairi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6893134"
-    },
-    {
-      "id": "mubarak-al-mutairi",
-      "name": "Mubarak Al-Mutairi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6930824"
-    },
-    {
-      "id": "musallam-al-barrak",
-      "name": "Musallam Al-Barrak",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6940096"
-    },
-    {
-      "id": "nasser-al-duwailah",
-      "name": "Nasser Al-Duwailah",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6967611"
-    },
-    {
-      "id": "rija-hujailan-al-mutairi",
-      "name": "Rija Hujailan Al-Mutairi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7333945"
-    },
-    {
-      "id": "roudhan-al-roudhan",
-      "name": "Roudhan Al-Roudhan",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7370752"
-    },
-    {
-      "id": "saad-al-khanfour-al-rasheedi",
-      "name": "Saad AlـKhanfour Al-Rasheedi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7395546"
-    },
-    {
-      "id": "sadoon-al-otaibi",
-      "name": "Sadoon Al-Otaibi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7398031"
-    },
-    {
-      "id": "saleh-al-mulla",
-      "name": "Saleh Al-Mulla",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7403889"
-    },
-    {
-      "id": "saleh-ashour",
-      "name": "Saleh Ashour",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7403899"
-    },
-    {
-      "id": "salwa-al-jassar",
-      "name": "Salwa al-Jassar",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7406965"
-    },
-    {
-      "id": "waleed-al-tabtabaie",
-      "name": "Waleed Al-Tabtabaie",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7961682"
-    },
-    {
-      "id": "yusuf-ibn-as-saiyid-hasim-ar-rifa-i",
-      "name": "Yūsuf Ibn-as-Saiyid Hāšim ar- Rifāʿī",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q113717326"
-    },
-    {
-      "id": "mbarak-il-hasawi",
+      "id": "mbarak-il-hasawi-q1139228",
       "name": "Mbārak il-Ḥasāwi",
       "sitting": true,
       "party_id": "unknown",
@@ -475,7 +128,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q12238480"
     },
     {
-      "id": "mohammed-hamad-al-barrak",
+      "id": "mohammed-hamad-al-barrak-q1139228",
       "name": "Mohammed Hamad Al-Barrak",
       "sitting": true,
       "party_id": "unknown",
@@ -488,20 +141,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q12240421"
     },
     {
-      "id": "nasser-al-sane",
-      "name": "Nasser Al-Sane",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q12247708"
-    },
-    {
-      "id": "nasser-sarkhou",
+      "id": "nasser-sarkhou-q1139228",
       "name": "Nasser Sarkhou",
       "sitting": true,
       "party_id": "unknown",
@@ -514,7 +154,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q12247754"
     },
     {
-      "id": "nabil-al-fadl",
+      "id": "nabil-al-fadl-q1139228",
       "name": "Nabil Al Fadl",
       "sitting": true,
       "party_id": "unknown",
@@ -527,33 +167,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q12247922"
     },
     {
-      "id": "massouma-al-mubarak",
-      "name": "Massouma al-Mubarak",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Kuwait's First District",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q2385060"
-    },
-    {
-      "id": "abdullah-mayouf",
-      "name": "Abdullah Mayouf",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3603412"
-    },
-    {
-      "id": "saad-altami",
+      "id": "saad-altami-q1139228",
       "name": "Saad Altami",
       "sitting": true,
       "party_id": "unknown",
@@ -566,7 +180,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q16118512"
     },
     {
-      "id": "rakan-al-nisf",
+      "id": "rakan-al-nisf-q1139228",
       "name": "Rakan Al-Nisf",
       "sitting": true,
       "party_id": "unknown",
@@ -579,8 +193,21 @@
       "roster_url": "http://www.wikidata.org/entity/Q16124633"
     },
     {
-      "id": "abdulatif-al-ameeri",
-      "name": "Abdulatif Al-Ameeri",
+      "id": "nasser-al-sane-q1139228",
+      "name": "Nasser Al-Sane",
+      "sitting": true,
+      "party_id": "hadas",
+      "caucus": "Hadas",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12247708"
+    },
+    {
+      "id": "rashed-abdullah-alfarhan-q1139228",
+      "name": "Rashed Abdullah Alfarhan",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -589,11 +216,24 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q4665784"
+      "roster_url": "http://www.wikidata.org/entity/Q12212967"
     },
     {
-      "id": "abdulaziz-al-shayji",
-      "name": "Abdulaziz AlـShayji",
+      "id": "ghanam-al-jumhur-q1139228",
+      "name": "Ghanam Al-jumhur",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12229676"
+    },
+    {
+      "id": "dawood-marafie-q1139228",
+      "name": "Dawood Marafie",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -602,11 +242,11 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q4665804"
+      "roster_url": "http://www.wikidata.org/entity/Q123010440"
     },
     {
-      "id": "abdullah-al-fahma",
-      "name": "Abdullah Al-Fahma",
+      "id": "mubarak-al-harris-q1139228",
+      "name": "Mubarak Al-Harris",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -615,11 +255,11 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q4665926"
+      "roster_url": "http://www.wikidata.org/entity/Q85848781"
     },
     {
-      "id": "abdullah-al-roumi",
-      "name": "Abdullah Al-Roumi",
+      "id": "muhammad-alhadia-q1139228",
+      "name": "Muhammad alhadia",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -628,11 +268,11 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q4665936"
+      "roster_url": "http://www.wikidata.org/entity/Q85849125"
     },
     {
-      "id": "abdullah-al-barghash",
-      "name": "Abdullah AlـBarghash",
+      "id": "hamdan-al-azmi-q1139228",
+      "name": "Hamdan Al-Azmi",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -641,11 +281,11 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q4665960"
+      "roster_url": "http://www.wikidata.org/entity/Q86734414"
     },
     {
-      "id": "abdulwahed-al-awadhi",
-      "name": "Abdulwahed Al-Awadhi",
+      "id": "bader-al-mulla-q1139228",
+      "name": "Bader al Mulla",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -654,11 +294,11 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q4666222"
+      "roster_url": "http://www.wikidata.org/entity/Q87004146"
     },
     {
-      "id": "adel-al-saraawi",
-      "name": "Adel Al-Saraawi",
+      "id": "ali-albghly-q1139228",
+      "name": "ʻAlī albghly",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -667,11 +307,11 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q4681544"
+      "roster_url": "http://www.wikidata.org/entity/Q87441885"
     },
     {
-      "id": "adnan-zahid-abdulsamad",
-      "name": "Adnan Zahid Abdulsamad",
+      "id": "abdulwahab-al-issa-q1139228",
+      "name": "Abdulwahab Al-Issa",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -680,257 +320,10 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q4683924"
+      "roster_url": "http://www.wikidata.org/entity/Q96271426"
     },
     {
-      "id": "ahmed-al-sadoun",
-      "name": "Ahmed Al-Sadoun",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4695735"
-    },
-    {
-      "id": "ahmed-al-mulaifi",
-      "name": "Ahmed Al-Mulaifi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4695733"
-    },
-    {
-      "id": "ahmed-lari",
-      "name": "Ahmed Lari",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4695898"
-    },
-    {
-      "id": "ahmed-al-rubei",
-      "name": "Ahmed al-Rubei",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4696089"
-    },
-    {
-      "id": "ali-al-daqbaashi",
-      "name": "Ali Al-Daqbaashi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4724613"
-    },
-    {
-      "id": "ali-al-hajri",
-      "name": "Ali Al-Hajri",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4724616"
-    },
-    {
-      "id": "ali-al-omair",
-      "name": "Ali Al-Omair",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4724622"
-    },
-    {
-      "id": "ali-al-rashid",
-      "name": "Ali Al-Rashid",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4724623"
-    },
-    {
-      "id": "askar-al-enezi",
-      "name": "Askar Al-Enezi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4807126"
-    },
-    {
-      "id": "rola-dashti",
-      "name": "Rola Dashti",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4944255"
-    },
-    {
-      "id": "daifallah-bouramiya",
-      "name": "Daifallah Bouramiya",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5209093"
-    },
-    {
-      "id": "mohammed-al-sager",
-      "name": "Mohammed Al-Sager",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5359449"
-    },
-    {
-      "id": "fahad-al-azmi",
-      "name": "Fahad Al-Azmi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5429475"
-    },
-    {
-      "id": "faisal-al-muslim-al-otaib",
-      "name": "Faisal Al-Muslim Al-Otaib",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5431040"
-    },
-    {
-      "id": "hussain-al-qallaf-al-bahrani",
-      "name": "Hussain Al-Qallaf Al-Bahrani",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5949496"
-    },
-    {
-      "id": "hussein-nasser-al-huraiti",
-      "name": "Hussein Nasser Al-Huraiti",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5949850"
-    },
-    {
-      "id": "ibrahim-khraibut",
-      "name": "Ibrahim Khraibut",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5984629"
-    },
-    {
-      "id": "jabir-al-azmi",
-      "name": "Jabir Al-Azmi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6110180"
-    },
-    {
-      "id": "jassem-al-kharafi",
-      "name": "Jassem Al-Kharafi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly of Kuwait",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6164155"
-    },
-    {
-      "id": "abdul-hamid-dashti",
+      "id": "abdul-hamid-dashti-q1139228",
       "name": "Abdul-Hamid Dashti",
       "sitting": true,
       "party_id": "unknown",
@@ -943,8 +336,8 @@
       "roster_url": "http://www.wikidata.org/entity/Q22688792"
     },
     {
-      "id": "khaled-al-sultan-bin-essa",
-      "name": "Khaled AlـSultan Bin Essa",
+      "id": "shuaib-al-muwaizri-q1139228",
+      "name": "Shuaib Al-Muwaizri",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -953,10 +346,23 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q6399316"
+      "roster_url": "http://www.wikidata.org/entity/Q27950262"
     },
     {
-      "id": "abdulwahab-al-babtain",
+      "id": "hamad-almatar-q1139228",
+      "name": "Hamad Almatar",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28715629"
+    },
+    {
+      "id": "abdulwahab-al-babtain-q1139228",
       "name": "Abdulwahab Al-Babtain",
       "sitting": true,
       "party_id": "unknown",
@@ -969,7 +375,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q28716181"
     },
     {
-      "id": "omar-al-tabtabaee",
+      "id": "thamer-al-suwait-q1139228",
+      "name": "Thamer Al-Suwait",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28716032"
+    },
+    {
+      "id": "omar-al-tabtabaee-q1139228",
       "name": "Omar Al-Tabtabaee",
       "sitting": true,
       "party_id": "unknown",
@@ -982,7 +401,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q37634446"
     },
     {
-      "id": "abdulkarim-al-kanderi",
+      "id": "abdulkarim-al-kanderi-q1139228",
       "name": "Abdulkarim Al-Kanderi",
       "sitting": true,
       "party_id": "unknown",
@@ -995,7 +414,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q37640827"
     },
     {
-      "id": "mubarak-al-hajraf",
+      "id": "mubarak-al-zwair-q1139228",
+      "name": "Mubarak Al-Zwair",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q87570519"
+    },
+    {
+      "id": "jenan-boushehri-q1139228",
+      "name": "Jenan Boushehri",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q47499715"
+    },
+    {
+      "id": "mubarak-al-hajraf-q1139228",
       "name": "Mubarak Al-Hajraf",
       "sitting": true,
       "party_id": "unknown",
@@ -1006,6 +451,942 @@
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q54861439"
+    },
+    {
+      "id": "essa-al-kandari-q1139228",
+      "name": "Essa Al-Kandari",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q54875312"
+    },
+    {
+      "id": "jassim-ismail-juma-q1139228",
+      "name": "Jassim Ismail Juma",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q87777651"
+    },
+    {
+      "id": "fayez-ghannam-aljumhur-q1139228",
+      "name": "Fayez Ghannam Aljumhur",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q104214943"
+    },
+    {
+      "id": "mohammad-obaid-al-rajhi-q1139228",
+      "name": "Mohammad Obaid Al-Rajhi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q106097847"
+    },
+    {
+      "id": "mubarak-zaid-al-mutairi-q1139228",
+      "name": "Mubarak Zaid Al-Mutairi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q106098187"
+    },
+    {
+      "id": "hamad-al-midlij-q1139228",
+      "name": "Hamad Al-Midlij",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q65926262"
+    },
+    {
+      "id": "muhannad-al-sayer-q1139228",
+      "name": "Muhannad Al-Sayer",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109255993"
+    },
+    {
+      "id": "hamad-ahmad-roh-el-deen-q1139228",
+      "name": "Hamad Ahmad Roh El Deen",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109298040"
+    },
+    {
+      "id": "ahmed-al-qudaibi-q1139228",
+      "name": "Ahmed Al-Qudaibi",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q114570272"
+    },
+    {
+      "id": "yusuf-ibn-as-saiyid-hasim-ar-rifa-i-q1139228",
+      "name": "Yūsuf Ibn-as-Saiyid Hāšim ar- Rifāʿī",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q113717326"
+    },
+    {
+      "id": "saud-al-asfoor-q1139228",
+      "name": "Saud Al-Asfoor",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q119946913"
+    },
+    {
+      "id": "khaled-al-sultan-bin-essa-q1139228",
+      "name": "Khaled AlـSultan Bin Essa",
+      "sitting": true,
+      "party_id": "islamic-salafi-alliance",
+      "caucus": "Islamic Salafi Alliance",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6399316"
+    },
+    {
+      "id": "adnan-zahid-abdulsamad-q1139228",
+      "name": "Adnan Zahid Abdulsamad",
+      "sitting": true,
+      "party_id": "national-islamic-alliance",
+      "caucus": "National Islamic Alliance",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4683924"
+    },
+    {
+      "id": "ahmed-lari-q1139228",
+      "name": "Ahmed Lari",
+      "sitting": true,
+      "party_id": "national-islamic-alliance",
+      "caucus": "National Islamic Alliance",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4695898"
+    },
+    {
+      "id": "ali-al-rashid-q1139228",
+      "name": "Ali Al-Rashid",
+      "sitting": true,
+      "party_id": "national-democratic-alliance",
+      "caucus": "National Democratic Alliance",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4724623"
+    },
+    {
+      "id": "aseel-al-awadhi-q1139228",
+      "name": "Aseel al-Awadhi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12179785"
+    },
+    {
+      "id": "bader-aldahoum-q1139228",
+      "name": "Bader Aldahoum",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12201680"
+    },
+    {
+      "id": "hassan-jawhar-q1139228",
+      "name": "Hassan Jawhar",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12207945"
+    },
+    {
+      "id": "hussein-quwaian-al-mutairi-q1139228",
+      "name": "Hussein Quwaian Al-Mutairi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12208234"
+    },
+    {
+      "id": "hamad-al-jouan-q1139228",
+      "name": "Hamad al-Jouan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12208729"
+    },
+    {
+      "id": "khaled-al-shatti-q1139228",
+      "name": "Khaled Al-Shatti",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12210080"
+    },
+    {
+      "id": "khalid-al-ghunaim-q1139228",
+      "name": "Khalid Al-Ghunaim",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12210111"
+    },
+    {
+      "id": "massouma-al-mubarak-q1139228",
+      "name": "Massouma al-Mubarak",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Kuwait's First District",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2385060"
+    },
+    {
+      "id": "abdullah-mayouf-q1139228",
+      "name": "Abdullah Mayouf",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3603412"
+    },
+    {
+      "id": "ahmed-al-sadoun-q1139228",
+      "name": "Ahmed Al-Sadoun",
+      "sitting": true,
+      "party_id": "popular-action-bloc",
+      "caucus": "Popular Action Bloc",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4695735"
+    },
+    {
+      "id": "ali-al-omair-q1139228",
+      "name": "Ali Al-Omair",
+      "sitting": true,
+      "party_id": "islamic-salafi-alliance",
+      "caucus": "Islamic Salafi Alliance",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4724622"
+    },
+    {
+      "id": "abdullah-al-fahma-q1139228",
+      "name": "Abdullah Al-Fahma",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4665926"
+    },
+    {
+      "id": "abdullah-al-roumi-q1139228",
+      "name": "Abdullah Al-Roumi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4665936"
+    },
+    {
+      "id": "abdullah-al-barghash-q1139228",
+      "name": "Abdullah AlـBarghash",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4665960"
+    },
+    {
+      "id": "abdulwahed-al-awadhi-q1139228",
+      "name": "Abdulwahed Al-Awadhi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4666222"
+    },
+    {
+      "id": "adel-al-saraawi-q1139228",
+      "name": "Adel Al-Saraawi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4681544"
+    },
+    {
+      "id": "ahmed-al-mulaifi-q1139228",
+      "name": "Ahmed Al-Mulaifi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4695733"
+    },
+    {
+      "id": "ahmed-al-rubei-q1139228",
+      "name": "Ahmed al-Rubei",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4696089"
+    },
+    {
+      "id": "ali-al-daqbaashi-q1139228",
+      "name": "Ali Al-Daqbaashi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4724613"
+    },
+    {
+      "id": "ali-al-hajri-q1139228",
+      "name": "Ali Al-Hajri",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4724616"
+    },
+    {
+      "id": "askar-al-enezi-q1139228",
+      "name": "Askar Al-Enezi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4807126"
+    },
+    {
+      "id": "rola-dashti-q1139228",
+      "name": "Rola Dashti",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4944255"
+    },
+    {
+      "id": "jamaan-al-harbash-q1139228",
+      "name": "Jamaan Al-Harbash",
+      "sitting": true,
+      "party_id": "hadas",
+      "caucus": "Hadas",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12205938"
+    },
+    {
+      "id": "mohammed-al-abduljader-q1139228",
+      "name": "Mohammed Al-Abduljader",
+      "sitting": true,
+      "party_id": "national-democratic-alliance",
+      "caucus": "National Democratic Alliance",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6892884"
+    },
+    {
+      "id": "daifallah-bouramiya-q1139228",
+      "name": "Daifallah Bouramiya",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5209093"
+    },
+    {
+      "id": "fahad-al-azmi-q1139228",
+      "name": "Fahad Al-Azmi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5429475"
+    },
+    {
+      "id": "faisal-al-muslim-al-otaib-q1139228",
+      "name": "Faisal Al-Muslim Al-Otaib",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5431040"
+    },
+    {
+      "id": "hussain-al-qallaf-al-bahrani-q1139228",
+      "name": "Hussain Al-Qallaf Al-Bahrani",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5949496"
+    },
+    {
+      "id": "hussein-nasser-al-huraiti-q1139228",
+      "name": "Hussein Nasser Al-Huraiti",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5949850"
+    },
+    {
+      "id": "ibrahim-khraibut-q1139228",
+      "name": "Ibrahim Khraibut",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5984629"
+    },
+    {
+      "id": "jabir-al-azmi-q1139228",
+      "name": "Jabir Al-Azmi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6110180"
+    },
+    {
+      "id": "jassem-al-kharafi-q1139228",
+      "name": "Jassem Al-Kharafi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6164155"
+    },
+    {
+      "id": "marzouq-al-ghanim-q1139228",
+      "name": "Marzouq Al-Ghanim",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6781875"
+    },
+    {
+      "id": "mikhled-al-azmi-q1139228",
+      "name": "Mikhled Al-Azmi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6849812"
+    },
+    {
+      "id": "mohammed-abdullah-al-ajmi-q1139228",
+      "name": "Mohammed Abdullah Al-Ajmi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6892849"
+    },
+    {
+      "id": "mohammed-al-rasheedi-q1139228",
+      "name": "Mohammed Al-Rasheedi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6892903"
+    },
+    {
+      "id": "mohammed-al-mutair-q1139228",
+      "name": "Mohammed Al-Mutair",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6892901"
+    },
+    {
+      "id": "mohammed-faleh-al-ajmi-q1139228",
+      "name": "Mohammed Faleh Al-Ajmi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6893079"
+    },
+    {
+      "id": "mohammed-hayef-al-mutairi-q1139228",
+      "name": "Mohammed Hayef AlـMutairi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6893134"
+    },
+    {
+      "id": "nasser-al-duwailah-q1139228",
+      "name": "Nasser Al-Duwailah",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6967611"
+    },
+    {
+      "id": "rija-hujailan-al-mutairi-q1139228",
+      "name": "Rija Hujailan Al-Mutairi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7333945"
+    },
+    {
+      "id": "roudhan-al-roudhan-q1139228",
+      "name": "Roudhan Al-Roudhan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7370752"
+    },
+    {
+      "id": "saad-al-khanfour-al-rasheedi-q1139228",
+      "name": "Saad AlـKhanfour Al-Rasheedi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7395546"
+    },
+    {
+      "id": "sadoon-al-otaibi-q1139228",
+      "name": "Sadoon Al-Otaibi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7398031"
+    },
+    {
+      "id": "saleh-al-mulla-q1139228",
+      "name": "Saleh Al-Mulla",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7403889"
+    },
+    {
+      "id": "salwa-al-jassar-q1139228",
+      "name": "Salwa al-Jassar",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7406965"
+    },
+    {
+      "id": "waleed-al-tabtabaie-q1139228",
+      "name": "Waleed Al-Tabtabaie",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7961682"
+    },
+    {
+      "id": "ahmad-muhammad-al-khatib-q1139228",
+      "name": "Ahmad Muhammad Al-Khatib",
+      "sitting": true,
+      "party_id": "arab-nationalist-movement",
+      "caucus": "Arab Nationalist Movement",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12179077"
+    },
+    {
+      "id": "marzouq-al-hubaini-al-azmi-q1139228",
+      "name": "Marzouq Al-Hubaini Al-Azmi",
+      "sitting": true,
+      "party_id": "popular-action-bloc",
+      "caucus": "Popular Action Bloc",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6781877"
+    },
+    {
+      "id": "mohammed-al-kandari-q1139228",
+      "name": "Mohammed Al-Kandari",
+      "sitting": true,
+      "party_id": "islamic-salafi-alliance",
+      "caucus": "Islamic Salafi Alliance",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6892890"
+    },
+    {
+      "id": "mubarak-al-mutairi-q1139228",
+      "name": "Mubarak Al-Mutairi",
+      "sitting": true,
+      "party_id": "popular-action-bloc",
+      "caucus": "Popular Action Bloc",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6930824"
+    },
+    {
+      "id": "musallam-al-barrak-q1139228",
+      "name": "Musallam Al-Barrak",
+      "sitting": true,
+      "party_id": "popular-action-bloc",
+      "caucus": "Popular Action Bloc",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6940096"
+    },
+    {
+      "id": "mohammed-al-sager-q1139228",
+      "name": "Mohammed Al-Sager",
+      "sitting": true,
+      "party_id": "national-democratic-alliance",
+      "caucus": "National Democratic Alliance",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5359449"
+    },
+    {
+      "id": "khalaf-al-enezi-q1139228",
+      "name": "Khalaf Al-Enezi",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6399230"
+    },
+    {
+      "id": "abdulatif-al-ameeri-q1139228",
+      "name": "Abdulatif Al-Ameeri",
+      "sitting": true,
+      "party_id": "hadas",
+      "caucus": "Hadas",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4665784"
+    },
+    {
+      "id": "abdulaziz-al-shayji-q1139228",
+      "name": "Abdulaziz AlـShayji",
+      "sitting": true,
+      "party_id": "hadas",
+      "caucus": "Hadas",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4665804"
+    },
+    {
+      "id": "saleh-ashour-q1139228",
+      "name": "Saleh Ashour",
+      "sitting": true,
+      "party_id": "justice-and-peace-alliance",
+      "caucus": "Justice and Peace Alliance",
+      "constituency_label": "",
+      "chamber": "National Assembly of Kuwait",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7403899"
     }
   ]
 }

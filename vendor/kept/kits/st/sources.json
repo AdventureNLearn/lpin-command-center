@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1267064"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1267064",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21295998",
+      "label": "Member of the National Assembly of Sao Tome and Principe (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21295998",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1267064",
+      "label": "Asamblea Nacional de Santo Tomé y Príncipe",
+      "url": "http://www.parlamento.st",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1267064",
+      "label": "Asamblea Nacional de Santo Tomé y Príncipe (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1267064",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

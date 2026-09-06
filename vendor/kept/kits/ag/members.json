@@ -3,333 +3,443 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1280751",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 25,
+  "incomplete": true,
+  "claimed_seats": 36,
+  "chambers": [
+    "Senate of Antigua and Barbuda",
+    "Parliament of Antigua and Barbuda",
+    "Governor-General of Antigua and Barbuda",
+    "House of Representatives of Antigua and Barbuda"
+  ],
   "items": [
     {
-      "id": "charles-fernandez",
-      "name": "Charles Fernandez",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Antigua and Barbuda",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q20171771"
-    },
-    {
-      "id": "lester-bird",
+      "id": "lester-bird-q1254104",
       "name": "Lester Bird",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "antigua-and-barbuda-labour-party",
+      "caucus": "Antigua and Barbuda Labour Party",
       "constituency_label": "",
-      "chamber": "Parliament of Antigua and Barbuda",
+      "chamber": "Senate of Antigua and Barbuda",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q365451"
     },
     {
-      "id": "hilbourne-frank",
-      "name": "Hilbourne Frank",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Antigua and Barbuda",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16092663"
-    },
-    {
-      "id": "hazelyn-francis",
-      "name": "Hazelyn Francis",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Antigua and Barbuda",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16105080"
-    },
-    {
-      "id": "molwyn-joseph",
-      "name": "Molwyn Joseph",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Antigua and Barbuda",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16730448"
-    },
-    {
-      "id": "trevor-walker",
-      "name": "Trevor Walker",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Barbuda",
-      "chamber": "Parliament of Antigua and Barbuda",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q105041016"
-    },
-    {
-      "id": "arthur-nibbs",
+      "id": "arthur-nibbs-q1254104",
       "name": "Arthur Nibbs",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "antigua-and-barbuda-labour-party",
+      "caucus": "Antigua and Barbuda Labour Party",
       "constituency_label": "",
-      "chamber": "Parliament of Antigua and Barbuda",
+      "chamber": "Senate of Antigua and Barbuda",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q4799829"
     },
     {
-      "id": "asot-michael",
-      "name": "Asot Michael",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Antigua and Barbuda",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4807601"
-    },
-    {
-      "id": "charlesworth-samuel",
+      "id": "charlesworth-samuel-q1254104",
       "name": "Charlesworth Samuel",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "united-progressive-party",
+      "caucus": "United Progressive Party",
       "constituency_label": "",
-      "chamber": "Parliament of Antigua and Barbuda",
+      "chamber": "Senate of Antigua and Barbuda",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q5084247"
     },
     {
-      "id": "jacqui-quinn-leandro",
+      "id": "charles-fernandez-q1254104",
+      "name": "Charles Fernandez",
+      "sitting": true,
+      "party_id": "antigua-and-barbuda-labour-party",
+      "caucus": "Antigua and Barbuda Labour Party",
+      "constituency_label": "",
+      "chamber": "Senate of Antigua and Barbuda",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20171771"
+    },
+    {
+      "id": "hazelyn-francis-q1254104",
+      "name": "Hazelyn Francis",
+      "sitting": true,
+      "party_id": "united-progressive-party",
+      "caucus": "United Progressive Party",
+      "constituency_label": "",
+      "chamber": "Senate of Antigua and Barbuda",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16105080"
+    },
+    {
+      "id": "jacqui-quinn-leandro-q1254104",
       "name": "Jacqui Quinn-Leandro",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "united-progressive-party",
+      "caucus": "United Progressive Party",
       "constituency_label": "",
-      "chamber": "Parliament of Antigua and Barbuda",
+      "chamber": "Senate of Antigua and Barbuda",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q21002314"
     },
     {
-      "id": "steadroy-benjamin",
-      "name": "Steadroy Benjamin",
+      "id": "edmond-mansoor-q1254104",
+      "name": "Edmond Mansoor",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Antigua and Barbuda",
+      "chamber": "Senate of Antigua and Barbuda",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q7605192"
+      "roster_url": "http://www.wikidata.org/entity/Q110124535"
     },
     {
-      "id": "vere-bird-jr",
-      "name": "Vere Bird, Jr.",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Antigua and Barbuda",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7921171"
-    },
-    {
-      "id": "alincia-williams-grant",
-      "name": "Alincia Williams-Grant",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Antigua and Barbuda",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q48417293"
-    },
-    {
-      "id": "colin-o-neil-browne",
+      "id": "colin-o-neil-browne-q1254104",
       "name": "Colin O'Neil Browne",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Antigua and Barbuda",
+      "chamber": "Senate of Antigua and Barbuda",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q111473410"
     },
     {
-      "id": "shenella-mary-shadida-govia",
+      "id": "shenella-mary-shadida-govia-q1254104",
       "name": "Shenella Mary Shadida Govia",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Antigua and Barbuda",
+      "chamber": "Senate of Antigua and Barbuda",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q113611376"
     },
     {
-      "id": "jamale-pringle",
-      "name": "Jamale Pringle",
+      "id": "millicent-percival-q1254104",
+      "name": "Millicent Percival",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "All Saints East & St. Luke",
-      "chamber": "Parliament of Antigua and Barbuda",
+      "party_id": "antigua-and-barbuda-labour-party",
+      "caucus": "Antigua and Barbuda Labour Party",
+      "constituency_label": "",
+      "chamber": "Senate of Antigua and Barbuda",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q118398871"
+      "roster_url": "http://www.wikidata.org/entity/Q48331998"
     },
     {
-      "id": "kiz-johnson",
+      "id": "kiz-johnson-q1254104",
       "name": "Kiz Johnson",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Antigua and Barbuda",
+      "chamber": "Senate of Antigua and Barbuda",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q118312819"
     },
     {
-      "id": "shawn-nicholas",
+      "id": "shawn-nicholas-q1254104",
       "name": "Shawn Nicholas",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Antigua and Barbuda",
+      "chamber": "Senate of Antigua and Barbuda",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q118313140"
     },
     {
-      "id": "alex-browne",
+      "id": "alex-browne-q1254104",
       "name": "Alex Browne",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Antigua and Barbuda",
+      "chamber": "Senate of Antigua and Barbuda",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q118398582"
     },
     {
-      "id": "david-massiah",
+      "id": "david-massiah-q1254104",
       "name": "David Massiah",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Antigua and Barbuda",
+      "chamber": "Senate of Antigua and Barbuda",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q118398523"
     },
     {
-      "id": "johnathan-joseph",
+      "id": "johnathan-joseph-q1254104",
       "name": "Johnathan Joseph",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Antigua and Barbuda",
+      "chamber": "Senate of Antigua and Barbuda",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q118398625"
     },
     {
-      "id": "clement-marley-mandela-antonio",
+      "id": "caleb-gardiner-q1254104",
+      "name": "Caleb Gardiner",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Antigua and Barbuda",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q118398944"
+    },
+    {
+      "id": "clement-marley-mandela-antonio-q1254104",
       "name": "Clement Marley Mandela Antonio",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Antigua and Barbuda",
+      "chamber": "Senate of Antigua and Barbuda",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q118398915"
     },
     {
-      "id": "knacyntar-nedd-charles",
+      "id": "knacyntar-nedd-charles-q1254104",
       "name": "Knacyntar Nedd-Charles",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Antigua and Barbuda",
+      "chamber": "Senate of Antigua and Barbuda",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q118398959"
     },
     {
-      "id": "philip-scholl",
+      "id": "philip-scholl-q1254104",
       "name": "Philip Scholl",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Antigua and Barbuda",
+      "chamber": "Senate of Antigua and Barbuda",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q118398925"
     },
     {
-      "id": "rawdon-turner",
+      "id": "rawdon-turner-q1254104",
       "name": "Rawdon Turner",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
       "constituency_label": "",
-      "chamber": "Parliament of Antigua and Barbuda",
+      "chamber": "Senate of Antigua and Barbuda",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q118398988"
+    },
+    {
+      "id": "alincia-williams-grant-q1254104",
+      "name": "Alincia Williams-Grant",
+      "sitting": true,
+      "party_id": "antigua-and-barbuda-labour-party",
+      "caucus": "Antigua and Barbuda Labour Party",
+      "constituency_label": "",
+      "chamber": "Senate of Antigua and Barbuda",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q48417293"
+    },
+    {
+      "id": "steadroy-benjamin-q1266832",
+      "name": "Steadroy Benjamin",
+      "sitting": true,
+      "party_id": "antigua-and-barbuda-labour-party",
+      "caucus": "Antigua and Barbuda Labour Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Antigua and Barbuda",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7605192"
+    },
+    {
+      "id": "hilbourne-frank-q1266832",
+      "name": "Hilbourne Frank",
+      "sitting": true,
+      "party_id": "barbuda-people-s-movement",
+      "caucus": "Barbuda People's Movement",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Antigua and Barbuda",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16092663"
+    },
+    {
+      "id": "molwyn-joseph-q1266832",
+      "name": "Molwyn Joseph",
+      "sitting": true,
+      "party_id": "antigua-and-barbuda-labour-party",
+      "caucus": "Antigua and Barbuda Labour Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Antigua and Barbuda",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16730448"
+    },
+    {
+      "id": "asot-michael-q1266832",
+      "name": "Asot Michael",
+      "sitting": true,
+      "party_id": "antigua-and-barbuda-labour-party",
+      "caucus": "Antigua and Barbuda Labour Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Antigua and Barbuda",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4807601"
+    },
+    {
+      "id": "trevor-walker-q1266832",
+      "name": "Trevor Walker",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Barbuda",
+      "chamber": "House of Representatives of Antigua and Barbuda",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105041016"
+    },
+    {
+      "id": "charlesworth-samuel-q1266832",
+      "name": "Charlesworth Samuel",
+      "sitting": true,
+      "party_id": "united-progressive-party",
+      "caucus": "United Progressive Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Antigua and Barbuda",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5084247"
+    },
+    {
+      "id": "vere-bird-jr-q1266832",
+      "name": "Vere Bird, Jr.",
+      "sitting": true,
+      "party_id": "antigua-and-barbuda-labour-party",
+      "caucus": "Antigua and Barbuda Labour Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Antigua and Barbuda",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7921171"
+    },
+    {
+      "id": "charles-fernandez-q1266832",
+      "name": "Charles Fernandez",
+      "sitting": true,
+      "party_id": "antigua-and-barbuda-labour-party",
+      "caucus": "Antigua and Barbuda Labour Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Antigua and Barbuda",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20171771"
+    },
+    {
+      "id": "gerald-watt-q1266832",
+      "name": "Gerald Watt",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Antigua and Barbuda",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q104642679"
+    },
+    {
+      "id": "jamale-pringle-q1266832",
+      "name": "Jamale Pringle",
+      "sitting": true,
+      "party_id": "united-progressive-party",
+      "caucus": "United Progressive Party",
+      "constituency_label": "All Saints East & St. Luke",
+      "chamber": "House of Representatives of Antigua and Barbuda",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q118398871"
+    },
+    {
+      "id": "jacqui-quinn-leandro-q1266832",
+      "name": "Jacqui Quinn-Leandro",
+      "sitting": true,
+      "party_id": "united-progressive-party",
+      "caucus": "United Progressive Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Antigua and Barbuda",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q21002314"
+    },
+    {
+      "id": "gisele-isaac-q1266832",
+      "name": "Gisele Isaac",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Antigua and Barbuda",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q117210470"
     }
   ]
 }

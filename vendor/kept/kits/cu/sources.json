@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q720753"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q720753",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q720753",
+      "label": "National Assembly of People's Power",
+      "url": "http://www.parlamentocubano.gob.cu/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q720753",
+      "label": "National Assembly of People's Power (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q720753",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21272829",
+      "label": "Q21272829 (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21272829",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

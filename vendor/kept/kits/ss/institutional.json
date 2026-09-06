@@ -1,0 +1,74 @@
+{
+  "iso2": "ss",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q958",
+  "bodies": [
+    {
+      "qid": "Q112316485",
+      "label": "Speaker of the National Legislature of South Sudan",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1968103",
+      "label": "National Legislative Assembly",
+      "seats": 550,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1454821",
+      "label": "Council of States",
+      "seats": 100,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q5018721",
+      "label": "National Legislature of South Sudan",
+      "seats": 0,
+      "web": "",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Speaker of the National Legislature of South Sudan",
+    "National Legislative Assembly",
+    "Council of States"
+  ],
+  "seats": 650,
+  "items": [
+    {
+      "id": "Q112316485",
+      "name": "Speaker of the National Legislature of South Sudan",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q112316485"
+    },
+    {
+      "id": "Q1968103",
+      "name": "National Legislative Assembly",
+      "kind": "chamber",
+      "seats": 550,
+      "url": "https://www.wikidata.org/wiki/Q1968103"
+    },
+    {
+      "id": "Q1454821",
+      "name": "Council of States",
+      "kind": "chamber",
+      "seats": 100,
+      "url": "https://www.wikidata.org/wiki/Q1454821"
+    },
+    {
+      "id": "Q5018721",
+      "name": "National Legislature of South Sudan",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q5018721"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

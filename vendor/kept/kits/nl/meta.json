@@ -2,10 +2,10 @@
   "iso2": "nl",
   "name": "Netherlands",
   "region": "europe",
-  "chamber": "Tweede Kamer",
-  "houses": "",
+  "chamber": "States General",
+  "houses": "bicameral",
   "system": "",
-  "seats": 0,
+  "seats": 225,
   "election": "",
   "session": "",
   "kit": "map",
@@ -15,10 +15,11 @@
   ],
   "threshold": 5,
   "counts": {
-    "members": 0,
-    "sitting": 0,
+    "members": 1286,
+    "sitting": 1286,
     "votes": 0,
-    "committees": 0
+    "committees": 0,
+    "pledged": 0
   },
   "basis": "Evidence",
   "incomplete": true,
@@ -26,5 +27,18 @@
   "honest_complete": false,
   "lane": "gold-kit-8103",
   "source_live": null,
-  "note": "NL BATCH 1 map-only seed 2026-08-21. Sitting 0 honest. Missing _template files copied (filers/lobby/orgs + empty members/pledges/votes). No invented roster, pledges, or yeas. No leftover harvest."
+  "note": "Full-ISO Wikidata fill 2026-09-06. 3 bodies. Sitting 1286. Votes/pledges/ethics/money not invented.",
+  "roster_source": "https://www.wikidata.org/wiki/Q1371388",
+  "capabilities": [
+    "members",
+    "pledges",
+    "votes",
+    "issues",
+    "gap",
+    "caucus",
+    "committees",
+    "ethics",
+    "money",
+    "method"
+  ]
 }

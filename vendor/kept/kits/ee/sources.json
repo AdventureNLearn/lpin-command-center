@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q217799"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q217799",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q217799",
+      "label": "Riigikogu",
+      "url": "https://www.riigikogu.ee/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q217799",
+      "label": "Riigikogu (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q217799",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21100241",
+      "label": "member of the Riigikogu (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21100241",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

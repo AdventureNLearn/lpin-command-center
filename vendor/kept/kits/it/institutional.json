@@ -1,7 +1,59 @@
 {
   "iso2": "it",
   "kit": "institutional",
-  "items": [],
   "incomplete": true,
-  "note": ":8103 claimed institutional_kits = 0."
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q38",
+  "bodies": [
+    {
+      "qid": "Q841424",
+      "label": "Chamber of Deputies of Italy",
+      "seats": 400,
+      "web": "http://www.camera.it",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q633872",
+      "label": "Senate of the Republic",
+      "seats": 205,
+      "web": "https://senato.it",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1117578",
+      "label": "Italian Parliament",
+      "seats": 0,
+      "web": "https://www.parlamento.it/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Chamber of Deputies of Italy",
+    "Senate of the Republic"
+  ],
+  "seats": 605,
+  "items": [
+    {
+      "id": "Q841424",
+      "name": "Chamber of Deputies of Italy",
+      "kind": "chamber",
+      "seats": 400,
+      "url": "http://www.camera.it"
+    },
+    {
+      "id": "Q633872",
+      "name": "Senate of the Republic",
+      "kind": "chamber",
+      "seats": 205,
+      "url": "https://senato.it"
+    },
+    {
+      "id": "Q1117578",
+      "name": "Italian Parliament",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://www.parlamento.it/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

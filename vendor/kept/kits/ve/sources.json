@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1585014"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1585014",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q20011182",
+      "label": "member of the National Assembly of Venezuela (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q20011182",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1585014",
+      "label": "National Assembly  of Venezuela",
+      "url": "https://asambleanacionalvenezuela.org",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1585014",
+      "label": "National Assembly  of Venezuela (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1585014",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

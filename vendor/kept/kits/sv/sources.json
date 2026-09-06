@@ -3,8 +3,39 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1812873"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1812873",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21328618",
+      "label": "Deputy (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21328618",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q63342292",
+      "label": "Chamber of Senators (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q63342292",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1812873",
+      "label": "Legislative Assembly of El Salvador",
+      "url": "https://www.asamblea.gob.sv",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1812873",
+      "label": "Legislative Assembly of El Salvador (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1812873",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

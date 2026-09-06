@@ -3,9 +3,9 @@
   "name": "Fiji",
   "region": "oceania",
   "chamber": "Parliament of Fiji",
-  "houses": "",
+  "houses": "bicameral",
   "system": "",
-  "seats": 0,
+  "seats": 51,
   "election": "",
   "session": "",
   "kit": "map",
@@ -14,20 +14,32 @@
   ],
   "threshold": 5,
   "counts": {
-    "members": 0,
-    "sitting": 0,
+    "members": 31,
+    "sitting": 31,
     "votes": 0,
     "committees": 0,
     "key_votes": 0,
-    "sourced_quotes": 0
+    "sourced_quotes": 0,
+    "pledged": 0
   },
-  "capabilities": [],
+  "capabilities": [
+    "members",
+    "pledges",
+    "votes",
+    "issues",
+    "gap",
+    "caucus",
+    "committees",
+    "ethics",
+    "money",
+    "method"
+  ],
   "basis": "Evidence",
   "incomplete": true,
   "honest_complete": false,
   "named_donors": false,
   "lane": "gold-kit-8103",
   "source_live": null,
-  "roster_source": null,
-  "note": "FJ map seed BATCH 1 2026-08-21. Full empty template (items []). Sitting 0 honest. No roster, pledges, or yeas invented."
+  "roster_source": "https://www.wikidata.org/wiki/Q4345425",
+  "note": "Full-ISO Wikidata fill 2026-09-06. 3 bodies. Sitting 31. Votes/pledges/ethics/money not invented."
 }

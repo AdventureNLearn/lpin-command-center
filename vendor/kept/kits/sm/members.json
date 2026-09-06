@@ -3,93 +3,19 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q817979",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 84,
+  "incomplete": true,
+  "claimed_seats": 60,
+  "chambers": [
+    "Grand and General Council",
+    "member of the Grand and General Council of San Marino"
+  ],
   "items": [
     {
-      "id": "alessandro-rossi",
-      "name": "Alessandro Rossi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q82919"
-    },
-    {
-      "id": "marco-conti",
-      "name": "Marco Conti",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q887182"
-    },
-    {
-      "id": "matteo-fiorini",
-      "name": "Matteo Fiorini",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q885363"
-    },
-    {
-      "id": "marco-gatti",
-      "name": "Marco Gatti",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3846151"
-    },
-    {
-      "id": "anna-maria-muccioli",
-      "name": "Anna Maria Muccioli",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1112792"
-    },
-    {
-      "id": "gian-marco-marcucci",
-      "name": "Gian Marco Marcucci",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q1090389"
-    },
-    {
-      "id": "gabriele-gatti",
+      "id": "gabriele-gatti-q817979",
       "name": "Gabriele Gatti",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
       "constituency_label": "",
       "chamber": "Grand and General Council",
       "lang": [
@@ -98,50 +24,128 @@
       "roster_url": "http://www.wikidata.org/entity/Q694614"
     },
     {
-      "id": "alessandro-mancini",
-      "name": "Alessandro Mancini",
+      "id": "luca-beccari-q817979",
+      "name": "Luca Beccari",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
       "constituency_label": "",
       "chamber": "Grand and General Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q888508"
+      "roster_url": "http://www.wikidata.org/entity/Q15998324"
     },
     {
-      "id": "roberto-giorgetti",
-      "name": "Roberto Giorgetti",
+      "id": "teodoro-lonfernini-q817979",
+      "name": "Teodoro Lonfernini",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
       "constituency_label": "",
       "chamber": "Grand and General Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q507718"
+      "roster_url": "http://www.wikidata.org/entity/Q57547"
     },
     {
-      "id": "luigi-mazza",
-      "name": "Luigi Mazza",
+      "id": "claudio-podeschi-q817979",
+      "name": "Claudio Podeschi",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
       "constituency_label": "",
       "chamber": "Grand and General Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q3839873"
+      "roster_url": "http://www.wikidata.org/entity/Q18411174"
     },
     {
-      "id": "italo-righi",
+      "id": "marco-arzilli-q817979",
+      "name": "Marco Arzilli",
+      "sitting": true,
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18411481"
+    },
+    {
+      "id": "gian-carlo-venturini-q817979",
+      "name": "Gian Carlo Venturini",
+      "sitting": true,
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16064803"
+    },
+    {
+      "id": "massimo-roberto-rossini-q817979",
+      "name": "Massimo Roberto Rossini",
+      "sitting": true,
+      "party_id": "sammarinese-communist-party",
+      "caucus": "Sammarinese Communist Party",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q21196994"
+    },
+    {
+      "id": "federico-bigi-q817979",
+      "name": "Federico Bigi",
+      "sitting": true,
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28859148"
+    },
+    {
+      "id": "simone-celli-q817979",
+      "name": "Simone Celli",
+      "sitting": true,
+      "party_id": "party-of-socialists-and-democrats",
+      "caucus": "Party of Socialists and Democrats",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28870189"
+    },
+    {
+      "id": "carlo-franciosi-q817979",
+      "name": "Carlo Franciosi",
+      "sitting": true,
+      "party_id": "popular-alliance",
+      "caucus": "Popular Alliance",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q41978652"
+    },
+    {
+      "id": "italo-righi-q817979",
       "name": "Italo Righi",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
       "constituency_label": "",
       "chamber": "Grand and General Council",
       "lang": [
@@ -150,7 +154,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q1353628"
     },
     {
-      "id": "emma-rossi",
+      "id": "fernando-bindi-q817979",
+      "name": "Fernando Bindi",
+      "sitting": true,
+      "party_id": "popular-alliance",
+      "caucus": "Popular Alliance",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q21589792"
+    },
+    {
+      "id": "anna-maria-muccioli-q817979",
+      "name": "Anna Maria Muccioli",
+      "sitting": true,
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1112792"
+    },
+    {
+      "id": "emma-rossi-q817979",
       "name": "Emma Rossi",
       "sitting": true,
       "party_id": "unknown",
@@ -163,37 +193,11 @@
       "roster_url": "http://www.wikidata.org/entity/Q19720934"
     },
     {
-      "id": "valeria-ciavatta",
-      "name": "Valeria Ciavatta",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q167075"
-    },
-    {
-      "id": "stefano-palmieri",
-      "name": "Stefano Palmieri",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q888503"
-    },
-    {
-      "id": "fabio-berardi",
+      "id": "fabio-berardi-q817979",
       "name": "Fabio Berardi",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
       "constituency_label": "",
       "chamber": "Grand and General Council",
       "lang": [
@@ -202,124 +206,98 @@
       "roster_url": "http://www.wikidata.org/entity/Q2252615"
     },
     {
-      "id": "maria-luisa-berti",
-      "name": "Maria Luisa Berti",
+      "id": "gian-marco-marcucci-q817979",
+      "name": "Gian Marco Marcucci",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
       "constituency_label": "",
       "chamber": "Grand and General Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q289413"
+      "roster_url": "http://www.wikidata.org/entity/Q1090389"
     },
     {
-      "id": "giovanni-lonfernini",
-      "name": "Giovanni Lonfernini",
+      "id": "antonello-bacciocchi-q817979",
+      "name": "Antonello Bacciocchi",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "sammarinese-socialist-party",
+      "caucus": "Sammarinese Socialist Party",
       "constituency_label": "",
       "chamber": "Grand and General Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q889575"
+      "roster_url": "http://www.wikidata.org/entity/Q596870"
     },
     {
-      "id": "giuseppe-arzilli",
-      "name": "Giuseppe Arzilli",
+      "id": "renzo-ghiotti-q817979",
+      "name": "Renzo Ghiotti",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "popular-alliance",
+      "caucus": "Popular Alliance",
       "constituency_label": "",
       "chamber": "Grand and General Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q301069"
+      "roster_url": "http://www.wikidata.org/entity/Q42616674"
     },
     {
-      "id": "gian-carlo-capicchioni",
-      "name": "Gian Carlo Capicchioni",
+      "id": "alberto-selva-q817979",
+      "name": "Alberto Selva",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "popular-alliance",
+      "caucus": "Popular Alliance",
       "constituency_label": "",
       "chamber": "Grand and General Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q15039600"
+      "roster_url": "http://www.wikidata.org/entity/Q888458"
     },
     {
-      "id": "fausta-morganti",
-      "name": "Fausta Morganti",
+      "id": "clara-boscaglia-q817979",
+      "name": "Clara Boscaglia",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
       "constituency_label": "",
       "chamber": "Grand and General Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q386550"
+      "roster_url": "http://www.wikidata.org/entity/Q21403198"
     },
     {
-      "id": "luca-beccari",
-      "name": "Luca Beccari",
+      "id": "andrea-zafferani-q817979",
+      "name": "Andrea Zafferani",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "popular-alliance",
+      "caucus": "Popular Alliance",
       "constituency_label": "",
       "chamber": "Grand and General Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q15998324"
+      "roster_url": "http://www.wikidata.org/entity/Q495277"
     },
     {
-      "id": "gian-carlo-venturini",
-      "name": "Gian Carlo Venturini",
+      "id": "antonio-carattoni-q817979",
+      "name": "Antonio Carattoni",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "party-of-socialists-and-democrats",
+      "caucus": "Party of Socialists and Democrats",
       "constituency_label": "",
       "chamber": "Grand and General Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q16064803"
+      "roster_url": "http://www.wikidata.org/entity/Q601273"
     },
     {
-      "id": "rosa-zafferani",
-      "name": "Rosa Zafferani",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q437309"
-    },
-    {
-      "id": "assunta-meloni",
-      "name": "Assunta Meloni",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q437620"
-    },
-    {
-      "id": "francesca-michelotti",
+      "id": "francesca-michelotti-q817979",
       "name": "Francesca Michelotti",
       "sitting": true,
       "party_id": "unknown",
@@ -332,33 +310,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q3749433"
     },
     {
-      "id": "andrea-zafferani",
-      "name": "Andrea Zafferani",
+      "id": "massimo-cenci-q817979",
+      "name": "Massimo Cenci",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "new-socialist-party",
+      "caucus": "New Socialist Party",
       "constituency_label": "",
       "chamber": "Grand and General Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q495277"
+      "roster_url": "http://www.wikidata.org/entity/Q888420"
     },
     {
-      "id": "giuseppe-maria-morganti",
-      "name": "Giuseppe Maria Morganti",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3770918"
-    },
-    {
-      "id": "ivan-foschi",
+      "id": "ivan-foschi-q817979",
       "name": "Ivan Foschi",
       "sitting": true,
       "party_id": "unknown",
@@ -371,202 +336,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q3804697"
     },
     {
-      "id": "mauro-chiaruzzi",
-      "name": "Mauro Chiaruzzi",
+      "id": "roberto-bucci-q817979",
+      "name": "Roberto Bucci",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "party-of-socialists-and-democrats",
+      "caucus": "Party of Socialists and Democrats",
       "constituency_label": "",
       "chamber": "Grand and General Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q3852797"
+      "roster_url": "http://www.wikidata.org/entity/Q42044386"
     },
     {
-      "id": "paride-andreoli",
-      "name": "Paride Andreoli",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3895838"
-    },
-    {
-      "id": "pier-marino-mularoni",
-      "name": "Pier Marino Mularoni",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3902926"
-    },
-    {
-      "id": "roberto-raschi",
-      "name": "Roberto Raschi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3939090"
-    },
-    {
-      "id": "romeo-morri",
-      "name": "Romeo Morri",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3940826"
-    },
-    {
-      "id": "stefano-macina",
-      "name": "Stefano Macina",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3972566"
-    },
-    {
-      "id": "tito-masi",
-      "name": "Tito Masi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q3991881"
-    },
-    {
-      "id": "guerrino-zanotti",
-      "name": "Guerrino Zanotti",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q18119638"
-    },
-    {
-      "id": "pier-natalino-mularoni",
-      "name": "Pier Natalino Mularoni",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4306853"
-    },
-    {
-      "id": "iro-belluzzi",
-      "name": "Iro Belluzzi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q18221283"
-    },
-    {
-      "id": "claudio-felici",
-      "name": "Claudio Felici",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q18221867"
-    },
-    {
-      "id": "marino-riccardi",
-      "name": "Marino Riccardi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q557019"
-    },
-    {
-      "id": "paolo-bollini",
-      "name": "Paolo Bollini",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q557046"
-    },
-    {
-      "id": "claudio-podeschi",
-      "name": "Claudio Podeschi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q18411174"
-    },
-    {
-      "id": "marco-arzilli",
-      "name": "Marco Arzilli",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q18411481"
-    },
-    {
-      "id": "francesco-balsimelli",
+      "id": "francesco-balsimelli-q817979",
       "name": "Francesco Balsimelli",
       "sitting": true,
       "party_id": "unknown",
@@ -579,7 +362,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q18411735"
     },
     {
-      "id": "augusto-casali",
+      "id": "augusto-casali-q817979",
       "name": "Augusto Casali",
       "sitting": true,
       "party_id": "unknown",
@@ -592,141 +375,24 @@
       "roster_url": "http://www.wikidata.org/entity/Q18746990"
     },
     {
-      "id": "antonello-bacciocchi",
-      "name": "Antonello Bacciocchi",
+      "id": "clelio-galassi-q817979",
+      "name": "Clelio Galassi",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
       "constituency_label": "",
       "chamber": "Grand and General Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q596870"
+      "roster_url": "http://www.wikidata.org/entity/Q21525768"
     },
     {
-      "id": "antonio-carattoni",
-      "name": "Antonio Carattoni",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q601273"
-    },
-    {
-      "id": "andrea-belluzzi",
-      "name": "Andrea Belluzzi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19691256"
-    },
-    {
-      "id": "roberto-venturini",
-      "name": "Roberto Venturini",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19691303"
-    },
-    {
-      "id": "maurizio-rattini",
-      "name": "Maurizio Rattini",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q663639"
-    },
-    {
-      "id": "sante-canducci",
-      "name": "Sante Canducci",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q20798851"
-    },
-    {
-      "id": "pasquale-valentini",
-      "name": "Pasquale Valentini",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q6693543"
-    },
-    {
-      "id": "claudio-muccioli",
-      "name": "Claudio Muccioli",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q767664"
-    },
-    {
-      "id": "mirko-tomassoni",
-      "name": "Mirko Tomassoni",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q771240"
-    },
-    {
-      "id": "cesare-antonio-gasperoni",
-      "name": "Cesare Antonio Gasperoni",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q23639060"
-    },
-    {
-      "id": "gianfranco-terenzi",
+      "id": "gianfranco-terenzi-q817979",
       "name": "Gianfranco Terenzi",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
       "constituency_label": "",
       "chamber": "Grand and General Council",
       "lang": [
@@ -735,11 +401,11 @@
       "roster_url": "http://www.wikidata.org/entity/Q878336"
     },
     {
-      "id": "ernesto-benedettini",
+      "id": "ernesto-benedettini-q817979",
       "name": "Ernesto Benedettini",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
       "constituency_label": "",
       "chamber": "Grand and General Council",
       "lang": [
@@ -748,11 +414,11 @@
       "roster_url": "http://www.wikidata.org/entity/Q878358"
     },
     {
-      "id": "filippo-tamagnini",
+      "id": "filippo-tamagnini-q817979",
       "name": "Filippo Tamagnini",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
       "constituency_label": "",
       "chamber": "Grand and General Council",
       "lang": [
@@ -761,11 +427,37 @@
       "roster_url": "http://www.wikidata.org/entity/Q879064"
     },
     {
-      "id": "glauco-sansovini",
+      "id": "matteo-fiorini-q817979",
+      "name": "Matteo Fiorini",
+      "sitting": true,
+      "party_id": "popular-alliance",
+      "caucus": "Popular Alliance",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q885363"
+    },
+    {
+      "id": "valeria-ciavatta-q817979",
+      "name": "Valeria Ciavatta",
+      "sitting": true,
+      "party_id": "popular-alliance",
+      "caucus": "Popular Alliance",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q167075"
+    },
+    {
+      "id": "glauco-sansovini-q817979",
       "name": "Glauco Sansovini",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "sammarinese-national-alliance",
+      "caucus": "Sammarinese National Alliance",
       "constituency_label": "",
       "chamber": "Grand and General Council",
       "lang": [
@@ -774,150 +466,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q886886"
     },
     {
-      "id": "giovanni-francesco-ugolini",
-      "name": "Giovanni Francesco Ugolini",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q887674"
-    },
-    {
-      "id": "francesco-mussoni",
-      "name": "Francesco Mussoni",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q887796"
-    },
-    {
-      "id": "loris-francini",
-      "name": "Loris Francini",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q888228"
-    },
-    {
-      "id": "federico-pedini-amati",
-      "name": "Federico Pedini Amati",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q888414"
-    },
-    {
-      "id": "alberto-selva",
-      "name": "Alberto Selva",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q888458"
-    },
-    {
-      "id": "massimo-cenci",
-      "name": "Massimo Cenci",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q888420"
-    },
-    {
-      "id": "oscar-mina",
-      "name": "Oscar Mina",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q888482"
-    },
-    {
-      "id": "augusto-michelotti",
-      "name": "Augusto Michelotti",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28114206"
-    },
-    {
-      "id": "marco-podeschi",
-      "name": "Marco Podeschi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28147133"
-    },
-    {
-      "id": "federico-bigi",
-      "name": "Federico Bigi",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28859148"
-    },
-    {
-      "id": "vanessa-d-ambrosio",
-      "name": "Vanessa D'Ambrosio",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Grand and General Council",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q28968160"
-    },
-    {
-      "id": "giordano-bruno-reffi",
+      "id": "giordano-bruno-reffi-q817979",
       "name": "Giordano Bruno Reffi",
       "sitting": true,
       "party_id": "unknown",
@@ -930,7 +479,137 @@
       "roster_url": "http://www.wikidata.org/entity/Q30088645"
     },
     {
-      "id": "antonio-onofri",
+      "id": "tito-masi-q817979",
+      "name": "Tito Masi",
+      "sitting": true,
+      "party_id": "popular-alliance",
+      "caucus": "Popular Alliance",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3991881"
+    },
+    {
+      "id": "michele-muratori-q817979",
+      "name": "Michele Muratori",
+      "sitting": true,
+      "party_id": "democratic-socialist-left",
+      "caucus": "Democratic Socialist Left",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q62627285"
+    },
+    {
+      "id": "giovanni-francesco-ugolini-q817979",
+      "name": "Giovanni Francesco Ugolini",
+      "sitting": true,
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q887674"
+    },
+    {
+      "id": "francesco-mussoni-q817979",
+      "name": "Francesco Mussoni",
+      "sitting": true,
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q887796"
+    },
+    {
+      "id": "loris-francini-q817979",
+      "name": "Loris Francini",
+      "sitting": true,
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q888228"
+    },
+    {
+      "id": "marco-conti-q817979",
+      "name": "Marco Conti",
+      "sitting": true,
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q887182"
+    },
+    {
+      "id": "federico-pedini-amati-q817979",
+      "name": "Federico Pedini Amati",
+      "sitting": true,
+      "party_id": "party-of-socialists-and-democrats",
+      "caucus": "Party of Socialists and Democrats",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q888414"
+    },
+    {
+      "id": "oscar-mina-q817979",
+      "name": "Oscar Mina",
+      "sitting": true,
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q888482"
+    },
+    {
+      "id": "stefano-palmieri-q817979",
+      "name": "Stefano Palmieri",
+      "sitting": true,
+      "party_id": "popular-alliance",
+      "caucus": "Popular Alliance",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q888503"
+    },
+    {
+      "id": "gian-carlo-capicchioni-q817979",
+      "name": "Gian Carlo Capicchioni",
+      "sitting": true,
+      "party_id": "party-of-socialists-and-democrats",
+      "caucus": "Party of Socialists and Democrats",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15039600"
+    },
+    {
+      "id": "antonio-onofri-q817979",
       "name": "Antonio Onofri",
       "sitting": true,
       "party_id": "unknown",
@@ -943,72 +622,137 @@
       "roster_url": "http://www.wikidata.org/entity/Q9157925"
     },
     {
-      "id": "denis-amici",
-      "name": "Denis Amici",
+      "id": "denise-bronzetti-q817979",
+      "name": "Denise Bronzetti",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "party-of-socialists-and-democrats",
+      "caucus": "Party of Socialists and Democrats",
       "constituency_label": "",
       "chamber": "Grand and General Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q9160318"
+      "roster_url": "http://www.wikidata.org/entity/Q57546"
     },
     {
-      "id": "giancarlo-ghironzi",
-      "name": "Giancarlo Ghironzi",
+      "id": "pasquale-valentini-q817979",
+      "name": "Pasquale Valentini",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
       "constituency_label": "",
       "chamber": "Grand and General Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q37494583"
+      "roster_url": "http://www.wikidata.org/entity/Q6693543"
     },
     {
-      "id": "luca-boschi",
-      "name": "Luca Boschi",
+      "id": "giuseppe-maria-morganti-q817979",
+      "name": "Giuseppe Maria Morganti",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "party-of-socialists-and-democrats",
+      "caucus": "Party of Socialists and Democrats",
       "constituency_label": "",
       "chamber": "Grand and General Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q69382559"
+      "roster_url": "http://www.wikidata.org/entity/Q3770918"
     },
     {
-      "id": "roberto-bucci",
-      "name": "Roberto Bucci",
+      "id": "antonella-mularoni-q817979",
+      "name": "Antonella Mularoni",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
       "constituency_label": "",
       "chamber": "Grand and General Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q42044386"
+      "roster_url": "http://www.wikidata.org/entity/Q58075"
     },
     {
-      "id": "renzo-ghiotti",
-      "name": "Renzo Ghiotti",
+      "id": "andrea-belluzzi-q817979",
+      "name": "Andrea Belluzzi",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "party-of-socialists-and-democrats",
+      "caucus": "Party of Socialists and Democrats",
       "constituency_label": "",
       "chamber": "Grand and General Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q42616674"
+      "roster_url": "http://www.wikidata.org/entity/Q19691256"
     },
     {
-      "id": "luciano-ciavatta",
+      "id": "roberto-venturini-q817979",
+      "name": "Roberto Venturini",
+      "sitting": true,
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19691303"
+    },
+    {
+      "id": "luigi-mazza-q817979",
+      "name": "Luigi Mazza",
+      "sitting": true,
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3839873"
+    },
+    {
+      "id": "paride-andreoli-q817979",
+      "name": "Paride Andreoli",
+      "sitting": true,
+      "party_id": "sammarinese-socialist-party",
+      "caucus": "Sammarinese Socialist Party",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3895838"
+    },
+    {
+      "id": "mariella-mularoni-q817979",
+      "name": "Mariella Mularoni",
+      "sitting": true,
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q69382520"
+    },
+    {
+      "id": "mauro-chiaruzzi-q817979",
+      "name": "Mauro Chiaruzzi",
+      "sitting": true,
+      "party_id": "party-of-socialists-and-democrats",
+      "caucus": "Party of Socialists and Democrats",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3852797"
+    },
+    {
+      "id": "luciano-ciavatta-q817979",
       "name": "Luciano Ciavatta",
       "sitting": true,
       "party_id": "unknown",
@@ -1021,11 +765,167 @@
       "roster_url": "http://www.wikidata.org/entity/Q42661397"
     },
     {
-      "id": "matteo-ciacci",
+      "id": "roberto-raschi-q817979",
+      "name": "Roberto Raschi",
+      "sitting": true,
+      "party_id": "sammarinese-socialist-party",
+      "caucus": "Sammarinese Socialist Party",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3939090"
+    },
+    {
+      "id": "denis-amici-q817979",
+      "name": "Denis Amici",
+      "sitting": true,
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q9160318"
+    },
+    {
+      "id": "pier-marino-mularoni-q817979",
+      "name": "Pier Marino Mularoni",
+      "sitting": true,
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3902926"
+    },
+    {
+      "id": "pier-marino-menicucci-q817979",
+      "name": "Pier Marino Menicucci",
+      "sitting": true,
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3902925"
+    },
+    {
+      "id": "romeo-morri-q817979",
+      "name": "Romeo Morri",
+      "sitting": true,
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3940826"
+    },
+    {
+      "id": "maria-luisa-berti-q817979",
+      "name": "Maria Luisa Berti",
+      "sitting": true,
+      "party_id": "we-sammarinese",
+      "caucus": "We Sammarinese",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q289413"
+    },
+    {
+      "id": "stefano-macina-q817979",
+      "name": "Stefano Macina",
+      "sitting": true,
+      "party_id": "party-of-socialists-and-democrats",
+      "caucus": "Party of Socialists and Democrats",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3972566"
+    },
+    {
+      "id": "alberto-cecchetti-q817979",
+      "name": "Alberto Cecchetti",
+      "sitting": true,
+      "party_id": "sammarinese-socialist-party",
+      "caucus": "Sammarinese Socialist Party",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3608224"
+    },
+    {
+      "id": "alessandro-mancini-q817979",
+      "name": "Alessandro Mancini",
+      "sitting": true,
+      "party_id": "party-of-socialists-and-democrats",
+      "caucus": "Party of Socialists and Democrats",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q888508"
+    },
+    {
+      "id": "giancarlo-ghironzi-q817979",
+      "name": "Giancarlo Ghironzi",
+      "sitting": true,
+      "party_id": "popular-alliance",
+      "caucus": "Popular Alliance",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q37494583"
+    },
+    {
+      "id": "claudio-muccioli-q817979",
+      "name": "Claudio Muccioli",
+      "sitting": true,
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q767664"
+    },
+    {
+      "id": "giovanni-lonfernini-q817979",
+      "name": "Giovanni Lonfernini",
+      "sitting": true,
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q889575"
+    },
+    {
+      "id": "matteo-ciacci-q817979",
       "name": "Matteo Ciacci",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "civic-10",
+      "caucus": "Civic 10",
       "constituency_label": "",
       "chamber": "Grand and General Council",
       "lang": [
@@ -1034,47 +934,47 @@
       "roster_url": "http://www.wikidata.org/entity/Q50772653"
     },
     {
-      "id": "teodoro-lonfernini",
-      "name": "Teodoro Lonfernini",
+      "id": "fiorenzo-stolfi-q817979",
+      "name": "Fiorenzo Stolfi",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "party-of-socialists-and-democrats",
+      "caucus": "Party of Socialists and Democrats",
       "constituency_label": "",
       "chamber": "Grand and General Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q57547"
+      "roster_url": "http://www.wikidata.org/entity/Q377856"
     },
     {
-      "id": "michele-muratori",
-      "name": "Michele Muratori",
+      "id": "mirko-tomassoni-q817979",
+      "name": "Mirko Tomassoni",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "party-of-socialists-and-democrats",
+      "caucus": "Party of Socialists and Democrats",
       "constituency_label": "",
       "chamber": "Grand and General Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q62627285"
+      "roster_url": "http://www.wikidata.org/entity/Q771240"
     },
     {
-      "id": "denise-bronzetti",
-      "name": "Denise Bronzetti",
+      "id": "maria-lea-pedini-angelini-q817979",
+      "name": "Maria Lea Pedini-Angelini",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "sammarinese-socialist-party",
+      "caucus": "Sammarinese Socialist Party",
       "constituency_label": "",
       "chamber": "Grand and General Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q57546"
+      "roster_url": "http://www.wikidata.org/entity/Q542939"
     },
     {
-      "id": "antonella-mularoni",
-      "name": "Antonella Mularoni",
+      "id": "michele-guidi-q817979",
+      "name": "Michele Guidi",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -1083,20 +983,280 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q58075"
+      "roster_url": "http://www.wikidata.org/entity/Q61884232"
     },
     {
-      "id": "mariella-mularoni",
-      "name": "Mariella Mularoni",
+      "id": "maurizio-rattini-q817979",
+      "name": "Maurizio Rattini",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "new-socialist-party",
+      "caucus": "New Socialist Party",
       "constituency_label": "",
       "chamber": "Grand and General Council",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q69382520"
+      "roster_url": "http://www.wikidata.org/entity/Q663639"
+    },
+    {
+      "id": "fausta-morganti-q817979",
+      "name": "Fausta Morganti",
+      "sitting": true,
+      "party_id": "party-of-democrats",
+      "caucus": "Party of Democrats",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q386550"
+    },
+    {
+      "id": "marco-podeschi-q817979",
+      "name": "Marco Podeschi",
+      "sitting": true,
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28147133"
+    },
+    {
+      "id": "augusto-michelotti-q817979",
+      "name": "Augusto Michelotti",
+      "sitting": true,
+      "party_id": "democratic-socialist-left",
+      "caucus": "Democratic Socialist Left",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28114206"
+    },
+    {
+      "id": "luca-boschi-q817979",
+      "name": "Luca Boschi",
+      "sitting": true,
+      "party_id": "civic-10",
+      "caucus": "Civic 10",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q69382559"
+    },
+    {
+      "id": "rosa-zafferani-q817979",
+      "name": "Rosa Zafferani",
+      "sitting": true,
+      "party_id": "centre-democrats",
+      "caucus": "Centre Democrats",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q437309"
+    },
+    {
+      "id": "giuseppe-arzilli-q817979",
+      "name": "Giuseppe Arzilli",
+      "sitting": true,
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q301069"
+    },
+    {
+      "id": "marino-riccardi-q817979",
+      "name": "Marino Riccardi",
+      "sitting": true,
+      "party_id": "sammarinese-communist-party",
+      "caucus": "Sammarinese Communist Party",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q557019"
+    },
+    {
+      "id": "assunta-meloni-q817979",
+      "name": "Assunta Meloni",
+      "sitting": true,
+      "party_id": "popular-alliance",
+      "caucus": "Popular Alliance",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q437620"
+    },
+    {
+      "id": "paolo-bollini-q817979",
+      "name": "Paolo Bollini",
+      "sitting": true,
+      "party_id": "sammarinese-socialist-party",
+      "caucus": "Sammarinese Socialist Party",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q557046"
+    },
+    {
+      "id": "guerrino-zanotti-q817979",
+      "name": "Guerrino Zanotti",
+      "sitting": true,
+      "party_id": "party-of-socialists-and-democrats",
+      "caucus": "Party of Socialists and Democrats",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18119638"
+    },
+    {
+      "id": "vanessa-d-ambrosio-q817979",
+      "name": "Vanessa D'Ambrosio",
+      "sitting": true,
+      "party_id": "united-left",
+      "caucus": "United Left",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28968160"
+    },
+    {
+      "id": "alessandro-rossi-q817979",
+      "name": "Alessandro Rossi",
+      "sitting": true,
+      "party_id": "united-left",
+      "caucus": "United Left",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q82919"
+    },
+    {
+      "id": "pier-natalino-mularoni-q817979",
+      "name": "Pier Natalino Mularoni",
+      "sitting": true,
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4306853"
+    },
+    {
+      "id": "marco-gatti-q817979",
+      "name": "Marco Gatti",
+      "sitting": true,
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3846151"
+    },
+    {
+      "id": "roberto-giorgetti-q817979",
+      "name": "Roberto Giorgetti",
+      "sitting": true,
+      "party_id": "popular-alliance",
+      "caucus": "Popular Alliance",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q507718"
+    },
+    {
+      "id": "iro-belluzzi-q817979",
+      "name": "Iro Belluzzi",
+      "sitting": true,
+      "party_id": "party-of-socialists-and-democrats",
+      "caucus": "Party of Socialists and Democrats",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18221283"
+    },
+    {
+      "id": "claudio-felici-q817979",
+      "name": "Claudio Felici",
+      "sitting": true,
+      "party_id": "party-of-socialists-and-democrats",
+      "caucus": "Party of Socialists and Democrats",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18221867"
+    },
+    {
+      "id": "cesare-antonio-gasperoni-q817979",
+      "name": "Cesare Antonio Gasperoni",
+      "sitting": true,
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q23639060"
+    },
+    {
+      "id": "franco-santi-q817979",
+      "name": "Franco Santi",
+      "sitting": true,
+      "party_id": "civic-10",
+      "caucus": "Civic 10",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28934165"
+    },
+    {
+      "id": "sante-canducci-q817979",
+      "name": "Sante Canducci",
+      "sitting": true,
+      "party_id": "sammarinese-christian-democratic-party",
+      "caucus": "Sammarinese Christian Democratic Party",
+      "constituency_label": "",
+      "chamber": "Grand and General Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20798851"
     }
   ]
 }

@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q859658"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q859658",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21290847",
+      "label": "member of the National Assembly of Botswana (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21290847",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q859658",
+      "label": "National Assembly of Botswana",
+      "url": "http://www.parliament.gov.bw/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q859658",
+      "label": "National Assembly of Botswana (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q859658",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

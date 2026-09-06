@@ -3,8 +3,46 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q2347172"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q2347172",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q2347172",
+      "label": "Parliament of the Czech Republic (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q2347172",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q320265",
+      "label": "Chamber of Deputies of the Parliament of the Czech Republic",
+      "url": "https://www.psp.cz/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q320265",
+      "label": "Chamber of Deputies of the Parliament of the Czech Republic (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q320265",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q389423",
+      "label": "Senate of the Czech Republic",
+      "url": "http://www.senat.cz/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q389423",
+      "label": "Senate of the Czech Republic (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q389423",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

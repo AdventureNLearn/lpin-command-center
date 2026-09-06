@@ -1,0 +1,44 @@
+{
+  "iso2": "lk",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q854",
+  "bodies": [
+    {
+      "qid": "Q18964938",
+      "label": "Member of the Parliament of Sri Lanka",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1450753",
+      "label": "Parliament of Sri Lanka",
+      "seats": 225,
+      "web": "http://www.parliament.lk/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Member of the Parliament of Sri Lanka"
+  ],
+  "seats": 225,
+  "items": [
+    {
+      "id": "Q18964938",
+      "name": "Member of the Parliament of Sri Lanka",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q18964938"
+    },
+    {
+      "id": "Q1450753",
+      "name": "Parliament of Sri Lanka",
+      "kind": "parliament",
+      "seats": 225,
+      "url": "http://www.parliament.lk/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

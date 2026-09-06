@@ -3,9 +3,9 @@
   "name": "Saint Lucia",
   "region": "",
   "chamber": "Parliament of Saint Lucia",
-  "houses": "",
+  "houses": "bicameral",
   "system": "",
-  "seats": 35,
+  "seats": 28,
   "election": "",
   "session": "",
   "kit": "map",
@@ -14,20 +14,30 @@
   ],
   "threshold": 5,
   "counts": {
-    "members": 35,
-    "sitting": 35,
+    "members": 42,
+    "sitting": 42,
     "votes": 0,
     "committees": 0,
     "key_votes": 0,
-    "sourced_quotes": 0
+    "sourced_quotes": 0,
+    "pledged": 0
   },
   "capabilities": [
-    "members"
+    "members",
+    "pledges",
+    "votes",
+    "issues",
+    "gap",
+    "caucus",
+    "committees",
+    "ethics",
+    "money",
+    "method"
   ],
   "basis": "Evidence",
   "incomplete": true,
   "lane": "lpin-wikidata-fill",
   "source_live": null,
-  "note": "Wikidata sitting pull 2026-09-06. 48 named. Vacancies not invented.",
+  "note": "Full-ISO Wikidata fill 2026-09-06. 3 bodies. Sitting 42. Votes/pledges/ethics/money not invented.",
   "roster_source": "https://www.wikidata.org/wiki/Q1563736"
 }

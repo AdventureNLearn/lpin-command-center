@@ -3,24 +3,15 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1138357",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 4,
+  "incomplete": true,
+  "claimed_seats": 21,
+  "chambers": [
+    "Member of the House of Assembly of Saint Vincent and the Grenadines",
+    "House of Assembly of Saint Vincent and the Grenadines"
+  ],
   "items": [
     {
-      "id": "luke-browne",
-      "name": "Luke Browne",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "House of Assembly of Saint Vincent and the Grenadines",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q125356264"
-    },
-    {
-      "id": "carlos-james",
+      "id": "carlos-james-q1138357",
       "name": "Carlos James",
       "sitting": true,
       "party_id": "unknown",
@@ -33,11 +24,11 @@
       "roster_url": "http://www.wikidata.org/entity/Q28382042"
     },
     {
-      "id": "ralph-gonsalves",
+      "id": "ralph-gonsalves-q1138357",
       "name": "Ralph Gonsalves",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "unity-labour-party",
+      "caucus": "Unity Labour Party",
       "constituency_label": "North Central Windward",
       "chamber": "House of Assembly of Saint Vincent and the Grenadines",
       "lang": [
@@ -46,17 +37,30 @@
       "roster_url": "http://www.wikidata.org/entity/Q57800"
     },
     {
-      "id": "ivy-joshua",
+      "id": "ivy-joshua-q1138357",
       "name": "Ivy Joshua",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "people-s-political-party",
+      "caucus": "People's Political Party",
       "constituency_label": "",
       "chamber": "House of Assembly of Saint Vincent and the Grenadines",
       "lang": [
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q47526994"
+    },
+    {
+      "id": "luke-browne-q1138357",
+      "name": "Luke Browne",
+      "sitting": true,
+      "party_id": "unity-labour-party",
+      "caucus": "Unity Labour Party",
+      "constituency_label": "",
+      "chamber": "House of Assembly of Saint Vincent and the Grenadines",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125356264"
     }
   ]
 }

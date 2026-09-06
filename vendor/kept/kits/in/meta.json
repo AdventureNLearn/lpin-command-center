@@ -2,12 +2,12 @@
   "iso2": "in",
   "name": "India",
   "region": "asia",
-  "chamber": "Lok Sabha",
+  "chamber": "Parliament of India",
   "houses": "bicameral",
   "system": "parliamentary",
-  "seats": 543,
+  "seats": 778,
   "election": "competitive",
-  "session": "18th Lok Sabha (2024\u2013)",
+  "session": "18th Lok Sabha (2024–)",
   "kit": "scoring",
   "lang": [
     "en",
@@ -24,7 +24,8 @@
     "pledges": 21,
     "sitting_pledged": 5,
     "named": 66,
-    "gaps": 0
+    "gaps": 0,
+    "pledged": 21
   },
   "capabilities": [
     "members",
@@ -43,7 +44,7 @@
   "lane": "gold-kit-8103",
   "source_live": null,
   "note": "Sitting roster present. Pledges are a sourced personal sample (not party manifesto); hunt-stop after examination. Ethics = public Register of Interests + ECI Form 26 categories, no rupees. Money named_donors false; occupation buckets from Digital Sansad profession. Votes = clerk getBills floor results; member yeas unpublished and not invented. Gap 0 after dual-source exam. Committees packed from official catalog. No grok.me overwrite.",
-  "roster_source": "https://sansad.in/api_ls/member?loksabha=18",
+  "roster_source": "https://www.wikidata.org/wiki/Q695252",
   "honest_complete": true,
   "stamped_by": "CoS",
   "stamped_at": "2026-08-21T17:15:39Z"

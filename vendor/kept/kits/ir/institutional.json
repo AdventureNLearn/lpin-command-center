@@ -1,0 +1,89 @@
+{
+  "iso2": "ir",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q794",
+  "bodies": [
+    {
+      "qid": "Q378605",
+      "label": "Islamic Consultative Assembly",
+      "seats": 290,
+      "web": "https://rc.majlis.ir/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q6597965",
+      "label": "Speaker of the Islamic Consultative Assembly",
+      "seats": 0,
+      "web": "http://www.majlis.ir/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q17525449",
+      "label": "Member of the Islamic Consultative Assembly",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q107288100",
+      "label": "Vice-Speaker of the Islamic Consultative Assembly",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q828689",
+      "label": "Guardian Council",
+      "seats": 12,
+      "web": "https://www.shora-gc.ir/",
+      "kind": "lower"
+    }
+  ],
+  "houses": [
+    "Speaker of the Islamic Consultative Assembly",
+    "Member of the Islamic Consultative Assembly",
+    "Vice-Speaker of the Islamic Consultative Assembly",
+    "Guardian Council"
+  ],
+  "seats": 302,
+  "items": [
+    {
+      "id": "Q378605",
+      "name": "Islamic Consultative Assembly",
+      "kind": "parliament",
+      "seats": 290,
+      "url": "https://rc.majlis.ir/"
+    },
+    {
+      "id": "Q6597965",
+      "name": "Speaker of the Islamic Consultative Assembly",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "http://www.majlis.ir/"
+    },
+    {
+      "id": "Q17525449",
+      "name": "Member of the Islamic Consultative Assembly",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q17525449"
+    },
+    {
+      "id": "Q107288100",
+      "name": "Vice-Speaker of the Islamic Consultative Assembly",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q107288100"
+    },
+    {
+      "id": "Q828689",
+      "name": "Guardian Council",
+      "kind": "lower",
+      "seats": 12,
+      "url": "https://www.shora-gc.ir/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

@@ -1,0 +1,44 @@
+{
+  "iso2": "pg",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q691",
+  "bodies": [
+    {
+      "qid": "Q21294916",
+      "label": "Member of the National Parliament of Papua New Guinea",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q24563",
+      "label": "National Parliament of Papua New Guinea",
+      "seats": 111,
+      "web": "http://www.parliament.gov.pg",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Member of the National Parliament of Papua New Guinea"
+  ],
+  "seats": 111,
+  "items": [
+    {
+      "id": "Q21294916",
+      "name": "Member of the National Parliament of Papua New Guinea",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q21294916"
+    },
+    {
+      "id": "Q24563",
+      "name": "National Parliament of Papua New Guinea",
+      "kind": "parliament",
+      "seats": 111,
+      "url": "http://www.parliament.gov.pg"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

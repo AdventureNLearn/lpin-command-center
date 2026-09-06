@@ -1,0 +1,44 @@
+{
+  "iso2": "mk",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q221",
+  "bodies": [
+    {
+      "qid": "Q1258164",
+      "label": "Assembly of North Macedonia",
+      "seats": 123,
+      "web": "https://www.sobranie.mk/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q20015949",
+      "label": "member of the Assembly of the Republic of North Macedonia",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "member of the Assembly of the Republic of North Macedonia"
+  ],
+  "seats": 123,
+  "items": [
+    {
+      "id": "Q1258164",
+      "name": "Assembly of North Macedonia",
+      "kind": "parliament",
+      "seats": 123,
+      "url": "https://www.sobranie.mk/"
+    },
+    {
+      "id": "Q20015949",
+      "name": "member of the Assembly of the Republic of North Macedonia",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q20015949"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

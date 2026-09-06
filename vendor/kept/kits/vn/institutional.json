@@ -1,0 +1,44 @@
+{
+  "iso2": "vn",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q881",
+  "bodies": [
+    {
+      "qid": "Q1765001",
+      "label": "National Assembly of Vietnam",
+      "seats": 498,
+      "web": "https://quochoi.vn/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q10841192",
+      "label": "member of the National Assembly of Vietnam",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "member of the National Assembly of Vietnam"
+  ],
+  "seats": 498,
+  "items": [
+    {
+      "id": "Q1765001",
+      "name": "National Assembly of Vietnam",
+      "kind": "parliament",
+      "seats": 498,
+      "url": "https://quochoi.vn/"
+    },
+    {
+      "id": "Q10841192",
+      "name": "member of the National Assembly of Vietnam",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q10841192"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

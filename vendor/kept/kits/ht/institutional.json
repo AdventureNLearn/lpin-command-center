@@ -1,6 +1,59 @@
 {
   "iso2": "ht",
   "kit": "institutional",
-  "items": [],
-  "incomplete": true
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q790",
+  "bodies": [
+    {
+      "qid": "Q320287",
+      "label": "Chamber of Deputies",
+      "seats": 119,
+      "web": "https://leparlementhaitien.info/chambredesdeputes/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q3510849",
+      "label": "Senate of Haiti",
+      "seats": 30,
+      "web": "https://leparlementhaitien.info/lesenat/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q742110",
+      "label": "Parliament of Haiti",
+      "seats": 0,
+      "web": "http://www.leparlementhaitien.info/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Chamber of Deputies",
+    "Senate of Haiti"
+  ],
+  "seats": 149,
+  "items": [
+    {
+      "id": "Q320287",
+      "name": "Chamber of Deputies",
+      "kind": "chamber",
+      "seats": 119,
+      "url": "https://leparlementhaitien.info/chambredesdeputes/"
+    },
+    {
+      "id": "Q3510849",
+      "name": "Senate of Haiti",
+      "kind": "chamber",
+      "seats": 30,
+      "url": "https://leparlementhaitien.info/lesenat/"
+    },
+    {
+      "id": "Q742110",
+      "name": "Parliament of Haiti",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "http://www.leparlementhaitien.info/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

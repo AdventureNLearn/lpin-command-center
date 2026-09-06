@@ -2,10 +2,10 @@
   "iso2": "br",
   "name": "Brazil",
   "region": "americas",
-  "chamber": "Câmara dos Deputados",
+  "chamber": "National Congress of Brazil",
   "houses": "bicameral",
   "system": "presidential",
-  "seats": 513,
+  "seats": 594,
   "election": "competitive",
   "session": "57 2023-2027",
   "kit": "scoring",
@@ -20,7 +20,8 @@
     "votes": 41700,
     "committees": 30,
     "key_votes": 1117,
-    "sourced_quotes": 185
+    "sourced_quotes": 185,
+    "pledged": 185
   },
   "capabilities": [
     "members",
@@ -39,6 +40,6 @@
   "lane": "gold-kit-8103",
   "source_live": null,
   "note": "BR honest-complete 2026-08-21. Sit 513. Pledges 185 / 132 sitting. Leftover discursos/TSE certidões not proposta — junk-filtered, not invented. Votes 41700 named 1117; leftover named hunt-stop; br/votes.json not rewritten this wave (59,081,350 byte floor). Comm 30 ethics 28 money 80 buckets named_donors false. Gap 0.",
-  "roster_source": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome",
+  "roster_source": "https://www.wikidata.org/wiki/Q949699",
   "honest_complete": true
 }

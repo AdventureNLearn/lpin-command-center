@@ -1,7 +1,74 @@
 {
   "iso2": "au",
   "kit": "institutional",
-  "items": [],
   "incomplete": true,
-  "note": ":8103 claimed institutional_kits = 0."
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q408",
+  "bodies": [
+    {
+      "qid": "Q382118",
+      "label": "Parliament of Australia",
+      "seats": 227,
+      "web": "https://www.aph.gov.au/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q783401",
+      "label": "Australian House of Representatives",
+      "seats": 151,
+      "web": "https://www.aph.gov.au/About_Parliament/House_of_Representatives",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q14931512",
+      "label": "monarch of Australia",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q783330",
+      "label": "Australian Senate",
+      "seats": 76,
+      "web": "https://www.aph.gov.au/About_Parliament/Senate",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Australian House of Representatives",
+    "monarch of Australia",
+    "Australian Senate"
+  ],
+  "seats": 454,
+  "items": [
+    {
+      "id": "Q382118",
+      "name": "Parliament of Australia",
+      "kind": "parliament",
+      "seats": 227,
+      "url": "https://www.aph.gov.au/"
+    },
+    {
+      "id": "Q783401",
+      "name": "Australian House of Representatives",
+      "kind": "chamber",
+      "seats": 151,
+      "url": "https://www.aph.gov.au/About_Parliament/House_of_Representatives"
+    },
+    {
+      "id": "Q14931512",
+      "name": "monarch of Australia",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q14931512"
+    },
+    {
+      "id": "Q783330",
+      "name": "Australian Senate",
+      "kind": "chamber",
+      "seats": 76,
+      "url": "https://www.aph.gov.au/About_Parliament/Senate"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

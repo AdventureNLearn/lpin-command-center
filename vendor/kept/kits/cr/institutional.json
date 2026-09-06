@@ -1,0 +1,44 @@
+{
+  "iso2": "cr",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q800",
+  "bodies": [
+    {
+      "qid": "Q21328617",
+      "label": "Member of the Legislative Assembly of Costa Rica",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1386962",
+      "label": "Legislative Assembly of Costa Rica",
+      "seats": 57,
+      "web": "http://www.asamblea.go.cr",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Member of the Legislative Assembly of Costa Rica"
+  ],
+  "seats": 57,
+  "items": [
+    {
+      "id": "Q21328617",
+      "name": "Member of the Legislative Assembly of Costa Rica",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q21328617"
+    },
+    {
+      "id": "Q1386962",
+      "name": "Legislative Assembly of Costa Rica",
+      "kind": "parliament",
+      "seats": 57,
+      "url": "http://www.asamblea.go.cr"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

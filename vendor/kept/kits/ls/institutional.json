@@ -1,0 +1,59 @@
+{
+  "iso2": "ls",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q1013",
+  "bodies": [
+    {
+      "qid": "Q927191",
+      "label": "Senate of Lesotho",
+      "seats": 33,
+      "web": "http://senate.parliament.ls/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1138713",
+      "label": "National Assembly",
+      "seats": 120,
+      "web": "https://nationalassembly.parliament.ls/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q4345419",
+      "label": "Parliament of Lesotho",
+      "seats": 0,
+      "web": "https://parliament.ls/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Senate of Lesotho",
+    "National Assembly"
+  ],
+  "seats": 153,
+  "items": [
+    {
+      "id": "Q927191",
+      "name": "Senate of Lesotho",
+      "kind": "chamber",
+      "seats": 33,
+      "url": "http://senate.parliament.ls/"
+    },
+    {
+      "id": "Q1138713",
+      "name": "National Assembly",
+      "kind": "chamber",
+      "seats": 120,
+      "url": "https://nationalassembly.parliament.ls/"
+    },
+    {
+      "id": "Q4345419",
+      "name": "Parliament of Lesotho",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://parliament.ls/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

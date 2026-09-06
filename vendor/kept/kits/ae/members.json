@@ -3,11 +3,40 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q5440456",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 8,
+  "incomplete": true,
+  "claimed_seats": 63,
+  "chambers": [
+    "Federal Supreme Council"
+  ],
   "items": [
     {
-      "id": "saud-bin-saqr-al-qasimi",
+      "id": "khalifa-bin-zayed-al-nahyan-q5440456",
+      "name": "Khalifa bin Zayed Al Nahyan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1059948"
+    },
+    {
+      "id": "saqr-bin-mohammad-al-qassimi-q5440456",
+      "name": "Saqr bin Mohammad al-Qassimi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1380993"
+    },
+    {
+      "id": "saud-bin-saqr-al-qasimi-q5440456",
       "name": "Saud bin Saqr al Qasimi",
       "sitting": true,
       "party_id": "unknown",
@@ -20,7 +49,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q1368398"
     },
     {
-      "id": "hamad-bin-mohammed-al-sharqi",
+      "id": "hamad-bin-mohammed-al-sharqi-q5440456",
       "name": "Hamad bin Mohammed Al Sharqi",
       "sitting": true,
       "party_id": "unknown",
@@ -33,7 +62,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q1371101"
     },
     {
-      "id": "mohammed-bin-zayed-al-nahyan",
+      "id": "zayed-bin-sultan-al-nahyan-q5440456",
+      "name": "Zayed bin Sultan Al Nahyan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q167846"
+    },
+    {
+      "id": "mohammed-bin-zayed-al-nahyan-q5440456",
       "name": "Mohammed Bin Zayed Al Nahyan",
       "sitting": true,
       "party_id": "unknown",
@@ -46,7 +88,176 @@
       "roster_url": "http://www.wikidata.org/entity/Q1951896"
     },
     {
-      "id": "saud-bin-rashid-al-mu-alla",
+      "id": "maktoum-bin-rashid-al-maktoum-q5440456",
+      "name": "Maktoum bin Rashid Al Maktoum",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q215477"
+    },
+    {
+      "id": "khalid-bin-mohammed-al-qasimi-q5440456",
+      "name": "Khalid bin Mohammed Al Qasimi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12210050"
+    },
+    {
+      "id": "saqr-iii-bin-sultan-al-qasimi-q5440456",
+      "name": "Saqr III bin Sultan al-Qasimi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12220103"
+    },
+    {
+      "id": "shakhbut-bin-sultan-al-nahyan-q5440456",
+      "name": "Shakhbut bin Sultan Al Nahyan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2661904"
+    },
+    {
+      "id": "dhiyab-bin-isa-q5440456",
+      "name": "Dhiyab bin Isa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q325479"
+    },
+    {
+      "id": "shakhbut-bin-dhiyab-al-nahyan-q5440456",
+      "name": "Shakhbut bin Dhiyab Al Nahyan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q325507"
+    },
+    {
+      "id": "tahnun-bin-shakhbut-al-nahyan-q5440456",
+      "name": "Tahnun bin Shakhbut Al Nahyan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q325518"
+    },
+    {
+      "id": "butti-bin-sohail-q5440456",
+      "name": "Butti bin Sohail",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q340060"
+    },
+    {
+      "id": "maktoum-bin-hushur-q5440456",
+      "name": "Maktoum bin Hushur",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q340089"
+    },
+    {
+      "id": "hushur-bin-maktoum-q5440456",
+      "name": "Hushur bin Maktoum",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q340171"
+    },
+    {
+      "id": "maktoum-bin-butti-bin-sohal-q5440456",
+      "name": "Maktoum bin Butti bin Sohal",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q340197"
+    },
+    {
+      "id": "rashid-bin-maktoum-q5440456",
+      "name": "Rashid bin Maktoum",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q340184"
+    },
+    {
+      "id": "saeed-bin-butti-q5440456",
+      "name": "Saeed bin Butti",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q344111"
+    },
+    {
+      "id": "saud-bin-rashid-al-mu-alla-q5440456",
       "name": "Saud bin Rashid Al Mu'alla",
       "sitting": true,
       "party_id": "unknown",
@@ -59,7 +270,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q347571"
     },
     {
-      "id": "humaid-bin-rashid-al-nuaimi",
+      "id": "humaid-bin-rashid-al-nuaimi-q5440456",
       "name": "Humaid bin Rashid Al Nuaimi",
       "sitting": true,
       "party_id": "unknown",
@@ -72,7 +283,59 @@
       "roster_url": "http://www.wikidata.org/entity/Q2984620"
     },
     {
-      "id": "sultan-bin-mohamed-al-qasimi",
+      "id": "zayed-bin-khalifa-al-nahyan-q5440456",
+      "name": "Zayed bin Khalifa Al Nahyan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4119330"
+    },
+    {
+      "id": "ahmad-bin-rashid-al-mu-alla-q5440456",
+      "name": "Ahmad bin Rashid Al Mu'alla",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4695515"
+    },
+    {
+      "id": "saeed-bin-maktoum-bin-hasher-al-maktoum-q5440456",
+      "name": "Saeed bin Maktoum bin Hasher Al Maktoum",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q713801"
+    },
+    {
+      "id": "rashid-bin-saeed-al-maktoum-q5440456",
+      "name": "Rashid bin Saeed Al Maktoum",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q733312"
+    },
+    {
+      "id": "sultan-bin-mohamed-al-qasimi-q5440456",
       "name": "Sultan bin Mohamed Al-Qasimi",
       "sitting": true,
       "party_id": "unknown",
@@ -85,7 +348,397 @@
       "roster_url": "http://www.wikidata.org/entity/Q754778"
     },
     {
-      "id": "rashid-bin-matar-al-qasimi",
+      "id": "tahnoun-bin-zayed-bin-khalifa-al-nahyan-q5440456",
+      "name": "Tahnoun bin Zayed bin Khalifa Al Nahyan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6406856"
+    },
+    {
+      "id": "saqr-bin-zayed-al-nahyan-q5440456",
+      "name": "Saqr Bin Zayed Al Nahyan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6407087"
+    },
+    {
+      "id": "sultan-bin-zayed-bin-khalifa-al-nahyan-q5440456",
+      "name": "Sultan bin Zayed bin Khalifa Al Nahyan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6409495"
+    },
+    {
+      "id": "saeed-bin-tahnun-al-nahyan-q5440456",
+      "name": "Saeed bin Tahnun Al Nahyan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6409682"
+    },
+    {
+      "id": "khalifa-bin-shakhbut-al-nahyan-q5440456",
+      "name": "Khalifa bin Shakhbut Al Nahyan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6413077"
+    },
+    {
+      "id": "sultan-bin-saqr-al-qasimi-q5440456",
+      "name": "Sultan bin Saqr Al Qasimi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6800497"
+    },
+    {
+      "id": "muhammad-bin-shakhbut-al-nahyan-q5440456",
+      "name": "Muhammad bin Shakhbut Al Nahyan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6932845"
+    },
+    {
+      "id": "rashid-bin-humaid-al-nuaimi-q5440456",
+      "name": "Rashid Bin Humaid Al Nuaimi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7294894"
+    },
+    {
+      "id": "rashid-iii-bin-ahmad-al-mu-alla-q5440456",
+      "name": "Rashid III bin Ahmad Al Mu'alla",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q8973536"
+    },
+    {
+      "id": "khalid-bin-sultan-al-qasimi-q5440456",
+      "name": "Khalid bin Sultan Al Qasimi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60785755"
+    },
+    {
+      "id": "obeid-bin-said-bin-rashid-q5440456",
+      "name": "Obeid bin Said bin Rashid",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56733545"
+    },
+    {
+      "id": "hassan-bin-rahma-al-qasimi-q5440456",
+      "name": "Hassan bin Rahma Al Qasimi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56868101"
+    },
+    {
+      "id": "khalid-bin-ahmad-al-qasimi-q5440456",
+      "name": "Khalid bin Ahmad Al Qasimi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57164122"
+    },
+    {
+      "id": "salim-bin-sultan-al-qasimi-q5440456",
+      "name": "Salim bin Sultan Al Qasimi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57164210"
+    },
+    {
+      "id": "saqr-bin-khalid-al-qasimi-q5440456",
+      "name": "Saqr bin Khalid Al Qasimi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57164220"
+    },
+    {
+      "id": "saqr-bin-rashid-al-qasimi-q5440456",
+      "name": "Saqr bin Rashid Al Qasimi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57164232"
+    },
+    {
+      "id": "sultan-bin-saqr-al-qasimi-ii-q5440456",
+      "name": "Sultan bin Saqr Al Qasimi II",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57164266"
+    },
+    {
+      "id": "abdullah-bin-rashid-al-mualla-ii-q5440456",
+      "name": "Abdullah bin Rashid Al Mualla II",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57418911"
+    },
+    {
+      "id": "ahmad-bin-abdullah-al-mualla-q5440456",
+      "name": "Ahmad bin Abdullah Al Mualla",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57418909"
+    },
+    {
+      "id": "ali-bin-abdullah-al-mualla-q5440456",
+      "name": "Ali bin Abdullah Al Mualla",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57418977"
+    },
+    {
+      "id": "hamad-bin-ibrahim-al-mualla-q5440456",
+      "name": "Hamad bin Ibrahim Al Mualla",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57418912"
+    },
+    {
+      "id": "rashid-bin-ahmad-al-mualla-q5440456",
+      "name": "Rashid bin Ahmad Al Mualla",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57584838"
+    },
+    {
+      "id": "abdelaziz-bin-rashid-al-nuaimi-q5440456",
+      "name": "Abdelaziz bin Rashid Al Nuaimi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57728593"
+    },
+    {
+      "id": "humaid-bin-rashid-al-nuaimi-ii-q5440456",
+      "name": "Humaid bin Rashid Al Nuaimi II",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57728604"
+    },
+    {
+      "id": "rashid-bin-humaid-al-nuaimi-ii-q5440456",
+      "name": "Rashid bin Humaid Al Nuaimi II",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57728597"
+    },
+    {
+      "id": "abdulaziz-bin-humaid-al-nuaimi-q5440456",
+      "name": "Abdulaziz bin Humaid Al Nuaimi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57729207"
+    },
+    {
+      "id": "humaid-bin-abdulaziz-al-nuaimi-q5440456",
+      "name": "Humaid bin Abdulaziz Al Nuaimi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57729213"
+    },
+    {
+      "id": "abdullah-bin-rashid-al-mualla-q5440456",
+      "name": "Abdullah bin Rashid Al Mualla",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60739904"
+    },
+    {
+      "id": "rashid-bin-majid-al-mualla-q5440456",
+      "name": "Rashid bin Majid Al Mualla",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60748540"
+    },
+    {
+      "id": "humaid-bin-abdullah-al-qasimi-q5440456",
+      "name": "Humaid bin Abdullah Al Qasimi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60785780"
+    },
+    {
+      "id": "rashid-bin-matar-al-qasimi-q5440456",
       "name": "Rashid bin Matar Al Qasimi",
       "sitting": true,
       "party_id": "unknown",
@@ -98,7 +751,72 @@
       "roster_url": "http://www.wikidata.org/entity/Q60785778"
     },
     {
-      "id": "mohammed-bin-rashid-al-maktoum",
+      "id": "hamad-bin-abdullah-al-sharqi-q5440456",
+      "name": "Hamad bin Abdullah Al Sharqi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60785964"
+    },
+    {
+      "id": "sultan-bin-salim-al-qasimi-q5440456",
+      "name": "Sultan bin Salim Al Qasimi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60785796"
+    },
+    {
+      "id": "mohammed-bin-hamad-bin-abdullah-al-sharqi-q5440456",
+      "name": "Mohammed bin Hamad bin Abdullah Al Sharqi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60785966"
+    },
+    {
+      "id": "hamdan-bin-zayed-bin-khalifa-al-nahyan-q5440456",
+      "name": "Hamdan bin Zayed bin Khalifa Al Nahyan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60786126"
+    },
+    {
+      "id": "saif-bin-hamad-al-sharqi-q5440456",
+      "name": "Saif bin Hamad Al Sharqi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Federal Supreme Council",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60785963"
+    },
+    {
+      "id": "mohammed-bin-rashid-al-maktoum-q5440456",
       "name": "Mohammed bin Rashid Al Maktoum",
       "sitting": true,
       "party_id": "unknown",

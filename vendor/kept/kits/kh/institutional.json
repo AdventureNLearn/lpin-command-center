@@ -1,6 +1,59 @@
 {
   "iso2": "kh",
   "kit": "institutional",
-  "items": [],
-  "incomplete": true
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q424",
+  "bodies": [
+    {
+      "qid": "Q3055339",
+      "label": "Senate of Cambodia",
+      "seats": 61,
+      "web": "http://senate.gov.kh/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1320418",
+      "label": "Parliament of Cambodia",
+      "seats": 0,
+      "web": "",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q1234896",
+      "label": "National Assembly",
+      "seats": 123,
+      "web": "https://nac.org.kh/",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Senate of Cambodia",
+    "National Assembly"
+  ],
+  "seats": 184,
+  "items": [
+    {
+      "id": "Q3055339",
+      "name": "Senate of Cambodia",
+      "kind": "chamber",
+      "seats": 61,
+      "url": "http://senate.gov.kh/"
+    },
+    {
+      "id": "Q1320418",
+      "name": "Parliament of Cambodia",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q1320418"
+    },
+    {
+      "id": "Q1234896",
+      "name": "National Assembly",
+      "kind": "chamber",
+      "seats": 123,
+      "url": "https://nac.org.kh/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

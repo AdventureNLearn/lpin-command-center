@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1572486"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1572486",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q3510833",
+      "label": "Senate of the Bahamas (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q3510833",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1572486",
+      "label": "Parliament of The Bahamas (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1572486",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q2948139",
+      "label": "House of Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q2948139",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

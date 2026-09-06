@@ -1,6 +1,59 @@
 {
   "iso2": "mg",
   "kit": "institutional",
-  "items": [],
-  "incomplete": true
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q1019",
+  "bodies": [
+    {
+      "qid": "Q3919000",
+      "label": "Parliament of Madagascar",
+      "seats": 0,
+      "web": "",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q3510853",
+      "label": "Senate",
+      "seats": 18,
+      "web": "http://www.senat.mg/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q1141206",
+      "label": "National Assembly",
+      "seats": 160,
+      "web": "http://www.assemblee-nationale.mg/",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Senate",
+    "National Assembly"
+  ],
+  "seats": 178,
+  "items": [
+    {
+      "id": "Q3919000",
+      "name": "Parliament of Madagascar",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q3919000"
+    },
+    {
+      "id": "Q3510853",
+      "name": "Senate",
+      "kind": "chamber",
+      "seats": 18,
+      "url": "http://www.senat.mg/"
+    },
+    {
+      "id": "Q1141206",
+      "name": "National Assembly",
+      "kind": "chamber",
+      "seats": 160,
+      "url": "http://www.assemblee-nationale.mg/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

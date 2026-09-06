@@ -3,11 +3,15 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q7478146",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 5,
+  "incomplete": true,
+  "claimed_seats": 7,
+  "chambers": [
+    "Member of the Pontifical Commission for the Vatican City State",
+    "Pontifical Commission for the Vatican City State"
+  ],
   "items": [
     {
-      "id": "claudio-gugerotti",
+      "id": "claudio-gugerotti-q7478146",
       "name": "Claudio Gugerotti",
       "sitting": true,
       "party_id": "unknown",
@@ -20,7 +24,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q1098059"
     },
     {
-      "id": "lazarus-you-heung-sik",
+      "id": "lazarus-you-heung-sik-q7478146",
       "name": "Lazarus You Heung-sik",
       "sitting": true,
       "party_id": "unknown",
@@ -33,7 +37,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q1809520"
     },
     {
-      "id": "blase-cupich",
+      "id": "blase-cupich-q7478146",
       "name": "Blase Cupich",
       "sitting": true,
       "party_id": "unknown",
@@ -46,20 +50,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q556737"
     },
     {
-      "id": "arthur-roche",
-      "name": "Arthur Roche",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Pontifical Commission for the Vatican City State",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q711174"
-    },
-    {
-      "id": "baldassare-reina",
+      "id": "baldassare-reina-q7478146",
       "name": "Baldassare Reina",
       "sitting": true,
       "party_id": "unknown",

@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1422275"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1422275",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21328581",
+      "label": "Member of the Parliament of Lebanon (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21328581",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1422275",
+      "label": "Parliament of Lebanon",
+      "url": "https://www.lp.gov.lb/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1422275",
+      "label": "Parliament of Lebanon (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1422275",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

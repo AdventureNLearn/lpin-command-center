@@ -1,8 +1,13 @@
 {
   "iso2": "de",
-  "items": [],
+  "items": [
+    {
+      "id": "money",
+      "hole": "No sourced money file.",
+      "basis": "Evidence"
+    }
+  ],
   "incomplete": true,
-  "examined_pairs": 1863,
-  "retrieved": "2026-08-21",
-  "note": "No dual-sourced own-pledge break. Examined 1863 sourced-pledge × same-issue clerk vote pairs already in votes.json (916 with this member's yea/nay; 136 on/after pledge date; 16 with polarity tags). 479/479 clerk rolls have named positions. votes.json issue_id empty on 234/479 — titles mapped at examination only, not written back. Cartesian 76×479 capped to same-issue pairs with positions. Break only when pledge sentence and vote title share a specific instrument and are unambiguous opposites. Same issue_id is not a break. Tempolimit ≠ Klimaziele; directionless GEG-Änderung skipped; UNMISS/Südsudan ≠ other Bundeswehr mandates; Stromsteuer ≠ GEG; mixed household/omnibus titles, Ablehnung/Entschließung/Änderungsantrag, Grundgesetz 109/115 packages, Corona-era rolls, generic 'nachhaltig ausgerichtete Zukunft' / homepage 'ich setze mich ein' without opposite polarity, and unmapped titles not scored. Named-roll queue not requeued. Official MdB leftover bios hunt-stop. Did not invent yeas. Honest empty."
+  "retrieved": "2026-09-06",
+  "note": "Full-ISO fill 2026-09-06. Chambers: chauffeur service of the German Bundestag · Library of the German Bundestag · Bundesrat · member of the German Bundestag · Member of the Bundesrat of Germany · Enquete Commission Lessons from Afghanistan for Germany's future networked engagement · Bundesrat Library · Q132798745 · German Bundestag. Sitting 630. Empty objects not invented."
 }

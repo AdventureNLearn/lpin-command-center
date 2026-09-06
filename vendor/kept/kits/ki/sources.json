@@ -3,8 +3,32 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1281107"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1281107",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q21296447",
+      "label": "Member of the House of Assembly of Kiribati (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q21296447",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1281107",
+      "label": "House of Assembly of Kiribati",
+      "url": "http://www.parliament.gov.ki/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1281107",
+      "label": "House of Assembly of Kiribati (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1281107",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

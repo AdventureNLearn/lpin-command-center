@@ -1,0 +1,59 @@
+{
+  "iso2": "ba",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q225",
+  "bodies": [
+    {
+      "qid": "Q2604031",
+      "label": "Parliamentary Assembly of Bosnia and Herzegovina",
+      "seats": 0,
+      "web": "https://www.parlament.ba/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q2718547",
+      "label": "House of Peoples of Bosnia and Herzegovina",
+      "seats": 15,
+      "web": "https://www.parlament.ba/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q320268",
+      "label": "House of Representatives of Bosnia and Herzegovina",
+      "seats": 42,
+      "web": "https://www.parlament.ba/",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "House of Peoples of Bosnia and Herzegovina",
+    "House of Representatives of Bosnia and Herzegovina"
+  ],
+  "seats": 57,
+  "items": [
+    {
+      "id": "Q2604031",
+      "name": "Parliamentary Assembly of Bosnia and Herzegovina",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://www.parlament.ba/"
+    },
+    {
+      "id": "Q2718547",
+      "name": "House of Peoples of Bosnia and Herzegovina",
+      "kind": "chamber",
+      "seats": 15,
+      "url": "https://www.parlament.ba/"
+    },
+    {
+      "id": "Q320268",
+      "name": "House of Representatives of Bosnia and Herzegovina",
+      "kind": "chamber",
+      "seats": 42,
+      "url": "https://www.parlament.ba/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

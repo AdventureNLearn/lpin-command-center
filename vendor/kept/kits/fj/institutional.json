@@ -1,6 +1,59 @@
 {
   "iso2": "fj",
   "kit": "institutional",
-  "items": [],
-  "incomplete": true
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q712",
+  "bodies": [
+    {
+      "qid": "Q3510843",
+      "label": "Senate",
+      "seats": 0,
+      "web": "",
+      "kind": "lower"
+    },
+    {
+      "qid": "Q4345425",
+      "label": "Parliament of Fiji",
+      "seats": 51,
+      "web": "http://www.parliament.gov.fj/",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q18145348",
+      "label": "Member of the Parliament of Fiji",
+      "seats": 0,
+      "web": "",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Senate",
+    "Member of the Parliament of Fiji"
+  ],
+  "seats": 51,
+  "items": [
+    {
+      "id": "Q3510843",
+      "name": "Senate",
+      "kind": "lower",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q3510843"
+    },
+    {
+      "id": "Q4345425",
+      "name": "Parliament of Fiji",
+      "kind": "parliament",
+      "seats": 51,
+      "url": "http://www.parliament.gov.fj/"
+    },
+    {
+      "id": "Q18145348",
+      "name": "Member of the Parliament of Fiji",
+      "kind": "chamber",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q18145348"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

@@ -3,11 +3,80 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1287831",
   "retrieved": "2026-09-06",
-  "incomplete": false,
+  "incomplete": true,
   "claimed_seats": 26,
+  "chambers": [
+    "Member of the Legislative Assembly of Tonga",
+    "Legislative Assembly of Tonga"
+  ],
   "items": [
     {
-      "id": "kapelieli-lanumata",
+      "id": "pohiva-tu-i-onetoa-q1287831",
+      "name": "Pōhiva Tuʻiʻonetoa",
+      "sitting": true,
+      "party_id": "tonga-people-s-party",
+      "caucus": "Tonga People's Party",
+      "constituency_label": "Tongatapu 10",
+      "chamber": "Legislative Assembly of Tonga",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q48778102"
+    },
+    {
+      "id": "lupeti-finau-q1287831",
+      "name": "Lupeti Finau",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Legislative Assembly of Tonga",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q89125493"
+    },
+    {
+      "id": "sekonaia-tu-akoi-q1287831",
+      "name": "Sekonaia Tu'akoi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Legislative Assembly of Tonga",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q89432476"
+    },
+    {
+      "id": "sitiveni-halapua-q1287831",
+      "name": "Sitiveni Halapua",
+      "sitting": true,
+      "party_id": "democratic-party-of-the-friendly-islands",
+      "caucus": "Democratic Party of the Friendly Islands",
+      "constituency_label": "Tongatapu 3",
+      "chamber": "Legislative Assembly of Tonga",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7531909"
+    },
+    {
+      "id": "tomiteau-finau-q1287831",
+      "name": "Tomiteau Finau",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Legislative Assembly of Tonga",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q90829972"
+    },
+    {
+      "id": "kapelieli-lanumata-q1287831",
       "name": "Kapelieli Lanumata",
       "sitting": true,
       "party_id": "unknown",
@@ -20,7 +89,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q122143609"
     },
     {
-      "id": "malakai-fakatoufifita-15th-lord-tu-ilakepa",
+      "id": "tongaleva-luani-q1287831",
+      "name": "Tongaleva Luani",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Legislative Assembly of Tonga",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q92051471"
+    },
+    {
+      "id": "malakai-fakatoufifita-15th-lord-tu-ilakepa-q1287831",
       "name": "Malakai Fakatoufifita, 15th Lord Tuʻilakepa",
       "sitting": true,
       "party_id": "unknown",
@@ -33,7 +115,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q3567558"
     },
     {
-      "id": "dulcie-tei",
+      "id": "mateni-tapueluelu-q1287831",
+      "name": "Mateni Tapueluelu",
+      "sitting": true,
+      "party_id": "democratic-party-of-the-friendly-islands",
+      "caucus": "Democratic Party of the Friendly Islands",
+      "constituency_label": "Tongatapu 4",
+      "chamber": "Legislative Assembly of Tonga",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19605129"
+    },
+    {
+      "id": "dulcie-tei-q1287831",
       "name": "Dulcie Tei",
       "sitting": true,
       "party_id": "unknown",
@@ -46,7 +141,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q115048610"
     },
     {
-      "id": "tonga-tu-i-afitu",
+      "id": "mo-ale-finau-q1287831",
+      "name": "Moʻale Finau",
+      "sitting": true,
+      "party_id": "democratic-party-of-the-friendly-islands",
+      "caucus": "Democratic Party of the Friendly Islands",
+      "constituency_label": "Haʻapai 12",
+      "chamber": "Legislative Assembly of Tonga",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6928173"
+    },
+    {
+      "id": "vatau-hui-q1287831",
+      "name": "Vatau Hui",
+      "sitting": true,
+      "party_id": "tonga-people-s-party",
+      "caucus": "Tonga People's Party",
+      "constituency_label": "Niua 17",
+      "chamber": "Legislative Assembly of Tonga",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q96479582"
+    },
+    {
+      "id": "tonga-tu-i-afitu-q1287831",
       "name": "Tonga Tuʻiʻafitu",
       "sitting": true,
       "party_id": "unknown",
@@ -59,7 +180,59 @@
       "roster_url": "http://www.wikidata.org/entity/Q16194844"
     },
     {
-      "id": "johnny-taione",
+      "id": "hu-akavameiliku-q1287831",
+      "name": "Hu'akavameiliku",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "Tongatapu 3",
+      "chamber": "Legislative Assembly of Tonga",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19631293"
+    },
+    {
+      "id": "lisiate-akolo-q1287831",
+      "name": "Lisiate ‘Akolo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Vavaʻu 14",
+      "chamber": "Legislative Assembly of Tonga",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6558877"
+    },
+    {
+      "id": "isileli-pulu-q1287831",
+      "name": "ʻIsileli Pulu",
+      "sitting": true,
+      "party_id": "human-rights-and-democracy-movement",
+      "caucus": "Human Rights and Democracy Movement",
+      "constituency_label": "Tongatapu 4",
+      "chamber": "Legislative Assembly of Tonga",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q8083956"
+    },
+    {
+      "id": "semisi-fakahau-q1287831",
+      "name": "Semisi Fakahau",
+      "sitting": true,
+      "party_id": "democratic-party-of-the-friendly-islands",
+      "caucus": "Democratic Party of the Friendly Islands",
+      "constituency_label": "Tongatapu 8",
+      "chamber": "Legislative Assembly of Tonga",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q96482295"
+    },
+    {
+      "id": "johnny-taione-q1287831",
       "name": "Johnny Taione",
       "sitting": true,
       "party_id": "unknown",
@@ -72,7 +245,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q116264661"
     },
     {
-      "id": "siale-ataongo-tu-ivakano",
+      "id": "siale-ataongo-tu-ivakano-q1287831",
       "name": "Sialeʻataongo Tuʻivakanō",
       "sitting": true,
       "party_id": "unknown",
@@ -85,7 +258,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q57880"
     },
     {
-      "id": "viliami-latu",
+      "id": "akilisi-pohiva-q1287831",
+      "name": "ʻAkilisi Pohiva",
+      "sitting": true,
+      "party_id": "democratic-party-of-the-friendly-islands",
+      "caucus": "Democratic Party of the Friendly Islands",
+      "constituency_label": "Tongatapu 1",
+      "chamber": "Legislative Assembly of Tonga",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3594634"
+    },
+    {
+      "id": "viliami-latu-q1287831",
       "name": "Viliami Latu",
       "sitting": true,
       "party_id": "unknown",
@@ -98,21 +284,73 @@
       "roster_url": "http://www.wikidata.org/entity/Q7930213"
     },
     {
-      "id": "hu-akavameiliku",
-      "name": "Hu'akavameiliku",
+      "id": "akosita-lavulavu-q1287831",
+      "name": "‘Akosita Lavulavu",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Tongatapu 3",
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "Vavaʻu 16",
       "chamber": "Legislative Assembly of Tonga",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q19631293"
+      "roster_url": "http://www.wikidata.org/entity/Q28910910"
     },
     {
-      "id": "mo-ale-finau",
-      "name": "Moʻale Finau",
+      "id": "semisi-fonua-q1287831",
+      "name": "Semisi Fonua",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Legislative Assembly of Tonga",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q25701272"
+    },
+    {
+      "id": "poasi-tei-q1287831",
+      "name": "Poasi Tei",
+      "sitting": true,
+      "party_id": "democratic-party-of-the-friendly-islands",
+      "caucus": "Democratic Party of the Friendly Islands",
+      "constituency_label": "Tongatapu 6",
+      "chamber": "Legislative Assembly of Tonga",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q96479418"
+    },
+    {
+      "id": "mata-i-ulua-i-fonuamotu-q1287831",
+      "name": "Mataʻiʻulua ‘i Fonuamotu",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Niuas Nobles' constituency",
+      "chamber": "Legislative Assembly of Tonga",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16929585"
+    },
+    {
+      "id": "nikotimasi-fatafehi-laufilitonga-kakau-vaha-i-q1287831",
+      "name": "Nikotimasi Fatafehi Laufilitonga Kakau Vaha'i",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Tongatapu Nobles' constituency",
+      "chamber": "Legislative Assembly of Tonga",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7036716"
+    },
+    {
+      "id": "viliami-hingano-q1287831",
+      "name": "Viliami Hingano",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
@@ -121,10 +359,10 @@
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q6928173"
+      "roster_url": "http://www.wikidata.org/entity/Q96592493"
     },
     {
-      "id": "tevita-fatafehi-puloka",
+      "id": "tevita-fatafehi-puloka-q1287831",
       "name": "Tēvita Fatafehi Puloka",
       "sitting": true,
       "party_id": "unknown",
@@ -137,7 +375,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q110123603"
     },
     {
-      "id": "taniela-fusimalohi",
+      "id": "taniela-fusimalohi-q1287831",
       "name": "Taniela Fusimalohi",
       "sitting": true,
       "party_id": "unknown",
@@ -150,7 +388,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q109657125"
     },
     {
-      "id": "uhilamoelangi-fasi",
+      "id": "uhilamoelangi-fasi-q1287831",
       "name": "ʻUhilamoelangi Fasi",
       "sitting": true,
       "party_id": "unknown",
@@ -163,7 +401,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q110170358"
     },
     {
-      "id": "sevenitini-toumo-ua",
+      "id": "sevenitini-toumo-ua-q1287831",
       "name": "Sevenitini Toumoʻua",
       "sitting": true,
       "party_id": "unknown",
@@ -176,7 +414,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q110243150"
     },
     {
-      "id": "veivosa-taka",
+      "id": "veivosa-taka-q1287831",
       "name": "Veivosa Taka",
       "sitting": true,
       "party_id": "unknown",
@@ -189,20 +427,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q96362710"
     },
     {
-      "id": "mateni-tapueluelu",
-      "name": "Mateni Tapueluelu",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "Tongatapu 4",
-      "chamber": "Legislative Assembly of Tonga",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q19605129"
-    },
-    {
-      "id": "saia-piukala",
+      "id": "saia-piukala-q1287831",
       "name": "Saia Piukala",
       "sitting": true,
       "party_id": "unknown",
@@ -215,20 +440,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q96278954"
     },
     {
-      "id": "vatau-hui",
-      "name": "Vatau Hui",
+      "id": "sosefo-fe-aomoeata-vakata-q1287831",
+      "name": "Sosefo Fe‘aomoeata Vakata",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "democratic-party-of-the-friendly-islands",
+      "caucus": "Democratic Party of the Friendly Islands",
       "constituency_label": "Niua 17",
       "chamber": "Legislative Assembly of Tonga",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q96479582"
+      "roster_url": "http://www.wikidata.org/entity/Q7563830"
     },
     {
-      "id": "kalaniuvalu-fotofili",
+      "id": "kalaniuvalu-fotofili-q1287831",
       "name": "Kalaniuvalu Fotofili",
       "sitting": true,
       "party_id": "unknown",
@@ -241,7 +466,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q25701270"
     },
     {
-      "id": "lord-nuku",
+      "id": "penisimani-fifita-q1287831",
+      "name": "Penisimani Fifita",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Tongatapu 9",
+      "chamber": "Legislative Assembly of Tonga",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q96470811"
+    },
+    {
+      "id": "siaosi-pohiva-q1287831",
+      "name": "Siaosi Pōhiva",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Tongatapu 1",
+      "chamber": "Legislative Assembly of Tonga",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q96476105"
+    },
+    {
+      "id": "lord-nuku-q1287831",
       "name": "Lord Nuku",
       "sitting": true,
       "party_id": "unknown",
@@ -254,7 +505,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q25701258"
     },
     {
-      "id": "havea-tu-iha-angana",
+      "id": "havea-tu-iha-angana-q1287831",
       "name": "Havea Tu‘iha‘angana",
       "sitting": true,
       "party_id": "unknown",
@@ -267,11 +518,37 @@
       "roster_url": "http://www.wikidata.org/entity/Q25701795"
     },
     {
-      "id": "fatafehi-fakafanua-8th-lord-fakafanua",
-      "name": "Fatafehi Fakafānua, 8th Lord Fakafānua",
+      "id": "tatafu-moeaki-q1287831",
+      "name": "Tatafu Moeaki",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
+      "constituency_label": "Tongatapu 4",
+      "chamber": "Legislative Assembly of Tonga",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109661097"
+    },
+    {
+      "id": "sione-taione-q1287831",
+      "name": "Sione Taione",
+      "sitting": true,
+      "party_id": "democratic-party-of-the-friendly-islands",
+      "caucus": "Democratic Party of the Friendly Islands",
+      "constituency_label": "Tongatapu 8",
+      "chamber": "Legislative Assembly of Tonga",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7525392"
+    },
+    {
+      "id": "fatafehi-fakafanua-8th-lord-fakafanua-q1287831",
+      "name": "Fatafehi Fakafānua, 8th Lord Fakafānua",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
       "constituency_label": "Haʻapai Nobles' constituency",
       "chamber": "Legislative Assembly of Tonga",
       "lang": [
@@ -280,20 +557,46 @@
       "roster_url": "http://www.wikidata.org/entity/Q5437258"
     },
     {
-      "id": "samiu-vaipulu",
-      "name": "Samiu Vaipulu",
+      "id": "sione-vuna-fa-otusia-q1287831",
+      "name": "Sione Vuna Fa’otusia",
       "sitting": true,
       "party_id": "unknown",
       "caucus": "",
-      "constituency_label": "Vavaʻu 15",
+      "constituency_label": "Tongatapu 7",
       "chamber": "Legislative Assembly of Tonga",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q3470867"
+      "roster_url": "http://www.wikidata.org/entity/Q70515784"
     },
     {
-      "id": "alipate-tu-ivanuavou-vaea",
+      "id": "sione-sangster-saulala-q1287831",
+      "name": "Sione Sangster Saulala",
+      "sitting": true,
+      "party_id": "human-rights-and-democracy-movement",
+      "caucus": "Human Rights and Democracy Movement",
+      "constituency_label": "Tongatapu 7",
+      "chamber": "Legislative Assembly of Tonga",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7525391"
+    },
+    {
+      "id": "semisi-sika-q1287831",
+      "name": "Sēmisi Sika",
+      "sitting": true,
+      "party_id": "democratic-party-of-the-friendly-islands",
+      "caucus": "Democratic Party of the Friendly Islands",
+      "constituency_label": "Tongatapu 2",
+      "chamber": "Legislative Assembly of Tonga",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7449656"
+    },
+    {
+      "id": "alipate-tu-ivanuavou-vaea-q1287831",
       "name": "ʻAlipate Tuʻivanuavou Vaea",
       "sitting": true,
       "party_id": "unknown",
@@ -306,7 +609,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q3594635"
     },
     {
-      "id": "aisake-eke",
+      "id": "etuate-lavulavu-q1287831",
+      "name": "‘Etuate Lavulavu",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "Vavaʻu 16",
+      "chamber": "Legislative Assembly of Tonga",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q8084044"
+    },
+    {
+      "id": "aisake-eke-q1287831",
       "name": "ʻAisake Eke",
       "sitting": true,
       "party_id": "unknown",
@@ -319,7 +635,72 @@
       "roster_url": "http://www.wikidata.org/entity/Q8083950"
     },
     {
-      "id": "sione-siale-fohe",
+      "id": "falisi-tupou-q1287831",
+      "name": "Falisi Tupou",
+      "sitting": true,
+      "party_id": "democratic-party-of-the-friendly-islands",
+      "caucus": "Democratic Party of the Friendly Islands",
+      "constituency_label": "Tongatapu 9",
+      "chamber": "Legislative Assembly of Tonga",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5431894"
+    },
+    {
+      "id": "tevita-lavemaau-q1287831",
+      "name": "Tevita Lavemaau",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "ʻEua 11",
+      "chamber": "Legislative Assembly of Tonga",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q96574147"
+    },
+    {
+      "id": "losaline-ma-asi-q1287831",
+      "name": "Losaline Ma'asi",
+      "sitting": true,
+      "party_id": "democratic-party-of-the-friendly-islands",
+      "caucus": "Democratic Party of the Friendly Islands",
+      "constituency_label": "Tongatapu 5",
+      "chamber": "Legislative Assembly of Tonga",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q55238056"
+    },
+    {
+      "id": "lord-ma-afu-q1287831",
+      "name": "Lord Maʻafu",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "Legislative Assembly of Tonga",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3485136"
+    },
+    {
+      "id": "siosifa-tu-itupou-tu-utafaiva-q1287831",
+      "name": "Siosifa Tuʻitupou Tuʻutafaiva",
+      "sitting": true,
+      "party_id": "democratic-party-of-the-friendly-islands",
+      "caucus": "Democratic Party of the Friendly Islands",
+      "constituency_label": "Tongatapu 6",
+      "chamber": "Legislative Assembly of Tonga",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7525417"
+    },
+    {
+      "id": "sione-siale-fohe-q1287831",
       "name": "Sione Siale Fohe",
       "sitting": true,
       "party_id": "unknown",
@@ -332,7 +713,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q31827675"
     },
     {
-      "id": "paula-piukala",
+      "id": "kaveinga-fa-anunu-q1287831",
+      "name": "Kaveinga Faʻanunu",
+      "sitting": true,
+      "party_id": "democratic-party-of-the-friendly-islands",
+      "caucus": "Democratic Party of the Friendly Islands",
+      "constituency_label": "Tongatapu 9",
+      "chamber": "Legislative Assembly of Tonga",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6379181"
+    },
+    {
+      "id": "paula-piukala-q1287831",
       "name": "Paula Piukala",
       "sitting": true,
       "party_id": "unknown",
@@ -343,6 +737,45 @@
         "en"
       ],
       "roster_url": "http://www.wikidata.org/entity/Q115048302"
+    },
+    {
+      "id": "molitoni-finau-q1287831",
+      "name": "Molitoni Finau",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Legislative Assembly of Tonga",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q80186765"
+    },
+    {
+      "id": "semisi-tapueluelu-q1287831",
+      "name": "Semisi Tapueluelu",
+      "sitting": true,
+      "party_id": "democratic-party-of-the-friendly-islands",
+      "caucus": "Democratic Party of the Friendly Islands",
+      "constituency_label": "Tongatapu 10",
+      "chamber": "Legislative Assembly of Tonga",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7449658"
+    },
+    {
+      "id": "samiu-vaipulu-q1287831",
+      "name": "Samiu Vaipulu",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "Vavaʻu 15",
+      "chamber": "Legislative Assembly of Tonga",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3470867"
     }
   ]
 }

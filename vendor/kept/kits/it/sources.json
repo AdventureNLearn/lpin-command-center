@@ -2,167 +2,54 @@
   "iso2": "it",
   "items": [
     {
-      "url": "https://www.camera.it/",
+      "id": "wikidata",
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1117578",
       "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
+      "basis": "Evidence"
     },
     {
-      "url": "https://dati.camera.it/sparql",
+      "id": "official-q841424",
+      "label": "Chamber of Deputies of Italy",
+      "url": "http://www.camera.it",
       "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
+      "basis": "Evidence"
     },
     {
-      "url": "https://it.wikipedia.org/wiki/Commissioni_permanenti_della_Camera_dei_deputati",
-      "kind": "secondary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
+      "id": "wd-q841424",
+      "label": "Chamber of Deputies of Italy (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q841424",
+      "kind": "index",
+      "basis": "Evidence"
     },
     {
-      "url": "https://www.camera.it/leg19/1269",
+      "id": "official-q633872",
+      "label": "Senate of the Republic",
+      "url": "https://senato.it",
       "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
+      "basis": "Evidence"
     },
     {
-      "url": "https://www.camera.it/leg19/1234",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
+      "id": "wd-q633872",
+      "label": "Senate of the Republic (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q633872",
+      "kind": "index",
+      "basis": "Evidence"
     },
     {
-      "url": "https://www.anticorruzione.it/",
+      "id": "official-q1117578",
+      "label": "Italian Parliament",
+      "url": "https://www.parlamento.it/",
       "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
+      "basis": "Evidence"
     },
     {
-      "url": "https://www.anticorruzione.it/-/news.31.07.26.del.295.2026",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.parlamento.it/1055",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.parlamento.it/1067",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/elenco.asp?Legislatura=XIX",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.camera.it/leg19/410",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.camera.it/leg19/410?idSeduta=4&tipo=stenografico",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.camera.it/leg19/410?idSeduta=13&tipo=stenografico",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.camera.it/leg19/410?idSeduta=110&tipo=stenografico",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.camera.it/leg19/410?idSeduta=60&tipo=stenografico",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.camera.it/leg19/410?idSeduta=703&tipo=stenografico",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.camera.it/leg19/1431",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.camera.it/deputati/elenco",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://dati.camera.it/",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://dati.camera.it/dataset/deputati-della-xix-legislatura",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://dati.camera.it/ocd-rappresentazione-semantica-e-documentazione",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.camera.it/leg19/148",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.camera.it/leg19/643",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://www.camera.it/leg19/491?idLegislatura=19&categoria=008&tipologiaDoc=documento&numero=005",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://documenti.camera.it/apps/CommonServices/getDocumento.ashx?sezione=lavori&idLegislatura=19&tipoDoc=doc&idDocumento=008",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://documenti.camera.it/_dati/leg19/lavori/documentiparlamentari/IndiceETesti/008/005/INTERO.pdf",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
-    },
-    {
-      "url": "https://documenti.camera.it/_dati/leg19/lavori/documentiparlamentari/IndiceETesti/008/006/INTERO.pdf",
-      "kind": "primary",
-      "basis": "Evidence",
-      "retrieved": "2026-08-20"
+      "id": "wd-q1117578",
+      "label": "Italian Parliament (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1117578",
+      "kind": "index",
+      "basis": "Evidence"
     }
   ],
-  "retrieved": "2026-08-20"
+  "incomplete": false
 }

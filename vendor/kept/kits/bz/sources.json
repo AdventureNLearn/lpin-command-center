@@ -3,8 +3,53 @@
   "items": [
     {
       "id": "wikidata",
-      "label": "Wikidata sitting members",
-      "url": "https://www.wikidata.org/wiki/Q1965042"
+      "label": "Wikidata legislature",
+      "url": "https://www.wikidata.org/wiki/Q1965042",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q827805",
+      "label": "House of Representatives",
+      "url": "https://www.nationalassembly.gov.bz/house-of-representatives/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q827805",
+      "label": "House of Representatives (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q827805",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q1965042",
+      "label": "National Assembly",
+      "url": "http://www.nationalassembly.gov.bz/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q1965042",
+      "label": "National Assembly (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q1965042",
+      "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-q827490",
+      "label": "Senate of Belize",
+      "url": "https://www.nationalassembly.gov.bz/senate/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "wd-q827490",
+      "label": "Senate of Belize (Wikidata)",
+      "url": "https://www.wikidata.org/wiki/Q827490",
+      "kind": "index",
+      "basis": "Evidence"
     }
-  ]
+  ],
+  "incomplete": false
 }

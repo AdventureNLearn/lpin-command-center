@@ -1,0 +1,59 @@
+{
+  "iso2": "tj",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q863",
+  "bodies": [
+    {
+      "qid": "Q9390763",
+      "label": "Assembly of Representatives",
+      "seats": 63,
+      "web": "https://parlament.tj/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q19921131",
+      "label": "National Assembly of Tajikistan",
+      "seats": 33,
+      "web": "http://majmilli.tj",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q2011165",
+      "label": "Supreme Assembly",
+      "seats": 97,
+      "web": "https://parlament.tj/",
+      "kind": "parliament"
+    }
+  ],
+  "houses": [
+    "Assembly of Representatives",
+    "National Assembly of Tajikistan"
+  ],
+  "seats": 193,
+  "items": [
+    {
+      "id": "Q9390763",
+      "name": "Assembly of Representatives",
+      "kind": "chamber",
+      "seats": 63,
+      "url": "https://parlament.tj/"
+    },
+    {
+      "id": "Q19921131",
+      "name": "National Assembly of Tajikistan",
+      "kind": "chamber",
+      "seats": 33,
+      "url": "http://majmilli.tj"
+    },
+    {
+      "id": "Q2011165",
+      "name": "Supreme Assembly",
+      "kind": "parliament",
+      "seats": 97,
+      "url": "https://parlament.tj/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

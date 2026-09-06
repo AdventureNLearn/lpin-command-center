@@ -1,0 +1,59 @@
+{
+  "iso2": "cm",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q1009",
+  "bodies": [
+    {
+      "qid": "Q3510836",
+      "label": "Senate of Cameroon",
+      "seats": 100,
+      "web": "https://senat.cm/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q25039919",
+      "label": "Parliament of Cameroon",
+      "seats": 0,
+      "web": "",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q1634099",
+      "label": "National Assembly of Cameroon",
+      "seats": 180,
+      "web": "https://www.assnat.cm/",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Senate of Cameroon",
+    "National Assembly of Cameroon"
+  ],
+  "seats": 280,
+  "items": [
+    {
+      "id": "Q3510836",
+      "name": "Senate of Cameroon",
+      "kind": "chamber",
+      "seats": 100,
+      "url": "https://senat.cm/"
+    },
+    {
+      "id": "Q25039919",
+      "name": "Parliament of Cameroon",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q25039919"
+    },
+    {
+      "id": "Q1634099",
+      "name": "National Assembly of Cameroon",
+      "kind": "chamber",
+      "seats": 180,
+      "url": "https://www.assnat.cm/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

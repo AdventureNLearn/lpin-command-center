@@ -1,4 +1,5007 @@
 {
-  "iso2": "xx",
-  "items": []
+  "iso2": "th",
+  "sitting": true,
+  "source_url": "https://www.wikidata.org/wiki/Q1368318",
+  "retrieved": "2026-09-06",
+  "incomplete": true,
+  "claimed_seats": 1150,
+  "chambers": [
+    "National Assembly of Thailand",
+    "Senate of Thailand",
+    "House of Representatives of Thailand"
+  ],
+  "items": [
+    {
+      "id": "chuan-leekpai-q1368318",
+      "name": "Chuan Leekpai",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q464301"
+    },
+    {
+      "id": "wan-muhammad-noor-matha-q1368318",
+      "name": "Wan Muhammad Noor Matha",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2547790"
+    },
+    {
+      "id": "jarubut-ruangsuwan-q1368318",
+      "name": "Jarubut Ruangsuwan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16138780"
+    },
+    {
+      "id": "suwannee-sirivejchapun-q1368318",
+      "name": "Suwannee Sirivejchapun",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "National Assembly of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116977319"
+    },
+    {
+      "id": "pokin-palakul-q1368318",
+      "name": "Pokin Palakul",
+      "sitting": true,
+      "party_id": "thai-rak-thai-party",
+      "caucus": "Thai Rak Thai Party",
+      "constituency_label": "",
+      "chamber": "National Assembly of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16141144"
+    },
+    {
+      "id": "weerasak-kowsurat-q1699171",
+      "name": "Weerasak Kowsurat",
+      "sitting": true,
+      "party_id": "thai-nation-party",
+      "caucus": "Thai Nation Party",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13021294"
+    },
+    {
+      "id": "ruangkrai-leekitwattana-q1699171",
+      "name": "Ruangkrai Leekitwattana",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13025742"
+    },
+    {
+      "id": "kranarong-jantik-q1699171",
+      "name": "Kranarong Jantik",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13012693"
+    },
+    {
+      "id": "kamnoon-sidhisamarn-q1699171",
+      "name": "Kamnoon Sidhisamarn",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13013857"
+    },
+    {
+      "id": "chakthip-chaijinda-q1699171",
+      "name": "Chakthip Chaijinda",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13014051"
+    },
+    {
+      "id": "chodchoy-sophonpanich-q1699171",
+      "name": "Chodchoy Sophonpanich",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13014328"
+    },
+    {
+      "id": "chib-jitniyom-q1699171",
+      "name": "Chib Jitniyom",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13014467"
+    },
+    {
+      "id": "narong-yuthawong-q1699171",
+      "name": "Narong Yuthawong",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13014715"
+    },
+    {
+      "id": "thanasak-patimaprakorn-q1699171",
+      "name": "Thanasak Patimaprakorn",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13015772"
+    },
+    {
+      "id": "thanu-kulchon-q1699171",
+      "name": "Thanu Kulchon",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13015797"
+    },
+    {
+      "id": "thawatchai-samutsakhon-q1699171",
+      "name": "Thawatchai Samutsakhon",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13015820"
+    },
+    {
+      "id": "prasopsuk-bundech-q1699171",
+      "name": "Prasopsuk Bundech",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13016641"
+    },
+    {
+      "id": "piyaphan-nimmanhaemin-q1699171",
+      "name": "Piyaphan Nimmanhaemin",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13016947"
+    },
+    {
+      "id": "phanit-nititanprapas-q1699171",
+      "name": "Phanit Nititanprapas",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13017067"
+    },
+    {
+      "id": "withaya-piwpong-q1699171",
+      "name": "Withaya Piwpong",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13021063"
+    },
+    {
+      "id": "somjed-bunthanom-q1699171",
+      "name": "Somjed Bunthanom",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13022217"
+    },
+    {
+      "id": "sunthorn-saikwan-q1699171",
+      "name": "Sunthorn Saikwan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13022852"
+    },
+    {
+      "id": "adul-saengsingkaew-q1699171",
+      "name": "Adul Saengsingkaew",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13023582"
+    },
+    {
+      "id": "apirat-kongsompong-q1699171",
+      "name": "Apirat Kongsompong",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13023665"
+    },
+    {
+      "id": "pornthip-rojanasunand-q1699171",
+      "name": "Pornthip Rojanasunand",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2383289"
+    },
+    {
+      "id": "somchai-sawaengkarn-q1699171",
+      "name": "Somchai Sawaengkarn",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13022036"
+    },
+    {
+      "id": "charnwit-polcheewin-q1699171",
+      "name": "Charnwit Polcheewin",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q379524"
+    },
+    {
+      "id": "prajin-jantong-q1699171",
+      "name": "Prajin Jantong",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16138441"
+    },
+    {
+      "id": "narong-pipathanasai-q1699171",
+      "name": "Narong Pipathanasai",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16138679"
+    },
+    {
+      "id": "priyanantana-rangsit-q1699171",
+      "name": "Priyanantana Rangsit",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16139111"
+    },
+    {
+      "id": "sungsidh-piriyarangsan-q1699171",
+      "name": "Sungsidh Piriyarangsan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16139503"
+    },
+    {
+      "id": "boonsrang-niumpradit-q1699171",
+      "name": "Boonsrang Niumpradit",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16141091"
+    },
+    {
+      "id": "surachai-boonlertchai-q1699171",
+      "name": "Surachai Boonlertchai",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16141164"
+    },
+    {
+      "id": "monthian-buntan-q1699171",
+      "name": "Monthian Buntan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16141307"
+    },
+    {
+      "id": "pricha-chan-ocha-q1699171",
+      "name": "Pricha Chan-ocha",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16957022"
+    },
+    {
+      "id": "angkhana-neelaphaijit-q1699171",
+      "name": "Angkhana Neelaphaijit",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4763315"
+    },
+    {
+      "id": "kosit-panpiemras-q1699171",
+      "name": "Kosit Panpiemras",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4918579"
+    },
+    {
+      "id": "kan-thanapakpawin-q1699171",
+      "name": "Kan Thanapakpawin",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20556449"
+    },
+    {
+      "id": "kranjanarat-liwirod-q1699171",
+      "name": "Kranjanarat Liwirod",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20556599"
+    },
+    {
+      "id": "kitti-wasinon-q1699171",
+      "name": "Kitti Wasinon",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20556659"
+    },
+    {
+      "id": "charouck-arirachakarran-q1699171",
+      "name": "Charouck Arirachakarran",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20557081"
+    },
+    {
+      "id": "chatchai-sarikulya-q1699171",
+      "name": "Chatchai Sarikulya",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20557366"
+    },
+    {
+      "id": "treetod-sonjance-q1699171",
+      "name": "Treetod Sonjance",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20558586"
+    },
+    {
+      "id": "boonchai-chokwatana-q1699171",
+      "name": "Boonchai Chokwatana",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20560072"
+    },
+    {
+      "id": "patima-jeerapaet-q1699171",
+      "name": "Patima Jeerapaet",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20560384"
+    },
+    {
+      "id": "sittawat-wongsuwan-q1699171",
+      "name": "Sittawat Wongsuwan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20563882"
+    },
+    {
+      "id": "surasak-karnjanarat-q1699171",
+      "name": "Surasak Karnjanarat",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20564346"
+    },
+    {
+      "id": "apiradi-tantraporn-q1699171",
+      "name": "Apiradi Tantraporn",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20564677"
+    },
+    {
+      "id": "teeradej-meepien-q1699171",
+      "name": "Teeradej Meepien",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6579098"
+    },
+    {
+      "id": "rosana-tositrakul-q1699171",
+      "name": "Rosana Tositrakul",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6584559"
+    },
+    {
+      "id": "naowarat-phongphaibun-q1699171",
+      "name": "Naowarat Phongphaibūn",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6900753"
+    },
+    {
+      "id": "surapong-suwana-adth-q1699171",
+      "name": "Surapong Suwana-adth",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28058514"
+    },
+    {
+      "id": "seree-suwanphanon-q1699171",
+      "name": "Seree Suwanphanon",
+      "sitting": true,
+      "party_id": "civil-peace-party",
+      "caucus": "Civil Peace Party",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16305067"
+    },
+    {
+      "id": "mana-mahasuverachai-q1699171",
+      "name": "Mana Mahasuverachai",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16138528"
+    },
+    {
+      "id": "sorachat-wish-suwanprom-q1699171",
+      "name": "Sorachat Wish Suwanprom",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16139110"
+    },
+    {
+      "id": "phanu-uthairat-q1699171",
+      "name": "Phanu Uthairat",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13018466"
+    },
+    {
+      "id": "nophadol-in-na-q1699171",
+      "name": "Nophadol  In-na",
+      "sitting": true,
+      "party_id": "thai-rak-thai-party",
+      "caucus": "Thai Rak Thai Party",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16139156"
+    },
+    {
+      "id": "phra-manuphanwimonsat-chom-chamonman-q1699171",
+      "name": "Phra Manuphanwimonsat (Chom Chamonman)",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20557488"
+    },
+    {
+      "id": "nikom-wairatpanij-q1699171",
+      "name": "Nikom Wairatpanij",
+      "sitting": true,
+      "party_id": "thai-raksa-chart-party",
+      "caucus": "Thai Raksa Chart Party",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13460548"
+    },
+    {
+      "id": "kraisak-choonhavan-q1699171",
+      "name": "Kraisak Choonhavan",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "Nakhon Ratchasima",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4925793"
+    },
+    {
+      "id": "thinapan-nakata-q1699171",
+      "name": "Thinapan Nakata",
+      "sitting": true,
+      "party_id": "thai-nation-party",
+      "caucus": "Thai Nation Party",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16141165"
+    },
+    {
+      "id": "paiboon-nititawan-q1699171",
+      "name": "Paiboon Nititawan",
+      "sitting": true,
+      "party_id": "palang-pracharath-party",
+      "caucus": "Palang Pracharath Party",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q25541442"
+    },
+    {
+      "id": "bunsong-noisophon-q1699171",
+      "name": "Bunsong Noisophon",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20560170"
+    },
+    {
+      "id": "pornpetch-wichitcholchai-q1699171",
+      "name": "Pornpetch Wichitcholchai",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20561068"
+    },
+    {
+      "id": "suwaphan-tanyuvardhana-q1699171",
+      "name": "Suwaphan Tanyuvardhana",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20564369"
+    },
+    {
+      "id": "premsak-piayura-q1699171",
+      "name": "Premsak Piayura",
+      "sitting": true,
+      "party_id": "thai-rak-thai-party",
+      "caucus": "Thai Rak Thai Party",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13025515"
+    },
+    {
+      "id": "pisut-subvijittra-q1699171",
+      "name": "Pisut Subvijittra",
+      "sitting": true,
+      "party_id": "matubhum-party",
+      "caucus": "Matubhum Party",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13018240"
+    },
+    {
+      "id": "phin-choonhavan-q1699171",
+      "name": "Phin Choonhavan",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q556635"
+    },
+    {
+      "id": "songwit-noonphukdi-q1699171",
+      "name": "Songwit Noonphukdi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q123011659"
+    },
+    {
+      "id": "manat-wongwat-q1699171",
+      "name": "Manat Wongwat",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q85995064"
+    },
+    {
+      "id": "torsak-sukvimol-q1699171",
+      "name": "Torsak Sukvimol",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125018824"
+    },
+    {
+      "id": "suchat-ausaha-q1699171",
+      "name": "Suchat Ausaha",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q133931011"
+    },
+    {
+      "id": "punpakdee-pattanakul-q1699171",
+      "name": "Punpakdee Pattanakul",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q130221078"
+    },
+    {
+      "id": "adung-phan-iam-q1699171",
+      "name": "Adung Phan-iam",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q130494455"
+    },
+    {
+      "id": "keskamol-pleansamai-q1699171",
+      "name": "Keskamol Pleansamai",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q130596446"
+    },
+    {
+      "id": "damrongsak-kittiprapas-q1699171",
+      "name": "Damrongsak Kittiprapas",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q134112679"
+    },
+    {
+      "id": "suwat-chaengyotsuk-q1699171",
+      "name": "Suwat Chaengyotsuk",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q97728614"
+    },
+    {
+      "id": "montian-songpracha-q1699171",
+      "name": "Montian Songpracha",
+      "sitting": true,
+      "party_id": "palang-pracharath-party",
+      "caucus": "Palang Pracharath Party",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q134614430"
+    },
+    {
+      "id": "amnat-sonimsat-q1699171",
+      "name": "Amnat Sonimsat",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q134029220"
+    },
+    {
+      "id": "sinsin-phakdi-q1699171",
+      "name": "Sinsin Phakdi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28058515"
+    },
+    {
+      "id": "wirasak-futrakul-q1699171",
+      "name": "Wirasak Futrakul",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28058551"
+    },
+    {
+      "id": "verasak-vichitsangsri-q1699171",
+      "name": "Verasak Vichitsangsri",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q132672148"
+    },
+    {
+      "id": "nisdan-wechyanon-q1699171",
+      "name": "Nisdan Wechyanon",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q31350959"
+    },
+    {
+      "id": "bunya-leelad-q1699171",
+      "name": "Bunya Leelad",
+      "sitting": true,
+      "party_id": "prachachart-party",
+      "caucus": "Prachachart Party",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q134466097"
+    },
+    {
+      "id": "nantana-nantavaropas-q1699171",
+      "name": "Nantana Nantavaropas",
+      "sitting": true,
+      "party_id": "thai-citizens-party",
+      "caucus": "Thai Citizens' Party",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q134517902"
+    },
+    {
+      "id": "anusad-suwanmongkol-q1699171",
+      "name": "Anusad Suwanmongkol",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57628787"
+    },
+    {
+      "id": "aud-beangbon-q1699171",
+      "name": "Aud Beangbon",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57631504"
+    },
+    {
+      "id": "tawip-nedniyum-q1699171",
+      "name": "Tawip Nedniyum",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57631425"
+    },
+    {
+      "id": "lesrid-wedsawan-q1699171",
+      "name": "Lesrid Wedsawan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57665019"
+    },
+    {
+      "id": "pallop-tamisad-q1699171",
+      "name": "Pallop Tamisad",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57665677"
+    },
+    {
+      "id": "audumchai-tammasadrorach-q1699171",
+      "name": "Audumchai Tammasadrorach",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58018930"
+    },
+    {
+      "id": "sakon-sadjanid-q1699171",
+      "name": "Sakon Sadjanid",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58020047"
+    },
+    {
+      "id": "jirapong-wanrat-q1699171",
+      "name": "Jirapong Wanrat",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58021058"
+    },
+    {
+      "id": "chumnum-ajawong-q1699171",
+      "name": "Chumnum Ajawong",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58090453"
+    },
+    {
+      "id": "thanee-aoilaaed-q1699171",
+      "name": "Thanee Aoilaaed",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58097291"
+    },
+    {
+      "id": "akanisak-hmunsawat-q1699171",
+      "name": "Akanisak Hmunsawat",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58109211"
+    },
+    {
+      "id": "noppadol-chokrada-q1699171",
+      "name": "Noppadol Chokrada",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58114347"
+    },
+    {
+      "id": "narongphan-jitkaewthae-q1699171",
+      "name": "Narongphan Jitkaewthae",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58114781"
+    },
+    {
+      "id": "tuang-auntachai-q1699171",
+      "name": "Tuang Auntachai",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58115669"
+    },
+    {
+      "id": "jareanchai-srisuwan-q1699171",
+      "name": "Jareanchai Srisuwan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58211841"
+    },
+    {
+      "id": "aumpol-chupratum-q1699171",
+      "name": "Aumpol Chupratum",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58212418"
+    },
+    {
+      "id": "suntonr-khumkomkul-q1699171",
+      "name": "Suntonr Khumkomkul",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58212789"
+    },
+    {
+      "id": "wanlop-tangkananurak-q1699171",
+      "name": "Wanlop Tangkananurak",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58213091"
+    },
+    {
+      "id": "sakchai-thanapunsthit-q1699171",
+      "name": "Sakchai Thanapunsthit",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58213358"
+    },
+    {
+      "id": "dannai-mechuwad-q1699171",
+      "name": "Dannai Mechuwad",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58374665"
+    },
+    {
+      "id": "pokod-bumnak-q1699171",
+      "name": "Pokod Bumnak",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58374627"
+    },
+    {
+      "id": "yodyud-bunyatikran-q1699171",
+      "name": "Yodyud Bunyatikran",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58375045"
+    },
+    {
+      "id": "chaiyapruk-didyasarin-q1699171",
+      "name": "Chaiyapruk Didyasarin",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q61118121"
+    },
+    {
+      "id": "luechai-rutdit-q1699171",
+      "name": "Luechai Rutdit",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q61118099"
+    },
+    {
+      "id": "pornpipat-benyasri-q1699171",
+      "name": "Pornpipat Benyasri",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q61118122"
+    },
+    {
+      "id": "jeerasak-chumprasop-q1699171",
+      "name": "Jeerasak Chumprasop",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q65281189"
+    },
+    {
+      "id": "wiran-chansadkosol-q1699171",
+      "name": "Wiran Chansadkosol",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q65280459"
+    },
+    {
+      "id": "chalermpol-srisawat-q1699171",
+      "name": "Chalermpol Srisawat",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105428236"
+    },
+    {
+      "id": "airbull-suttiwan-q1699171",
+      "name": "Airbull Suttiwan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105428802"
+    },
+    {
+      "id": "chatchai-sriworakan-q1699171",
+      "name": "Chatchai Sriworakan",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105441240"
+    },
+    {
+      "id": "teerakiat-jaroensettasin-q1699171",
+      "name": "Teerakiat Jaroensettasin",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105697817"
+    },
+    {
+      "id": "singsuk-singpai-q1699171",
+      "name": "Singsuk Singpai",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q65280497"
+    },
+    {
+      "id": "mongkol-surasajja-q1699171",
+      "name": "Mongkol Surasajja",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q127699160"
+    },
+    {
+      "id": "kriangkrai-srirak-q1699171",
+      "name": "Kriangkrai Srirak",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q127700309"
+    },
+    {
+      "id": "napadej-dhupatemiya-q1699171",
+      "name": "Napadej Dhupatemiya",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108888124"
+    },
+    {
+      "id": "somprasong-nilsamai-q1699171",
+      "name": "Somprasong Nilsamai",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108889158"
+    },
+    {
+      "id": "alongkorn-wannarot-q1699171",
+      "name": "Alongkorn Wannarot",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q114309972"
+    },
+    {
+      "id": "choengchai-chomchoengpaet-q1699171",
+      "name": "Choengchai Chomchoengpaet",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q114311291"
+    },
+    {
+      "id": "upakit-pachariyangkun-q1699171",
+      "name": "Upakit Pachariyangkun",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116764301"
+    },
+    {
+      "id": "teerasak-aranpitak-q1699171",
+      "name": "Teerasak Aranpitak",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q140545415"
+    },
+    {
+      "id": "wuttipong-pongsuwan-rtn-q1699171",
+      "name": "Wuttipong pongsuwan RTN",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q140545864"
+    },
+    {
+      "id": "thanatpong-wongmulalee-q1699171",
+      "name": "Thanatpong Wongmulalee",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q140545871"
+    },
+    {
+      "id": "wirat-thummabumrong-q1699171",
+      "name": "Wirat Thummabumrong",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q140561807"
+    },
+    {
+      "id": "alongkot-vorakee-q1699171",
+      "name": "Alongkot Vorakee",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q140561810"
+    },
+    {
+      "id": "sumitra-jarugamnerdganog-q1699171",
+      "name": "Sumitra Jarugamnerdganog",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q140561808"
+    },
+    {
+      "id": "suwit-jumpanon-q1699171",
+      "name": "Suwit Jumpanon",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q140561809"
+    },
+    {
+      "id": "payap-shinawatra-q914226",
+      "name": "Payap Shinawatra",
+      "sitting": true,
+      "party_id": "people-s-power-party",
+      "caucus": "People's Power Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13018129"
+    },
+    {
+      "id": "prasert-jantararuangtong-q914226",
+      "name": "Prasert Jantararuangtong",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13016703"
+    },
+    {
+      "id": "phumtham-wechayachai-q914226",
+      "name": "Phumtham Wechayachai",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13018661"
+    },
+    {
+      "id": "mingkwan-saengsuwan-q914226",
+      "name": "Mingkwan Saengsuwan",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13019043"
+    },
+    {
+      "id": "pirapan-salirathvibhaga-q914226",
+      "name": "Pirapan Salirathvibhaga",
+      "sitting": true,
+      "party_id": "united-thai-nation-party",
+      "caucus": "United Thai Nation Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13018257"
+    },
+    {
+      "id": "punnawat-boonmee-q914226",
+      "name": "Punnawat Boonmee",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13016876"
+    },
+    {
+      "id": "pornwut-sarasin-q914226",
+      "name": "Pornwut Sarasin",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13017257"
+    },
+    {
+      "id": "prompong-nopparit-q914226",
+      "name": "Prompong Nopparit",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13018032"
+    },
+    {
+      "id": "pisit-leeahtam-q914226",
+      "name": "Pisit Leeahtam",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13018239"
+    },
+    {
+      "id": "puttipong-punnakanta-q914226",
+      "name": "Puttipong Punnakanta",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13018318"
+    },
+    {
+      "id": "marut-bunnag-q914226",
+      "name": "Marut Bunnag",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13018961"
+    },
+    {
+      "id": "yongyuth-tiyapairat-q914226",
+      "name": "Yongyuth Tiyapairat",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13019121"
+    },
+    {
+      "id": "prasart-tanprasert-q914226",
+      "name": "Prasart Tanprasert",
+      "sitting": true,
+      "party_id": "bhumjaithai-party",
+      "caucus": "Bhumjaithai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13016644"
+    },
+    {
+      "id": "yubparach-buain-q914226",
+      "name": "Yubparach Buain",
+      "sitting": true,
+      "party_id": "bhumjaithai-party",
+      "caucus": "Bhumjaithai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13019213"
+    },
+    {
+      "id": "pramuan-rutchanaseri-q914226",
+      "name": "Pramūan Rutčhanasērī",
+      "sitting": true,
+      "party_id": "thai-rak-thai-party",
+      "caucus": "Thai Rak Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13016608"
+    },
+    {
+      "id": "prayuth-mahagitsiri-q914226",
+      "name": "Prayuth Mahagitsiri",
+      "sitting": true,
+      "party_id": "thai-rak-thai-party",
+      "caucus": "Thai Rak Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13016615"
+    },
+    {
+      "id": "phinit-chantharasurin-q914226",
+      "name": "Phinit Chantharasurin",
+      "sitting": true,
+      "party_id": "thai-rak-thai-party",
+      "caucus": "Thai Rak Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13018171"
+    },
+    {
+      "id": "manit-jitchan-klab-q914226",
+      "name": "Manit Jitchan-Klab",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13018941"
+    },
+    {
+      "id": "farida-sulaiman-q914226",
+      "name": "Farida Sulaiman",
+      "sitting": true,
+      "party_id": "thai-rak-thai-party",
+      "caucus": "Thai Rak Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13018358"
+    },
+    {
+      "id": "peerayot-rahimullah-q914226",
+      "name": "Peerayot Rahimullah",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13018254"
+    },
+    {
+      "id": "muk-sulaiman-q914226",
+      "name": "Muk Sulaiman",
+      "sitting": true,
+      "party_id": "thai-rak-thai-party",
+      "caucus": "Thai Rak Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13019058"
+    },
+    {
+      "id": "pattana-sapso-q914226",
+      "name": "Pattana Sapso",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13018095"
+    },
+    {
+      "id": "kasem-s-kasemsri-q914226",
+      "name": "Kasem S. Kasemsri",
+      "sitting": true,
+      "party_id": "nam-thai-party",
+      "caucus": "Nam Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1734893"
+    },
+    {
+      "id": "chumpol-silpa-archa-q914226",
+      "name": "Chumpol Silpa-archa",
+      "sitting": true,
+      "party_id": "chartthaipattana-party",
+      "caucus": "Chartthaipattana Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3560341"
+    },
+    {
+      "id": "payao-poontarat-q914226",
+      "name": "Payao Poontarat",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q260409"
+    },
+    {
+      "id": "weng-tojirakarn-q914226",
+      "name": "Weng Tojirakarn",
+      "sitting": true,
+      "party_id": "communist-party-of-thailand",
+      "caucus": "Communist Party of Thailand",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q257452"
+    },
+    {
+      "id": "sonthi-boonyaratglin-q914226",
+      "name": "Sonthi Boonyaratglin",
+      "sitting": true,
+      "party_id": "matubhum-party",
+      "caucus": "Matubhum Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q334722"
+    },
+    {
+      "id": "jatuporn-prompan-q914226",
+      "name": "Jatuporn Prompan",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1425896"
+    },
+    {
+      "id": "somsak-kiatsuranont-q914226",
+      "name": "Somsak Kiatsuranont",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2300710"
+    },
+    {
+      "id": "chuan-leekpai-q914226",
+      "name": "Chuan Leekpai",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q464301"
+    },
+    {
+      "id": "suchart-chaovisith-q914226",
+      "name": "Suchart Chaovisith",
+      "sitting": true,
+      "party_id": "thai-rak-thai-party",
+      "caucus": "Thai Rak Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q459915"
+    },
+    {
+      "id": "anudith-nakornthap-q914226",
+      "name": "Anudith Nakornthap",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4777735"
+    },
+    {
+      "id": "supachai-panitchpakdi-q914226",
+      "name": "Supachai Panitchpakdi",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q473046"
+    },
+    {
+      "id": "kantathi-suphamongkhon-q914226",
+      "name": "Kantathi Suphamongkhon",
+      "sitting": true,
+      "party_id": "thai-rak-thai-party",
+      "caucus": "Thai Rak Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q714212"
+    },
+    {
+      "id": "newin-chidchob-q914226",
+      "name": "Newin Chidchob",
+      "sitting": true,
+      "party_id": "thai-rak-thai-party",
+      "caucus": "Thai Rak Thai Party",
+      "constituency_label": "Buriram",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4921727"
+    },
+    {
+      "id": "prayoon-pamornmontri-q914226",
+      "name": "Prayoon Pamornmontri",
+      "sitting": true,
+      "party_id": "khana-ratsadon",
+      "caucus": "Khana Ratsadon",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q731982"
+    },
+    {
+      "id": "chai-chidchob-q914226",
+      "name": "Chai Chidchob",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q983417"
+    },
+    {
+      "id": "suthep-thaugsuban-q914226",
+      "name": "Suthep Thaugsuban",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2369912"
+    },
+    {
+      "id": "banyat-bantadtan-q914226",
+      "name": "Banyat Bantadtan",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4857361"
+    },
+    {
+      "id": "pracha-prasobdee-q914226",
+      "name": "Pracha Prasobdee",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q31302"
+    },
+    {
+      "id": "suriya-jungrungreangkit-q914226",
+      "name": "Suriya Jungrungreangkit",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4918594"
+    },
+    {
+      "id": "arisman-pongruangrong-q914226",
+      "name": "Arisman Pongruangrong",
+      "sitting": true,
+      "party_id": "thai-rak-thai-party",
+      "caucus": "Thai Rak Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q613558"
+    },
+    {
+      "id": "apirak-kosayodhin-q914226",
+      "name": "Apirak Kosayodhin",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q618649"
+    },
+    {
+      "id": "paveena-hongsakul-q914226",
+      "name": "Paveena Hongsakul",
+      "sitting": true,
+      "party_id": "thai-rak-thai-party",
+      "caucus": "Thai Rak Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2405299"
+    },
+    {
+      "id": "yingluck-shinawatra-q914226",
+      "name": "Yingluck Shinawatra",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57670"
+    },
+    {
+      "id": "noppadon-pattama-q914226",
+      "name": "Noppadon Pattama",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1526785"
+    },
+    {
+      "id": "thaksin-shinawatra-q914226",
+      "name": "Thaksin Shinawatra",
+      "sitting": true,
+      "party_id": "palang-dharma-party",
+      "caucus": "Palang Dharma Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q164373"
+    },
+    {
+      "id": "kasit-piromya-q914226",
+      "name": "Kasit Piromya",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58288"
+    },
+    {
+      "id": "surapong-tovichakchaikul-q914226",
+      "name": "Surapong Tovichakchaikul",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q117648"
+    },
+    {
+      "id": "phraya-manopakorn-nitithada-q914226",
+      "name": "Phraya Manopakorn Nitithada",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q983541"
+    },
+    {
+      "id": "surin-pitsuwan-q914226",
+      "name": "Surin Pitsuwan",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1301964"
+    },
+    {
+      "id": "wannarat-channukul-q914226",
+      "name": "Wannarat Channukul",
+      "sitting": true,
+      "party_id": "chart-pattana-party",
+      "caucus": "Chart Pattana Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2614286"
+    },
+    {
+      "id": "wan-muhammad-noor-matha-q914226",
+      "name": "Wan Muhammad Noor Matha",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2547790"
+    },
+    {
+      "id": "chaovarat-chanweerakul-q914226",
+      "name": "Chaovarat Chanweerakul",
+      "sitting": true,
+      "party_id": "chart-pattana-party",
+      "caucus": "Chart Pattana Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q529433"
+    },
+    {
+      "id": "somchai-wongsawat-q914226",
+      "name": "Somchai Wongsawat",
+      "sitting": true,
+      "party_id": "people-s-power-party",
+      "caucus": "People's Power Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q298088"
+    },
+    {
+      "id": "abhisit-vejjajiva-q914226",
+      "name": "Abhisit Vejjajiva",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q174267"
+    },
+    {
+      "id": "plodprasop-suraswadi-q914226",
+      "name": "Plodprasop Suraswadi",
+      "sitting": true,
+      "party_id": "people-s-power-party",
+      "caucus": "People's Power Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2099551"
+    },
+    {
+      "id": "chuwit-kamolvisit-q914226",
+      "name": "Chuwit Kamolvisit",
+      "sitting": true,
+      "party_id": "thai-nation-party",
+      "caucus": "Thai Nation Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2677834"
+    },
+    {
+      "id": "chawalit-yongchaiyut-q914226",
+      "name": "Chawalit Yongchaiyut",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1068511"
+    },
+    {
+      "id": "surakiart-sathirathai-q914226",
+      "name": "Surakiart Sathirathai",
+      "sitting": true,
+      "party_id": "thai-rak-thai-party",
+      "caucus": "Thai Rak Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3273322"
+    },
+    {
+      "id": "nitiphumthanat-ming-rujiralai-q914226",
+      "name": "Nitiphumthanat Ming-rujiralai",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3363896"
+    },
+    {
+      "id": "phraya-phahonphonphayuhasena-q914226",
+      "name": "Phraya Phahonphonphayuhasena",
+      "sitting": true,
+      "party_id": "khana-ratsadon",
+      "caucus": "Khana Ratsadon",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q301290"
+    },
+    {
+      "id": "suwat-liptapanlop-q914226",
+      "name": "Suwat Liptapanlop",
+      "sitting": true,
+      "party_id": "chart-pattana-party",
+      "caucus": "Chart Pattana Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1193852"
+    },
+    {
+      "id": "samak-sundaravej-q914226",
+      "name": "Samak Sundaravej",
+      "sitting": true,
+      "party_id": "people-s-power-party",
+      "caucus": "People's Power Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q243623"
+    },
+    {
+      "id": "banhan-sinlapa-acha-q914226",
+      "name": "Banhan Sinlapa-acha",
+      "sitting": true,
+      "party_id": "thai-nation-party",
+      "caucus": "Thai Nation Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q111980"
+    },
+    {
+      "id": "kukrit-pramoj-q914226",
+      "name": "Kukrit Pramoj",
+      "sitting": true,
+      "party_id": "progress-party",
+      "caucus": "Progress Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q959588"
+    },
+    {
+      "id": "phin-choonhavan-q914226",
+      "name": "Phin Choonhavan",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q556635"
+    },
+    {
+      "id": "sukhumbhand-paribatra-q914226",
+      "name": "Sukhumbhand Paribatra",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q437575"
+    },
+    {
+      "id": "virachai-virameteekul-q914226",
+      "name": "Virachai Virameteekul",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q569993"
+    },
+    {
+      "id": "thawan-thamrongnawasawat-q914226",
+      "name": "Thawan Thamrongnawasawat",
+      "sitting": true,
+      "party_id": "khana-ratsadon",
+      "caucus": "Khana Ratsadon",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1373905"
+    },
+    {
+      "id": "chalard-khamchuang-q914226",
+      "name": "Chalard Khamchuang",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13014303"
+    },
+    {
+      "id": "janista-lewchalermwong-q914226",
+      "name": "Janista Lewchalermwong",
+      "sitting": true,
+      "party_id": "thai-nation-party",
+      "caucus": "Thai Nation Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13013990"
+    },
+    {
+      "id": "chonlanan-srikaew-q914226",
+      "name": "Chonlanan Srikaew",
+      "sitting": true,
+      "party_id": "people-s-power-party",
+      "caucus": "People's Power Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13014355"
+    },
+    {
+      "id": "chinnicha-wongsawat-q914226",
+      "name": "Chinnicha Wongsawat",
+      "sitting": true,
+      "party_id": "people-s-power-party",
+      "caucus": "People's Power Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13014463"
+    },
+    {
+      "id": "sugarno-matha-q914226",
+      "name": "Sugarno Matha",
+      "sitting": true,
+      "party_id": "prachachart-party",
+      "caucus": "Prachachart Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13014633"
+    },
+    {
+      "id": "chingchai-mongcoltam-q914226",
+      "name": "Chingchai Mongcoltam",
+      "sitting": true,
+      "party_id": "new-aspiration-party",
+      "caucus": "New Aspiration Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13014445"
+    },
+    {
+      "id": "khattiya-sawatdiphol-q914226",
+      "name": "Khattiya Sawatdiphol",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13013298"
+    },
+    {
+      "id": "charupong-ruangsuwan-q914226",
+      "name": "Charupong Ruangsuwan",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13014171"
+    },
+    {
+      "id": "jarupan-kuldiloke-q914226",
+      "name": "Jarupan Kuldiloke",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13014173"
+    },
+    {
+      "id": "chaikasem-nitisiri-q914226",
+      "name": "Chaikasem Nitisiri",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13014402"
+    },
+    {
+      "id": "chusak-sirinill-q914226",
+      "name": "Chusak Sirinill",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13014511"
+    },
+    {
+      "id": "chuti-krairiksh-q914226",
+      "name": "Chuti Krairiksh",
+      "sitting": true,
+      "party_id": "united-thai-nation-party",
+      "caucus": "United Thai Nation Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13014266"
+    },
+    {
+      "id": "kobsak-sabhavasu-q914226",
+      "name": "Kobsak Sabhavasu",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13012748"
+    },
+    {
+      "id": "kantawan-tantian-khunchayawiwat-q914226",
+      "name": "Kantawan Tantian Khunchayawiwat",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13012768"
+    },
+    {
+      "id": "cha-nin-rungsang-q914226",
+      "name": "Cha-nin Rungsang",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13014335"
+    },
+    {
+      "id": "jurin-laksanavisith-q914226",
+      "name": "Jurin Laksanavisith",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13014272"
+    },
+    {
+      "id": "chavanond-intarakomalyasut-q914226",
+      "name": "Chavanond Intarakomalyasut",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13014364"
+    },
+    {
+      "id": "chinnaworn-boonyakiat-q914226",
+      "name": "Chinnaworn Boonyakiat",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13014465"
+    },
+    {
+      "id": "sudarat-keyuraphan-q914226",
+      "name": "Sudarat Keyuraphan",
+      "sitting": true,
+      "party_id": "palang-dharma-party",
+      "caucus": "Palang Dharma Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4922393"
+    },
+    {
+      "id": "kalaya-sophonpanich-q914226",
+      "name": "Kalaya Sophonpanich",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4924701"
+    },
+    {
+      "id": "kraisak-choonhavan-q914226",
+      "name": "Kraisak Choonhavan",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4925793"
+    },
+    {
+      "id": "boonchu-rojanastien-q914226",
+      "name": "Boonchu Rojanastien",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4943581"
+    },
+    {
+      "id": "thammarak-isaragura-na-ayuthaya-q914226",
+      "name": "Thammarak Isaragura na Ayuthaya",
+      "sitting": true,
+      "party_id": "thai-rak-thai-party",
+      "caucus": "Thai Rak Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4924547"
+    },
+    {
+      "id": "borwornsak-uwanno-q914226",
+      "name": "Borwornsak Uwanno",
+      "sitting": true,
+      "party_id": "thai-rak-thai-party",
+      "caucus": "Thai Rak Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4946869"
+    },
+    {
+      "id": "chalerm-yubamrung-q914226",
+      "name": "Chalerm Yubamrung",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5068708"
+    },
+    {
+      "id": "suwit-khunkitti-q914226",
+      "name": "Suwit Khunkitti",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6136531"
+    },
+    {
+      "id": "chaturon-chaisang-q914226",
+      "name": "Chaturon Chaisang",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5087993"
+    },
+    {
+      "id": "watana-muangsook-q914226",
+      "name": "Watana Muangsook",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6166524"
+    },
+    {
+      "id": "somkid-jatusripitak-q914226",
+      "name": "Somkid Jatusripitak",
+      "sitting": true,
+      "party_id": "thais-united",
+      "caucus": "Thais United",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4922374"
+    },
+    {
+      "id": "chatumongol-sonakul-q914226",
+      "name": "Chatumongol Sonakul",
+      "sitting": true,
+      "party_id": "action-coalition-party",
+      "caucus": "Action Coalition Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5087977"
+    },
+    {
+      "id": "karun-hosakul-q914226",
+      "name": "Karun Hosakul",
+      "sitting": true,
+      "party_id": "thai-nation-party",
+      "caucus": "Thai Nation Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6373655"
+    },
+    {
+      "id": "butr-phantharak-q914226",
+      "name": "Butr Phantharak",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13013332"
+    },
+    {
+      "id": "karoon-sai-ngam-q914226",
+      "name": "Karoon Sai-ngam",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6373253"
+    },
+    {
+      "id": "korn-chatikavanij-q914226",
+      "name": "Korn Chatikavanij",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6407151"
+    },
+    {
+      "id": "titima-chaisang-q914226",
+      "name": "Titima Chaisang",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13014690"
+    },
+    {
+      "id": "chaiwuti-bannawat-q914226",
+      "name": "Chaiwuti Bannawat",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13014403"
+    },
+    {
+      "id": "totsapon-sereerak-q914226",
+      "name": "Totsapon Sereerak",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13015404"
+    },
+    {
+      "id": "boonsong-teriyaphirom-q914226",
+      "name": "Boonsong Teriyaphirom",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13016416"
+    },
+    {
+      "id": "toon-jintavej-q914226",
+      "name": "Toon Jintavej",
+      "sitting": true,
+      "party_id": "thai-nation-party",
+      "caucus": "Thai Nation Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13015173"
+    },
+    {
+      "id": "nikorn-chamnong-q914226",
+      "name": "Nikorn Chamnong",
+      "sitting": true,
+      "party_id": "chartthaipattana-party",
+      "caucus": "Chartthaipattana Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13016055"
+    },
+    {
+      "id": "danuporn-punnakan-q914226",
+      "name": "Danuporn Punnakan",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13014757"
+    },
+    {
+      "id": "thanathorn-lohsunthorn-q914226",
+      "name": "Thanathorn Lohsunthorn",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13015792"
+    },
+    {
+      "id": "la-ong-tiyapairat-q914226",
+      "name": "La-ong Tiyapairat",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13020311"
+    },
+    {
+      "id": "nattakorn-teepsuwan-q914226",
+      "name": "Nattakorn Teepsuwan",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13014726"
+    },
+    {
+      "id": "narit-khamnurak-q914226",
+      "name": "Narit Khamnurak",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13015917"
+    },
+    {
+      "id": "thani-thaugsuban-q914226",
+      "name": "Thani Thaugsuban",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13015838"
+    },
+    {
+      "id": "nipon-bunyamanee-q914226",
+      "name": "Nipon Bunyamanee",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13016082"
+    },
+    {
+      "id": "nipit-intarasombat-q914226",
+      "name": "Nipit Intarasombat",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13016086"
+    },
+    {
+      "id": "boonyod-sookthinthai-q914226",
+      "name": "Boonyod Sookthinthai",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13016413"
+    },
+    {
+      "id": "rachada-dhanadirek-q914226",
+      "name": "Rachada Dhanadirek",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13019362"
+    },
+    {
+      "id": "rangsima-rodratsamee-q914226",
+      "name": "Rangsima Rodratsamee",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13019360"
+    },
+    {
+      "id": "radawan-wongsriwong-q914226",
+      "name": "Radawan Wongsriwong",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13020300"
+    },
+    {
+      "id": "niyom-changpinit-q914226",
+      "name": "Niyom Changpinit",
+      "sitting": true,
+      "party_id": "bhumjaithai-party",
+      "caucus": "Bhumjaithai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13016092"
+    },
+    {
+      "id": "boonjong-vongtrirat-q914226",
+      "name": "Boonjong Vongtrirat",
+      "sitting": true,
+      "party_id": "bhumjaithai-party",
+      "caucus": "Bhumjaithai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13016402"
+    },
+    {
+      "id": "songsak-thongsri-q914226",
+      "name": "Songsak Thongsri",
+      "sitting": true,
+      "party_id": "thai-rak-thai-party",
+      "caucus": "Thai Rak Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13015346"
+    },
+    {
+      "id": "likhit-dhiravegin-q914226",
+      "name": "Likhit Dhiravegin",
+      "sitting": true,
+      "party_id": "thai-rak-thai-party",
+      "caucus": "Thai Rak Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13020386"
+    },
+    {
+      "id": "wacharaphon-prasanrachakit-q914226",
+      "name": "Wacharaphon Prasanrachakit",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13020617"
+    },
+    {
+      "id": "boonthida-somchai-q914226",
+      "name": "Boonthida Somchai",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13016434"
+    },
+    {
+      "id": "nanthana-songpracha-q914226",
+      "name": "Nanthana Songpracha",
+      "sitting": true,
+      "party_id": "bhumjaithai-party",
+      "caucus": "Bhumjaithai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13015973"
+    },
+    {
+      "id": "thira-wongsamut-q914226",
+      "name": "Thira Wongsamut",
+      "sitting": true,
+      "party_id": "chartthaipattana-party",
+      "caucus": "Chartthaipattana Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13015864"
+    },
+    {
+      "id": "norrapol-tuntimontri-q914226",
+      "name": "Norrapol Tuntimontri",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13015913"
+    },
+    {
+      "id": "weerasak-kowsurat-q914226",
+      "name": "Weerasak Kowsurat",
+      "sitting": true,
+      "party_id": "thai-nation-party",
+      "caucus": "Thai Nation Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13021294"
+    },
+    {
+      "id": "suphachai-phosu-q914226",
+      "name": "Suphachai Phosu",
+      "sitting": true,
+      "party_id": "people-s-power-party",
+      "caucus": "People's Power Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13021466"
+    },
+    {
+      "id": "sutin-klungsang-q914226",
+      "name": "Sutin Klungsang",
+      "sitting": true,
+      "party_id": "people-s-power-party",
+      "caucus": "People's Power Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13022844"
+    },
+    {
+      "id": "wanpen-promphat-q914226",
+      "name": "Wanpen Promphat",
+      "sitting": true,
+      "party_id": "palang-pracharath-party",
+      "caucus": "Palang Pracharath Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13020984"
+    },
+    {
+      "id": "suchart-tonjaroen-q914226",
+      "name": "Suchart Tonjaroen",
+      "sitting": true,
+      "party_id": "palang-pracharath-party",
+      "caucus": "Palang Pracharath Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13022821"
+    },
+    {
+      "id": "sukavich-rangsitpol-q914226",
+      "name": "Sukavich Rangsitpol",
+      "sitting": true,
+      "party_id": "new-aspiration-party",
+      "caucus": "New Aspiration Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13022811"
+    },
+    {
+      "id": "vicharn-minchaiynunt-q914226",
+      "name": "Vicharn Minchaiynunt",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13021043"
+    },
+    {
+      "id": "wirode-pao-in-q914226",
+      "name": "Wirode Pao-In",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13021273"
+    },
+    {
+      "id": "somsak-thepsuthin-q914226",
+      "name": "Somsak Thepsuthin",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13022077"
+    },
+    {
+      "id": "surachit-chulpasathon-q914226",
+      "name": "Surachit Chulpasathon",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13022855"
+    },
+    {
+      "id": "wittaya-kaewparadai-q914226",
+      "name": "Wittaya Kaewparadai",
+      "sitting": true,
+      "party_id": "united-thai-nation-party",
+      "caucus": "United Thai Nation Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13021064"
+    },
+    {
+      "id": "seksakol-atthawong-q914226",
+      "name": "Seksakol Atthawong",
+      "sitting": true,
+      "party_id": "united-thai-nation-party",
+      "caucus": "United Thai Nation Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13022880"
+    },
+    {
+      "id": "wutthipong-nambut-q914226",
+      "name": "Wutthipong Nambut",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13021311"
+    },
+    {
+      "id": "sakol-pattayakul-q914226",
+      "name": "Sakol Pattayakul",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13021553"
+    },
+    {
+      "id": "sombat-yasin-q914226",
+      "name": "Sombat Yasin",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13022052"
+    },
+    {
+      "id": "satit-pitutacha-q914226",
+      "name": "Satit Pitutacha",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13022582"
+    },
+    {
+      "id": "sunee-leungvichit-q914226",
+      "name": "Sunee Leungvichit",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13022827"
+    },
+    {
+      "id": "sutham-rahong-q914226",
+      "name": "Sutham Rahong",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13022848"
+    },
+    {
+      "id": "surabot-leekpai-q914226",
+      "name": "Surabot Leekpai",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13022896"
+    },
+    {
+      "id": "suchai-srisuraphon-q914226",
+      "name": "Suchai Srisuraphon",
+      "sitting": true,
+      "party_id": "thai-rak-thai-party",
+      "caucus": "Thai Rak Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13022822"
+    },
+    {
+      "id": "srimuang-charoensiri-q914226",
+      "name": "Srimuang Charoensiri",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13021363"
+    },
+    {
+      "id": "suphol-fongngam-q914226",
+      "name": "Suphol Fongngam",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13022875"
+    },
+    {
+      "id": "supamas-isarabhakdi-q914226",
+      "name": "Supamas Isarabhakdi",
+      "sitting": true,
+      "party_id": "bhumjaithai-party",
+      "caucus": "Bhumjaithai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13021473"
+    },
+    {
+      "id": "sommut-benjalak-q914226",
+      "name": "Sommut Benjalak",
+      "sitting": true,
+      "party_id": "prachachart-party",
+      "caucus": "Prachachart Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13022070"
+    },
+    {
+      "id": "visuth-chainaroon-q914226",
+      "name": "Visuth Chainaroon",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13021254"
+    },
+    {
+      "id": "satit-wongnongtaey-q914226",
+      "name": "Satit Wongnongtaey",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13022551"
+    },
+    {
+      "id": "dej-boonlang-q914226",
+      "name": "Dej Boonlang",
+      "sitting": true,
+      "party_id": "national-development-party",
+      "caucus": "National Development Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13024994"
+    },
+    {
+      "id": "ekkapot-wongnak-q914226",
+      "name": "Ekkapot Wongnak",
+      "sitting": true,
+      "party_id": "thai-nation-party",
+      "caucus": "Thai Nation Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13026005"
+    },
+    {
+      "id": "anurak-chureemas-q914226",
+      "name": "Anurak Chureemas",
+      "sitting": true,
+      "party_id": "chartthaipattana-party",
+      "caucus": "Chartthaipattana Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13023614"
+    },
+    {
+      "id": "apirat-sirinavin-q914226",
+      "name": "Apirat Sirinavin",
+      "sitting": true,
+      "party_id": "ruam-thai-united-party",
+      "caucus": "Ruam Thai United Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13023668"
+    },
+    {
+      "id": "ittharat-chandrasurin-q914226",
+      "name": "Ittharat Chandrasurin",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13024061"
+    },
+    {
+      "id": "yaowapha-wongsawat-q914226",
+      "name": "Yaowapha Wongsawat",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13025715"
+    },
+    {
+      "id": "anucha-burapachaisri-q914226",
+      "name": "Anucha Burapachaisri",
+      "sitting": true,
+      "party_id": "united-thai-nation-party",
+      "caucus": "United Thai Nation Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13023601"
+    },
+    {
+      "id": "anucha-nakasai-q914226",
+      "name": "Anucha Nakasai",
+      "sitting": true,
+      "party_id": "united-thai-nation-party",
+      "caucus": "United Thai Nation Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13023610"
+    },
+    {
+      "id": "aswin-kwanmuang-q914226",
+      "name": "Aswin Kwanmuang",
+      "sitting": true,
+      "party_id": "united-thai-nation-party",
+      "caucus": "United Thai Nation Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13023898"
+    },
+    {
+      "id": "akanat-promphan-q914226",
+      "name": "Akanat Promphan",
+      "sitting": true,
+      "party_id": "united-thai-nation-party",
+      "caucus": "United Thai Nation Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13025997"
+    },
+    {
+      "id": "surin-palarea-q914226",
+      "name": "Surin Palarea",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13022921"
+    },
+    {
+      "id": "ongart-klampaiboon-q914226",
+      "name": "Ongart Klampaiboon",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13023565"
+    },
+    {
+      "id": "anchalee-vanich-thepbutr-q914226",
+      "name": "Anchalee Vanich Thepbutr",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13023833"
+    },
+    {
+      "id": "orapin-chaiyakan-q914226",
+      "name": "Orapin Chaiyakan",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13023698"
+    },
+    {
+      "id": "arkom-engchuan-q914226",
+      "name": "Arkom Engchuan",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13023923"
+    },
+    {
+      "id": "issara-somchai-q914226",
+      "name": "Issara Somchai",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13024114"
+    },
+    {
+      "id": "uthai-pimjaichon-q914226",
+      "name": "Uthai Pimjaichon",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13024206"
+    },
+    {
+      "id": "charoen-khanthawong-q914226",
+      "name": "Charoen Khanthawong",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13024633"
+    },
+    {
+      "id": "jermmas-chuenglertsiri-q914226",
+      "name": "Jermmas Chuenglertsiri",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13024646"
+    },
+    {
+      "id": "thepthai-senapong-q914226",
+      "name": "Thepthai Senapong",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13025150"
+    },
+    {
+      "id": "anek-laothamatas-q914226",
+      "name": "Anek Laothamatas",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13026021"
+    },
+    {
+      "id": "auttaphon-wongprayoon-q914226",
+      "name": "Auttaphon Wongprayoon",
+      "sitting": true,
+      "party_id": "bhumjaithai-party",
+      "caucus": "Bhumjaithai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13023707"
+    },
+    {
+      "id": "surasak-anakkhaphan-q914226",
+      "name": "Surasak Anakkhaphan",
+      "sitting": true,
+      "party_id": "thai-rak-thai-party",
+      "caucus": "Thai Rak Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13022900"
+    },
+    {
+      "id": "chettha-thanajaro-q914226",
+      "name": "Chettha Thanajaro",
+      "sitting": true,
+      "party_id": "thai-rak-thai-party",
+      "caucus": "Thai Rak Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13024916"
+    },
+    {
+      "id": "athirath-rattanaseth-q914226",
+      "name": "Athirath Rattanaseth",
+      "sitting": true,
+      "party_id": "palang-pracharath-party",
+      "caucus": "Palang Pracharath Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13023590"
+    },
+    {
+      "id": "lert-shinawatra-q914226",
+      "name": "Lert Shinawatra",
+      "sitting": true,
+      "party_id": "new-force-party",
+      "caucus": "New Force Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13025801"
+    },
+    {
+      "id": "damrongdit-ditsakun-q914226",
+      "name": "Damrongdit Ditsakun",
+      "sitting": true,
+      "party_id": "thai-rak-thai-party",
+      "caucus": "Thai Rak Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13023180"
+    },
+    {
+      "id": "anwar-salaeh-q914226",
+      "name": "Anwar Salaeh",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13023862"
+    },
+    {
+      "id": "anumat-susaro-q914226",
+      "name": "Anumat Susaro",
+      "sitting": true,
+      "party_id": "prachachart-party",
+      "caucus": "Prachachart Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13023616"
+    },
+    {
+      "id": "ongart-wongprayoon-q914226",
+      "name": "Ongart Wongprayoon",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13023568"
+    },
+    {
+      "id": "premsak-piayura-q914226",
+      "name": "Premsak Piayura",
+      "sitting": true,
+      "party_id": "thai-rak-thai-party",
+      "caucus": "Thai Rak Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13025515"
+    },
+    {
+      "id": "anik-amranand-q914226",
+      "name": "Anik Amranand",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13023965"
+    },
+    {
+      "id": "wattana-asavahame-q914226",
+      "name": "Wattana Asavahame",
+      "sitting": true,
+      "party_id": "mahachon-party",
+      "caucus": "Mahachon Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16138804"
+    },
+    {
+      "id": "pracha-phromnok-q914226",
+      "name": "Pracha Phromnok",
+      "sitting": true,
+      "party_id": "puea-pandin-party",
+      "caucus": "Puea Pandin Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16138454"
+    },
+    {
+      "id": "prapat-pothasuthon-q914226",
+      "name": "Prapat Pothasuthon",
+      "sitting": true,
+      "party_id": "chartthaipattana-party",
+      "caucus": "Chartthaipattana Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16138624"
+    },
+    {
+      "id": "somsak-prissanananthakul-q914226",
+      "name": "Somsak Prissanananthakul",
+      "sitting": true,
+      "party_id": "chartthaipattana-party",
+      "caucus": "Chartthaipattana Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16138936"
+    },
+    {
+      "id": "tanwarin-sukkhapisit-q914226",
+      "name": "Tanwarin Sukkhapisit",
+      "sitting": true,
+      "party_id": "future-forward-party",
+      "caucus": "Future Forward Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16138640"
+    },
+    {
+      "id": "phothipong-lamsam-q914226",
+      "name": "Phothipong Lamsam",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13026804"
+    },
+    {
+      "id": "chaiyot-jirametakorn-q914226",
+      "name": "Chaiyot Jirametakorn",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13027628"
+    },
+    {
+      "id": "waipoj-aphonrat-q914226",
+      "name": "Waipoj Aphonrat",
+      "sitting": true,
+      "party_id": "thai-rak-thai-party",
+      "caucus": "Thai Rak Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13027821"
+    },
+    {
+      "id": "krissana-silak-q914226",
+      "name": "Krissana Silak",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16138946"
+    },
+    {
+      "id": "wiroj-pipitpakdee-q914226",
+      "name": "Wiroj Pipitpakdee",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16138953"
+    },
+    {
+      "id": "somkiat-sonlam-q914226",
+      "name": "Somkiat Sonlam",
+      "sitting": true,
+      "party_id": "puea-pandin-party",
+      "caucus": "Puea Pandin Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16138532"
+    },
+    {
+      "id": "wanlop-thaineua-q914226",
+      "name": "Wanlop Thaineua",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16139002"
+    },
+    {
+      "id": "prayuth-siripanich-q914226",
+      "name": "Prayuth Siripanich",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16138696"
+    },
+    {
+      "id": "kriangyos-sudlabha-q914226",
+      "name": "Kriangyos Sudlabha",
+      "sitting": true,
+      "party_id": "united-thai-nation-party",
+      "caucus": "United Thai Nation Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16138841"
+    },
+    {
+      "id": "samai-charoenchang-q914226",
+      "name": "Samai Charoenchang",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16138995"
+    },
+    {
+      "id": "waemahadi-waedao-q914226",
+      "name": "Waemahadi Waedao",
+      "sitting": true,
+      "party_id": "puea-pandin-party",
+      "caucus": "Puea Pandin Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q13026452"
+    },
+    {
+      "id": "chen-thaugsuban-q914226",
+      "name": "Chen Thaugsuban",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15632622"
+    },
+    {
+      "id": "sirichok-sopha-q914226",
+      "name": "Sirichok Sopha",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15729622"
+    },
+    {
+      "id": "chaiya-phromma-q914226",
+      "name": "Chaiya Phromma",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16138361"
+    },
+    {
+      "id": "yat-hwaidi-q914226",
+      "name": "Yat Hwaidi",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16138543"
+    },
+    {
+      "id": "wan-yubamrung-q914226",
+      "name": "Wan Yubamrung",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16138836"
+    },
+    {
+      "id": "takorn-tantasith-q914226",
+      "name": "Takorn Tantasith",
+      "sitting": true,
+      "party_id": "thai-sang-thai-party",
+      "caucus": "Thai Sang Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16138591"
+    },
+    {
+      "id": "theerarat-samrejvanich-q914226",
+      "name": "Theerarat Samrejvanich",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16138848"
+    },
+    {
+      "id": "somsak-jaikaew-q914226",
+      "name": "Somsak Jaikaew",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16138911"
+    },
+    {
+      "id": "kanok-wongtrangan-q914226",
+      "name": "Kanok Wongtrangan",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16138620"
+    },
+    {
+      "id": "watchara-phetthong-q914226",
+      "name": "Watchara Phetthong",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16138685"
+    },
+    {
+      "id": "chitpas-kridakorn-q914226",
+      "name": "Chitpas Kridakorn",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16138950"
+    },
+    {
+      "id": "presert-pongsuwansiri-q914226",
+      "name": "Presert Pongsuwansiri",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16138842"
+    },
+    {
+      "id": "prawit-wongsuwon-q914226",
+      "name": "Prawit Wongsuwon",
+      "sitting": true,
+      "party_id": "palang-pracharath-party",
+      "caucus": "Palang Pracharath Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15724737"
+    },
+    {
+      "id": "chaiya-sasomsub-q914226",
+      "name": "Chaiya Sasomsub",
+      "sitting": true,
+      "party_id": "thai-rak-thai-party",
+      "caucus": "Thai Rak Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16138364"
+    },
+    {
+      "id": "prawit-rattanapian-q914226",
+      "name": "Prawit Rattanapian",
+      "sitting": true,
+      "party_id": "thai-rak-thai-party",
+      "caucus": "Thai Rak Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16138724"
+    },
+    {
+      "id": "sorawong-thienthong-q914226",
+      "name": "Sorawong Thienthong",
+      "sitting": true,
+      "party_id": "pracharaj-party",
+      "caucus": "Pracharaj Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16139138"
+    },
+    {
+      "id": "kan-thiankeaw-q914226",
+      "name": "Kan Thiankeaw",
+      "sitting": true,
+      "party_id": "people-s-power-party",
+      "caucus": "People's Power Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16139446"
+    },
+    {
+      "id": "wipuchon-pattanapoom-q914226",
+      "name": "Wipuchon Pattanapoom",
+      "sitting": true,
+      "party_id": "thai-raksa-chart-party",
+      "caucus": "Thai Raksa Chart Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16139630"
+    },
+    {
+      "id": "anusorn-wongwan-q914226",
+      "name": "Anusorn Wongwan",
+      "sitting": true,
+      "party_id": "justice-unity-party",
+      "caucus": "Justice Unity Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16139844"
+    },
+    {
+      "id": "wanlop-supriyasin-q914226",
+      "name": "Wanlop Supriyasin",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16139027"
+    },
+    {
+      "id": "anutin-charnvirakul-q914226",
+      "name": "Anutin Charnvirakul",
+      "sitting": true,
+      "party_id": "bhumjaithai-party",
+      "caucus": "Bhumjaithai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16139757"
+    },
+    {
+      "id": "je-arming-totayong-q914226",
+      "name": "Je-arming Totayong",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16139479"
+    },
+    {
+      "id": "phiset-sathirachawan-q914226",
+      "name": "Phiset Sathirachawan",
+      "sitting": true,
+      "party_id": "thai-rak-thai-party",
+      "caucus": "Thai Rak Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16139610"
+    },
+    {
+      "id": "jeua-ratchasri-q914226",
+      "name": "Jeua Ratchasri",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16139695"
+    },
+    {
+      "id": "noppol-leuangthongnara-q914226",
+      "name": "Noppol Leuangthongnara",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16139187"
+    },
+    {
+      "id": "anucha-sasomsub-q914226",
+      "name": "Anucha Sasomsub",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16139749"
+    },
+    {
+      "id": "nophadol-in-na-q914226",
+      "name": "Nophadol  In-na",
+      "sitting": true,
+      "party_id": "thai-rak-thai-party",
+      "caucus": "Thai Rak Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16139156"
+    },
+    {
+      "id": "ongkarn-thepsuthin-q914226",
+      "name": "Ongkarn Thepsuthin",
+      "sitting": true,
+      "party_id": "thai-rak-thai-party",
+      "caucus": "Thai Rak Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16139636"
+    },
+    {
+      "id": "chalong-riewrang-q914226",
+      "name": "Chalong Riewrang",
+      "sitting": true,
+      "party_id": "thai-rak-thai-party",
+      "caucus": "Thai Rak Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16139847"
+    },
+    {
+      "id": "rangsan-maneerat-q914226",
+      "name": "Rangsan Maneerat",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16139680"
+    },
+    {
+      "id": "kanchana-silpa-archa-q914226",
+      "name": "Kanchana Silpa-archa",
+      "sitting": true,
+      "party_id": "thai-nation-party",
+      "caucus": "Thai Nation Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16139248"
+    },
+    {
+      "id": "jirayu-huangsab-q914226",
+      "name": "Jirayu Huangsab",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16139124"
+    },
+    {
+      "id": "phonphum-wiphatphumiprathet-q914226",
+      "name": "Phonphum Wiphatphumiprathet",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16139080"
+    },
+    {
+      "id": "pichet-chuamuangphan-q914226",
+      "name": "Pichet Chuamuangphan",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16139564"
+    },
+    {
+      "id": "visaradee-taechatheerawat-q914226",
+      "name": "Visaradee Taechatheerawat",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16139911"
+    },
+    {
+      "id": "naraphat-keawthong-q914226",
+      "name": "Naraphat Keawthong",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16139326"
+    },
+    {
+      "id": "wichai-tansiri-q914226",
+      "name": "Wichai Tansiri",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16139262"
+    },
+    {
+      "id": "anan-chaisaeng-q914226",
+      "name": "Anan Chaisaeng",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16139658"
+    },
+    {
+      "id": "virat-romyen-q914226",
+      "name": "Virat Romyen",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16139723"
+    },
+    {
+      "id": "naracha-suwit-q914226",
+      "name": "Naracha Suwit",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16139830"
+    },
+    {
+      "id": "julapun-amornvivat-q914226",
+      "name": "Julapun Amornvivat",
+      "sitting": true,
+      "party_id": "pheu-thai-party",
+      "caucus": "Pheu Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16139290"
+    },
+    {
+      "id": "anusorn-thammajai-q914226",
+      "name": "Anusorn Thammajai",
+      "sitting": true,
+      "party_id": "people-s-party-thailand-2024",
+      "caucus": "People's Party (Thailand, 2024)",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16139827"
+    },
+    {
+      "id": "wittaya-thianthong-q914226",
+      "name": "Wittaya Thianthong",
+      "sitting": true,
+      "party_id": "thai-rak-thai-party",
+      "caucus": "Thai Rak Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16139480"
+    },
+    {
+      "id": "purachai-piumsombun-q914226",
+      "name": "Purachai Piumsombun",
+      "sitting": true,
+      "party_id": "thai-rak-thai-party",
+      "caucus": "Thai Rak Thai Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16139796"
+    },
+    {
+      "id": "suchat-ausaha-q914226",
+      "name": "Suchat Ausaha",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q133931011"
+    },
+    {
+      "id": "thara-pitutecha-q914226",
+      "name": "Thara Pitutecha",
+      "sitting": true,
+      "party_id": "democrat-party",
+      "caucus": "Democrat Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q134087815"
+    },
+    {
+      "id": "sirilapas-kongtrakarn-q914226",
+      "name": "Sirilapas Kongtrakarn",
+      "sitting": true,
+      "party_id": "move-forward-party",
+      "caucus": "Move Forward Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16140192"
+    },
+    {
+      "id": "poramet-ngampichet-q914226",
+      "name": "Poramet Ngampichet",
+      "sitting": true,
+      "party_id": "thai-nation-party",
+      "caucus": "Thai Nation Party",
+      "constituency_label": "",
+      "chamber": "House of Representatives of Thailand",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q134306696"
+    }
+  ]
 }

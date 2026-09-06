@@ -3,11 +3,54 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q764201",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 32,
+  "incomplete": true,
+  "claimed_seats": 52,
+  "chambers": [
+    "Member of the Parliament of Vanuatu",
+    "Parliament of Vanuatu"
+  ],
   "items": [
     {
-      "id": "alexis-yolou",
+      "id": "george-wells-q764201",
+      "name": "George Wells",
+      "sitting": true,
+      "party_id": "people-s-progress-party",
+      "caucus": "People's Progress Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Vanuatu",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5546148"
+    },
+    {
+      "id": "eta-rory-q764201",
+      "name": "Eta Rory",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Parliament of Vanuatu",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q109016493"
+    },
+    {
+      "id": "pascal-iauko-q764201",
+      "name": "Pascal Iauko",
+      "sitting": true,
+      "party_id": "iauko-group",
+      "caucus": "Iauko Group",
+      "constituency_label": "",
+      "chamber": "Parliament of Vanuatu",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16231327"
+    },
+    {
+      "id": "alexis-yolou-q764201",
       "name": "Alexis Yolou",
       "sitting": true,
       "party_id": "unknown",
@@ -20,20 +63,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q88485361"
     },
     {
-      "id": "george-wells",
-      "name": "George Wells",
+      "id": "bob-loughman-q764201",
+      "name": "Bob Loughman",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "vanua-aku-pati",
+      "caucus": "Vanua'aku Pati",
       "constituency_label": "",
       "chamber": "Parliament of Vanuatu",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q5546148"
+      "roster_url": "http://www.wikidata.org/entity/Q16190741"
     },
     {
-      "id": "mary-gilu",
+      "id": "maki-simelum-q764201",
+      "name": "Maki Simelum",
+      "sitting": true,
+      "party_id": "vanua-aku-pati",
+      "caucus": "Vanua'aku Pati",
+      "constituency_label": "",
+      "chamber": "Parliament of Vanuatu",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16191275"
+    },
+    {
+      "id": "mary-gilu-q764201",
       "name": "Mary Gilu",
       "sitting": true,
       "party_id": "unknown",
@@ -46,7 +102,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q95378985"
     },
     {
-      "id": "agnes-terei",
+      "id": "agnes-terei-q764201",
       "name": "Agnes Terei",
       "sitting": true,
       "party_id": "unknown",
@@ -59,11 +115,11 @@
       "roster_url": "http://www.wikidata.org/entity/Q95476809"
     },
     {
-      "id": "jean-marie-leye",
+      "id": "jean-marie-leye-q764201",
       "name": "Jean-Marie Léyé",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "union-of-moderate-parties",
+      "caucus": "Union of Moderate Parties",
       "constituency_label": "",
       "chamber": "Parliament of Vanuatu",
       "lang": [
@@ -72,98 +128,33 @@
       "roster_url": "http://www.wikidata.org/entity/Q339580"
     },
     {
-      "id": "patrick-crowby",
-      "name": "Patrick Crowby",
+      "id": "harry-iauko-q764201",
+      "name": "Harry Iauko",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "vanua-aku-pati",
+      "caucus": "Vanua'aku Pati",
       "constituency_label": "",
       "chamber": "Parliament of Vanuatu",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q15427527"
+      "roster_url": "http://www.wikidata.org/entity/Q5669925"
     },
     {
-      "id": "joshua-kalsakau",
-      "name": "Joshua Kalsakau",
+      "id": "david-tosul-q764201",
+      "name": "David Tosul",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "national-united-party",
+      "caucus": "National United Party",
       "constituency_label": "",
       "chamber": "Parliament of Vanuatu",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q3186031"
+      "roster_url": "http://www.wikidata.org/entity/Q17059118"
     },
     {
-      "id": "antoine-wright",
-      "name": "Antoine Wright",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Vanuatu",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q15459326"
-    },
-    {
-      "id": "sethy-regenvanu",
-      "name": "Sethy Regenvanu",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Vanuatu",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16107105"
-    },
-    {
-      "id": "bob-loughman",
-      "name": "Bob Loughman",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Vanuatu",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16190741"
-    },
-    {
-      "id": "maki-simelum",
-      "name": "Maki Simelum",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Vanuatu",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16191275"
-    },
-    {
-      "id": "pascal-iauko",
-      "name": "Pascal Iauko",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Vanuatu",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16231327"
-    },
-    {
-      "id": "thomas-laken",
+      "id": "thomas-laken-q764201",
       "name": "Thomas Laken",
       "sitting": true,
       "party_id": "unknown",
@@ -176,20 +167,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q16731174"
     },
     {
-      "id": "james-wango",
-      "name": "James Wango",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Vanuatu",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q16886429"
-    },
-    {
-      "id": "robert-bohn-sikol",
+      "id": "robert-bohn-sikol-q764201",
       "name": "Robert Bohn Sikol",
       "sitting": true,
       "party_id": "unknown",
@@ -202,20 +180,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q17019552"
     },
     {
-      "id": "david-tosul",
-      "name": "David Tosul",
+      "id": "james-wango-q764201",
+      "name": "James Wango",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "people-s-progress-party",
+      "caucus": "People's Progress Party",
       "constituency_label": "",
       "chamber": "Parliament of Vanuatu",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q17059118"
+      "roster_url": "http://www.wikidata.org/entity/Q16886429"
     },
     {
-      "id": "ralph-regenvanu",
+      "id": "ralph-regenvanu-q764201",
       "name": "Ralph Regenvanu",
       "sitting": true,
       "party_id": "unknown",
@@ -228,111 +206,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q578951"
     },
     {
-      "id": "ephraim-kalsakau",
-      "name": "Ephraim Kalsakau",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Vanuatu",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5382288"
-    },
-    {
-      "id": "harry-iauko",
-      "name": "Harry Iauko",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Vanuatu",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q5669925"
-    },
-    {
-      "id": "havo-molisale",
-      "name": "Havo Molisale",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Vanuatu",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q22963618"
-    },
-    {
-      "id": "ishmael-kalsakau",
-      "name": "Ishmael Kalsakau",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Vanuatu",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q24950945"
-    },
-    {
-      "id": "pakoa-kaltonga",
-      "name": "Pakoa Kaltonga",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Vanuatu",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7126017"
-    },
-    {
-      "id": "paul-telukluk",
-      "name": "Paul Telukluk",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Vanuatu",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7153951"
-    },
-    {
-      "id": "sela-molisa",
-      "name": "Sela Molisa",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Vanuatu",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q7447385"
-    },
-    {
-      "id": "josias-moli",
-      "name": "Josias Moli",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "Parliament of Vanuatu",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q888262"
-    },
-    {
-      "id": "ture-cailo",
+      "id": "ture-cailo-q764201",
       "name": "Ture Cailo",
       "sitting": true,
       "party_id": "unknown",
@@ -345,11 +219,24 @@
       "roster_url": "http://www.wikidata.org/entity/Q7854825"
     },
     {
-      "id": "willie-jimmy",
+      "id": "josias-moli-q764201",
+      "name": "Josias Moli",
+      "sitting": true,
+      "party_id": "union-of-moderate-parties",
+      "caucus": "Union of Moderate Parties",
+      "constituency_label": "",
+      "chamber": "Parliament of Vanuatu",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q888262"
+    },
+    {
+      "id": "willie-jimmy-q764201",
       "name": "Willie Jimmy",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "national-united-party",
+      "caucus": "National United Party",
       "constituency_label": "",
       "chamber": "Parliament of Vanuatu",
       "lang": [
@@ -358,11 +245,102 @@
       "roster_url": "http://www.wikidata.org/entity/Q8021603"
     },
     {
-      "id": "maria-crowby",
+      "id": "joe-natuman-q764201",
+      "name": "Joe Natuman",
+      "sitting": true,
+      "party_id": "vanua-aku-pati",
+      "caucus": "Vanua'aku Pati",
+      "constituency_label": "",
+      "chamber": "Parliament of Vanuatu",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q58222"
+    },
+    {
+      "id": "harry-karaeru-q764201",
+      "name": "Harry Karaeru",
+      "sitting": true,
+      "party_id": "nagriamel",
+      "caucus": "Nagriamel",
+      "constituency_label": "Espiritu Santo",
+      "chamber": "Parliament of Vanuatu",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q121306056"
+    },
+    {
+      "id": "ishmael-kalsakau-q764201",
+      "name": "Ishmael Kalsakau",
+      "sitting": true,
+      "party_id": "union-of-moderate-parties",
+      "caucus": "Union of Moderate Parties",
+      "constituency_label": "",
+      "chamber": "Parliament of Vanuatu",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24950945"
+    },
+    {
+      "id": "patrick-crowby-q764201",
+      "name": "Patrick Crowby",
+      "sitting": true,
+      "party_id": "union-of-moderate-parties",
+      "caucus": "Union of Moderate Parties",
+      "constituency_label": "",
+      "chamber": "Parliament of Vanuatu",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15427527"
+    },
+    {
+      "id": "joshua-kalsakau-q764201",
+      "name": "Joshua Kalsakau",
+      "sitting": true,
+      "party_id": "vanuatu-labour-party",
+      "caucus": "Vanuatu Labour Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Vanuatu",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3186031"
+    },
+    {
+      "id": "antoine-wright-q764201",
+      "name": "Antoine Wright",
+      "sitting": true,
+      "party_id": "union-of-moderate-parties",
+      "caucus": "Union of Moderate Parties",
+      "constituency_label": "",
+      "chamber": "Parliament of Vanuatu",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15459326"
+    },
+    {
+      "id": "pakoa-kaltonga-q764201",
+      "name": "Pakoa Kaltonga",
+      "sitting": true,
+      "party_id": "vanua-aku-pati",
+      "caucus": "Vanua'aku Pati",
+      "constituency_label": "",
+      "chamber": "Parliament of Vanuatu",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7126017"
+    },
+    {
+      "id": "maria-crowby-q764201",
       "name": "Maria Crowby",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "union-of-moderate-parties",
+      "caucus": "Union of Moderate Parties",
       "constituency_label": "",
       "chamber": "Parliament of Vanuatu",
       "lang": [
@@ -371,11 +349,11 @@
       "roster_url": "http://www.wikidata.org/entity/Q50381017"
     },
     {
-      "id": "isabelle-donald",
+      "id": "isabelle-donald-q764201",
       "name": "Isabelle Donald",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "vanua-aku-pati",
+      "caucus": "Vanua'aku Pati",
       "constituency_label": "",
       "chamber": "Parliament of Vanuatu",
       "lang": [
@@ -384,7 +362,20 @@
       "roster_url": "http://www.wikidata.org/entity/Q50389819"
     },
     {
-      "id": "michael-ala",
+      "id": "paul-telukluk-q764201",
+      "name": "Paul Telukluk",
+      "sitting": true,
+      "party_id": "union-of-moderate-parties",
+      "caucus": "Union of Moderate Parties",
+      "constituency_label": "",
+      "chamber": "Parliament of Vanuatu",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7153951"
+    },
+    {
+      "id": "michael-ala-q764201",
       "name": "Michael Ala",
       "sitting": true,
       "party_id": "unknown",
@@ -397,7 +388,7 @@
       "roster_url": "http://www.wikidata.org/entity/Q91026197"
     },
     {
-      "id": "jay-ngwele",
+      "id": "jay-ngwele-q764201",
       "name": "Jay Ngwele",
       "sitting": true,
       "party_id": "unknown",
@@ -410,17 +401,82 @@
       "roster_url": "http://www.wikidata.org/entity/Q104453580"
     },
     {
-      "id": "joe-natuman",
-      "name": "Joe Natuman",
+      "id": "jean-yves-chabod-q764201",
+      "name": "Jean-Yves Chabod",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "green-confederation",
+      "caucus": "Green Confederation",
       "constituency_label": "",
       "chamber": "Parliament of Vanuatu",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q58222"
+      "roster_url": "http://www.wikidata.org/entity/Q124454589"
+    },
+    {
+      "id": "sethy-regenvanu-q764201",
+      "name": "Sethy Regenvanu",
+      "sitting": true,
+      "party_id": "national-united-party",
+      "caucus": "National United Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Vanuatu",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16107105"
+    },
+    {
+      "id": "ephraim-kalsakau-q764201",
+      "name": "Ephraim Kalsakau",
+      "sitting": true,
+      "party_id": "vanuatu-labour-party",
+      "caucus": "Vanuatu Labour Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Vanuatu",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5382288"
+    },
+    {
+      "id": "sela-molisa-q764201",
+      "name": "Sela Molisa",
+      "sitting": true,
+      "party_id": "vanua-aku-pati",
+      "caucus": "Vanua'aku Pati",
+      "constituency_label": "",
+      "chamber": "Parliament of Vanuatu",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7447385"
+    },
+    {
+      "id": "havo-molisale-q764201",
+      "name": "Havo Molisale",
+      "sitting": true,
+      "party_id": "nagriamel",
+      "caucus": "Nagriamel",
+      "constituency_label": "",
+      "chamber": "Parliament of Vanuatu",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q22963618"
+    },
+    {
+      "id": "barak-sope-q764201",
+      "name": "Barak Sopé",
+      "sitting": true,
+      "party_id": "melanesian-progressive-party",
+      "caucus": "Melanesian Progressive Party",
+      "constituency_label": "",
+      "chamber": "Parliament of Vanuatu",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q807232"
     }
   ]
 }

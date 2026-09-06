@@ -1,7 +1,74 @@
 {
   "iso2": "eg",
   "kit": "institutional",
-  "items": [],
   "incomplete": true,
-  "note": ":8103 claimed institutional_kits = 0."
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q79",
+  "bodies": [
+    {
+      "qid": "Q64744338",
+      "label": "Senate of Egypt",
+      "seats": 300,
+      "web": "http://senate.eg/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q679245",
+      "label": "Shura Council",
+      "seats": 270,
+      "web": "",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q2584535",
+      "label": "Parliament of Egypt",
+      "seats": 596,
+      "web": "",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q1501976",
+      "label": "House of Representatives",
+      "seats": 596,
+      "web": "http://www.parliament.gov.eg/",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "Senate of Egypt",
+    "Shura Council",
+    "House of Representatives"
+  ],
+  "seats": 1762,
+  "items": [
+    {
+      "id": "Q64744338",
+      "name": "Senate of Egypt",
+      "kind": "chamber",
+      "seats": 300,
+      "url": "http://senate.eg/"
+    },
+    {
+      "id": "Q679245",
+      "name": "Shura Council",
+      "kind": "chamber",
+      "seats": 270,
+      "url": "https://www.wikidata.org/wiki/Q679245"
+    },
+    {
+      "id": "Q2584535",
+      "name": "Parliament of Egypt",
+      "kind": "parliament",
+      "seats": 596,
+      "url": "https://www.wikidata.org/wiki/Q2584535"
+    },
+    {
+      "id": "Q1501976",
+      "name": "House of Representatives",
+      "kind": "chamber",
+      "seats": 596,
+      "url": "http://www.parliament.gov.eg/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
 }

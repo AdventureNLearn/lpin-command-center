@@ -1,0 +1,59 @@
+{
+  "iso2": "om",
+  "kit": "institutional",
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "country_qid": "https://www.wikidata.org/wiki/Q842",
+  "bodies": [
+    {
+      "qid": "Q2117607",
+      "label": "state council of Oman",
+      "seats": 86,
+      "web": "https://www.statecouncil.om/",
+      "kind": "chamber"
+    },
+    {
+      "qid": "Q5176472",
+      "label": "Council of Oman",
+      "seats": 0,
+      "web": "",
+      "kind": "parliament"
+    },
+    {
+      "qid": "Q818704",
+      "label": "Consultative Assembly of Oman",
+      "seats": 90,
+      "web": "https://www.shura.om/",
+      "kind": "chamber"
+    }
+  ],
+  "houses": [
+    "state council of Oman",
+    "Consultative Assembly of Oman"
+  ],
+  "seats": 176,
+  "items": [
+    {
+      "id": "Q2117607",
+      "name": "state council of Oman",
+      "kind": "chamber",
+      "seats": 86,
+      "url": "https://www.statecouncil.om/"
+    },
+    {
+      "id": "Q5176472",
+      "name": "Council of Oman",
+      "kind": "parliament",
+      "seats": 0,
+      "url": "https://www.wikidata.org/wiki/Q5176472"
+    },
+    {
+      "id": "Q818704",
+      "name": "Consultative Assembly of Oman",
+      "kind": "chamber",
+      "seats": 90,
+      "url": "https://www.shura.om/"
+    }
+  ],
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+}

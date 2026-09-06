@@ -1,9 +1,5332 @@
 {
   "iso2": "co",
-  "sitting": false,
+  "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q1284236",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "claimed_seats": 0,
-  "items": []
+  "claimed_seats": 274,
+  "chambers": [
+    "Senate of Colombia",
+    "Chamber of Representatives of Colombia",
+    "Congress of Colombia"
+  ],
+  "items": [
+    {
+      "id": "sergio-arboleda-q2398781",
+      "name": "Sergio Arboleda",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3479645"
+    },
+    {
+      "id": "viviane-morales-hoyos-q2398781",
+      "name": "Viviane Morales Hoyos",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5394800"
+    },
+    {
+      "id": "esmeralda-arboleda-cadavid-q2398781",
+      "name": "Esmeralda Arboleda Cadavid",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5398525"
+    },
+    {
+      "id": "plinio-olano-q2398781",
+      "name": "Plinio Olano",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5406366"
+    },
+    {
+      "id": "alexandra-moreno-piraquive-q2398781",
+      "name": "Alexandra Moreno Piraquive",
+      "sitting": true,
+      "party_id": "independent-movement-of-absolute-renovation",
+      "caucus": "Independent Movement of Absolute Renovation",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5666275"
+    },
+    {
+      "id": "carlos-ramon-gonzalez-q2398781",
+      "name": "Carlos Ramón González",
+      "sitting": true,
+      "party_id": "green-party",
+      "caucus": "Green Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5751476"
+    },
+    {
+      "id": "yolanda-pulecio-q2398781",
+      "name": "Yolanda Pulecio",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2729105"
+    },
+    {
+      "id": "jorge-enrique-robledo-q2398781",
+      "name": "Jorge Enrique Robledo",
+      "sitting": true,
+      "party_id": "alternative-democratic-pole",
+      "caucus": "Alternative Democratic Pole",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5655676"
+    },
+    {
+      "id": "emma-claudia-castellanos-q2398781",
+      "name": "Emma Claudia Castellanos",
+      "sitting": true,
+      "party_id": "cambio-radical-colombia",
+      "caucus": "Cambio Radical (Colombia)",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q955397"
+    },
+    {
+      "id": "alvaro-uribe-velez-q2398781",
+      "name": "Álvaro Uribe Vélez",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "national constituency",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q187413"
+    },
+    {
+      "id": "roberto-gerlein-echeverria-q2398781",
+      "name": "Roberto Gerlein Echeverría",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5577953"
+    },
+    {
+      "id": "german-zea-hernandez-q2398781",
+      "name": "Germán Zea Hernández",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5552352"
+    },
+    {
+      "id": "bernabe-celis-q2398781",
+      "name": "Bernabé Celis",
+      "sitting": true,
+      "party_id": "cambio-radical-colombia",
+      "caucus": "Cambio Radical (Colombia)",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5726446"
+    },
+    {
+      "id": "carlos-fernando-galan-q2398781",
+      "name": "Carlos Fernando Galán",
+      "sitting": true,
+      "party_id": "cambio-radical-colombia",
+      "caucus": "Cambio Radical (Colombia)",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5750311"
+    },
+    {
+      "id": "alvaro-garcia-romero-q2398781",
+      "name": "Álvaro García Romero",
+      "sitting": true,
+      "party_id": "democratic-colombia-party",
+      "caucus": "Democratic Colombia Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5796535"
+    },
+    {
+      "id": "belisario-betancur-q2398781",
+      "name": "Belisario Betancur",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q345571"
+    },
+    {
+      "id": "alfonso-nunez-lapeira-q2398781",
+      "name": "Alfonso Núñez Lapeira",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5667063"
+    },
+    {
+      "id": "alirio-villamizar-q2398781",
+      "name": "Alirio Villamizar",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5669012"
+    },
+    {
+      "id": "regina-betancourt-de-liska-q2398781",
+      "name": "Regina Betancourt de Liska",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q515148"
+    },
+    {
+      "id": "samuel-moreno-rojas-q2398781",
+      "name": "Samuel Moreno Rojas",
+      "sitting": true,
+      "party_id": "national-popular-alliance",
+      "caucus": "National Popular Alliance",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q981871"
+    },
+    {
+      "id": "jorge-hernando-pedraza-q2398781",
+      "name": "Jorge Hernando Pedraza",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5680585"
+    },
+    {
+      "id": "mario-laserna-pinzon-q2398781",
+      "name": "Mario Laserna Pinzón",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2884345"
+    },
+    {
+      "id": "gustavo-balcazar-monzon-q2398781",
+      "name": "Gustavo Balcázar Monzón",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5621346"
+    },
+    {
+      "id": "antonio-correa-q2398781",
+      "name": "Antonio Correa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5698082"
+    },
+    {
+      "id": "horacio-serpa-uribe-q2398781",
+      "name": "Horacio Serpa Uribe",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "national constituency",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q326405"
+    },
+    {
+      "id": "mario-londono-arcila-q2398781",
+      "name": "Mario Londoño Arcila",
+      "sitting": true,
+      "party_id": "cambio-radical-colombia",
+      "caucus": "Cambio Radical (Colombia)",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5807039"
+    },
+    {
+      "id": "argelino-duran-quintero-q2398781",
+      "name": "Argelino Durán Quintero",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5703591"
+    },
+    {
+      "id": "carlos-antonio-lozada-q2398781",
+      "name": "Carlos Antonio Lozada",
+      "sitting": true,
+      "party_id": "commons",
+      "caucus": "Commons",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5041770"
+    },
+    {
+      "id": "carlos-gaviria-diaz-q2398781",
+      "name": "Carlos Gaviria Díaz",
+      "sitting": true,
+      "party_id": "alternative-democratic-pole",
+      "caucus": "Alternative Democratic Pole",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1042940"
+    },
+    {
+      "id": "enrique-parejo-gonzalez-q2398781",
+      "name": "Enrique Parejo González",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5379785"
+    },
+    {
+      "id": "juan-climaco-ordonez-q2398781",
+      "name": "Juan Clímaco Ordóñez",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5476860"
+    },
+    {
+      "id": "gerardo-molina-q2398781",
+      "name": "Gerardo Molina",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5550290"
+    },
+    {
+      "id": "gina-parody-q2398781",
+      "name": "Gina Parody",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5562912"
+    },
+    {
+      "id": "arturo-char-q2398781",
+      "name": "Arturo Char",
+      "sitting": true,
+      "party_id": "cambio-radical-colombia",
+      "caucus": "Cambio Radical (Colombia)",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4801717"
+    },
+    {
+      "id": "guillermo-torres-barrera-q2398781",
+      "name": "Guillermo Torres Barrera",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5616286"
+    },
+    {
+      "id": "alfonso-clavijo-gonzalez-q2398781",
+      "name": "Alfonso Clavijo González",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5666762"
+    },
+    {
+      "id": "bladimiro-cuello-daza-q2398781",
+      "name": "Bladimiro Cuello Daza",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5729675"
+    },
+    {
+      "id": "claudia-lopez-hernandez-q2398781",
+      "name": "Claudia López Hernández",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5771765"
+    },
+    {
+      "id": "gilberto-alzate-avendano-q2398781",
+      "name": "Gilberto Alzate Avendaño",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q732910"
+    },
+    {
+      "id": "luis-fernando-velasco-q2398781",
+      "name": "Luis Fernando Velasco",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5654865"
+    },
+    {
+      "id": "carlos-eduardo-enriquez-maya-q2398781",
+      "name": "Carlos Eduardo Enríquez Maya",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5750208"
+    },
+    {
+      "id": "carlos-emiro-barriga-q2398781",
+      "name": "Carlos Emiro Barriga",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5750238"
+    },
+    {
+      "id": "carlos-ramiro-chavarro-q2398781",
+      "name": "Carlos Ramiro Chávarro",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5751462"
+    },
+    {
+      "id": "ingrid-betancourt-q2398781",
+      "name": "Ingrid Betancourt",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q152472"
+    },
+    {
+      "id": "alberto-pumarejo-q2398781",
+      "name": "Alberto Pumarejo",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5663451"
+    },
+    {
+      "id": "piedad-cordoba-q2398781",
+      "name": "Piedad Córdoba",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q457148"
+    },
+    {
+      "id": "luis-humberto-gomez-gallo-q2398781",
+      "name": "Luis Humberto Gómez Gallo",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2917507"
+    },
+    {
+      "id": "ciro-ramirez-q2398781",
+      "name": "Ciro Ramírez",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5770253"
+    },
+    {
+      "id": "cecilia-lopez-montano-q2398781",
+      "name": "Cecilia López Montaño",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2879824"
+    },
+    {
+      "id": "amparo-arbelaez-escalante-q2398781",
+      "name": "Amparo Arbeláez Escalante",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5673223"
+    },
+    {
+      "id": "amilkar-acosta-medina-q2398781",
+      "name": "Amilkar Acosta Medina",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5673436"
+    },
+    {
+      "id": "andres-gonzalez-diaz-q2398781",
+      "name": "Andrés González Díaz",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5675808"
+    },
+    {
+      "id": "guillermo-rubio-q2398781",
+      "name": "Guillermo Rubio",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5682967"
+    },
+    {
+      "id": "zulema-jattin-corrales-q2398781",
+      "name": "Zulema Jattin Corrales",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5680220"
+    },
+    {
+      "id": "camilo-sanchez-ortega-q2398781",
+      "name": "Camilo Sánchez Ortega",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5692275"
+    },
+    {
+      "id": "domingo-roncancio-jimenez-q2398781",
+      "name": "Domingo Roncancio Jiménez",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5812893"
+    },
+    {
+      "id": "luis-elmer-arenas-parra-q2398781",
+      "name": "Luis Élmer Arenas Parra",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5687797"
+    },
+    {
+      "id": "arleth-casado-de-lopez-q2398781",
+      "name": "Arleth Casado de López",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5704306"
+    },
+    {
+      "id": "nemesio-camacho-q2398781",
+      "name": "Nemesio Camacho",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q970917"
+    },
+    {
+      "id": "alfonso-lopez-caballero-q2398781",
+      "name": "Alfonso López Caballero",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4722056"
+    },
+    {
+      "id": "aurelio-iragorri-hormaza-q2398781",
+      "name": "Aurelio Iragorri Hormaza",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5711988"
+    },
+    {
+      "id": "alexander-lopez-q2398781",
+      "name": "Alexander López",
+      "sitting": true,
+      "party_id": "alternative-democratic-pole",
+      "caucus": "Alternative Democratic Pole",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5666190"
+    },
+    {
+      "id": "bernardo-miguel-elias-q2398781",
+      "name": "Bernardo Miguel Elías",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5726848"
+    },
+    {
+      "id": "carlos-julio-gonzalez-q2398781",
+      "name": "Carlos Julio González",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5750672"
+    },
+    {
+      "id": "carlos-cardenas-ortiz-q2398781",
+      "name": "Carlos Cárdenas Ortiz",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5750114"
+    },
+    {
+      "id": "carlos-garcia-orjuela-q2398781",
+      "name": "Carlos García Orjuela",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5750450"
+    },
+    {
+      "id": "carlos-alberto-baena-q2398781",
+      "name": "Carlos Alberto Baena",
+      "sitting": true,
+      "party_id": "independent-movement-of-absolute-renovation",
+      "caucus": "Independent Movement of Absolute Renovation",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5041681"
+    },
+    {
+      "id": "ancizar-lopez-lopez-q2398781",
+      "name": "Ancízar López López",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4753277"
+    },
+    {
+      "id": "rodrigo-lara-q2398781",
+      "name": "Rodrigo Lara",
+      "sitting": true,
+      "party_id": "nuevo-liberalismo",
+      "caucus": "Nuevo Liberalismo",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q116059"
+    },
+    {
+      "id": "dieb-maloof-q2398781",
+      "name": "Dieb Maloof",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5805834"
+    },
+    {
+      "id": "edinson-delgado-q2398781",
+      "name": "Edinson Delgado",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5818516"
+    },
+    {
+      "id": "bertha-hernandez-de-ospina-q2398781",
+      "name": "Bertha Hernández de Ospina",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4895490"
+    },
+    {
+      "id": "guillermo-alberto-gonzalez-mosquera-q2398781",
+      "name": "Guillermo Alberto González Mosquera",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1485219"
+    },
+    {
+      "id": "armando-benedetti-q2398781",
+      "name": "Armando Benedetti",
+      "sitting": true,
+      "party_id": "independent-politician",
+      "caucus": "independent politician",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q507869"
+    },
+    {
+      "id": "luis-alfredo-ramos-q2398781",
+      "name": "Luis Alfredo Ramos",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4968512"
+    },
+    {
+      "id": "marco-fidel-suarez-q2398781",
+      "name": "Marco Fidel Suárez",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3045986"
+    },
+    {
+      "id": "alvaro-araujo-castro-q2398781",
+      "name": "Álvaro Araújo Castro",
+      "sitting": true,
+      "party_id": "somos-region-colombia",
+      "caucus": "Somos Región Colombia",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4025161"
+    },
+    {
+      "id": "antonio-navarro-wolff-q2398781",
+      "name": "Antonio Navarro Wolff",
+      "sitting": true,
+      "party_id": "green-party",
+      "caucus": "Green Party",
+      "constituency_label": "national constituency",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4776830"
+    },
+    {
+      "id": "luis-carlos-galan-sarmiento-q2398781",
+      "name": "Luis Carlos Galán Sarmiento",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3046401"
+    },
+    {
+      "id": "jorge-ivan-ospina-q2398781",
+      "name": "Jorge Iván Ospina",
+      "sitting": true,
+      "party_id": "green-party",
+      "caucus": "Green Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2117543"
+    },
+    {
+      "id": "claudia-blum-q2398781",
+      "name": "Claudia Blum",
+      "sitting": true,
+      "party_id": "cambio-radical-colombia",
+      "caucus": "Cambio Radical (Colombia)",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5129134"
+    },
+    {
+      "id": "josefina-valencia-munoz-q2398781",
+      "name": "Josefina Valencia Muñoz",
+      "sitting": true,
+      "party_id": "national-popular-alliance",
+      "caucus": "National Popular Alliance",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q384822"
+    },
+    {
+      "id": "carlos-holguin-mallarino-q2398781",
+      "name": "Carlos Holguín Mallarino",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2579727"
+    },
+    {
+      "id": "camilo-romero-q2398781",
+      "name": "Camilo Romero",
+      "sitting": true,
+      "party_id": "alternative-democratic-pole",
+      "caucus": "Alternative Democratic Pole",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5742191"
+    },
+    {
+      "id": "hernan-andrade-q2398781",
+      "name": "Hernán Andrade",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5802297"
+    },
+    {
+      "id": "jorge-gechem-turbay-q2398781",
+      "name": "Jorge Géchem Turbay",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3183832"
+    },
+    {
+      "id": "ivan-cepeda-q2398781",
+      "name": "Iván Cepeda",
+      "sitting": true,
+      "party_id": "alternative-democratic-pole",
+      "caucus": "Alternative Democratic Pole",
+      "constituency_label": "national constituency",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q524949"
+    },
+    {
+      "id": "luis-eladio-perez-q2398781",
+      "name": "Luis Eladio Pérez",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3266656"
+    },
+    {
+      "id": "rodrigo-hernan-lloreda-caicedo-q2398781",
+      "name": "Rodrigo Hernan Lloreda Caicedo",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4208745"
+    },
+    {
+      "id": "carlos-ferro-q2398781",
+      "name": "Carlos Ferro",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5750340"
+    },
+    {
+      "id": "adriana-gutierrez-q2398781",
+      "name": "Adriana Gutiérrez",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5658343"
+    },
+    {
+      "id": "dilian-francisca-toro-q2398781",
+      "name": "Dilian Francisca Toro",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5276782"
+    },
+    {
+      "id": "juan-lozano-ramirez-q2398781",
+      "name": "Juan Lozano Ramírez",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q542014"
+    },
+    {
+      "id": "fabio-valencia-cossio-q2398781",
+      "name": "Fabio Valencia Cossio",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5427870"
+    },
+    {
+      "id": "fuad-char-q2398781",
+      "name": "Fuad Char",
+      "sitting": true,
+      "party_id": "cambio-radical-colombia",
+      "caucus": "Cambio Radical (Colombia)",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5506888"
+    },
+    {
+      "id": "jose-name-teran-q2398781",
+      "name": "José Name Terán",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6293541"
+    },
+    {
+      "id": "jose-david-name-q2398781",
+      "name": "José David Name",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6292038"
+    },
+    {
+      "id": "julio-cesar-turbay-quintero-q2398781",
+      "name": "Julio César Turbay Quintero",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6309260"
+    },
+    {
+      "id": "jaime-angulo-bossa-q2398781",
+      "name": "Jaime Angulo Bossa",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57521181"
+    },
+    {
+      "id": "carlos-felipe-mejia-mejia-q2398781",
+      "name": "Carlos Felipe Mejía Mejía",
+      "sitting": true,
+      "party_id": "centro-democratico",
+      "caucus": "Centro Democrático",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29204293"
+    },
+    {
+      "id": "julio-roberto-salazar-ferro-q2398781",
+      "name": "Julio Roberto Salazar Ferro",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q77362099"
+    },
+    {
+      "id": "jimmy-chamorro-q2398781",
+      "name": "Jimmy Chamorro",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18170803"
+    },
+    {
+      "id": "sofia-gaviria-q2398781",
+      "name": "Sofia Gaviria",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18201479"
+    },
+    {
+      "id": "mario-fernandez-alcocer-q2398781",
+      "name": "Mario Fernández Alcocer",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18224184"
+    },
+    {
+      "id": "nadya-blel-q2398781",
+      "name": "Nadya Blel",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18417131"
+    },
+    {
+      "id": "nora-garcia-q2398781",
+      "name": "Nora García",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18417274"
+    },
+    {
+      "id": "doris-vega-q2398781",
+      "name": "Doris Vega",
+      "sitting": true,
+      "party_id": "national-integration-party",
+      "caucus": "National Integration Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29122048"
+    },
+    {
+      "id": "jose-alfredo-gnecco-q2398781",
+      "name": "José Alfredo Gnecco",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "national constituency",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20016263"
+    },
+    {
+      "id": "jose-maria-bernal-q2398781",
+      "name": "José María Bernal",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18590618"
+    },
+    {
+      "id": "victoria-sandino-simanca-herrera-q2398781",
+      "name": "Victoria Sandino Simanca Herrera",
+      "sitting": true,
+      "party_id": "commons",
+      "caucus": "Commons",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17057931"
+    },
+    {
+      "id": "david-char-navas-q2398781",
+      "name": "David Char Navas",
+      "sitting": true,
+      "party_id": "cambio-radical-colombia",
+      "caucus": "Cambio Radical (Colombia)",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q8354084"
+    },
+    {
+      "id": "olga-suarez-mira-q2398781",
+      "name": "Olga Suárez Mira",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16301390"
+    },
+    {
+      "id": "rodrigo-marin-bernal-q2398781",
+      "name": "Rodrigo Marín Bernal",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18704453"
+    },
+    {
+      "id": "jaime-jaramillo-arango-q2398781",
+      "name": "Jaime Jaramillo Arango",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q51844245"
+    },
+    {
+      "id": "miguel-jimenez-lopez-q2398781",
+      "name": "Miguel Jiménez López",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q15432725"
+    },
+    {
+      "id": "luis-alfonso-hoyos-q2398781",
+      "name": "Luis Alfonso Hoyos",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16941974"
+    },
+    {
+      "id": "ernesto-vela-angulo-q2398781",
+      "name": "Ernesto Vela Angulo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18419667"
+    },
+    {
+      "id": "edgar-artunduaga-q2398781",
+      "name": "Edgar Artunduaga",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18643822"
+    },
+    {
+      "id": "nidia-marcela-osorio-q2398781",
+      "name": "Nidia Marcela Osorio",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16611807"
+    },
+    {
+      "id": "santa-lopesierra-q2398781",
+      "name": "Santa Lopesierra",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20994998"
+    },
+    {
+      "id": "german-botero-de-los-rios-q2398781",
+      "name": "Germán Botero de los Ríos",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6439237"
+    },
+    {
+      "id": "german-vargas-lleras-q2398781",
+      "name": "Germán Vargas Lleras",
+      "sitting": true,
+      "party_id": "cambio-radical-colombia",
+      "caucus": "Cambio Radical (Colombia)",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q8963948"
+    },
+    {
+      "id": "crispin-villazon-de-armas-q2398781",
+      "name": "Crispín Villazón De Armas",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q23705289"
+    },
+    {
+      "id": "ignacio-velez-y-escobar-q2398781",
+      "name": "Ignacio Vélez y Escobar",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24287051"
+    },
+    {
+      "id": "jose-ignacio-vives-echeverria-q2398781",
+      "name": "José Ignacio Vives Echeverría",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24287049"
+    },
+    {
+      "id": "mario-de-jesus-uribe-escobar-q2398781",
+      "name": "Mario de Jesús Uribe Escobar",
+      "sitting": true,
+      "party_id": "democratic-colombia-party",
+      "caucus": "Democratic Colombia Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6765000"
+    },
+    {
+      "id": "maria-eugenia-rojas-correa-q2398781",
+      "name": "María Eugenia Rojas Correa",
+      "sitting": true,
+      "party_id": "national-popular-alliance",
+      "caucus": "National Popular Alliance",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6782003"
+    },
+    {
+      "id": "alvaro-araujo-noguera-q2398781",
+      "name": "Álvaro Araújo Noguera",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q24960850"
+    },
+    {
+      "id": "parmenio-cuellar-bastidas-q2398781",
+      "name": "Parmenio Cuéllar Bastidas",
+      "sitting": true,
+      "party_id": "alternative-democratic-pole",
+      "caucus": "Alternative Democratic Pole",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q9055686"
+    },
+    {
+      "id": "vera-grabe-q2398781",
+      "name": "Vera Grabe",
+      "sitting": true,
+      "party_id": "19th-of-april-movement",
+      "caucus": "19th of April Movement",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q9092970"
+    },
+    {
+      "id": "liliana-rendon-q2398781",
+      "name": "Liliana Rendón",
+      "sitting": true,
+      "party_id": "centro-democratico",
+      "caucus": "Centro Democrático",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19721968"
+    },
+    {
+      "id": "julio-miguel-guerra-sotto-q2398781",
+      "name": "Julio Miguel Guerra Sotto",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29204100"
+    },
+    {
+      "id": "honorio-miguel-henriquez-pinedo-q2398781",
+      "name": "Honorio Miguel Henríquez Pinedo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q29204228"
+    },
+    {
+      "id": "inti-asprilla-q2398781",
+      "name": "Inti Asprilla",
+      "sitting": true,
+      "party_id": "green-party",
+      "caucus": "Green Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20016901"
+    },
+    {
+      "id": "paloma-valencia-laserna-q2398781",
+      "name": "Paloma Valencia Laserna",
+      "sitting": true,
+      "party_id": "centro-democratico",
+      "caucus": "Centro Democrático",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17364462"
+    },
+    {
+      "id": "juan-luis-castro-cordoba-q2398781",
+      "name": "Juan Luis Castro Córdoba",
+      "sitting": true,
+      "party_id": "green-party",
+      "caucus": "Green Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56825209"
+    },
+    {
+      "id": "nancy-patricia-gutierrez-q2398781",
+      "name": "Nancy Patricia Gutiérrez",
+      "sitting": true,
+      "party_id": "centro-democratico",
+      "caucus": "Centro Democrático",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6962910"
+    },
+    {
+      "id": "marta-lucia-ramirez-q2398781",
+      "name": "Marta Lucía Ramírez",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6774142"
+    },
+    {
+      "id": "juan-manuel-corzo-roman-q2398781",
+      "name": "Juan Manuel Corzo Román",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q9015744"
+    },
+    {
+      "id": "alfredo-ramos-maya-q2398781",
+      "name": "Alfredo Ramos Maya",
+      "sitting": true,
+      "party_id": "centro-democratico",
+      "caucus": "Centro Democrático",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17462492"
+    },
+    {
+      "id": "everth-bustamante-garcia-q2398781",
+      "name": "Everth Bustamante García",
+      "sitting": true,
+      "party_id": "centro-democratico",
+      "caucus": "Centro Democrático",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17462484"
+    },
+    {
+      "id": "ana-mercedes-gomez-q2398781",
+      "name": "Ana Mercedes Gómez",
+      "sitting": true,
+      "party_id": "centro-democratico",
+      "caucus": "Centro Democrático",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17478055"
+    },
+    {
+      "id": "maria-fernanda-cabal-q2398781",
+      "name": "María Fernanda Cabal",
+      "sitting": true,
+      "party_id": "centro-democratico",
+      "caucus": "Centro Democrático",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17477937"
+    },
+    {
+      "id": "ivan-duque-q2398781",
+      "name": "Iván Duque",
+      "sitting": true,
+      "party_id": "centro-democratico",
+      "caucus": "Centro Democrático",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17478000"
+    },
+    {
+      "id": "susana-correa-q2398781",
+      "name": "Susana Correa",
+      "sitting": true,
+      "party_id": "centro-democratico",
+      "caucus": "Centro Democrático",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17477977"
+    },
+    {
+      "id": "ernesto-macias-tovar-q2398781",
+      "name": "Ernesto Macías Tovar",
+      "sitting": true,
+      "party_id": "centro-democratico",
+      "caucus": "Centro Democrático",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17478129"
+    },
+    {
+      "id": "alfredo-rangel-q2398781",
+      "name": "Alfredo Rangel",
+      "sitting": true,
+      "party_id": "centro-democratico",
+      "caucus": "Centro Democrático",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17478235"
+    },
+    {
+      "id": "manuel-uribe-angel-q2398781",
+      "name": "Manuel Uribe Ángel",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6752925"
+    },
+    {
+      "id": "german-varon-q2398781",
+      "name": "Germán Varón",
+      "sitting": true,
+      "party_id": "cambio-radical-colombia",
+      "caucus": "Cambio Radical (Colombia)",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19788623"
+    },
+    {
+      "id": "manuel-enriquez-rosero-q2398781",
+      "name": "Manuel Enríquez Rosero",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6752554"
+    },
+    {
+      "id": "musa-besaile-q2398781",
+      "name": "Musa Besaile",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q16948806"
+    },
+    {
+      "id": "orlando-castaneda-serrano-q2398781",
+      "name": "Orlando Castañeda Serrano",
+      "sitting": true,
+      "party_id": "centro-democratico",
+      "caucus": "Centro Democrático",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17624021"
+    },
+    {
+      "id": "thania-vega-q2398781",
+      "name": "Thania Vega",
+      "sitting": true,
+      "party_id": "centro-democratico",
+      "caucus": "Centro Democrático",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17631347"
+    },
+    {
+      "id": "luis-guillermo-velez-q2398781",
+      "name": "Luis Guillermo Vélez",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q9025120"
+    },
+    {
+      "id": "alvaro-uribe-rueda-q2398781",
+      "name": "Álvaro Uribe Rueda",
+      "sitting": true,
+      "party_id": "movimiento-revolucionario-liberal",
+      "caucus": "Movimiento Revolucionario Liberal",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6172940"
+    },
+    {
+      "id": "feliciano-valencia-medina-q2398781",
+      "name": "Feliciano Valencia Medina",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q50676229"
+    },
+    {
+      "id": "alfonso-uribe-misas-q2398781",
+      "name": "Alfonso Uribe Misas",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q63147123"
+    },
+    {
+      "id": "bernardo-gaitan-mahecha-q2398781",
+      "name": "Bernardo Gaitán Mahecha",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q51055683"
+    },
+    {
+      "id": "pedro-antonio-molina-q2398781",
+      "name": "Pedro Antonio Molina",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17364471"
+    },
+    {
+      "id": "aydee-lizarazo-cubillos-q2398781",
+      "name": "Aydeé Lizarazo Cubillos",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56025892"
+    },
+    {
+      "id": "juan-diego-gomez-q2398781",
+      "name": "Juan Diego Gómez",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17478056"
+    },
+    {
+      "id": "german-dario-hoyos-q2398781",
+      "name": "Germán Darío Hoyos",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17274584"
+    },
+    {
+      "id": "jaime-amin-q2398781",
+      "name": "Jaime Amín",
+      "sitting": true,
+      "party_id": "centro-democratico",
+      "caucus": "Centro Democrático",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17987359"
+    },
+    {
+      "id": "martin-emilio-morales-q2398781",
+      "name": "Martín Emilio Morales",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19788640"
+    },
+    {
+      "id": "william-montes-q2398781",
+      "name": "William Montes",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6167689"
+    },
+    {
+      "id": "oscar-josue-reyes-q2398781",
+      "name": "Óscar Josué Reyes",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6174841"
+    },
+    {
+      "id": "oscar-suarez-mira-q2398781",
+      "name": "Óscar Suárez Mira",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6174953"
+    },
+    {
+      "id": "victor-mosquera-chaux-q2398781",
+      "name": "Víctor Mosquera Chaux",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7944696"
+    },
+    {
+      "id": "agustin-aljure-q2398781",
+      "name": "Agustín Aljure",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q63400183"
+    },
+    {
+      "id": "jonatan-tamayo-perez-q2398781",
+      "name": "Jonatan Tamayo Pérez",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q64348215"
+    },
+    {
+      "id": "mauricio-lizcano-q2398781",
+      "name": "Mauricio Lizcano",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17478114"
+    },
+    {
+      "id": "yolanda-pinto-de-gaviria-q2398781",
+      "name": "Yolanda Pinto de Gaviria",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6170222"
+    },
+    {
+      "id": "alvaro-ashton-q2398781",
+      "name": "Álvaro Ashton",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6172729"
+    },
+    {
+      "id": "daniel-cabrales-q2398781",
+      "name": "Daniel Cabrales",
+      "sitting": true,
+      "party_id": "centro-democratico",
+      "caucus": "Centro Democrático",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18222782"
+    },
+    {
+      "id": "fernando-araujo-rumie-q2398781",
+      "name": "Fernando Araújo Rumie",
+      "sitting": true,
+      "party_id": "centro-democratico",
+      "caucus": "Centro Democrático",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18223204"
+    },
+    {
+      "id": "oscar-ivan-zuluaga-q2398781",
+      "name": "Óscar Iván Zuluaga",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6174833"
+    },
+    {
+      "id": "rosemberg-pabon-q2398781",
+      "name": "Rosemberg Pabón",
+      "sitting": true,
+      "party_id": "citizens-convergence",
+      "caucus": "Citizens' Convergence",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7368453"
+    },
+    {
+      "id": "rodolfo-hernandez-suarez-q2398781",
+      "name": "Rodolfo Hernández Suárez",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q50358616"
+    },
+    {
+      "id": "juan-camilo-restrepo-salazar-q2398781",
+      "name": "Juan Camilo Restrepo Salazar",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6299134"
+    },
+    {
+      "id": "edgar-perea-q2398781",
+      "name": "Édgar Perea",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q8078077"
+    },
+    {
+      "id": "daira-galvis-q2398781",
+      "name": "Daira Galvis",
+      "sitting": true,
+      "party_id": "citizens-convergence",
+      "caucus": "Citizens' Convergence",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6420395"
+    },
+    {
+      "id": "antonio-guerra-de-la-espriella-q2398781",
+      "name": "Antonio Guerra de la Espriella",
+      "sitting": true,
+      "party_id": "cambio-radical-colombia",
+      "caucus": "Cambio Radical (Colombia)",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6386245"
+    },
+    {
+      "id": "rafael-pardo-rueda-q2398781",
+      "name": "Rafael Pardo Rueda",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7282248"
+    },
+    {
+      "id": "guillermo-gaviria-echeverri-q2398781",
+      "name": "Guillermo Gaviria Echeverri",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17994694"
+    },
+    {
+      "id": "ernesto-ramiro-estacio-q2398781",
+      "name": "Ernesto Ramiro Estacio",
+      "sitting": true,
+      "party_id": "indigenous-authorities-of-colombia",
+      "caucus": "Indigenous Authorities of Colombia",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5836985"
+    },
+    {
+      "id": "felix-valera-q2398781",
+      "name": "Félix Valera",
+      "sitting": true,
+      "party_id": "green-party",
+      "caucus": "Green Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5872458"
+    },
+    {
+      "id": "gilma-jimenez-q2398781",
+      "name": "Gilma Jiménez",
+      "sitting": true,
+      "party_id": "green-party",
+      "caucus": "Green Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5879784"
+    },
+    {
+      "id": "sergio-camargo-q2398781",
+      "name": "Sergio Camargo",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6125366"
+    },
+    {
+      "id": "pablo-catatumbo-torres-victoria-q2398781",
+      "name": "Pablo Catatumbo Torres Victoria",
+      "sitting": true,
+      "party_id": "commons",
+      "caucus": "Commons",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6055880"
+    },
+    {
+      "id": "mauricio-ospina-q2398781",
+      "name": "Mauricio Ospina",
+      "sitting": true,
+      "party_id": "green-party",
+      "caucus": "Green Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6007046"
+    },
+    {
+      "id": "jose-obdulio-gaviria-q2398781",
+      "name": "José Obdulio Gaviria",
+      "sitting": true,
+      "party_id": "centro-democratico",
+      "caucus": "Centro Democrático",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5944342"
+    },
+    {
+      "id": "enrique-gomez-montealegre-q2398781",
+      "name": "Enrique Gómez Montealegre",
+      "sitting": true,
+      "party_id": "living-colombia-movement",
+      "caucus": "Living Colombia Movement",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5833403"
+    },
+    {
+      "id": "gloria-ines-ramirez-q2398781",
+      "name": "Gloria Inés Ramírez",
+      "sitting": true,
+      "party_id": "colombian-communist-party",
+      "caucus": "Colombian Communist Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5881263"
+    },
+    {
+      "id": "ivan-moreno-rojas-q2398781",
+      "name": "Iván Moreno Rojas",
+      "sitting": true,
+      "party_id": "alternative-democratic-pole",
+      "caucus": "Alternative Democratic Pole",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5923513"
+    },
+    {
+      "id": "jaime-dussan-q2398781",
+      "name": "Jaime Dussán",
+      "sitting": true,
+      "party_id": "alternative-democratic-pole",
+      "caucus": "Alternative Democratic Pole",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5925011"
+    },
+    {
+      "id": "gabriel-acosta-bendek-q2398781",
+      "name": "Gabriel Acosta Bendek",
+      "sitting": true,
+      "party_id": "citizens-convergence",
+      "caucus": "Citizens' Convergence",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5873165"
+    },
+    {
+      "id": "jesus-bernal-amorocho-q2398781",
+      "name": "Jesús Bernal Amorocho",
+      "sitting": true,
+      "party_id": "alternative-democratic-pole",
+      "caucus": "Alternative Democratic Pole",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5929912"
+    },
+    {
+      "id": "jorge-eliecer-guevara-q2398781",
+      "name": "Jorge Eliécer Guevara",
+      "sitting": true,
+      "party_id": "alternative-democratic-pole",
+      "caucus": "Alternative Democratic Pole",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5934949"
+    },
+    {
+      "id": "manuel-antonio-virguez-q2398781",
+      "name": "Manuel Antonio Virgüez",
+      "sitting": true,
+      "party_id": "independent-movement-of-absolute-renovation",
+      "caucus": "Independent Movement of Absolute Renovation",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5992228"
+    },
+    {
+      "id": "jesus-pinacue-achicue-q2398781",
+      "name": "Jesús Piñacué Achicué",
+      "sitting": true,
+      "party_id": "indigenous-social-alliance-movement",
+      "caucus": "Indigenous Social Alliance Movement",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5930534"
+    },
+    {
+      "id": "habib-merheg-q2398781",
+      "name": "Habib Merheg",
+      "sitting": true,
+      "party_id": "living-colombia-movement",
+      "caucus": "Living Colombia Movement",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5890905"
+    },
+    {
+      "id": "guillermo-chaves-chaves-q2398781",
+      "name": "Guillermo Chaves Chaves",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5888442"
+    },
+    {
+      "id": "guillermo-santos-marin-q2398781",
+      "name": "Guillermo Santos Marín",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5888925"
+    },
+    {
+      "id": "hector-julio-alfonso-q2398781",
+      "name": "Héctor Julio Alfonso",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5906231"
+    },
+    {
+      "id": "jorge-dangond-daza-q2398781",
+      "name": "Jorge Dangond Daza",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5934840"
+    },
+    {
+      "id": "juan-jose-neira-q2398781",
+      "name": "Juan José Neira",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5950393"
+    },
+    {
+      "id": "juan-manuel-ospina-q2398781",
+      "name": "Juan Manuel Ospina",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5951116"
+    },
+    {
+      "id": "roy-barreras-q2398781",
+      "name": "Roy Barreras",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6112985"
+    },
+    {
+      "id": "sandra-suarez-q2398781",
+      "name": "Sandra Suárez",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6119998"
+    },
+    {
+      "id": "maria-del-rosario-guerra-q2398781",
+      "name": "María del Rosario Guerra",
+      "sitting": true,
+      "party_id": "centro-democratico",
+      "caucus": "Centro Democrático",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6005001"
+    },
+    {
+      "id": "juan-carlos-martinez-sinisterra-q2398781",
+      "name": "Juan Carlos Martínez Sinisterra",
+      "sitting": true,
+      "party_id": "citizens-convergence",
+      "caucus": "Citizens' Convergence",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5948432"
+    },
+    {
+      "id": "luis-carlos-avellaneda-q2398781",
+      "name": "Luis Carlos Avellaneda",
+      "sitting": true,
+      "party_id": "alternative-democratic-pole",
+      "caucus": "Alternative Democratic Pole",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5983016"
+    },
+    {
+      "id": "ivan-leonidas-name-vasquez-q2398781",
+      "name": "Iván Leonidas Name Vásquez",
+      "sitting": true,
+      "party_id": "green-party",
+      "caucus": "Green Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6100099"
+    },
+    {
+      "id": "javier-caceres-leal-q2398781",
+      "name": "Javier Cáceres Leal",
+      "sitting": true,
+      "party_id": "cambio-radical-colombia",
+      "caucus": "Cambio Radical (Colombia)",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5927639"
+    },
+    {
+      "id": "efrain-cepeda-q2398781",
+      "name": "Efraín Cepeda",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5820273"
+    },
+    {
+      "id": "jose-herrera-acosta-q2398781",
+      "name": "José Herrera Acosta",
+      "sitting": true,
+      "party_id": "cambio-radical-colombia",
+      "caucus": "Cambio Radical (Colombia)",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5940388"
+    },
+    {
+      "id": "marco-avirama-q2398781",
+      "name": "Marco Avirama",
+      "sitting": true,
+      "party_id": "indigenous-social-alliance-movement",
+      "caucus": "Indigenous Social Alliance Movement",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5996288"
+    },
+    {
+      "id": "juan-carlos-restrepo-q2398781",
+      "name": "Juan Carlos Restrepo",
+      "sitting": true,
+      "party_id": "cambio-radical-colombia",
+      "caucus": "Cambio Radical (Colombia)",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5948544"
+    },
+    {
+      "id": "luis-alberto-gil-q2398781",
+      "name": "Luis Alberto Gil",
+      "sitting": true,
+      "party_id": "citizens-convergence",
+      "caucus": "Citizens' Convergence",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5982674"
+    },
+    {
+      "id": "luis-eduardo-vives-q2398781",
+      "name": "Luis Eduardo Vives",
+      "sitting": true,
+      "party_id": "citizens-convergence",
+      "caucus": "Citizens' Convergence",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5983240"
+    },
+    {
+      "id": "felipe-angulo-q2398781",
+      "name": "Felipe Angulo",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5858080"
+    },
+    {
+      "id": "fernando-tamayo-tamayo-q2398781",
+      "name": "Fernando Tamayo Tamayo",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5860298"
+    },
+    {
+      "id": "gabriel-zapata-correa-q2398781",
+      "name": "Gabriel Zapata Correa",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5873623"
+    },
+    {
+      "id": "german-villegas-q2398781",
+      "name": "Germán Villegas",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5878855"
+    },
+    {
+      "id": "gilberto-arango-londono-q2398781",
+      "name": "Gilberto Arango Londoño",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5879596"
+    },
+    {
+      "id": "miguel-alfonso-de-la-espriella-q2398781",
+      "name": "Miguel Alfonso de la Espriella",
+      "sitting": true,
+      "party_id": "democratic-colombia-party",
+      "caucus": "Democratic Colombia Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6013841"
+    },
+    {
+      "id": "jose-camacho-carreno-q2398781",
+      "name": "José Camacho Carreño",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5938691"
+    },
+    {
+      "id": "eduardo-romo-rosero-q2398781",
+      "name": "Eduardo Romo Rosero",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5819656"
+    },
+    {
+      "id": "jose-dario-salazar-q2398781",
+      "name": "José Darío Salazar",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5939173"
+    },
+    {
+      "id": "juan-manuel-galan-q2398781",
+      "name": "Juan Manuel Galán",
+      "sitting": true,
+      "party_id": "nuevo-liberalismo",
+      "caucus": "Nuevo Liberalismo",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5951001"
+    },
+    {
+      "id": "miguel-pinedo-vidal-q2398781",
+      "name": "Miguel Pinedo Vidal",
+      "sitting": true,
+      "party_id": "cambio-radical-colombia",
+      "caucus": "Cambio Radical (Colombia)",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6014950"
+    },
+    {
+      "id": "juan-gabriel-uribe-vegalara-q2398781",
+      "name": "Juan Gabriel Uribe Vegalara",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5949665"
+    },
+    {
+      "id": "juan-gomez-martinez-q2398781",
+      "name": "Juan Gómez Martínez",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5949924"
+    },
+    {
+      "id": "eduardo-merlano-q2398781",
+      "name": "Eduardo Merlano",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5819454"
+    },
+    {
+      "id": "efrain-torrado-q2398781",
+      "name": "Efraín Torrado",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5820301"
+    },
+    {
+      "id": "victor-renan-barco-q2398781",
+      "name": "Víctor Renán Barco",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5842032"
+    },
+    {
+      "id": "elsa-gladys-cifuentes-aranzazu-q2398781",
+      "name": "Elsa Gladys Cifuentes Aranzazu",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5830007"
+    },
+    {
+      "id": "julio-manzur-abdala-q2398781",
+      "name": "Julio Manzur Abdala",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5955445"
+    },
+    {
+      "id": "ezequiel-rojas-q2398781",
+      "name": "Ezequiel Rojas",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5853796"
+    },
+    {
+      "id": "german-aguirre-q2398781",
+      "name": "Germán Aguirre",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5878582"
+    },
+    {
+      "id": "griselda-janeth-restrepo-q2398781",
+      "name": "Griselda Janeth Restrepo",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5885839"
+    },
+    {
+      "id": "omar-florez-velez-q2398781",
+      "name": "Omar Flórez Vélez",
+      "sitting": true,
+      "party_id": "cambio-radical-colombia",
+      "caucus": "Cambio Radical (Colombia)",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6050475"
+    },
+    {
+      "id": "guillermo-garcia-realpe-q2398781",
+      "name": "Guillermo García Realpe",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5888579"
+    },
+    {
+      "id": "guillermo-gaviria-zapata-q2398781",
+      "name": "Guillermo Gaviria Zapata",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5888582"
+    },
+    {
+      "id": "honorio-galvis-q2398781",
+      "name": "Honorio Galvis",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5901597"
+    },
+    {
+      "id": "hugo-serrano-gomez-q2398781",
+      "name": "Hugo Serrano Gómez",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5904657"
+    },
+    {
+      "id": "hector-heli-rojas-q2398781",
+      "name": "Héctor Helí Rojas",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5906200"
+    },
+    {
+      "id": "manuel-ramiro-velasquez-q2398781",
+      "name": "Manuel Ramiro Velásquez",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5994144"
+    },
+    {
+      "id": "jaime-duran-barrera-q2398781",
+      "name": "Jaime Durán Barrera",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5925008"
+    },
+    {
+      "id": "jesus-ignacio-garcia-q2398781",
+      "name": "Jesús Ignacio García",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5930240"
+    },
+    {
+      "id": "jairo-enrique-merlano-q2398781",
+      "name": "Jairo Enrique Merlano",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5925519"
+    },
+    {
+      "id": "jairo-mantilla-colmenares-q2398781",
+      "name": "Jairo Mantilla Colmenares",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5925537"
+    },
+    {
+      "id": "jose-maria-lombana-barreneche-q2398781",
+      "name": "José María Lombana Barreneche",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5943119"
+    },
+    {
+      "id": "jorge-visbal-martelo-q2398781",
+      "name": "Jorge Visbal Martelo",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5936257"
+    },
+    {
+      "id": "juan-fernando-cristo-q2398781",
+      "name": "Juan Fernando Cristo",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5949408"
+    },
+    {
+      "id": "juan-guillermo-angel-mejia-q2398781",
+      "name": "Juan Guillermo Ángel Mejía",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5949887"
+    },
+    {
+      "id": "samuel-arrieta-q2398781",
+      "name": "Samuel Arrieta",
+      "sitting": true,
+      "party_id": "national-integration-party",
+      "caucus": "National Integration Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6118108"
+    },
+    {
+      "id": "juan-manuel-lopez-cabrales-q2398781",
+      "name": "Juan Manuel López Cabrales",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5951066"
+    },
+    {
+      "id": "juan-martin-caicedo-q2398781",
+      "name": "Juan Martín Caicedo",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5951281"
+    },
+    {
+      "id": "mauricio-pimiento-q2398781",
+      "name": "Mauricio Pimiento",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5944572"
+    },
+    {
+      "id": "juan-carlos-velez-uribe-q2398781",
+      "name": "Juan Carlos Vélez Uribe",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5948645"
+    },
+    {
+      "id": "julio-cesar-guerra-tulena-q2398781",
+      "name": "Julio César Guerra Tulena",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5955148"
+    },
+    {
+      "id": "reginaldo-montes-q2398781",
+      "name": "Reginaldo Montes",
+      "sitting": true,
+      "party_id": "cambio-radical-colombia",
+      "caucus": "Cambio Radical (Colombia)",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6103901"
+    },
+    {
+      "id": "myriam-alicia-paredes-q2398781",
+      "name": "Myriam Alicia Paredes",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6035187"
+    },
+    {
+      "id": "rodrigo-lara-restrepo-q2398781",
+      "name": "Rodrigo Lara Restrepo",
+      "sitting": true,
+      "party_id": "cambio-radical-colombia",
+      "caucus": "Cambio Radical (Colombia)",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6110723"
+    },
+    {
+      "id": "ruben-dario-quintero-q2398781",
+      "name": "Rubén Darío Quintero",
+      "sitting": true,
+      "party_id": "cambio-radical-colombia",
+      "caucus": "Cambio Radical (Colombia)",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6113209"
+    },
+    {
+      "id": "richard-velazquez-bosco-q2398781",
+      "name": "Richard Velázquez Bosco",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6050566"
+    },
+    {
+      "id": "lidio-garcia-turbay-q2398781",
+      "name": "Lidio García Turbay",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5975235"
+    },
+    {
+      "id": "oscar-dario-perez-q2398781",
+      "name": "Oscar Darío Pérez",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6053824"
+    },
+    {
+      "id": "luis-fernando-duque-q2398781",
+      "name": "Luis Fernando Duque",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5983411"
+    },
+    {
+      "id": "mario-nader-muskus-q2398781",
+      "name": "Mario Náder Muskus",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5998921"
+    },
+    {
+      "id": "manuel-guillermo-mora-q2398781",
+      "name": "Manuel Guillermo Mora",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5993201"
+    },
+    {
+      "id": "maria-del-socorro-bustamante-q2398781",
+      "name": "María del Socorro Bustamante",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6005013"
+    },
+    {
+      "id": "mauricio-jaramillo-martinez-q2398781",
+      "name": "Mauricio Jaramillo Martínez",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6006974"
+    },
+    {
+      "id": "milton-rodriguez-sarmiento-q2398781",
+      "name": "Milton Rodríguez Sarmiento",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6016674"
+    },
+    {
+      "id": "luis-carlos-torres-q2398781",
+      "name": "Luis Carlos Torres",
+      "sitting": true,
+      "party_id": "cambio-radical-colombia",
+      "caucus": "Cambio Radical (Colombia)",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5983035"
+    },
+    {
+      "id": "ubeimar-delgado-q2398781",
+      "name": "Ubeimar Delgado",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6155176"
+    },
+    {
+      "id": "piedad-zuccardi-q2398781",
+      "name": "Piedad Zuccardi",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6075235"
+    },
+    {
+      "id": "jorge-ballesteros-q2398781",
+      "name": "Jorge Ballesteros",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5934561"
+    },
+    {
+      "id": "jaime-castro-castro-q2398781",
+      "name": "Jaime Castro Castro",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6123707"
+    },
+    {
+      "id": "jairo-clopatofsky-q2398781",
+      "name": "Jairo Clopatofsky",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6124219"
+    },
+    {
+      "id": "tulio-enrique-tascon-q2398781",
+      "name": "Tulio Enrique Tascón",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6153743"
+    },
+    {
+      "id": "ivan-diaz-q2398781",
+      "name": "Iván Díaz",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5923431"
+    },
+    {
+      "id": "john-milton-rodriguez-q2398781",
+      "name": "John Milton Rodríguez",
+      "sitting": true,
+      "party_id": "colombia-justa-libres",
+      "caucus": "Colombia Justa Libres",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q108273122"
+    },
+    {
+      "id": "leonor-serrano-de-camargo-q2398781",
+      "name": "Leonor Serrano de Camargo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q132531005"
+    },
+    {
+      "id": "edmundo-lopez-gomez-q2398781",
+      "name": "Edmundo López Gómez",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28929939"
+    },
+    {
+      "id": "rafael-forero-fetecua-q2398781",
+      "name": "Rafael Forero Fetecua",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q128907874"
+    },
+    {
+      "id": "hector-echeverri-correa-q2398781",
+      "name": "Héctor Echeverri Correa",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5643364"
+    },
+    {
+      "id": "alejandra-omana-q2398781",
+      "name": "Alejandra Omaña",
+      "sitting": true,
+      "party_id": "pacto-historico",
+      "caucus": "Pacto Histórico",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q113612928"
+    },
+    {
+      "id": "luis-guillermo-giraldo-q2398781",
+      "name": "Luis Guillermo Giraldo",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2877715"
+    },
+    {
+      "id": "carlos-holguin-sardi-q2398781",
+      "name": "Carlos Holguín Sardi",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2939371"
+    },
+    {
+      "id": "hugo-escobar-sierra-q2398781",
+      "name": "Hugo Escobar Sierra",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5904469"
+    },
+    {
+      "id": "luis-fernando-londono-capurro-q2398781",
+      "name": "Luis Fernando Londoño Capurro",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q9025076"
+    },
+    {
+      "id": "bernardo-guerra-serna-q2398781",
+      "name": "Bernardo Guerra Serna",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q84847749"
+    },
+    {
+      "id": "oswaldo-dario-martinez-betancourt-q2398781",
+      "name": "Oswaldo Darío Martínez Betancourt",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q130211390"
+    },
+    {
+      "id": "miguel-uribe-londono-q2398781",
+      "name": "Miguel Uribe Londoño",
+      "sitting": true,
+      "party_id": "centro-democratico",
+      "caucus": "Centro Democrático",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q135957773"
+    },
+    {
+      "id": "manuel-mosquera-garces-q2398781",
+      "name": "Manuel Mosquera Garcés",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20015759"
+    },
+    {
+      "id": "julio-cesar-turbay-q2398781",
+      "name": "Julio César Turbay",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q356957"
+    },
+    {
+      "id": "lorenzo-muelas-q2398781",
+      "name": "Lorenzo Muelas",
+      "sitting": true,
+      "party_id": "indigenous-authorities-of-colombia",
+      "caucus": "Indigenous Authorities of Colombia",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q105492051"
+    },
+    {
+      "id": "recaredo-de-villa-y-piedrahita-q2398781",
+      "name": "Recaredo de Villa y Piedrahita",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q104873620"
+    },
+    {
+      "id": "miguel-arroyo-diez-q2398781",
+      "name": "Miguel Arroyo Diez",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q89413368"
+    },
+    {
+      "id": "fabian-gerardo-castillo-suarez-q2398781",
+      "name": "Fabián Gerardo Castillo Suárez",
+      "sitting": true,
+      "party_id": "cambio-radical-colombia",
+      "caucus": "Cambio Radical (Colombia)",
+      "constituency_label": "",
+      "chamber": "Senate of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q101184262"
+    },
+    {
+      "id": "fernando-londono-y-londono-q1571756",
+      "name": "Fernando Londoño y Londoño",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5444785"
+    },
+    {
+      "id": "aida-merlano-q1571756",
+      "name": "Aída Merlano",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "Atlántico Department",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q56650560"
+    },
+    {
+      "id": "cesar-ordonez-q1571756",
+      "name": "César Ordóñez",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57468576"
+    },
+    {
+      "id": "gilberto-vieira-q1571756",
+      "name": "Gilberto Vieira",
+      "sitting": true,
+      "party_id": "colombian-communist-party",
+      "caucus": "Colombian Communist Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5561412"
+    },
+    {
+      "id": "leon-fredy-munoz-q1571756",
+      "name": "León Fredy Muñoz",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q87069536"
+    },
+    {
+      "id": "maria-isabel-urrutia-q1571756",
+      "name": "María Isabel Urrutia",
+      "sitting": true,
+      "party_id": "alternative-democratic-pole",
+      "caucus": "Alternative Democratic Pole",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q448690"
+    },
+    {
+      "id": "miguel-angel-pinto-q1571756",
+      "name": "Miguel Ángel Pinto",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28501273"
+    },
+    {
+      "id": "fernando-botero-zea-q1571756",
+      "name": "Fernando Botero Zea",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5444615"
+    },
+    {
+      "id": "alvaro-gomez-hurtado-q1571756",
+      "name": "Álvaro Gómez Hurtado",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3576986"
+    },
+    {
+      "id": "sergio-diaz-granados-guida-q1571756",
+      "name": "Sergio Díaz-Granados Guida",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7454240"
+    },
+    {
+      "id": "martha-villalba-hodwalker-q1571756",
+      "name": "Martha Villalba Hodwalker",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18224207"
+    },
+    {
+      "id": "jose-maria-rojas-garrido-q1571756",
+      "name": "José María Rojas Garrido",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2736411"
+    },
+    {
+      "id": "angelica-lozano-correa-q1571756",
+      "name": "Angélica Lozano Correa",
+      "sitting": true,
+      "party_id": "green-party",
+      "caucus": "Green Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4764313"
+    },
+    {
+      "id": "jaime-angulo-bossa-q1571756",
+      "name": "Jaime Angulo Bossa",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "Bolívar Department",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q57521181"
+    },
+    {
+      "id": "jaime-buenahora-q1571756",
+      "name": "Jaime Buenahora",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "constituency for Colombians overseas",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20016923"
+    },
+    {
+      "id": "german-arciniegas-q1571756",
+      "name": "Germán Arciniegas",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1399691"
+    },
+    {
+      "id": "rodrigo-rivera-salazar-q1571756",
+      "name": "Rodrigo Rivera Salazar",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2161317"
+    },
+    {
+      "id": "manuel-cepeda-q1571756",
+      "name": "Manuel Cepeda",
+      "sitting": true,
+      "party_id": "patriotic-union",
+      "caucus": "Patriotic Union",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6752503"
+    },
+    {
+      "id": "jorge-isaacs-q1571756",
+      "name": "Jorge Isaacs",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1703852"
+    },
+    {
+      "id": "francisco-jattin-q1571756",
+      "name": "Francisco Jattin",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5483543"
+    },
+    {
+      "id": "jesus-santrich-q1571756",
+      "name": "Jesús Santrich",
+      "sitting": true,
+      "party_id": "commons",
+      "caucus": "Commons",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17057929"
+    },
+    {
+      "id": "simon-gaviria-munoz-q1571756",
+      "name": "Simón Gaviria Muñoz",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7521450"
+    },
+    {
+      "id": "oscar-delgado-q1571756",
+      "name": "Óscar Delgado",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q47538415"
+    },
+    {
+      "id": "alfonso-valdivieso-sarmiento-q1571756",
+      "name": "Alfonso Valdivieso Sarmiento",
+      "sitting": true,
+      "party_id": "cambio-radical-colombia",
+      "caucus": "Cambio Radical (Colombia)",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5667270"
+    },
+    {
+      "id": "gloria-stella-diaz-q1571756",
+      "name": "Gloria Stella Díaz",
+      "sitting": true,
+      "party_id": "independent-movement-of-absolute-renovation",
+      "caucus": "Independent Movement of Absolute Renovation",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5881338"
+    },
+    {
+      "id": "gloria-polanco-q1571756",
+      "name": "Gloria Polanco",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3109134"
+    },
+    {
+      "id": "eduardo-crissien-borrero-q1571756",
+      "name": "Eduardo Crissien Borrero",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q18590519"
+    },
+    {
+      "id": "oscar-tulio-lizcano-q1571756",
+      "name": "Oscar Tulio Lizcano",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q954249"
+    },
+    {
+      "id": "belisario-betancur-q1571756",
+      "name": "Belisario Betancur",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q345571"
+    },
+    {
+      "id": "alfredo-araujo-grau-q1571756",
+      "name": "Alfredo Araújo Grau",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5667514"
+    },
+    {
+      "id": "guillermo-valencia-castillo-q1571756",
+      "name": "Guillermo Valencia Castillo",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2880050"
+    },
+    {
+      "id": "alberto-zalamea-costa-q1571756",
+      "name": "Alberto Zalamea Costa",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4712237"
+    },
+    {
+      "id": "aurelio-caicedo-ayerbe-q1571756",
+      "name": "Aurelio Caicedo Ayerbe",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4822255"
+    },
+    {
+      "id": "german-blanco-alvarez-q1571756",
+      "name": "Germán Blanco Álvarez",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20015241"
+    },
+    {
+      "id": "mauricio-salazar-pelaez-q1571756",
+      "name": "Mauricio Salazar Peláez",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20017210"
+    },
+    {
+      "id": "wilson-cordoba-q1571756",
+      "name": "Wilson Córdoba",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20022294"
+    },
+    {
+      "id": "eduardo-lemaitre-q1571756",
+      "name": "Eduardo Lemaitre",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5340659"
+    },
+    {
+      "id": "gina-parody-q1571756",
+      "name": "Gina Parody",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5562912"
+    },
+    {
+      "id": "sergio-jaime-ortis-q1571756",
+      "name": "Sergio Jaime ortis",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5657312"
+    },
+    {
+      "id": "consuelo-lleras-q1571756",
+      "name": "Consuelo Lleras",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5784844"
+    },
+    {
+      "id": "diego-turbay-cote-q1571756",
+      "name": "Diego Turbay Cote",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5806645"
+    },
+    {
+      "id": "gloria-gaitan-q1571756",
+      "name": "Gloria Gaitán",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5881244"
+    },
+    {
+      "id": "luis-alfredo-colmenares-chia-q1571756",
+      "name": "Luis Alfredo Colmenares Chía",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5982727"
+    },
+    {
+      "id": "roy-barreras-q1571756",
+      "name": "Roy Barreras",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6112985"
+    },
+    {
+      "id": "tomas-rueda-vargas-q1571756",
+      "name": "Tomás Rueda Vargas",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6148634"
+    },
+    {
+      "id": "omar-de-jesus-restrepo-correa-q1571756",
+      "name": "Omar de Jesús Restrepo Correa",
+      "sitting": true,
+      "party_id": "commons",
+      "caucus": "Commons",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60325169"
+    },
+    {
+      "id": "jairo-reinaldo-cala-suarez-q1571756",
+      "name": "Jairo Reinaldo Cala Suárez",
+      "sitting": true,
+      "party_id": "commons",
+      "caucus": "Commons",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60326877"
+    },
+    {
+      "id": "dario-echandia-q1571756",
+      "name": "Darío Echandía",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2888440"
+    },
+    {
+      "id": "jose-maria-quijano-wallis-q1571756",
+      "name": "José María Quijano Wallis",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q12981959"
+    },
+    {
+      "id": "carlos-holguin-sardi-q1571756",
+      "name": "Carlos Holguín Sardi",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q2939371"
+    },
+    {
+      "id": "alejandro-galvis-galvis-q1571756",
+      "name": "Alejandro Galvis Galvis",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4714542"
+    },
+    {
+      "id": "alfonso-gomez-mendez-q1571756",
+      "name": "Alfonso Gómez Méndez",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4722042"
+    },
+    {
+      "id": "augusto-posada-q1571756",
+      "name": "Augusto Posada",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5711722"
+    },
+    {
+      "id": "carlos-julio-gonzalez-q1571756",
+      "name": "Carlos Julio González",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5750672"
+    },
+    {
+      "id": "jose-de-obaldia-q1571756",
+      "name": "José de Obaldía",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3138715"
+    },
+    {
+      "id": "ingrid-betancourt-q1571756",
+      "name": "Ingrid Betancourt",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "Bogotá",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q152472"
+    },
+    {
+      "id": "maria-fernanda-cabal-q1571756",
+      "name": "María Fernanda Cabal",
+      "sitting": true,
+      "party_id": "centro-democratico",
+      "caucus": "Centro Democrático",
+      "constituency_label": "Bogotá",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17477937"
+    },
+    {
+      "id": "luis-antonio-robles-suarez-q1571756",
+      "name": "Luis Antonio Robles Suárez",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6700322"
+    },
+    {
+      "id": "carlos-eduardo-guevara-villabon-q1571756",
+      "name": "Carlos Eduardo Guevara Villabón",
+      "sitting": true,
+      "party_id": "independent-movement-of-absolute-renovation",
+      "caucus": "Independent Movement of Absolute Renovation",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17478067"
+    },
+    {
+      "id": "augusto-espinosa-valderrama-q1571756",
+      "name": "Augusto Espinosa Valderrama",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4821284"
+    },
+    {
+      "id": "griselda-janeth-restrepo-q1571756",
+      "name": "Griselda Janeth Restrepo",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5885839"
+    },
+    {
+      "id": "guillermina-bravo-montano-q1571756",
+      "name": "Guillermina Bravo Montaño",
+      "sitting": true,
+      "party_id": "independent-movement-of-absolute-renovation",
+      "caucus": "Independent Movement of Absolute Renovation",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20015337"
+    },
+    {
+      "id": "jose-maria-campo-serrano-q1571756",
+      "name": "José María Campo Serrano",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q887916"
+    },
+    {
+      "id": "carlos-toledo-plata-q1571756",
+      "name": "Carlos Toledo Plata",
+      "sitting": true,
+      "party_id": "national-popular-alliance",
+      "caucus": "National Popular Alliance",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5042704"
+    },
+    {
+      "id": "joaquin-garcia-borrero-q1571756",
+      "name": "Joaquín García Borrero",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5931991"
+    },
+    {
+      "id": "ana-paola-agudelo-garcia-q1571756",
+      "name": "Ana Paola Agudelo García",
+      "sitting": true,
+      "party_id": "independent-movement-of-absolute-renovation",
+      "caucus": "Independent Movement of Absolute Renovation",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17620958"
+    },
+    {
+      "id": "liliana-rendon-q1571756",
+      "name": "Liliana Rendón",
+      "sitting": true,
+      "party_id": "centro-democratico",
+      "caucus": "Centro Democrático",
+      "constituency_label": "Antioquia",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q19721968"
+    },
+    {
+      "id": "maria-isabel-mejia-marulanda-q1571756",
+      "name": "María Isabel Mejía Marulanda",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6782026"
+    },
+    {
+      "id": "rodrigo-lara-restrepo-q1571756",
+      "name": "Rodrigo Lara Restrepo",
+      "sitting": true,
+      "party_id": "cambio-radical-colombia",
+      "caucus": "Cambio Radical (Colombia)",
+      "constituency_label": "Bogotá",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6110723"
+    },
+    {
+      "id": "miguel-samper-agudelo-q1571756",
+      "name": "Miguel Samper Agudelo",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6844794"
+    },
+    {
+      "id": "nestor-hernando-parra-q1571756",
+      "name": "Néstor Hernando Parra",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q62870197"
+    },
+    {
+      "id": "maria-jose-pizarro-q1571756",
+      "name": "María José Pizarro",
+      "sitting": true,
+      "party_id": "the-decency-list",
+      "caucus": "The Decency List",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60234509"
+    },
+    {
+      "id": "carlos-rodado-noriega-q1571756",
+      "name": "Carlos Rodado Noriega",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5042577"
+    },
+    {
+      "id": "cesar-gaviria-q1571756",
+      "name": "César Gaviria",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "Risaralda",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q332020"
+    },
+    {
+      "id": "kelyn-johana-gonzalez-duarte-q1571756",
+      "name": "Kelyn Johana González Duarte",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Magdalena",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q51100627"
+    },
+    {
+      "id": "lina-maria-barrera-rueda-q1571756",
+      "name": "Lina María Barrera Rueda",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Santander",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q51100622"
+    },
+    {
+      "id": "manuel-maria-mallarino-q1571756",
+      "name": "Manuel María Mallarino",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q3138736"
+    },
+    {
+      "id": "pedro-castro-monsalvo-q1571756",
+      "name": "Pedro Castro Monsalvo",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6068462"
+    },
+    {
+      "id": "yidis-medina-q1571756",
+      "name": "Yidis Medina",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6170002"
+    },
+    {
+      "id": "benedicto-de-jesus-gonzalez-montenegro-q1571756",
+      "name": "Benedicto de Jesús González Montenegro",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q60828615"
+    },
+    {
+      "id": "jorge-leyva-urdaneta-q1571756",
+      "name": "Jorge Leyva Urdaneta",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q17635442"
+    },
+    {
+      "id": "miguel-angel-barreto-q1571756",
+      "name": "Miguel Angel Barreto",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q27961375"
+    },
+    {
+      "id": "david-luna-sanchez-q1571756",
+      "name": "David Luna Sánchez",
+      "sitting": true,
+      "party_id": "cambio-radical-colombia",
+      "caucus": "Cambio Radical (Colombia)",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q28163888"
+    },
+    {
+      "id": "leon-dario-ramirez-q1571756",
+      "name": "León Darío Ramírez",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20017105"
+    },
+    {
+      "id": "alvaro-lloreda-caicedo-q1571756",
+      "name": "Álvaro Lloreda Caicedo",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q8076707"
+    },
+    {
+      "id": "pablo-escobar-q1571756",
+      "name": "Pablo Escobar",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q187447"
+    },
+    {
+      "id": "consuelo-salgar-q1571756",
+      "name": "Consuelo Salgar",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5164536"
+    },
+    {
+      "id": "sara-piedrahita-lyons-q1571756",
+      "name": "Sara Piedrahita Lyons",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "Córdoba",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q20018309"
+    },
+    {
+      "id": "jose-eustacio-rivera-q1571756",
+      "name": "José Eustacio Rivera",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Huila Department",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q940428"
+    },
+    {
+      "id": "vanessa-mendoza-q1571756",
+      "name": "Vanessa Mendoza",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "special constituency for Afro-Colombians",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4008552"
+    },
+    {
+      "id": "jose-maria-obando-q1571756",
+      "name": "José María Obando",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q1318147"
+    },
+    {
+      "id": "eduardo-cote-lamus-q1571756",
+      "name": "Eduardo Cote Lamus",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5340573"
+    },
+    {
+      "id": "eliseo-arango-ramos-q1571756",
+      "name": "Elíseo Arango Ramos",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5368681"
+    },
+    {
+      "id": "jorge-munoz-q1571756",
+      "name": "Jorge Muñoz",
+      "sitting": true,
+      "party_id": "independent-movement-of-absolute-renovation",
+      "caucus": "Independent Movement of Absolute Renovation",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q6278383"
+    },
+    {
+      "id": "german-bernardo-carlosama-lopez-q1571756",
+      "name": "Germán Bernardo Carlosama López",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "special constituency for indigenous peoples in Colombia",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q51100632"
+    },
+    {
+      "id": "evaristo-sourdis-juliao-q1571756",
+      "name": "Evaristo Sourdis Juliao",
+      "sitting": true,
+      "party_id": "colombian-conservative-party",
+      "caucus": "Colombian Conservative Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q5416077"
+    },
+    {
+      "id": "rafael-francisco-amador-campos-q1571756",
+      "name": "Rafael Francisco Amador Campos",
+      "sitting": true,
+      "party_id": "colombian-liberal-party",
+      "caucus": "Colombian Liberal Party",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7282139"
+    },
+    {
+      "id": "ingrid-marlen-sogamoso-alfonso-q1571756",
+      "name": "Ingrid Marlen Sogamoso Alfonso",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q124445287"
+    },
+    {
+      "id": "juana-carolina-londono-jaramillo-q1571756",
+      "name": "Juana Carolina Londoño Jaramillo",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "Caldas Department",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q128797280"
+    },
+    {
+      "id": "ricardo-charria-tobar-q1571756",
+      "name": "Ricardo Charria Tobar",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q131391960"
+    },
+    {
+      "id": "andres-felipe-villamizar-q1571756",
+      "name": "Andrés Felipe Villamizar",
+      "sitting": true,
+      "party_id": "nuevo-liberalismo",
+      "caucus": "Nuevo Liberalismo",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q125430527"
+    },
+    {
+      "id": "gabriel-santos-garcia-q1571756",
+      "name": "Gabriel Santos García",
+      "sitting": true,
+      "party_id": "centro-democratico",
+      "caucus": "Centro Democrático",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q110161312"
+    },
+    {
+      "id": "karmen-ramirez-boscan-q1571756",
+      "name": "Karmen Ramírez Boscán",
+      "sitting": true,
+      "party_id": "humane-colombia",
+      "caucus": "Humane Colombia",
+      "constituency_label": "emigration from Colombia",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q111280633"
+    },
+    {
+      "id": "miguel-polo-polo-q1571756",
+      "name": "Miguel Polo Polo",
+      "sitting": true,
+      "party_id": "centro-democratico",
+      "caucus": "Centro Democrático",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q113839572"
+    },
+    {
+      "id": "gabriel-becerra-q1571756",
+      "name": "Gabriel Becerra",
+      "sitting": true,
+      "party_id": "patriotic-union",
+      "caucus": "Patriotic Union",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q114399751"
+    },
+    {
+      "id": "diogenes-quintero-q1571756",
+      "name": "Diógenes Quintero",
+      "sitting": true,
+      "party_id": "union-party-for-the-people",
+      "caucus": "Union Party for the People",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q137921013"
+    },
+    {
+      "id": "jorge-andres-cancimance-lopez-q1571756",
+      "name": "Jorge Andrés Cancimance López",
+      "sitting": true,
+      "party_id": "unknown",
+      "caucus": "",
+      "constituency_label": "",
+      "chamber": "Chamber of Representatives of Colombia",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q113645677"
+    }
+  ]
 }

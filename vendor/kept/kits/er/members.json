@@ -3,54 +3,19 @@
   "sitting": true,
   "source_url": "https://www.wikidata.org/wiki/Q2094027",
   "retrieved": "2026-09-06",
-  "incomplete": false,
-  "claimed_seats": 6,
+  "incomplete": true,
+  "claimed_seats": 104,
+  "chambers": [
+    "Member of the National Assembly of Eritrea",
+    "National Assembly"
+  ],
   "items": [
     {
-      "id": "germano-nati",
-      "name": "Germano Nati",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4314171"
-    },
-    {
-      "id": "aster-fissehatsion",
-      "name": "Aster Fissehatsion",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4810633"
-    },
-    {
-      "id": "beraki-ghebreselassie",
-      "name": "Beraki Ghebreselassie",
-      "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
-      "constituency_label": "",
-      "chamber": "National Assembly",
-      "lang": [
-        "en"
-      ],
-      "roster_url": "http://www.wikidata.org/entity/Q4890982"
-    },
-    {
-      "id": "estifanos-seyoum",
+      "id": "estifanos-seyoum-q2094027",
       "name": "Estifanos Seyoum",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "people-s-front-for-democracy-and-justice",
+      "caucus": "People's Front for Democracy and Justice",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
@@ -59,11 +24,37 @@
       "roster_url": "http://www.wikidata.org/entity/Q5401350"
     },
     {
-      "id": "hamid-himid",
+      "id": "saleh-idris-kekya-q2094027",
+      "name": "Saleh Idris Kekya",
+      "sitting": true,
+      "party_id": "people-s-front-for-democracy-and-justice",
+      "caucus": "People's Front for Democracy and Justice",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q7403910"
+    },
+    {
+      "id": "germano-nati-q2094027",
+      "name": "Germano Nati",
+      "sitting": true,
+      "party_id": "people-s-front-for-democracy-and-justice",
+      "caucus": "People's Front for Democracy and Justice",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4314171"
+    },
+    {
+      "id": "hamid-himid-q2094027",
       "name": "Hamid Himid",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "people-s-front-for-democracy-and-justice",
+      "caucus": "People's Front for Democracy and Justice",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
@@ -72,17 +63,30 @@
       "roster_url": "http://www.wikidata.org/entity/Q5644595"
     },
     {
-      "id": "saleh-idris-kekya",
-      "name": "Saleh Idris Kekya",
+      "id": "aster-fissehatsion-q2094027",
+      "name": "Aster Fissehatsion",
       "sitting": true,
-      "party_id": "unknown",
-      "caucus": "",
+      "party_id": "people-s-front-for-democracy-and-justice",
+      "caucus": "People's Front for Democracy and Justice",
       "constituency_label": "",
       "chamber": "National Assembly",
       "lang": [
         "en"
       ],
-      "roster_url": "http://www.wikidata.org/entity/Q7403910"
+      "roster_url": "http://www.wikidata.org/entity/Q4810633"
+    },
+    {
+      "id": "beraki-ghebreselassie-q2094027",
+      "name": "Beraki Ghebreselassie",
+      "sitting": true,
+      "party_id": "people-s-front-for-democracy-and-justice",
+      "caucus": "People's Front for Democracy and Justice",
+      "constituency_label": "",
+      "chamber": "National Assembly",
+      "lang": [
+        "en"
+      ],
+      "roster_url": "http://www.wikidata.org/entity/Q4890982"
     }
   ]
 }
