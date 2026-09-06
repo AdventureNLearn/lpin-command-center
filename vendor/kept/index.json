@@ -1,0 +1,51 @@
+{
+  "brand": "Kept",
+  "brand_ko": "지켰나",
+  "updated": "2026-08-20",
+  "source_live": "https://keptglobal.grok.me",
+  "claimed": {
+    "desks": 196,
+    "un_members": 193,
+    "scoring_kits": 19,
+    "institutional_kits": 0
+  },
+  "named_scoring_kits": ["ar", "br", "ca", "mx", "us", "ng", "za", "cn", "in", "il", "jp", "kr", "tw"],
+  "named_scoring_note": "Homepage claims 19. This sitting named 13. Six unnamed = Unproven.",
+  "siblings": {
+    "us": "https://kepthor2326.grok.me",
+    "ca": "https://kepthoc2126.grok.me",
+    "kr": "https://keptsk.grok.me"
+  },
+  "threshold": { "us": 6, "ca": 5, "kr": 5, "default": 5 },
+  "desks": [
+    {"id":"us","region":"americas","name":"United States","chamber":"House of Representatives","system":"presidential","houses":"bicameral","seats":435,"election":"competitive","kit":"scoring","sitting":431,"members":525,"votes":1878},
+    {"id":"ca","region":"americas","name":"Canada","chamber":"House of Commons","system":"constitutional monarchy","houses":"bicameral","seats":343,"election":"competitive","kit":"scoring","sitting":216,"members":240,"votes":107,"committees":639},
+    {"id":"kr","region":"asia","name":"Korea, Republic of","chamber":"National Assembly","system":"presidential","houses":"unicameral","seats":300,"election":"competitive","kit":"scoring","sitting":299,"members":320,"votes":24,"lang":["ko","en"]},
+    {"id":"mx","region":"americas","name":"Mexico","chamber":"Cámara de Diputados","system":"presidential","houses":"bicameral","seats":500,"election":"competitive","kit":"scoring"},
+    {"id":"ar","region":"americas","name":"Argentina","chamber":"Cámara de Diputados","system":"presidential","houses":"bicameral","seats":257,"election":"competitive","kit":"scoring"},
+    {"id":"br","region":"americas","name":"Brazil","chamber":"Câmara dos Deputados","system":"presidential","houses":"bicameral","seats":513,"election":"competitive","kit":"scoring"},
+    {"id":"ng","region":"africa","name":"Nigeria","chamber":"House of Representatives","system":"presidential","houses":"bicameral","seats":360,"election":"competitive","kit":"scoring"},
+    {"id":"za","region":"africa","name":"South Africa","chamber":"National Assembly","system":"parliamentary","houses":"bicameral","seats":400,"election":"competitive","kit":"scoring"},
+    {"id":"cn","region":"asia","name":"China","chamber":"National People's Congress","system":"one-party","houses":"unicameral","seats":2977,"election":"one-party","kit":"scoring"},
+    {"id":"in","region":"asia","name":"India","chamber":"Lok Sabha","system":"parliamentary","houses":"bicameral","seats":543,"election":"competitive","kit":"scoring"},
+    {"id":"il","region":"asia","name":"Israel","chamber":"Knesset","system":"parliamentary","houses":"unicameral","seats":120,"election":"competitive","kit":"scoring"},
+    {"id":"jp","region":"asia","name":"Japan","chamber":"House of Representatives","system":"constitutional monarchy","houses":"bicameral","seats":465,"election":"competitive","kit":"scoring"},
+    {"id":"tw","region":"asia","name":"Taiwan","chamber":"Legislative Yuan","system":"semi-presidential","houses":"unicameral","kit":"scoring"},
+    {"id":"gb","region":"europe","name":"United Kingdom","chamber":"House of Commons","kit":"map","incomplete":true},
+    {"id":"de","region":"europe","name":"Germany","chamber":"Bundestag","kit":"map","incomplete":true},
+    {"id":"fr","region":"europe","name":"France","chamber":"Assemblée nationale","kit":"map","incomplete":true},
+    {"id":"it","region":"europe","name":"Italy","chamber":"Camera dei Deputati","kit":"map","incomplete":true},
+    {"id":"es","region":"europe","name":"Spain","chamber":"Congreso de los Diputados","kit":"map","incomplete":true},
+    {"id":"pl","region":"europe","name":"Poland","chamber":"Sejm","kit":"map","incomplete":true},
+    {"id":"ua","region":"europe","name":"Ukraine","chamber":"Verkhovna Rada","kit":"map","incomplete":true},
+    {"id":"au","region":"oceania","name":"Australia","chamber":"House of Representatives","kit":"map","incomplete":true},
+    {"id":"nz","region":"oceania","name":"New Zealand","chamber":"House of Representatives","kit":"map","incomplete":true},
+    {"id":"id","region":"asia","name":"Indonesia","chamber":"DPR","kit":"map","incomplete":true},
+    {"id":"ph","region":"asia","name":"Philippines","chamber":"House of Representatives","kit":"map","incomplete":true},
+    {"id":"tr","region":"asia","name":"Türkiye","chamber":"Grand National Assembly","kit":"map","incomplete":true},
+    {"id":"eg","region":"africa","name":"Egypt","chamber":"House of Representatives","kit":"map","incomplete":true},
+    {"id":"ke","region":"africa","name":"Kenya","chamber":"National Assembly","kit":"map","incomplete":true},
+    {"id":"gh","region":"africa","name":"Ghana","chamber":"Parliament of Ghana","kit":"map","incomplete":true}
+  ],
+  "honest": "Local index is not the full 196-desk live catalog. Named scoring kits = 13. Remaining live desks stay on keptglobal.grok.me until Sub8 writes packs."
+}

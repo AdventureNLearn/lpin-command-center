@@ -1,0 +1,33 @@
+{
+  "iso2": "si",
+  "name": "Slovenia",
+  "region": "",
+  "chamber": "Slovenian Parliament",
+  "houses": "",
+  "system": "",
+  "seats": 196,
+  "election": "",
+  "session": "",
+  "kit": "map",
+  "lang": [
+    "en"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 196,
+    "sitting": 196,
+    "votes": 0,
+    "committees": 0,
+    "key_votes": 0,
+    "sourced_quotes": 0
+  },
+  "capabilities": [
+    "members"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "lpin-wikidata-fill",
+  "source_live": null,
+  "note": "Wikidata sitting pull 2026-09-06. 256 named. Vacancies not invented.",
+  "roster_source": "https://www.wikidata.org/wiki/Q1288169"
+}

@@ -1,0 +1,263 @@
+{
+  "iso2": "gb",
+  "wave": "WAVE-FILL-GB",
+  "hole_type": "ingest-drop",
+  "retrieved": "2026-08-29",
+  "source": "vendor/kept/kits/gb",
+  "read_only": [
+    "vendor/kept/kits/gb/sources.json",
+    "vendor/kept/kits/gb/pledges.json",
+    "vendor/kept/kits/gb/votes.json",
+    "vendor/kept/kits/gb/members.json",
+    "vendor/kept/kits/gb/gap.json",
+    "vendor/kept/kits/gb/meta.json",
+    "vendor/kept/kits/gb/ethics.json",
+    "vendor/kept/kits/gb/money.json",
+    "vendor/kept/kits/gb/institutional.json",
+    "vendor/kept/kits/gb/issues.json"
+  ],
+  "did_not_rewrite": [
+    "vendor/kept/kits/gb",
+    "votes.json",
+    "members.json",
+    "src/",
+    "packages/gb.json",
+    "packages/gb-permit.json",
+    "packages/_index.json",
+    "packages/us-fill.json",
+    "packages/ca-fill.json",
+    "packages/kr-fill.json"
+  ],
+  "counts": {
+    "sources_items": 2212,
+    "pledges_items": 106,
+    "pledges_with_sourceUrl": 106,
+    "pledges_without_sourceUrl": 0,
+    "pledge_sourceUrl_exact_in_sources": 106,
+    "votes_items": 575,
+    "votes_with_source_url": 575,
+    "votes_without_source_url": 0,
+    "vote_source_urls_exact_in_sources": 0,
+    "ethics_items": 1696,
+    "ethics_with_http_source_url": 1696,
+    "ethics_missing_http": 0,
+    "money_has_https_source_url": true,
+    "member_site_source_urls": 929,
+    "member_site_source_urls_not_on_pledge_or_vote": 909
+  },
+  "log": [
+    {
+      "hole": "66 leftover pages on 18 member-site hosts that already have a first-person https pledge",
+      "url": "https://www.callumanderson.org.uk/",
+      "also": [
+        "https://www.callumanderson.org.uk/intoduction",
+        "https://catsmith.co.uk/health/",
+        "https://catsmith.co.uk/climate/"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Existing pledges already cite https on those hosts (e.g. callumanderson.org.uk/my-priorities-1, catsmith.co.uk/priorities/). Attaching a leftover root/typo/issue page would mint a second pledge. Do not swap a working URL. Incomplete beats fake-complete."
+    },
+    {
+      "hole": "catsmith.co.uk privacy notice never became a pledge row (Cat Smith already has priorities from /priorities/)",
+      "url": "https://catsmith.co.uk/about/data-protection-policy-and-privacy-notice/",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "pledges.note: leftover-exam junk (Lib Dem privacy boilerplate) NOT merged. Privacy policy is not an original-record pledge page. Citation already has https."
+    },
+    {
+      "hole": "abenaoppongasare.com URLs never became pledge rows",
+      "url": "https://www.abenaoppongasare.com/",
+      "also": [
+        "https://www.abenaoppongasare.com/about-abena/",
+        "https://www.abenaoppongasare.com/campaign-to-reverse-the-cuts-to-southeastern-trains/"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "pledges.note: leftover-exam junk (Alex Norris on abenaoppongasare.com) NOT merged. Restoring would mint a pledge. Did not recrawl."
+    },
+    {
+      "hole": "party-ticket leftover pages (winld, oxonld, laboursites wp-signup) never became pledge rows",
+      "url": "https://www.winld.org.uk/danny-chambers/",
+      "also": [
+        "https://www.oxonld.uk/olly-glover",
+        "https://laboursites.org/wp-signup.php?new=lucypowell.org.uk"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "pledges.note: Party ticket not stored. Heading-mash and generic contact dropped. Restoring would mint a pledge."
+    },
+    {
+      "hole": "843 leftover member-site URLs on 231 hosts with 0 pledges never became pledge rows",
+      "url": "https://www.victoriaatkins.org.uk/",
+      "action": "left",
+      "evidence": "Unproven",
+      "reason": "Leftover issue/about/root pages in sources.json after sites-6 leftover-exam. Did not recrawl. Restoring would mint pledges. Incomplete beats fake-complete."
+    },
+    {
+      "hole": "37 leftover Hansard debate URLs never became pledge rows",
+      "url": "https://hansard.parliament.uk/Commons/2024-09-05/debates/FEB008F4-322C-48DF-8BE6-37B6A5A52F56",
+      "action": "left",
+      "evidence": "Unproven",
+      "reason": "Different debate UUIDs than the 62 Hansard URLs already on pledges. Did not recrawl. Attaching would mint a pledge. Do not swap a working URL."
+    },
+    {
+      "hole": "hansard.parliament.uk/ index in sources.json is not a pledge or vote row",
+      "url": "https://hansard.parliament.uk/",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Chamber Hansard root. 62 debate permalinks are already on pledges. Index/companion, not a dropped original-record URL."
+    },
+    {
+      "hole": "No existing pledge, vote, ethics, or money citation is missing an http(s) URL",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "pledges.json 106/106 have sourceUrl https and all 106 are exact-in sources.json. votes.json 575/575 have source_url https. ethics.json 1696/1696 have source_url https. money.source_url and extra_source_url are https PDFs exact-in sources. Nothing to restore onto a public citation. Ingest-drop restore requires a dropped URL the kit already has."
+    },
+    {
+      "hole": "575 vote clerk per-division URLs are not exact-in sources.json; sources holds vote indexes",
+      "url": "https://commonsvotes-api.parliament.uk/data/divisions.json/search",
+      "also": [
+        "https://commonsvotes-api.parliament.uk/data/divisions.json/searchTotalResults",
+        "https://commonsvotes.digiminster.com/",
+        "https://lda.data.parliament.uk/commonsdivisions.json"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "All 575 votes already carry https commonsvotes-api.parliament.uk/data/division/{id}.json. sources holds the search index (votes.source_url), searchTotalResults, digiminster companion, and lda commonsdivisions.json. Index/companion; do not swap a working URL. Do not mint floor rows. votes.note: unmapped MemberIds dropped; remaining rolls listed without yeas. Not invented."
+    },
+    {
+      "hole": "572 members-api Contact URLs plus Search/root in sources.json never became pledge or vote rows",
+      "url": "https://members-api.parliament.uk/api/Members/Search?House=Commons&IsCurrentMember=true",
+      "also": [
+        "https://members-api.parliament.uk/",
+        "https://members-api.parliament.uk/api/Members/5142/Contact"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Roster/contact API companions (572 Contact paths map to sitting members). All 650 members already have https roster_url to members.parliament.uk/member/{id}. Not dropped original-record URLs on scoring citations. Do not mint pledges."
+    },
+    {
+      "hole": "theyworkforyou MP/index URLs in sources.json never became pledge or vote rows",
+      "url": "https://www.theyworkforyou.com/",
+      "also": [
+        "https://www.theyworkforyou.com/mps/"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "572 TheyWorkForYou pages (index plus /mp/ profiles) sit in sources and are unused by pledges or votes. Companion recasts, not dropped original-record URLs. Pledges already cite Hansard or member-site https. Do not mint pledges."
+    },
+    {
+      "hole": "members.parliament.uk/ index in sources.json is not a pledge or vote row",
+      "url": "https://members.parliament.uk/",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Chamber members root. 650 roster_url values already have https /member/{id} pages (not exact-in sources; sources kept the API Contact siblings). Index/companion. Do not mint sitting names."
+    },
+    {
+      "hole": "6 IPSA index URLs in sources.json are not money citation gaps",
+      "url": "https://www.theipsa.org.uk/",
+      "also": [
+        "https://www.theipsa.org.uk/annual-reports",
+        "https://www.theipsa.org.uk/other-payment-data",
+        "https://www.theipsa.org.uk/mp-staffing-business-costs/annual-publications"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "money.source_url and extra_source_url already have https IPSA PDFs (both exact-in sources). Remaining theipsa.org.uk URLs are indexes/news. Index/companion; do not swap a working URL. Did not name private donors."
+    },
+    {
+      "hole": "Electoral Commission, Short money, legislation PDG, and ONS occupation URLs in sources.json are not money/pledge/vote citation gaps",
+      "url": "https://www.electoralcommission.org.uk/",
+      "also": [
+        "https://search.electoralcommission.org.uk/",
+        "https://www.parliament.uk/site-information/freedom-of-information/information-we-already-publish/house-of-commons-publication-scheme/members-and-members-staff/financial-assistance-to-opposition-parties/",
+        "https://www.legislation.gov.uk/uksi/2025/159/contents/made",
+        "https://www.ons.gov.uk/search?q=occupation+Members+of+Parliament"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "money.note: PEF Online names private donors and was not ingested; Electoral Commission PDG HTML was Cloudflare-blocked; no official sitting-only occupation aggregate. Companions, not dropped original-record URLs on a citation missing http(s). Did not name private donors. Did not mint fees."
+    },
+    {
+      "hole": "ethics Categories API and PCS register page in sources.json are not ethics citation gaps",
+      "url": "https://interests-api.parliament.uk/api/v1/Categories",
+      "also": [
+        "https://www.parliament.uk/mps-lords-and-offices/standards-and-financial-interests/parliamentary-commissioner-for-standards/registers-of-interests/register-of-members-financial-interests/"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "1696 ethics rows already have https interests-api.parliament.uk/api/v1/Interests (exact-in sources; also ethics.source_url). Categories and the public register page are companions. ethics.note: categories only; donor names and pound amounts not stored. Do not name private donors."
+    },
+    {
+      "hole": "committees-api and committees.parliament.uk index in sources.json are not committee/pledge/vote citation gaps",
+      "url": "https://committees-api.parliament.uk/api/Committees",
+      "also": [
+        "https://committees.parliament.uk/"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "committees.json 95/95 already carry https committees.parliament.uk/committee/{id}/ (origin clerk). API/index are companions. Do not mint AHJs."
+    },
+    {
+      "hole": "hansard-api, data.parliament.uk, and Commons Library briefing URLs in sources.json never became pledge or vote rows",
+      "url": "https://hansard-api.parliament.uk/search.json",
+      "also": [
+        "https://www.data.parliament.uk/",
+        "https://commonslibrary.parliament.uk/research-briefings/cbp-7483/",
+        "https://commonslibrary.parliament.uk/research-briefings/sn01663/",
+        "https://researchbriefings.files.parliament.uk/documents/SN01663/SN01663.pdf"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Search API, data catalog, and Library briefings (including CBP-7483 occupation historical) are companions. money.note: CBP-7483 is 1979-2019, not a current sitting census. Index/companion; do not mint pledges or occupation buckets."
+    },
+    {
+      "hole": "institutional.json items 0",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Empty kit (institutional_kits = 0 claimed). Not an ingest drop. Do not mint rows."
+    },
+    {
+      "hole": "gap.json items 0 after 2275-pair exam",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Honest empty after dual-source exam (gap.note). Not a lost kit URL."
+    },
+    {
+      "hole": "members.json 650 sitting; claimed seats complete",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Sitting-name roster is complete (650/650, all https roster_url). Not ingest-drop. Do not mint sitting names. All pledge/vote citations already carry http(s)."
+    },
+    {
+      "hole": "money.json named_donors false",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "money.note: PEF Online names private donors and was not ingested. No original-record donor URL sits on a citation missing http(s). Did not name private donors. IPSA PDFs already on money.source_url / extra_source_url."
+    }
+  ],
+  "summary": {
+    "restored": 0,
+    "left": 21,
+    "evidence": {
+      "Supported": 19,
+      "Unproven": 2,
+      "Disputed": 0,
+      "Human decision": 0
+    }
+  },
+  "notes": [
+    "One hole type: ingest-drop. Restore a URL the kit already has in sources, or leave the hole.",
+    "No existing scoring citation lost a kit URL. All 106 pledges, 575 votes, 1696 ethics rows, and money.source_url / extra_source_url already carry http(s).",
+    "All 106 pledge sourceUrl values are exact-in sources.json. Zero pledges missing http(s).",
+    "929 personal member-site URLs sit in sources.json (non-parliament, non-TheyWorkForYou, non-IPSA, non-Electoral Commission, non-legislation.gov.uk, non-ONS, non-digiminster). 20 are on pledges; 909 never became pledge or vote rows. Left. Do not mint pledges.",
+    "pledges.note: leftover sites-6 tight exam 2026-08-21; leftover-exam junk (Lib Dem privacy boilerplate, Alex Norris on abenaoppongasare.com, GTM URLs) NOT merged; party ticket not stored. Did not recrawl leftover member-sites or leftover Hansard debates.",
+    "vote_source_urls_exact_in_sources is 0 because sources holds search/index companions while votes cite per-division JSON. Not a drop: citations already have https.",
+    "Did not invent pledges, sitting names, fees, AHJs. Did not name private donors.",
+    "institutional.json items 0 is an empty kit, not an ingest drop.",
+    "gap.json items 0 after 2275-pair exam is honest empty, not an ingest drop.",
+    "members 650 sitting with https roster_url is complete roster coverage, not a lost kit URL.",
+    "money named_donors false is a PEF/disclosure hole, not a dropped original-record URL."
+  ]
+}

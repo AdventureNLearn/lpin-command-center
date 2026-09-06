@@ -1,0 +1,380 @@
+{
+  "iso2": "ng",
+  "chamber": "House of Representatives",
+  "retrieved": "2026-08-21",
+  "incomplete": true,
+  "capped": true,
+  "note": "Public CCB / Fifth Schedule / House ethics categories only. Existing 33 kept. Added remaining public classes: tribunal appeal para 18(4); para 6(3) customary/ceremonial gifts; para 11(1) four-year/end-of-term declaration; para 14 legislative exemption from para 4. Cap +4 then stop. Remaining after cap: none. No per-member CCB register. No naira amounts. No confidential annex. Honest incomplete.",
+  "items": [
+    {
+      "member_id": null,
+      "category": "assets",
+      "label_en": "Assets (land, buildings, vehicles, and other property)",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://ccb.gov.ng/",
+      "note": "CCB / Fifth Schedule public declaration categories. Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "liabilities",
+      "label_en": "Liabilities",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://ccb.gov.ng/",
+      "note": "CCB public declaration. Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "gifts",
+      "label_en": "Gifts",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://ccb.gov.ng/",
+      "note": "Code of Conduct for Public Officers. Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "foreign-accounts",
+      "label_en": "Foreign accounts",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://ccb.gov.ng/",
+      "note": "Fifth Schedule. Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "companies-directorships",
+      "label_en": "Companies, firms and directorships",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://ccb.gov.ng/",
+      "note": "CCB public declaration. Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "income",
+      "label_en": "Income and emoluments",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://ccb.gov.ng/",
+      "note": "CCB public declaration. Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "spouses-children",
+      "label_en": "Holdings of spouse and unmarried children under 18 (public part)",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://ccb.gov.ng/",
+      "note": "Statutory category. Confidential annex not copied."
+    },
+    {
+      "member_id": null,
+      "category": "ethics-privileges",
+      "label_en": "House Committee on Ethics and Privileges (public process)",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://nass.gov.ng/about/item/1710",
+      "note": "Public committee category, not a finding."
+    },
+    {
+      "member_id": null,
+      "category": "conflict-of-interest",
+      "label_en": "Conflict of interest",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://ccb.gov.ng/?p=1220",
+      "note": "CCB / Fifth Schedule para 1. Public conduct class. Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "abuse-of-office",
+      "label_en": "Abuse of office",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://ccb.gov.ng/?p=1220",
+      "note": "CCB / Fifth Schedule para 9. Public conduct class. Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "private-business",
+      "label_en": "Private business, profession or trade while in public service",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://ccb.gov.ng/?p=3199",
+      "note": "CCB / Fifth Schedule para 2(b). Farming excepted. Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "assets-outside-nigeria",
+      "label_en": "Assets acquired outside Nigeria (public declaration class)",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://ccb.gov.ng/?page_id=325",
+      "note": "CCB asset-declaration class. Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "dual-emoluments",
+      "label_en": "Dual public-office emoluments",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.constituteproject.org/constitution/Nigeria_1999",
+      "note": "Fifth Schedule para 2(a). Public prohibition. Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "contractor-benefits",
+      "label_en": "Gifts or benefits from commercial firms, contractors, or persons with government contracts",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.constituteproject.org/constitution/Nigeria_1999",
+      "note": "Fifth Schedule para 6. Distinct from generic gifts class. Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "bribery-inducement",
+      "label_en": "Inducement or bribe offered to a public officer",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.constituteproject.org/constitution/Nigeria_1999",
+      "note": "Fifth Schedule para 8. Named counterparties not collected. Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "incompatible-societies",
+      "label_en": "Membership of a society incompatible with the functions or dignity of office",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.constituteproject.org/constitution/Nigeria_1999",
+      "note": "Fifth Schedule para 10. Public conduct class."
+    },
+    {
+      "member_id": null,
+      "category": "false-declaration",
+      "label_en": "False statement in a CCB assets/liabilities declaration",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.constituteproject.org/constitution/Nigeria_1999",
+      "note": "Fifth Schedule para 11(2). Public breach class. Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "unexplained-property",
+      "label_en": "Property or assets not fairly attributable to approved income, gift, or loan",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.constituteproject.org/constitution/Nigeria_1999",
+      "note": "Fifth Schedule para 11(3). Public breach class. Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "allegation-to-ccb",
+      "label_en": "Allegation of Code breach made to the Code of Conduct Bureau",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.constituteproject.org/constitution/Nigeria_1999",
+      "note": "Fifth Schedule para 12. Public process class, not a finding."
+    },
+    {
+      "member_id": null,
+      "category": "agents-nominees",
+      "label_en": "Acts prohibited by the Code done through a nominee, trustee, or other agent",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.constituteproject.org/constitution/Nigeria_1999",
+      "note": "Fifth Schedule para 13. Public conduct class. Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "seat-taking-declaration",
+      "label_en": "Declaration of assets and liabilities before taking a House seat",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.constituteproject.org/constitution/Nigeria_1999",
+      "note": "Constitution s.52 House ethics rule. Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "pecuniary-interest-declaration",
+      "label_en": "Declaration of direct pecuniary interest before House deliberation",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.constituteproject.org/constitution/Nigeria_1999",
+      "note": "Constitution s.56(3)(a) House ethics rule. Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "pecuniary-interest-participation",
+      "label_en": "House resolution on whether a member with a pecuniary interest may vote or participate",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.constituteproject.org/constitution/Nigeria_1999",
+      "note": "Constitution s.56(3)(b) House ethics rule. Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "retired-officer-government-posts",
+      "label_en": "Retired public officer: more than one remunerative government-company or public-authority post while on pension",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.constituteproject.org/constitution/Nigeria_1999",
+      "note": "Fifth Schedule para 4(1). Members of legislative houses exempt under para 14(a). Public conduct class. Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "retired-officer-extra-public-pay",
+      "label_en": "Retired public officer: other public-fund remuneration besides pension and one permitted post",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.constituteproject.org/constitution/Nigeria_1999",
+      "note": "Fifth Schedule para 4(2). Members of legislative houses exempt under para 14(a). Public conduct class. Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "retired-officer-foreign-employment",
+      "label_en": "Specified retired officers: service or employment in a foreign company or foreign enterprise",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.constituteproject.org/constitution/Nigeria_1999",
+      "note": "Fifth Schedule para 5 (President, Vice-President, Chief Justice of Nigeria, Governor, Deputy Governor). Public conduct class."
+    },
+    {
+      "member_id": null,
+      "category": "executive-loans",
+      "label_en": "Specified executive offices: loan except from government, a bank, building society, mortgage institution, or other financial institution recognised by law",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.constituteproject.org/constitution/Nigeria_1999",
+      "note": "Fifth Schedule para 7(a). Public prohibition. Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "executive-contractor-benefits",
+      "label_en": "Specified executive offices: any benefit from a company, contractor, or businessman, or their nominee or agent",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.constituteproject.org/constitution/Nigeria_1999",
+      "note": "Fifth Schedule para 7(b). Distinct from generic contractor-gifts class (para 6). Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "tribunal-vacation-of-office",
+      "label_en": "Code of Conduct Tribunal: vacation of office or seat in a legislative house",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://ccb.gov.ng/?page_id=325",
+      "note": "Fifth Schedule para 18(2)(a) / CCB implications page. Public sanction class, not a finding."
+    },
+    {
+      "member_id": null,
+      "category": "tribunal-disqualification",
+      "label_en": "Code of Conduct Tribunal: disqualification from a legislative house and from holding public office (period not exceeding ten years)",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://ccb.gov.ng/?page_id=325",
+      "note": "Fifth Schedule para 18(2)(b) / CCB implications page. Public sanction class, not a finding. Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "tribunal-forfeiture",
+      "label_en": "Code of Conduct Tribunal: seizure and forfeiture to the State of property acquired in abuse or corruption of office",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://ccb.gov.ng/?page_id=325",
+      "note": "Fifth Schedule para 18(2)(c) / CCB implications page. Public sanction class, not a finding. Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "tribunal-fine",
+      "label_en": "Code of Conduct Tribunal: imposition of a fine",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://ccb.gov.ng/?page_id=325",
+      "note": "CCB public implications-for-non-compliance class. Amounts not collected. Not a finding."
+    },
+    {
+      "member_id": null,
+      "category": "tribunal-no-prerogative-of-mercy",
+      "label_en": "Code of Conduct Tribunal: prerogative of mercy does not apply to a Tribunal punishment",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://ccb.gov.ng/?page_id=325",
+      "note": "Fifth Schedule para 18(7) / CCB implications page. Public sanction class, not a finding."
+    },
+    {
+      "member_id": null,
+      "category": "tribunal-appeal",
+      "label_en": "Code of Conduct Tribunal: appeal as of right to the Court of Appeal",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://ccb.gov.ng/?page_id=325",
+      "note": "Fifth Schedule para 18(4) / CCB implications page. Public process class, not a finding."
+    },
+    {
+      "member_id": null,
+      "category": "customary-ceremonial-gifts",
+      "label_en": "Personal gifts recognised by custom; ceremonial or public-occasion gifts treated as gifts to the institution",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.constituteproject.org/constitution/Nigeria_1999",
+      "note": "Fifth Schedule para 6(3). Distinct from generic gifts class and contractor-benefits (para 6(2)). Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "four-year-end-of-term-declaration",
+      "label_en": "Written declaration of assets and liabilities at the end of every four years and at the end of term of office",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.constituteproject.org/constitution/Nigeria_1999",
+      "note": "Fifth Schedule para 11(1). Distinct from seat-taking declaration (s.52) and false-declaration (para 11(2)). Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "legislative-exemption-para-4",
+      "label_en": "Members of legislative houses: exemption from paragraph 4 retired-officer restrictions",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.constituteproject.org/constitution/Nigeria_1999",
+      "note": "Fifth Schedule para 14(a). Public application class, not a finding. Amounts not collected."
+    }
+  ]
+}

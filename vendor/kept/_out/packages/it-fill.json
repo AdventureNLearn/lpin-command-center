@@ -1,0 +1,226 @@
+{
+  "iso2": "it",
+  "wave": "WAVE-FILL-IT",
+  "hole_type": "ingest-drop",
+  "retrieved": "2026-08-29",
+  "source": "vendor/kept/kits/it",
+  "read_only": [
+    "vendor/kept/kits/it/sources.json",
+    "vendor/kept/kits/it/pledges.json",
+    "vendor/kept/kits/it/votes.json",
+    "vendor/kept/kits/it/members.json",
+    "vendor/kept/kits/it/gap.json",
+    "vendor/kept/kits/it/meta.json",
+    "vendor/kept/kits/it/ethics.json",
+    "vendor/kept/kits/it/money.json",
+    "vendor/kept/kits/it/institutional.json",
+    "vendor/kept/kits/it/issues.json"
+  ],
+  "did_not_rewrite": [
+    "vendor/kept/kits/it",
+    "votes.json",
+    "members.json",
+    "src/",
+    "packages/it.json",
+    "packages/it-permit.json",
+    "packages/_index.json",
+    "packages/us-fill.json",
+    "packages/ca-fill.json",
+    "packages/kr-fill.json",
+    "packages/gb-fill.json",
+    "packages/de-fill.json",
+    "packages/br-fill.json",
+    "packages/ua-fill.json",
+    "packages/fr-fill.json",
+    "packages/cn-fill.json"
+  ],
+  "counts": {
+    "sources_items": 27,
+    "pledges_items": 4,
+    "pledges_with_sourceUrl": 4,
+    "pledges_without_sourceUrl": 0,
+    "pledge_sourceUrl_exact_in_sources": 4,
+    "votes_items": 7514,
+    "votes_with_source_url": 7514,
+    "votes_without_source_url": 0,
+    "vote_source_urls_exact_in_sources": 0,
+    "ethics_items": 4,
+    "ethics_with_http_source_url": 4,
+    "ethics_missing_http": 0,
+    "money_has_https_source_url": true,
+    "member_site_source_urls": 0,
+    "member_site_source_urls_not_on_pledge_or_vote": 0
+  },
+  "log": [
+    {
+      "hole": "No member-site URLs sit in sources.json",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "All 27 sources.json URLs are camera.it, dati.camera.it, documenti.camera.it, parlamento.it, anticorruzione.it, or it.wikipedia.org clerk/ANAC/Wikipedia pages. Zero personal member-sites. Nothing unused to attach onto a citation missing http(s). Restoring a member-site would mint a pledge. Did not recrawl."
+    },
+    {
+      "hole": "leftover stenographic idSeduta=13 never became a pledge row",
+      "action": "left",
+      "evidence": "Unproven",
+      "reason": "Original-record Camera stenographic URL sits in sources.json and is unused by pledges or votes. The other four idSeduta stenographic URLs already sit on the four existing pledge rows (exact-in). Restoring this leftover would mint a pledge. Did not recrawl. Incomplete beats fake-complete.",
+      "url": "https://www.camera.it/leg19/410?idSeduta=13&tipo=stenografico"
+    },
+    {
+      "hole": "camera.it/leg19/410 stenographic index leftover never became a pledge row",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Stenographic sitting index in sources.json. Not a dropped original-record URL on a citation missing http(s). The four existing pledges already cite specific idSeduta stenographic pages (exact-in). Index/companion; restoring would mint a pledge. Leave.",
+      "url": "https://www.camera.it/leg19/410"
+    },
+    {
+      "hole": "No existing pledge, vote, ethics, or money citation is missing an http(s) URL",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "pledges.json 4/4 have sourceUrl https (all exact-in sources). votes.json 7514/7514 have source_url http dati.camera.it RDF. ethics.json 4/4 have source_url https camera.it/leg19/1269 (exact-in). money.source_url is https dati.camera.it/sparql (exact-in). Nothing to attach. Do not swap a working URL."
+    },
+    {
+      "hole": "7514 vote clerk RDF URLs are not exact-in sources.json; sources holds the votazioni index and SPARQL",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "All 7514 votes already carry http://dati.camera.it/ocd/votazione.rdf/vs19_* permalinks. 0 exact-in sources. sources holds the XIX elenco.asp votazioni index, dati.camera.it SPARQL (money.source_url, exact-in), and dati.camera.it root. Index/companion; do not swap a working URL. votes.note: Dump is not exhausted; member yeas not copied. votes.json incomplete and items 7514 vs meta.counts.votes 2014 is a rollup mismatch, not a lost kit URL. Do not mint floor rows."
+    },
+    {
+      "hole": "XIX votazioni elenco.asp index in sources.json is not a vote citation gap",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Citations already have http per-votazione RDF pages. The elenco.asp URL is a harvest index, not a dropped original-record URL on a citation missing http(s). Do not mint floor rows. Do not swap a working URL.",
+      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/elenco.asp?Legislatura=XIX"
+    },
+    {
+      "hole": "14 votes missing clerk_url already have http source_url; sources has no per-vote schedavotazione pages",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "14 late-session SPARQL rows (vs19-704-* and vs19-705-001) omit clerk_url and recorded totals. Each already carries http dati.camera.it RDF source_url. sources.json holds only the votazioni elenco index, not the 14 missing documenti.camera.it schedavotazione.asp URLs. Attaching the index would swap a working citation for a different-issue URL. Do not mint clerk_url rows. Did not recrawl."
+    },
+    {
+      "hole": "ethics.json incomplete true; 2 leftover ANAC URLs are not ethics citation gaps",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "All 4 ethics rows already carry https www.camera.it/leg19/1269 (exact-in sources). ethics.note: public statutory categories only; per-member filings not transcribed; no invented amounts. anticorruzione.it root and news.31.07.26.del.295.2026 are companions, not dropped original-record URLs on a citation missing http(s). Do not mint per-member filings. Do not swap a working URL.",
+      "url": "https://www.anticorruzione.it/",
+      "also": [
+        "https://www.anticorruzione.it/-/news.31.07.26.del.295.2026"
+      ]
+    },
+    {
+      "hole": "2 leftover parlamento.it art.5 erogazioni URLs are not money citation gaps",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "money.source_url already has https dati.camera.it/sparql (exact-in). money.note: Camera / Parlamento art.5 erogazioni (parlamento.it/1055 HTTP 200) lists private contributors above 5000 EUR and were not collected. Restoring would name private donors. Index/companion; do not swap a working URL. Did not name private donors. Did not mint fees.",
+      "url": "https://www.parlamento.it/1055",
+      "also": [
+        "https://www.parlamento.it/1067"
+      ]
+    },
+    {
+      "hole": "4 leftover Camera Doc. VIII bilancio PDF/index URLs are not money citation gaps",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "money.source_url already has https SPARQL (exact-in). money.note: Doc. VIII Camera bilancio Cap. 1150 gruppi consuntivo/progetto PDF parse=cap-1150-single-line-not-per-group; per-group subsidy table not extracted; euro totals not invented. These PDFs and the 008 documento index are companions, not dropped original-record URLs on a citation missing http(s). Do not mint fees. Do not swap a working URL.",
+      "url": "https://www.camera.it/leg19/491?idLegislatura=19&categoria=008&tipologiaDoc=documento&numero=005",
+      "also": [
+        "https://documenti.camera.it/apps/CommonServices/getDocumento.ashx?sezione=lavori&idLegislatura=19&tipoDoc=doc&idDocumento=008",
+        "https://documenti.camera.it/_dati/leg19/lavori/documentiparlamentari/IndiceETesti/008/005/INTERO.pdf",
+        "https://documenti.camera.it/_dati/leg19/lavori/documentiparlamentari/IndiceETesti/008/006/INTERO.pdf"
+      ]
+    },
+    {
+      "hole": "camera.it/leg19/1234 Commissione di garanzia leftover is not a money citation gap",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "money.note: Commissione di garanzia rendiconti (leg19/1234 HTTP 200) are per-party accounts, not a sitting-Camera occupation or unnamed source-type table. money.source_url SPARQL already exact-in. Index/companion; do not mint fees; do not swap a working URL.",
+      "url": "https://www.camera.it/leg19/1234"
+    },
+    {
+      "hole": "camera.it / dati.camera.it roots, deputati elenco, schede, and open-data companions in sources.json are not pledge or vote rows",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Chamber roots and sitting-roster/open-data indexes. members.source_url is https://www.wikidata.org/wiki/Q18558478 (not in sources.json; inverse of ingest-drop). All 400 members already have https wikidata roster_url. money.note: Camera member schede (leg19/1431) and dichiarazione di cariche e professioni name sitting members; they are ethics-lane, not a sitting-only occupation statistical table. Index/companion, not a dropped original-record URL. Do not mint sitting names. Do not mint pledges.",
+      "url": "https://www.camera.it/",
+      "also": [
+        "https://www.camera.it/deputati/elenco",
+        "https://www.camera.it/leg19/1431",
+        "https://www.camera.it/leg19/148",
+        "https://www.camera.it/leg19/643",
+        "https://dati.camera.it/",
+        "https://dati.camera.it/dataset/deputati-della-xix-legislatura",
+        "https://dati.camera.it/ocd-rappresentazione-semantica-e-documentazione"
+      ]
+    },
+    {
+      "hole": "committees.json incomplete true; 14/14 already have https Wikipedia (exact-in)",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "All 14 standing committees already carry https it.wikipedia.org Commissioni_permanenti_della_Camera_dei_deputati (exact-in sources). committees.note: Wikipedia/SPARQL XIX organ rows were incomplete this sitting; member_ids empty. Incomplete roster-on-committee is not a dropped original-record URL on a citation missing http(s). Do not mint sitting names. Do not mint AHJs. Do not swap a working URL.",
+      "url": "https://it.wikipedia.org/wiki/Commissioni_permanenti_della_Camera_dei_deputati"
+    },
+    {
+      "hole": "institutional.json items 0",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Empty kit (institutional_kits = 0 claimed). Not an ingest drop. Do not mint rows."
+    },
+    {
+      "hole": "gap.json items 0",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Honest empty (gap.note: no sourced personal pledge in this pack has a verified contrary clerk vote stored in votes.json). Not a lost kit URL."
+    },
+    {
+      "hole": "members.json 400 sitting; roster complete",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Sitting-name roster is complete (400/400 sitting, all https wikidata roster_url; members.incomplete false; claimed_seats matches seats 400). Not ingest-drop. Do not mint sitting names. money.note SPARQL sitting XIX people=399 vs Camera seats 400 is an occupation-slice hole, not a roster pad. All pledge/vote citations already carry http(s)."
+    },
+    {
+      "hole": "money.json named_donors false; buckets 0; sitting_total_reconstructed null",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "money.note: no sitting-only Camera occupation aggregate after SPARQL dc:description exam; free-text-bio-not-aggregate; ANAC/Camera HTTP 200; named private donors not collected; no euro invented from dichiarazione patrimoniale names. Occupation / public-finance buckets left empty. SPARQL already sits on money.source_url (exact-in). Not a dropped original-record URL on a citation missing http(s). Did not name private donors. Did not mint fees."
+    },
+    {
+      "hole": "pledges.json incomplete true; meta sourced_quotes 0",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "pledges.note: Professioni di fede not published on XIX member pages; SPARQL dc:description is occupation/education, not a personal civic sentence; existing 4 stenographic rows kept. Those 4 already have https sourceUrl exact-in sources. sourced_quotes 0 is a harvest unpublished-register hole, not a dropped original-record URL on a citation missing http(s). Do not mint pledges. Did not recrawl leftover stenographic idSeduta=13."
+    },
+    {
+      "hole": "meta.json incomplete true is honest-complete rollup, not a lost kit URL",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "meta.note: IT thin honest-empty 2026-08-21. Sit 400. Sourced civic pledges 0 (4 stenographic kept, not new). Professioni di fede unpublished on XIX schede. Yeas/pledges/donors not invented. votes.json not rewritten. Flag reflects thin leftover harvest, not a dropped original-record URL on a public citation missing http(s)."
+    }
+  ],
+  "summary": {
+    "restored": 0,
+    "left": 19,
+    "evidence": {
+      "Supported": 18,
+      "Unproven": 1,
+      "Disputed": 0,
+      "Human decision": 0
+    }
+  },
+  "notes": [
+    "One hole type: ingest-drop. Restore a URL the kit already has in sources, or leave the hole.",
+    "No existing scoring citation lost a kit URL. All 4 pledges, 7514 votes, 4 ethics rows, and money.source_url already carry http(s).",
+    "All 4 pledge sourceUrl values are exact-in sources.json. Zero pledges missing http(s).",
+    "0 personal member-site URLs sit in sources.json. member_site_source_urls_not_on_pledge_or_vote is 0. 1 leftover official stenographic page (idSeduta=13) never became a pledge row. Left. Do not mint pledges.",
+    "pledges.note: Thin. Professioni di fede not published on XIX member pages. SPARQL dc:description is occupation/education, not a personal civic sentence. Existing 4 stenographic rows kept, not added this seat. Party lista di elezione is never a pledge. 2026-08-21 hunt-stop. Did not recrawl leftover idSeduta=13.",
+    "vote_source_urls_exact_in_sources is 0 because sources holds the XIX votazioni elenco.asp index plus dati.camera.it SPARQL/root while votes cite per-votazione /ocd/votazione.rdf/vs19_*. Not a drop: citations already have http. money.source_url SPARQL is exact-in.",
+    "Did not invent pledges, sitting names, fees, AHJs. Did not name private donors.",
+    "institutional.json items 0 is an empty kit, not an ingest drop.",
+    "gap.json items 0 (no sourced pledge with a verified contrary clerk vote) is honest empty, not an ingest drop.",
+    "members 400 sitting with https roster_url is complete roster coverage, not a lost kit URL. Do not mint sitting names.",
+    "money named_donors false / buckets 0 / sitting_total_reconstructed null is an unpublished sitting-only occupation/euro-bucket hole, not a dropped original-record URL.",
+    "members.source_url https://www.wikidata.org/wiki/Q18558478 is not in sources.json (sources holds camera.it deputati elenco, dati.camera.it dataset, and SPARQL). Inverse of ingest-drop; roster citations already have https. Did not recrawl.",
+    "ethics 4/4 category rows already cite https camera.it/leg19/1269 exact-in. incomplete true is untranscribed per-member filings, not a lost kit URL.",
+    "committees 14/14 already cite https Wikipedia exact-in. incomplete / member_ids empty is not a lost kit URL. Do not mint AHJs.",
+    "Did not recrawl. Did not fetch pages. Source of truth is the kit existing URL."
+  ]
+}

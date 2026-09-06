@@ -1,0 +1,92 @@
+{
+  "iso2": "pl",
+  "kit_on_disk": true,
+  "objects": {
+    "committees.json": {
+      "state": "filled",
+      "count": 40
+    },
+    "ethics.json": {
+      "state": "filled",
+      "count": 460
+    },
+    "gap.json": {
+      "state": "seeded",
+      "count": 0
+    },
+    "institutional.json": {
+      "state": "empty",
+      "count": 0
+    },
+    "issues.json": {
+      "state": "filled",
+      "count": 11
+    },
+    "members.json": {
+      "state": "filled",
+      "count": 460
+    },
+    "meta.json": {
+      "state": "filled",
+      "count": 22
+    },
+    "money.json": {
+      "state": "filled",
+      "count": 9
+    },
+    "parties.json": {
+      "state": "filled",
+      "count": 12
+    },
+    "pledges.json": {
+      "state": "filled",
+      "count": 22
+    },
+    "sources.json": {
+      "state": "filled",
+      "count": 1023
+    },
+    "votes.json": {
+      "state": "filled",
+      "count": 921
+    }
+  },
+  "capital": {
+    "name": "Warsaw",
+    "lat": 52.251947,
+    "lon": 20.998054,
+    "kind": "capital"
+  },
+  "holes": [
+    {
+      "object": "ethics.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "gap.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "institutional.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "money.json",
+      "reason": "incomplete true; named_donors false"
+    },
+    {
+      "object": "pledges.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "votes.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "meta.json",
+      "reason": "incomplete true"
+    }
+  ],
+  "retrieved": "2026-08-29",
+  "source": "vendor/kept/kits/pl"
+}

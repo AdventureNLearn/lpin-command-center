@@ -1,0 +1,96 @@
+{
+  "iso2": "tw",
+  "kit_on_disk": true,
+  "objects": {
+    "committees.json": {
+      "state": "filled",
+      "count": 13
+    },
+    "ethics.json": {
+      "state": "filled",
+      "count": 249
+    },
+    "gap.json": {
+      "state": "seeded",
+      "count": 0
+    },
+    "institutional.json": {
+      "state": "empty",
+      "count": 0
+    },
+    "issues.json": {
+      "state": "filled",
+      "count": 13
+    },
+    "members.json": {
+      "state": "filled",
+      "count": 113
+    },
+    "meta.json": {
+      "state": "filled",
+      "count": 22
+    },
+    "money.json": {
+      "state": "seeded",
+      "count": 1
+    },
+    "parties.json": {
+      "state": "filled",
+      "count": 4
+    },
+    "pledges.json": {
+      "state": "filled",
+      "count": 50
+    },
+    "sources.json": {
+      "state": "filled",
+      "count": 159
+    },
+    "votes.json": {
+      "state": "filled",
+      "count": 1369
+    }
+  },
+  "capital": {
+    "name": "Taipei",
+    "lat": 25.035833,
+    "lon": 121.568333,
+    "kind": "capital"
+  },
+  "holes": [
+    {
+      "object": "committees.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "ethics.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "gap.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "institutional.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "money.json",
+      "reason": "sitting_total_reconstructed null; named_donors false; meta.counts.money 0"
+    },
+    {
+      "object": "pledges.json",
+      "reason": "incomplete true; meta note 52 vs sourced_quotes 50"
+    },
+    {
+      "object": "votes.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "meta.json",
+      "reason": "incomplete true"
+    }
+  ],
+  "retrieved": "2026-08-29",
+  "source": "vendor/kept/kits/tw"
+}

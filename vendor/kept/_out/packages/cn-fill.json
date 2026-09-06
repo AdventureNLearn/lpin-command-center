@@ -1,0 +1,275 @@
+{
+  "iso2": "cn",
+  "wave": "WAVE-FILL-CN",
+  "hole_type": "ingest-drop",
+  "retrieved": "2026-08-29",
+  "source": "vendor/kept/kits/cn",
+  "read_only": [
+    "vendor/kept/kits/cn/sources.json",
+    "vendor/kept/kits/cn/pledges.json",
+    "vendor/kept/kits/cn/votes.json",
+    "vendor/kept/kits/cn/members.json",
+    "vendor/kept/kits/cn/gap.json",
+    "vendor/kept/kits/cn/meta.json",
+    "vendor/kept/kits/cn/ethics.json",
+    "vendor/kept/kits/cn/money.json",
+    "vendor/kept/kits/cn/institutional.json",
+    "vendor/kept/kits/cn/issues.json"
+  ],
+  "did_not_rewrite": [
+    "vendor/kept/kits/cn",
+    "votes.json",
+    "members.json",
+    "src/",
+    "packages/cn.json",
+    "packages/cn-permit.json",
+    "packages/_index.json",
+    "packages/us-fill.json",
+    "packages/ca-fill.json",
+    "packages/kr-fill.json",
+    "packages/gb-fill.json",
+    "packages/de-fill.json",
+    "packages/br-fill.json",
+    "packages/ua-fill.json",
+    "packages/fr-fill.json"
+  ],
+  "counts": {
+    "sources_items": 124,
+    "pledges_items": 23,
+    "pledges_with_sourceUrl": 23,
+    "pledges_without_sourceUrl": 0,
+    "pledge_sourceUrl_exact_in_sources": 23,
+    "votes_items": 82,
+    "votes_with_source_url": 82,
+    "votes_without_source_url": 0,
+    "vote_source_urls_exact_in_sources": 82,
+    "ethics_items": 26,
+    "ethics_with_http_source_url": 26,
+    "ethics_missing_http": 0,
+    "money_has_https_source_url": true,
+    "member_site_source_urls": 0,
+    "member_site_source_urls_not_on_pledge_or_vote": 0
+  },
+  "log": [
+    {
+      "hole": "No personal member-site URLs sit in sources.json",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "All 124 sources.json URLs are npc.gov.cn / en.npc.gov.cn.cdurl.cn clerk pages, chinadaily.com.cn/npc coverage, english.news.cn, gov.cn/yaowen, npcobserver.com, wikipedia/wikidata APIs, stats.gov.cn, ccdi.gov.cn, or cppcc.gov.cn. Zero personal deputy websites. Nothing unused to attach onto a citation missing http(s). Restoring a leftover profile page would mint a pledge. Did not recrawl."
+    },
+    {
+      "hole": "13 leftover China Daily NPC article pages never became pledge rows",
+      "action": "left",
+      "evidence": "Unproven",
+      "reason": "Original-record subsites.chinadaily.com.cn/npc dated articles sit in sources.json and are unused by pledges or votes. pledges.note: examined unused China Daily NPC deputy profiles; agency pledged-to, city/session we-pledges, company remains-committed, and NPC-procedure suggestions skipped. Restoring would mint pledges. Did not recrawl leftover issue pages. Incomplete beats fake-complete.",
+      "url": "https://subsites.chinadaily.com.cn/npc/2025-08/04/c_1114415.htm",
+      "also": [
+        "https://subsites.chinadaily.com.cn/npc/2025-07/18/c_1099769.htm",
+        "https://subsites.chinadaily.com.cn/npc/2025-05/15/c_1093162.htm",
+        "https://subsites.chinadaily.com.cn/npc/2025-05/05/c_1092832.htm",
+        "https://subsites.chinadaily.com.cn/npc/2024-09/27/c_1027551.htm",
+        "https://subsites.chinadaily.com.cn/npc/2026-03/17/c_1115960.htm",
+        "https://subsites.chinadaily.com.cn/npc/2026-03/07/c_1165635.htm",
+        "https://subsites.chinadaily.com.cn/npc/2024-07/22/c_1007596.htm",
+        "https://subsites.chinadaily.com.cn/npc/2024-03/04/c_967393.htm",
+        "https://subsites.chinadaily.com.cn/npc/2024-02/22/c_964305.htm",
+        "https://subsites.chinadaily.com.cn/npc/2023-12/04/c_944418.htm",
+        "https://subsites.chinadaily.com.cn/npc/2023-03/30/c_874040.htm",
+        "https://subsites.chinadaily.com.cn/npc/2024-05/24/c_991124.htm"
+      ]
+    },
+    {
+      "hole": "China Daily NPC deputies.html / whatisnew.html / index.html leftover never became a pledge row",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Harvest indexes and companion deputy-list pages in sources.json. votes.source_url already has https subsites.chinadaily.com.cn/npc/index.html (exact-in). Not a dropped original-record URL on a citation missing http(s). Restoring would mint a pledge. Index/companion; leave.",
+      "url": "https://subsites.chinadaily.com.cn/npc/deputies.html",
+      "also": [
+        "https://npc.chinadaily.com.cn/deputies.html",
+        "https://subsites.chinadaily.com.cn/npc/whatisnew.html",
+        "https://subsites.chinadaily.com.cn/npc/index.html"
+      ]
+    },
+    {
+      "hole": "9 leftover english.news.cn article URLs never became pledge or vote rows",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Sibling english.news.cn pages sit in sources.json unused by any pledge sourceUrl or vote source_url. Nearby Standing Committee votes already carry https gov.cn/yaowen or english.news.cn citations. votes.note: remaining named laws past the +15 cap, procedure/personnel pages, medals, and treaty ratifications not copied. Restoring would mint floor or pledge rows. Did not recrawl.",
+      "url": "https://english.news.cn/20251028/2528d479b2ed438d973be029c6ff1056/c.html",
+      "also": [
+        "https://english.news.cn/20251227/1c06eaf6dca94f69a6103928df6f0863/c.html",
+        "https://english.news.cn/20260226/008760180efd4c74b1aedd9df800f502/c.html",
+        "https://english.news.cn/20241108/0433a66d9cc84f84ad61540fda6aa669/c.html",
+        "https://english.news.cn/20250225/abd98bd95c524a718f6c6e0220933ae2/c.html",
+        "https://english.news.cn/20240426/d482f7d250694ba5ab462230c0a2934f/c.html",
+        "https://english.news.cn/20240628/271d836c277d4cbcb43236edee34df0d/c.html",
+        "https://english.news.cn/20241225/427d8925c36a4fd7a6a36fb4879c81fb/c.html",
+        "https://english.news.cn/20240227/9e22a4dc279442cb831949fba77ed184/c.html"
+      ]
+    },
+    {
+      "hole": "english.news.cn roots and 2025/2026 two-sessions specials in sources.json are not pledge or vote citation gaps",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Harvest indexes. Existing 23 pledges and 82 votes already carry http(s) article permalinks (all exact-in sources). Index/companion; do not swap a working URL. Did not recrawl.",
+      "url": "https://english.news.cn/",
+      "also": [
+        "https://english.news.cn/china/index.htm",
+        "https://english.news.cn/special/2025lh/index.html",
+        "https://english.news.cn/special/2026lh/index.html"
+      ]
+    },
+    {
+      "hole": "gov.cn/yaowen indexes and leftover content_7013005.htm never became pledge, vote, or ethics rows",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "ethics.source_url already has https www.gov.cn/yaowen/liebiao/202503/content_7013025.htm (exact-in; 26/26 ethics rows). Three pledges already cite content_7012061.htm (exact-in). pledges.note: already-harvested gov.cn yaowen 代表通道; no additional first-person https. Leftover 7013005 and yaowen indexes are companions, not a dropped URL on a citation missing http(s). Restoring would mint. Do not swap a working URL.",
+      "url": "https://www.gov.cn/yaowen/liebiao/202503/content_7013005.htm",
+      "also": [
+        "https://www.gov.cn/yaowen/",
+        "https://www.gov.cn/yaowen/liebiao/",
+        "https://www.gov.cn/yaowen/liebiao/202503/",
+        "https://www.gov.cn/yaowen/liebiao/202603/"
+      ]
+    },
+    {
+      "hole": "leftover HTTP npc.gov.cn / en.npc.gov.cn.cdurl.cn roots, session indexes, deputies.html, and unused communiques are not citation gaps",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Clerk harvest indexes and leftover English session/communique pages. Nearby 1st-session and 23rd-session votes already carry http npc.gov.cn or en.npc.gov.cn.cdurl.cn permalinks (exact-in). pledges.note / votes.note: HTTP-only npc.gov.cn not stored as new pledge/vote rows (TLS not looped). Index/companion; do not mint floor rows; do not swap a working URL.",
+      "url": "http://www.npc.gov.cn/",
+      "also": [
+        "http://www.npc.gov.cn/npc/index.html",
+        "http://en.npc.gov.cn.cdurl.cn/",
+        "http://en.npc.gov.cn.cdurl.cn/deputies.html",
+        "http://en.npc.gov.cn.cdurl.cn/1stsessionof14thnpc.html",
+        "http://en.npc.gov.cn.cdurl.cn/2ndsessionof14thnpc.html",
+        "http://en.npc.gov.cn.cdurl.cn/3rdsessionof14thnpc.html",
+        "http://en.npc.gov.cn.cdurl.cn/4thsessionof14thnpc.html",
+        "http://en.npc.gov.cn.cdurl.cn/23rdsessionofthe14thNPCStandingCommittee.html",
+        "http://en.npc.gov.cn.cdurl.cn/2026-06/26/c_1193667.htm",
+        "http://en.npc.gov.cn.cdurl.cn/2023-03/13/c_869092.htm",
+        "http://www.npc.gov.cn/npc/c2/kgfb/202303/t20230306_423965.html",
+        "http://www.npc.gov.cn/c2/c185/c202/index.html"
+      ]
+    },
+    {
+      "hole": "https://www.npc.gov.cn/ TLS leftover in sources.json is not a money or vote citation gap",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "sources note: HTTPS TLS handshake failure on prior money probe; not retried (tls_looped=false). HTTP clerk pages already stored. money.source_url already has https www.stats.gov.cn/sj/ndsj/2025/indexeh.htm (exact-in). Vote/committee citations already have http npc.gov.cn permalinks. Do not swap a working HTTP URL for a TLS-failed HTTPS root. Did not recrawl.",
+      "url": "https://www.npc.gov.cn/"
+    },
+    {
+      "hole": "Wikipedia / Wikidata / pinyin companions in sources.json are not roster citation gaps",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "members.source_url is https://zh.wikipedia.org/wiki/第十四屆全國人民代表大會代表名單 (not in sources.json; sources holds the English list page, zh/en wikipedia api.php, and query.wikidata.org/sparql). Inverse of ingest-drop. All 2849 members already have https roster_url (percent-encoded same zh wiki page). pinyin.txt is a name-romanization companion. Index/companion; do not mint sitting names; do not swap a working URL. Did not recrawl.",
+      "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_14th_National_People%27s_Congress",
+      "also": [
+        "https://en.wikipedia.org/w/api.php",
+        "https://zh.wikipedia.org/w/api.php",
+        "https://query.wikidata.org/sparql",
+        "https://raw.githubusercontent.com/mozillazg/pinyin-data/master/pinyin.txt"
+      ]
+    },
+    {
+      "hole": "ccdi.gov.cn, english.www.gov.cn 2023-03-15, and en.cppcc.gov.cn leftover URLs are not pledge/vote/ethics citation gaps",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Discipline-inspection root, English State Council wrap, and CPPCC companion sit in sources unused by pledges or votes. ethics already cites the 2025 Representative Law gov.cn page (exact-in). CPPCC is not an NPC floor record. Index/companion; do not mint AHJs or pledges. Do not swap a working URL.",
+      "url": "https://www.ccdi.gov.cn/",
+      "also": [
+        "https://english.www.gov.cn/news/topnews/202303/15/content_WS6411103ac6d0f528699db486.html",
+        "http://en.cppcc.gov.cn/2025-03/12/c_1077889.htm"
+      ]
+    },
+    {
+      "hole": "No existing pledge, vote, ethics, or money citation is missing an http(s) URL",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "pledges.json 23/23 have sourceUrl https (23/23 exact-in sources). votes.json 82/82 have source_url http(s) (82/82 exact-in); 34 tally_source_url values are npcobserver.com (all exact-in). ethics.json 26/26 have source_url https (exact-in). money.source_url is https stats.gov.cn (exact-in). Nothing to attach. Do not swap a working URL for a different-issue URL."
+    },
+    {
+      "hole": "10 special-committee organ URLs in sources.json are not committee citation gaps",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Ten 14th NPC special-committee bmzz2023 organ pages already sit on committee source_url (exact-in). committees.source_url setup page t20230306_423958.html and English c_671008.htm also exact-in. Remaining leftover 423965.html is a setup companion (logged with HTTP npc indexes). Do not mint AHJs. Do not swap a working URL.",
+      "url": "http://www.npc.gov.cn/npc/bmzz2023/mzwyh2023/"
+    },
+    {
+      "hole": "6 later committee rows carry http(s) not exact-in sources.json; citations already have URLs",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Credentials, Deputies Work, Legislative Affairs, Budgetary Affairs, Hong Kong Basic Law, and Macao Basic Law committee rows already cite https/http Xinhua, people.com.cn, npc.gov.cn, or gov.cn pages. Inverse of ingest-drop (working URLs absent from the 124-URL sources list). Not a drop onto a citation missing http(s). Do not swap a working URL. Do not mint AHJs.",
+      "url": "https://www.news.cn/politics/2023-04/26/c_1129568494.htm",
+      "also": [
+        "http://politics.people.com.cn/n1/2023/0628/c1001-40023421.html",
+        "http://www.npc.gov.cn/c2597/c5854/fzgzzr/",
+        "http://www.npc.gov.cn/c2/c30834/202309/t20230901_431383.html",
+        "http://www.npc.gov.cn/c2/c30834/202306/t20230628_430319.html",
+        "https://www.gov.cn/yaowen/liebiao/202412/content_6994547.htm"
+      ]
+    },
+    {
+      "hole": "institutional.json items 0",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Empty kit (institutional.note: :8103 claimed institutional_kits = 0). Not an ingest drop. Do not mint rows."
+    },
+    {
+      "hole": "gap.json items 0 after 86-pair exam",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Honest empty after dual-source exam (gap.note: examined 86 sourced-pledge x same-issue vote pairs; 0 with this member yea/nay; 45 on/after pledge date). Not a lost kit URL."
+    },
+    {
+      "hole": "members.json 2849 sitting vs claimed_seats 2977",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "members.note: Wikipedia 14th NPC list states 2858 current vs 2977 elected; official npc.gov.cn index was not a machine-readable full roster; vacancies not padded. incomplete false. All 2849 already have https roster_url. Not ingest-drop. Do not mint sitting names."
+    },
+    {
+      "hole": "money.json named_donors false; buckets 0; sitting_total_reconstructed null",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "money.note: npc.gov.cn HTTPS TLS handshake failure; stats.gov.cn 200 frameset shell with no sitting-deputy occupation or public-finance table extracted. Election Law and Deputies Law do not publish named private donors or occupation-coded campaign totals. National budget reports are state public finance, not sitting-member political funds. No original-record donor URL sits on a citation missing http(s). Did not name private donors. Did not mint fees. stats.gov.cn already on money.source_url (exact-in)."
+    },
+    {
+      "hole": "ethics.json incomplete true (no public NPC financial-disclosure register)",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "26/26 statute-wide Representative Law (2025) public conduct categories already carry https content_7013025.htm (exact-in). member_id null; amount_band null; no RMB amounts. ethics.note: no public NPC financial-disclosure register page found; leading-cadre personal-matters reports remain confidential annex (not stored). Not a dropped original-record URL on a citation missing http(s). Did not name private donors."
+    },
+    {
+      "hole": "meta.json incomplete true is honest-complete rollup, not a lost kit URL",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "meta.note: 14th NPC sitting roster 2849 (vacancies not padded). Pledges 23 / 22 sitting hunt-stop. Votes 82 totals, named 0. Committees 16. Ethics 26 public statute categories. Money 0 honest empty (D-146 TLS). Gap 0 after dual-source exam. Institutional 0. Flag reflects leftover harvest and unpublished named rolls, not a dropped original-record URL on a public citation missing http(s). pledges.note seventh-pass hunt-stop. votes.note member rolls unpublished; do not invent yeas."
+    }
+  ],
+  "summary": {
+    "restored": 0,
+    "left": 19,
+    "evidence": {
+      "Supported": 18,
+      "Unproven": 1,
+      "Disputed": 0,
+      "Human decision": 0
+    }
+  },
+  "notes": [
+    "One hole type: ingest-drop. Restore a URL the kit already has in sources, or leave the hole.",
+    "No existing scoring citation lost a kit URL. All 23 pledges, 82 votes, 26 ethics rows, and money.source_url already carry http(s), all exact-in sources.json.",
+    "0 personal member-site URLs sit in sources.json. member_site_source_urls_not_on_pledge_or_vote is 0. 13 leftover China Daily NPC articles never became pledge rows. Left. Do not mint pledges.",
+    "pledges.note: Seventh pass; no additional sitting 14th NPC deputy personal first-person or attributed civic commitment with https sourceUrl on chinadaily.com.cn/npc, english.news.cn, or www.gov.cn/yaowen beyond twenty-three rows from twenty-two deputies. HTTP-only npc.gov.cn not stored (TLS not looped). Honest incomplete. Did not recrawl leftover deputy profiles.",
+    "vote_source_urls_exact_in_sources is 82 because every vote item source_url already sits in sources.json. votes.source_url China Daily NPC index is exact-in and is an index/companion, not a dropped per-vote URL.",
+    "Did not invent pledges, sitting names, fees, AHJs. Did not name private donors.",
+    "institutional.json items 0 is an empty kit, not an ingest drop.",
+    "gap.json items 0 after 86-pair exam is honest empty, not an ingest drop.",
+    "members 2849 sitting vs claimed 2977 is a vacancy/roster-gap, not a lost kit URL. Do not mint sitting names.",
+    "money named_donors false / buckets 0 is an official non-publication plus TLS/frameset hole, not a dropped original-record URL.",
+    "members.source_url zh.wikipedia 14th NPC list page is not in sources.json (sources holds the English list, wikipedia APIs, and query.wikidata.org/sparql). Inverse of ingest-drop; roster citations already have https. Did not recrawl.",
+    "Did not recrawl. Did not fetch pages. Source of truth is the kit existing URL."
+  ]
+}

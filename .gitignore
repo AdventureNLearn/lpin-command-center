@@ -12,7 +12,10 @@ AGENTS.project.md
 *.log
 .env
 .env.*
-# On-disk civic archive. Do not push to upstream groks-eye-view.
-vendor/kept/
+# Host-loop scratch. Gold kits + atlas indexes are the corpus.
+vendor/kept/_out/build/
+vendor/kept/_out/HOST-*.md
+vendor/kept/_out/PASTE-FOR-ANL-FEEDS.md
+vendor/kept/_out/kudu/
 .node_modules.lock
 .project_id

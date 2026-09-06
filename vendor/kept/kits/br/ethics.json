@@ -1,0 +1,232 @@
+{
+  "iso2": "br",
+  "incomplete": true,
+  "note": "Existing Conselho de Ética rows kept (instauração is not a finding of guilt). Added public Código de Ética (Res. 25/2001) penalty/duty classes, CEAP public expense classes (Ato da Mesa 43/2009 Art. 2), and Transparência portal categories from official pages that returned 200. Cap +15. Remaining CEAP/transparência classes not packed. Declaração de bens e rendas (Art. 18 I/II) skipped — sigilo. member_id null on statute/portal rows. amount_band null. No reais. No named private donors. No confidential annex. Honest incomplete.",
+  "retrieved": "2026-08-21",
+  "items": [
+    {
+      "member_id": "204515",
+      "category": "quebra de decoro parlamentar",
+      "public": true,
+      "amount_band": null,
+      "origin": "conselho-etica",
+      "source_url": "https://www.camara.leg.br/noticias/1194640-conselho-de-etica-instaura-14-processos-contra-parlamentares/"
+    },
+    {
+      "member_id": "220568",
+      "category": "quebra de decoro parlamentar",
+      "public": true,
+      "amount_band": null,
+      "origin": "conselho-etica",
+      "source_url": "https://www.camara.leg.br/noticias/1194640-conselho-de-etica-instaura-14-processos-contra-parlamentares/"
+    },
+    {
+      "member_id": "74858",
+      "category": "quebra de decoro parlamentar",
+      "public": true,
+      "amount_band": null,
+      "origin": "conselho-etica",
+      "source_url": "https://www.camara.leg.br/noticias/1194640-conselho-de-etica-instaura-14-processos-contra-parlamentares/"
+    },
+    {
+      "member_id": "220526",
+      "category": "quebra de decoro parlamentar",
+      "public": true,
+      "amount_band": null,
+      "origin": "conselho-etica",
+      "source_url": "https://www.camara.leg.br/noticias/1194640-conselho-de-etica-instaura-14-processos-contra-parlamentares/"
+    },
+    {
+      "member_id": "178908",
+      "category": "quebra de decoro parlamentar",
+      "public": true,
+      "amount_band": null,
+      "origin": "conselho-etica",
+      "source_url": "https://www.camara.leg.br/noticias/1194640-conselho-de-etica-instaura-14-processos-contra-parlamentares/"
+    },
+    {
+      "member_id": "204472",
+      "category": "quebra de decoro parlamentar",
+      "public": true,
+      "amount_band": null,
+      "origin": "conselho-etica",
+      "source_url": "https://www.camara.leg.br/noticias/1194640-conselho-de-etica-instaura-14-processos-contra-parlamentares/"
+    },
+    {
+      "member_id": "204387",
+      "category": "quebra de decoro parlamentar",
+      "public": true,
+      "amount_band": null,
+      "origin": "conselho-etica",
+      "source_url": "https://www.camara.leg.br/noticias/1194640-conselho-de-etica-instaura-14-processos-contra-parlamentares/"
+    },
+    {
+      "member_id": "204536",
+      "category": "quebra de decoro parlamentar",
+      "public": true,
+      "amount_band": null,
+      "origin": "conselho-etica",
+      "source_url": "https://www.camara.leg.br/noticias/1194640-conselho-de-etica-instaura-14-processos-contra-parlamentares/"
+    },
+    {
+      "member_id": "206018",
+      "category": "quebra de decoro parlamentar",
+      "public": true,
+      "amount_band": null,
+      "origin": "conselho-etica",
+      "source_url": "https://www.camara.leg.br/noticias/1194640-conselho-de-etica-instaura-14-processos-contra-parlamentares/"
+    },
+    {
+      "member_id": "220645",
+      "category": "quebra de decoro parlamentar",
+      "public": true,
+      "amount_band": null,
+      "origin": "conselho-etica",
+      "source_url": "https://www.camara.leg.br/noticias/1296434-conselho-de-etica-aprova-prosseguimento-de-processo-contra-erika-hilton-por-quebra-de-decoro"
+    },
+    {
+      "member_id": "220547",
+      "category": "suspensão do exercício do mandato",
+      "public": true,
+      "amount_band": null,
+      "origin": "conselho-etica",
+      "source_url": "https://www.camara.leg.br/noticias/1269254-conselho-de-etica-aprova-60-dias-de-suspensao-para-tres-deputados-por-ocupacao-do-plenario"
+    },
+    {
+      "member_id": "156190",
+      "category": "suspensão do exercício do mandato",
+      "public": true,
+      "amount_band": null,
+      "origin": "conselho-etica",
+      "source_url": "https://www.camara.leg.br/noticias/1269254-conselho-de-etica-aprova-60-dias-de-suspensao-para-tres-deputados-por-ocupacao-do-plenario"
+    },
+    {
+      "member_id": "220558",
+      "category": "suspensão do exercício do mandato",
+      "public": true,
+      "amount_band": null,
+      "origin": "conselho-etica",
+      "source_url": "https://www.camara.leg.br/noticias/1269254-conselho-de-etica-aprova-60-dias-de-suspensao-para-tres-deputados-por-ocupacao-do-plenario"
+    },
+    {
+      "member_id": null,
+      "category": "censura verbal",
+      "public": true,
+      "amount_band": null,
+      "origin": "codigo-etica",
+      "source_url": "https://www2.camara.leg.br/legin/fed/rescad/2001/resolucaodacamaradosdeputados-25-10-outubro-2001-320496-publicacaooriginal-1-pl.html"
+    },
+    {
+      "member_id": null,
+      "category": "censura escrita",
+      "public": true,
+      "amount_band": null,
+      "origin": "codigo-etica",
+      "source_url": "https://www2.camara.leg.br/legin/fed/rescad/2001/resolucaodacamaradosdeputados-25-10-outubro-2001-320496-publicacaooriginal-1-pl.html"
+    },
+    {
+      "member_id": null,
+      "category": "suspensão de prerrogativas regimentais",
+      "public": true,
+      "amount_band": null,
+      "origin": "codigo-etica",
+      "source_url": "https://www2.camara.leg.br/legin/fed/rescad/2001/resolucaodacamaradosdeputados-25-10-outubro-2001-320496-publicacaooriginal-1-pl.html"
+    },
+    {
+      "member_id": null,
+      "category": "perda do mandato",
+      "public": true,
+      "amount_band": null,
+      "origin": "codigo-etica",
+      "source_url": "https://www2.camara.leg.br/legin/fed/rescad/2001/resolucaodacamaradosdeputados-25-10-outubro-2001-320496-publicacaooriginal-1-pl.html"
+    },
+    {
+      "member_id": null,
+      "category": "declaração de impedimento para votar",
+      "public": true,
+      "amount_band": null,
+      "origin": "codigo-etica",
+      "source_url": "https://www2.camara.leg.br/legin/fed/rescad/2001/resolucaodacamaradosdeputados-25-10-outubro-2001-320496-publicacaooriginal-1-pl.html"
+    },
+    {
+      "member_id": null,
+      "category": "passagens aéreas",
+      "public": true,
+      "amount_band": null,
+      "origin": "ceap",
+      "source_url": "https://www2.camara.leg.br/legin/int/atomes/2009/atodamesa-43-21-maio-2009-588364-publicacaooriginal-112820-cd-mesa.html"
+    },
+    {
+      "member_id": null,
+      "category": "telefonia",
+      "public": true,
+      "amount_band": null,
+      "origin": "ceap",
+      "source_url": "https://www2.camara.leg.br/legin/int/atomes/2009/atodamesa-43-21-maio-2009-588364-publicacaooriginal-112820-cd-mesa.html"
+    },
+    {
+      "member_id": null,
+      "category": "serviços postais",
+      "public": true,
+      "amount_band": null,
+      "origin": "ceap",
+      "source_url": "https://www2.camara.leg.br/legin/int/atomes/2009/atodamesa-43-21-maio-2009-588364-publicacaooriginal-112820-cd-mesa.html"
+    },
+    {
+      "member_id": null,
+      "category": "manutenção de escritórios de apoio à atividade parlamentar",
+      "public": true,
+      "amount_band": null,
+      "origin": "ceap",
+      "source_url": "https://www2.camara.leg.br/legin/int/atomes/2009/atodamesa-43-21-maio-2009-588364-publicacaooriginal-112820-cd-mesa.html"
+    },
+    {
+      "member_id": null,
+      "category": "fornecimento de alimentação do parlamentar",
+      "public": true,
+      "amount_band": null,
+      "origin": "ceap",
+      "source_url": "https://www2.camara.leg.br/legin/int/atomes/2009/atodamesa-43-21-maio-2009-588364-publicacaooriginal-112820-cd-mesa.html"
+    },
+    {
+      "member_id": null,
+      "category": "divulgação da atividade parlamentar",
+      "public": true,
+      "amount_band": null,
+      "origin": "ceap",
+      "source_url": "https://www2.camara.leg.br/legin/int/atomes/2009/atodamesa-43-21-maio-2009-588364-publicacaooriginal-112820-cd-mesa.html"
+    },
+    {
+      "member_id": null,
+      "category": "verba de gabinete",
+      "public": true,
+      "amount_band": null,
+      "origin": "transparencia",
+      "source_url": "https://www.camara.leg.br/transparencia/"
+    },
+    {
+      "member_id": null,
+      "category": "moradia",
+      "public": true,
+      "amount_band": null,
+      "origin": "transparencia",
+      "source_url": "https://www.camara.leg.br/transparencia/"
+    },
+    {
+      "member_id": null,
+      "category": "licitações e contratos",
+      "public": true,
+      "amount_band": null,
+      "origin": "transparencia",
+      "source_url": "https://www.camara.leg.br/transparencia/"
+    },
+    {
+      "member_id": null,
+      "category": "recursos humanos",
+      "public": true,
+      "amount_band": null,
+      "origin": "transparencia",
+      "source_url": "https://www.camara.leg.br/transparencia/"
+    }
+  ]
+}

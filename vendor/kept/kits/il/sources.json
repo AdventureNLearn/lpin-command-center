@@ -1,0 +1,223 @@
+{
+  "iso2": "il",
+  "items": [
+    {
+      "url": "https://main.knesset.gov.il/",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://knesset.gov.il/Odata/ParliamentInfo.svc/",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://main.knesset.gov.il/Activity/committees/Ethics/Pages/CommitteeHome.aspx",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://main.knesset.gov.il/Activity/Info/pages/databases.aspx",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://knesset.gov.il/Odata/ParliamentInfo.svc/KNS_Bill",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.mevaker.gov.il/state-audit/elections",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.mevaker.gov.il/state-audit/elections/donations",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.mevaker.gov.il/state-audit/elections/party-donations-reporting-system",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://library.mevaker.gov.il/sites/DigitalLibrary/Pages/Publications/2149.aspx",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://library.mevaker.gov.il/sites/DigitalLibrary/Documents/2026/2026-Knesset-25-2024.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://data.gov.il/",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://data.gov.il/dataset",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://data.gov.il/api/3/action/package_search",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://data.gov.il/api/3/action/organization_list",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://knesset.gov.il/Odata/ParliamentInfo.svc/$metadata",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://knesset.gov.il/Odata/ParliamentInfo.svc/KNS_Person?$top=1&$format=json",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.mevaker.gov.il/state-audit/elections/elections-reports",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.mevaker.gov.il/state-audit/elections/laws",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://data.gov.il/api/3/action/package_search?q=%D7%9B%D7%A0%D7%A1%D7%AA&rows=25",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://data.gov.il/api/3/action/package_search?q=%D7%97%D7%91%D7%A8%D7%99%20%D7%94%D7%9B%D7%A0%D7%A1%D7%AA&rows=25",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://data.gov.il/api/3/action/package_search?q=%D7%9E%D7%99%D7%9E%D7%95%D7%9F%20%D7%9E%D7%A4%D7%9C%D7%92%D7%95%D7%AA&rows=25",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://data.gov.il/api/3/action/package_search?q=%D7%9E%D7%99%D7%9E%D7%95%D7%9F%20%D7%9E%D7%9E%D7%9C%D7%9B%D7%AA%D7%99%20%D7%9B%D7%A0%D7%A1%D7%AA&rows=25",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://data.gov.il/api/3/action/package_search?q=%D7%9E%D7%A7%D7%A6%D7%95%D7%A2%20%D7%97%D7%91%D7%A8%20%D7%9B%D7%A0%D7%A1%D7%AA&rows=25",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://data.gov.il/api/3/action/package_search?q=%D7%A2%D7%99%D7%A1%D7%95%D7%A7%20%D7%97%D7%91%D7%A8%D7%99%20%D7%94%D7%9B%D7%A0%D7%A1%D7%AA&rows=25",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://data.gov.il/api/3/action/package_search?q=knesset%20members&rows=25",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://data.gov.il/api/3/action/package_search?q=knesset%20occupation&rows=25",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://data.gov.il/api/3/action/package_search?q=party%20funding%20knesset&rows=25",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://data.gov.il/api/3/action/package_search?fq=organization%3Aknesset&rows=30",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://data.gov.il/api/3/action/datastore_search?resource_id=40de91c6-1eb3-4f12-9cea-5c44484377d7&limit=5",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://data.gov.il/api/3/action/datastore_search?resource_id=29b0e043-706d-47d3-b1b4-b6d57c27c450&limit=5",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://data.gov.il/api/3/action/datastore_search?resource_id=b10bb9e1-7100-464e-a6cf-b2115d20f709&limit=5",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://production.oknesset.org/pipelines/data/committees/kns_committee/kns_committee.csv",
+      "kind": "sibling",
+      "basis": "Evidence",
+      "retrieved": "2026-08-21"
+    },
+    {
+      "url": "https://production.oknesset.org/pipelines/data/members/kns_persontoposition/kns_persontoposition.csv",
+      "kind": "sibling",
+      "basis": "Evidence",
+      "retrieved": "2026-08-21"
+    },
+    {
+      "url": "https://production.oknesset.org/pipelines/data/members/kns_person/kns_person.csv",
+      "kind": "sibling",
+      "basis": "Evidence",
+      "retrieved": "2026-08-21"
+    },
+    {
+      "url": "https://production.oknesset.org/pipelines/data/members/member_english_names/member_english_names.csv",
+      "kind": "sibling",
+      "basis": "Evidence",
+      "retrieved": "2026-08-21"
+    },
+    {
+      "url": "https://production.oknesset.org/pipelines/data/members/mk_individual/mk_individual.csv",
+      "kind": "sibling",
+      "basis": "Evidence",
+      "retrieved": "2026-08-21"
+    }
+  ],
+  "retrieved": "2026-08-21",
+  "note": "Primary and sibling URLs used for IL 25th Knesset catalog. knesset.gov.il WAF one-and-stop after 474/247. Hasadna OData mirror used for leftover current subcommittees. Pledges/money hunt-stop."
+}

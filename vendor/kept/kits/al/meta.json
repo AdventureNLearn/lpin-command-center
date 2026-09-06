@@ -1,0 +1,33 @@
+{
+  "iso2": "al",
+  "name": "Albania",
+  "region": "",
+  "chamber": "Parliament of Albania",
+  "houses": "",
+  "system": "",
+  "seats": 450,
+  "election": "",
+  "session": "",
+  "kit": "map",
+  "lang": [
+    "en"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 450,
+    "sitting": 450,
+    "votes": 0,
+    "committees": 0,
+    "key_votes": 0,
+    "sourced_quotes": 0
+  },
+  "capabilities": [
+    "members"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "lpin-wikidata-fill",
+  "source_live": null,
+  "note": "Wikidata sitting pull 2026-09-06. 453 named. Vacancies not invented.",
+  "roster_source": "https://www.wikidata.org/wiki/Q1135960"
+}

@@ -1,0 +1,33 @@
+{
+  "iso2": "tg",
+  "name": "Togo",
+  "region": "",
+  "chamber": "National Assembly",
+  "houses": "",
+  "system": "",
+  "seats": 58,
+  "election": "",
+  "session": "",
+  "kit": "map",
+  "lang": [
+    "en"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 58,
+    "sitting": 58,
+    "votes": 0,
+    "committees": 0,
+    "key_votes": 0,
+    "sourced_quotes": 0
+  },
+  "capabilities": [
+    "members"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "lpin-wikidata-fill",
+  "source_live": null,
+  "note": "Wikidata sitting pull 2026-09-06. 58 named. Vacancies not invented.",
+  "roster_source": "https://www.wikidata.org/wiki/Q1969578"
+}

@@ -1,0 +1,96 @@
+{
+  "iso2": "ca",
+  "kit_on_disk": true,
+  "objects": {
+    "committees.json": {
+      "state": "filled",
+      "count": 60
+    },
+    "ethics.json": {
+      "state": "filled",
+      "count": 1628
+    },
+    "gap.json": {
+      "state": "seeded",
+      "count": 0
+    },
+    "institutional.json": {
+      "state": "empty",
+      "count": 0
+    },
+    "issues.json": {
+      "state": "filled",
+      "count": 14
+    },
+    "members.json": {
+      "state": "filled",
+      "count": 338
+    },
+    "meta.json": {
+      "state": "filled",
+      "count": 21
+    },
+    "money.json": {
+      "state": "filled",
+      "count": 6
+    },
+    "parties.json": {
+      "state": "filled",
+      "count": 6
+    },
+    "pledges.json": {
+      "state": "filled",
+      "count": 39
+    },
+    "sources.json": {
+      "state": "filled",
+      "count": 98
+    },
+    "votes.json": {
+      "state": "filled",
+      "count": 173
+    }
+  },
+  "capital": {
+    "name": "Ottawa",
+    "lat": 45.418643,
+    "lon": -75.701961,
+    "kind": "capital"
+  },
+  "holes": [
+    {
+      "object": "ethics.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "gap.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "institutional.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "members.json",
+      "reason": "items 338 claimed_seats 343"
+    },
+    {
+      "object": "money.json",
+      "reason": "incomplete true; named_donors false"
+    },
+    {
+      "object": "parties.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "pledges.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "meta.json",
+      "reason": "incomplete true"
+    }
+  ],
+  "retrieved": "2026-08-29",
+  "source": "vendor/kept/kits/ca"
+}

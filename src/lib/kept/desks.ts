@@ -84,7 +84,7 @@ export function keptDesks(): KeptDesk[] {
       session: session || undefined,
     });
   }
-  cachedDesks = out.slice(0, 33);
+  cachedDesks = out;
   return cachedDesks;
 }
 

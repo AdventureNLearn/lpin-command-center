@@ -1,0 +1,48 @@
+{
+  "iso2": "il",
+  "incomplete": true,
+  "retrieved": "2026-08-20",
+  "note": "Public statutory/register categories only (4). No confidential annex. No invented amounts. Per-member filings not transcribed. knesset.gov.il Ethics Committee page cited once; host not looped.",
+  "items": [
+    {
+      "member_id": null,
+      "category": "ethics-rules",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://main.knesset.gov.il/Activity/committees/Ethics/Pages/CommitteeHome.aspx",
+      "label_en": "Knesset Ethics Committee rules (public)",
+      "note": "Public category. Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "outside-employment",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://main.knesset.gov.il/Activity/committees/Ethics/Pages/CommitteeHome.aspx",
+      "label_en": "Outside employment (public ethics rules)",
+      "note": "Public category. Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "gifts",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://main.knesset.gov.il/Activity/committees/Ethics/Pages/CommitteeHome.aspx",
+      "label_en": "Gifts (public ethics rules)",
+      "note": "Public category. Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "conflicts",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://main.knesset.gov.il/Activity/committees/Ethics/Pages/CommitteeHome.aspx",
+      "label_en": "Conflicts of interest (public ethics rules)",
+      "note": "Public category. Amounts not collected."
+    }
+  ]
+}

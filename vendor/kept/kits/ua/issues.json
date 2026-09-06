@@ -1,0 +1,129 @@
+{
+  "iso2": "ua",
+  "incomplete": false,
+  "note": "Issue taxonomy aligned to Verkhovna Rada IX policy fields (committees / wartime legislation). label_ko holds the Ukrainian label. Not municipality samples.",
+  "source_url": "https://w1.c1.rada.gov.ua/pls/site2/p_komitis",
+  "retrieved": "2026-08-20",
+  "items": [
+    {
+      "id": "anti-corruption",
+      "label_en": "anti-corruption",
+      "label_ko": "антикорупційна політика"
+    },
+    {
+      "id": "defence",
+      "label_en": "defence and veterans",
+      "label_ko": "національна безпека і ветерани"
+    },
+    {
+      "id": "eu-integration",
+      "label_en": "EU integration",
+      "label_ko": "європейська інтеграція"
+    },
+    {
+      "id": "justice",
+      "label_en": "justice and courts",
+      "label_ko": "правова політика і суди"
+    },
+    {
+      "id": "law-enforcement",
+      "label_en": "law enforcement",
+      "label_ko": "правоохоронна діяльність"
+    },
+    {
+      "id": "budget",
+      "label_en": "budget",
+      "label_ko": "бюджет"
+    },
+    {
+      "id": "taxes",
+      "label_en": "taxes and customs",
+      "label_ko": "податки і митниця"
+    },
+    {
+      "id": "energy",
+      "label_en": "energy and utilities",
+      "label_ko": "енергетика і ЖКП"
+    },
+    {
+      "id": "economy",
+      "label_en": "economy",
+      "label_ko": "економічний розвиток"
+    },
+    {
+      "id": "agriculture",
+      "label_en": "agriculture and land",
+      "label_ko": "аграрна і земельна політика"
+    },
+    {
+      "id": "environment",
+      "label_en": "environment",
+      "label_ko": "екологічна політика"
+    },
+    {
+      "id": "infrastructure",
+      "label_en": "transport and infrastructure",
+      "label_ko": "транспорт і інфраструктура"
+    },
+    {
+      "id": "healthcare",
+      "label_en": "healthcare",
+      "label_ko": "охорона здоров'я"
+    },
+    {
+      "id": "education",
+      "label_en": "education and science",
+      "label_ko": "освіта і наука"
+    },
+    {
+      "id": "social",
+      "label_en": "social policy and pensions",
+      "label_ko": "соціальна політика і пенсії"
+    },
+    {
+      "id": "housing",
+      "label_en": "housing",
+      "label_ko": "житло"
+    },
+    {
+      "id": "digital",
+      "label_en": "digital transformation",
+      "label_ko": "цифрова трансформація"
+    },
+    {
+      "id": "media",
+      "label_en": "media and information",
+      "label_ko": "гуманітарна і інформаційна політика"
+    },
+    {
+      "id": "language",
+      "label_en": "state language",
+      "label_ko": "державна мова"
+    },
+    {
+      "id": "human-rights",
+      "label_en": "human rights and de-occupation",
+      "label_ko": "права людини і деокупація"
+    },
+    {
+      "id": "reconstruction",
+      "label_en": "reconstruction",
+      "label_ko": "відновлення"
+    },
+    {
+      "id": "elections",
+      "label_en": "elections",
+      "label_ko": "вибори"
+    },
+    {
+      "id": "local-gov",
+      "label_en": "local self-government",
+      "label_ko": "місцеве самоврядування"
+    },
+    {
+      "id": "youth",
+      "label_en": "youth and sport",
+      "label_ko": "молодь і спорт"
+    }
+  ]
+}

@@ -1,0 +1,4200 @@
+{
+  "iso2": "us",
+  "retrieved": "2026-08-29",
+  "nodes": [
+    {
+      "id": "C00010603",
+      "kind": "committee",
+      "name": "DNC SERVICES CORP / DEMOCRATIC NATIONAL COMMITTEE",
+      "fec_id": "C00010603",
+      "source_url": "https://www.fec.gov/data/committee/C00010603/"
+    },
+    {
+      "id": "C00003418",
+      "kind": "committee",
+      "name": "REPUBLICAN NATIONAL COMMITTEE",
+      "fec_id": "C00003418",
+      "source_url": "https://www.fec.gov/data/committee/C00003418/"
+    },
+    {
+      "id": "C00000935",
+      "kind": "committee",
+      "name": "DCCC",
+      "fec_id": "C00000935",
+      "source_url": "https://www.fec.gov/data/committee/C00000935/"
+    },
+    {
+      "id": "C00075820",
+      "kind": "committee",
+      "name": "NRCC",
+      "fec_id": "C00075820",
+      "source_url": "https://www.fec.gov/data/committee/C00075820/"
+    },
+    {
+      "id": "C00042366",
+      "kind": "committee",
+      "name": "DSCC",
+      "fec_id": "C00042366",
+      "source_url": "https://www.fec.gov/data/committee/C00042366/"
+    },
+    {
+      "id": "C00027466",
+      "kind": "committee",
+      "name": "NRSC",
+      "fec_id": "C00027466",
+      "source_url": "https://www.fec.gov/data/committee/C00027466/"
+    },
+    {
+      "id": "C00797670",
+      "kind": "committee",
+      "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+      "fec_id": "C00797670",
+      "source_url": "https://www.fec.gov/data/committee/C00797670/"
+    },
+    {
+      "id": "C00030718",
+      "kind": "committee",
+      "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+      "fec_id": "C00030718",
+      "source_url": "https://www.fec.gov/data/committee/C00030718/"
+    },
+    {
+      "id": "C00144766",
+      "kind": "committee",
+      "name": "NATIONAL BEER WHOLESALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+      "fec_id": "C00144766",
+      "source_url": "https://www.fec.gov/data/committee/C00144766/"
+    },
+    {
+      "id": "C00110338",
+      "kind": "committee",
+      "name": "AMERICAN CRYSTAL SUGAR COMPANY POLITICAL ACTION COMMITTEE",
+      "fec_id": "C00110338",
+      "source_url": "https://www.fec.gov/data/committee/C00110338/"
+    },
+    {
+      "id": "C00040998",
+      "kind": "committee",
+      "name": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+      "fec_id": "C00040998",
+      "source_url": "https://www.fec.gov/data/committee/C00040998/"
+    },
+    {
+      "id": "C00004275",
+      "kind": "committee",
+      "name": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+      "fec_id": "C00004275",
+      "source_url": "https://www.fec.gov/data/committee/C00004275/"
+    },
+    {
+      "id": "C00007880",
+      "kind": "committee",
+      "name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
+      "fec_id": "C00007880",
+      "source_url": "https://www.fec.gov/data/committee/C00007880/"
+    },
+    {
+      "id": "C00002469",
+      "kind": "committee",
+      "name": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+      "fec_id": "C00002469",
+      "source_url": "https://www.fec.gov/data/committee/C00002469/"
+    },
+    {
+      "id": "C00011114",
+      "kind": "committee",
+      "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+      "fec_id": "C00011114",
+      "source_url": "https://www.fec.gov/data/committee/C00011114/"
+    },
+    {
+      "id": "C00010868",
+      "kind": "committee",
+      "name": "AMERICAN COUNCIL OF ENGINEERING COMPANIES (ACEC/PAC)",
+      "fec_id": "C00010868",
+      "source_url": "https://www.fec.gov/data/committee/C00010868/"
+    },
+    {
+      "id": "C00039578",
+      "kind": "committee",
+      "name": "THE COUNCIL OF INSURANCE AGENTS & BROKERS POLITICAL ACTION COMMITTEE",
+      "fec_id": "C00039578",
+      "source_url": "https://www.fec.gov/data/committee/C00039578/"
+    },
+    {
+      "id": "C00238725",
+      "kind": "committee",
+      "name": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+      "fec_id": "C00238725",
+      "source_url": "https://www.fec.gov/data/committee/C00238725/"
+    },
+    {
+      "id": "C00001016",
+      "kind": "committee",
+      "name": "CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE UNITED BROTHERHOOD OF CARPENTERS AND JOINERS",
+      "fec_id": "C00001016",
+      "source_url": "https://www.fec.gov/data/committee/C00001016/"
+    },
+    {
+      "id": "C00024521",
+      "kind": "committee",
+      "name": "AMERICAN ASSOCIATION FOR JUSTICE POLITICAL ACTION COMMITTEE (AAJ PAC)",
+      "fec_id": "C00024521",
+      "source_url": "https://www.fec.gov/data/committee/C00024521/"
+    },
+    {
+      "id": "C00002972",
+      "kind": "committee",
+      "name": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION AMERICA'S ELECTRIC COOPERATIVES PAC",
+      "fec_id": "C00002972",
+      "source_url": "https://www.fec.gov/data/committee/C00002972/"
+    },
+    {
+      "id": "C00000901",
+      "kind": "committee",
+      "name": "BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC)",
+      "fec_id": "C00000901",
+      "source_url": "https://www.fec.gov/data/committee/C00000901/"
+    },
+    {
+      "id": "C00035451",
+      "kind": "committee",
+      "name": "AIR LINE PILOTS ASSOCIATION PAC",
+      "fec_id": "C00035451",
+      "source_url": "https://www.fec.gov/data/committee/C00035451/"
+    },
+    {
+      "id": "C00284885",
+      "kind": "committee",
+      "name": "THE HOME DEPOT INC. POLITICAL ACTION COMMITTEE",
+      "fec_id": "C00284885",
+      "source_url": "https://www.fec.gov/data/committee/C00284885/"
+    },
+    {
+      "id": "C00109017",
+      "kind": "committee",
+      "name": "AT&T INC. EMPLOYEE FEDERAL POLITICAL ACTION COMMITTEE (AT&T EMPLOYEE FEDERAL PAC)",
+      "fec_id": "C00109017",
+      "source_url": "https://www.fec.gov/data/committee/C00109017/"
+    },
+    {
+      "id": "C00007542",
+      "kind": "committee",
+      "name": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
+      "fec_id": "C00007542",
+      "source_url": "https://www.fec.gov/data/committee/C00007542/"
+    },
+    {
+      "id": "C00248716",
+      "kind": "committee",
+      "name": "COMCAST CORPORATION & NBCUNIVERSAL POLITICAL ACTION COMMITTEE - FEDERAL",
+      "fec_id": "C00248716",
+      "source_url": "https://www.fec.gov/data/committee/C00248716/"
+    },
+    {
+      "id": "C00130773",
+      "kind": "committee",
+      "name": "NATIONAL MULTIFAMILY HOUSING COUNCIL POLITICAL ACTION COMMITTEE",
+      "fec_id": "C00130773",
+      "source_url": "https://www.fec.gov/data/committee/C00130773/"
+    },
+    {
+      "id": "C00027342",
+      "kind": "committee",
+      "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS POLITICAL ACTION COMMITTEE",
+      "fec_id": "C00027342",
+      "source_url": "https://www.fec.gov/data/committee/C00027342/"
+    },
+    {
+      "id": "C00106146",
+      "kind": "committee",
+      "name": "AMERICAN HOSPITAL ASSOCIATION PAC",
+      "fec_id": "C00106146",
+      "source_url": "https://www.fec.gov/data/committee/C00106146/"
+    },
+    {
+      "id": "C00004036",
+      "kind": "committee",
+      "name": "SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)",
+      "fec_id": "C00004036",
+      "source_url": "https://www.fec.gov/data/committee/C00004036/"
+    },
+    {
+      "id": "C00856237",
+      "kind": "committee",
+      "name": "COMMITTEE TO ELECT SHOMARI FIGURES FOR CONGRESS",
+      "fec_id": "C00856237",
+      "source_url": "https://www.fec.gov/data/committee/C00856237/",
+      "member_id": "F000481"
+    },
+    {
+      "id": "C00771709",
+      "kind": "committee",
+      "name": "COMMITTEE TO ELECT JESSE BROWN INC",
+      "fec_id": "C00771709",
+      "source_url": "https://www.fec.gov/data/committee/C00771709/"
+    },
+    {
+      "id": "C00796573",
+      "kind": "committee",
+      "name": "DEAN TRAN FOR CONGRESS",
+      "fec_id": "C00796573",
+      "source_url": "https://www.fec.gov/data/committee/C00796573/"
+    },
+    {
+      "id": "C00607200",
+      "kind": "committee",
+      "name": "SUOZZI FOR CONGRESS",
+      "fec_id": "C00607200",
+      "source_url": "https://www.fec.gov/data/committee/C00607200/",
+      "member_id": "S001201"
+    },
+    {
+      "id": "C00711150",
+      "kind": "committee",
+      "name": "MONDAIRE FOR CONGRESS",
+      "fec_id": "C00711150",
+      "source_url": "https://www.fec.gov/data/committee/C00711150/"
+    },
+    {
+      "id": "C00876490",
+      "kind": "committee",
+      "name": "CITIZENS FOR PETER BARCA",
+      "fec_id": "C00876490",
+      "source_url": "https://www.fec.gov/data/committee/C00876490/"
+    },
+    {
+      "id": "C00793760",
+      "kind": "committee",
+      "name": "JOSH RILEY FOR CONGRESS",
+      "fec_id": "C00793760",
+      "source_url": "https://www.fec.gov/data/committee/C00793760/",
+      "member_id": "R000622"
+    },
+    {
+      "id": "C00797217",
+      "kind": "committee",
+      "name": "MICHELLE VALLEJO FOR CONGRESS",
+      "fec_id": "C00797217",
+      "source_url": "https://www.fec.gov/data/committee/C00797217/"
+    },
+    {
+      "id": "C00784371",
+      "kind": "committee",
+      "name": "VARGAS FOR CONGRESS",
+      "fec_id": "C00784371",
+      "source_url": "https://www.fec.gov/data/committee/C00784371/"
+    },
+    {
+      "id": "C00575209",
+      "kind": "committee",
+      "name": "ANGIE CRAIG FOR CONGRESS",
+      "fec_id": "C00575209",
+      "source_url": "https://www.fec.gov/data/committee/C00575209/",
+      "member_id": "C001119"
+    },
+    {
+      "id": "C00658567",
+      "kind": "committee",
+      "name": "SUSAN WILD FOR CONGRESS",
+      "fec_id": "C00658567",
+      "source_url": "https://www.fec.gov/data/committee/C00658567/"
+    },
+    {
+      "id": "C00805275",
+      "kind": "committee",
+      "name": "ADAM FOR COLORADO",
+      "fec_id": "C00805275",
+      "source_url": "https://www.fec.gov/data/committee/C00805275/"
+    },
+    {
+      "id": "C00787820",
+      "kind": "committee",
+      "name": "CHRISTINA BOHANNAN FOR CONGRESS",
+      "fec_id": "C00787820",
+      "source_url": "https://www.fec.gov/data/committee/C00787820/"
+    },
+    {
+      "id": "C00841643",
+      "kind": "committee",
+      "name": "ALTMAN FOR CONGRESS",
+      "fec_id": "C00841643",
+      "source_url": "https://www.fec.gov/data/committee/C00841643/"
+    },
+    {
+      "id": "C00843425",
+      "kind": "committee",
+      "name": "JANELLE BYNUM FOR CONGRESS",
+      "fec_id": "C00843425",
+      "source_url": "https://www.fec.gov/data/committee/C00843425/",
+      "member_id": "B001326"
+    },
+    {
+      "id": "C00796144",
+      "kind": "committee",
+      "name": "VAL HOYLE FOR CONGRESS",
+      "fec_id": "C00796144",
+      "source_url": "https://www.fec.gov/data/committee/C00796144/",
+      "member_id": "H001094"
+    },
+    {
+      "id": "C00856021",
+      "kind": "committee",
+      "name": "BACCAM FOR IOWA",
+      "fec_id": "C00856021",
+      "source_url": "https://www.fec.gov/data/committee/C00856021/"
+    },
+    {
+      "id": "C00592659",
+      "kind": "committee",
+      "name": "VICENTE GONZALEZ FOR CONGRESS",
+      "fec_id": "C00592659",
+      "source_url": "https://www.fec.gov/data/committee/C00592659/",
+      "member_id": "G000581"
+    },
+    {
+      "id": "C00864207",
+      "kind": "committee",
+      "name": "KRISTEN FOR MICHIGAN",
+      "fec_id": "C00864207",
+      "source_url": "https://www.fec.gov/data/committee/C00864207/",
+      "member_id": "M001237"
+    },
+    {
+      "id": "C00844480",
+      "kind": "committee",
+      "name": "HERTEL FOR MICHIGAN",
+      "fec_id": "C00844480",
+      "source_url": "https://www.fec.gov/data/committee/C00844480/"
+    },
+    {
+      "id": "C00845008",
+      "kind": "committee",
+      "name": "MONICA TRANEL FOR MONTANA",
+      "fec_id": "C00845008",
+      "source_url": "https://www.fec.gov/data/committee/C00845008/"
+    },
+    {
+      "id": "C00773820",
+      "kind": "committee",
+      "name": "ENGEL FOR ARIZONA",
+      "fec_id": "C00773820",
+      "source_url": "https://www.fec.gov/data/committee/C00773820/"
+    },
+    {
+      "id": "C00806174",
+      "kind": "committee",
+      "name": "MARIE FOR CONGRESS",
+      "fec_id": "C00806174",
+      "source_url": "https://www.fec.gov/data/committee/C00806174/",
+      "member_id": "G000600"
+    },
+    {
+      "id": "C00786194",
+      "kind": "committee",
+      "name": "CISCOMANI FOR CONGRESS",
+      "fec_id": "C00786194",
+      "source_url": "https://www.fec.gov/data/committee/C00786194/",
+      "member_id": "C001133"
+    },
+    {
+      "id": "C00806307",
+      "kind": "committee",
+      "name": "BRANDON FOR CONGRESS NY22",
+      "fec_id": "C00806307",
+      "source_url": "https://www.fec.gov/data/committee/C00806307/"
+    },
+    {
+      "id": "C00607416",
+      "kind": "committee",
+      "name": "BRIAN FITZPATRICK FOR ALL OF US",
+      "fec_id": "C00607416",
+      "source_url": "https://www.fec.gov/data/committee/C00607416/",
+      "member_id": "F000466"
+    },
+    {
+      "id": "C00809426",
+      "kind": "committee",
+      "name": "DESPOSITO FOR NEW YORK",
+      "fec_id": "C00809426",
+      "source_url": "https://www.fec.gov/data/committee/C00809426/"
+    },
+    {
+      "id": "C00575167",
+      "kind": "committee",
+      "name": "DON BACON FOR CONGRESS",
+      "fec_id": "C00575167",
+      "source_url": "https://www.fec.gov/data/committee/C00575167/",
+      "member_id": "B001298"
+    },
+    {
+      "id": "C00784389",
+      "kind": "committee",
+      "name": "IOWANS FOR ZACH NUNN",
+      "fec_id": "C00784389",
+      "source_url": "https://www.fec.gov/data/committee/C00784389/",
+      "member_id": "N000193"
+    },
+    {
+      "id": "C00808279",
+      "kind": "committee",
+      "name": "JOHN DUARTE FOR CONGRESS",
+      "fec_id": "C00808279",
+      "source_url": "https://www.fec.gov/data/committee/C00808279/"
+    },
+    {
+      "id": "C00803502",
+      "kind": "committee",
+      "name": "JOHN JAMES FOR CONGRESS, INC.",
+      "fec_id": "C00803502",
+      "source_url": "https://www.fec.gov/data/committee/C00803502/",
+      "member_id": "J000307"
+    },
+    {
+      "id": "C00703058",
+      "kind": "committee",
+      "name": "KEAN FOR CONGRESS INC",
+      "fec_id": "C00703058",
+      "source_url": "https://www.fec.gov/data/committee/C00703058/",
+      "member_id": "K000398"
+    },
+    {
+      "id": "C00257337",
+      "kind": "committee",
+      "name": "KEN CALVERT FOR CONGRESS COMMITTEE",
+      "fec_id": "C00257337",
+      "source_url": "https://www.fec.gov/data/committee/C00257337/",
+      "member_id": "C000059"
+    },
+    {
+      "id": "C00776120",
+      "kind": "committee",
+      "name": "KIGGANS FOR CONGRESS",
+      "fec_id": "C00776120",
+      "source_url": "https://www.fec.gov/data/committee/C00776120/",
+      "member_id": "K000399"
+    },
+    {
+      "id": "C00806018",
+      "kind": "committee",
+      "name": "LALOTA FOR CONGRESS",
+      "fec_id": "C00806018",
+      "source_url": "https://www.fec.gov/data/committee/C00806018/",
+      "member_id": "L000598"
+    },
+    {
+      "id": "C00815415",
+      "kind": "committee",
+      "name": "LAWLER FOR CONGRESS, INC.",
+      "fec_id": "C00815415",
+      "source_url": "https://www.fec.gov/data/committee/C00815415/",
+      "member_id": "L000599"
+    },
+    {
+      "id": "C00765719",
+      "kind": "committee",
+      "name": "MONICA FOR CONGRESS",
+      "fec_id": "C00765719",
+      "source_url": "https://www.fec.gov/data/committee/C00765719/",
+      "member_id": "D000594"
+    },
+    {
+      "id": "C00784520",
+      "kind": "committee",
+      "name": "LORI CHAVEZ-DEREMER FOR CONGRESS",
+      "fec_id": "C00784520",
+      "source_url": "https://www.fec.gov/data/committee/C00784520/"
+    },
+    {
+      "id": "C00789586",
+      "kind": "committee",
+      "name": "MARC FOR US INC.",
+      "fec_id": "C00789586",
+      "source_url": "https://www.fec.gov/data/committee/C00789586/"
+    },
+    {
+      "id": "C00701102",
+      "kind": "committee",
+      "name": "MIKE GARCIA FOR CONGRESS",
+      "fec_id": "C00701102",
+      "source_url": "https://www.fec.gov/data/committee/C00701102/"
+    },
+    {
+      "id": "C00742007",
+      "kind": "committee",
+      "name": "VAN ORDEN FOR CONGRESS",
+      "fec_id": "C00742007",
+      "source_url": "https://www.fec.gov/data/committee/C00742007/",
+      "member_id": "V000135"
+    },
+    {
+      "id": "C00665638",
+      "kind": "committee",
+      "name": "YOUNG KIM FOR CONGRESS",
+      "fec_id": "C00665638",
+      "source_url": "https://www.fec.gov/data/committee/C00665638/",
+      "member_id": "K000397"
+    },
+    {
+      "id": "C00778159",
+      "kind": "committee",
+      "name": "ZINKE FOR CONGRESS",
+      "fec_id": "C00778159",
+      "source_url": "https://www.fec.gov/data/committee/C00778159/",
+      "member_id": "Z000018"
+    },
+    {
+      "id": "C00848648",
+      "kind": "committee",
+      "name": "DEBBIE FOR FLORIDA",
+      "fec_id": "C00848648",
+      "source_url": "https://www.fec.gov/data/committee/C00848648/"
+    },
+    {
+      "id": "C00840017",
+      "kind": "committee",
+      "name": "ALSOBROOKS FOR SENATE",
+      "fec_id": "C00840017",
+      "source_url": "https://www.fec.gov/data/committee/C00840017/"
+    },
+    {
+      "id": "C00839597",
+      "kind": "committee",
+      "name": "COLIN ALLRED FOR SENATE",
+      "fec_id": "C00839597",
+      "source_url": "https://www.fec.gov/data/committee/C00839597/"
+    },
+    {
+      "id": "C00850677",
+      "kind": "committee",
+      "name": "OSBORN FOR SENATE",
+      "fec_id": "C00850677",
+      "source_url": "https://www.fec.gov/data/committee/C00850677/"
+    },
+    {
+      "id": "C00844159",
+      "kind": "committee",
+      "name": "TIM SHEEHY FOR MONTANA",
+      "fec_id": "C00844159",
+      "source_url": "https://www.fec.gov/data/committee/C00844159/"
+    },
+    {
+      "id": "C00869016",
+      "kind": "committee",
+      "name": "HOGAN FOR MARYLAND INC.",
+      "fec_id": "C00869016",
+      "source_url": "https://www.fec.gov/data/committee/C00869016/"
+    },
+    {
+      "id": "C00852343",
+      "kind": "committee",
+      "name": "KARI LAKE FOR SENATE",
+      "fec_id": "C00852343",
+      "source_url": "https://www.fec.gov/data/committee/C00852343/"
+    },
+    {
+      "id": "C00849810",
+      "kind": "committee",
+      "name": "ROGERS FOR SENATE",
+      "fec_id": "C00849810",
+      "source_url": "https://www.fec.gov/data/committee/C00849810/"
+    },
+    {
+      "id": "C00498907",
+      "kind": "committee",
+      "name": "DEB FISCHER FOR US SENATE",
+      "fec_id": "C00498907",
+      "source_url": "https://www.fec.gov/data/committee/C00498907/"
+    },
+    {
+      "id": "C00676965",
+      "kind": "committee",
+      "name": "RICK SCOTT FOR FLORIDA",
+      "fec_id": "C00676965",
+      "source_url": "https://www.fec.gov/data/committee/C00676965/"
+    },
+    {
+      "id": "C00492785",
+      "kind": "committee",
+      "name": "TED CRUZ FOR SENATE",
+      "fec_id": "C00492785",
+      "source_url": "https://www.fec.gov/data/committee/C00492785/"
+    },
+    {
+      "id": "C00837484",
+      "kind": "committee",
+      "name": "BERNIE MORENO FOR SENATE",
+      "fec_id": "C00837484",
+      "source_url": "https://www.fec.gov/data/committee/C00837484/"
+    },
+    {
+      "id": "C00851980",
+      "kind": "committee",
+      "name": "FRIENDS OF DAVE MCCORMICK",
+      "fec_id": "C00851980",
+      "source_url": "https://www.fec.gov/data/committee/C00851980/"
+    },
+    {
+      "id": "C00870139",
+      "kind": "committee",
+      "name": "HOVDE FOR WISCONSIN",
+      "fec_id": "C00870139",
+      "source_url": "https://www.fec.gov/data/committee/C00870139/"
+    },
+    {
+      "id": "C00865956",
+      "kind": "committee",
+      "name": "NELLA FOR SENATE",
+      "fec_id": "C00865956",
+      "source_url": "https://www.fec.gov/data/committee/C00865956/"
+    },
+    {
+      "id": "C00845032",
+      "kind": "committee",
+      "name": "SAM BROWN FOR NEVADA",
+      "fec_id": "C00845032",
+      "source_url": "https://www.fec.gov/data/committee/C00845032/"
+    },
+    {
+      "id": "C00866152",
+      "kind": "committee",
+      "name": "CURTIS BASHAW FOR US SENATE, INC.",
+      "fec_id": "C00866152",
+      "source_url": "https://www.fec.gov/data/committee/C00866152/"
+    },
+    {
+      "id": "C00802488",
+      "kind": "committee",
+      "name": "HUNG CAO FOR VIRGINIA",
+      "fec_id": "C00802488",
+      "source_url": "https://www.fec.gov/data/committee/C00802488/"
+    },
+    {
+      "id": "C00867218",
+      "kind": "committee",
+      "name": "MESSMER FOR CONGRESS",
+      "fec_id": "C00867218",
+      "source_url": "https://www.fec.gov/data/committee/C00867218/",
+      "member_id": "M001233"
+    },
+    {
+      "id": "C00842336",
+      "kind": "committee",
+      "name": "BELLFORMISSOURI",
+      "fec_id": "C00842336",
+      "source_url": "https://www.fec.gov/data/committee/C00842336/",
+      "member_id": "B001324"
+    },
+    {
+      "id": "C00859041",
+      "kind": "committee",
+      "name": "GEORGE LATIMER FOR CONGRESS",
+      "fec_id": "C00859041",
+      "source_url": "https://www.fec.gov/data/committee/C00859041/",
+      "member_id": "L000606"
+    },
+    {
+      "id": "C00706614",
+      "kind": "committee",
+      "name": "TONY GONZALES FOR CONGRESS",
+      "fec_id": "C00706614",
+      "source_url": "https://www.fec.gov/data/committee/C00706614/"
+    },
+    {
+      "id": "C00394957",
+      "kind": "committee",
+      "name": "SCALISE FOR CONGRESS",
+      "fec_id": "C00394957",
+      "source_url": "https://www.fec.gov/data/committee/C00394957/",
+      "member_id": "S001176"
+    },
+    {
+      "id": "C00738872",
+      "kind": "committee",
+      "name": "BLAKE MOORE FOR CONGRESS",
+      "fec_id": "C00738872",
+      "source_url": "https://www.fec.gov/data/committee/C00738872/",
+      "member_id": "M001213"
+    },
+    {
+      "id": "C00838060",
+      "kind": "committee",
+      "name": "GABE AMO FOR CONGRESS",
+      "fec_id": "C00838060",
+      "source_url": "https://www.fec.gov/data/committee/C00838060/",
+      "member_id": "A000380"
+    },
+    {
+      "id": "C00856526",
+      "kind": "committee",
+      "name": "KENNEDY FOR CONGRESS",
+      "fec_id": "C00856526",
+      "source_url": "https://www.fec.gov/data/committee/C00856526/",
+      "member_id": "K000402"
+    },
+    {
+      "id": "C00859892",
+      "kind": "committee",
+      "name": "VINCE FONG FOR CONGRESS",
+      "fec_id": "C00859892",
+      "source_url": "https://www.fec.gov/data/committee/C00859892/",
+      "member_id": "F000480"
+    },
+    {
+      "id": "C00436386",
+      "kind": "committee",
+      "name": "FRIENDS OF JOHN BARRASSO",
+      "fec_id": "C00436386",
+      "source_url": "https://www.fec.gov/data/committee/C00436386/"
+    },
+    {
+      "id": "C00558627",
+      "kind": "committee",
+      "name": "GALLEGO FOR ARIZONA",
+      "fec_id": "C00558627",
+      "source_url": "https://www.fec.gov/data/committee/C00558627/"
+    },
+    {
+      "id": "C00359034",
+      "kind": "committee",
+      "name": "GRAVES FOR CONGRESS",
+      "fec_id": "C00359034",
+      "source_url": "https://www.fec.gov/data/committee/C00359034/",
+      "member_id": "G000546"
+    },
+    {
+      "id": "C00786657",
+      "kind": "committee",
+      "name": "FRY FOR CONGRESS",
+      "fec_id": "C00786657",
+      "source_url": "https://www.fec.gov/data/committee/C00786657/",
+      "member_id": "F000478"
+    },
+    {
+      "id": "C00502575",
+      "kind": "committee",
+      "name": "DR. RAUL RUIZ FOR CONGRESS",
+      "fec_id": "C00502575",
+      "source_url": "https://www.fec.gov/data/committee/C00502575/",
+      "member_id": "R000599"
+    },
+    {
+      "id": "C00795823",
+      "kind": "committee",
+      "name": "SYDNEY KAMLAGER-DOVE FOR CONGRESS",
+      "fec_id": "C00795823",
+      "source_url": "https://www.fec.gov/data/committee/C00795823/",
+      "member_id": "K000400"
+    },
+    {
+      "id": "C00334706",
+      "kind": "committee",
+      "name": "NAPOLITANO FOR CONGRESS",
+      "fec_id": "C00334706",
+      "source_url": "https://www.fec.gov/data/committee/C00334706/"
+    },
+    {
+      "id": "C00343871",
+      "kind": "committee",
+      "name": "SCHIFF FOR SENATE",
+      "fec_id": "C00343871",
+      "source_url": "https://www.fec.gov/data/committee/C00343871/"
+    },
+    {
+      "id": "C00829812",
+      "kind": "committee",
+      "name": "MCCLELLAN FOR CONGRESS",
+      "fec_id": "C00829812",
+      "source_url": "https://www.fec.gov/data/committee/C00829812/",
+      "member_id": "M001227"
+    },
+    {
+      "id": "C00842765",
+      "kind": "committee",
+      "name": "CELESTE FOR CONGRESS",
+      "fec_id": "C00842765",
+      "source_url": "https://www.fec.gov/data/committee/C00842765/",
+      "member_id": "M001228"
+    },
+    {
+      "id": "C00287912",
+      "kind": "committee",
+      "name": "LUCAS FOR CONGRESS",
+      "fec_id": "C00287912",
+      "source_url": "https://www.fec.gov/data/committee/C00287912/",
+      "member_id": "L000491"
+    },
+    {
+      "id": "C00495846",
+      "kind": "committee",
+      "name": "ANN WAGNER FOR CONGRESS",
+      "fec_id": "C00495846",
+      "source_url": "https://www.fec.gov/data/committee/C00495846/",
+      "member_id": "W000812"
+    },
+    {
+      "id": "C00858415",
+      "kind": "committee",
+      "name": "RULLI FOR OHIO",
+      "fec_id": "C00858415",
+      "source_url": "https://www.fec.gov/data/committee/C00858415/",
+      "member_id": "R000619"
+    },
+    {
+      "id": "C00395848",
+      "kind": "committee",
+      "name": "CLEAVER FOR CONGRESS",
+      "fec_id": "C00395848",
+      "source_url": "https://www.fec.gov/data/committee/C00395848/",
+      "member_id": "C001061"
+    },
+    {
+      "id": "C00798132",
+      "kind": "committee",
+      "name": "SHRI FOR CONGRESS",
+      "fec_id": "C00798132",
+      "source_url": "https://www.fec.gov/data/committee/C00798132/",
+      "member_id": "T000488"
+    },
+    {
+      "id": "C00558437",
+      "kind": "committee",
+      "name": "BONNIE WATSON COLEMAN FOR CONGRESS",
+      "fec_id": "C00558437",
+      "source_url": "https://www.fec.gov/data/committee/C00558437/",
+      "member_id": "W000822"
+    },
+    {
+      "id": "C00640003",
+      "kind": "committee",
+      "name": "MIKIE SHERRILL FOR CONGRESS",
+      "fec_id": "C00640003",
+      "source_url": "https://www.fec.gov/data/committee/C00640003/"
+    },
+    {
+      "id": "C00858969",
+      "kind": "committee",
+      "name": "EVAN LOW FOR CONGRESS",
+      "fec_id": "C00858969",
+      "source_url": "https://www.fec.gov/data/committee/C00858969/"
+    },
+    {
+      "id": "C00434563",
+      "kind": "committee",
+      "name": "MARTIN HEINRICH FOR SENATE",
+      "fec_id": "C00434563",
+      "source_url": "https://www.fec.gov/data/committee/C00434563/"
+    },
+    {
+      "id": "C00637215",
+      "kind": "committee",
+      "name": "BRITTANY PETTERSEN FOR COLORADO",
+      "fec_id": "C00637215",
+      "source_url": "https://www.fec.gov/data/committee/C00637215/",
+      "member_id": "P000620"
+    },
+    {
+      "id": "C00409219",
+      "kind": "committee",
+      "name": "MATSUI FOR CONGRESS",
+      "fec_id": "C00409219",
+      "source_url": "https://www.fec.gov/data/committee/C00409219/",
+      "member_id": "M001163"
+    },
+    {
+      "id": "C00543892",
+      "kind": "committee",
+      "name": "LOUDERMILK FOR CONGRESS",
+      "fec_id": "C00543892",
+      "source_url": "https://www.fec.gov/data/committee/C00543892/",
+      "member_id": "L000583"
+    },
+    {
+      "id": "C00647339",
+      "kind": "committee",
+      "name": "JOHN CURTIS FOR UTAH",
+      "fec_id": "C00647339",
+      "source_url": "https://www.fec.gov/data/committee/C00647339/"
+    },
+    {
+      "id": "C00650697",
+      "kind": "committee",
+      "name": "PETE STAUBER FOR CONGRESS",
+      "fec_id": "C00650697",
+      "source_url": "https://www.fec.gov/data/committee/C00650697/",
+      "member_id": "S001212"
+    },
+    {
+      "id": "C00500421",
+      "kind": "committee",
+      "name": "BONAMICI FOR CONGRESS",
+      "fec_id": "C00500421",
+      "source_url": "https://www.fec.gov/data/committee/C00500421/",
+      "member_id": "B001278"
+    },
+    {
+      "id": "C00801241",
+      "kind": "committee",
+      "name": "MIKE FLOOD FOR CONGRESS",
+      "fec_id": "C00801241",
+      "source_url": "https://www.fec.gov/data/committee/C00801241/",
+      "member_id": "F000474"
+    },
+    {
+      "id": "C00376087",
+      "kind": "committee",
+      "name": "MARIO DIAZ-BALART FOR CONGRESS",
+      "fec_id": "C00376087",
+      "source_url": "https://www.fec.gov/data/committee/C00376087/",
+      "member_id": "D000600"
+    },
+    {
+      "id": "C00670844",
+      "kind": "committee",
+      "name": "MAD 4 PA PAC",
+      "fec_id": "C00670844",
+      "source_url": "https://www.fec.gov/data/committee/C00670844/",
+      "member_id": "D000631"
+    },
+    {
+      "id": "C00581074",
+      "kind": "committee",
+      "name": "DARREN SOTO FOR CONGRESS",
+      "fec_id": "C00581074",
+      "source_url": "https://www.fec.gov/data/committee/C00581074/",
+      "member_id": "S001200"
+    },
+    {
+      "id": "C00817932",
+      "kind": "committee",
+      "name": "LANGWORTHY FOR CONGRESS",
+      "fec_id": "C00817932",
+      "source_url": "https://www.fec.gov/data/committee/C00817932/",
+      "member_id": "L000600"
+    },
+    {
+      "id": "C00729954",
+      "kind": "committee",
+      "name": "GARBARINO FOR CONGRESS",
+      "fec_id": "C00729954",
+      "source_url": "https://www.fec.gov/data/committee/C00729954/",
+      "member_id": "G000597"
+    },
+    {
+      "id": "C00637371",
+      "kind": "committee",
+      "name": "CHRISSY HOULAHAN FOR CONGRESS",
+      "fec_id": "C00637371",
+      "source_url": "https://www.fec.gov/data/committee/C00637371/",
+      "member_id": "H001085"
+    },
+    {
+      "id": "C00795450",
+      "kind": "committee",
+      "name": "JASMINE FOR US",
+      "fec_id": "C00795450",
+      "source_url": "https://www.fec.gov/data/committee/C00795450/",
+      "member_id": "C001130"
+    },
+    {
+      "id": "C00510461",
+      "kind": "committee",
+      "name": "PETE AGUILAR FOR CONGRESS",
+      "fec_id": "C00510461",
+      "source_url": "https://www.fec.gov/data/committee/C00510461/",
+      "member_id": "A000371"
+    },
+    {
+      "id": "C00575050",
+      "kind": "committee",
+      "name": "LAHOOD FOR CONGRESS",
+      "fec_id": "C00575050",
+      "source_url": "https://www.fec.gov/data/committee/C00575050/",
+      "member_id": "L000585"
+    },
+    {
+      "id": "C00501643",
+      "kind": "committee",
+      "name": "DAVID ROUZER FOR CONGRESS",
+      "fec_id": "C00501643",
+      "source_url": "https://www.fec.gov/data/committee/C00501643/",
+      "member_id": "R000603"
+    },
+    {
+      "id": "C00558213",
+      "kind": "committee",
+      "name": "DEBBIE DINGELL FOR CONGRESS",
+      "fec_id": "C00558213",
+      "source_url": "https://www.fec.gov/data/committee/C00558213/",
+      "member_id": "D000624"
+    },
+    {
+      "id": "C00654723",
+      "kind": "committee",
+      "name": "MEUSER FOR CONGRESS",
+      "fec_id": "C00654723",
+      "source_url": "https://www.fec.gov/data/committee/C00654723/",
+      "member_id": "M001204"
+    },
+    {
+      "id": "C00504704",
+      "kind": "committee",
+      "name": "CRAMER FOR SENATE",
+      "fec_id": "C00504704",
+      "source_url": "https://www.fec.gov/data/committee/C00504704/"
+    },
+    {
+      "id": "C00648295",
+      "kind": "committee",
+      "name": "RUSS FULCHER FOR IDAHO",
+      "fec_id": "C00648295",
+      "source_url": "https://www.fec.gov/data/committee/C00648295/",
+      "member_id": "F000469"
+    },
+    {
+      "id": "C00815290",
+      "kind": "committee",
+      "name": "PAT RYAN FOR CONGRESS",
+      "fec_id": "C00815290",
+      "source_url": "https://www.fec.gov/data/committee/C00815290/",
+      "member_id": "R000579"
+    },
+    {
+      "id": "C00435099",
+      "kind": "committee",
+      "name": "BILL FOSTER FOR CONGRESS",
+      "fec_id": "C00435099",
+      "source_url": "https://www.fec.gov/data/committee/C00435099/",
+      "member_id": "F000454"
+    },
+    {
+      "id": "C00648253",
+      "kind": "committee",
+      "name": "JOE NEGUSE FOR CONGRESS",
+      "fec_id": "C00648253",
+      "source_url": "https://www.fec.gov/data/committee/C00648253/",
+      "member_id": "N000191"
+    },
+    {
+      "id": "C00706747",
+      "kind": "committee",
+      "name": "FRIENDS OF MCCORMICK",
+      "fec_id": "C00706747",
+      "source_url": "https://www.fec.gov/data/committee/C00706747/",
+      "member_id": "M001218"
+    },
+    {
+      "id": "C00508804",
+      "kind": "committee",
+      "name": "SINEMA FOR ARIZONA",
+      "fec_id": "C00508804",
+      "source_url": "https://www.fec.gov/data/committee/C00508804/"
+    },
+    {
+      "id": "C00655613",
+      "kind": "committee",
+      "name": "SUSIE LEE FOR CONGRESS",
+      "fec_id": "C00655613",
+      "source_url": "https://www.fec.gov/data/committee/C00655613/",
+      "member_id": "L000590"
+    },
+    {
+      "id": "C00592154",
+      "kind": "committee",
+      "name": "JIMMY PANETTA FOR CONGRESS",
+      "fec_id": "C00592154",
+      "source_url": "https://www.fec.gov/data/committee/C00592154/",
+      "member_id": "P000613"
+    },
+    {
+      "id": "C00657833",
+      "kind": "committee",
+      "name": "GUY FOR CONGRESS",
+      "fec_id": "C00657833",
+      "source_url": "https://www.fec.gov/data/committee/C00657833/",
+      "member_id": "R000610"
+    },
+    {
+      "id": "C00304709",
+      "kind": "committee",
+      "name": "ADAM SMITH FOR CONGRESS COMMITTEE",
+      "fec_id": "C00304709",
+      "source_url": "https://www.fec.gov/data/committee/C00304709/",
+      "member_id": "S000510"
+    },
+    {
+      "id": "C00636092",
+      "kind": "committee",
+      "name": "HERN FOR CONGRESS",
+      "fec_id": "C00636092",
+      "source_url": "https://www.fec.gov/data/committee/C00636092/",
+      "member_id": "H001082"
+    },
+    {
+      "id": "C00541862",
+      "kind": "committee",
+      "name": "JASON SMITH FOR CONGRESS",
+      "fec_id": "C00541862",
+      "source_url": "https://www.fec.gov/data/committee/C00541862/",
+      "member_id": "S001195"
+    },
+    {
+      "id": "C00832436",
+      "kind": "committee",
+      "name": "PETE RICKETTS FOR SENATE",
+      "fec_id": "C00832436",
+      "source_url": "https://www.fec.gov/data/committee/C00832436/"
+    },
+    {
+      "id": "C00226522",
+      "kind": "committee",
+      "name": "RICHARD E NEAL FOR CONGRESS COMMITTEE",
+      "fec_id": "C00226522",
+      "source_url": "https://www.fec.gov/data/committee/C00226522/",
+      "member_id": "N000015"
+    },
+    {
+      "id": "C00721332",
+      "kind": "committee",
+      "name": "DARRELL ISSA FOR CONGRESS",
+      "fec_id": "C00721332",
+      "source_url": "https://www.fec.gov/data/committee/C00721332/",
+      "member_id": "I000056"
+    },
+    {
+      "id": "C00591065",
+      "kind": "committee",
+      "name": "DWIGHT EVANS FOR CONGRESS",
+      "fec_id": "C00591065",
+      "source_url": "https://www.fec.gov/data/committee/C00591065/",
+      "member_id": "E000296"
+    },
+    {
+      "id": "C00668228",
+      "kind": "committee",
+      "name": "NEVADANS FOR STEVEN HORSFORD",
+      "fec_id": "C00668228",
+      "source_url": "https://www.fec.gov/data/committee/C00668228/",
+      "member_id": "H001066"
+    },
+    {
+      "id": "C00467571",
+      "kind": "committee",
+      "name": "ANDY BARR FOR CONGRESS, INC.",
+      "fec_id": "C00467571",
+      "source_url": "https://www.fec.gov/data/committee/C00467571/",
+      "member_id": "B001282"
+    },
+    {
+      "id": "C00459099",
+      "kind": "committee",
+      "name": "DELBENE FOR CONGRESS",
+      "fec_id": "C00459099",
+      "source_url": "https://www.fec.gov/data/committee/C00459099/",
+      "member_id": "D000617"
+    },
+    {
+      "id": "C00652719",
+      "kind": "committee",
+      "name": "LAUREN UNDERWOOD FOR CONGRESS",
+      "fec_id": "C00652719",
+      "source_url": "https://www.fec.gov/data/committee/C00652719/",
+      "member_id": "U000040"
+    },
+    {
+      "id": "C00494856",
+      "kind": "committee",
+      "name": "LOIS FRANKEL FOR CONGRESS",
+      "fec_id": "C00494856",
+      "source_url": "https://www.fec.gov/data/committee/C00494856/",
+      "member_id": "F000462"
+    },
+    {
+      "id": "C00787788",
+      "kind": "committee",
+      "name": "CARAVEO FOR CONGRESS",
+      "fec_id": "C00787788",
+      "source_url": "https://www.fec.gov/data/committee/C00787788/"
+    },
+    {
+      "id": "C00660555",
+      "kind": "committee",
+      "name": "SYLVIA GARCIA FOR CONGRESS",
+      "fec_id": "C00660555",
+      "source_url": "https://www.fec.gov/data/committee/C00660555/",
+      "member_id": "G000587"
+    },
+    {
+      "id": "C00345546",
+      "kind": "committee",
+      "name": "CITIZENS TO ELECT RICK LARSEN",
+      "fec_id": "C00345546",
+      "source_url": "https://www.fec.gov/data/committee/C00345546/",
+      "member_id": "L000560"
+    },
+    {
+      "id": "C00786822",
+      "kind": "committee",
+      "name": "MAXWELL ALEJANDRO FROST FOR CONGRESS",
+      "fec_id": "C00786822",
+      "source_url": "https://www.fec.gov/data/committee/C00786822/",
+      "member_id": "F000476"
+    },
+    {
+      "id": "C00801274",
+      "kind": "committee",
+      "name": "EMILIA SYKES FOR CONGRESS",
+      "fec_id": "C00801274",
+      "source_url": "https://www.fec.gov/data/committee/C00801274/",
+      "member_id": "S001223"
+    },
+    {
+      "id": "36-1520690",
+      "kind": "org",
+      "name": "National Association Of Realtors",
+      "ein": "36-1520690",
+      "source_url": "https://projects.propublica.org/nonprofits/organizations/361520690"
+    },
+    {
+      "id": "36-0726140",
+      "kind": "org",
+      "name": "American Hospital Association Inc",
+      "ein": "36-0726140",
+      "source_url": "https://projects.propublica.org/nonprofits/organizations/360726140"
+    },
+    {
+      "id": "23-7065623",
+      "kind": "org",
+      "name": "Credit Union National Association Inc",
+      "ein": "23-7065623",
+      "source_url": "https://projects.propublica.org/nonprofits/organizations/237065623"
+    },
+    {
+      "id": "department-of-transportation",
+      "kind": "org",
+      "name": "Department of Transportation",
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_69A36522503700AMTDC_069"
+    },
+    {
+      "id": "M22USH2CHRG1",
+      "kind": "org",
+      "name": "NATIONAL RAILROAD PASSENGER CORPORATION",
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_69A36522503700AMTDC_069"
+    },
+    {
+      "id": "L3A1UJSRCT44",
+      "kind": "org",
+      "name": "GATEWAY DEVELOPMENT COMMISSION",
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_NY-2024-015_069"
+    },
+    {
+      "id": "department-of-housing-and-urban-development",
+      "kind": "org",
+      "name": "Department of Housing and Urban Development",
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_B-25-UU-15-0001_086"
+    },
+    {
+      "id": "VJLZC958JLH6",
+      "kind": "org",
+      "name": "COUNTY OF MAUI",
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_B-25-UU-15-0001_086"
+    },
+    {
+      "id": "department-of-commerce",
+      "kind": "org",
+      "name": "Department of Commerce",
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_2620B109_013"
+    },
+    {
+      "id": "FHN5LUMAKKA1",
+      "kind": "org",
+      "name": "MICHIGAN DEPARTMENT OF LABOR AND ECONOMIC OPPORTUNITY",
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_2620B109_013"
+    },
+    {
+      "id": "JZW4PGB4KQ39",
+      "kind": "org",
+      "name": "DEPARTMENT OF INFORMATION TECHNOLOGY",
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_3720B087_013"
+    },
+    {
+      "id": "KF32K54P7R73",
+      "kind": "org",
+      "name": "DEPARTMENT OF COMMERCE NORTH CAROLINA",
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_B-25-DU-37-0001_086"
+    },
+    {
+      "id": "department-of-homeland-security",
+      "kind": "org",
+      "name": "Department of Homeland Security",
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_4488DRNJP00000001_070"
+    },
+    {
+      "id": "FH4HGA3T4H65",
+      "kind": "org",
+      "name": "LAW & PUBLIC SAFETY, NEW JERSEY DEPARTMENT OF",
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_4488DRNJP00000001_070"
+    },
+    {
+      "id": "FMLYYM3GNG81",
+      "kind": "org",
+      "name": "TEXAS DEPARTMENT OF PUBLIC SAFETY",
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_4332DRTXP00000001_070"
+    },
+    {
+      "id": "UDLHCUUWF3J8",
+      "kind": "org",
+      "name": "NORTH CAROLINA DEPARTMENT OF PUBLIC SAFETY",
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_4827DRNCP00000001_070"
+    },
+    {
+      "id": "W6SDC59J9437",
+      "kind": "org",
+      "name": "PUBLIC SAFETY, MISSOURI DEPARTMENT OF",
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_4490DRMOP00000001_070"
+    },
+    {
+      "id": "VH65Q2NSMHE6",
+      "kind": "org",
+      "name": "OHIO DEPARTMENT OF PUBLIC SAFETY, EMERGENCY MANAGMENT AGENCY",
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_4507DROHP00000001_070"
+    },
+    {
+      "id": "department-of-health-and-human-services",
+      "kind": "org",
+      "name": "Department of Health and Human Services",
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_H79TI087745_075"
+    },
+    {
+      "id": "JYNBX28LBMJ9",
+      "kind": "org",
+      "name": "OHIO DEPARTMENT MENTAL HEALTH",
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_H79TI087745_075"
+    },
+    {
+      "id": "MLGMLZ76EMC3",
+      "kind": "org",
+      "name": "HUMAN SERVICES, NEW JERSEY DEPARTMENT OF",
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_H79TI085743_075"
+    },
+    {
+      "id": "WPJ4CDV7G9J4",
+      "kind": "org",
+      "name": "CAPITAL METROPOLITAN TRANSPORTATION AUTHORITY",
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_TX-2023-075_069"
+    },
+    {
+      "id": "DP59PALDWKH5",
+      "kind": "org",
+      "name": "DEPARTMENT OF BEHAVIORAL HEALTH AND DEVELOPMENTAL DISABILITIES",
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_H79TI087737_075"
+    },
+    {
+      "id": "department-of-justice",
+      "kind": "org",
+      "name": "Department of Justice",
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_15PBJA24GG00028PNCX_015"
+    },
+    {
+      "id": "P138LY34M6L6",
+      "kind": "org",
+      "name": "CITY OF CHICAGO",
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_15PBJA24GG00028PNCX_015"
+    },
+    {
+      "id": "JYGKV746MNG2",
+      "kind": "org",
+      "name": "CITY OF MILWAUKEE",
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_15PBJA24GG00027PNCX_015"
+    },
+    {
+      "id": "VLBMHDVQ4AP5",
+      "kind": "org",
+      "name": "THE NATIONAL CENTER FOR MISSING AND EXPLOITED CHILDREN",
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_15PJDP23GK04261MECP_015"
+    },
+    {
+      "id": "HBJYNP2M1GS6",
+      "kind": "org",
+      "name": "KERN COUNTY DIST ATTORNEY OFFICE",
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_15PBJA24GG05301JAGX_015"
+    },
+    {
+      "id": "national-science-foundation",
+      "kind": "org",
+      "name": "National Science Foundation",
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_2451977_049"
+    },
+    {
+      "id": "U44ZMVYU52U6",
+      "kind": "org",
+      "name": "THE UNIVERSITY OF TEXAS AT SAN ANTONIO",
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_2451977_049"
+    },
+    {
+      "id": "Q35KCJJNN3J3",
+      "kind": "org",
+      "name": "CITY OF SANTA MONICA",
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_15PBJA24GG05052JAGX_015"
+    },
+    {
+      "id": "KHYHV4NCNKC8",
+      "kind": "org",
+      "name": "CITY OF TORRANCE",
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_15PBJA24GG04651JAGX_015"
+    },
+    {
+      "id": "LGL5JFM5KDB8",
+      "kind": "org",
+      "name": "MARLBORO CITY",
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_15PBJA24GG04692JAGX_015"
+    }
+  ],
+  "edges": [
+    {
+      "from": "C00010603",
+      "to": "C00856237",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 426,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "F000481"
+    },
+    {
+      "from": "C00003418",
+      "to": "C00771709",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": -1000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00003418",
+      "to": "C00796573",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": -1000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00000935",
+      "to": "C00607200",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 14156,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "S001201"
+    },
+    {
+      "from": "C00000935",
+      "to": "C00711150",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 9420,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00000935",
+      "to": "C00876490",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 9323,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00000935",
+      "to": "C00793760",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 9263,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "R000622"
+    },
+    {
+      "from": "C00000935",
+      "to": "C00797217",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 9144,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00000935",
+      "to": "C00784371",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 8910,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00000935",
+      "to": "C00575209",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 8792,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "C001119"
+    },
+    {
+      "from": "C00000935",
+      "to": "C00658567",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 8715,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00000935",
+      "to": "C00805275",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 8713,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00000935",
+      "to": "C00787820",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 8653,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00000935",
+      "to": "C00841643",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 8437,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00000935",
+      "to": "C00843425",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 8325,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "B001326"
+    },
+    {
+      "from": "C00000935",
+      "to": "C00796144",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 8302,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "H001094"
+    },
+    {
+      "from": "C00000935",
+      "to": "C00856021",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 8212,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00000935",
+      "to": "C00592659",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 8060,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "G000581"
+    },
+    {
+      "from": "C00000935",
+      "to": "C00864207",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 8042,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "M001237"
+    },
+    {
+      "from": "C00000935",
+      "to": "C00844480",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 7738,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00000935",
+      "to": "C00845008",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 7670,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00000935",
+      "to": "C00773820",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 7643,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00000935",
+      "to": "C00806174",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 7447,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "G000600"
+    },
+    {
+      "from": "C00075820",
+      "to": "C00786194",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "C001133"
+    },
+    {
+      "from": "C00075820",
+      "to": "C00806307",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00075820",
+      "to": "C00607416",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "F000466"
+    },
+    {
+      "from": "C00075820",
+      "to": "C00809426",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00075820",
+      "to": "C00575167",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "B001298"
+    },
+    {
+      "from": "C00075820",
+      "to": "C00784389",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "N000193"
+    },
+    {
+      "from": "C00075820",
+      "to": "C00808279",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00075820",
+      "to": "C00803502",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "J000307"
+    },
+    {
+      "from": "C00075820",
+      "to": "C00703058",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "K000398"
+    },
+    {
+      "from": "C00075820",
+      "to": "C00257337",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "C000059"
+    },
+    {
+      "from": "C00075820",
+      "to": "C00776120",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "K000399"
+    },
+    {
+      "from": "C00075820",
+      "to": "C00806018",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "L000598"
+    },
+    {
+      "from": "C00075820",
+      "to": "C00815415",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "L000599"
+    },
+    {
+      "from": "C00075820",
+      "to": "C00765719",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "D000594"
+    },
+    {
+      "from": "C00075820",
+      "to": "C00784520",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00075820",
+      "to": "C00789586",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00075820",
+      "to": "C00701102",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00075820",
+      "to": "C00742007",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "V000135"
+    },
+    {
+      "from": "C00075820",
+      "to": "C00665638",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "K000397"
+    },
+    {
+      "from": "C00075820",
+      "to": "C00778159",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "Z000018"
+    },
+    {
+      "from": "C00042366",
+      "to": "C00848648",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 57800,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00042366",
+      "to": "C00840017",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 57800,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00042366",
+      "to": "C00839597",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 57800,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00042366",
+      "to": "C00850677",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 57800,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00027466",
+      "to": "C00844159",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 52800,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00027466",
+      "to": "C00869016",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 52800,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00027466",
+      "to": "C00852343",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 52800,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00027466",
+      "to": "C00849810",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 52800,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00027466",
+      "to": "C00498907",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 52800,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00027466",
+      "to": "C00676965",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 52800,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00027466",
+      "to": "C00492785",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 52800,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00027466",
+      "to": "C00837484",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 52800,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00027466",
+      "to": "C00851980",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 52800,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00027466",
+      "to": "C00870139",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 52800,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00027466",
+      "to": "C00865956",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 52800,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00027466",
+      "to": "C00845032",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 52800,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00027466",
+      "to": "C00866152",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 35000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00027466",
+      "to": "C00802488",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00797670",
+      "to": "C00867218",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 302937,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "M001233",
+      "issue_id": "israel"
+    },
+    {
+      "from": "C00797670",
+      "to": "C00842336",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 279607,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "B001324",
+      "issue_id": "israel"
+    },
+    {
+      "from": "C00797670",
+      "to": "C00859041",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 214179,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "L000606",
+      "issue_id": "israel"
+    },
+    {
+      "from": "C00797670",
+      "to": "C00706614",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 141500,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "issue_id": "israel"
+    },
+    {
+      "from": "C00797670",
+      "to": "C00394957",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 120564,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "S001176",
+      "issue_id": "israel"
+    },
+    {
+      "from": "C00030718",
+      "to": "C00706614",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00030718",
+      "to": "C00738872",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "M001213"
+    },
+    {
+      "from": "C00030718",
+      "to": "C00838060",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "A000380"
+    },
+    {
+      "from": "C00030718",
+      "to": "C00607200",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "S001201"
+    },
+    {
+      "from": "C00030718",
+      "to": "C00856526",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "K000402"
+    },
+    {
+      "from": "C00144766",
+      "to": "C00738872",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 20000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "M001213"
+    },
+    {
+      "from": "C00144766",
+      "to": "C00859892",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 11000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "F000480"
+    },
+    {
+      "from": "C00144766",
+      "to": "C00436386",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00144766",
+      "to": "C00558627",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00144766",
+      "to": "C00359034",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "G000546"
+    },
+    {
+      "from": "C00110338",
+      "to": "C00786657",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "F000478"
+    },
+    {
+      "from": "C00110338",
+      "to": "C00502575",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "R000599"
+    },
+    {
+      "from": "C00110338",
+      "to": "C00795823",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "K000400"
+    },
+    {
+      "from": "C00110338",
+      "to": "C00334706",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00110338",
+      "to": "C00343871",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00040998",
+      "to": "C00829812",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 20000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "M001227"
+    },
+    {
+      "from": "C00040998",
+      "to": "C00842765",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 20000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "M001228"
+    },
+    {
+      "from": "C00040998",
+      "to": "C00706614",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00040998",
+      "to": "C00738872",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "M001213"
+    },
+    {
+      "from": "C00040998",
+      "to": "C00607200",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "S001201"
+    },
+    {
+      "from": "C00004275",
+      "to": "C00706614",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00004275",
+      "to": "C00738872",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "M001213"
+    },
+    {
+      "from": "C00004275",
+      "to": "C00842765",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 12500,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "M001228"
+    },
+    {
+      "from": "C00004275",
+      "to": "C00287912",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 11999,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "L000491"
+    },
+    {
+      "from": "C00004275",
+      "to": "C00495846",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "W000812"
+    },
+    {
+      "from": "C00007880",
+      "to": "C00343871",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 20000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00007880",
+      "to": "C00859892",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 20000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "F000480"
+    },
+    {
+      "from": "C00007880",
+      "to": "C00858415",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "R000619"
+    },
+    {
+      "from": "C00007880",
+      "to": "C00706614",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 13500,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00007880",
+      "to": "C00395848",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "C001061"
+    },
+    {
+      "from": "C00002469",
+      "to": "C00607200",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "S001201"
+    },
+    {
+      "from": "C00002469",
+      "to": "C00798132",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "T000488"
+    },
+    {
+      "from": "C00002469",
+      "to": "C00395848",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "C001061"
+    },
+    {
+      "from": "C00002469",
+      "to": "C00558437",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "W000822"
+    },
+    {
+      "from": "C00002469",
+      "to": "C00640003",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00011114",
+      "to": "C00858969",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00011114",
+      "to": "C00434563",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00011114",
+      "to": "C00637215",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "P000620"
+    },
+    {
+      "from": "C00011114",
+      "to": "C00395848",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "C001061"
+    },
+    {
+      "from": "C00011114",
+      "to": "C00409219",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "M001163"
+    },
+    {
+      "from": "C00010868",
+      "to": "C00784520",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00010868",
+      "to": "C00706614",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00010868",
+      "to": "C00543892",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 11000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "L000583"
+    },
+    {
+      "from": "C00010868",
+      "to": "C00647339",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10250,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00010868",
+      "to": "C00650697",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "S001212"
+    },
+    {
+      "from": "C00039578",
+      "to": "C00842765",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 22500,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "M001228"
+    },
+    {
+      "from": "C00039578",
+      "to": "C00607200",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "S001201"
+    },
+    {
+      "from": "C00039578",
+      "to": "C00856526",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "K000402"
+    },
+    {
+      "from": "C00039578",
+      "to": "C00500421",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 12500,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "B001278"
+    },
+    {
+      "from": "C00039578",
+      "to": "C00801241",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 12000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "F000474"
+    },
+    {
+      "from": "C00238725",
+      "to": "C00607200",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "S001201"
+    },
+    {
+      "from": "C00238725",
+      "to": "C00376087",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 12500,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "D000600"
+    },
+    {
+      "from": "C00238725",
+      "to": "C00670844",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 12000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "D000631"
+    },
+    {
+      "from": "C00238725",
+      "to": "C00581074",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 12000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "S001200"
+    },
+    {
+      "from": "C00238725",
+      "to": "C00637215",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 12000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "P000620"
+    },
+    {
+      "from": "C00001016",
+      "to": "C00343871",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 20000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00001016",
+      "to": "C00815415",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "L000599"
+    },
+    {
+      "from": "C00001016",
+      "to": "C00817932",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "L000600"
+    },
+    {
+      "from": "C00001016",
+      "to": "C00729954",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "G000597"
+    },
+    {
+      "from": "C00001016",
+      "to": "C00806018",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "L000598"
+    },
+    {
+      "from": "C00024521",
+      "to": "C00607200",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "S001201"
+    },
+    {
+      "from": "C00024521",
+      "to": "C00856526",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 12500,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "K000402"
+    },
+    {
+      "from": "C00024521",
+      "to": "C00637371",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 11500,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "H001085"
+    },
+    {
+      "from": "C00024521",
+      "to": "C00795450",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "C001130"
+    },
+    {
+      "from": "C00024521",
+      "to": "C00510461",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "A000371"
+    },
+    {
+      "from": "C00002972",
+      "to": "C00706614",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 12000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00002972",
+      "to": "C00607200",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 11000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "S001201"
+    },
+    {
+      "from": "C00002972",
+      "to": "C00575050",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "L000585"
+    },
+    {
+      "from": "C00002972",
+      "to": "C00501643",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "R000603"
+    },
+    {
+      "from": "C00002972",
+      "to": "C00558213",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "D000624"
+    },
+    {
+      "from": "C00000901",
+      "to": "C00842765",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 27000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "M001228"
+    },
+    {
+      "from": "C00000901",
+      "to": "C00575167",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "B001298"
+    },
+    {
+      "from": "C00000901",
+      "to": "C00654723",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "M001204"
+    },
+    {
+      "from": "C00000901",
+      "to": "C00504704",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00000901",
+      "to": "C00648295",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "F000469"
+    },
+    {
+      "from": "C00035451",
+      "to": "C00858415",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 20000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "R000619"
+    },
+    {
+      "from": "C00035451",
+      "to": "C00815290",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "R000579"
+    },
+    {
+      "from": "C00035451",
+      "to": "C00435099",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 12500,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "F000454"
+    },
+    {
+      "from": "C00035451",
+      "to": "C00648253",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 12500,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "N000191"
+    },
+    {
+      "from": "C00035451",
+      "to": "C00670844",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 12000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "D000631"
+    },
+    {
+      "from": "C00284885",
+      "to": "C00706747",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "M001218"
+    },
+    {
+      "from": "C00284885",
+      "to": "C00784389",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 12500,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "N000193"
+    },
+    {
+      "from": "C00284885",
+      "to": "C00394957",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "S001176"
+    },
+    {
+      "from": "C00284885",
+      "to": "C00508804",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00284885",
+      "to": "C00655613",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "L000590"
+    },
+    {
+      "from": "C00109017",
+      "to": "C00592154",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "P000613"
+    },
+    {
+      "from": "C00109017",
+      "to": "C00657833",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "R000610"
+    },
+    {
+      "from": "C00109017",
+      "to": "C00304709",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "S000510"
+    },
+    {
+      "from": "C00109017",
+      "to": "C00636092",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "H001082"
+    },
+    {
+      "from": "C00109017",
+      "to": "C00541862",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "S001195"
+    },
+    {
+      "from": "C00007542",
+      "to": "C00815290",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "R000579"
+    },
+    {
+      "from": "C00007542",
+      "to": "C00838060",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "A000380"
+    },
+    {
+      "from": "C00007542",
+      "to": "C00856237",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "F000481"
+    },
+    {
+      "from": "C00007542",
+      "to": "C00858969",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 14500,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00007542",
+      "to": "C00607200",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 12500,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "S001201"
+    },
+    {
+      "from": "C00248716",
+      "to": "C00832436",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 20000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00248716",
+      "to": "C00226522",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 11000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "N000015"
+    },
+    {
+      "from": "C00248716",
+      "to": "C00721332",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "I000056"
+    },
+    {
+      "from": "C00248716",
+      "to": "C00591065",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "E000296"
+    },
+    {
+      "from": "C00248716",
+      "to": "C00668228",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "H001066"
+    },
+    {
+      "from": "C00130773",
+      "to": "C00467571",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "B001282"
+    },
+    {
+      "from": "C00130773",
+      "to": "C00592154",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "P000613"
+    },
+    {
+      "from": "C00130773",
+      "to": "C00495846",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "W000812"
+    },
+    {
+      "from": "C00130773",
+      "to": "C00665638",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "K000397"
+    },
+    {
+      "from": "C00130773",
+      "to": "C00459099",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "D000617"
+    },
+    {
+      "from": "C00027342",
+      "to": "C00343871",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 20000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00027342",
+      "to": "C00558627",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00027342",
+      "to": "C00607200",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "S001201"
+    },
+    {
+      "from": "C00027342",
+      "to": "C00652719",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 11500,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "U000040"
+    },
+    {
+      "from": "C00027342",
+      "to": "C00494856",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "F000462"
+    },
+    {
+      "from": "C00106146",
+      "to": "C00607200",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "S001201"
+    },
+    {
+      "from": "C00106146",
+      "to": "C00817932",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10500,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "L000600"
+    },
+    {
+      "from": "C00106146",
+      "to": "C00809426",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00106146",
+      "to": "C00787788",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported"
+    },
+    {
+      "from": "C00106146",
+      "to": "C00815290",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "R000579"
+    },
+    {
+      "from": "C00004036",
+      "to": "C00829812",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "M001227",
+      "issue_id": "education"
+    },
+    {
+      "from": "C00004036",
+      "to": "C00660555",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 15000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "G000587",
+      "issue_id": "education"
+    },
+    {
+      "from": "C00004036",
+      "to": "C00345546",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "L000560",
+      "issue_id": "education"
+    },
+    {
+      "from": "C00004036",
+      "to": "C00786822",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "F000476",
+      "issue_id": "education"
+    },
+    {
+      "from": "C00004036",
+      "to": "C00801274",
+      "rel": "contributed",
+      "filing": "fec",
+      "amount": 10000,
+      "year": 2024,
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip",
+      "evidence": "Supported",
+      "member_id": "S001223",
+      "issue_id": "education"
+    },
+    {
+      "from": "department-of-transportation",
+      "to": "M22USH2CHRG1",
+      "rel": "granted",
+      "filing": "usaspending",
+      "amount": 15642357036.58,
+      "year": 2022,
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_69A36522503700AMTDC_069",
+      "evidence": "Supported",
+      "recipient": "NATIONAL RAILROAD PASSENGER CORPORATION",
+      "awarding_agency": "Department of Transportation",
+      "assistance_listing": {
+        "cfda_number": "20.315",
+        "cfda_title": "National Railroad Passenger Corporation Grants"
+      },
+      "place_of_performance": {
+        "state_code": "DC",
+        "congressional_code": "98",
+        "country_name": "UNITED STATES"
+      },
+      "program_area": "infrastructure"
+    },
+    {
+      "from": "department-of-transportation",
+      "to": "M22USH2CHRG1",
+      "rel": "granted",
+      "filing": "usaspending",
+      "amount": 5945000000.0,
+      "year": 2022,
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_69A36522503710AMTDC_069",
+      "evidence": "Supported",
+      "recipient": "NATIONAL RAILROAD PASSENGER CORPORATION",
+      "awarding_agency": "Department of Transportation",
+      "assistance_listing": {
+        "cfda_number": "20.315",
+        "cfda_title": "National Railroad Passenger Corporation Grants"
+      },
+      "place_of_performance": {
+        "state_code": "DC",
+        "congressional_code": "98",
+        "country_name": "UNITED STATES"
+      },
+      "program_area": "infrastructure"
+    },
+    {
+      "from": "department-of-transportation",
+      "to": "M22USH2CHRG1",
+      "rel": "granted",
+      "filing": "usaspending",
+      "amount": 3938381038.0,
+      "year": 2024,
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_69A36525421100FSPDC_069",
+      "evidence": "Supported",
+      "recipient": "NATIONAL RAILROAD PASSENGER CORPORATION",
+      "awarding_agency": "Department of Transportation",
+      "assistance_listing": {
+        "cfda_number": "20.326",
+        "cfda_title": "Federal-State Partnership for Intercity Passenger Rail"
+      },
+      "place_of_performance": {
+        "state_code": "MD",
+        "congressional_code": "90",
+        "country_name": "UNITED STATES"
+      },
+      "program_area": "infrastructure"
+    },
+    {
+      "from": "department-of-transportation",
+      "to": "L3A1UJSRCT44",
+      "rel": "granted",
+      "filing": "usaspending",
+      "amount": 2200000000.0,
+      "year": 2024,
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_NY-2024-015_069",
+      "evidence": "Supported",
+      "recipient": "GATEWAY DEVELOPMENT COMMISSION",
+      "awarding_agency": "Department of Transportation",
+      "assistance_listing": {
+        "cfda_number": "20.500",
+        "cfda_title": "Federal Transit Capital Investment Grants"
+      },
+      "place_of_performance": {
+        "state_code": "NY",
+        "congressional_code": null,
+        "country_name": "UNITED STATES"
+      },
+      "program_area": "infrastructure"
+    },
+    {
+      "from": "department-of-housing-and-urban-development",
+      "to": "VJLZC958JLH6",
+      "rel": "granted",
+      "filing": "usaspending",
+      "amount": 1639381000.0,
+      "year": 2025,
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_B-25-UU-15-0001_086",
+      "evidence": "Supported",
+      "recipient": "COUNTY OF MAUI",
+      "awarding_agency": "Department of Housing and Urban Development",
+      "assistance_listing": {
+        "cfda_number": "14.228",
+        "cfda_title": "Community Development Block Grants/State's program and Non-Entitlement Grants in Hawaii"
+      },
+      "place_of_performance": {
+        "state_code": "HI",
+        "congressional_code": "02",
+        "country_name": "UNITED STATES"
+      },
+      "member_id": "T000487"
+    },
+    {
+      "from": "department-of-commerce",
+      "to": "FHN5LUMAKKA1",
+      "rel": "granted",
+      "filing": "usaspending",
+      "amount": 1559362479.52,
+      "year": 2022,
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_2620B109_013",
+      "evidence": "Supported",
+      "recipient": "MICHIGAN DEPARTMENT OF LABOR AND ECONOMIC OPPORTUNITY",
+      "awarding_agency": "Department of Commerce",
+      "assistance_listing": {
+        "cfda_number": "11.035",
+        "cfda_title": "Broadband Equity, Access, and Deployment Program"
+      },
+      "place_of_performance": {
+        "state_code": "MI",
+        "congressional_code": "07",
+        "country_name": "UNITED STATES"
+      },
+      "program_area": "infrastructure",
+      "member_id": "B001321"
+    },
+    {
+      "from": "department-of-commerce",
+      "to": "JZW4PGB4KQ39",
+      "rel": "granted",
+      "filing": "usaspending",
+      "amount": 1532999481.0,
+      "year": 2022,
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_3720B087_013",
+      "evidence": "Supported",
+      "recipient": "DEPARTMENT OF INFORMATION TECHNOLOGY",
+      "awarding_agency": "Department of Commerce",
+      "assistance_listing": {
+        "cfda_number": "11.035",
+        "cfda_title": "Broadband Equity, Access, and Deployment Program"
+      },
+      "place_of_performance": {
+        "state_code": "NC",
+        "congressional_code": "02",
+        "country_name": "UNITED STATES"
+      },
+      "program_area": "infrastructure",
+      "member_id": "R000305"
+    },
+    {
+      "from": "department-of-housing-and-urban-development",
+      "to": "KF32K54P7R73",
+      "rel": "granted",
+      "filing": "usaspending",
+      "amount": 1428120000.0,
+      "year": 2025,
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_B-25-DU-37-0001_086",
+      "evidence": "Supported",
+      "recipient": "DEPARTMENT OF COMMERCE NORTH CAROLINA",
+      "awarding_agency": "Department of Housing and Urban Development",
+      "assistance_listing": {
+        "cfda_number": "14.228",
+        "cfda_title": "Community Development Block Grants/State's program and Non-Entitlement Grants in Hawaii"
+      },
+      "place_of_performance": {
+        "state_code": "NC",
+        "congressional_code": "02",
+        "country_name": "UNITED STATES"
+      },
+      "member_id": "R000305"
+    },
+    {
+      "from": "department-of-homeland-security",
+      "to": "FH4HGA3T4H65",
+      "rel": "granted",
+      "filing": "usaspending",
+      "amount": 3234494020.89,
+      "year": 2020,
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_4488DRNJP00000001_070",
+      "evidence": "Supported",
+      "recipient": "LAW & PUBLIC SAFETY, NEW JERSEY DEPARTMENT OF",
+      "awarding_agency": "Department of Homeland Security",
+      "assistance_listing": {
+        "cfda_number": "97.036",
+        "cfda_title": "Disaster Grants - Public Assistance (Presidentially Declared Disasters)"
+      },
+      "place_of_performance": {
+        "state_code": "NJ",
+        "congressional_code": "03",
+        "country_name": "UNITED STATES"
+      },
+      "member_id": "C001136"
+    },
+    {
+      "from": "department-of-homeland-security",
+      "to": "FMLYYM3GNG81",
+      "rel": "granted",
+      "filing": "usaspending",
+      "amount": 2987947852.21,
+      "year": 2017,
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_4332DRTXP00000001_070",
+      "evidence": "Supported",
+      "recipient": "TEXAS DEPARTMENT OF PUBLIC SAFETY",
+      "awarding_agency": "Department of Homeland Security",
+      "assistance_listing": {
+        "cfda_number": "97.036",
+        "cfda_title": "Disaster Grants - Public Assistance (Presidentially Declared Disasters)"
+      },
+      "place_of_performance": {
+        "state_code": "TX",
+        "congressional_code": "25",
+        "country_name": "UNITED STATES"
+      },
+      "member_id": "W000816"
+    },
+    {
+      "from": "department-of-homeland-security",
+      "to": "UDLHCUUWF3J8",
+      "rel": "granted",
+      "filing": "usaspending",
+      "amount": 2397544411.14,
+      "year": 2024,
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_4827DRNCP00000001_070",
+      "evidence": "Supported",
+      "recipient": "NORTH CAROLINA DEPARTMENT OF PUBLIC SAFETY",
+      "awarding_agency": "Department of Homeland Security",
+      "assistance_listing": {
+        "cfda_number": "97.036",
+        "cfda_title": "Disaster Grants - Public Assistance (Presidentially Declared Disasters)"
+      },
+      "place_of_performance": {
+        "state_code": "NC",
+        "congressional_code": "02",
+        "country_name": "UNITED STATES"
+      },
+      "member_id": "R000305"
+    },
+    {
+      "from": "department-of-homeland-security",
+      "to": "FH4HGA3T4H65",
+      "rel": "granted",
+      "filing": "usaspending",
+      "amount": 2301580425.27,
+      "year": 2012,
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_4086DRNJP0000001_070",
+      "evidence": "Supported",
+      "recipient": "LAW & PUBLIC SAFETY, NEW JERSEY DEPARTMENT OF",
+      "awarding_agency": "Department of Homeland Security",
+      "assistance_listing": {
+        "cfda_number": "97.036",
+        "cfda_title": "Disaster Grants - Public Assistance (Presidentially Declared Disasters)"
+      },
+      "place_of_performance": {
+        "state_code": "NJ",
+        "congressional_code": "03",
+        "country_name": "UNITED STATES"
+      },
+      "member_id": "C001136"
+    },
+    {
+      "from": "department-of-homeland-security",
+      "to": "UDLHCUUWF3J8",
+      "rel": "granted",
+      "filing": "usaspending",
+      "amount": 2064384516.79,
+      "year": 2020,
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_4487DRNCP00000001_070",
+      "evidence": "Supported",
+      "recipient": "NORTH CAROLINA DEPARTMENT OF PUBLIC SAFETY",
+      "awarding_agency": "Department of Homeland Security",
+      "assistance_listing": {
+        "cfda_number": "97.036",
+        "cfda_title": "Disaster Grants - Public Assistance (Presidentially Declared Disasters)"
+      },
+      "place_of_performance": {
+        "state_code": "NC",
+        "congressional_code": "02",
+        "country_name": "UNITED STATES"
+      },
+      "member_id": "R000305"
+    },
+    {
+      "from": "department-of-homeland-security",
+      "to": "W6SDC59J9437",
+      "rel": "granted",
+      "filing": "usaspending",
+      "amount": 1205771005.95,
+      "year": 2020,
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_4490DRMOP00000001_070",
+      "evidence": "Supported",
+      "recipient": "PUBLIC SAFETY, MISSOURI DEPARTMENT OF",
+      "awarding_agency": "Department of Homeland Security",
+      "assistance_listing": {
+        "cfda_number": "97.036",
+        "cfda_title": "Disaster Grants - Public Assistance (Presidentially Declared Disasters)"
+      },
+      "place_of_performance": {
+        "state_code": "MO",
+        "congressional_code": "03",
+        "country_name": "UNITED STATES"
+      },
+      "member_id": "O000177"
+    },
+    {
+      "from": "department-of-homeland-security",
+      "to": "VH65Q2NSMHE6",
+      "rel": "granted",
+      "filing": "usaspending",
+      "amount": 1018343892.71,
+      "year": 2020,
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_4507DROHP00000001_070",
+      "evidence": "Supported",
+      "recipient": "OHIO DEPARTMENT OF PUBLIC SAFETY, EMERGENCY MANAGMENT AGENCY",
+      "awarding_agency": "Department of Homeland Security",
+      "assistance_listing": {
+        "cfda_number": "97.036",
+        "cfda_title": "Disaster Grants - Public Assistance (Presidentially Declared Disasters)"
+      },
+      "place_of_performance": {
+        "state_code": "OH",
+        "congressional_code": "03",
+        "country_name": "UNITED STATES"
+      },
+      "member_id": "B001281"
+    },
+    {
+      "from": "department-of-homeland-security",
+      "to": "UDLHCUUWF3J8",
+      "rel": "granted",
+      "filing": "usaspending",
+      "amount": 789830913.95,
+      "year": 2018,
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_4393DRNCP00000001_070",
+      "evidence": "Supported",
+      "recipient": "NORTH CAROLINA DEPARTMENT OF PUBLIC SAFETY",
+      "awarding_agency": "Department of Homeland Security",
+      "assistance_listing": {
+        "cfda_number": "97.036",
+        "cfda_title": "Disaster Grants - Public Assistance (Presidentially Declared Disasters)"
+      },
+      "place_of_performance": {
+        "state_code": "NC",
+        "congressional_code": "02",
+        "country_name": "UNITED STATES"
+      },
+      "member_id": "R000305"
+    },
+    {
+      "from": "department-of-health-and-human-services",
+      "to": "JYNBX28LBMJ9",
+      "rel": "granted",
+      "filing": "usaspending",
+      "amount": 305197226.0,
+      "year": 2024,
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_H79TI087745_075",
+      "evidence": "Supported",
+      "recipient": "OHIO DEPARTMENT MENTAL HEALTH",
+      "awarding_agency": "Department of Health and Human Services",
+      "assistance_listing": {
+        "cfda_number": "93.788",
+        "cfda_title": "Opioid STR"
+      },
+      "place_of_performance": {
+        "state_code": "OH",
+        "congressional_code": "90",
+        "country_name": "UNITED STATES"
+      }
+    },
+    {
+      "from": "department-of-health-and-human-services",
+      "to": "MLGMLZ76EMC3",
+      "rel": "granted",
+      "filing": "usaspending",
+      "amount": 133800918.31,
+      "year": 2022,
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_H79TI085743_075",
+      "evidence": "Supported",
+      "recipient": "HUMAN SERVICES, NEW JERSEY DEPARTMENT OF",
+      "awarding_agency": "Department of Health and Human Services",
+      "assistance_listing": {
+        "cfda_number": "93.243",
+        "cfda_title": "Substance Abuse and Mental Health Services Projects of Regional and National Significance"
+      },
+      "place_of_performance": {
+        "state_code": "NJ",
+        "congressional_code": "12",
+        "country_name": "UNITED STATES"
+      },
+      "member_id": "W000822"
+    },
+    {
+      "from": "department-of-transportation",
+      "to": "WPJ4CDV7G9J4",
+      "rel": "granted",
+      "filing": "usaspending",
+      "amount": 87351196.0,
+      "year": 2023,
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_TX-2023-075_069",
+      "evidence": "Supported",
+      "recipient": "CAPITAL METROPOLITAN TRANSPORTATION AUTHORITY",
+      "awarding_agency": "Department of Transportation",
+      "assistance_listing": {
+        "cfda_number": "20.507",
+        "cfda_title": "Federal Transit Formula Grants"
+      },
+      "place_of_performance": {
+        "state_code": "TX",
+        "congressional_code": null,
+        "country_name": "UNITED STATES"
+      }
+    },
+    {
+      "from": "department-of-health-and-human-services",
+      "to": "DP59PALDWKH5",
+      "rel": "granted",
+      "filing": "usaspending",
+      "amount": 87197946.0,
+      "year": 2024,
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_H79TI087737_075",
+      "evidence": "Supported",
+      "recipient": "DEPARTMENT OF BEHAVIORAL HEALTH AND DEVELOPMENTAL DISABILITIES",
+      "awarding_agency": "Department of Health and Human Services",
+      "assistance_listing": {
+        "cfda_number": "93.788",
+        "cfda_title": "Opioid STR"
+      },
+      "place_of_performance": {
+        "state_code": "GA",
+        "congressional_code": "05",
+        "country_name": "UNITED STATES"
+      },
+      "member_id": "W000788"
+    },
+    {
+      "from": "department-of-justice",
+      "to": "P138LY34M6L6",
+      "rel": "granted",
+      "filing": "usaspending",
+      "amount": 75000000.0,
+      "year": 2024,
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_15PBJA24GG00028PNCX_015",
+      "evidence": "Supported",
+      "recipient": "CITY OF CHICAGO",
+      "awarding_agency": "Department of Justice",
+      "assistance_listing": {
+        "cfda_number": "16.738",
+        "cfda_title": "Edward Byrne Memorial Justice Assistance Grant Program"
+      },
+      "place_of_performance": {
+        "state_code": "IL",
+        "congressional_code": "01",
+        "country_name": "UNITED STATES"
+      },
+      "program_area": "law_enforcement",
+      "member_id": "J000309"
+    },
+    {
+      "from": "department-of-justice",
+      "to": "JYGKV746MNG2",
+      "rel": "granted",
+      "filing": "usaspending",
+      "amount": 75000000.0,
+      "year": 2024,
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_15PBJA24GG00027PNCX_015",
+      "evidence": "Supported",
+      "recipient": "CITY OF MILWAUKEE",
+      "awarding_agency": "Department of Justice",
+      "assistance_listing": {
+        "cfda_number": "16.738",
+        "cfda_title": "Edward Byrne Memorial Justice Assistance Grant Program"
+      },
+      "place_of_performance": {
+        "state_code": "WI",
+        "congressional_code": "04",
+        "country_name": "UNITED STATES"
+      },
+      "program_area": "law_enforcement",
+      "member_id": "M001160"
+    },
+    {
+      "from": "department-of-health-and-human-services",
+      "to": "DP59PALDWKH5",
+      "rel": "granted",
+      "filing": "usaspending",
+      "amount": 44009499.34,
+      "year": 2022,
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_H79TI085741_075",
+      "evidence": "Supported",
+      "recipient": "DEPARTMENT OF BEHAVIORAL HEALTH AND DEVELOPMENTAL DISABILITIES",
+      "awarding_agency": "Department of Health and Human Services",
+      "assistance_listing": {
+        "cfda_number": "93.243",
+        "cfda_title": "Substance Abuse and Mental Health Services Projects of Regional and National Significance"
+      },
+      "place_of_performance": {
+        "state_code": "GA",
+        "congressional_code": null,
+        "country_name": "UNITED STATES"
+      }
+    },
+    {
+      "from": "department-of-justice",
+      "to": "VLBMHDVQ4AP5",
+      "rel": "granted",
+      "filing": "usaspending",
+      "amount": 41383391.0,
+      "year": 2023,
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_15PJDP23GK04261MECP_015",
+      "evidence": "Supported",
+      "recipient": "THE NATIONAL CENTER FOR MISSING AND EXPLOITED CHILDREN",
+      "awarding_agency": "Department of Justice",
+      "assistance_listing": {
+        "cfda_number": "16.543",
+        "cfda_title": "Missing Children's Assistance"
+      },
+      "place_of_performance": {
+        "state_code": "VA",
+        "congressional_code": "08",
+        "country_name": "UNITED STATES"
+      },
+      "program_area": "law_enforcement",
+      "member_id": "B001292"
+    },
+    {
+      "from": "department-of-justice",
+      "to": "HBJYNP2M1GS6",
+      "rel": "granted",
+      "filing": "usaspending",
+      "amount": 218318.0,
+      "year": 2024,
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_15PBJA24GG05301JAGX_015",
+      "evidence": "Supported",
+      "recipient": "KERN COUNTY DIST ATTORNEY OFFICE",
+      "awarding_agency": "Department of Justice",
+      "assistance_listing": {
+        "cfda_number": "16.738",
+        "cfda_title": "Edward Byrne Memorial Justice Assistance Grant Program"
+      },
+      "place_of_performance": {
+        "state_code": "CA",
+        "congressional_code": "22",
+        "country_name": "UNITED STATES"
+      },
+      "member_id": "V000129"
+    },
+    {
+      "from": "national-science-foundation",
+      "to": "U44ZMVYU52U6",
+      "rel": "granted",
+      "filing": "usaspending",
+      "amount": 50000.0,
+      "year": 2025,
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_2451977_049",
+      "evidence": "Supported",
+      "recipient": "THE UNIVERSITY OF TEXAS AT SAN ANTONIO",
+      "awarding_agency": "National Science Foundation",
+      "assistance_listing": {
+        "cfda_number": "47.084",
+        "cfda_title": "Technology, Innovation, and Partnerships"
+      },
+      "place_of_performance": {
+        "state_code": "TX",
+        "congressional_code": "20",
+        "country_name": "UNITED STATES"
+      },
+      "member_id": "C001091"
+    },
+    {
+      "from": "department-of-justice",
+      "to": "Q35KCJJNN3J3",
+      "rel": "granted",
+      "filing": "usaspending",
+      "amount": 44021.0,
+      "year": 2024,
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_15PBJA24GG05052JAGX_015",
+      "evidence": "Supported",
+      "recipient": "CITY OF SANTA MONICA",
+      "awarding_agency": "Department of Justice",
+      "assistance_listing": {
+        "cfda_number": "16.738",
+        "cfda_title": "Edward Byrne Memorial Justice Assistance Grant Program"
+      },
+      "place_of_performance": {
+        "state_code": "CA",
+        "congressional_code": "36",
+        "country_name": "UNITED STATES"
+      },
+      "member_id": "L000582"
+    },
+    {
+      "from": "department-of-justice",
+      "to": "KHYHV4NCNKC8",
+      "rel": "granted",
+      "filing": "usaspending",
+      "amount": 20938.0,
+      "year": 2024,
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_15PBJA24GG04651JAGX_015",
+      "evidence": "Supported",
+      "recipient": "CITY OF TORRANCE",
+      "awarding_agency": "Department of Justice",
+      "assistance_listing": {
+        "cfda_number": "16.738",
+        "cfda_title": "Edward Byrne Memorial Justice Assistance Grant Program"
+      },
+      "place_of_performance": {
+        "state_code": "CA",
+        "congressional_code": "43",
+        "country_name": "UNITED STATES"
+      },
+      "member_id": "W000187"
+    },
+    {
+      "from": "department-of-justice",
+      "to": "LGL5JFM5KDB8",
+      "rel": "granted",
+      "filing": "usaspending",
+      "amount": 14919.0,
+      "year": 2024,
+      "source_url": "https://www.usaspending.gov/award/ASST_NON_15PBJA24GG04692JAGX_015",
+      "evidence": "Supported",
+      "recipient": "MARLBORO CITY",
+      "awarding_agency": "Department of Justice",
+      "assistance_listing": {
+        "cfda_number": "16.738",
+        "cfda_title": "Edward Byrne Memorial Justice Assistance Grant Program"
+      },
+      "place_of_performance": {
+        "state_code": "MA",
+        "congressional_code": "03",
+        "country_name": "UNITED STATES"
+      },
+      "member_id": "T000482"
+    }
+  ],
+  "holes": [
+    {
+      "what": "990 Part VII officer names",
+      "reason": "ProPublica 2023 extracts for 36-1520690, 36-0726140, 23-7065623 have compensation totals, no officer names, pdf_url null. IRS XML not retrieved. Person ids not invented.",
+      "evidence": "Supported",
+      "source_url": "https://projects.propublica.org/nonprofits/api/v2/organizations/361520690.json"
+    },
+    {
+      "what": "FEC Form 1 treasurer names as person nodes",
+      "reason": "Treasurer names are on cm24.zip Form 1 but FEC assigns no person id. Node.id not invented. Officer edges omitted.",
+      "evidence": "Human decision",
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/cm24.zip"
+    },
+    {
+      "what": "990 Schedule I org-to-org grants",
+      "reason": "Grant recipient names not in the numeric extract. Not invented. rel granted unused this sit.",
+      "evidence": "Supported"
+    },
+    {
+      "what": "990-PF Schedule B",
+      "reason": "No private-foundation 990-PF matched to a US-kit org. Not invented.",
+      "evidence": "Supported"
+    },
+    {
+      "what": "Form 8872",
+      "reason": "IRS 527/8872 not retrieved this sit. Party committees taken from FEC bulk instead.",
+      "evidence": "Supported"
+    },
+    {
+      "what": "FEC ENTITY_TP IND itemized persons",
+      "reason": "pas224.zip IND rows not ingested. No person ids invented. named_donors false on kit money.json is not the omit reason.",
+      "evidence": "Human decision",
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip"
+    },
+    {
+      "what": "DCCC and NRCC 24K recipients beyond top 20",
+      "reason": "DCCC 65 recipient committees, NRCC 52 in 24K parse. This file stores top 20 each by amount. Remainder stays in pas224.zip.",
+      "evidence": "Supported",
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip"
+    },
+    {
+      "what": "PAC 24K recipients beyond top 5 per committee",
+      "reason": "Top 25 PACs by House 24K total; only top 5 recipient committees each stored. Incomplete.",
+      "evidence": "Human decision",
+      "source_url": "https://www.fec.gov/files/bulk-downloads/2024/pas224.zip"
+    },
+    {
+      "what": "501(c)(3) public-charity Schedule B names",
+      "reason": "Forbidden. Omitted.",
+      "evidence": "Human decision"
+    },
+    {
+      "what": "501(c)(4)/(c)(5)/(c)(6) donor names",
+      "reason": "Forbidden. Omitted. NAR/AHA/CUNA are 501(c)(6); donors not copied. Addresses not copied.",
+      "evidence": "Human decision"
+    },
+    {
+      "what": "member_id on FEC candidate committees",
+      "reason": "Joined only when cm24 CAND_ID maps through unitedstates.github.io/congress-legislators/legislators-current.json fec[] to a bioguide that already exists in kits/us/members.json. No new sitting names. Unjoined candidate committees left without member_id.",
+      "evidence": "Supported",
+      "source_url": "https://unitedstates.github.io/congress-legislators/legislators-current.json",
+      "joined_committee_nodes": 84,
+      "candidate_committees_without_roster_join": 51
+    },
+    {
+      "what": "edge.program from 990 Schedule I purpose",
+      "reason": "Schedule I purpose text not retrieved this sit. program omitted. No earmarks or bill sponsorship invented.",
+      "evidence": "Supported"
+    },
+    {
+      "what": "edge.program_area preferred tags",
+      "reason": "Set only when a committee name on the edge clearly uses infrastructure, public safety, law enforcement, or retail theft. No Schedule I purpose or 990 program service text this sit. Untagged edges omitted those fields.",
+      "evidence": "Human decision",
+      "edges_with_program_area": 9,
+      "live_split": {
+        "infrastructure": 6,
+        "law_enforcement": 3
+      }
+    },
+    {
+      "what": "edge.issue_id kit join",
+      "reason": "Existing kits/us/issues.json ids only (border, energy, taxes, spending, abortion, education, elections, crime, guns, ukraine, israel, china, defense). Set only when a committee name clearly contains that label. Did not mint issues.json ids. Did not rewrite issues.json.",
+      "evidence": "Human decision",
+      "edges_with_issue_id": 10
+    },
+    {
+      "what": "USAspending awarded/granted edges",
+      "reason": "Bounded FY2024-FY2025 grant slice from api.usaspending.gov. program_area set only when the award listing/description/recipient name clearly uses the searched language. member_id only when POP state+CD matches an existing House district in kits/us/members.json (codes 90/98/99 and missing CD omitted). No invented recipients, earmarks, or sitting names. Addresses not copied. Not a full inventory.",
+      "evidence": "Supported",
+      "source_url": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+      "added_edges": 29,
+      "member_id_joins": 22,
+      "program_area_counts": {
+        "infrastructure": 8,
+        "public_safety": 8,
+        "law_enforcement": 8,
+        "retail_theft": 3
+      },
+      "untagged_program_area": 2
+    },
+    {
+      "what": "USAspending member_id when award CD is missing or 90/98",
+      "reason": "Awards with congressional_code 90, 98, or null are not kit districts. member_id omitted.",
+      "evidence": "Supported"
+    },
+    {
+      "what": "program_area on 18 USAspending edges",
+      "reason": "Integrity AUDIT-BLOCK: tags were not from filing language. Dropped program_area on CDBG 14.228, disaster 97.036, Opioid STR 93.788, SAMHSA 93.243, transit formula 20.507, NSF TIP 47.084, and Byrne JAG 16.738 tagged retail_theft. Remaining tags only where award description names infrastructure or law enforcement (Amtrak/FSP/Gateway/BEAD; Chicago and Milwaukee convention security; NCMEC). No retag onto the dropped CFDA programs. No earmarks. issues.json untouched.",
+      "evidence": "Supported",
+      "dropped": 18,
+      "kept": 9
+    }
+  ]
+}

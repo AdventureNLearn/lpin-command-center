@@ -1,0 +1,45 @@
+{
+  "iso2": "fr",
+  "name": "France",
+  "region": "europe",
+  "chamber": "Assemblée nationale",
+  "houses": "",
+  "system": "",
+  "seats": 0,
+  "election": "",
+  "session": "17e législature",
+  "kit": "map",
+  "lang": [
+    "en"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 595,
+    "sitting": 595,
+    "votes": 8434,
+    "committees": 92,
+    "key_votes": 8434,
+    "sourced_quotes": 75,
+    "pledged_members": 63
+  },
+  "capabilities": [
+    "members",
+    "pledges",
+    "votes",
+    "issues",
+    "gap",
+    "caucus",
+    "committees",
+    "ethics",
+    "money",
+    "method"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "gold-kit-8103",
+  "source_live": null,
+  "note": "FR honest-complete 2026-08-21 leftover closeout. Sit 595. Pledges 75 personal https Barodet 17e. Leftover 630 local PDFs + sites/tribune hunt-stop (no https sourceUrl without inventing Barodet paths; sites/tribune 0 first-person). Votes live 8434 clerk named (meta was stale). votes.json not rewritten. Gap 0. named_donors false. Honest incomplete.",
+  "roster_source": "https://www.wikidata.org/wiki/Q3044918",
+  "honest_complete": true,
+  "named_donors": false
+}

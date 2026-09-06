@@ -1,0 +1,211 @@
+{
+  "iso2": "ca",
+  "wave": "WAVE-FILL-CA",
+  "hole_type": "ingest-drop",
+  "retrieved": "2026-08-29",
+  "source": "vendor/kept/kits/ca",
+  "read_only": [
+    "vendor/kept/kits/ca/sources.json",
+    "vendor/kept/kits/ca/pledges.json",
+    "vendor/kept/kits/ca/votes.json",
+    "vendor/kept/kits/ca/members.json",
+    "vendor/kept/kits/ca/gap.json",
+    "vendor/kept/kits/ca/meta.json",
+    "vendor/kept/kits/ca/ethics.json",
+    "vendor/kept/kits/ca/money.json",
+    "vendor/kept/kits/ca/institutional.json",
+    "vendor/kept/kits/ca/issues.json"
+  ],
+  "did_not_rewrite": [
+    "vendor/kept/kits/ca",
+    "votes.json",
+    "members.json",
+    "src/",
+    "packages/ca.json",
+    "packages/ca-permit.json",
+    "packages/_index.json",
+    "packages/us-fill.json"
+  ],
+  "counts": {
+    "sources_items": 98,
+    "pledges_items": 39,
+    "pledges_with_sourceUrl": 39,
+    "pledges_without_sourceUrl": 0,
+    "pledge_sourceUrl_exact_in_sources": 39,
+    "votes_items": 173,
+    "votes_with_source_url": 173,
+    "votes_without_source_url": 0,
+    "vote_source_urls_exact_in_sources": 0,
+    "ethics_items": 1628,
+    "ethics_with_http_source_url": 1628,
+    "ethics_missing_http": 0,
+    "money_has_https_source_url": true,
+    "member_site_source_urls": 6,
+    "member_site_source_urls_not_on_pledge_or_vote": 2
+  },
+  "log": [
+    {
+      "hole": "elizabethmaymp.ca/ never became a pledge row (Elizabeth May 2897 already has energy from the May-8 discussion-paper URL)",
+      "url": "https://elizabethmaymp.ca/",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Leftover member-site root. The kit already cites the article permalink on the energy pledge. Attaching the root would mint a second pledge. Incomplete beats fake-complete."
+    },
+    {
+      "hole": "gordjohns.ca/ never became a pledge row (Gord Johns 89263 already has healthcare from /issues_mental_health)",
+      "url": "https://www.gordjohns.ca/",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Leftover member-site root. Restoring would mint a pledge. The issues_mental_health URL is already on the existing citation."
+    },
+    {
+      "hole": "openparliament.ca/debates/2025/6/3/vince-gasparro-1/ never became a pledge row (Vince Gasparro 122911, 0 pledges)",
+      "url": "https://openparliament.ca/debates/2025/6/3/vince-gasparro-1/",
+      "action": "left",
+      "evidence": "Unproven",
+      "reason": "Leftover OP speech in sources.json. Did not recrawl. Restoring would mint a pledge. Incomplete beats fake-complete."
+    },
+    {
+      "hole": "openparliament.ca/committees/indigenous-affairs/45-1/31/bob-zimmer-1/ never became a pledge row (Bob Zimmer 72035, 0 pledges)",
+      "url": "https://openparliament.ca/committees/indigenous-affairs/45-1/31/bob-zimmer-1/",
+      "action": "left",
+      "evidence": "Unproven",
+      "reason": "Leftover OP committee speech in sources.json. Did not recrawl. Restoring would mint a pledge."
+    },
+    {
+      "hole": "openparliament.ca/debates/2025/12/10/abdelhaq-sari-1/ never became a pledge row (Abdelhaq Sari 122533, 0 pledges)",
+      "url": "https://openparliament.ca/debates/2025/12/10/abdelhaq-sari-1/",
+      "action": "left",
+      "evidence": "Unproven",
+      "reason": "Leftover OP speech in sources.json. Did not recrawl. Restoring would mint a pledge."
+    },
+    {
+      "hole": "openparliament.ca/debates/2025/6/5/mona-fortier-1/ never became a pledge row (Mona Fortier 96356, 0 pledges)",
+      "url": "https://openparliament.ca/debates/2025/6/5/mona-fortier-1/",
+      "action": "left",
+      "evidence": "Unproven",
+      "reason": "Leftover OP speech in sources.json. Did not recrawl. Restoring would mint a pledge."
+    },
+    {
+      "hole": "openparliament.ca/debates/2025/6/5/ruby-sahota-4/ never became a pledge row (Ruby Sahota 88698, 0 pledges)",
+      "url": "https://openparliament.ca/debates/2025/6/5/ruby-sahota-4/",
+      "action": "left",
+      "evidence": "Unproven",
+      "reason": "Leftover OP speech in sources.json. Did not recrawl. Restoring would mint a pledge."
+    },
+    {
+      "hole": "openparliament.ca/debates/2026/2/4/todd-doherty-2/ never became a pledge row (Todd Doherty 89249, 0 pledges)",
+      "url": "https://openparliament.ca/debates/2026/2/4/todd-doherty-2/",
+      "action": "left",
+      "evidence": "Unproven",
+      "reason": "Leftover OP speech in sources.json. Did not recrawl. Restoring would mint a pledge."
+    },
+    {
+      "hole": "two Marjorie Michel OP debate URLs never became pledge rows (Marjorie Michel 122684, 0 pledges)",
+      "url": "https://openparliament.ca/debates/2026/2/24/marjorie-michel-1/",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "meta.note: Dropped Michel CHA line as party ticket. Second URL debates/2026/4/23/marjorie-michel-6/ likewise unused. Restoring would mint a pledge. Party platform skipped (pledges.note)."
+    },
+    {
+      "hole": "openparliament.ca/debates/2025/9/16/mike-dawson-1/ never became a pledge row (Mike Dawson 122476 already has indigenous from 2025/6/3/mike-dawson-1/)",
+      "url": "https://openparliament.ca/debates/2025/9/16/mike-dawson-1/",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Different speech than the existing indigenous citation. Attaching would mint a second pledge. Do not swap a working URL."
+    },
+    {
+      "hole": "openparliament.ca/debates/2025/5/28/kevin-lamoureux-7/ never became a pledge row (Kevin Lamoureux 30552 already has crime from 2025/10/30/kevin-lamoureux-10/)",
+      "url": "https://openparliament.ca/debates/2025/5/28/kevin-lamoureux-7/",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Different speech than the existing crime citation. Attaching would mint a second pledge. Do not swap a working URL."
+    },
+    {
+      "hole": "openparliament.ca/debates/2025/11/27/gord-johns-5/ never became a pledge row (Gord Johns 89263 already has healthcare from gordjohns.ca/issues_mental_health)",
+      "url": "https://openparliament.ca/debates/2025/11/27/gord-johns-5/",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Leftover OP speech. Member-site healthcare URL already on the pledge. Attaching would mint a second pledge."
+    },
+    {
+      "hole": "ourcommons sitting-119 hansard permalink in sources.json is not a pledge or vote row",
+      "url": "https://www.ourcommons.ca/documentviewer/en/45-1/house/sitting-119/hansard#Int-13505954",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "meta.note: oc-hansard skipped. Restoring would mint a pledge. Incomplete beats fake-complete."
+    },
+    {
+      "hole": "173 vote rows already carry https clerk pages; sources.json has vote indexes not per-roll URLs",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "No vote is missing http(s). Companion URLs: ourcommons Members/en/votes/XML?parlSession=45-1, api.openparliament.ca/votes/, openparliament.ca/votes/, ourcommons.ca/members/en. Votes already cite clerk roll pages. Index/companion; do not swap a working URL."
+    },
+    {
+      "hole": "4 Elections Canada finance index URLs in sources.json are not money/pledge/vote citation gaps",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "money.source_url already has https rem_45ge table (exact in sources). Remaining oth/can, oda, fin index, and rem_45ge index are companions. FEC-style index already on money. Did not name private donors."
+    },
+    {
+      "hole": "ethicscanada public-registry index in sources.json; 1628 ethics rows already have https client URLs",
+      "url": "https://www.ethicscanada.ca/en/public-registry",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "No ethics citation is missing http(s). Registry URL is already ethics.source_url. Companion index, not a dropped original-record URL."
+    },
+    {
+      "hole": "30 committee list/member-page URLs in sources.json are not missing from committee/vote/pledge citations",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "committees.json 60 rows already carry https (origin clerk). List?parl=45&session=1 and leftover steering member pages were merge sources (committees.note). Index/companion; do not mint AHJs."
+    },
+    {
+      "hole": "API and hansard-index companion URLs in sources.json never became pledge or vote rows",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "api.openparliament.ca/bills/, /committees/, /speeches/; ourcommons hansard-index; openparliament.ca/ hansard-permalink root; sibling kepthoc2126.grok.me. Indexes/live sibling, not dropped original-record URLs on existing citations."
+    },
+    {
+      "hole": "institutional.json items 0",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Empty kit (institutional_kits = 0 claimed). Not an ingest drop. Do not mint rows."
+    },
+    {
+      "hole": "gap.json items 0 after 330-pair exam",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Honest empty after dual-source exam (gap.note). Not a lost kit URL."
+    },
+    {
+      "hole": "members.json items 338 claimed_seats 343",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Sitting-name roster hole, not ingest-drop. All 338 rows already have https roster_url. Do not mint sitting names. All pledge/vote citations already carry http(s)."
+    }
+  ],
+  "summary": {
+    "restored": 0,
+    "left": 21,
+    "evidence": {
+      "Supported": 15,
+      "Unproven": 6,
+      "Disputed": 0,
+      "Human decision": 0
+    }
+  },
+  "notes": [
+    "One hole type: ingest-drop. Restore a URL the kit already has in sources, or leave the hole.",
+    "No existing scoring citation lost a kit URL. All 39 pledges, 173 votes, 1628 ethics rows, and money.source_url already carry http(s).",
+    "All 39 pledge sourceUrl values are exact-in sources.json. Zero pledges missing http(s).",
+    "2 member-site URLs sit in sources.json and never became pledge rows (site roots). Left. Do not mint pledges.",
+    "Leftover OpenParliament speech/committee URLs remain in sources after the leftover-cache exam (meta.note). Left. Did not recrawl. Would mint pledges.",
+    "meta.note: Dropped Michel CHA line as party ticket; oc-hansard skipped; leftover personal pledges merge named Gill/Mantle/Williamson/Groleau/Dawson/A.Gill/Naqvi/Brock only.",
+    "vote_source_urls_exact_in_sources is 0 because sources holds XML/API indexes while votes cite per-roll clerk pages. Not a drop: citations already have https.",
+    "Did not invent pledges, sitting names, fees, AHJs. Did not name private donors.",
+    "institutional.json items 0 is an empty kit, not an ingest drop.",
+    "gap.json items 0 after 330-pair exam is honest empty, not an ingest drop.",
+    "members 338 vs claimed_seats 343 is incomplete roster coverage, not a lost kit URL."
+  ]
+}

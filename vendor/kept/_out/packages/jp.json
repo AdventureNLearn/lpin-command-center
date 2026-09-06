@@ -1,0 +1,96 @@
+{
+  "iso2": "jp",
+  "kit_on_disk": true,
+  "objects": {
+    "committees.json": {
+      "state": "filled",
+      "count": 27
+    },
+    "ethics.json": {
+      "state": "filled",
+      "count": 32
+    },
+    "gap.json": {
+      "state": "seeded",
+      "count": 0
+    },
+    "institutional.json": {
+      "state": "empty",
+      "count": 0
+    },
+    "issues.json": {
+      "state": "filled",
+      "count": 15
+    },
+    "members.json": {
+      "state": "filled",
+      "count": 465
+    },
+    "meta.json": {
+      "state": "filled",
+      "count": 21
+    },
+    "money.json": {
+      "state": "filled",
+      "count": 12
+    },
+    "parties.json": {
+      "state": "filled",
+      "count": 8
+    },
+    "pledges.json": {
+      "state": "filled",
+      "count": 216
+    },
+    "sources.json": {
+      "state": "filled",
+      "count": 307
+    },
+    "votes.json": {
+      "state": "filled",
+      "count": 95
+    }
+  },
+  "capital": {
+    "name": "Tokyo",
+    "lat": 35.686963,
+    "lon": 139.749462,
+    "kind": "capital"
+  },
+  "holes": [
+    {
+      "object": "committees.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "ethics.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "gap.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "institutional.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "money.json",
+      "reason": "incomplete true; named_donors false"
+    },
+    {
+      "object": "pledges.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "votes.json",
+      "reason": "incomplete true; items 95 meta.counts.key_votes 6"
+    },
+    {
+      "object": "meta.json",
+      "reason": "incomplete true"
+    }
+  ],
+  "retrieved": "2026-08-29",
+  "source": "vendor/kept/kits/jp"
+}

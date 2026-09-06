@@ -1,0 +1,31 @@
+{
+  "iso2": "br",
+  "source": "src/lib/permit/",
+  "retrieved": "2026-08-29",
+  "lock_date": "2026-08-18",
+  "counts": {
+    "core": 0,
+    "extra": 0,
+    "more": 0,
+    "rest": 0
+  },
+  "factory_urls_verified": false,
+  "paths": [
+    "src/lib/permit/places.ts",
+    "src/lib/permit/places-extra.ts",
+    "src/lib/permit/places-more.ts",
+    "src/lib/permit/places-rest.ts"
+  ],
+  "holes": [
+    {
+      "object": "src/lib/permit/",
+      "reason": "US AHJ catalog is not Brazil; Rest hit is city Brazil IN. No Brazilian permit rows invented."
+    }
+  ],
+  "notes": [
+    "Brazil-only filter: country/iso2 BR or Brazil/Brasil as AHJ. Zero country AHJs. Rest is a count, not a map; contents not copied.",
+    "factory URLs not verified.",
+    "fees omitted (unsourced).",
+    "No pin list. No GeoJSON."
+  ]
+}

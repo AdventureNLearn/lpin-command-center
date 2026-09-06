@@ -1,0 +1,32 @@
+{
+  "iso2": "kr",
+  "kit": "scoring",
+  "source": "https://keptsk.grok.me",
+  "method": "https://keptsk.grok.me/method",
+  "session": "22nd National Assembly",
+  "lang": ["ko", "en"],
+  "threshold": 5,
+  "counts": { "members": 320, "sitting": 299, "votes": 24 },
+  "money": {
+    "unit": "KRW 100 million",
+    "sitting_total_reconstructed": 1981.9,
+    "buckets": [
+      { "label": "law", "amount": 135.5 },
+      { "label": "medical", "amount": 119.2 },
+      { "label": "civil society", "amount": 87 },
+      { "label": "labor", "amount": 82 },
+      { "label": "education", "amount": 71.2 },
+      { "label": "local business", "amount": 60.4 }
+    ],
+    "named_donors": false,
+    "note": "Occupation buckets from live sibling. Names not published (3M KRW disclosure floor; full list not collected)."
+  },
+  "issues": [
+    "democracy", "labor", "prosecution", "media", "health",
+    "housing", "energy", "tax", "security", "elections"
+  ],
+  "capabilities": ["members", "pledges", "votes", "issues", "gap", "caucus", "committees", "money", "ask-grok", "method", "bilingual"],
+  "local_members": [],
+  "incomplete": true,
+  "note": "Counts from live sibling 2026-08-20. Impeachment votes stay secret unless the member published a stance."
+}

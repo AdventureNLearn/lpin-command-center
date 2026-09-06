@@ -1,0 +1,31 @@
+{
+  "iso2": "nz",
+  "source": "src/lib/permit/",
+  "retrieved": "2026-08-29",
+  "lock_date": "2026-08-18",
+  "counts": {
+    "core": 0,
+    "extra": 0,
+    "more": 0,
+    "rest": 0
+  },
+  "factory_urls_verified": false,
+  "paths": [
+    "src/lib/permit/places.ts",
+    "src/lib/permit/places-extra.ts",
+    "src/lib/permit/places-more.ts",
+    "src/lib/permit/places-rest.ts"
+  ],
+  "holes": [
+    {
+      "object": "src/lib/permit/",
+      "reason": "US AHJ catalog has no New Zealand AHJs (NZ is New Zealand, not a US state). No New Zealand permit rows invented."
+    }
+  ],
+  "notes": [
+    "New Zealand-country only filter: iso2 NZ or New Zealand (country) / Aotearoa. Zero matches. NZ is New Zealand, not a US state. New York (NY), New Jersey (NJ), New Mexico (NM), and New Hampshire (NH) AHJs excluded and not counted as New Zealand: core 5 (ny-nyc, bis/Buffalo, nj-newark, nm-albuquerque, nh-manchester), extra 33 (NY 12, NJ 12, NM 5, NH 4), more 56 (NY 21, NJ 22, NM 7, NH 6), rest 1783 (NY 985, NJ 507, NM 58, NH 233). US places named New Zealand / Zealand: none. Rest is a count, not a map; contents not copied.",
+    "factory URLs not verified.",
+    "fees omitted (unsourced).",
+    "No pin list. No GeoJSON."
+  ]
+}

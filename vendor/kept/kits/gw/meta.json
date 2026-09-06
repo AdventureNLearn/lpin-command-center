@@ -1,0 +1,33 @@
+{
+  "iso2": "gw",
+  "name": "Guinea Bissau",
+  "region": "",
+  "chamber": "National People's Assembly",
+  "houses": "",
+  "system": "",
+  "seats": 16,
+  "election": "",
+  "session": "",
+  "kit": "map",
+  "lang": [
+    "en"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 16,
+    "sitting": 16,
+    "votes": 0,
+    "committees": 0,
+    "key_votes": 0,
+    "sourced_quotes": 0
+  },
+  "capabilities": [
+    "members"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "lpin-wikidata-fill",
+  "source_live": null,
+  "note": "Wikidata sitting pull 2026-09-06. 16 named. Vacancies not invented.",
+  "roster_source": "https://www.wikidata.org/wiki/Q740533"
+}

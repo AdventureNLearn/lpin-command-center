@@ -1,0 +1,854 @@
+{
+  "iso2": "ar",
+  "items": [
+    {
+      "url": "https://www.hcdn.gob.ar/",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://datos.hcdn.gob.ar/",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://datos.hcdn.gob.ar/dataset/comisiones",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://datos.hcdn.gob.ar/dataset/a71100a5-f569-4881-8528-aec6fd9232c8/resource/0ae7cf69-b859-47fa-8a5d-d62b1785d458/download/comisiones3.0.json",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://datos.hcdn.gob.ar/dataset/a71100a5-f569-4881-8528-aec6fd9232c8/resource/05d9e5f7-2a69-4e10-ba25-9700b9189870/download/comisiones_permanentes_autoridades1.1.json",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://datos.hcdn.gob.ar/dataset/a71100a5-f569-4881-8528-aec6fd9232c8/resource/5702c048-bf82-4a87-a881-390acaa3f8af/download/comisiones_permanentes_integrantes1.1.json",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://datos.hcdn.gob.ar/dataset/leyes-sancionadas",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://datos.hcdn.gob.ar/dataset/proyectos-parlamentarios",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://datos.hcdn.gob.ar/dataset/a80e0fa7-d73a-4ed1-9dec-80465e368951/resource/638cf72a-f993-4211-80e1-43984a529e4f/download/diputados_actuales2.0.json",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "http://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/60847/texact.htm",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20",
+      "note": "Ley 25.188 Ética Pública"
+    },
+    {
+      "url": "https://datos.hcdn.gob.ar/api/3/action/package_show?id=dietas-y-gastos-de-representacion-legisladores-as",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://datos.hcdn.gob.ar/dataset/07518f0f-43f0-41f5-a462-53ed8a1bebb6/resource/0c91eb20-f694-4064-a65b-b8bfe3673c7e/download/remuneraciones1.9.csv",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://datos.hcdn.gob.ar/api/3/action/package_show?id=ejecucion-presupuestaria-de-la-camara-de-diputados-de-la-nacion",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://datos.hcdn.gob.ar/api/3/action/package_search?q=profesion%20OR%20ocupacion%20OR%20curriculum&rows=10",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.electoral.gob.ar/",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/diputados/",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-144/diario_202606245.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3583&numVid=0&reunion=5&periodo=144",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-144/diario_202606234.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3582&numVid=0&reunion=4&periodo=144",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-144/diario_202605203.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3580&numVid=0&reunion=3&periodo=144",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-144/diario_202604292.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3578&numVid=0&reunion=2&periodo=144",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-144/diario_202604081.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3577&numVid=0&reunion=1&periodo=144",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://datos.hcdn.gob.ar/dataset/resultado-proyectos",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://datos.hcdn.gob.ar/dataset/movimientos-de-proyectos",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://votaciones.hcdn.gob.ar/",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20",
+      "note": "Named-roll site probed; host timed out from this lane."
+    },
+    {
+      "url": "https://datos.hcdn.gob.ar/dataset/5b1d2f38-e23f-412c-a286-02ab9dcf6082/resource/a449095f-1818-4918-8600-455724db34ac/download/leyes_sancionadas3.1.json",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://datos.hcdn.gob.ar/dataset/74011487-857d-4971-b7d1-24ab90a2e397/resource/daf0e90e-d94f-4186-b7cf-dfad5b6f9369/download/resultados_proyectos3.0.csv",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3575&numVid=0&reunion=22&periodo=143",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-143/diario_2026021922.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3574&numVid=0&reunion=21&periodo=143",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-143/diario_2026021221.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3573&numVid=0&reunion=20&periodo=143",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-143/diario_2025121720.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3572&numVid=0&reunion=18&periodo=143",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-143/diario_2025120318.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3568&numVid=0&reunion=15&periodo=143",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-143/diario_2025100815.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3567&numVid=0&reunion=14&periodo=143",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-143/diario_2025091714.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.diputados.gov.ar/",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.diputados.gov.ar/diputados/",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3565&numVid=0&reunion=12&periodo=143",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-143/diario_2025082012.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3564&numVid=0&reunion=11&periodo=143",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-143/diario_2025080611.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3562&numVid=0&reunion=10&periodo=143",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-143/diario_2025070210.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3561&numVid=0&reunion=9&periodo=143",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-143/diario_202506049.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3556&numVid=0&reunion=4&periodo=143",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-143/diario_202504084.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3554&numVid=0&reunion=2&periodo=143",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-143/diario_202503192.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3553&numVid=0&reunion=1&periodo=143",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-143/diario_202503121.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3566&numVid=0&reunion=13&periodo=143",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-143/diario_2025082713.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.diputados.gov.ar/diputados/gcaguero/",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/diputados/gcaguero/",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.diputados.gov.ar/diputados/haguirre/",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/diputados/haguirre/",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.diputados.gov.ar/diputados/sajmechet/",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/diputados/sajmechet/",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.diputados.gov.ar/diputados/enali/",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/diputados/enali/",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.diputados.gov.ar/diputados/calmena/",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/diputados/calmena/",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.diputados.gov.ar/diputados/calmiron/",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/diputados/calmiron/",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.diputados.gov.ar/diputados/caalvarez/",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/diputados/caalvarez/",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.diputados.gov.ar/diputados/jandrade/",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/diputados/jandrade/",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3559&numVid=0&reunion=6&periodo=143",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-143/diario_202504226.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3523&numVid=0&reunion=6&periodo=142",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-142/diario_202406276.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3521&numVid=0&reunion=5&periodo=142",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-142/diario_202406045.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3520&numVid=0&reunion=4&periodo=142",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-142/diario_202405214.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3519&numVid=0&reunion=3&periodo=142",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-142/diario_202404293.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3527&numVid=0&reunion=8&periodo=142",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-142/diario_202408148.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3531&numVid=0&reunion=9&periodo=142",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-142/diario_202408219.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3533&numVid=0&reunion=11&periodo=142",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-142/diario_2024091111.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3512&numVid=0&reunion=12&periodo=141",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-141/diario_2024013112.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3513&numVid=0&reunion=13&periodo=141",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-141/diario_2024020113.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3514&numVid=0&reunion=14&periodo=141",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-141/diario_2024020214.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3515&numVid=0&reunion=15&periodo=141",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-141/diario_2024020615.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3537&numVid=0&reunion=13&periodo=142",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-142/diario_2024100913.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3546&numVid=0&reunion=18&periodo=142",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-142/diario_2024112718.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3549&numVid=0&reunion=21&periodo=142",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-142/diario_2025020621.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3550&numVid=0&reunion=22&periodo=142",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-142/diario_2025021222.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3532&numVid=0&reunion=10&periodo=142",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-142/diario_2024090410.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3557&numVid=0&reunion=5&periodo=143",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-143/diario_202504165.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3558&numVid=0&reunion=7&periodo=143",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-143/diario_202504297.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3535&numVid=0&reunion=12&periodo=142",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3560&numVid=0&reunion=8&periodo=143",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-143/diario_202505218.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3555&numVid=0&reunion=3&periodo=143",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-143/diario_202503193.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3547&numVid=0&reunion=19&periodo=142",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-142/diario_2024112819.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3544&numVid=0&reunion=17&periodo=142",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-142/diario_2024112617.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3545&numVid=0&reunion=16&periodo=142",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-142/diario_2024112616.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3543&numVid=0&reunion=15&periodo=142",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-142/diario_2024112015.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3542&numVid=0&reunion=14&periodo=142",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-142/diario_2024111214.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3525&numVid=0&reunion=7&periodo=142",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-142/diario_202408077.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3518&numVid=0&reunion=2&periodo=142",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-142/diario_202404242.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www.hcdn.gob.ar/sesiones/sesion.html?id=3517&numVid=0&reunion=1&periodo=142",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://www3.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-142/diario_202403131.pdf",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-20"
+    },
+    {
+      "url": "https://datos.hcdn.gob.ar/dataset/votaciones_nominales",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-21",
+      "note": "Named rolls períodos 129–137 only; not sitting 141–144."
+    },
+    {
+      "url": "https://datos.hcdn.gob.ar/api/3/action/package_search?q=votacion&rows=20",
+      "kind": "primary",
+      "basis": "Evidence",
+      "retrieved": "2026-08-21"
+    }
+  ]
+}

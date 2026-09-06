@@ -1,0 +1,33 @@
+{
+  "iso2": "cv",
+  "name": "Cabo Verde",
+  "region": "",
+  "chamber": "National Assembly of Cape Verde",
+  "houses": "",
+  "system": "",
+  "seats": 9,
+  "election": "",
+  "session": "",
+  "kit": "map",
+  "lang": [
+    "en"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 9,
+    "sitting": 9,
+    "votes": 0,
+    "committees": 0,
+    "key_votes": 0,
+    "sourced_quotes": 0
+  },
+  "capabilities": [
+    "members"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "lpin-wikidata-fill",
+  "source_live": null,
+  "note": "Wikidata sitting pull 2026-09-06. 9 named. Vacancies not invented.",
+  "roster_source": "https://www.wikidata.org/wiki/Q1718790"
+}

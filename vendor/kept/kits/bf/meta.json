@@ -1,0 +1,33 @@
+{
+  "iso2": "bf",
+  "name": "Burkina Faso",
+  "region": "",
+  "chamber": "National Assembly of Burkina Faso",
+  "houses": "",
+  "system": "",
+  "seats": 28,
+  "election": "",
+  "session": "",
+  "kit": "map",
+  "lang": [
+    "en"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 28,
+    "sitting": 28,
+    "votes": 0,
+    "committees": 0,
+    "key_votes": 0,
+    "sourced_quotes": 0
+  },
+  "capabilities": [
+    "members"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "lpin-wikidata-fill",
+  "source_live": null,
+  "note": "Wikidata sitting pull 2026-09-06. 28 named. Vacancies not invented.",
+  "roster_source": "https://www.wikidata.org/wiki/Q619238"
+}

@@ -1,0 +1,263 @@
+{
+  "iso2": "tw",
+  "wave": "WAVE-FILL-TW",
+  "hole_type": "ingest-drop",
+  "retrieved": "2026-08-29",
+  "source": "vendor/kept/kits/tw",
+  "read_only": [
+    "vendor/kept/kits/tw/sources.json",
+    "vendor/kept/kits/tw/pledges.json",
+    "vendor/kept/kits/tw/votes.json",
+    "vendor/kept/kits/tw/members.json",
+    "vendor/kept/kits/tw/gap.json",
+    "vendor/kept/kits/tw/meta.json",
+    "vendor/kept/kits/tw/ethics.json",
+    "vendor/kept/kits/tw/money.json",
+    "vendor/kept/kits/tw/institutional.json",
+    "vendor/kept/kits/tw/issues.json"
+  ],
+  "did_not_rewrite": [
+    "vendor/kept/kits/tw",
+    "votes.json",
+    "members.json",
+    "src/",
+    "packages/tw.json",
+    "packages/tw-permit.json",
+    "packages/_index.json",
+    "packages/us-fill.json",
+    "packages/ca-fill.json",
+    "packages/kr-fill.json",
+    "packages/gb-fill.json",
+    "packages/de-fill.json",
+    "packages/br-fill.json",
+    "packages/ua-fill.json",
+    "packages/fr-fill.json",
+    "packages/cn-fill.json",
+    "packages/it-fill.json"
+  ],
+  "counts": {
+    "sources_items": 159,
+    "pledges_items": 50,
+    "pledges_with_sourceUrl": 50,
+    "pledges_without_sourceUrl": 0,
+    "pledge_sourceUrl_exact_in_sources": 43,
+    "votes_items": 1369,
+    "votes_with_source_url": 1369,
+    "votes_without_source_url": 0,
+    "vote_source_urls_exact_in_sources": 1368,
+    "ethics_items": 249,
+    "ethics_with_http_source_url": 249,
+    "ethics_missing_http": 0,
+    "money_has_https_source_url": true,
+    "member_site_source_urls": 6,
+    "member_site_source_urls_not_on_pledge_or_vote": 0
+  },
+  "log": [
+    {
+      "hole": "No existing pledge, vote, ethics, or money citation is missing an http(s) URL",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "pledges.json 50/50 have sourceUrl https. votes.json 1369/1369 have source_url http(s). ethics.json 249/249 have source_url https. money.source_url is https://party.moi.gov.tw/ (exact-in sources). Nothing to attach. Do not swap a working URL."
+    },
+    {
+      "hole": "6 member-site URLs sit in sources.json and already sit on pledge rows",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "juchunko.com (home + nuclear-reactor + virtual-asset pages), portaly.cc/94strong, facebook.com/daan4fanyun, and facebook Weng page are the only personal member-sites in sources.json. All 6 already sit on existing pledge sourceUrl values (juchunko home is also on one vote). member_site_source_urls_not_on_pledge_or_vote is 0. Nothing unused to attach onto a citation missing http(s). Restoring again would mint a pledge. Did not recrawl.",
+      "url": "https://juchunko.com/zh-TW/",
+      "also": [
+        "https://juchunko.com/zh-TW/act/nuclear-reactor-facility-control-act/",
+        "https://juchunko.com/zh-TW/act/virtual-asset-service-act/",
+        "https://portaly.cc/94strong",
+        "https://www.facebook.com/daan4fanyun/",
+        "https://www.facebook.com/p/%E7%BF%81%E6%9B%89%E7%8E%B2-Hsiao-Ling-Weng-61555223878555/"
+      ]
+    },
+    {
+      "hole": "4 leftover CEC 11th-LY district ?? PDFs never became a pledge row",
+      "action": "left",
+      "evidence": "Unproven",
+      "reason": "Original-record bulletin.cec.gov.tw ?? PDFs sit in sources.json and are unused by any pledge or vote: ???, ???, ????6???, ????8???. Other CEC district/indigenous PDFs already sit on the 39 CEC-cited pledge rows. Restoring these leftovers would mint pledges. Did not recrawl. Incomplete beats fake-complete.",
+      "url": "https://bulletin.cec.gov.tw/01%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1/02%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1/113%E5%B9%B4%E7%AC%AC11%E5%B1%86/02%E5%8D%80%E5%9F%9F%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1/20%E9%80%A3%E6%B1%9F%E7%B8%A3/%E9%80%A3%E6%B1%9F%E7%B8%A3%E5%85%AC%E5%A0%B1-%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1.pdf",
+      "also": [
+        "https://bulletin.cec.gov.tw/01%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1/02%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1/113%E5%B9%B4%E7%AC%AC11%E5%B1%86/02%E5%8D%80%E5%9F%9F%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1/23%E5%98%89%E7%BE%A9%E5%B8%82/%E5%98%89%E7%BE%A9%E5%B8%82%E7%AB%8B%E5%A7%94%E9%81%B8%E8%88%89.pdf",
+        "https://bulletin.cec.gov.tw/01%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1/02%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1/113%E5%B9%B4%E7%AC%AC11%E5%B1%86/02%E5%8D%80%E5%9F%9F%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1/04%E6%A1%83%E5%9C%92%E5%B8%82/%E7%AC%AC6%E9%81%B8%E8%88%89%E5%8D%80/%E6%A1%83%E5%9C%92%E5%B8%82%E7%AB%8B%E5%A7%94%E7%AC%AC6%E9%81%B8%E5%8D%80.pdf",
+        "https://bulletin.cec.gov.tw/01%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1/02%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1/113%E5%B9%B4%E7%AC%AC11%E5%B1%86/02%E5%8D%80%E5%9F%9F%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1/07%E9%AB%98%E9%9B%84%E5%B8%82/%E7%AC%AC8%E9%81%B8%E8%88%89%E5%8D%80/%E9%AB%98%E9%9B%84%E5%B8%82%E7%AB%8B%E5%A7%94%E7%AC%AC8%E9%81%B8%E5%8D%80.pdf"
+      ]
+    },
+    {
+      "hole": "CEC 11th-LY bulletin directory leftover never became a pledge row",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "bulletin.cec.gov.tw ?dir= 11th-LY ???? index in sources.json. Not a dropped original-record URL on a citation missing http(s). Existing CEC pledges already cite specific district/indigenous PDFs. Index/companion; restoring would mint a pledge. Leave.",
+      "url": "https://bulletin.cec.gov.tw/?dir=01%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1/02%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1/113%E5%B9%B4%E7%AC%AC11%E5%B1%86"
+    },
+    {
+      "hole": "7 pledges cite 5 CEC district PDFs that are not exact-in sources.json",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Inverse of ingest-drop. ??? / ??? / ??? (x2) / ??? (x2) / ??? already carry https bulletin.cec.gov.tw ?? PDFs (????3, ????2, ????2, ????1, ????2). Those 5 URLs are not in sources.json. Citations are not missing http(s). Do not swap a working URL. Did not recrawl."
+    },
+    {
+      "hole": "1 vote cites tw.news.yahoo.com and is not exact-in sources.json",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "tw-v-11-recall-art26-2026-06-12 already carries https tw.news.yahoo.com (origin reconstructed; published totals 57-48; named yeas not copied). 1368/1369 vote source_url values are exact-in. Attaching data.ly.gov.tw id=373 or a PPG index would swap a working citation for a different-issue URL. Do not mint floor rows. Did not recrawl.",
+      "url": "https://tw.news.yahoo.com/%E9%AB%98%E8%99%B9%E5%AE%89%E6%A2%9D%E6%AC%BE-%E9%81%8E%E4%BA%86-%E7%AB%8B%E6%B3%95%E9%99%A2%E4%B8%89%E8%AE%80%E4%BF%AE%E6%AD%A3%E9%81%B8%E7%BD%B7%E6%B3%95-%E8%97%8D%E7%99%BD%E5%85%B1%E6%8F%90%E4%BF%AE%E6%AD%A3%E5%8B%95%E8%AD%B0%E8%A1%A8%E6%B1%BA%E9%80%9A%E9%81%8E-071323413.html"
+    },
+    {
+      "hole": "data.ly.gov.tw dataset 373 / PPG root / open-data indexes in sources.json are not vote citation gaps",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "1271 votes already cite https://data.ly.gov.tw/getds.action?id=370 (exact-in). 86 votes already cite per-bill PPG BillThirdReadingPassesClause PDFs (exact-in). sources also holds unused getds id=373, odw id=373 JSON, id=42, jsonApiListMeetingByDate, data.ly.gov.tw root, listcatelog catCd=2, odw id=370 page=1, and ppg.ly.gov.tw root. Those are harvest indexes/companions, not dropped original-record URLs on a citation missing http(s). votes.note: Remaining 11th LY ?? on dataset 373 exhausted this pack; dump is not a lost kit URL. Do not mint floor rows. Do not swap a working URL.",
+      "url": "https://data.ly.gov.tw/getds.action?id=373",
+      "also": [
+        "https://data.ly.gov.tw/odw/openDatasetJson.action?id=373&selectTerm=all&page=1",
+        "https://data.ly.gov.tw/getds.action?id=42",
+        "https://data.ly.gov.tw/odw/jsonApiListMeetingByDate.action",
+        "https://data.ly.gov.tw/",
+        "https://ppg.ly.gov.tw/"
+      ]
+    },
+    {
+      "hole": "leftover ly.gov.tw nodeid=54301&pid=241384 is not a vote citation gap",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Two votes already cite sibling https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=54301&pid=247759 (exact-in). pid=241384 sits unused in sources.json as a companion page, not a dropped original-record URL on a citation missing http(s). Do not swap a working URL.",
+      "url": "https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=54301&pid=241384"
+    },
+    {
+      "hole": "ethics.json incomplete true; leftover sunshine/priso-root/pdps/cy.gov URLs are not ethics citation gaps",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "All 249 ethics rows already carry https (228 priso.cy.gov.tw/layout/baselist, 20 law.moj.gov.tw statutes, 1 moi.gov.tw) and all 249 are exact-in sources. ethics.source_url baselist is exact-in. ethics.note: 111/113 sitting matched; ??????? unmatched; 65 index names skipped; no TWD amounts; gazette downloads not copied. sunshine.cy.gov.tw, priso.cy.gov.tw root, pdps.nat.gov.tw, and two cy.gov.tw SpecialPublication/News pages are companions, not dropped original-record URLs on a citation missing http(s). Do not mint per-member filings. Do not swap a working URL.",
+      "url": "https://sunshine.cy.gov.tw/",
+      "also": [
+        "https://priso.cy.gov.tw/",
+        "https://pdps.nat.gov.tw/",
+        "https://www.cy.gov.tw/SpecialPublication.aspx?n=639&sms=9123",
+        "https://www.cy.gov.tw/News_Content.aspx?n=213&s=34246"
+      ]
+    },
+    {
+      "hole": "2 leftover Control Yuan / data.gov.tw political-donation URLs are not money citation gaps",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "money.source_url already has https://party.moi.gov.tw/ (exact-in). money.note: https://ardata.cy.gov.tw/ and https://data.gov.tw/dataset/168061 post 11th-LY political-donation files that name private donors; this kit does not copy named donors or TWD amounts from those files. Restoring would name private donors. Index/companion; do not swap a working URL. Did not name private donors. Did not mint fees.",
+      "url": "https://ardata.cy.gov.tw/",
+      "also": [
+        "https://data.gov.tw/dataset/168061"
+      ]
+    },
+    {
+      "hole": "leftover CEC / data.gov.tw party-subsidy URLs are not money citation gaps",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "money.source_url MOI ????? already exact-in (FY115 printed grand total 639,362,650 TWD; party-split rows not copied). money.note: CEC ????????? on data.cec.gov.tw / data.gov.tw dataset 20920 only lists 104-106 files ? not an 11th-LY printed total, not used to invent TWD. law.moj.gov.tw Political Parties Act D0020078 / Art. 22 are statute companions. www.cec.gov.tw, web.cec.gov.tw, data.cec.gov.tw roots are indexes. Do not mint fees. Do not swap a working URL.",
+      "url": "https://data.cec.gov.tw/%E6%94%BF%E9%BB%A8%E7%AB%B6%E9%81%B8%E8%B2%BB%E7%94%A8%E8%A3%9C%E5%8A%A9%E9%87%91/",
+      "also": [
+        "https://data.gov.tw/dataset/20920",
+        "https://data.cec.gov.tw/",
+        "https://www.cec.gov.tw/",
+        "https://web.cec.gov.tw/",
+        "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020078",
+        "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020078&flno=22"
+      ]
+    },
+    {
+      "hole": "leftover ly.gov.tw ???? / open-data occupation indexes are not money citation gaps",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "money.note: no sitting-only Legislative Yuan occupation aggregate after examining ly.gov.tw nodeid=109 (???????(?)? ? no ??? table) and open-data index nodeid=116. data.ly.gov.tw id=16 ?????? documented as ??/??, not a sitting-only ?? aggregate. Those URLs plus id=16 JSON sit unused in sources.json as companions. money.source_url already exact-in. Not a dropped original-record URL on a citation missing http(s). Do not mint fees. Do not mint sitting names.",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=109",
+      "also": [
+        "https://www.ly.gov.tw/Pages/List.aspx?nodeid=116",
+        "https://data.ly.gov.tw/getds.action?id=16",
+        "https://data.ly.gov.tw/odw/openDatasetJson.action?id=16&selectTerm=11&page=1"
+      ]
+    },
+    {
+      "hole": "institutional.json items 0",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Empty kit (institutional_kits = 0 claimed). Not an ingest drop. Do not mint rows."
+    },
+    {
+      "hole": "gap.json items 0",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Honest empty (gap.note: no dual-sourced own-pledge break after 904 sourced-pledge x same-issue clerk vote pairs; 1271 ?? rows). Four ????????????? ?? rows matched energy pledges but polarity is not a break. Not a lost kit URL."
+    },
+    {
+      "hole": "members.json 113 sitting; roster complete",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Sitting-name roster is complete (113/113 sitting, claimed_seats 113, members.incomplete false, all https zh.wikipedia.org roster_url). members.source_url https://zh.wikipedia.org/wiki/????????????? is not in sources.json (inverse of ingest-drop). Roster citations already have https. Not ingest-drop. Do not mint sitting names."
+    },
+    {
+      "hole": "money.json named_donors false; sitting_total_reconstructed null; meta.counts.money 0",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "One public party-subsidy bucket (FY115 639,362,650 TWD) already cites https party.moi.gov.tw exact-in. Occupation buckets left empty (no sitting-only ?? aggregate). Party-split rows not copied. Named private donors not collected. sitting_total_reconstructed null is an unpublished sitting-only occupation/euro-bucket hole, not a dropped original-record URL on a citation missing http(s). Did not name private donors. Did not mint fees."
+    },
+    {
+      "hole": "pledges.json incomplete true; meta note 52 vs sourced_quotes 50",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "pledges.note: Personal sourced sentences from CEC 11th LY election-bulletin ??; party-list ??? not scored; empty/image/local/boilerplate ?? not invented; leftover CEC merge +6 already-pledged regional (prior cap 2/member). All 50 existing rows already have https sourceUrl. sourced_quotes 50 vs meta.note 52 is a rollup mismatch, not a dropped original-record URL on a citation missing http(s). Do not mint pledges. Did not recrawl leftover CEC district PDFs."
+    },
+    {
+      "hole": "votes.json incomplete true",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "All 1369 votes already carry http(s) source_url. votes.note: named rolls mapped; unmapped names dropped; show-of-hands / unpublished rolls: member yeas not invented; remaining 11th LY ?? on dataset 373 exhausted this pack. Incomplete dump / reconstructed yahoo row is not a lost kit URL on a citation missing http(s). Do not mint floor rows. Do not swap a working URL."
+    },
+    {
+      "hole": "committees.json incomplete true; 13/13 already have https; 2 per-committee pages not in sources",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "All 13 standing/ad hoc committees already carry https ly.gov.tw source_url. committees.source_url nodeid=320, conveners pid=261136, and statute pcode=A0010043 are exact-in. foreign-national-defense nodeid=55086 and economics nodeid=55078 already have https but are not in sources.json (inverse of ingest-drop). committees.note: dual conveners; full member_ids not copied (member_ids empty). Incomplete roster-on-committee is not a dropped original-record URL on a citation missing http(s). Do not mint sitting names. Do not mint AHJs. Do not swap a working URL.",
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=320"
+    },
+    {
+      "hole": "ly.gov.tw root leftover is not a pledge or vote row",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Chamber root in sources.json. Index/companion, not a dropped original-record URL on a citation missing http(s). Do not mint pledges. Do not mint sitting names.",
+      "url": "https://www.ly.gov.tw/"
+    },
+    {
+      "hole": "meta.json incomplete true is honest-complete rollup, not a lost kit URL",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "meta.note: TW honest-complete 2026-08-21. Sit 113. Pledges 52 personal https CEC ??. Leftover 6 merged. Votes file not rewritten. named_donors false. Flag reflects thin leftover harvest / rollup mismatch (52 vs sourced_quotes 50), not a dropped original-record URL on a public citation missing http(s)."
+    }
+  ],
+  "summary": {
+    "restored": 0,
+    "left": 21,
+    "evidence": {
+      "Supported": 20,
+      "Unproven": 1,
+      "Disputed": 0,
+      "Human decision": 0
+    }
+  },
+  "notes": [
+    "One hole type: ingest-drop. Restore a URL the kit already has in sources, or leave the hole.",
+    "No existing scoring citation lost a kit URL. All 50 pledges, 1369 votes, 249 ethics rows, and money.source_url already carry http(s).",
+    "43/50 pledge sourceUrl values are exact-in sources.json. Zero pledges missing http(s). The other 7 already have https CEC PDFs not listed in sources (inverse of ingest-drop). Do not swap.",
+    "6 personal member-site URLs sit in sources.json (juchunko x3, portaly, 2 facebook). All 6 already sit on pledge rows. member_site_source_urls_not_on_pledge_or_vote is 0. 4 leftover official CEC district ?? PDFs never became a pledge row. Left. Do not mint pledges.",
+    "pledges.note: Personal sourced sentences from CEC 11th LY election-bulletin ?? (regional/indigenous https PDFs). Party-list ??? not scored. Empty/image/local/boilerplate ?? not invented. Leftover CEC ?? merge 2026-08-21: +6 (already-pledged regional; prior cap 2/member). Honest incomplete. Did not recrawl leftover ??/???/??6/??8 PDFs.",
+    "vote_source_urls_exact_in_sources is 1368/1369 because 1271 cite data.ly.gov.tw getds id=370 (exact-in), 86 cite PPG third-reading PDFs (exact-in), and secondary CNA/PTS/twreporter/fsc/ly.gov.tw pages are exact-in; one reconstructed yahoo.com row is not in sources. Citations already have http(s). Do not swap.",
+    "Did not invent pledges, sitting names, fees, AHJs. Did not name private donors.",
+    "institutional.json items 0 is an empty kit, not an ingest drop.",
+    "gap.json items 0 (no dual-sourced own-pledge break after 904 pairs) is honest empty, not an ingest drop.",
+    "members 113 sitting with https Wikipedia roster_url is complete roster coverage, not a lost kit URL. members.source_url is not in sources.json (inverse). Do not mint sitting names.",
+    "money named_donors false / sitting_total_reconstructed null / meta.counts.money 0 is an unpublished sitting-only occupation-bucket hole plus a public party-subsidy row that already has https exact-in, not a dropped original-record URL.",
+    "ethics 249/249 category rows already cite https exact-in. incomplete true is unmatched sitting names / untranscribed amounts, not a lost kit URL.",
+    "committees 13/13 already cite https ly.gov.tw. incomplete / member_ids empty is not a lost kit URL. Do not mint AHJs.",
+    "packages/tw-permit.json: US AHJ catalog has no Taiwan AHJs. Not an ingest-drop of a kit URL. Did not mint AHJs or fees.",
+    "Did not recrawl. Did not fetch pages. Source of truth is the kit existing URL."
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "iso2": "br",
+  "items": [
+    {
+      "id": "pl",
+      "name": "PL",
+      "seats": 98,
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
+    },
+    {
+      "id": "pt",
+      "name": "PT",
+      "seats": 64,
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
+    },
+    {
+      "id": "uniao",
+      "name": "UNIÃO",
+      "seats": 52,
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
+    },
+    {
+      "id": "psd",
+      "name": "PSD",
+      "seats": 48,
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
+    },
+    {
+      "id": "pp",
+      "name": "PP",
+      "seats": 46,
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
+    },
+    {
+      "id": "republicanos",
+      "name": "REPUBLICANOS",
+      "seats": 42,
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
+    },
+    {
+      "id": "mdb",
+      "name": "MDB",
+      "seats": 38,
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
+    },
+    {
+      "id": "pode",
+      "name": "PODE",
+      "seats": 27,
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
+    },
+    {
+      "id": "psdb",
+      "name": "PSDB",
+      "seats": 18,
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
+    },
+    {
+      "id": "psb",
+      "name": "PSB",
+      "seats": 17,
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
+    },
+    {
+      "id": "psol",
+      "name": "PSOL",
+      "seats": 13,
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
+    },
+    {
+      "id": "pcdob",
+      "name": "PCdoB",
+      "seats": 11,
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
+    },
+    {
+      "id": "pdt",
+      "name": "PDT",
+      "seats": 9,
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
+    },
+    {
+      "id": "pv",
+      "name": "PV",
+      "seats": 6,
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
+    },
+    {
+      "id": "novo",
+      "name": "NOVO",
+      "seats": 5,
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
+    },
+    {
+      "id": "avante",
+      "name": "AVANTE",
+      "seats": 5,
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
+    },
+    {
+      "id": "solidariedade",
+      "name": "SOLIDARIEDADE",
+      "seats": 4,
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
+    },
+    {
+      "id": "rede",
+      "name": "REDE",
+      "seats": 3,
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
+    },
+    {
+      "id": "prd",
+      "name": "PRD",
+      "seats": 3,
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
+    },
+    {
+      "id": "cidadania",
+      "name": "CIDADANIA",
+      "seats": 2,
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
+    },
+    {
+      "id": "dc",
+      "name": "DC",
+      "seats": 1,
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
+    },
+    {
+      "id": "missao",
+      "name": "MISSÃO",
+      "seats": 1,
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
+    }
+  ],
+  "incomplete": false
+}

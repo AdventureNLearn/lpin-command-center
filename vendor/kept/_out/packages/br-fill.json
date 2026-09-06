@@ -1,0 +1,257 @@
+{
+  "iso2": "br",
+  "wave": "WAVE-FILL-BR",
+  "hole_type": "ingest-drop",
+  "retrieved": "2026-08-29",
+  "source": "vendor/kept/kits/br",
+  "read_only": [
+    "vendor/kept/kits/br/sources.json",
+    "vendor/kept/kits/br/pledges.json",
+    "vendor/kept/kits/br/votes.json",
+    "vendor/kept/kits/br/members.json",
+    "vendor/kept/kits/br/gap.json",
+    "vendor/kept/kits/br/meta.json",
+    "vendor/kept/kits/br/ethics.json",
+    "vendor/kept/kits/br/money.json",
+    "vendor/kept/kits/br/institutional.json",
+    "vendor/kept/kits/br/issues.json"
+  ],
+  "did_not_rewrite": [
+    "vendor/kept/kits/br",
+    "votes.json",
+    "members.json",
+    "src/",
+    "packages/br.json",
+    "packages/br-permit.json",
+    "packages/_index.json",
+    "packages/us-fill.json",
+    "packages/ca-fill.json",
+    "packages/kr-fill.json",
+    "packages/gb-fill.json",
+    "packages/de-fill.json"
+  ],
+  "counts": {
+    "sources_items": 149,
+    "pledges_items": 185,
+    "pledges_with_sourceUrl": 185,
+    "pledges_without_sourceUrl": 0,
+    "pledge_sourceUrl_exact_in_sources": 122,
+    "votes_items": 41700,
+    "votes_with_source_url": 41700,
+    "votes_without_source_url": 0,
+    "vote_source_urls_exact_in_sources": 0,
+    "ethics_items": 28,
+    "ethics_with_http_source_url": 28,
+    "ethics_missing_http": 0,
+    "money_has_https_source_url": true,
+    "member_site_source_urls": 26,
+    "member_site_source_urls_not_on_pledge_or_vote": 2
+  },
+  "log": [
+    {
+      "hole": "marinasilva.org.br leftover never became a pledge row",
+      "url": "https://marinasilva.org.br/",
+      "action": "left",
+      "evidence": "Unproven",
+      "reason": "Personal member-site homepage sits in sources.json and is unused by pledges or votes. Restoring would mint a pledge. Did not recrawl. Incomplete beats fake-complete."
+    },
+    {
+      "hole": "soniaguajajara.com.br root leftover never became a pledge row",
+      "url": "https://soniaguajajara.com.br/",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Root sits in sources.json unused. Same host already has first-person https on pledges (https://soniaguajajara.com.br/mandato/). Companion leftover, not a dropped URL on a citation missing http(s). Do not swap a working URL. Do not mint pledges."
+    },
+    {
+      "hole": "12 leftover imagem.camara.gov.br diario URLs never became pledge rows",
+      "url": "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=30%2F3%2F2023&txPagina=16&txSuplemento=&enviar=Pesquisar",
+      "also": [
+        "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F11%2F2025&txPagina=179&txSuplemento=&enviar=Pesquisar",
+        "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F4%2F2023&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F5%2F2026&txPagina=215&txSuplemento=&enviar=Pesquisar",
+        "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F2%2F2025&txPagina=173&txSuplemento=&enviar=Pesquisar",
+        "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F12%2F2024&txPagina=119&txSuplemento=&enviar=Pesquisar",
+        "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F4%2F2026&txPagina=133&txSuplemento=&enviar=Pesquisar",
+        "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F11%2F2025&txPagina=333&txSuplemento=&enviar=Pesquisar",
+        "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F3%2F2025&txPagina=166&txSuplemento=&enviar=Pesquisar",
+        "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F5%2F2025&txPagina=121&txSuplemento=&enviar=Pesquisar",
+        "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=29%2F4%2F2026&txPagina=72&txSuplemento=&enviar=Pesquisar",
+        "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F12%2F2023&txPagina=111&txSuplemento=&enviar=Pesquisar"
+      ],
+      "action": "left",
+      "evidence": "Unproven",
+      "reason": "72 of 84 diario URLs in sources.json already sit on pledge sourceUrl. These 12 leftover floor/journal pages never became pledge rows. Restoring would mint pledges. Did not recrawl. Incomplete beats fake-complete."
+    },
+    {
+      "hole": "4 leftover deputados/{id}/discursos API templates never became pledge rows",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/deputados/{id}/discursos",
+      "also": [
+        "https://dadosabertos.camara.leg.br/api/v2/deputados/{id}/discursos?dataInicio=2023-02-01&dataFim=2026-08-20&ordenarPor=dataHoraInicio&ordem=DESC&itens=15",
+        "https://dadosabertos.camara.leg.br/api/v2/deputados/{id}/discursos?dataInicio=2023-02-01&dataFim=2026-08-20&ordenarPor=dataHoraInicio&ordem=DESC&itens=40",
+        "https://dadosabertos.camara.leg.br/api/v2/deputados/{id}/discursos?dataInicio=2023-02-01&dataFim=2026-08-20&ordenarPor=dataHoraInicio&ordem=DESC&itens=40&pagina=2"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "pledges.note and meta.note: leftover discursos junk-filtered, not proposta. Template/API companions, not dropped original-record URLs on a citation missing http(s). Restoring would mint pledges. Did not recrawl."
+    },
+    {
+      "hole": "4 TSE / DivulgaCandContas URLs in sources.json never became pledge rows",
+      "url": "https://divulgacandcontas.tse.jus.br/",
+      "also": [
+        "https://dadosabertos.tse.jus.br/dataset/candidatos-2022",
+        "https://dadosabertos.tse.jus.br/",
+        "https://www.tse.jus.br/comunicacao/noticias/2022/Agosto/divulgacandcontas-consulte-arrecadacoes-e-gastos-de-campanhas-nas-eleicoes-2022"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "pledges.note: TSE 2022 Chamber files are certidoes, not proposta de governo. Skip unverified. Index/companion leftover, not a dropped URL on an existing citation missing http(s). Restoring would mint pledges. Do not mix hole types."
+    },
+    {
+      "hole": "No existing pledge, vote, ethics, or money citation is missing an http(s) URL",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "pledges.json 185/185 have sourceUrl https (122 exact-in sources; 63 https not exact-in: leftover diario pages, camara.leg.br/deputados/{id} profiles, one member-site). votes.json 41700/41700 have source_url https. ethics.json 28/28 have source_url https. money.source_url is https deputadosProfissoes.json exact-in sources. Nothing to restore onto a public citation. Ingest-drop restore requires a dropped URL the kit already has."
+    },
+    {
+      "hole": "41700 vote clerk per-event URLs are not exact-in sources.json; sources holds vote indexes",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes?dataInicio=2023-02-01&itens=100&ordem=DESC&ordenarPor=dataHoraRegistro",
+      "also": [
+        "https://dadosabertos.camara.leg.br/api/v2/votacoes"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "All 41700 votes already carry https dadosabertos.camara.leg.br/api/v2/votacoes/{id}. sources holds the dated votacoes list (votes.source_url, exact-in) and the undated /votacoes companion. Index/companion; do not swap a working URL. Do not mint floor rows. votes.note: leftover named hunt-stop; unpublished PLEN not nay."
+    },
+    {
+      "hole": "votacoesVotos arquivos and /votacoes/{id}/votos template in sources.json are not vote citation gaps",
+      "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesVotos/csv/votacoesVotos-2023.csv",
+      "also": [
+        "https://dadosabertos.camara.leg.br/arquivos/votacoesVotos/csv/votacoesVotos-2024.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/votacoesVotos/csv/votacoesVotos-2025.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/votacoesVotos/csv/votacoesVotos-2026.csv",
+        "https://dadosabertos.camara.leg.br/arquivos/votacoesVotos/json/",
+        "https://dadosabertos.camara.leg.br/api/v2/votacoes/{id}/votos"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "votes.note: positions from official yearly votacoesVotos arquivos on 1117 plenary nominal votes; /votacoes/{id}/votos empty dados not looped. All 41700 vote rows already have https. Arquivos and empty-votos template are companions, not dropped original-record URLs on a citation missing http(s). Do not invent yeas. Do not swap a working URL."
+    },
+    {
+      "hole": "dadosabertos root, swagger, and deputados API variants in sources.json never became pledge or vote rows",
+      "url": "https://dadosabertos.camara.leg.br/",
+      "also": [
+        "https://dadosabertos.camara.leg.br/swagger/api.html",
+        "https://dadosabertos.camara.leg.br/api/v2/deputados/{id}",
+        "https://dadosabertos.camara.leg.br/api/v2/deputados?idLegislatura=57&itens=100&ordem=ASC&ordenarPor=nome",
+        "https://dadosabertos.camara.leg.br/api/v2/deputados?itens=100&ordem=ASC&ordenarPor=nome",
+        "https://dadosabertos.camara.leg.br/api/v2/deputados?idLegislatura=57&itens=1&ordem=ASC&ordenarPor=nome"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Open Data root, swagger, and deputados list/id variants. members.source_url already has https roster API exact-in sources. Index/companion; do not mint sitting names. Do not swap a working URL."
+    },
+    {
+      "hole": "orgaos standing-committee index in sources.json is not a committee/pledge/vote citation gap",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/orgaos?codTipoOrgao=2&itens=100",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "committees.json 30/30 already carry https dadosabertos.camara.leg.br/api/v2/orgaos/{id} (origin clerk). File-level committees.source_url is this index exact-in sources. Index is a companion. Do not mint AHJs."
+    },
+    {
+      "hole": "3 TSE FEFC URLs in sources.json are not money citation gaps",
+      "url": "https://www.tse.jus.br/eleicoes/eleicoes-2022/prestacao-de-contas/fundo-especial-de-financiamento-de-campanha-fefc",
+      "also": [
+        "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/prestacao-de-contas/distribuicao-dos-recursos-do-fundo-especial-de-financiamento-de-campanha-fefc-eleicoes-2026",
+        "https://www.tse.jus.br/comunicacao/noticias/2026/Junho/tse-divulga-distribuicao-do-fundo-especial-de-financiamento-de-campanha-para-as-eleicoes-2026"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "money.note: TSE FEFC 2022/2026 is the all-office public fund allocation, not a Chamber sitting-campaign occupation/source aggregate, so reais were not stored. money.source_url already has https deputadosProfissoes.json exact-in sources. Companions, not dropped original-record URLs on a citation missing http(s). Did not mint fees."
+    },
+    {
+      "hole": "RelDepProfissao, deputadosOcupacoes, IBGE, and SIDRA URLs in sources.json are not money citation gaps",
+      "url": "https://www.camara.leg.br/internet/deputado/RelDepProfissao.asp",
+      "also": [
+        "https://dadosabertos.camara.leg.br/arquivos/deputadosOcupacoes/json/deputadosOcupacoes.json",
+        "https://dadosabertos.camara.leg.br/news/noticias/2021-04-14-deputadosOcupacoesProfissoes.html",
+        "https://www.ibge.gov.br/",
+        "https://sidra.ibge.gov.br/pesquisa/censo-demografico/demografico-2022/inicial"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "money.note: RelDepProfissao.asp sitting report HTTP 404; deputadosOcupacoes.json is historical all-time jobs and was not stored; IBGE/SIDRA 2022 has no sitting-deputy occupation table. Occupation zip already on money.source_url. Companions, not dropped original-record URLs on a citation missing http(s). Did not name private donors. Did not mint fees."
+    },
+    {
+      "hole": "ethics novo-codigo-de-etica page in sources.json is not an ethics citation gap",
+      "url": "https://www2.camara.leg.br/a-camara/estruturaadm/eticaedecoro/arquivos/novo-codigo-de-etica-da-camara-dos-deputados",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "28/28 ethics rows already have https (9 exact-in sources on the Conselho de Etica instaura news URL; remaining rows cite Res. 25/2001, Ato da Mesa 43/2009, Transparencia portal, and later Conselho news https that already sit on the citation). Do not swap a working URL. ethics.note: amount_band null; no reais; no named private donors. Do not name private donors."
+    },
+    {
+      "hole": "camara.leg.br root and deputados/quem-sao indexes in sources.json are not pledge or vote rows",
+      "url": "https://www.camara.leg.br/",
+      "also": [
+        "https://www.camara.leg.br/deputados/quem-sao",
+        "https://www.camara.leg.br/deputados/quem-sao/resultado?legislatura=57"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Chamber root and sitting-roster indexes. members.json 513/513 sitting already carry https roster_url. Index/companion, not a dropped original-record URL. Do not mint sitting names."
+    },
+    {
+      "hole": "institutional.json items 0",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Empty kit (institutional_kits = 0 claimed). Not an ingest drop. Do not mint rows."
+    },
+    {
+      "hole": "gap.json items 0 after 137-pair exam",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Honest empty after dual-source exam (gap.note: 137 sourced-pledge x same-issue clerk vote pairs; 0 with unambiguous polarity). Not a lost kit URL."
+    },
+    {
+      "hole": "members.json 513 sitting; roster complete",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Sitting-name roster is complete (513/513 sitting, claimed_seats 513, all https roster_url). Not ingest-drop. Do not mint sitting names. All pledge/vote citations already carry http(s)."
+    },
+    {
+      "hole": "money.json named_donors false",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "money.note: DivulgaCandContas and dados abertos publicacao of named PF donors and DS_ORIGEM_RECEITA microdata were not collected. No original-record donor URL sits on a citation missing http(s). Did not name private donors. Occupation json already on money.source_url."
+    },
+    {
+      "hole": "meta.json incomplete true is honest-complete rollup, not a lost kit URL",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "meta.note: BR honest-complete 2026-08-21 (sit 513; pledges 185/132 sitting leftover discursos/TSE certidoes junk-filtered; votes 41700 named 1117 leftover hunt-stop; money named_donors false; gap 0). Flag reflects leftover harvest, not a dropped original-record URL on a public citation missing http(s)."
+    }
+  ],
+  "summary": {
+    "restored": 0,
+    "left": 19,
+    "evidence": {
+      "Supported": 17,
+      "Unproven": 2,
+      "Disputed": 0,
+      "Human decision": 0
+    }
+  },
+  "notes": [
+    "One hole type: ingest-drop. Restore a URL the kit already has in sources, or leave the hole.",
+    "No existing scoring citation lost a kit URL. All 185 pledges, 41700 votes, 28 ethics rows, and money.source_url already carry http(s).",
+    "122 of 185 pledge sourceUrl values are exact-in sources.json. 63 https pledges are not exact-in (diario pages, deputados profile pages, one member-site). Citations already have http(s); do not swap.",
+    "26 personal member-site URLs sit in sources.json (non-camara.leg.br, non-dadosabertos, non-imagem.camara.gov.br, non-TSE, non-IBGE). 24 are on pledges; 2 never became pledge or vote rows. Left. Do not mint pledges.",
+    "pledges.note: leftover discursos/TSE certidoes not proposta, junk-filtered, not invented. Not a full 513-member harvest. Did not recrawl leftover member-sites or leftover diarios.",
+    "vote_source_urls_exact_in_sources is 0 because sources holds the votacoes list index while votes cite per-event /votacoes/{id}. Not a drop: citations already have https.",
+    "Did not invent pledges, sitting names, fees, AHJs. Did not name private donors.",
+    "institutional.json items 0 is an empty kit, not an ingest drop.",
+    "gap.json items 0 after 137-pair exam is honest empty, not an ingest drop.",
+    "members 513 sitting with https roster_url is complete roster coverage, not a lost kit URL.",
+    "money named_donors false is a DivulgaCandContas/prestacao hole, not a dropped original-record URL.",
+    "Did not recrawl. Did not fetch pages. Source of truth is the kit's existing URL."
+  ]
+}

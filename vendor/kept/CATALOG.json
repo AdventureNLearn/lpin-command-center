@@ -1,0 +1,110 @@
+{
+  "authority": "Local gold kit http://127.0.0.1:8103/ (D-115/D-121). Live remixes are production, not this catalog.",
+  "not_corpus": ["ask-grok", "login", "follow-list"],
+  "objects": [
+    {
+      "id": "desk",
+      "file": "meta.json",
+      "kit": ["scoring", "map", "institutional"],
+      "view": ["#/", "#/compare", "#/map"],
+      "fields": [
+        "iso2", "name", "region", "chamber", "houses", "system", "seats",
+        "election", "session", "kit", "lang", "threshold",
+        "counts.members", "counts.sitting", "counts.votes", "counts.committees",
+        "counts.key_votes", "counts.sourced_quotes",
+        "capabilities", "basis", "incomplete", "source_live"
+      ]
+    },
+    {
+      "id": "members",
+      "file": "members.json",
+      "kit": ["scoring"],
+      "view": ["#/members"],
+      "fields": [
+        "id", "name", "sitting", "party_id", "caucus", "constituency_label",
+        "chamber", "term", "lang", "roster_url"
+      ],
+      "notes": "Public-official names + constituency labels are catalog data (D-115). No municipality samples."
+    },
+    {
+      "id": "parties",
+      "file": "parties.json",
+      "kit": ["scoring"],
+      "view": ["#/members"],
+      "fields": ["id", "name", "seats", "source_url"],
+      "notes": "Shown on the profile. Never the scoring test (:8103 method + footer)."
+    },
+    {
+      "id": "pledges",
+      "file": "pledges.json",
+      "kit": ["scoring"],
+      "view": ["#/members", "#/issues", "#/method"],
+      "fields": ["id", "member_id", "issue_id", "sentence", "sourceUrl", "date", "term", "lang"],
+      "score": "sentence + https URL or do not score that issue"
+    },
+    {
+      "id": "votes",
+      "file": "votes.json",
+      "kit": ["scoring"],
+      "view": ["#/votes"],
+      "fields": [
+        "id", "date", "title", "issue_id", "member_id", "position",
+        "missed", "origin", "aligned_with_pledge", "bill_id", "source_url"
+      ],
+      "origin": ["clerk", "hansard", "nec", "reconstructed"]
+    },
+    {
+      "id": "gap",
+      "file": "gap.json",
+      "kit": ["scoring"],
+      "view": ["#/members", "#/votes"],
+      "fields": ["member_id", "issue_id", "pledge_id", "vote_id", "kind"],
+      "notes": "Broke their own sourced pledge. Not 'broke the party ticket'."
+    },
+    {
+      "id": "issues",
+      "file": "issues.json",
+      "kit": ["scoring"],
+      "view": ["#/issues"],
+      "fields": ["id", "label_en", "label_ko"]
+    },
+    {
+      "id": "committees",
+      "file": "committees.json",
+      "kit": ["scoring", "institutional"],
+      "view": ["#/committees"],
+      "fields": ["id", "name", "chamber", "seats", "chair_id", "member_ids", "origin"]
+    },
+    {
+      "id": "ethics",
+      "file": "ethics.json",
+      "kit": ["scoring"],
+      "view": ["#/ethics"],
+      "fields": ["member_id", "category", "public", "amount_band", "origin", "source_url"],
+      "notes": "Public categories only. No confidential annex. No invented dollar amounts. Estimate bands labeled estimate."
+    },
+    {
+      "id": "money",
+      "file": "money.json",
+      "kit": ["scoring"],
+      "view": ["#/money"],
+      "fields": ["unit", "sitting_total_reconstructed", "buckets[].label", "buckets[].amount", "named_donors"],
+      "named_donors": false
+    },
+    {
+      "id": "sources",
+      "file": "sources.json",
+      "kit": ["scoring", "map", "institutional"],
+      "view": ["#/method"],
+      "fields": ["url", "kind", "basis", "retrieved"]
+    },
+    {
+      "id": "institutional",
+      "file": "institutional.json",
+      "kit": ["institutional"],
+      "view": ["#/"],
+      "fields": ["org_name", "mandate", "source_url", "incomplete"],
+      "notes": ":8103 claimed institutional_kits = 0. File exists so the gold kit can carry the flag."
+    }
+  ]
+}

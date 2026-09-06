@@ -1,0 +1,33 @@
+{
+  "iso2": "bs",
+  "name": "Bahamas (The)",
+  "region": "",
+  "chamber": "Parliament of The Bahamas",
+  "houses": "",
+  "system": "",
+  "seats": 3,
+  "election": "",
+  "session": "",
+  "kit": "map",
+  "lang": [
+    "en"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 3,
+    "sitting": 3,
+    "votes": 0,
+    "committees": 0,
+    "key_votes": 0,
+    "sourced_quotes": 0
+  },
+  "capabilities": [
+    "members"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "lpin-wikidata-fill",
+  "source_live": null,
+  "note": "Wikidata sitting pull 2026-09-06. 3 named. Vacancies not invented.",
+  "roster_source": "https://www.wikidata.org/wiki/Q1572486"
+}

@@ -1,0 +1,33 @@
+{
+  "iso2": "at",
+  "name": "Austria",
+  "region": "",
+  "chamber": "Austrian Parliament",
+  "houses": "",
+  "system": "",
+  "seats": 792,
+  "election": "",
+  "session": "",
+  "kit": "map",
+  "lang": [
+    "en"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 792,
+    "sitting": 792,
+    "votes": 0,
+    "committees": 0,
+    "key_votes": 0,
+    "sourced_quotes": 0
+  },
+  "capabilities": [
+    "members"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "lpin-wikidata-fill",
+  "source_live": null,
+  "note": "Wikidata sitting pull 2026-09-06. 795 named. Vacancies not invented.",
+  "roster_source": "https://www.wikidata.org/wiki/Q4817650"
+}

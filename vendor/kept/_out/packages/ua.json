@@ -1,0 +1,100 @@
+{
+  "iso2": "ua",
+  "kit_on_disk": true,
+  "objects": {
+    "committees.json": {
+      "state": "filled",
+      "count": 36
+    },
+    "ethics.json": {
+      "state": "filled",
+      "count": 2464
+    },
+    "gap.json": {
+      "state": "seeded",
+      "count": 0
+    },
+    "institutional.json": {
+      "state": "empty",
+      "count": 0
+    },
+    "issues.json": {
+      "state": "filled",
+      "count": 24
+    },
+    "members.json": {
+      "state": "filled",
+      "count": 392
+    },
+    "meta.json": {
+      "state": "filled",
+      "count": 23
+    },
+    "money.json": {
+      "state": "filled",
+      "count": 3
+    },
+    "parties.json": {
+      "state": "filled",
+      "count": 9
+    },
+    "pledges.json": {
+      "state": "filled",
+      "count": 304
+    },
+    "sources.json": {
+      "state": "filled",
+      "count": 28
+    },
+    "votes.json": {
+      "state": "filled",
+      "count": 22367
+    }
+  },
+  "capital": {
+    "name": "Kyiv",
+    "lat": 50.435313,
+    "lon": 30.514682,
+    "kind": "capital"
+  },
+  "holes": [
+    {
+      "object": "committees.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "ethics.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "gap.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "institutional.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "members.json",
+      "reason": "items 392 claimed_seats 450"
+    },
+    {
+      "object": "money.json",
+      "reason": "incomplete true; named_donors false"
+    },
+    {
+      "object": "pledges.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "votes.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "meta.json",
+      "reason": "incomplete true"
+    }
+  ],
+  "retrieved": "2026-08-29",
+  "source": "vendor/kept/kits/ua"
+}

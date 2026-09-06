@@ -1,0 +1,33 @@
+{
+  "iso2": "ao",
+  "name": "Angola",
+  "region": "",
+  "chamber": "National Assembly of Angola",
+  "houses": "",
+  "system": "",
+  "seats": 624,
+  "election": "",
+  "session": "",
+  "kit": "map",
+  "lang": [
+    "en"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 624,
+    "sitting": 624,
+    "votes": 0,
+    "committees": 0,
+    "key_votes": 0,
+    "sourced_quotes": 0
+  },
+  "capabilities": [
+    "members"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "lpin-wikidata-fill",
+  "source_live": null,
+  "note": "Wikidata sitting pull 2026-09-06. 666 named. Vacancies not invented.",
+  "roster_source": "https://www.wikidata.org/wiki/Q1969479"
+}

@@ -1,0 +1,48 @@
+{
+  "iso2": "ca",
+  "kit": "scoring",
+  "source": "https://kepthoc2126.grok.me",
+  "method": "https://kepthoc2126.grok.me/method",
+  "session": "44th–45th (2021–2026)",
+  "threshold": 5,
+  "counts": {
+    "members": 240,
+    "sitting": 216,
+    "votes": 173,
+    "key_votes": 114,
+    "committees": 33,
+    "sourced_quotes": 38
+  },
+  "issues": [
+    "immigration",
+    "energy",
+    "taxes",
+    "housing",
+    "healthcare",
+    "crime",
+    "firearms",
+    "quebec",
+    "indigenous",
+    "defence",
+    "ukraine",
+    "china",
+    "digital",
+    "elections"
+  ],
+  "capabilities": [
+    "members",
+    "pledges",
+    "votes",
+    "issues",
+    "gap",
+    "caucus",
+    "committees",
+    "ethics",
+    "ask-grok",
+    "method"
+  ],
+  "ethics": "Public COIEC categories only. No confidential annex. No invented dollar amounts.",
+  "local_members": [],
+  "incomplete": true,
+  "note": "Votes/committees filled 2026-08-20 from OpenParliament + ourcommons clerk XML. Sibling 639=seat-assignments."
+}

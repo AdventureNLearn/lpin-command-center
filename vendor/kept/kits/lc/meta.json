@@ -1,0 +1,33 @@
+{
+  "iso2": "lc",
+  "name": "Saint Lucia",
+  "region": "",
+  "chamber": "Parliament of Saint Lucia",
+  "houses": "",
+  "system": "",
+  "seats": 35,
+  "election": "",
+  "session": "",
+  "kit": "map",
+  "lang": [
+    "en"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 35,
+    "sitting": 35,
+    "votes": 0,
+    "committees": 0,
+    "key_votes": 0,
+    "sourced_quotes": 0
+  },
+  "capabilities": [
+    "members"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "lpin-wikidata-fill",
+  "source_live": null,
+  "note": "Wikidata sitting pull 2026-09-06. 48 named. Vacancies not invented.",
+  "roster_source": "https://www.wikidata.org/wiki/Q1563736"
+}

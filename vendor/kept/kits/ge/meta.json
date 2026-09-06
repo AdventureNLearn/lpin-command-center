@@ -1,0 +1,33 @@
+{
+  "iso2": "ge",
+  "name": "Georgia",
+  "region": "",
+  "chamber": "Parliament of Georgia",
+  "houses": "",
+  "system": "",
+  "seats": 359,
+  "election": "",
+  "session": "",
+  "kit": "map",
+  "lang": [
+    "en"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 359,
+    "sitting": 359,
+    "votes": 0,
+    "committees": 0,
+    "key_votes": 0,
+    "sourced_quotes": 0
+  },
+  "capabilities": [
+    "members"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "lpin-wikidata-fill",
+  "source_live": null,
+  "note": "Wikidata sitting pull 2026-09-06. 394 named. Vacancies not invented.",
+  "roster_source": "https://www.wikidata.org/wiki/Q1417210"
+}

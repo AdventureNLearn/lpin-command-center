@@ -1,0 +1,44 @@
+{
+  "iso2": "jp",
+  "name": "Japan",
+  "region": "asia",
+  "chamber": "House of Representatives",
+  "houses": "bicameral",
+  "system": "constitutional monarchy",
+  "seats": 465,
+  "election": "competitive",
+  "session": "221st Diet (special, 2026-02-18–2026-07-25)",
+  "kit": "scoring",
+  "lang": [
+    "ja",
+    "en"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 465,
+    "sitting": 465,
+    "votes": 95,
+    "committees": 27,
+    "key_votes": 6,
+    "sourced_quotes": 216
+  },
+  "capabilities": [
+    "members",
+    "pledges",
+    "votes",
+    "issues",
+    "gap",
+    "caucus",
+    "committees",
+    "ethics",
+    "money",
+    "method"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "gold-kit-8103",
+  "source_live": null,
+  "note": "JP honest-complete 2026-08-21. Sit 465. Pledges 216 / 95 sitting. Leftover cache hits needs_https or party platform / shugiin third-person bios — not merged. Votes 95 named 6 (記名 clerk exhausted; do not requeue keika). Comm 27 ethics 32 money 12 buckets named_donors false. Gap 0 (no dual-sourced own-pledge break on named rolls).",
+  "roster_source": "https://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_a.htm",
+  "honest_complete": true
+}

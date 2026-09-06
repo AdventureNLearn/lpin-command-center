@@ -1,0 +1,31 @@
+{
+  "iso2": "nl",
+  "source": "src/lib/permit/",
+  "retrieved": "2026-08-29",
+  "lock_date": "2026-08-18",
+  "counts": {
+    "core": 0,
+    "extra": 0,
+    "more": 0,
+    "rest": 0
+  },
+  "factory_urls_verified": false,
+  "paths": [
+    "src/lib/permit/places.ts",
+    "src/lib/permit/places-extra.ts",
+    "src/lib/permit/places-more.ts",
+    "src/lib/permit/places-rest.ts"
+  ],
+  "holes": [
+    {
+      "object": "src/lib/permit/",
+      "reason": "US AHJ catalog has no Netherlands AHJs (NL is Netherlands, not a US state). No Dutch permit rows invented. Country-native catalogs stay zero."
+    }
+  ],
+  "notes": [
+    "NL is Netherlands the country, not a US state and not Canadian Newfoundland. No US state code NL exists in this catalog; no US state codes copied onto NL. US places named Holland / Netherlands / Nederland excluded and not counted as the country: core 0, extra 0, more 0, rest 11 (ar-holland, ia-holland, ma-holland, mi-holland, mn-holland, mn-hollandale, ms-hollandale, nj-holland, ny-holland, tx-nederland, vt-holland). OH Holland: none in catalog. Canadian NL: none. Rest is a count, not a map; contents not copied.",
+    "factory URLs not verified.",
+    "fees omitted (unsourced).",
+    "No pin list. No GeoJSON."
+  ]
+}

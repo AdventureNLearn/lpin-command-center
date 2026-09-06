@@ -1,0 +1,44 @@
+{
+  "iso2": "id",
+  "name": "Indonesia",
+  "region": "asia",
+  "chamber": "DPR",
+  "houses": "",
+  "system": "",
+  "seats": 0,
+  "election": "",
+  "session": "2024–2029",
+  "kit": "map",
+  "lang": [
+    "en",
+    "id"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 569,
+    "sitting": 569,
+    "votes": 27,
+    "committees": 27,
+    "key_votes": 27,
+    "sourced_quotes": 21
+  },
+  "capabilities": [
+    "members",
+    "pledges",
+    "votes",
+    "issues",
+    "gap",
+    "caucus",
+    "committees",
+    "ethics",
+    "money",
+    "method"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "gold-kit-8103",
+  "source_live": null,
+  "note": "Plenary votes from official DPR e-media. Money = LHKPN/public-finance occupation buckets empty (no official aggregate). Member yeas and named donors not invented. Gap 0 after dual-source exam. Honest-complete: leftover emedia search examined; prior-lane tmp unique row merged; www.dpr.go.id 403 not looped.",
+  "roster_source": "https://id.wikipedia.org/wiki/Daftar_anggota_Dewan_Perwakilan_Rakyat_Republik_Indonesia_2024–2029",
+  "honest_complete": true
+}

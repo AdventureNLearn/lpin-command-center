@@ -1,0 +1,19 @@
+{
+  "iso2": "us",
+  "kit": "scoring",
+  "source": "https://kepthor2326.grok.me",
+  "method": "https://kepthor2326.grok.me/method",
+  "session": "118th–119th (2023–2026)",
+  "threshold": 6,
+  "counts": { "members": 525, "sitting": 431, "votes": 1878 },
+  "roster": "unitedstates/congress-legislators",
+  "rolls": "VoteView / Clerk of the House through late July 2026",
+  "issues": [
+    "border", "energy", "taxes", "spending", "abortion", "education",
+    "elections", "crime", "guns", "ukraine", "israel", "china", "defense"
+  ],
+  "capabilities": ["members", "pledges", "votes", "issues", "gap", "caucus", "ask-grok", "method"],
+  "local_members": [],
+  "incomplete": true,
+  "note": "Counts from live sibling 2026-08-20. Member rows wait on Sub8 harvest. Do not invent pledges."
+}

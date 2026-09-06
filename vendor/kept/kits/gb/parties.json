@@ -1,0 +1,114 @@
+{
+  "iso2": "gb",
+  "items": [
+    {
+      "id": "labour",
+      "name": "Labour",
+      "seats": 361,
+      "source_url": "https://members-api.parliament.uk/api/Members/Search?House=Commons&IsCurrentMember=true"
+    },
+    {
+      "id": "conservative",
+      "name": "Conservative",
+      "seats": 118,
+      "source_url": "https://members-api.parliament.uk/api/Members/Search?House=Commons&IsCurrentMember=true"
+    },
+    {
+      "id": "liberal-democrat",
+      "name": "Liberal Democrat",
+      "seats": 71,
+      "source_url": "https://members-api.parliament.uk/api/Members/Search?House=Commons&IsCurrentMember=true"
+    },
+    {
+      "id": "labour-co-op",
+      "name": "Labour (Co-op)",
+      "seats": 43,
+      "source_url": "https://members-api.parliament.uk/api/Members/Search?House=Commons&IsCurrentMember=true"
+    },
+    {
+      "id": "independent",
+      "name": "Independent",
+      "seats": 11,
+      "source_url": "https://members-api.parliament.uk/api/Members/Search?House=Commons&IsCurrentMember=true"
+    },
+    {
+      "id": "reform-uk",
+      "name": "Reform UK",
+      "seats": 8,
+      "source_url": "https://members-api.parliament.uk/api/Members/Search?House=Commons&IsCurrentMember=true"
+    },
+    {
+      "id": "scottish-national-party",
+      "name": "Scottish National Party",
+      "seats": 8,
+      "source_url": "https://members-api.parliament.uk/api/Members/Search?House=Commons&IsCurrentMember=true"
+    },
+    {
+      "id": "sinn-f-in",
+      "name": "Sinn Féin",
+      "seats": 7,
+      "source_url": "https://members-api.parliament.uk/api/Members/Search?House=Commons&IsCurrentMember=true"
+    },
+    {
+      "id": "green-party",
+      "name": "Green Party",
+      "seats": 5,
+      "source_url": "https://members-api.parliament.uk/api/Members/Search?House=Commons&IsCurrentMember=true"
+    },
+    {
+      "id": "democratic-unionist-party",
+      "name": "Democratic Unionist Party",
+      "seats": 5,
+      "source_url": "https://members-api.parliament.uk/api/Members/Search?House=Commons&IsCurrentMember=true"
+    },
+    {
+      "id": "plaid-cymru",
+      "name": "Plaid Cymru",
+      "seats": 4,
+      "source_url": "https://members-api.parliament.uk/api/Members/Search?House=Commons&IsCurrentMember=true"
+    },
+    {
+      "id": "social-democratic-labour-party",
+      "name": "Social Democratic & Labour Party",
+      "seats": 2,
+      "source_url": "https://members-api.parliament.uk/api/Members/Search?House=Commons&IsCurrentMember=true"
+    },
+    {
+      "id": "your-party",
+      "name": "Your Party",
+      "seats": 2,
+      "source_url": "https://members-api.parliament.uk/api/Members/Search?House=Commons&IsCurrentMember=true"
+    },
+    {
+      "id": "traditional-unionist-voice",
+      "name": "Traditional Unionist Voice",
+      "seats": 1,
+      "source_url": "https://members-api.parliament.uk/api/Members/Search?House=Commons&IsCurrentMember=true"
+    },
+    {
+      "id": "ulster-unionist-party",
+      "name": "Ulster Unionist Party",
+      "seats": 1,
+      "source_url": "https://members-api.parliament.uk/api/Members/Search?House=Commons&IsCurrentMember=true"
+    },
+    {
+      "id": "restore-britain",
+      "name": "Restore Britain",
+      "seats": 1,
+      "source_url": "https://members-api.parliament.uk/api/Members/Search?House=Commons&IsCurrentMember=true"
+    },
+    {
+      "id": "speaker",
+      "name": "Speaker",
+      "seats": 1,
+      "source_url": "https://members-api.parliament.uk/api/Members/Search?House=Commons&IsCurrentMember=true"
+    },
+    {
+      "id": "alliance",
+      "name": "Alliance",
+      "seats": 1,
+      "source_url": "https://members-api.parliament.uk/api/Members/Search?House=Commons&IsCurrentMember=true"
+    }
+  ],
+  "incomplete": false
+}

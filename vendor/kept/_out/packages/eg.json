@@ -1,0 +1,96 @@
+{
+  "iso2": "eg",
+  "kit_on_disk": true,
+  "objects": {
+    "committees.json": {
+      "state": "filled",
+      "count": 30
+    },
+    "ethics.json": {
+      "state": "filled",
+      "count": 14
+    },
+    "gap.json": {
+      "state": "seeded",
+      "count": 0
+    },
+    "institutional.json": {
+      "state": "empty",
+      "count": 0
+    },
+    "issues.json": {
+      "state": "filled",
+      "count": 25
+    },
+    "members.json": {
+      "state": "filled",
+      "count": 596
+    },
+    "meta.json": {
+      "state": "filled",
+      "count": 21
+    },
+    "money.json": {
+      "state": "seeded",
+      "count": 0
+    },
+    "parties.json": {
+      "state": "filled",
+      "count": 16
+    },
+    "pledges.json": {
+      "state": "seeded",
+      "count": 0
+    },
+    "sources.json": {
+      "state": "filled",
+      "count": 302
+    },
+    "votes.json": {
+      "state": "filled",
+      "count": 254
+    }
+  },
+  "capital": {
+    "name": "Cairo",
+    "lat": 30.051906,
+    "lon": 31.248022,
+    "kind": "capital"
+  },
+  "holes": [
+    {
+      "object": "committees.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "ethics.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "gap.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "institutional.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "money.json",
+      "reason": "buckets 0; sitting_total_reconstructed null"
+    },
+    {
+      "object": "pledges.json",
+      "reason": "items 0; meta sourced_quotes 0; hunt-stop"
+    },
+    {
+      "object": "votes.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "meta.json",
+      "reason": "incomplete true"
+    }
+  ],
+  "retrieved": "2026-08-29",
+  "source": "vendor/kept/kits/eg"
+}

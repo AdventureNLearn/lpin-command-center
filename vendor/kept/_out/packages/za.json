@@ -1,0 +1,100 @@
+{
+  "iso2": "za",
+  "kit_on_disk": true,
+  "objects": {
+    "committees.json": {
+      "state": "filled",
+      "count": 46
+    },
+    "ethics.json": {
+      "state": "filled",
+      "count": 23
+    },
+    "gap.json": {
+      "state": "seeded",
+      "count": 0
+    },
+    "institutional.json": {
+      "state": "empty",
+      "count": 0
+    },
+    "issues.json": {
+      "state": "filled",
+      "count": 13
+    },
+    "members.json": {
+      "state": "filled",
+      "count": 398
+    },
+    "meta.json": {
+      "state": "filled",
+      "count": 22
+    },
+    "money.json": {
+      "state": "seeded",
+      "count": 0
+    },
+    "parties.json": {
+      "state": "filled",
+      "count": 18
+    },
+    "pledges.json": {
+      "state": "filled",
+      "count": 17
+    },
+    "sources.json": {
+      "state": "filled",
+      "count": 238
+    },
+    "votes.json": {
+      "state": "filled",
+      "count": 57
+    }
+  },
+  "capital": {
+    "name": "Pretoria",
+    "lat": -25.704975,
+    "lon": 28.227483,
+    "kind": "capital"
+  },
+  "holes": [
+    {
+      "object": "committees.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "ethics.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "gap.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "institutional.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "members.json",
+      "reason": "items 398 claimed_seats 400; vacancies not padded"
+    },
+    {
+      "object": "money.json",
+      "reason": "buckets 0; sitting_total_reconstructed null"
+    },
+    {
+      "object": "pledges.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "votes.json",
+      "reason": "incomplete true; meta.counts.named_votes 0"
+    },
+    {
+      "object": "meta.json",
+      "reason": "incomplete true"
+    }
+  ],
+  "retrieved": "2026-08-29",
+  "source": "vendor/kept/kits/za"
+}

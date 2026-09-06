@@ -1,0 +1,48 @@
+{
+  "iso2": "ua",
+  "name": "Ukraine",
+  "region": "europe",
+  "chamber": "Verkhovna Rada",
+  "houses": "",
+  "system": "",
+  "seats": 450,
+  "election": "2019",
+  "session": "IX",
+  "kit": "map",
+  "lang": [
+    "uk",
+    "en"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 392,
+    "sitting": 392,
+    "votes": 22367,
+    "named_votes": 22093,
+    "committees": 36,
+    "key_votes": 22093,
+    "sourced_quotes": 304,
+    "pledged_members": 125
+  },
+  "capabilities": [
+    "members",
+    "pledges",
+    "votes",
+    "issues",
+    "gap",
+    "caucus",
+    "committees",
+    "ethics",
+    "money",
+    "method"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "gold-kit-8103",
+  "source_live": null,
+  "note": "UA honest-complete Phase 2 stamp 2026-08-21. Sit 392 / 450 statutory (58 wartime vacant, not padded). Pledges 304 personal https / 125 sitting from CEC/CVK 2019 single-mandate programs; party-list ticket skipped. Votes claimed 22367 clerk; T4 named 22093 (leftover packed names 0; 274 Реєстрація empties). Gap 0 after 275575-pair exam. Ethics 2464 public NACP. Money 3 buckets, named_donors false. Flag+card only — votes.json not slurped, not rewritten. Honest incomplete.",
+  "roster_source": "https://data.rada.gov.ua/ogd/mps/skl9/mps09-data.csv",
+  "retrieved": "2026-08-21",
+  "honest_complete": true,
+  "named_donors": false
+}

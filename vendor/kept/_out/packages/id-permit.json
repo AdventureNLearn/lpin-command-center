@@ -1,0 +1,31 @@
+{
+  "iso2": "id",
+  "source": "src/lib/permit/",
+  "retrieved": "2026-08-29",
+  "lock_date": "2026-08-18",
+  "counts": {
+    "core": 0,
+    "extra": 0,
+    "more": 0,
+    "rest": 0
+  },
+  "factory_urls_verified": false,
+  "paths": [
+    "src/lib/permit/places.ts",
+    "src/lib/permit/places-extra.ts",
+    "src/lib/permit/places-more.ts",
+    "src/lib/permit/places-rest.ts"
+  ],
+  "holes": [
+    {
+      "object": "src/lib/permit/",
+      "reason": "US AHJ catalog has no Indonesia AHJs (ID in this catalog is Idaho, not Indonesia). No Indonesian permit rows invented."
+    }
+  ],
+  "notes": [
+    "Indonesia-country only filter: iso2 ID-as-country / Indonesia / Indonesian / Republik Indonesia. Zero matches. US state ID is Idaho, not Indonesia; Idaho AHJs excluded (core 1, extra 6, more 6, rest 231). Rest is a count, not a map; contents not copied.",
+    "factory URLs not verified.",
+    "fees omitted (unsourced).",
+    "No pin list. No GeoJSON."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "iso2": "ar",
+  "named_donors": false,
+  "buckets": [],
+  "unit": null,
+  "sitting_total_reconstructed": null,
+  "incomplete": true,
+  "source_url": "https://datos.hcdn.gob.ar/dataset/a80e0fa7-d73a-4ed1-9dec-80465e368951/resource/638cf72a-f993-4211-80e1-43984a529e4f/download/diputados_actuales2.0.json",
+  "note": "No official occupation-bucket or sitting-Cámara campaign-finance aggregate is published. datos.hcdn diputados_actuales2.0.json (257 sitting) has APELLIDO/NOMBRE/SEXO/DISTRITO/MANDATO/FECHA_DE_JURA/FECHA_DE_INICIO/BLOQUE — no profesión. CKAN search for profesion/ocupacion/curriculum returned 0 packages. www.hcdn.gob.ar deputy CV pages did not fetch from this host. dietas-y-gastos remuneraciones CSV is a statutory pay scale (Dieta / Gastos de Representación), not occupation-of-donor or sitting-campaign source totals, so it is not stored as kit buckets. Chamber budget-execution files are institutional, not member political funds. CNE pages were probed; named private donors not collected. Peso totals not invented. Occupation / public-finance buckets left empty.",
+  "retrieved": "2026-08-21"
+}

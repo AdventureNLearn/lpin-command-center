@@ -1,0 +1,33 @@
+{
+  "iso2": "ve",
+  "name": "Venezuela, Bolivarian Republic of",
+  "region": "",
+  "chamber": "National Assembly  of Venezuela",
+  "houses": "",
+  "system": "",
+  "seats": 263,
+  "election": "",
+  "session": "",
+  "kit": "map",
+  "lang": [
+    "en"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 263,
+    "sitting": 263,
+    "votes": 0,
+    "committees": 0,
+    "key_votes": 0,
+    "sourced_quotes": 0
+  },
+  "capabilities": [
+    "members"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "lpin-wikidata-fill",
+  "source_live": null,
+  "note": "Wikidata sitting pull 2026-09-06. 263 named. Vacancies not invented.",
+  "roster_source": "https://www.wikidata.org/wiki/Q1585014"
+}

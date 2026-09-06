@@ -1,0 +1,45 @@
+{
+  "iso2": "tr",
+  "name": "Türkiye",
+  "region": "asia",
+  "chamber": "Grand National Assembly",
+  "houses": "",
+  "system": "",
+  "seats": 0,
+  "election": "",
+  "session": "28th term, 4th legislative year",
+  "kit": "map",
+  "lang": [
+    "en",
+    "tr"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 591,
+    "sitting": 591,
+    "votes": 36,
+    "committees": 20,
+    "key_votes": 36,
+    "sourced_quotes": 249
+  },
+  "capabilities": [
+    "members",
+    "pledges",
+    "votes",
+    "issues",
+    "gap",
+    "caucus",
+    "committees",
+    "ethics",
+    "money",
+    "method"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "gold-kit-8103",
+  "source_live": null,
+  "note": "TR honest-complete 2026-08-21. Sit 591. Pledges 249 personal https (first-signed kanun teklifi ozet). Votes file not rewritten. named_donors false. Honest incomplete.",
+  "roster_source": "https://www.tbmm.gov.tr/milletvekili/AllList",
+  "named_donors": false,
+  "honest_complete": true
+}

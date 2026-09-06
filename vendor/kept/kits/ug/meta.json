@@ -1,0 +1,33 @@
+{
+  "iso2": "ug",
+  "name": "Uganda",
+  "region": "",
+  "chamber": "Parliament of Uganda",
+  "houses": "",
+  "system": "",
+  "seats": 794,
+  "election": "",
+  "session": "",
+  "kit": "map",
+  "lang": [
+    "en"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 794,
+    "sitting": 794,
+    "votes": 0,
+    "committees": 0,
+    "key_votes": 0,
+    "sourced_quotes": 0
+  },
+  "capabilities": [
+    "members"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "lpin-wikidata-fill",
+  "source_live": null,
+  "note": "Wikidata sitting pull 2026-09-06. 798 named. Vacancies not invented.",
+  "roster_source": "https://www.wikidata.org/wiki/Q2052850"
+}

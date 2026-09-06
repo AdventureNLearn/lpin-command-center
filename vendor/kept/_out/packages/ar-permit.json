@@ -1,0 +1,31 @@
+{
+  "iso2": "ar",
+  "source": "src/lib/permit/",
+  "retrieved": "2026-08-29",
+  "lock_date": "2026-08-18",
+  "counts": {
+    "core": 0,
+    "extra": 0,
+    "more": 0,
+    "rest": 0
+  },
+  "factory_urls_verified": false,
+  "paths": [
+    "src/lib/permit/places.ts",
+    "src/lib/permit/places-extra.ts",
+    "src/lib/permit/places-more.ts",
+    "src/lib/permit/places-rest.ts"
+  ],
+  "holes": [
+    {
+      "object": "src/lib/permit/",
+      "reason": "US AHJ catalog has no Argentina AHJs (AR in this catalog is Arkansas, not Argentina). No Argentine permit rows invented."
+    }
+  ],
+  "notes": [
+    "Argentina-country only filter: iso2 AR-as-country / Argentina / Argentine / Argentinian / Rep?blica Argentina. Zero matches. US state AR is Arkansas, not Argentina; Arkansas AHJs excluded (core 1, extra 7, more 9, rest 369). US places named Argentina: none. Rest is a count, not a map; contents not copied.",
+    "factory URLs not verified.",
+    "fees omitted (unsourced).",
+    "No pin list. No GeoJSON."
+  ]
+}

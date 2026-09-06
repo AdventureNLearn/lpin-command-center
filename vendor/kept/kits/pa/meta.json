@@ -1,0 +1,33 @@
+{
+  "iso2": "pa",
+  "name": "Panama",
+  "region": "",
+  "chamber": "National Assembly of Panama",
+  "houses": "",
+  "system": "",
+  "seats": 1,
+  "election": "",
+  "session": "",
+  "kit": "map",
+  "lang": [
+    "en"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 1,
+    "sitting": 1,
+    "votes": 0,
+    "committees": 0,
+    "key_votes": 0,
+    "sourced_quotes": 0
+  },
+  "capabilities": [
+    "members"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "lpin-wikidata-fill",
+  "source_live": null,
+  "note": "Wikidata sitting pull 2026-09-06. 1 named. Vacancies not invented.",
+  "roster_source": "https://www.wikidata.org/wiki/Q1368588"
+}

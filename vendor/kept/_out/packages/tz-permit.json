@@ -1,0 +1,31 @@
+{
+  "iso2": "tz",
+  "source": "src/lib/permit/",
+  "retrieved": "2026-08-29",
+  "lock_date": "2026-08-18",
+  "counts": {
+    "core": 0,
+    "extra": 0,
+    "more": 0,
+    "rest": 0
+  },
+  "factory_urls_verified": false,
+  "paths": [
+    "src/lib/permit/places.ts",
+    "src/lib/permit/places-extra.ts",
+    "src/lib/permit/places-more.ts",
+    "src/lib/permit/places-rest.ts"
+  ],
+  "holes": [
+    {
+      "object": "src/lib/permit/",
+      "reason": "US AHJ catalog has no Tanzania AHJs (TZ is Tanzania, not Texas). No Tanzanian permit rows invented. Country-native catalogs stay zero."
+    }
+  ],
+  "notes": [
+    "TZ is Tanzania the country, not Texas (TX) and not Tennessee (TN). No US state code TZ exists in this catalog; no US state codes copied onto TZ. TX / Texas AHJs excluded and not counted as Tanzania: core 5 (tx-houston, tx-austin, tx-dallas, tx-san-antonio, tx-fort-worth), extra 33 (tx-el-paso, tx-arlington, tx-corpus-christi, tx-plano, tx-laredo, tx-lubbock, tx-garland, tx-irving, tx-amarillo, tx-grand-prairie, tx-brownsville, tx-mckinney, tx-frisco, tx-pasadena, tx-mesquite, tx-mcallen, tx-killeen, tx-waco, tx-denton, tx-midland, tx-abilene, tx-beaumont, tx-round-rock, tx-odessa, tx-college-station, tx-tyler, tx-pearland, tx-sugar-land, tx-harris-county, tx-dallas-county, tx-tarrant-county, tx-travis-county, tx-bexar-county), more 49 (tx-carrollton, tx-lewisville, tx-richardson, tx-allen, tx-league-city, tx-edinburg, tx-mission, tx-pharr, tx-harlingen, tx-bryan, tx-temple, tx-new-braunfels, tx-conroe, tx-cedar-park, tx-georgetown, tx-pflugerville, tx-mansfield, tx-north-richland-hills, tx-euless, tx-bedford, tx-grapevine, tx-rowlett, tx-desoto, tx-flower-mound, tx-wichita-falls, tx-san-angelo, tx-longview, tx-baytown, tx-missouri-city, tx-galveston, tx-victoria, tx-texarkana, tx-san-marcos, tx-kyle, tx-leander, tx-little-elm, tx-wylie, tx-keller, tx-coppell, tx-the-colony, tx-port-arthur, tx-katy, tx-collin-county, tx-denton-county, tx-fort-bend-county, tx-williamson-county, tx-hidalgo-county, tx-montgomery-county, tx-galveston-county), rest 1136 (1223 total). TN / Tennessee AHJs excluded and not counted as Tanzania: core 2 (tn-nashville, tn-memphis), extra 7 (tn-knoxville, tn-chattanooga, tn-clarksville, tn-murfreesboro, tn-franklin, tn-jackson, tn-johnson-city), more 15 (tn-hendersonville, tn-bartlett, tn-kingsport, tn-collierville, tn-smyrna, tn-brentwood, tn-cleveland, tn-germantown, tn-columbia, tn-spring-hill, tn-cookeville, tn-oak-ridge, tn-shelby-county, tn-knox-county, tn-rutherford-county), rest 256 (280 total). US places named Tanzania: none. Rest is a count, not a map; contents not copied.",
+    "factory URLs not verified.",
+    "fees omitted (unsourced).",
+    "No pin list. No GeoJSON."
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "iso2": "il",
+  "name": "Israel",
+  "region": "asia",
+  "chamber": "Knesset",
+  "houses": "unicameral",
+  "system": "parliamentary",
+  "seats": 120,
+  "election": "competitive",
+  "session": "25th Knesset (2022–)",
+  "kit": "scoring",
+  "lang": [
+    "he",
+    "en"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 118,
+    "sitting": 118,
+    "votes": 573,
+    "committees": 85,
+    "key_votes": 573,
+    "sourced_quotes": 0,
+    "pledged": 0,
+    "pledges": 0,
+    "named_votes": 0,
+    "ethics": 4,
+    "money": 0,
+    "sources": 36,
+    "gap": 0
+  },
+  "capabilities": [
+    "members",
+    "pledges",
+    "votes",
+    "issues",
+    "gap",
+    "caucus",
+    "committees",
+    "ethics",
+    "money",
+    "method"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "gold-kit-8103",
+  "source_live": null,
+  "note": "Honest-complete 2026-08-21. Sitting 118 (not padded). Pledges 0 hunt-stop (knesset.gov.il WAF). Votes 573 published-law clerk events, named 0 (MK yeas unpublished, not invented). Committees 85 packed. Ethics 4 public categories. Money 0 hunt-stop. Gap 0. knesset.gov.il one-and-stop. Members not rewritten.",
+  "roster_source": "https://www.wikidata.org/wiki/Q4047513",
+  "honest_complete": true,
+  "hunt_stops": [
+    "knesset.gov.il-waf-one-and-stop",
+    "il-pledges-after-examination",
+    "il-money-no-sitting-occupation-aggregate",
+    "il-mk-yeas-unpublished",
+    "il-current-subcommittees-packed-85"
+  ]
+}

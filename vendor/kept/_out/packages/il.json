@@ -1,0 +1,96 @@
+{
+  "iso2": "il",
+  "kit_on_disk": true,
+  "objects": {
+    "committees.json": {
+      "state": "filled",
+      "count": 85
+    },
+    "ethics.json": {
+      "state": "filled",
+      "count": 4
+    },
+    "gap.json": {
+      "state": "seeded",
+      "count": 0
+    },
+    "institutional.json": {
+      "state": "empty",
+      "count": 0
+    },
+    "issues.json": {
+      "state": "filled",
+      "count": 17
+    },
+    "members.json": {
+      "state": "filled",
+      "count": 118
+    },
+    "meta.json": {
+      "state": "filled",
+      "count": 22
+    },
+    "money.json": {
+      "state": "seeded",
+      "count": 0
+    },
+    "parties.json": {
+      "state": "filled",
+      "count": 13
+    },
+    "pledges.json": {
+      "state": "seeded",
+      "count": 0
+    },
+    "sources.json": {
+      "state": "filled",
+      "count": 36
+    },
+    "votes.json": {
+      "state": "filled",
+      "count": 573
+    }
+  },
+  "capital": {
+    "name": "Jerusalem",
+    "lat": 31.778408,
+    "lon": 35.206626,
+    "kind": "capital"
+  },
+  "holes": [
+    {
+      "object": "ethics.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "gap.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "institutional.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "members.json",
+      "reason": "items 118 claimed_seats 120; vacancies not padded"
+    },
+    {
+      "object": "money.json",
+      "reason": "buckets 0; sitting_total_reconstructed null"
+    },
+    {
+      "object": "pledges.json",
+      "reason": "items 0; meta sourced_quotes 0; hunt-stop"
+    },
+    {
+      "object": "votes.json",
+      "reason": "incomplete true; meta.counts.named_votes 0"
+    },
+    {
+      "object": "meta.json",
+      "reason": "incomplete true"
+    }
+  ],
+  "retrieved": "2026-08-29",
+  "source": "vendor/kept/kits/il"
+}

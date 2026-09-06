@@ -1,0 +1,60 @@
+{
+  "iso2": "in",
+  "named_donors": false,
+  "unit": "sitting members",
+  "sitting_total_reconstructed": 540,
+  "buckets": [
+    {
+      "label": "agriculture",
+      "amount": 157
+    },
+    {
+      "label": "business",
+      "amount": 86
+    },
+    {
+      "label": "civil society",
+      "amount": 71
+    },
+    {
+      "label": "undeclared",
+      "amount": 69
+    },
+    {
+      "label": "politics",
+      "amount": 43
+    },
+    {
+      "label": "law",
+      "amount": 34
+    },
+    {
+      "label": "medical",
+      "amount": 28
+    },
+    {
+      "label": "arts and sports",
+      "amount": 18
+    },
+    {
+      "label": "education",
+      "amount": 17
+    },
+    {
+      "label": "public service",
+      "amount": 8
+    },
+    {
+      "label": "engineering",
+      "amount": 5
+    },
+    {
+      "label": "other",
+      "amount": 4
+    }
+  ],
+  "incomplete": true,
+  "source_url": "https://sansad.in/api_ls/member?loksabha=18",
+  "retrieved": "2026-08-20",
+  "note": "Occupation buckets are sitting-member counts from Digital Sansad 18th Lok Sabha member API profession (primary field only; profession2 not double-counted). Not campaign-rupee totals — ECI does not publish an occupation-of-donor aggregate. ECI contribution reports name private donors above Rs 20,000 and were not collected. 69 sitting members left profession blank (undeclared). Restored after a pledges lane emptied money.json."
+}

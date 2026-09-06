@@ -1,0 +1,100 @@
+{
+  "iso2": "mx",
+  "kit_on_disk": true,
+  "objects": {
+    "committees.json": {
+      "state": "filled",
+      "count": 51
+    },
+    "ethics.json": {
+      "state": "filled",
+      "count": 39
+    },
+    "gap.json": {
+      "state": "seeded",
+      "count": 0
+    },
+    "institutional.json": {
+      "state": "empty",
+      "count": 0
+    },
+    "issues.json": {
+      "state": "filled",
+      "count": 18
+    },
+    "members.json": {
+      "state": "filled",
+      "count": 496
+    },
+    "meta.json": {
+      "state": "filled",
+      "count": 22
+    },
+    "money.json": {
+      "state": "filled",
+      "count": 4
+    },
+    "parties.json": {
+      "state": "filled",
+      "count": 7
+    },
+    "pledges.json": {
+      "state": "filled",
+      "count": 60
+    },
+    "sources.json": {
+      "state": "filled",
+      "count": 80
+    },
+    "votes.json": {
+      "state": "filled",
+      "count": 295
+    }
+  },
+  "capital": {
+    "name": "Mexico City",
+    "lat": 19.444388,
+    "lon": -99.132934,
+    "kind": "capital"
+  },
+  "holes": [
+    {
+      "object": "committees.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "ethics.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "gap.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "institutional.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "members.json",
+      "reason": "items 496 claimed_seats 500; vacancies not padded"
+    },
+    {
+      "object": "money.json",
+      "reason": "incomplete true; named_donors false"
+    },
+    {
+      "object": "pledges.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "votes.json",
+      "reason": "incomplete true; meta.counts.named_votes 0"
+    },
+    {
+      "object": "meta.json",
+      "reason": "incomplete true"
+    }
+  ],
+  "retrieved": "2026-08-29",
+  "source": "vendor/kept/kits/mx"
+}

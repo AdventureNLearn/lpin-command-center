@@ -1,0 +1,11 @@
+{
+  "iso2": "cn",
+  "named_donors": false,
+  "buckets": [],
+  "unit": null,
+  "sitting_total_reconstructed": null,
+  "incomplete": true,
+  "source_url": "https://www.stats.gov.cn/sj/ndsj/2025/indexeh.htm",
+  "retrieved": "2026-08-21",
+  "note": "https://www.npc.gov.cn/ HTTPS probe status 0 TLS handshake failure; not retried (tls_looped=false). One other official https: https://www.stats.gov.cn/sj/ndsj/2025/indexeh.htm status 200 (904-byte FrontPage frameset: window.open aa.htm + left_.htm/tope.htm; no occupation or public-finance table in the served shell; child frames not fetched). No official sitting-deputy occupation or public-finance bucket table was extracted. NPC deputies are indirectly elected; the Election Law and Deputies Law do not publish named private donors or occupation-coded campaign totals. National budget reports are public finance of the state, not sitting-member political funds, and were not copied as RMB person-level amounts. named_donors=false. Buckets left empty. Honest incomplete."
+}

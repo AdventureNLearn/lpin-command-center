@@ -1,0 +1,33 @@
+{
+  "iso2": "gr",
+  "name": "Greece",
+  "region": "",
+  "chamber": "Legislature",
+  "houses": "",
+  "system": "",
+  "seats": 0,
+  "election": "",
+  "session": "",
+  "kit": "map",
+  "lang": [
+    "en"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 0,
+    "sitting": 0,
+    "votes": 0,
+    "committees": 0,
+    "key_votes": 0,
+    "sourced_quotes": 0
+  },
+  "capabilities": [
+    "members"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "lpin-wikidata-fill",
+  "source_live": null,
+  "note": "Pull failed (SPARQL 504). Honest empty.",
+  "roster_source": ""
+}

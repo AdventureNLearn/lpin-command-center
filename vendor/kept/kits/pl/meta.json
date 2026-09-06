@@ -1,0 +1,45 @@
+{
+  "iso2": "pl",
+  "name": "Poland",
+  "region": "europe",
+  "chamber": "Sejm",
+  "houses": "",
+  "system": "",
+  "seats": 460,
+  "election": "",
+  "session": "10th Sejm (2023–2027)",
+  "kit": "map",
+  "lang": [
+    "en",
+    "pl"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 460,
+    "sitting": 460,
+    "votes": 921,
+    "committees": 40,
+    "key_votes": 921,
+    "sourced_quotes": 22
+  },
+  "capabilities": [
+    "members",
+    "pledges",
+    "votes",
+    "issues",
+    "gap",
+    "caucus",
+    "committees",
+    "ethics",
+    "money",
+    "method"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "gold-kit-8103",
+  "source_live": null,
+  "note": "PL honest-complete Phase 2 stamp 2026-08-21. Sit 460. Pledges 22 personal https / 21 sitting. Oświadczenia leftover exhausted (ethics 460). Votes 921/921 clerk nominative packed; not requeued. Gap 0 after 1154 same-issue pair exam. Money occupation/public-finance buckets only, named_donors false. Flag+card only — no scrape, no refill. Honest incomplete.",
+  "roster_source": "https://api.sejm.gov.pl/sejm/term10/MP",
+  "honest_complete": true,
+  "named_donors": false
+}

@@ -1,0 +1,25 @@
+{
+  "iso2": "us",
+  "source_url": "https://unitedstates.github.io/congress-legislators/legislators-current.json",
+  "items": [
+    {
+      "id": "republican",
+      "name": "Republican",
+      "seats": 221,
+      "source_url": "https://unitedstates.github.io/congress-legislators/legislators-current.json"
+    },
+    {
+      "id": "democrat",
+      "name": "Democrat",
+      "seats": 215,
+      "source_url": "https://unitedstates.github.io/congress-legislators/legislators-current.json"
+    },
+    {
+      "id": "independent",
+      "name": "Independent",
+      "seats": 1,
+      "source_url": "https://unitedstates.github.io/congress-legislators/legislators-current.json"
+    }
+  ],
+  "incomplete": false
+}

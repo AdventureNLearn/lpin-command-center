@@ -1,0 +1,199 @@
+{
+  "iso2": "us",
+  "wave": "WAVE-FILL-US",
+  "hole_type": "ingest-drop",
+  "retrieved": "2026-08-29",
+  "source": "vendor/kept/kits/us",
+  "read_only": [
+    "vendor/kept/kits/us/sources.json",
+    "vendor/kept/kits/us/pledges.json",
+    "vendor/kept/kits/us/votes.json",
+    "vendor/kept/kits/us/members.json",
+    "vendor/kept/kits/us/gap.json",
+    "vendor/kept/kits/us/meta.json",
+    "vendor/kept/kits/us/ethics.json",
+    "vendor/kept/kits/us/money.json",
+    "vendor/kept/kits/us/institutional.json",
+    "vendor/kept/kits/us/issues.json"
+  ],
+  "did_not_rewrite": [
+    "vendor/kept/kits/us",
+    "votes.json",
+    "members.json",
+    "src/",
+    "packages/us.json",
+    "packages/us-permit.json"
+  ],
+  "counts": {
+    "sources_items": 1238,
+    "pledges_items": 297,
+    "pledges_with_sourceUrl": 297,
+    "pledge_sourceUrl_exact_in_sources": 202,
+    "votes_items": 849,
+    "votes_with_source_url": 849,
+    "vote_source_urls_exact_in_sources": 620,
+    "evs_urls_in_sources": 606,
+    "evs_urls_on_votes": 600,
+    "member_site_source_urls_not_on_pledge_or_vote": 15
+  },
+  "log": [
+    {
+      "hole": "harris.house.gov/issues/environment never became a pledge row (Andy Harris H001052, 0 pledges)",
+      "url": "https://harris.house.gov/issues/environment",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Leftover *.house.gov issue page. pledges.note skipped these as third-person. Restoring would mint a pledge. Incomplete beats fake-complete."
+    },
+    {
+      "hole": "chu.house.gov/issues/immigration never became a pledge row (Judy Chu C001080 has energy pledges only)",
+      "url": "https://chu.house.gov/issues/immigration",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Different issue than existing energy citations. Attaching would mint a border pledge. Leftover issue page."
+    },
+    {
+      "hole": "takano.house.gov/issues/education-and-labor never became a pledge row (Mark Takano T000472 has border only)",
+      "url": "https://takano.house.gov/issues/education-and-labor",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Different issue than existing border citation. Would mint an education pledge. Leftover issue page."
+    },
+    {
+      "hole": "barr.house.gov extra press-release URL never became a second pledge row (Andy Barr B001282 already has china pledge at a different press-release id)",
+      "url": "https://barr.house.gov/press-releases?id=D3A06CD3-9CB2-48D0-BB4D-BED6C4AB0EC3",
+      "action": "left",
+      "evidence": "Unproven",
+      "reason": "Kit has the URL; existing china pledge already has its own https URL. No sentence in the kit for this second id. Did not recrawl. Would mint a pledge to close the count."
+    },
+    {
+      "hole": "wagner.house.gov/issues/second-amendment never became a pledge row (Ann Wagner W000812 has taxes only)",
+      "url": "https://wagner.house.gov/issues/second-amendment",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Different issue than existing taxes citation. Would mint a guns pledge. Leftover issue page."
+    },
+    {
+      "hole": "radewagen.house.gov/issues/budget-0 never became a pledge row (Aumua Amata Coleman Radewagen R000600, 0 pledges)",
+      "url": "https://radewagen.house.gov/issues/budget-0",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Leftover issue page, sitting delegate. Would mint a pledge. Third-person skip per pledges.note."
+    },
+    {
+      "hole": "min.house.gov/issues/education never became a pledge row (Dave Min M001241 has abortion only)",
+      "url": "https://min.house.gov/issues/education",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Different issue than existing abortion citation. Would mint an education pledge. Leftover issue page."
+    },
+    {
+      "hole": "evans.house.gov/issues/immigration never became a pledge row (Dwight Evans E000296, 0 pledges)",
+      "url": "https://evans.house.gov/issues/immigration",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Leftover issue page. Would mint a pledge. Third-person skip per pledges.note."
+    },
+    {
+      "hole": "thompson.house.gov/issues/military-service-veterans-affairs never became a pledge row (Glenn Thompson T000467 has energy only)",
+      "url": "https://thompson.house.gov/issues/military-service-veterans-affairs",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Different issue than existing energy citation. Would mint a defense pledge. Leftover issue page."
+    },
+    {
+      "hole": "meeks.house.gov/issues/guns-and-justice never became a pledge row (Gregory W. Meeks M001137 has border only)",
+      "url": "https://meeks.house.gov/issues/guns-and-justice",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Different issue than existing border citation. Would mint a guns pledge. Leftover issue page."
+    },
+    {
+      "hole": "panetta.house.gov/issues/national-security never became a pledge row (Jimmy Panetta P000613 has border only)",
+      "url": "https://panetta.house.gov/issues/national-security",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Different issue than existing border citation. Would mint a defense pledge. Leftover issue page."
+    },
+    {
+      "hole": "morelle.house.gov/issues/defending-lgbtq-rights never became a pledge row (Joseph D. Morelle M001206, 0 pledges)",
+      "url": "https://morelle.house.gov/issues/defending-lgbtq-rights",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Leftover issue page. Would mint a pledge. Third-person skip per pledges.note."
+    },
+    {
+      "hole": "kustoff.house.gov/issues/protecting-your-right-keep-and-bear-arms never became a pledge row (David Kustoff K000392 has abortion at a generic /issues URL not in sources)",
+      "url": "https://kustoff.house.gov/issues/protecting-your-right-keep-and-bear-arms",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Guns URL. Existing abortion pledge already has https. Attaching this URL to abortion would mix issues. Would mint a guns pledge. Leftover issue page."
+    },
+    {
+      "hole": "bobbyscott.house.gov/issues/defense-national-security never became a pledge row (Robert C. Scott S000185, 0 pledges)",
+      "url": "https://bobbyscott.house.gov/issues/defense-national-security",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Leftover issue page. Would mint a pledge. Third-person skip per pledges.note."
+    },
+    {
+      "hole": "amo.house.gov news URL never became a pledge row (Gabe Amo A000380, 0 pledges)",
+      "url": "https://amo.house.gov/news/ri-current-aid-to-ukraine-israel-overwhelmingly-approved-by-us-house-in-bipartisan-vote",
+      "action": "left",
+      "evidence": "Unproven",
+      "reason": "Kit has the URL. No first-person sentence in the kit. Did not recrawl. Would mint a ukraine/israel pledge to close the count."
+    },
+    {
+      "hole": "No existing pledge, vote, or ethics citation is missing an http(s) URL",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "pledges.json 297/297 have sourceUrl. votes.json 849/849 have source_url. ethics.json 15/15 have source_url. Nothing to restore onto a public citation. Ingest-drop restore requires a dropped URL the kit already has."
+    },
+    {
+      "hole": "387 congress.gov URLs in sources.json are not vote.source_url values",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "votes.json already cites clerk.house.gov EVS XML (829) and senate.gov LIS XML (20). congress.gov bill pages are companion sources, not lost roll URLs. Attaching them as new vote rows would mint floor rows. votes.note: not a complete floor index; 2026 EVS not looped; House-only."
+    },
+    {
+      "hole": "6 clerk EVS year-index URLs in sources.json are not vote rows",
+      "url": "https://clerk.house.gov/evs/2026/",
+      "also": [
+        "https://clerk.house.gov/evs/2023/",
+        "https://clerk.house.gov/evs/2024/",
+        "https://clerk.house.gov/evs/2025/",
+        "https://clerk.house.gov/evs/2026/index.asp",
+        "https://clerk.house.gov/evs/2025/index.asp"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Index pages, not named roll XML. 600 EVS roll URLs from sources are already on votes.json. Indexes are not dropped citations."
+    },
+    {
+      "hole": "4 senate.gov index/menu URLs in sources.json are not vote rows",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "20 Senate LIS named-roll URLs already ingested. Remaining are site root, votes_new.htm, and session vote menus. votes.note: House-only sitting kit; senator names dropped unmapped."
+    }
+  ],
+  "summary": {
+    "restored": 0,
+    "left": 19,
+    "evidence": {
+      "Supported": 17,
+      "Unproven": 2,
+      "Disputed": 0,
+      "Human decision": 0
+    }
+  },
+  "notes": [
+    "One hole type: ingest-drop. Restore a URL the kit already has in sources, or leave the hole.",
+    "No existing scoring citation lost a kit URL. All pledges and votes already carry http(s).",
+    "15 member-site URLs sit in sources.json and never became pledge rows. Left. Do not mint pledges.",
+    "pledges.note: leftover *.house.gov issue pages skipped as third-person.",
+    "Did not recrawl Barr or Amo pages. Unproven first-person. Incomplete beats fake-complete.",
+    "Did not invent pledges, sitting names, fees, AHJs. Did not name private donors.",
+    "institutional.json items 0 is an empty kit, not an ingest drop.",
+    "gap.json items 0 after 7228-pair exam is honest empty, not an ingest drop.",
+    "votes claimed 1878 vs selected 849 is incomplete floor coverage, not a lost kit URL (unselected rolls are not in sources.json)."
+  ]
+}

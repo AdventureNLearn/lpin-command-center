@@ -1,0 +1,63 @@
+{
+  "iso2": "ua",
+  "items": [
+    {
+      "id": "servant-of-the-people",
+      "name": "Servant of the People",
+      "seats": 229,
+      "source_url": "https://data.rada.gov.ua/ogd/mps/skl9/mps09-data.csv"
+    },
+    {
+      "id": "european-solidarity",
+      "name": "European Solidarity",
+      "seats": 26,
+      "source_url": "https://data.rada.gov.ua/ogd/mps/skl9/mps09-data.csv"
+    },
+    {
+      "id": "batkivshchyna",
+      "name": "Batkivshchyna",
+      "seats": 24,
+      "source_url": "https://data.rada.gov.ua/ogd/mps/skl9/mps09-data.csv"
+    },
+    {
+      "id": "platform-for-life-and-peace",
+      "name": "Platform for Life and Peace",
+      "seats": 21,
+      "source_url": "https://data.rada.gov.ua/ogd/mps/skl9/mps09-data.csv"
+    },
+    {
+      "id": "dovira",
+      "name": "Dovira",
+      "seats": 19,
+      "source_url": "https://data.rada.gov.ua/ogd/mps/skl9/mps09-data.csv"
+    },
+    {
+      "id": "unaffiliated",
+      "name": "unaffiliated",
+      "seats": 19,
+      "source_url": "https://data.rada.gov.ua/ogd/mps/skl9/mps09-data.csv"
+    },
+    {
+      "id": "holos",
+      "name": "Holos",
+      "seats": 19,
+      "source_url": "https://data.rada.gov.ua/ogd/mps/skl9/mps09-data.csv"
+    },
+    {
+      "id": "for-the-future",
+      "name": "For the Future",
+      "seats": 18,
+      "source_url": "https://data.rada.gov.ua/ogd/mps/skl9/mps09-data.csv"
+    },
+    {
+      "id": "restoration-of-ukraine",
+      "name": "Restoration of Ukraine",
+      "seats": 17,
+      "source_url": "https://data.rada.gov.ua/ogd/mps/skl9/mps09-data.csv"
+    }
+  ],
+  "incomplete": false,
+  "source_url": "https://data.rada.gov.ua/ogd/mps/skl9/mps09-data.csv",
+  "note": "IX faction seats from official mps09-data.csv sitting 392. Caucus profile only — never the score. Not a 450-seat pad.",
+  "retrieved": "2026-08-21"
+}

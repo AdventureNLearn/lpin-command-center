@@ -1,0 +1,33 @@
+{
+  "iso2": "jm",
+  "name": "Jamaica",
+  "region": "",
+  "chamber": "Parliament of Jamaica",
+  "houses": "",
+  "system": "",
+  "seats": 56,
+  "election": "",
+  "session": "",
+  "kit": "map",
+  "lang": [
+    "en"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 56,
+    "sitting": 56,
+    "votes": 0,
+    "committees": 0,
+    "key_votes": 0,
+    "sourced_quotes": 0
+  },
+  "capabilities": [
+    "members"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "lpin-wikidata-fill",
+  "source_live": null,
+  "note": "Wikidata sitting pull 2026-09-06. 56 named. Vacancies not invented.",
+  "roster_source": "https://www.wikidata.org/wiki/Q122635"
+}

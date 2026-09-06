@@ -1,0 +1,33 @@
+{
+  "iso2": "tl",
+  "name": "Timor-Leste",
+  "region": "",
+  "chamber": "National Parliament",
+  "houses": "",
+  "system": "",
+  "seats": 210,
+  "election": "",
+  "session": "",
+  "kit": "map",
+  "lang": [
+    "en"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 210,
+    "sitting": 210,
+    "votes": 0,
+    "committees": 0,
+    "key_votes": 0,
+    "sourced_quotes": 0
+  },
+  "capabilities": [
+    "members"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "lpin-wikidata-fill",
+  "source_live": null,
+  "note": "Wikidata sitting pull 2026-09-06. 210 named. Vacancies not invented.",
+  "roster_source": "https://www.wikidata.org/wiki/Q680806"
+}

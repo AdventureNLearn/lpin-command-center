@@ -1,0 +1,31 @@
+{
+  "iso2": "cl",
+  "source": "src/lib/permit/",
+  "retrieved": "2026-08-29",
+  "lock_date": "2026-08-18",
+  "counts": {
+    "core": 0,
+    "extra": 0,
+    "more": 0,
+    "rest": 0
+  },
+  "factory_urls_verified": false,
+  "paths": [
+    "src/lib/permit/places.ts",
+    "src/lib/permit/places-extra.ts",
+    "src/lib/permit/places-more.ts",
+    "src/lib/permit/places-rest.ts"
+  ],
+  "holes": [
+    {
+      "object": "src/lib/permit/",
+      "reason": "US AHJ catalog has no Chile AHJs (CL is Chile, not Colorado; CO is Colorado). No Chilean permit rows invented. Country-native catalogs come later or stay zero."
+    }
+  ],
+  "notes": [
+    "CL is Chile the country, not Colorado. Colorado in this catalog is CO. CO / Colorado AHJs excluded and not counted as Chile: core 1 (co-denver), extra 11 (co-colorado-springs, co-aurora, co-fort-collins, co-lakewood, co-thornton, co-arvada, co-westminster, co-pueblo, co-boulder, co-greeley, co-centennial), more 14 (co-longmont, co-loveland, co-broomfield, co-commerce-city, co-castle-rock, co-grand-junction, co-parker, co-brighton, co-lafayette, co-louisville, co-jefferson-county, co-el-paso-county, co-larimer-county, co-douglas-county), rest 115 (141 total). US places named Chile: none. No US state codes copied onto CL. Rest is a count, not a map; contents not copied.",
+    "factory URLs not verified.",
+    "fees omitted (unsourced).",
+    "No pin list. No GeoJSON."
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "iso2": "ke",
+  "source": "src/lib/permit/",
+  "retrieved": "2026-08-29",
+  "lock_date": "2026-08-18",
+  "counts": {
+    "core": 0,
+    "extra": 0,
+    "more": 0,
+    "rest": 0
+  },
+  "factory_urls_verified": false,
+  "paths": [
+    "src/lib/permit/places.ts",
+    "src/lib/permit/places-extra.ts",
+    "src/lib/permit/places-more.ts",
+    "src/lib/permit/places-rest.ts"
+  ],
+  "holes": [
+    {
+      "object": "src/lib/permit/",
+      "reason": "US AHJ catalog has no Kenya (country) AHJs. No Kenyan permit rows invented."
+    }
+  ],
+  "notes": [
+    "Kenya-country only filter: iso2 KE or Kenya (country). Zero matches. KE is Kenya, not a US state (Kentucky is KY). US places named Kenya: none found. Kenai, AK (Kenai / Kenai Peninsula Borough) excluded — Alaska, not Kenya. Rest is a count, not a map; contents not copied.",
+    "factory URLs not verified.",
+    "fees omitted (unsourced).",
+    "No pin list. No GeoJSON."
+  ]
+}

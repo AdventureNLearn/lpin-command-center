@@ -1,0 +1,31 @@
+{
+  "iso2": "fj",
+  "source": "src/lib/permit/",
+  "retrieved": "2026-08-29",
+  "lock_date": "2026-08-18",
+  "counts": {
+    "core": 0,
+    "extra": 0,
+    "more": 0,
+    "rest": 0
+  },
+  "factory_urls_verified": false,
+  "paths": [
+    "src/lib/permit/places.ts",
+    "src/lib/permit/places-extra.ts",
+    "src/lib/permit/places-more.ts",
+    "src/lib/permit/places-rest.ts"
+  ],
+  "holes": [
+    {
+      "object": "src/lib/permit/",
+      "reason": "US AHJ catalog has no Fiji AHJs (FJ is Fiji, not Florida; FL is Florida). No Fijian permit rows invented. Country-native catalogs stay zero."
+    }
+  ],
+  "notes": [
+    "FJ is Fiji the country, not Florida. Florida in this catalog is FL. FL / Florida AHJs excluded and not counted as Fiji: core 12 (fl-miami, fl-miami-dade, fl-miami-beach, fl-fort-lauderdale, fl-tampa, fl-orlando, fl-jacksonville, fl-st-pete, fl-palm-beach-county, fl-coral-gables, fl-hialeah, fl-west-palm-beach), extra 32 (fl-tallahassee, fl-gainesville, fl-cape-coral, fl-port-st-lucie, fl-pembroke-pines, fl-hollywood, fl-miramar, fl-coral-springs, fl-clearwater, fl-palm-bay, fl-pompano-beach, fl-lakeland, fl-davie, fl-boca-raton, fl-fort-myers, fl-melbourne, fl-kissimmee, fl-homestead, fl-doral, fl-daytona-beach, fl-sarasota, fl-pensacola, fl-broward-county, fl-hillsborough-county, fl-orange-county, fl-pinellas-county, fl-lee-county, fl-polk-county, fl-volusia-county, fl-brevard-county, fl-collier-county, fl-seminole-county), more 56 (fl-miami-gardens, fl-north-miami, fl-north-miami-beach, fl-aventura, fl-cutler-bay, fl-key-west, fl-naples, fl-bonita-springs, fl-north-port, fl-bradenton, fl-venice, fl-st-cloud, fl-winter-garden, fl-ocoee, fl-apopka, fl-sanford, fl-altamonte-springs, fl-deltona, fl-palm-coast, fl-st-augustine, fl-ocala, fl-largo, fl-pinellas-park, fl-jupiter, fl-wellington, fl-boynton-beach, fl-delray-beach, fl-palm-beach-gardens, fl-plantation, fl-sunrise, fl-tamarac, fl-weston, fl-coconut-creek, fl-deerfield-beach, fl-margate, fl-lauderhill, fl-fort-pierce, fl-titusville, fl-ormond-beach, fl-port-orange, fl-panama-city, fl-fort-walton-beach, fl-manatee-county, fl-sarasota-county, fl-pasco-county, fl-osceola-county, fl-marion-county, fl-lake-county, fl-st-johns-county, fl-escambia-county, fl-leon-county, fl-alachua-county, fl-monroe-county, fl-okaloosa-county, fl-bay-county, fl-flagler-county), rest 238 (338 total). US places named Fiji: none. No US state codes copied onto FJ. Rest is a count, not a map; contents not copied.",
+    "factory URLs not verified.",
+    "fees omitted (unsourced).",
+    "No pin list. No GeoJSON."
+  ]
+}

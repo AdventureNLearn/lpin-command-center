@@ -1,0 +1,239 @@
+{
+  "iso2": "de",
+  "wave": "WAVE-FILL-DE",
+  "hole_type": "ingest-drop",
+  "retrieved": "2026-08-29",
+  "source": "vendor/kept/kits/de",
+  "read_only": [
+    "vendor/kept/kits/de/sources.json",
+    "vendor/kept/kits/de/pledges.json",
+    "vendor/kept/kits/de/votes.json",
+    "vendor/kept/kits/de/members.json",
+    "vendor/kept/kits/de/gap.json",
+    "vendor/kept/kits/de/meta.json",
+    "vendor/kept/kits/de/ethics.json",
+    "vendor/kept/kits/de/money.json",
+    "vendor/kept/kits/de/institutional.json",
+    "vendor/kept/kits/de/issues.json"
+  ],
+  "did_not_rewrite": [
+    "vendor/kept/kits/de",
+    "votes.json",
+    "members.json",
+    "src/",
+    "packages/de.json",
+    "packages/de-permit.json",
+    "packages/_index.json",
+    "packages/us-fill.json",
+    "packages/ca-fill.json",
+    "packages/kr-fill.json",
+    "packages/gb-fill.json"
+  ],
+  "counts": {
+    "sources_items": 936,
+    "pledges_items": 86,
+    "pledges_with_sourceUrl": 86,
+    "pledges_without_sourceUrl": 0,
+    "pledge_sourceUrl_exact_in_sources": 86,
+    "votes_items": 479,
+    "votes_with_source_url": 479,
+    "votes_without_source_url": 0,
+    "vote_source_urls_exact_in_sources": 0,
+    "ethics_items": 34,
+    "ethics_with_http_source_url": 34,
+    "ethics_missing_http": 0,
+    "money_has_https_source_url": true,
+    "member_site_source_urls": 290,
+    "member_site_source_urls_not_on_pledge_or_vote": 250
+  },
+  "log": [
+    {
+      "hole": "4 leftover social/messenger URLs never became pledge rows",
+      "url": "https://bsky.app/profile/koffeinpiratin.bsky.social",
+      "also": [
+        "https://web-cdn.bsky.app/profile/sonjalemke.dielinkebt.de",
+        "https://t.me/s/hannesgnauck",
+        "https://www.t.me/TeamKraftimBundestag"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Bluesky and Telegram profile URLs sit in sources.json and are unused by pledges or votes. Not original-record first-person pledge pages. Restoring would mint pledges. Did not recrawl."
+    },
+    {
+      "hole": "peter-bohnhof.de/offline/ never became a pledge row",
+      "url": "https://www.peter-bohnhof.de/offline/",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Offline placeholder in sources.json. Not an original-record pledge page. Restoring would mint a pledge."
+    },
+    {
+      "hole": "die-linke-salzgitter.de bundestagswahl-2025 leftover never became a pledge row",
+      "url": "https://www.die-linke-salzgitter.de/bundestagswahl-2025/",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Local party ticket page, not a member homepage first-person sentence. Restoring would mint a pledge. Do not mix hole types."
+    },
+    {
+      "hole": "244 leftover member-site URLs on 244 hosts with 0 pledges never became pledge rows",
+      "url": "https://www.alexander-dobrindt.de/",
+      "also": [
+        "https://anja-weisgerber.de/",
+        "https://alice-weidel.de/",
+        "https://www.alexander-hoffmann.org/startseite"
+      ],
+      "action": "left",
+      "evidence": "Unproven",
+      "reason": "Leftover sameAs homepages and startseite/aktuell paths in sources.json after the 2026-08-21 leftover QA merge (+10 owner-matched first-person https already on pledges). Did not recrawl. Restoring would mint pledges. Incomplete beats fake-complete."
+    },
+    {
+      "hole": "589 leftover bundestag.de MdB biography URLs plus bio ajax filterlist never became pledge rows",
+      "url": "https://www.bundestag.de/abgeordnete/biografien",
+      "also": [
+        "https://www.bundestag.de/abgeordnete/biografien/A/achelwilm_doris-1043346",
+        "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien/1040594-1040594"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "pledges.note: first-person https came from biography sameAs homepages, not from the bio pages themselves. gap.note: Official MdB leftover bios hunt-stop. Index/companion roster pages. Restoring would mint pledges. Do not mint sitting names."
+    },
+    {
+      "hole": "No existing pledge, vote, ethics, or money citation is missing an http(s) URL",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "pledges.json 86/86 have sourceUrl https and all 86 are exact-in sources.json. votes.json 479/479 have source_url https and 479/479 xlsx_url https. ethics.json 34/34 have source_url https. money.source_url is an https zip exact-in sources. Nothing to restore onto a public citation. Ingest-drop restore requires a dropped URL the kit already has."
+    },
+    {
+      "hole": "479 vote clerk PDF URLs (and 479 xlsx_url siblings) are not exact-in sources.json; sources holds vote indexes",
+      "url": "https://www.bundestag.de/parlament/plenum/abstimmung/liste",
+      "also": [
+        "https://www.bundestag.de/ajax/filterlist/de/parlament/plenum/abstimmung/liste/462112-462112"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "All 479 votes already carry https bundestag.de/resource/blob PDF source_url plus xlsx_url. sources holds the namentliche Abstimmungen index (votes.source_url) and the ajax pagination companion. Index/companion; do not swap a working URL. Do not mint floor rows. votes.note: listing pagination capped; unmapped names dropped; DIP namentlich answered without member-named rolls."
+    },
+    {
+      "hole": "5 DIP index/API URLs in sources.json never became pledge or vote rows",
+      "url": "https://dip.bundestag.de/",
+      "also": [
+        "https://search.dip.bundestag.de/api/v1/",
+        "https://dip.bundestag.de/?ber-dip/hilfe/api",
+        "https://search.dip.bundestag.de/api/v1/plenarprotokoll",
+        "https://search.dip.bundestag.de/api/v1/vorgangsposition"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "votes.note: DIP namentlich answered without member-named rolls ? no invented DIP yeas. Index/API companions, not dropped original-record URLs on a citation missing http(s). Do not mint floor rows."
+    },
+    {
+      "hole": "dserver.bundestag.de root and bundestag.de/services/opendata in sources.json are not pledge citation gaps",
+      "url": "https://dserver.bundestag.de/",
+      "also": [
+        "https://www.bundestag.de/services/opendata"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "34 plenary XML/PDF URLs on dserver.bundestag.de are already exact-in pledges (39 pledge rows). Root and Open Data index are companions. Do not swap a working URL. Do not mint pledges."
+    },
+    {
+      "hole": "4 Bundeswahlleiterin index URLs in sources.json are not money citation gaps",
+      "url": "https://www.bundeswahlleiterin.de/",
+      "also": [
+        "https://www.bundeswahlleiterin.de/bundestagswahlen/2025/ergebnisse/opendata.html",
+        "https://www.bundeswahlleiterin.de/bundestagswahlen/2025/publikationen.html",
+        "https://www.bundeswahlleiterin.de/bundestagswahlen/2025/gewaehlte.html"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "money.source_url already has https btw25_gewaehlte_utf8.zip (exact-in sources). Remaining BWL URLs are indexes. Index/companion; do not swap a working URL. Did not mint fees."
+    },
+    {
+      "hole": "Parteienfinanzierung indexes and finanz_25.pdf in sources.json are not money citation gaps",
+      "url": "https://www.bundestag.de/parlament/praesidium/parteienfinanzierung",
+      "also": [
+        "https://www.bundestag.de/parlament/praesidium/parteienfinanzierung/festsetz_staatl_mittel",
+        "https://www.bundestag.de/ajax/filterlist/de/parlament/praesidium/parteienfinanzierung/festsetz_staatl_mittel/503230-503230?limit=20&offset=0",
+        "https://www.bundestag.de/resource/blob/1149698/finanz_25.pdf",
+        "https://www.bundestag.de/dokumente/textarchiv/2025/kw09-wahlergebnis-statistik-1055550"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "money.note: finanz_25.pdf ANLAGE 2 did not extract as text this run; euro totals not invented. Rechenschaftsberichte name private donors and were not collected. Companions, not dropped original-record URLs on a citation missing http(s). Did not name private donors. Did not mint fees."
+    },
+    {
+      "hole": "ethics nebentaetigkeit index in sources.json is not an ethics citation gap",
+      "url": "https://www.bundestag.de/abgeordnete/nebentaetigkeit",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "34/34 ethics rows already have https (8 on this index exact-in sources; remaining rows cite AbgG / Ausf?hrungsbestimmungen https that already sit on the citation). Do not swap a working URL. ethics.note: category classes only; no euro amounts; no named private donors. Do not name private donors."
+    },
+    {
+      "hole": "ausschuesse index in sources.json is not a committee/pledge/vote citation gap",
+      "url": "https://www.bundestag.de/ausschuesse",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "committees.json 46/46 already carry https bundestag.de/ausschuesse/... permalinks (origin clerk). Index is a companion. committees.note: full member_ids not copied ? do not invent assignments. Do not mint AHJs."
+    },
+    {
+      "hole": "bundestag.de root in sources.json is not a pledge or vote row",
+      "url": "https://www.bundestag.de/",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Chamber root. Index/companion, not a dropped original-record URL."
+    },
+    {
+      "hole": "institutional.json items 0",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Empty kit (institutional_kits = 0 claimed). Not an ingest drop. Do not mint rows."
+    },
+    {
+      "hole": "gap.json items 0 after 1863-pair exam",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Honest empty after dual-source exam (gap.note). Not a lost kit URL."
+    },
+    {
+      "hole": "members.json 630 sitting; roster complete",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Sitting-name roster is complete (630/630 sitting, all https wikidata roster_url). Not ingest-drop. Do not mint sitting names. All pledge/vote citations already carry http(s)."
+    },
+    {
+      "hole": "money.json named_donors false",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "money.note: Rechenschaftsberichte name private donors above the PartG disclosure floor and were not collected. No original-record donor URL sits on a citation missing http(s). Did not name private donors. Occupation zip already on money.source_url."
+    },
+    {
+      "hole": "gap.json.tmp leftover tmp on disk; not packaged",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "de.json hole. Scratch tmp beside gap.json, not a dropped original-record URL on a public citation. Did not rewrite gap.json or the tmp."
+    }
+  ],
+  "summary": {
+    "restored": 0,
+    "left": 19,
+    "evidence": {
+      "Supported": 18,
+      "Unproven": 1,
+      "Disputed": 0,
+      "Human decision": 0
+    }
+  },
+  "notes": [
+    "One hole type: ingest-drop. Restore a URL the kit already has in sources, or leave the hole.",
+    "No existing scoring citation lost a kit URL. All 86 pledges, 479 votes, 34 ethics rows, and money.source_url already carry http(s).",
+    "All 86 pledge sourceUrl values are exact-in sources.json. Zero pledges missing http(s).",
+    "290 personal member-site URLs sit in sources.json (non-bundestag.de, non-dserver, non-DIP, non-Bundeswahlleiterin). 40 are on pledges; 250 never became pledge or vote rows. Left. Do not mint pledges.",
+    "pledges.note: leftover 2026-08-21 QA merge +10 owner-matched first-person https already stored. Remaining leftover homepages not merged. Did not recrawl leftover member-sites or leftover MdB bios.",
+    "vote_source_urls_exact_in_sources is 0 because sources holds the namentliche Abstimmungen index and ajax companion while votes cite per-roll PDF/XLS blobs. Not a drop: citations already have https.",
+    "Did not invent pledges, sitting names, fees, AHJs. Did not name private donors.",
+    "institutional.json items 0 is an empty kit, not an ingest drop.",
+    "gap.json items 0 after 1863-pair exam is honest empty, not an ingest drop.",
+    "members 630 sitting with https roster_url is complete roster coverage, not a lost kit URL.",
+    "money named_donors false is a Rechenschaftsberichte/disclosure hole, not a dropped original-record URL.",
+    "gap.json.tmp is leftover scratch, not an ingest drop."
+  ]
+}

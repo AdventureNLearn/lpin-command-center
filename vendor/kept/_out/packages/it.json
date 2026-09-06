@@ -1,0 +1,96 @@
+{
+  "iso2": "it",
+  "kit_on_disk": true,
+  "objects": {
+    "committees.json": {
+      "state": "filled",
+      "count": 14
+    },
+    "ethics.json": {
+      "state": "filled",
+      "count": 4
+    },
+    "gap.json": {
+      "state": "seeded",
+      "count": 0
+    },
+    "institutional.json": {
+      "state": "empty",
+      "count": 0
+    },
+    "issues.json": {
+      "state": "filled",
+      "count": 16
+    },
+    "members.json": {
+      "state": "filled",
+      "count": 400
+    },
+    "meta.json": {
+      "state": "filled",
+      "count": 24
+    },
+    "money.json": {
+      "state": "seeded",
+      "count": 0
+    },
+    "parties.json": {
+      "state": "filled",
+      "count": 7
+    },
+    "pledges.json": {
+      "state": "filled",
+      "count": 4
+    },
+    "sources.json": {
+      "state": "filled",
+      "count": 27
+    },
+    "votes.json": {
+      "state": "filled",
+      "count": 7514
+    }
+  },
+  "capital": {
+    "name": "Rome",
+    "lat": 41.897902,
+    "lon": 12.481313,
+    "kind": "capital"
+  },
+  "holes": [
+    {
+      "object": "committees.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "ethics.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "gap.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "institutional.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "money.json",
+      "reason": "buckets 0; sitting_total_reconstructed null"
+    },
+    {
+      "object": "pledges.json",
+      "reason": "incomplete true; meta sourced_quotes 0"
+    },
+    {
+      "object": "votes.json",
+      "reason": "incomplete true; items 7514 meta.counts.votes 2014"
+    },
+    {
+      "object": "meta.json",
+      "reason": "incomplete true"
+    }
+  ],
+  "retrieved": "2026-08-29",
+  "source": "vendor/kept/kits/it"
+}

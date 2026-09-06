@@ -1,0 +1,108 @@
+{
+  "iso2": "id",
+  "kit_on_disk": true,
+  "objects": {
+    "committees.json": {
+      "state": "filled",
+      "count": 27
+    },
+    "ethics.json": {
+      "state": "filled",
+      "count": 12
+    },
+    "gap.json": {
+      "state": "seeded",
+      "count": 0
+    },
+    "institutional.json": {
+      "state": "empty",
+      "count": 0
+    },
+    "issues.json": {
+      "state": "filled",
+      "count": 27
+    },
+    "members.json": {
+      "state": "filled",
+      "count": 569
+    },
+    "meta.json": {
+      "state": "filled",
+      "count": 21
+    },
+    "money.json": {
+      "state": "seeded",
+      "count": 0
+    },
+    "parties.json": {
+      "state": "filled",
+      "count": 8
+    },
+    "pledges.json": {
+      "state": "filled",
+      "count": 21
+    },
+    "sources.json": {
+      "state": "filled",
+      "count": 89
+    },
+    "votes.json": {
+      "state": "filled",
+      "count": 27
+    }
+  },
+  "capital": {
+    "name": "Jakarta",
+    "lat": -6.172472,
+    "lon": 106.827492,
+    "kind": "capital"
+  },
+  "holes": [
+    {
+      "object": "committees.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "ethics.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "gap.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "institutional.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "members.json",
+      "reason": "items 569 claimed_seats 580; vacancies not padded"
+    },
+    {
+      "object": "money.json",
+      "reason": "buckets 0; sitting_total_reconstructed null"
+    },
+    {
+      "object": "parties.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "pledges.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "votes.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "votes.json.tmp",
+      "reason": "leftover tmp not packaged"
+    },
+    {
+      "object": "meta.json",
+      "reason": "incomplete true"
+    }
+  ],
+  "retrieved": "2026-08-29",
+  "source": "vendor/kept/kits/id"
+}

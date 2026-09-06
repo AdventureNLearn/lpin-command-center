@@ -1,0 +1,35 @@
+{
+  "iso2": "us",
+  "source": "src/lib/permit/",
+  "retrieved": "2026-08-29",
+  "lock_date": "2026-08-18",
+  "counts": {
+    "core": 79,
+    "extra": 462,
+    "more": 680,
+    "rest": 14855
+  },
+  "factory_urls_verified": false,
+  "paths": [
+    "src/lib/permit/places.ts",
+    "src/lib/permit/places-extra.ts",
+    "src/lib/permit/places-more.ts",
+    "src/lib/permit/places-rest.ts"
+  ],
+  "holes": [
+    {
+      "object": "places-more.ts",
+      "reason": "19 territory rows omitted from US-only (PR 9, GU 3, VI 3, AS 1, MP 3)"
+    },
+    {
+      "object": "places-rest.ts",
+      "reason": "70 PR rows omitted from US-only"
+    }
+  ],
+  "notes": [
+    "US-only = 50 states + DC. Rest is a count, not a map. No pin list. No GeoJSON. Rest contents not copied.",
+    "factory URLs not verified.",
+    "fees omitted (unsourced).",
+    "counted unique p() / core ids, not lines."
+  ]
+}

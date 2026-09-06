@@ -1,0 +1,31 @@
+{
+  "iso2": "mx",
+  "source": "src/lib/permit/",
+  "retrieved": "2026-08-29",
+  "lock_date": "2026-08-18",
+  "counts": {
+    "core": 0,
+    "extra": 0,
+    "more": 0,
+    "rest": 0
+  },
+  "factory_urls_verified": false,
+  "paths": [
+    "src/lib/permit/places.ts",
+    "src/lib/permit/places-extra.ts",
+    "src/lib/permit/places-more.ts",
+    "src/lib/permit/places-rest.ts"
+  ],
+  "holes": [
+    {
+      "object": "src/lib/permit/",
+      "reason": "US AHJ catalog has no Mexico (country) AHJs. No Mexican permit rows invented."
+    }
+  ],
+  "notes": [
+    "Mexico-only filter: iso2 MX or Mexico (country). MX is Mexico the country, not a US state. New Mexico (NM) excluded. US towns named Mexico (MO, NY, ME) and Mexico Beach (FL) excluded. Names merely containing Mexico excluded. Zero matches. Rest is a count, not a map; contents not copied.",
+    "factory URLs not verified.",
+    "fees omitted (unsourced).",
+    "No pin list. No GeoJSON."
+  ]
+}

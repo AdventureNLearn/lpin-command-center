@@ -1,0 +1,683 @@
+{
+  "generated_at": "2026-08-30T01:24:18.328Z",
+  "wave": "WAVE-501 US",
+  "kit_on_disk": [
+    "ad",
+    "ae",
+    "af",
+    "ag",
+    "al",
+    "am",
+    "ao",
+    "ar",
+    "at",
+    "au",
+    "az",
+    "ba",
+    "bb",
+    "bd",
+    "be",
+    "bf",
+    "bg",
+    "bh",
+    "bi",
+    "bj",
+    "bn",
+    "bo",
+    "br",
+    "bs",
+    "bt",
+    "bw",
+    "by",
+    "bz",
+    "ca",
+    "cd",
+    "cf",
+    "cg",
+    "ch",
+    "ci",
+    "cl",
+    "cm",
+    "cn",
+    "co",
+    "cr",
+    "cu",
+    "cv",
+    "cy",
+    "cz",
+    "de",
+    "dj",
+    "dk",
+    "dm",
+    "do",
+    "dz",
+    "ec",
+    "ee",
+    "eg",
+    "er",
+    "es",
+    "et",
+    "fi",
+    "fj",
+    "fm",
+    "fr",
+    "ga",
+    "gb",
+    "gd",
+    "ge",
+    "gh",
+    "gm",
+    "gn",
+    "gq",
+    "gr",
+    "gt",
+    "gw",
+    "gy",
+    "hn",
+    "hr",
+    "ht",
+    "hu",
+    "id",
+    "ie",
+    "il",
+    "in",
+    "iq",
+    "ir",
+    "is",
+    "it",
+    "jm",
+    "jo",
+    "jp",
+    "ke",
+    "kg",
+    "kh",
+    "ki",
+    "km",
+    "kn",
+    "kp",
+    "kr",
+    "kw",
+    "kz",
+    "la",
+    "lb",
+    "lc",
+    "li",
+    "lk",
+    "lr",
+    "ls",
+    "lt",
+    "lu",
+    "lv",
+    "ly",
+    "ma",
+    "mc",
+    "md",
+    "me",
+    "mg",
+    "mh",
+    "mk",
+    "ml",
+    "mm",
+    "mn",
+    "mr",
+    "mt",
+    "mu",
+    "mv",
+    "mw",
+    "mx",
+    "my",
+    "mz",
+    "na",
+    "ne",
+    "ng",
+    "ni",
+    "nl",
+    "no",
+    "np",
+    "nr",
+    "nz",
+    "om",
+    "pa",
+    "pe",
+    "pg",
+    "ph",
+    "pk",
+    "pl",
+    "ps",
+    "pt",
+    "pw",
+    "py",
+    "qa",
+    "ro",
+    "rs",
+    "ru",
+    "rw",
+    "sa",
+    "sb",
+    "sc",
+    "sd",
+    "se",
+    "sg",
+    "si",
+    "sk",
+    "sl",
+    "sm",
+    "sn",
+    "so",
+    "sr",
+    "ss",
+    "st",
+    "sv",
+    "sy",
+    "sz",
+    "td",
+    "tg",
+    "th",
+    "tj",
+    "tl",
+    "tm",
+    "tn",
+    "to",
+    "tr",
+    "tt",
+    "tv",
+    "tw",
+    "tz",
+    "ua",
+    "ug",
+    "us",
+    "uy",
+    "uz",
+    "va",
+    "vc",
+    "ve",
+    "vn",
+    "vu",
+    "ws",
+    "ye",
+    "za",
+    "zm",
+    "zw"
+  ],
+  "kit_on_disk_count": 196,
+  "last_audit": {
+    "wave": "WAVE-501 US",
+    "verdict": "PASS",
+    "iso2": "us",
+    "honest_holes": 17,
+    "nodes": 199,
+    "edges": 215,
+    "files": [
+      "501-links.json"
+    ],
+    "bytes": 126062,
+    "mtime": "2026-08-30T01:22:31.243Z",
+    "source": "vendor/kept/_out/AUDIT.md"
+  },
+  "last_package_audit": {
+    "wave": "PACKAGE-TZ",
+    "verdict": "PASS",
+    "iso2": "tz",
+    "honest_holes": 18,
+    "files": [
+      "packages/tz.json",
+      "packages/tz-permit.json"
+    ],
+    "source": "vendor/kept/_out/AUDIT-LOG.md"
+  },
+  "last_fill_audit": {
+    "wave": "FILL-PL",
+    "verdict": "PASS",
+    "iso2": "pl",
+    "honest_holes": 21,
+    "files": [
+      "packages/pl-fill.json"
+    ],
+    "source": "vendor/kept/_out/AUDIT-LOG.md"
+  },
+  "rows": [
+    {
+      "iso2": "ar",
+      "kit_package": true,
+      "permit_package": true,
+      "audit": "PASS",
+      "holes": 11,
+      "kit_mtime": "2026-08-29T21:09:31.948Z",
+      "permit_mtime": "2026-08-29T21:10:19.186Z"
+    },
+    {
+      "iso2": "au",
+      "kit_package": true,
+      "permit_package": true,
+      "audit": "PASS",
+      "holes": 11,
+      "kit_mtime": "2026-08-29T17:28:42.059Z",
+      "permit_mtime": "2026-08-29T17:30:24.121Z"
+    },
+    {
+      "iso2": "br",
+      "kit_package": true,
+      "permit_package": true,
+      "audit": "PASS",
+      "holes": 8,
+      "kit_mtime": "2026-08-29T15:57:17.736Z",
+      "permit_mtime": "2026-08-29T15:57:17.737Z"
+    },
+    {
+      "iso2": "ca",
+      "kit_package": true,
+      "permit_package": true,
+      "audit": "PASS",
+      "holes": 9,
+      "kit_mtime": "2026-08-29T15:47:30.977Z",
+      "permit_mtime": "2026-08-29T15:47:30.977Z"
+    },
+    {
+      "iso2": "cl",
+      "kit_package": true,
+      "permit_package": true,
+      "audit": "PASS",
+      "holes": 18,
+      "kit_mtime": "2026-08-29T21:23:17.612Z",
+      "permit_mtime": "2026-08-29T21:29:55.957Z"
+    },
+    {
+      "iso2": "cn",
+      "kit_package": true,
+      "permit_package": true,
+      "audit": "PASS",
+      "holes": 11,
+      "kit_mtime": "2026-08-29T16:01:19.531Z",
+      "permit_mtime": "2026-08-29T16:01:19.531Z"
+    },
+    {
+      "iso2": "de",
+      "kit_package": true,
+      "permit_package": true,
+      "audit": "PASS",
+      "holes": 10,
+      "kit_mtime": "2026-08-29T15:54:08.472Z",
+      "permit_mtime": "2026-08-29T15:54:08.473Z"
+    },
+    {
+      "iso2": "eg",
+      "kit_package": true,
+      "permit_package": true,
+      "audit": "PASS",
+      "holes": 11,
+      "kit_mtime": "2026-08-29T16:25:46.617Z",
+      "permit_mtime": "2026-08-29T16:26:39.175Z"
+    },
+    {
+      "iso2": "es",
+      "kit_package": true,
+      "permit_package": true,
+      "audit": "PASS",
+      "holes": 12,
+      "kit_mtime": "2026-08-29T16:34:48.526Z",
+      "permit_mtime": "2026-08-29T16:36:14.506Z"
+    },
+    {
+      "iso2": "fj",
+      "kit_package": true,
+      "permit_package": true,
+      "audit": "PASS",
+      "holes": 18,
+      "kit_mtime": "2026-08-29T21:32:23.674Z",
+      "permit_mtime": "2026-08-29T21:33:47.131Z"
+    },
+    {
+      "iso2": "fr",
+      "kit_package": true,
+      "permit_package": true,
+      "audit": "PASS",
+      "holes": 9,
+      "kit_mtime": "2026-08-29T15:59:57.972Z",
+      "permit_mtime": "2026-08-29T15:59:57.973Z"
+    },
+    {
+      "iso2": "gb",
+      "kit_package": true,
+      "permit_package": true,
+      "audit": "PASS",
+      "holes": 10,
+      "kit_mtime": "2026-08-29T15:52:39.265Z",
+      "permit_mtime": "2026-08-29T15:52:39.266Z"
+    },
+    {
+      "iso2": "gh",
+      "kit_package": true,
+      "permit_package": true,
+      "audit": "PASS",
+      "holes": 11,
+      "kit_mtime": "2026-08-29T21:01:51.172Z",
+      "permit_mtime": "2026-08-29T21:02:51.165Z"
+    },
+    {
+      "iso2": "id",
+      "kit_package": true,
+      "permit_package": true,
+      "audit": "PASS",
+      "holes": 14,
+      "kit_mtime": "2026-08-29T17:16:20.956Z",
+      "permit_mtime": "2026-08-29T17:17:11.919Z"
+    },
+    {
+      "iso2": "il",
+      "kit_package": true,
+      "permit_package": true,
+      "audit": "PASS",
+      "holes": 11,
+      "kit_mtime": "2026-08-29T16:56:40.512Z",
+      "permit_mtime": "2026-08-29T16:58:11.860Z"
+    },
+    {
+      "iso2": "in",
+      "kit_package": true,
+      "permit_package": true,
+      "audit": "PASS",
+      "holes": 12,
+      "kit_mtime": "2026-08-29T17:06:36.853Z",
+      "permit_mtime": "2026-08-29T17:08:18.559Z"
+    },
+    {
+      "iso2": "it",
+      "kit_package": true,
+      "permit_package": true,
+      "audit": "PASS",
+      "holes": 9,
+      "kit_mtime": "2026-08-29T16:02:30.442Z",
+      "permit_mtime": "2026-08-29T16:02:30.443Z"
+    },
+    {
+      "iso2": "jp",
+      "kit_package": true,
+      "permit_package": true,
+      "audit": "PASS",
+      "holes": 11,
+      "kit_mtime": "2026-08-29T16:47:21.644Z",
+      "permit_mtime": "2026-08-29T16:48:35.070Z"
+    },
+    {
+      "iso2": "ke",
+      "kit_package": true,
+      "permit_package": true,
+      "audit": "PASS",
+      "holes": 12,
+      "kit_mtime": "2026-08-29T17:50:21.717Z",
+      "permit_mtime": "2026-08-29T17:51:09.084Z"
+    },
+    {
+      "iso2": "kr",
+      "kit_package": true,
+      "permit_package": true,
+      "audit": "PASS",
+      "holes": 9,
+      "kit_mtime": "2026-08-29T15:49:05.250Z",
+      "permit_mtime": "2026-08-29T15:49:05.251Z"
+    },
+    {
+      "iso2": "mx",
+      "kit_package": true,
+      "permit_package": true,
+      "audit": "PASS",
+      "holes": 12,
+      "kit_mtime": "2026-08-29T16:22:39.465Z",
+      "permit_mtime": "2026-08-29T16:24:23.292Z"
+    },
+    {
+      "iso2": "ng",
+      "kit_package": true,
+      "permit_package": true,
+      "audit": "PASS",
+      "holes": 12,
+      "kit_mtime": "2026-08-29T16:15:51.625Z",
+      "permit_mtime": "2026-08-29T16:17:33.102Z"
+    },
+    {
+      "iso2": "nl",
+      "kit_package": true,
+      "permit_package": true,
+      "audit": "PASS",
+      "holes": 18,
+      "kit_mtime": "2026-08-29T21:36:31.682Z",
+      "permit_mtime": "2026-08-29T21:37:48.671Z"
+    },
+    {
+      "iso2": "nz",
+      "kit_package": true,
+      "permit_package": true,
+      "audit": "PASS",
+      "holes": 11,
+      "kit_mtime": "2026-08-29T21:18:39.506Z",
+      "permit_mtime": "2026-08-29T21:20:02.590Z"
+    },
+    {
+      "iso2": "ph",
+      "kit_package": true,
+      "permit_package": true,
+      "audit": "PASS",
+      "holes": 13,
+      "kit_mtime": "2026-08-29T17:59:16.025Z",
+      "permit_mtime": "2026-08-29T20:53:57.222Z"
+    },
+    {
+      "iso2": "pl",
+      "kit_package": true,
+      "permit_package": true,
+      "audit": "PASS",
+      "holes": 10,
+      "kit_mtime": "2026-08-29T16:12:17.314Z",
+      "permit_mtime": "2026-08-29T16:13:42.005Z"
+    },
+    {
+      "iso2": "th",
+      "kit_package": true,
+      "permit_package": true,
+      "audit": "PASS",
+      "holes": 18,
+      "kit_mtime": "2026-08-29T21:40:28.591Z",
+      "permit_mtime": "2026-08-29T21:42:33.173Z"
+    },
+    {
+      "iso2": "tr",
+      "kit_package": true,
+      "permit_package": true,
+      "audit": "PASS",
+      "holes": 12,
+      "kit_mtime": "2026-08-29T16:19:08.462Z",
+      "permit_mtime": "2026-08-29T16:20:57.885Z"
+    },
+    {
+      "iso2": "tw",
+      "kit_package": true,
+      "permit_package": true,
+      "audit": "PASS",
+      "holes": 11,
+      "kit_mtime": "2026-08-29T16:07:10.165Z",
+      "permit_mtime": "2026-08-29T16:06:21.620Z"
+    },
+    {
+      "iso2": "tz",
+      "kit_package": true,
+      "permit_package": true,
+      "audit": "PASS",
+      "holes": 18,
+      "kit_mtime": "2026-08-29T21:45:14.304Z",
+      "permit_mtime": "2026-08-29T21:46:47.121Z"
+    },
+    {
+      "iso2": "ua",
+      "kit_package": true,
+      "permit_package": true,
+      "audit": "PASS",
+      "holes": 10,
+      "kit_mtime": "2026-08-29T15:58:47.625Z",
+      "permit_mtime": "2026-08-29T15:58:47.625Z"
+    },
+    {
+      "iso2": "us",
+      "kit_package": true,
+      "permit_package": true,
+      "audit": "PASS",
+      "holes": 9,
+      "kit_mtime": "2026-08-29T15:43:40.957Z",
+      "permit_mtime": "2026-08-29T15:45:45.657Z"
+    },
+    {
+      "iso2": "za",
+      "kit_package": true,
+      "permit_package": true,
+      "audit": "PASS",
+      "holes": 12,
+      "kit_mtime": "2026-08-29T17:38:56.177Z",
+      "permit_mtime": "2026-08-29T17:40:26.554Z"
+    }
+  ],
+  "remaining": [],
+  "remaining_count": 0,
+  "duplicates": [],
+  "extras": [
+    {
+      "kind": "fill file (not kit_package)",
+      "iso2": "br",
+      "audit": "PASS",
+      "holes": 19,
+      "paths": [
+        "C:\\AOS\\ops\\local-reason-bridge\\sandbox\\work\\groks-eye-view-next\\vendor\\kept\\_out\\packages\\br-fill.json"
+      ]
+    },
+    {
+      "kind": "fill file (not kit_package)",
+      "iso2": "ca",
+      "audit": "PASS",
+      "holes": 21,
+      "paths": [
+        "C:\\AOS\\ops\\local-reason-bridge\\sandbox\\work\\groks-eye-view-next\\vendor\\kept\\_out\\packages\\ca-fill.json"
+      ]
+    },
+    {
+      "kind": "fill file (not kit_package)",
+      "iso2": "cn",
+      "audit": "PASS",
+      "holes": 19,
+      "paths": [
+        "C:\\AOS\\ops\\local-reason-bridge\\sandbox\\work\\groks-eye-view-next\\vendor\\kept\\_out\\packages\\cn-fill.json"
+      ]
+    },
+    {
+      "kind": "fill file (not kit_package)",
+      "iso2": "de",
+      "audit": "PASS",
+      "holes": 19,
+      "paths": [
+        "C:\\AOS\\ops\\local-reason-bridge\\sandbox\\work\\groks-eye-view-next\\vendor\\kept\\_out\\packages\\de-fill.json"
+      ]
+    },
+    {
+      "kind": "fill file (not kit_package)",
+      "iso2": "fr",
+      "audit": "PASS",
+      "holes": 19,
+      "paths": [
+        "C:\\AOS\\ops\\local-reason-bridge\\sandbox\\work\\groks-eye-view-next\\vendor\\kept\\_out\\packages\\fr-fill.json"
+      ]
+    },
+    {
+      "kind": "fill file (not kit_package)",
+      "iso2": "gb",
+      "audit": "PASS",
+      "holes": 21,
+      "paths": [
+        "C:\\AOS\\ops\\local-reason-bridge\\sandbox\\work\\groks-eye-view-next\\vendor\\kept\\_out\\packages\\gb-fill.json"
+      ]
+    },
+    {
+      "kind": "fill file (not kit_package)",
+      "iso2": "it",
+      "audit": "PASS",
+      "holes": 19,
+      "paths": [
+        "C:\\AOS\\ops\\local-reason-bridge\\sandbox\\work\\groks-eye-view-next\\vendor\\kept\\_out\\packages\\it-fill.json"
+      ]
+    },
+    {
+      "kind": "fill file (not kit_package)",
+      "iso2": "kr",
+      "audit": "PASS",
+      "holes": 16,
+      "paths": [
+        "C:\\AOS\\ops\\local-reason-bridge\\sandbox\\work\\groks-eye-view-next\\vendor\\kept\\_out\\packages\\kr-fill.json"
+      ]
+    },
+    {
+      "kind": "fill file (not kit_package)",
+      "iso2": "pl",
+      "audit": "PASS",
+      "holes": 21,
+      "paths": [
+        "C:\\AOS\\ops\\local-reason-bridge\\sandbox\\work\\groks-eye-view-next\\vendor\\kept\\_out\\packages\\pl-fill.json"
+      ]
+    },
+    {
+      "kind": "fill file (not kit_package)",
+      "iso2": "tw",
+      "audit": "PASS",
+      "holes": 21,
+      "paths": [
+        "C:\\AOS\\ops\\local-reason-bridge\\sandbox\\work\\groks-eye-view-next\\vendor\\kept\\_out\\packages\\tw-fill.json"
+      ]
+    },
+    {
+      "kind": "fill file (not kit_package)",
+      "iso2": "ua",
+      "audit": "PASS",
+      "holes": 17,
+      "paths": [
+        "C:\\AOS\\ops\\local-reason-bridge\\sandbox\\work\\groks-eye-view-next\\vendor\\kept\\_out\\packages\\ua-fill.json"
+      ]
+    },
+    {
+      "kind": "fill file (not kit_package)",
+      "iso2": "us",
+      "audit": "PASS",
+      "holes": 19,
+      "paths": [
+        "C:\\AOS\\ops\\local-reason-bridge\\sandbox\\work\\groks-eye-view-next\\vendor\\kept\\_out\\packages\\us-fill.json"
+      ]
+    },
+    {
+      "kind": "501-links.json (not kit_package)",
+      "iso2": "us",
+      "audit": "PASS",
+      "holes": 17,
+      "nodes": 199,
+      "edges": 215,
+      "bytes": 126062,
+      "paths": [
+        "C:\\AOS\\ops\\local-reason-bridge\\sandbox\\work\\groks-eye-view-next\\vendor\\kept\\_out\\501-links.json"
+      ]
+    },
+    {
+      "kind": "hole-13 extra 9",
+      "iso2": "us",
+      "audit": null,
+      "holes": null,
+      "edges_with_program_area": 9,
+      "note": "501-links.json holes[12] 1-based hole 13",
+      "paths": [
+        "C:\\AOS\\ops\\local-reason-bridge\\sandbox\\work\\groks-eye-view-next\\vendor\\kept\\_out\\501-links.json"
+      ]
+    }
+  ],
+  "status_vs_disk": [
+    {
+      "kind": "AUDIT-LOG last PASS bytes vs disk",
+      "audit_log_bytes": 125973,
+      "disk_bytes": 126062,
+      "path": "C:\\AOS\\ops\\local-reason-bridge\\sandbox\\work\\groks-eye-view-next\\vendor\\kept\\_out\\501-links.json"
+    }
+  ],
+  "mtime_drift": [],
+  "populated_at": "2026-09-06T20:47:29.249Z"
+}

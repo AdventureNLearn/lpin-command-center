@@ -1,0 +1,50 @@
+{
+  "iso2": "in",
+  "name": "India",
+  "region": "asia",
+  "chamber": "Lok Sabha",
+  "houses": "bicameral",
+  "system": "parliamentary",
+  "seats": 543,
+  "election": "competitive",
+  "session": "18th Lok Sabha (2024\u2013)",
+  "kit": "scoring",
+  "lang": [
+    "en",
+    "hi"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 540,
+    "sitting": 540,
+    "votes": 66,
+    "committees": 64,
+    "key_votes": 66,
+    "sourced_quotes": 21,
+    "pledges": 21,
+    "sitting_pledged": 5,
+    "named": 66,
+    "gaps": 0
+  },
+  "capabilities": [
+    "members",
+    "pledges",
+    "votes",
+    "issues",
+    "gap",
+    "caucus",
+    "committees",
+    "ethics",
+    "money",
+    "method"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "gold-kit-8103",
+  "source_live": null,
+  "note": "Sitting roster present. Pledges are a sourced personal sample (not party manifesto); hunt-stop after examination. Ethics = public Register of Interests + ECI Form 26 categories, no rupees. Money named_donors false; occupation buckets from Digital Sansad profession. Votes = clerk getBills floor results; member yeas unpublished and not invented. Gap 0 after dual-source exam. Committees packed from official catalog. No grok.me overwrite.",
+  "roster_source": "https://sansad.in/api_ls/member?loksabha=18",
+  "honest_complete": true,
+  "stamped_by": "CoS",
+  "stamped_at": "2026-08-21T17:15:39Z"
+}

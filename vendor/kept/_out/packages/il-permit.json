@@ -1,0 +1,31 @@
+{
+  "iso2": "il",
+  "source": "src/lib/permit/",
+  "retrieved": "2026-08-29",
+  "lock_date": "2026-08-18",
+  "counts": {
+    "core": 0,
+    "extra": 0,
+    "more": 0,
+    "rest": 0
+  },
+  "factory_urls_verified": false,
+  "paths": [
+    "src/lib/permit/places.ts",
+    "src/lib/permit/places-extra.ts",
+    "src/lib/permit/places-more.ts",
+    "src/lib/permit/places-rest.ts"
+  ],
+  "holes": [
+    {
+      "object": "src/lib/permit/",
+      "reason": "US AHJ catalog has no Israel AHJs (IL in this catalog is Illinois, not Israel). No Israeli permit rows invented."
+    }
+  ],
+  "notes": [
+    "Israel-country only filter: iso2 IL-as-country / Israel / ישראל. Zero matches. US state IL is Illinois, not Israel; Illinois AHJs excluded (core 1, extra 12, more 19, rest 381). Rest is a count, not a map; contents not copied.",
+    "factory URLs not verified.",
+    "fees omitted (unsourced).",
+    "No pin list. No GeoJSON."
+  ]
+}

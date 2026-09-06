@@ -1,0 +1,44 @@
+{
+  "iso2": "au",
+  "name": "Australia",
+  "region": "oceania",
+  "chamber": "House of Representatives",
+  "houses": "",
+  "system": "",
+  "seats": 151,
+  "election": "",
+  "session": "48th Parliament (2025–2028)",
+  "kit": "map",
+  "lang": [
+    "en"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 151,
+    "sitting": 151,
+    "votes": 354,
+    "committees": 42,
+    "key_votes": 238,
+    "sourced_quotes": 79
+  },
+  "capabilities": [
+    "members",
+    "pledges",
+    "votes",
+    "issues",
+    "gap",
+    "caucus",
+    "committees",
+    "ethics",
+    "money",
+    "method"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "gold-kit-8103",
+  "source_live": null,
+  "note": "AU honest-complete 2026-08-21. Sit 151. Pledges 79 / 75 sitting. House XML packed; leftover pledge hunt-stop. Votes 354 named 238. Gap 0 after dual-source exam. named_donors false. Did not invent yeas. Honest incomplete.",
+  "roster_source": "https://en.wikipedia.org/wiki/Members_of_the_Australian_House_of_Representatives,_2025–2028",
+  "named_donors": false,
+  "honest_complete": true
+}

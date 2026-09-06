@@ -1,0 +1,43 @@
+{
+  "iso2": "ca",
+  "source_url": "https://www.ourcommons.ca/members/en/search/csv",
+  "items": [
+    {
+      "id": "liberal",
+      "name": "Liberal",
+      "seats": 171,
+      "source_url": "https://www.ourcommons.ca/members/en/search/csv"
+    },
+    {
+      "id": "conservative",
+      "name": "Conservative",
+      "seats": 139,
+      "source_url": "https://www.ourcommons.ca/members/en/search/csv"
+    },
+    {
+      "id": "bloc-qu-b-cois",
+      "name": "Bloc Québécois",
+      "seats": 21,
+      "source_url": "https://www.ourcommons.ca/members/en/search/csv"
+    },
+    {
+      "id": "ndp",
+      "name": "NDP",
+      "seats": 5,
+      "source_url": "https://www.ourcommons.ca/members/en/search/csv"
+    },
+    {
+      "id": "green-party",
+      "name": "Green Party",
+      "seats": 1,
+      "source_url": "https://www.ourcommons.ca/members/en/search/csv"
+    },
+    {
+      "id": "independent",
+      "name": "Independent",
+      "seats": 1,
+      "source_url": "https://www.ourcommons.ca/members/en/search/csv"
+    }
+  ],
+  "incomplete": true
+}

@@ -1,0 +1,33 @@
+{
+  "iso2": "zw",
+  "name": "Zimbabwe",
+  "region": "",
+  "chamber": "Parliament of Zimbabwe",
+  "houses": "",
+  "system": "",
+  "seats": 800,
+  "election": "",
+  "session": "",
+  "kit": "map",
+  "lang": [
+    "en"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 800,
+    "sitting": 800,
+    "votes": 0,
+    "committees": 0,
+    "key_votes": 0,
+    "sourced_quotes": 0
+  },
+  "capabilities": [
+    "members"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "lpin-wikidata-fill",
+  "source_live": null,
+  "note": "Wikidata sitting pull 2026-09-06. 800 named. Vacancies not invented.",
+  "roster_source": "https://www.wikidata.org/wiki/Q2083905"
+}

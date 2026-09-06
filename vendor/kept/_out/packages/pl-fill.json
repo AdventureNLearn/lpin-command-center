@@ -1,0 +1,252 @@
+{
+  "iso2": "pl",
+  "wave": "WAVE-FILL-PL",
+  "hole_type": "ingest-drop",
+  "retrieved": "2026-08-29",
+  "source": "vendor/kept/kits/pl",
+  "read_only": [
+    "vendor/kept/kits/pl/sources.json",
+    "vendor/kept/kits/pl/pledges.json",
+    "vendor/kept/kits/pl/votes.json",
+    "vendor/kept/kits/pl/members.json",
+    "vendor/kept/kits/pl/gap.json",
+    "vendor/kept/kits/pl/meta.json",
+    "vendor/kept/kits/pl/ethics.json",
+    "vendor/kept/kits/pl/money.json",
+    "vendor/kept/kits/pl/institutional.json",
+    "vendor/kept/kits/pl/issues.json"
+  ],
+  "did_not_rewrite": [
+    "vendor/kept/kits/pl",
+    "votes.json",
+    "members.json",
+    "src/",
+    "packages/pl.json",
+    "packages/pl-permit.json",
+    "packages/_index.json",
+    "packages/us-fill.json",
+    "packages/ca-fill.json",
+    "packages/kr-fill.json",
+    "packages/gb-fill.json",
+    "packages/de-fill.json",
+    "packages/br-fill.json",
+    "packages/ua-fill.json",
+    "packages/fr-fill.json",
+    "packages/cn-fill.json",
+    "packages/it-fill.json",
+    "packages/tw-fill.json"
+  ],
+  "counts": {
+    "sources_items": 1023,
+    "pledges_items": 22,
+    "pledges_with_sourceUrl": 22,
+    "pledges_without_sourceUrl": 0,
+    "pledge_sourceUrl_exact_in_sources": 21,
+    "votes_items": 921,
+    "votes_with_source_url": 921,
+    "votes_without_source_url": 0,
+    "vote_source_urls_exact_in_sources": 875,
+    "ethics_items": 460,
+    "ethics_with_http_source_url": 460,
+    "ethics_missing_http": 0,
+    "money_has_https_source_url": true,
+    "member_site_source_urls": 0,
+    "member_site_source_urls_not_on_pledge_or_vote": 0
+  },
+  "log": [
+    {
+      "hole": "No existing pledge, vote, ethics, or money citation is missing an http(s) URL",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "pledges.json 22/22 have sourceUrl https. votes.json 921/921 have source_url https. ethics.json 460/460 have source_url https. money.source_url is https://pkw.gov.pl/uploaded_files/1698467872_subwencja-2024-2027.pdf (exact-in sources). Nothing to attach. Do not swap a working URL."
+    },
+    {
+      "hole": "No member-site URLs sit in sources.json",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "All 1023 sources.json URLs are official sejm.gov.pl / api.sejm.gov.pl / pkw.gov.pl / gov.pl / kbw.gov.pl hosts. Zero personal member-site domains. member_site_source_urls is 0. member_site_source_urls_not_on_pledge_or_vote is 0. Nothing unused to attach onto a citation missing http(s). Restoring member pages would mint a pledge. Did not recrawl."
+    },
+    {
+      "hole": "3 leftover wypowiedz.xsp original-record URLs never became a pledge row",
+      "action": "left",
+      "evidence": "Unproven",
+      "reason": "Original-record www.sejm.gov.pl Sejm10.nsf/wypowiedz.xsp pages sit in sources.json and are unused by any pledge or vote: posiedzenie=1 dzien=3 wyp=32, posiedzenie=27 dzien=1 wyp=37, posiedzenie=41 dzien=1 wyp=50. 21 other wypowiedz URLs already sit on pledge rows. Restoring these leftovers would mint pledges. Did not recrawl. Incomplete beats fake-complete.",
+      "url": "https://www.sejm.gov.pl/Sejm10.nsf/wypowiedz.xsp?posiedzenie=1&dzien=3&wyp=32",
+      "also": [
+        "https://www.sejm.gov.pl/Sejm10.nsf/wypowiedz.xsp?posiedzenie=27&dzien=1&wyp=37",
+        "https://www.sejm.gov.pl/Sejm10.nsf/wypowiedz.xsp?posiedzenie=41&dzien=1&wyp=50"
+      ]
+    },
+    {
+      "hole": "1 pledge cites a wypowiedz URL that is not exact-in sources.json",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Inverse of ingest-drop. pl-p-372-energy-7dff1c already carries https www.sejm.gov.pl Sejm10.nsf/wypowiedz.xsp?posiedzenie=1&dzien=8&wyp=180. That URL is not in sources.json. Citation is not missing http(s). 21/22 pledge sourceUrl values are exact-in. Do not swap a working URL. Did not recrawl.",
+      "url": "https://www.sejm.gov.pl/Sejm10.nsf/wypowiedz.xsp?posiedzenie=1&dzien=8&wyp=180"
+    },
+    {
+      "hole": "leftover posel.xsp / oswiadczenia / ROSWIADCZENIA / kancelaria indexes are not pledge or ethics citation gaps",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "https://www.sejm.gov.pl/Sejm10.nsf/posel.xsp is exact-in and is ethics.source_url (member-page index, no id=). page.xsp/oswiadczenia, agent.xsp symbol=ROSWIADCZENIA NrKadencji=10 Typ=OSW, and page.xsp/kancelaria sit unused in sources.json as companions. 460 ethics rows already carry per-member posel.xsp?id= https (not exact-in; inverse of ingest-drop). Not a dropped original-record URL on a citation missing http(s). Do not mint pledges. Do not swap a working URL.",
+      "url": "https://www.sejm.gov.pl/Sejm10.nsf/posel.xsp",
+      "also": [
+        "https://www.sejm.gov.pl/Sejm10.nsf/page.xsp/oswiadczenia",
+        "https://www.sejm.gov.pl/Sejm10.nsf/agent.xsp?symbol=ROSWIADCZENIA&NrKadencji=10&Typ=OSW",
+        "https://www.sejm.gov.pl/Sejm10.nsf/page.xsp/kancelaria"
+      ]
+    },
+    {
+      "hole": "46 votes cite per-vote API URLs that are not exact-in sources.json",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Inverse of ingest-drop. 921/921 votes already carry https api.sejm.gov.pl/sejm/term10/votings/{sitting}/{nr}. 875/921 are exact-in. 46 are not: sitting 63 (24), sitting 62 (1), sittings 5-8 leftover-mapped rolls (5+4+5+7). Citations are not missing http(s). Attaching a sitting-level votings/N index or the votings root would swap a working citation for a different-issue URL. Do not mint floor rows. Did not recrawl."
+    },
+    {
+      "hole": "63 sitting-level votings/N indexes plus sitting 64 leftover never became a vote row",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "sources.json holds api.sejm.gov.pl/sejm/term10/votings/1 through /62 and /64 (no /63 index) plus the votings catalog. All 63 sitting-level indexes are unused by any pledge or vote; votes cite per-vote /{sitting}/{nr} URLs. Sitting 64 has an index and no per-vote harvest and no vote row. Index/companion, not a dropped original-record URL on a citation missing http(s). Restoring sitting 64 would mint floor rows. votes.note: remaining unpublished sittings empty. Do not mint floor rows.",
+      "url": "https://api.sejm.gov.pl/sejm/term10/votings/64",
+      "also": [
+        "https://api.sejm.gov.pl/sejm/term10/votings"
+      ]
+    },
+    {
+      "hole": "39 leftover proceedings transcript URLs are not pledge or vote citation gaps",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "api.sejm.gov.pl/sejm/term10/proceedings/{n}/{date}/transcripts sit unused in sources.json. Existing pledges cite www.sejm.gov.pl wypowiedz.xsp pages (21/22 exact-in). Existing votes cite per-vote votings URLs. Transcripts are harvest companions for oswiadczenie bodies, not dropped original-record URLs on a citation missing http(s). Do not mint pledges. Do not mint floor rows. Do not swap a working URL.",
+      "url": "https://api.sejm.gov.pl/sejm/term10/proceedings/1/2023-11-13/transcripts"
+    },
+    {
+      "hole": "leftover api.sejm term10 / MP / committees / proceedings roots are not citation gaps",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "https://api.sejm.gov.pl/sejm/term10, /MP, /committees, and /proceedings sit in sources.json as harvest indexes. members.source_url /MP is exact-in; committees.source_url /committees is exact-in (40/40 committee rows already https). votes.source_url /votings is exact-in. Not dropped original-record URLs on a citation missing http(s). Do not mint sitting names. Do not mint AHJs.",
+      "url": "https://api.sejm.gov.pl/sejm/term10",
+      "also": [
+        "https://api.sejm.gov.pl/sejm/term10/MP",
+        "https://api.sejm.gov.pl/sejm/term10/committees",
+        "https://api.sejm.gov.pl/sejm/term10/proceedings"
+      ]
+    },
+    {
+      "hole": "leftover PKW sprawozdania o zrodlach / financial-info komunikaty are not money citation gaps",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "money.source_url already has https://pkw.gov.pl/uploaded_files/1698467872_subwencja-2024-2027.pdf (exact-in). money.note: PKW sprawozdania o zrodlach pozyskania and campaign-committee filings name private donors and were not collected. 2024/2025 komunikaty and the kbw.gov.pl 2025 twin sit unused in sources.json. Restoring would name private donors. Index/companion; do not swap a working URL. Did not name private donors. Did not mint fees.",
+      "url": "https://pkw.gov.pl/finansowanie-polityki/finansowanie-partii-politycznych/sprawozdania-finansowe-partii-politycznych-za-rok-2024/komunikat-panstwowej-komisji-wyborczej-z-dnia-5-maja-2025-r-w-sprawie-sprawozdan-o-zrodlach-pozyskan",
+      "also": [
+        "https://pkw.gov.pl/finansowanie-polityki/finansowanie-partii-politycznych/sprawozdania-finansowe-partii-politycznych-za-rok-2024/komunikat-panstwowej-komisji-wyborczej-z-dnia-5-maja-2025-r-w-sprawie-informacji-finansowych-partii-",
+        "https://pkw.gov.pl/finansowanie-polityki/finansowanie-partii-politycznych/sprawozdania-finansowe-partii-politycznych-za-rok-2025/komunikat-panstwowej-komisji-wyborczej-z-dnia-28-kwietnia-2026-r-w-sprawie-informacji-finansowych-pa",
+        "https://wybory.kbw.gov.pl/finansowanie-polityki/finansowanie-partii-politycznych/sprawozdania-finansowe-partii-politycznych-za-rok-2025/komunikat-panstwowej-komisji-wyborczej-z-dnia-28-kwietnia-2026-r-w-sprawie-informacji-finansowych-pa"
+      ]
+    },
+    {
+      "hole": "leftover PKW finance indexes and campaign-finance portal are not money citation gaps",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "pkw.gov.pl root, finansowanie-partii-politycznych, subwencja-z-budzetu-panstwa, the 2024-2027 informacja page, and finansowanie-kampanii-wyborczych sit unused in sources.json as indexes. money.source_url PDF already exact-in. Not a dropped original-record URL on a citation missing http(s). Do not mint fees. Do not swap a working URL.",
+      "url": "https://pkw.gov.pl/",
+      "also": [
+        "https://pkw.gov.pl/finansowanie-polityki/finansowanie-partii-politycznych",
+        "https://pkw.gov.pl/finansowanie-polityki/finansowanie-partii-politycznych/subwencja-z-budzetu-panstwa",
+        "https://pkw.gov.pl/finansowanie-polityki/finansowanie-partii-politycznych/subwencja-z-budzetu-panstwa/informacja-o-przewidywanej-rocznej-wysokosci-subwencji-przyslugujacej-partiom-politycznym-w-latach-2",
+        "https://pkw.gov.pl/finansowanie-polityki/finansowanie-kampanii-wyborczych"
+      ]
+    },
+    {
+      "hole": "leftover gov.pl premier / KPRM indexes are not pledge or money citation gaps",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "www.gov.pl/web/premier and /web/premier/kancelaria-prezesa-rady-ministrow sit unused in sources.json. Chamber/government indexes, not dropped original-record URLs on a citation missing http(s). Do not mint pledges. Do not mint sitting names.",
+      "url": "https://www.gov.pl/web/premier",
+      "also": [
+        "https://www.gov.pl/web/premier/kancelaria-prezesa-rady-ministrow"
+      ]
+    },
+    {
+      "hole": "sejm.gov.pl root leftover is not a pledge or vote row",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Chamber root in sources.json. Index/companion, not a dropped original-record URL on a citation missing http(s). Do not mint pledges. Do not mint sitting names.",
+      "url": "https://www.sejm.gov.pl/"
+    },
+    {
+      "hole": "ethics.json incomplete true; leftover oswiadczenia indexes are not ethics citation gaps",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "All 460 ethics rows already carry https per-member posel.xsp?id= (0/460 exact-in; inverse of ingest-drop). ethics.source_url posel.xsp index is exact-in. ethics.note: Public oswiadczenie majatkowe category only. Zloty amounts and annex contents not stored. Incomplete is untranscribed amounts, not a lost kit URL on a citation missing http(s). Do not mint per-member filings. Do not swap a working URL. Did not name private donors."
+    },
+    {
+      "hole": "institutional.json items 0",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Empty kit (institutional_kits = 0 claimed). Not an ingest drop. Do not mint rows."
+    },
+    {
+      "hole": "gap.json items 0",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Honest empty (gap.note: no dual-sourced own-pledge break after 1154 sourced-pledge x same-issue clerk vote pairs; 921/921 clerk rolls have nominative positions; 0 with unambiguous polarity). votes.json issue_id empty on 596/921 is an examination mapping, not a lost kit URL. Not an ingest drop."
+    },
+    {
+      "hole": "members.json 460 sitting; roster complete",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Sitting-name roster is complete (460/460 sitting, claimed_seats 460, members.incomplete false, all https www.sejm.gov.pl posel.xsp?id= roster_url). members.source_url https://api.sejm.gov.pl/sejm/term10/MP is exact-in. Per-member roster_url values are not in sources.json (inverse of ingest-drop). Roster citations already have https. Not ingest-drop. Do not mint sitting names."
+    },
+    {
+      "hole": "money.json named_donors false; incomplete true",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Nine public party-subwencja buckets (predicted 2024-2027 annual statutory-activity subsidy, bucket sum 84246147.77 PLN) already cite https pkw.gov.pl subwencja PDF exact-in. Occupation buckets left empty (api.sejm MP profession is free-text, not an official occupation yearbook). PKW sprawozdania and Sejm oswiadczenia majatkowe name private donors/amounts and were not collected. sitting_total_reconstructed 84246147.77 is the published public-finance total, not a dropped original-record URL on a citation missing http(s). Did not name private donors. Did not mint fees."
+    },
+    {
+      "hole": "pledges.json incomplete true; 22 personal https / 21 sitting",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "pledges.note: Personal first-person sentences from official Sejm member pages (posel.xsp) and official oswiadczenia poselskie + https. Party manifesto / club w imieniu not stored. Examined 439 unused sitting member pages and 484 official oswiadczenie bodies; leftover ranked members 272. Remaining KEEP hits were procedure, club voice, municipality, unmapped issue, or third-person clerk bio. Kept 22. All 22 existing rows already have https sourceUrl. Incomplete sitting coverage is hunt-stop leftover, not a dropped original-record URL on a citation missing http(s). Do not mint pledges. Did not recrawl leftover wypowiedz pages."
+    },
+    {
+      "hole": "votes.json incomplete true",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "All 921 votes already carry https source_url. votes.note: leftover named clerk glosowania from sittings 5-8 mapped; sittings 1-4 leftover are skip-filter and were not requeued; unmapped MPs dropped; yeas not invented; remaining unpublished sittings empty and leftover 5-8 usable rolls exhausted. Incomplete dump / sitting 64 index leftover is not a lost kit URL on a citation missing http(s). Do not mint floor rows. Do not swap a working URL."
+    },
+    {
+      "hole": "meta.json incomplete true is honest-complete rollup, not a lost kit URL",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "meta.note: PL honest-complete Phase 2 stamp 2026-08-21. Sit 460. Pledges 22 personal https / 21 sitting. Oswiadczenia leftover exhausted (ethics 460). Votes 921/921 clerk nominative packed; not requeued. Gap 0 after 1154 same-issue pair exam. Money occupation/public-finance buckets only, named_donors false. Flag+card only. Flag reflects thin leftover harvest, not a dropped original-record URL on a public citation missing http(s)."
+    }
+  ],
+  "summary": {
+    "restored": 0,
+    "left": 21,
+    "evidence": {
+      "Supported": 20,
+      "Unproven": 1,
+      "Disputed": 0,
+      "Human decision": 0
+    }
+  },
+  "notes": [
+    "One hole type: ingest-drop. Restore a URL the kit already has in sources, or leave the hole.",
+    "No existing scoring citation lost a kit URL. All 22 pledges, 921 votes, 460 ethics rows, and money.source_url already carry http(s).",
+    "21/22 pledge sourceUrl values are exact-in sources.json. Zero pledges missing http(s). The other 1 already has https wypowiedz.xsp not listed in sources (inverse of ingest-drop). Do not swap.",
+    "0 personal member-site URLs sit in sources.json. 3 leftover official wypowiedz.xsp original-record URLs never became a pledge row. Left. Do not mint pledges.",
+    "pledges.note: Personal first-person sentences from official Sejm member pages (posel.xsp) and official oswiadczenia poselskie (ROSW_LISTA / ROSW_WYP + api.sejm.gov.pl transcript bodies headed Oswiadczenia.) + https. Party manifesto / club w imieniu not stored. Examined 439 unused sitting member pages and 484 official oswiadczenie bodies (480 ROSW_WYP jobs / 40 member lists; leftover ranked members 272). Remaining KEEP hits were procedure, club voice, municipality, unmapped issue, or third-person clerk bio. Kept 22. Incomplete sitting coverage. Hunt-stop: leftover usable first-person member-page / oswiadczenie sentences exhausted after examination. Did not recrawl leftover wyp=32 / wyp=37 / wyp=50 pages.",
+    "vote_source_urls_exact_in_sources is 875/921 because 875 per-vote api.sejm.gov.pl/sejm/term10/votings/{sitting}/{nr} URLs are exact-in; 46 already-https vote rows (sitting 63 x24, sitting 62 x1, sittings 5-8 leftover-mapped x21) are not in sources. Citations already have http(s). Do not swap.",
+    "Did not invent pledges, sitting names, fees, AHJs. Did not name private donors.",
+    "institutional.json items 0 is an empty kit, not an ingest drop.",
+    "gap.json items 0 (no dual-sourced own-pledge break after 1154 pairs) is honest empty, not an ingest drop.",
+    "members 460 sitting with https posel.xsp?id= roster_url is complete roster coverage, not a lost kit URL. members.source_url /MP is exact-in. Per-member roster_url values are not in sources (inverse). Do not mint sitting names.",
+    "money named_donors false / incomplete true is unpublished occupation-of-donor plus PKW sprawozdania that name private donors, not a dropped original-record URL. One public subwencja PDF already has https exact-in.",
+    "ethics 460/460 category rows already cite https. incomplete true is untranscribed zloty amounts / annexes, not a lost kit URL. Per-member posel.xsp?id= URLs are not in sources (inverse).",
+    "committees 40/40 already cite https api.sejm.gov.pl/sejm/term10/committees exact-in. committees.incomplete false. Not a lost kit URL. Do not mint AHJs.",
+    "packages/pl-permit.json: US AHJ catalog has no Poland AHJs. Not an ingest-drop of a kit URL. Did not mint AHJs or fees.",
+    "Did not recrawl. Did not fetch pages. Source of truth is the kit existing URL."
+  ]
+}

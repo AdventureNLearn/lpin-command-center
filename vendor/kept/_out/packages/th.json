@@ -1,0 +1,136 @@
+{
+  "iso2": "th",
+  "kit_on_disk": true,
+  "objects": {
+    "committees.json": {
+      "state": "empty",
+      "count": 0
+    },
+    "ethics.json": {
+      "state": "empty",
+      "count": 0
+    },
+    "filers.json": {
+      "state": "seeded",
+      "count": 0
+    },
+    "gap.json": {
+      "state": "seeded",
+      "count": 0
+    },
+    "institutional.json": {
+      "state": "empty",
+      "count": 0
+    },
+    "issues.json": {
+      "state": "empty",
+      "count": 0
+    },
+    "lobby.json": {
+      "state": "seeded",
+      "count": 0
+    },
+    "members.json": {
+      "state": "empty",
+      "count": 0
+    },
+    "meta.json": {
+      "state": "filled",
+      "count": 12
+    },
+    "money.json": {
+      "state": "seeded",
+      "count": 0
+    },
+    "orgs.json": {
+      "state": "seeded",
+      "count": 0
+    },
+    "parties.json": {
+      "state": "seeded",
+      "count": 0
+    },
+    "pledges.json": {
+      "state": "empty",
+      "count": 0
+    },
+    "sources.json": {
+      "state": "empty",
+      "count": 0
+    },
+    "votes.json": {
+      "state": "empty",
+      "count": 0
+    }
+  },
+  "capital": {
+    "name": "Bangkok",
+    "lat": 13.751945,
+    "lon": 100.514699,
+    "kind": "capital"
+  },
+  "holes": [
+    {
+      "object": "committees.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "ethics.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "filers.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "gap.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "institutional.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "issues.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "lobby.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "members.json",
+      "reason": "items 0; sitting 0; no invented roster"
+    },
+    {
+      "object": "money.json",
+      "reason": "buckets 0"
+    },
+    {
+      "object": "orgs.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "parties.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "pledges.json",
+      "reason": "items 0; no invented pledges"
+    },
+    {
+      "object": "sources.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "votes.json",
+      "reason": "items 0; no invented yeas"
+    },
+    {
+      "object": "meta.json",
+      "reason": "incomplete true; map-only seed; sitting 0"
+    }
+  ],
+  "retrieved": "2026-08-29",
+  "source": "vendor/kept/kits/th"
+}

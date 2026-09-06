@@ -1,0 +1,33 @@
+{
+  "iso2": "mw",
+  "name": "Malawi",
+  "region": "",
+  "chamber": "National Assembly",
+  "houses": "",
+  "system": "",
+  "seats": 297,
+  "election": "",
+  "session": "",
+  "kit": "map",
+  "lang": [
+    "en"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 297,
+    "sitting": 297,
+    "votes": 0,
+    "committees": 0,
+    "key_votes": 0,
+    "sourced_quotes": 0
+  },
+  "capabilities": [
+    "members"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "lpin-wikidata-fill",
+  "source_live": null,
+  "note": "Wikidata sitting pull 2026-09-06. 314 named. Vacancies not invented.",
+  "roster_source": "https://www.wikidata.org/wiki/Q1577811"
+}

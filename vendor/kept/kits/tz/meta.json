@@ -1,0 +1,32 @@
+{
+  "iso2": "tz",
+  "name": "Tanzania",
+  "region": "africa",
+  "chamber": "National Assembly",
+  "houses": "",
+  "system": "",
+  "seats": 0,
+  "election": "",
+  "session": "",
+  "kit": "map",
+  "lang": [
+    "en",
+    "sw"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 0,
+    "sitting": 0,
+    "votes": 0,
+    "committees": 0,
+    "sourced_quotes": 0,
+    "pledges": 0
+  },
+  "basis": "Evidence",
+  "incomplete": true,
+  "named_donors": false,
+  "lane": "gold-kit-8103",
+  "source_live": null,
+  "roster_source": "https://www.parliament.go.tz/",
+  "note": "BATCH 1 map-only seed 2026-08-21. Sitting 0 honest. Template empties copied (filers/lobby/orgs + missing catalog). No invented roster, pledges, or yeas. No leftover harvest."
+}

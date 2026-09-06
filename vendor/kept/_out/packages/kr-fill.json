@@ -1,0 +1,201 @@
+{
+  "iso2": "kr",
+  "wave": "WAVE-FILL-KR",
+  "hole_type": "ingest-drop",
+  "retrieved": "2026-08-29",
+  "source": "vendor/kept/kits/kr",
+  "read_only": [
+    "vendor/kept/kits/kr/sources.json",
+    "vendor/kept/kits/kr/pledges.json",
+    "vendor/kept/kits/kr/votes.json",
+    "vendor/kept/kits/kr/members.json",
+    "vendor/kept/kits/kr/gap.json",
+    "vendor/kept/kits/kr/meta.json",
+    "vendor/kept/kits/kr/ethics.json",
+    "vendor/kept/kits/kr/money.json",
+    "vendor/kept/kits/kr/institutional.json",
+    "vendor/kept/kits/kr/issues.json"
+  ],
+  "did_not_rewrite": [
+    "vendor/kept/kits/kr",
+    "votes.json",
+    "members.json",
+    "src/",
+    "packages/kr.json",
+    "packages/kr-permit.json",
+    "packages/_index.json",
+    "packages/us-fill.json",
+    "packages/ca-fill.json"
+  ],
+  "counts": {
+    "sources_items": 147,
+    "pledges_items": 477,
+    "pledges_with_sourceUrl": 477,
+    "pledges_without_sourceUrl": 0,
+    "pledge_sourceUrl_exact_in_sources": 168,
+    "votes_items": 1201,
+    "votes_with_source_url": 1201,
+    "votes_without_source_url": 0,
+    "vote_source_urls_exact_in_sources": 4,
+    "ethics_items": 19,
+    "ethics_with_http_source_url": 19,
+    "ethics_missing_http": 0,
+    "money_has_https_source_url": false,
+    "member_site_source_urls": 119,
+    "member_site_source_urls_not_on_pledge_or_vote": 4
+  },
+  "log": [
+    {
+      "hole": "dongtanman.kr never became a pledge row (Lee Jun-seok already has tax and elections from /members/22nd/LEEJUNSEOK)",
+      "url": "https://dongtanman.kr",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Leftover member homepage. Existing pledges already carry https assembly-profile URLs. Attaching the homepage would mint a pledge. Do not swap a working URL. Incomplete beats fake-complete."
+    },
+    {
+      "hole": "googletagmanager gtag URL labeled member homepage never became a pledge row (Ahn Cheol-soo already has tax and health from /members/22nd/AHNCHEOLSOO)",
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-8FY090CL6Y",
+      "action": "left",
+      "evidence": "Unproven",
+      "reason": "sources.note calls this Ahn Cheol-soo homepage; it is a tracker, not an original-record pledge page. Existing pledges already have https. Did not recrawl. Would mint a pledge."
+    },
+    {
+      "hole": "yonghyein.kr (no trailing slash) is not exact-in the existing Yong Hye-in homepage citation",
+      "url": "https://yonghyein.kr",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Pledge kr-p-yong-hye-in-labor-oversight already cites https://yonghyein.kr/. Same homepage; exact-string leftover in sources.json. Citation already has https. Do not swap a working URL."
+    },
+    {
+      "hole": "assembly.go.kr/members/22nd/WOOWONSHIK never became a pledge row (Woo Won-shik, 0 pledges)",
+      "url": "https://www.assembly.go.kr/members/22nd/WOOWONSHIK",
+      "action": "left",
+      "evidence": "Unproven",
+      "reason": "Leftover assembly profile in sources.json. pledges.note: 25 sitting cache-mined 0 first-person https (hunt-stop). Did not recrawl. Restoring would mint a pledge. Incomplete beats fake-complete."
+    },
+    {
+      "hole": "No existing pledge, vote, ethics, or money citation is missing an http(s) URL",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "pledges.json 477/477 have sourceUrl https. votes.json 1201/1201 have source_url https. ethics.json 19/19 have source_url https. money.json has no source_url field. Nothing to restore onto a public citation. Ingest-drop restore requires a dropped URL the kit already has."
+    },
+    {
+      "hole": "1197 vote clerk per-bill URLs are not exact-in sources.json; sources holds vote indexes and APIs",
+      "url": "https://www.assembly.go.kr/portal/cnts/cntsCont/dataB.do?menuNo=600232&cntsDivCd=BILL",
+      "also": [
+        "https://www.assembly.go.kr/portal/cnts/cntsCont/dataB.do?menuNo=600232&cntsDivCd=BILL&fromAge=22&toAge=22",
+        "https://www.assembly.go.kr/portal/cnts/cntsBill/findBpmBillVoteDtl.json",
+        "https://www.assembly.go.kr/portal/cnts/cntsBill/findBpmBillVote.json",
+        "https://open.assembly.go.kr/",
+        "https://open.assembly.go.kr/portal/openapi/ncvotrrgsttus?AGE=22&Type=json&pIndex=1&pSize=100",
+        "https://record.assembly.go.kr/"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "All 1201 votes already carry https clerk/likms pages. 4 likms martial-law/impeachment URLs are exact-in sources. Remaining clerk URLs are indexes/APIs (의안현황, findBpmBillVote, findBpmBillVoteDtl, empty open.assembly sibling, minutes root). Index/companion; do not swap a working URL. Do not mint floor rows. votes.note: unmapped leftover 506 not invented onto the packed 10 issues."
+    },
+    {
+      "hole": "assembly.go.kr/members/ index in sources.json is not a pledge or vote row",
+      "url": "https://www.assembly.go.kr/members/",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Index of 22nd member pages. 115 named /members/22nd/ URLs from sources are already on pledges. Companion index, not a dropped original-record URL."
+    },
+    {
+      "hole": "findRepPrpsBill.json API in sources.json never became a pledge row",
+      "url": "https://www.assembly.go.kr/portal/assm/assmPrpl/findRepPrpsBill.json",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "대표발의 API companion. Pledges already cite member-page https URLs. Index/companion; do not mint pledges."
+    },
+    {
+      "hole": "Gazette index, gwanbo.go.kr, and github opengirok asset-disclosure URLs in sources.json are not ethics citation gaps",
+      "url": "https://www.assembly.go.kr/portal/cnts/cntsCont/dataA.do?cntsDivCd=NAMGZN",
+      "also": [
+        "https://gwanbo.go.kr/",
+        "https://github.com/opengirok/congress_asset_disclosure"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "19 ethics rows already have https (law.go.kr Public Officials Ethics Act, gazette CPR, cfoi.or.kr). Remaining gazette/gwanbo/github URLs are companions. ethics.note: categories only; no per-member invented amounts. Do not name private donors. Do not swap a working URL."
+    },
+    {
+      "hole": "elaw National Assembly Act Art. 37 URL in sources.json is not a committee/pledge/vote citation gap",
+      "url": "https://elaw.klri.re.kr/eng_service/lawView.do?hseq=25732",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "committees.json 19 rows have no source_url (origin reconstructed). Statute companion, not a dropped original-record URL on an existing pledge/vote/ethics/money citation. Do not mint AHJs."
+    },
+    {
+      "hole": "Chamber root, korea.assembly.go.kr, peti.go.kr, and Wikipedia National Assembly URLs in sources.json never became pledge or vote rows",
+      "url": "https://www.assembly.go.kr/",
+      "also": [
+        "https://korea.assembly.go.kr/",
+        "https://www.peti.go.kr/",
+        "https://en.wikipedia.org/wiki/National_Assembly_(South_Korea)"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Chamber/petitions/wiki companions. All 302 members already have https roster_url to the 2024–2028 wiki list. Not dropped original-record URLs on scoring citations."
+    },
+    {
+      "hole": "keptsk.grok.me sibling URLs in sources.json never became pledge or vote rows",
+      "url": "https://keptsk.grok.me",
+      "also": [
+        "https://keptsk.grok.me/committees",
+        "https://keptsk.grok.me/money",
+        "https://keptsk.grok.me/issues"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Live sibling (meta.source_live). Indexes/live sibling, not dropped original-record URLs on existing citations."
+    },
+    {
+      "hole": "institutional.json items 0",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Empty kit (institutional_kits = 0 claimed). Not an ingest drop. Do not mint rows."
+    },
+    {
+      "hole": "gap.json items 0 after 3040-pair exam",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Honest empty after dual-source exam (gap.note). Not a lost kit URL."
+    },
+    {
+      "hole": "members.json 9 wiki-artifact / vacant sitting ids; 302 sitting claimed",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Sitting-name roster hole, not ingest-drop. pledges.note: 9 roster artifacts (vacant / wiki ko-ref ids) not hunted. All 302 rows already have https roster_url. Do not mint sitting names."
+    },
+    {
+      "hole": "money.json named_donors false; no source_url field",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "money.note: names not published (3M KRW disclosure floor; full list not collected). No original-record donor URL sits on a citation missing http(s). Did not name private donors. Sibling /money is not an original record."
+    }
+  ],
+  "summary": {
+    "restored": 0,
+    "left": 16,
+    "evidence": {
+      "Supported": 14,
+      "Unproven": 2,
+      "Disputed": 0,
+      "Human decision": 0
+    }
+  },
+  "notes": [
+    "One hole type: ingest-drop. Restore a URL the kit already has in sources, or leave the hole.",
+    "No existing scoring citation lost a kit URL. All 477 pledges, 1201 votes, and 19 ethics rows already carry http(s).",
+    "168 of 477 pledge sourceUrl values are exact-in sources.json. Zero pledges missing http(s). One slash-variant leftover (yonghyein.kr vs yonghyein.kr/) left; citation already has https.",
+    "4 member-site URLs sit in sources.json and never became exact pledge or vote rows (dongtanman.kr, GTM tracker, yonghyein.kr no-slash, Woo Won-shik profile). Left. Do not mint pledges.",
+    "pledges.note: leftover personal pages skipped unless first-person https; 25 sitting cache-mined 0 first-person https (hunt-stop). Did not recrawl Woo or Ahn GTM. Incomplete vs 302 sitting is honest.",
+    "vote_source_urls_exact_in_sources is 4 because sources holds 4 named likms bills plus clerk indexes, while 1197 votes cite per-bill clerk pages. Not a drop: citations already have https.",
+    "Did not invent pledges, sitting names, fees, AHJs. Did not name private donors.",
+    "institutional.json items 0 is an empty kit, not an ingest drop.",
+    "gap.json items 0 after 3040-pair exam is honest empty, not an ingest drop.",
+    "9 wiki-artifact / vacant member ids are incomplete roster coverage, not a lost kit URL.",
+    "money named_donors false is a disclosure-floor hole, not a dropped original-record URL."
+  ]
+}

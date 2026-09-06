@@ -1,0 +1,100 @@
+{
+  "iso2": "in",
+  "kit_on_disk": true,
+  "objects": {
+    "committees.json": {
+      "state": "filled",
+      "count": 64
+    },
+    "ethics.json": {
+      "state": "filled",
+      "count": 31
+    },
+    "gap.json": {
+      "state": "seeded",
+      "count": 0
+    },
+    "institutional.json": {
+      "state": "empty",
+      "count": 0
+    },
+    "issues.json": {
+      "state": "filled",
+      "count": 24
+    },
+    "members.json": {
+      "state": "filled",
+      "count": 540
+    },
+    "meta.json": {
+      "state": "filled",
+      "count": 23
+    },
+    "money.json": {
+      "state": "filled",
+      "count": 12
+    },
+    "parties.json": {
+      "state": "filled",
+      "count": 41
+    },
+    "pledges.json": {
+      "state": "filled",
+      "count": 21
+    },
+    "sources.json": {
+      "state": "filled",
+      "count": 81
+    },
+    "votes.json": {
+      "state": "filled",
+      "count": 66
+    }
+  },
+  "capital": {
+    "name": "New Delhi",
+    "lat": 28.600023,
+    "lon": 77.19998,
+    "kind": "capital"
+  },
+  "holes": [
+    {
+      "object": "committees.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "ethics.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "gap.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "institutional.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "members.json",
+      "reason": "items 540 claimed_seats 543; vacancies not padded"
+    },
+    {
+      "object": "money.json",
+      "reason": "incomplete true; named_donors false"
+    },
+    {
+      "object": "pledges.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "votes.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "meta.json",
+      "reason": "incomplete true"
+    }
+  ],
+  "retrieved": "2026-08-29",
+  "source": "vendor/kept/kits/in"
+}

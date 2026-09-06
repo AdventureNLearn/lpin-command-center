@@ -1,0 +1,31 @@
+{
+  "iso2": "tr",
+  "source": "src/lib/permit/",
+  "retrieved": "2026-08-29",
+  "lock_date": "2026-08-18",
+  "counts": {
+    "core": 0,
+    "extra": 0,
+    "more": 0,
+    "rest": 0
+  },
+  "factory_urls_verified": false,
+  "paths": [
+    "src/lib/permit/places.ts",
+    "src/lib/permit/places-extra.ts",
+    "src/lib/permit/places-more.ts",
+    "src/lib/permit/places-rest.ts"
+  ],
+  "holes": [
+    {
+      "object": "src/lib/permit/",
+      "reason": "US AHJ catalog has no Turkey AHJs. No Turkish permit rows invented."
+    }
+  ],
+  "notes": [
+    "Turkey-only filter: iso2 TR or Turkey (country) / Türkiye. TR is Turkey, not a US state. US place Turkey, TX (tx-turkey) excluded. Zero matches. Rest is a count, not a map; contents not copied.",
+    "factory URLs not verified.",
+    "fees omitted (unsourced).",
+    "No pin list. No GeoJSON."
+  ]
+}

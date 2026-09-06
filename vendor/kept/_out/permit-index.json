@@ -1,0 +1,33 @@
+{
+  "wave": 3,
+  "owner": "permit-index",
+  "written_at": "2026-08-29T10:46:26-04:00",
+  "lock_date": "2026-08-18",
+  "counts": {
+    "core": 79,
+    "extra": 462,
+    "more": 699,
+    "rest": 14925
+  },
+  "catalog_paths": [
+    "C:\\AOS\\ops\\local-reason-bridge\\sandbox\\work\\groks-eye-view-next\\src\\lib\\permit\\places.ts",
+    "C:\\AOS\\ops\\local-reason-bridge\\sandbox\\work\\groks-eye-view-next\\src\\lib\\permit\\places-extra.ts",
+    "C:\\AOS\\ops\\local-reason-bridge\\sandbox\\work\\groks-eye-view-next\\src\\lib\\permit\\places-more.ts",
+    "C:\\AOS\\ops\\local-reason-bridge\\sandbox\\work\\groks-eye-view-next\\src\\lib\\permit\\places-rest.ts"
+  ],
+  "honesty": {
+    "factory_urls_verified": false,
+    "fees_invented": false,
+    "rest_is_count_not_map": true,
+    "counted_from_disk": true,
+    "notes": [
+      "core=CORE_PLACES in places.ts (no places-core.ts); 79 unique ids via kind city|county|district",
+      "extra=EXTRA_PLACES p(\"id\") calls=462 unique; more=MORE_PLACES p(\"id\") calls=699 unique",
+      "rest=REST_PLACES p(\"id\") calls=14925 unique; count only, contents not copied, no pin/GeoJSON map",
+      "factory URLs NOT verified; do not treat portalUrl/departmentUrl as live",
+      "fees not present as counted catalog numbers; no fee amounts included",
+      "lock_date 2026-08-18 is catalog file LastWriteTime date on disk; no lock-date comment string in files",
+      "counted records (unique place ids), not lines"
+    ]
+  }
+}

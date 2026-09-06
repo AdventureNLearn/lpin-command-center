@@ -1,0 +1,11 @@
+{
+  "iso2": "it",
+  "named_donors": false,
+  "buckets": [],
+  "unit": null,
+  "sitting_total_reconstructed": null,
+  "incomplete": true,
+  "source_url": "https://dati.camera.it/sparql",
+  "note": "No sitting-only Camera occupation aggregate after examination of dati.camera.it SPARQL dc:description and camera.it pages. dati.camera.it SPARQL sitting XIX (MINUS ocd:endDate) HTTP 200 people=399 (Camera seats 400); all-XIX people=414. dc:description nonempty=387 unique_exact=319 unique_occupation_tails=203 tail_ge2=37 empty=12 education-only=31. Occupation countability: free-text-bio-not-aggregate exact=319 exact_ge2=27 tails=201 tail_ge2=37 empty=12 eduOnly=31. No SPARQL professione/occupazione coded predicate on ocd:deputato XIX (dc:description only). Most frequent occupation tails (not stored as buckets unless countable): Avvocato 29; Imprenditore 19; Libero professionista 12; Parlamentare 11; Giornalista professionista 9; Dipendente pubblico 8; Avvocato civilista 7; Avvocato penalista 7. Camera member schede (leg19/1431) and dichiarazione di cariche e professioni name sitting members; they are ethics-lane, not a sitting-only occupation statistical table. Dichiarazione patrimoniale (leg19/1269) names are not euro buckets. Camera / Parlamento art.5 erogazioni (parlamento.it/1055 HTTP 200) lists private contributors above €5,000 and were not collected. Commissione di garanzia rendiconti (leg19/1234 HTTP 200) are per-party accounts, not a sitting-Camera occupation or unnamed source-type table. Doc. VIII Camera bilancio Cap. 1150 gruppi: consuntivo PDF parse=cap-1150-single-line-not-per-group; progetto parse=cap-1150-single-line-not-per-group. Per-group subsidy table not extracted; euro totals not invented. ANAC HTTP 200; Camera home HTTP 200. MEF 2x1000 IRPEF is outside Camera/dati.camera.it and was not copied. Named private donors not collected. No euro invented from Camera dichiarazione patrimoniale names. Occupation / public-finance buckets left empty.",
+  "retrieved": "2026-08-20"
+}

@@ -1,0 +1,33 @@
+{
+  "iso2": "ma",
+  "name": "Morocco",
+  "region": "",
+  "chamber": "Parliament of Morocco",
+  "houses": "",
+  "system": "",
+  "seats": 362,
+  "election": "",
+  "session": "",
+  "kit": "map",
+  "lang": [
+    "en"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 362,
+    "sitting": 362,
+    "votes": 0,
+    "committees": 0,
+    "key_votes": 0,
+    "sourced_quotes": 0
+  },
+  "capabilities": [
+    "members"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "lpin-wikidata-fill",
+  "source_live": null,
+  "note": "Wikidata sitting pull 2026-09-06. 362 named. Vacancies not invented.",
+  "roster_source": "https://www.wikidata.org/wiki/Q3004884"
+}

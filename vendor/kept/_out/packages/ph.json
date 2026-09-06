@@ -1,0 +1,104 @@
+{
+  "iso2": "ph",
+  "kit_on_disk": true,
+  "objects": {
+    "committees.json": {
+      "state": "filled",
+      "count": 85
+    },
+    "ethics.json": {
+      "state": "filled",
+      "count": 32
+    },
+    "gap.json": {
+      "state": "seeded",
+      "count": 0
+    },
+    "institutional.json": {
+      "state": "empty",
+      "count": 0
+    },
+    "issues.json": {
+      "state": "filled",
+      "count": 18
+    },
+    "members.json": {
+      "state": "filled",
+      "count": 317
+    },
+    "meta.json": {
+      "state": "filled",
+      "count": 22
+    },
+    "money.json": {
+      "state": "seeded",
+      "count": 0
+    },
+    "parties.json": {
+      "state": "filled",
+      "count": 72
+    },
+    "pledges.json": {
+      "state": "filled",
+      "count": 12
+    },
+    "sources.json": {
+      "state": "filled",
+      "count": 82
+    },
+    "votes.json": {
+      "state": "filled",
+      "count": 67
+    }
+  },
+  "capital": {
+    "name": "Manila",
+    "lat": 14.606105,
+    "lon": 120.980271,
+    "kind": "capital"
+  },
+  "holes": [
+    {
+      "object": "committees.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "ethics.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "gap.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "institutional.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "members.json",
+      "reason": "items 317 claimed_seats 316"
+    },
+    {
+      "object": "money.json",
+      "reason": "buckets 0; sitting_total_reconstructed null"
+    },
+    {
+      "object": "parties.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "pledges.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "votes.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "meta.json",
+      "reason": "incomplete true"
+    }
+  ],
+  "retrieved": "2026-08-29",
+  "source": "vendor/kept/kits/ph"
+}

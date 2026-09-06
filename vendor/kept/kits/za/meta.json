@@ -1,0 +1,50 @@
+{
+  "iso2": "za",
+  "name": "South Africa",
+  "region": "africa",
+  "chamber": "National Assembly",
+  "houses": "bicameral",
+  "system": "parliamentary",
+  "seats": 400,
+  "election": "competitive",
+  "session": "7th Parliament",
+  "kit": "scoring",
+  "lang": [
+    "en"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 398,
+    "sitting": 398,
+    "pledged": 15,
+    "pledges": 17,
+    "votes": 57,
+    "named_votes": 0,
+    "committees": 46,
+    "ethics": 23,
+    "money": 0,
+    "gap": 0,
+    "key_votes": 57,
+    "sourced_quotes": 17
+  },
+  "capabilities": [
+    "members",
+    "pledges",
+    "votes",
+    "issues",
+    "gap",
+    "caucus",
+    "committees",
+    "ethics",
+    "money",
+    "method"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "gold-kit-8103",
+  "source_live": null,
+  "note": "Committees 46 packed from parliament.gov.za chairs + PMG NA list. Votes 57 7th-Parliament floor/assent results without member yeas (AYES unpublished). Pledges 17 / 15 sitting members — hunt-stop after examination. Ethics 23 public Register/Code categories; no rand. Money honest empty. Gap 0. Honest incomplete.",
+  "roster_source": "https://pmg.org.za/page/National%20Assembly%20Members",
+  "honest_complete": true,
+  "named_donors": false
+}

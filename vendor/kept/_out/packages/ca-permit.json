@@ -1,0 +1,31 @@
+{
+  "iso2": "ca",
+  "source": "src/lib/permit/",
+  "retrieved": "2026-08-29",
+  "lock_date": "2026-08-18",
+  "counts": {
+    "core": 0,
+    "extra": 0,
+    "more": 0,
+    "rest": 0
+  },
+  "factory_urls_verified": false,
+  "paths": [
+    "src/lib/permit/places.ts",
+    "src/lib/permit/places-extra.ts",
+    "src/lib/permit/places-more.ts",
+    "src/lib/permit/places-rest.ts"
+  ],
+  "holes": [
+    {
+      "object": "src/lib/permit/",
+      "reason": "catalog is US AHJs; Canada-only core/extra/more/rest = 0. state CA in catalog is California. Rest is a count, not a map; contents not copied."
+    }
+  ],
+  "notes": [
+    "Canada-only filter: province codes AB BC MB NB NL NS NT NU ON PE QC SK YT, plus country CA. Zero matches. US state CA excluded.",
+    "factory URLs not verified.",
+    "fees omitted (unsourced).",
+    "No pin list. No GeoJSON."
+  ]
+}

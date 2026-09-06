@@ -1,0 +1,45 @@
+{
+  "iso2": "de",
+  "name": "Germany",
+  "region": "europe",
+  "chamber": "Bundestag",
+  "houses": "",
+  "system": "",
+  "seats": 630,
+  "election": "",
+  "session": "21. Wahlperiode (2025–)",
+  "kit": "map",
+  "lang": [
+    "en",
+    "de"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 630,
+    "sitting": 630,
+    "votes": 479,
+    "committees": 46,
+    "key_votes": 479,
+    "sourced_quotes": 86
+  },
+  "capabilities": [
+    "members",
+    "pledges",
+    "votes",
+    "issues",
+    "gap",
+    "caucus",
+    "committees",
+    "ethics",
+    "money",
+    "method"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "gold-kit-8103",
+  "source_live": null,
+  "note": "DE leftover QA merge 2026-08-21. Sit 630. Pledges 86 personal https (76 prior + 10 leftover owner-matched). votes.json not rewritten (479/479 named). gap.json.tmp skipped. No rematch. No NL.",
+  "roster_source": "https://www.wikidata.org/wiki/Q1939555",
+  "honest_complete": true,
+  "named_donors": false
+}

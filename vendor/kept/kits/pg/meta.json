@@ -1,0 +1,33 @@
+{
+  "iso2": "pg",
+  "name": "Papua New Guinea",
+  "region": "",
+  "chamber": "National Parliament of Papua New Guinea",
+  "houses": "",
+  "system": "",
+  "seats": 50,
+  "election": "",
+  "session": "",
+  "kit": "map",
+  "lang": [
+    "en"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 50,
+    "sitting": 50,
+    "votes": 0,
+    "committees": 0,
+    "key_votes": 0,
+    "sourced_quotes": 0
+  },
+  "capabilities": [
+    "members"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "lpin-wikidata-fill",
+  "source_live": null,
+  "note": "Wikidata sitting pull 2026-09-06. 51 named. Vacancies not invented.",
+  "roster_source": "https://www.wikidata.org/wiki/Q24563"
+}

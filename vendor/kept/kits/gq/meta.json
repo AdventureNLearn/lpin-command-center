@@ -1,0 +1,33 @@
+{
+  "iso2": "gq",
+  "name": "Equatorial Guinea",
+  "region": "",
+  "chamber": "Parliament of Equatorial Guinea",
+  "houses": "",
+  "system": "",
+  "seats": 301,
+  "election": "",
+  "session": "",
+  "kit": "map",
+  "lang": [
+    "en"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 301,
+    "sitting": 301,
+    "votes": 0,
+    "committees": 0,
+    "key_votes": 0,
+    "sourced_quotes": 0
+  },
+  "capabilities": [
+    "members"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "lpin-wikidata-fill",
+  "source_live": null,
+  "note": "Wikidata sitting pull 2026-09-06. 348 named. Vacancies not invented.",
+  "roster_source": "https://www.wikidata.org/wiki/Q16878152"
+}

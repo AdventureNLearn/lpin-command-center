@@ -1,0 +1,92 @@
+{
+  "iso2": "br",
+  "kit_on_disk": true,
+  "objects": {
+    "committees.json": {
+      "state": "filled",
+      "count": 30
+    },
+    "ethics.json": {
+      "state": "filled",
+      "count": 28
+    },
+    "gap.json": {
+      "state": "seeded",
+      "count": 0
+    },
+    "institutional.json": {
+      "state": "empty",
+      "count": 0
+    },
+    "issues.json": {
+      "state": "filled",
+      "count": 38
+    },
+    "members.json": {
+      "state": "filled",
+      "count": 513
+    },
+    "meta.json": {
+      "state": "filled",
+      "count": 21
+    },
+    "money.json": {
+      "state": "filled",
+      "count": 80
+    },
+    "parties.json": {
+      "state": "filled",
+      "count": 22
+    },
+    "pledges.json": {
+      "state": "filled",
+      "count": 185
+    },
+    "sources.json": {
+      "state": "filled",
+      "count": 149
+    },
+    "votes.json": {
+      "state": "filled",
+      "count": 41700
+    }
+  },
+  "capital": {
+    "name": "Brasília",
+    "lat": -15.781394,
+    "lon": -47.917998,
+    "kind": "capital"
+  },
+  "holes": [
+    {
+      "object": "ethics.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "gap.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "institutional.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "money.json",
+      "reason": "incomplete true; named_donors false"
+    },
+    {
+      "object": "pledges.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "votes.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "meta.json",
+      "reason": "incomplete true"
+    }
+  ],
+  "retrieved": "2026-08-29",
+  "source": "vendor/kept/kits/br"
+}

@@ -1,0 +1,21 @@
+{
+  "iso2": "ke",
+  "incomplete": true,
+  "note": "Personal sourced sentences + https URL from sitting National Assembly Hansard / member pages (parliament.go.ke permalinks). Official MP pages are biodata (cached profiles; first-person civic sentences not present). Examined 272 cached Hansard/V&P texts (10,497 matched sitting speeches) including leftover July–August 2026 sittings. Extra first-person hits were floor procedure, “I associate myself”, constituency maiden lines, tribute, or party ticket — not civic commitments. Party manifesto skipped. Existing 1 kept. Not a full roster. Honest incomplete.",
+  "source_url": "https://www.parliament.go.ke/the-national-assembly/house-business/hansard",
+  "retrieved": "2026-08-21",
+  "scanned_docs": 272,
+  "matched_speeches": 10497,
+  "items": [
+    {
+      "id": "ke-p-beatrice-adagala-health",
+      "member_id": "beatrice-adagala",
+      "issue_id": "health",
+      "sentence": "Therefore, as a mother, I will not allow bhang to be peddled.",
+      "sourceUrl": "https://www.parliament.go.ke/sites/default/files/2026-06/The%20Hansard%20-%20Wednesday%2C%2010%20June%202026%20%28P%29.pdf",
+      "date": "2026-06-10",
+      "term": "13th (2022–)",
+      "lang": "en"
+    }
+  ]
+}

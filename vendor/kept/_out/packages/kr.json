@@ -1,0 +1,96 @@
+{
+  "iso2": "kr",
+  "kit_on_disk": true,
+  "objects": {
+    "committees.json": {
+      "state": "filled",
+      "count": 19
+    },
+    "ethics.json": {
+      "state": "filled",
+      "count": 19
+    },
+    "gap.json": {
+      "state": "seeded",
+      "count": 0
+    },
+    "institutional.json": {
+      "state": "empty",
+      "count": 0
+    },
+    "issues.json": {
+      "state": "filled",
+      "count": 10
+    },
+    "members.json": {
+      "state": "filled",
+      "count": 302
+    },
+    "meta.json": {
+      "state": "filled",
+      "count": 21
+    },
+    "money.json": {
+      "state": "filled",
+      "count": 6
+    },
+    "parties.json": {
+      "state": "filled",
+      "count": 9
+    },
+    "pledges.json": {
+      "state": "filled",
+      "count": 477
+    },
+    "sources.json": {
+      "state": "filled",
+      "count": 147
+    },
+    "votes.json": {
+      "state": "filled",
+      "count": 1201
+    }
+  },
+  "capital": {
+    "name": "Seoul",
+    "lat": 37.568295,
+    "lon": 126.997785,
+    "kind": "capital"
+  },
+  "holes": [
+    {
+      "object": "committees.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "ethics.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "gap.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "institutional.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "money.json",
+      "reason": "named_donors false"
+    },
+    {
+      "object": "pledges.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "votes.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "meta.json",
+      "reason": "incomplete true"
+    }
+  ],
+  "retrieved": "2026-08-29",
+  "source": "vendor/kept/kits/kr"
+}

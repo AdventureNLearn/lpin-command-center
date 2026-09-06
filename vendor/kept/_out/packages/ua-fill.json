@@ -1,0 +1,215 @@
+{
+  "iso2": "ua",
+  "wave": "WAVE-FILL-UA",
+  "hole_type": "ingest-drop",
+  "retrieved": "2026-08-29",
+  "source": "vendor/kept/kits/ua",
+  "read_only": [
+    "vendor/kept/kits/ua/sources.json",
+    "vendor/kept/kits/ua/pledges.json",
+    "vendor/kept/kits/ua/votes.json",
+    "vendor/kept/kits/ua/members.json",
+    "vendor/kept/kits/ua/gap.json",
+    "vendor/kept/kits/ua/meta.json",
+    "vendor/kept/kits/ua/ethics.json",
+    "vendor/kept/kits/ua/money.json",
+    "vendor/kept/kits/ua/institutional.json",
+    "vendor/kept/kits/ua/issues.json"
+  ],
+  "did_not_rewrite": [
+    "vendor/kept/kits/ua",
+    "votes.json",
+    "members.json",
+    "src/",
+    "packages/ua.json",
+    "packages/ua-permit.json",
+    "packages/_index.json",
+    "packages/us-fill.json",
+    "packages/ca-fill.json",
+    "packages/kr-fill.json",
+    "packages/gb-fill.json",
+    "packages/de-fill.json",
+    "packages/br-fill.json"
+  ],
+  "counts": {
+    "sources_items": 28,
+    "pledges_items": 304,
+    "pledges_with_sourceUrl": 304,
+    "pledges_without_sourceUrl": 0,
+    "pledge_sourceUrl_exact_in_sources": 0,
+    "votes_items": 22367,
+    "votes_with_source_url": 22367,
+    "votes_without_source_url": 0,
+    "vote_source_urls_exact_in_sources": 0,
+    "ethics_items": 2464,
+    "ethics_with_http_source_url": 2464,
+    "ethics_missing_http": 0,
+    "money_has_https_source_url": true,
+    "member_site_source_urls": 0,
+    "member_site_source_urls_not_on_pledge_or_vote": 0
+  },
+  "log": [
+    {
+      "hole": "No member-site URLs sit in sources.json",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "All 28 sources.json URLs are rada.gov.ua, cvk.gov.ua, or nazk.gov.ua clerk/CEC/NACP pages. Zero personal member-sites. Nothing unused to attach onto a citation missing http(s). Restoring a member-site would mint a pledge. Did not recrawl."
+    },
+    {
+      "hole": "cvk.gov.ua root leftover never became a pledge row",
+      "url": "https://www.cvk.gov.ua/",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "CEC/CVK root sits in sources.json unused by pledge or vote items. pledges.source_url already has https https://www.cvk.gov.ua/pls/vnd2019/wp401pt001f01=919.html exact-in sources. Index/companion leftover, not a dropped URL on a citation missing http(s). Restoring would mint pledges. Do not mint pledges."
+    },
+    {
+      "hole": "No existing pledge, vote, ethics, or money citation is missing an http(s) URL",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "pledges.json 304/304 have sourceUrl https (0 exact-in sources; 126 unique CEC showdoc .doc URLs). votes.json 22367/22367 have source_url https. ethics.json 2464/2464 have source_url https. money.source_url is https NACP order 2/26 exact-in sources. Nothing to restore onto a public citation. Ingest-drop restore requires a dropped URL the kit already has."
+    },
+    {
+      "hole": "304 pledge CEC showdoc URLs are not exact-in sources.json; sources holds the 2019 single-mandate index",
+      "url": "https://www.cvk.gov.ua/pls/vnd2019/wp401pt001f01=919.html",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "All 304 pledges already carry https www.cvk.gov.ua/pls/vnd2019/showdocpf7201=*.doc (126 unique). sources holds the wp401 candidate-list index (pledges.source_url, exact-in) and cvk.gov.ua root. Index/companion; do not swap a working URL. pledges.note: party-list ticket programs skipped; same sentence on 3+ members dropped; municipality-local lines dropped. Did not mint pledges. Did not recrawl leftover CEC docs."
+    },
+    {
+      "hole": "22367 vote clerk per-event URLs are not exact-in sources.json; sources holds vote indexes",
+      "url": "https://w1.c1.rada.gov.ua/pls/radan_gs09/ns_h1",
+      "also": [
+        "https://meeting.rada.gov.ua/work/vote/en/voting/skl9"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "All 22367 votes already carry https w1.c1.rada.gov.ua/pls/radan_gs09/ns_golos?g_id=. sources holds the radan_gs09 ns_h1 list (unused as item URL) and meeting.rada.gov.ua skl9 portal. votes.source_url is https plenary_result_event-skl9.csv exact-in sources. Index/companion; do not swap a working URL. Do not mint floor rows. votes.note: leftover packed names 0; 274 Reiestratsiia empties unpublished in packed TSV."
+    },
+    {
+      "hole": "ns_h1 and meeting.rada.gov.ua vote portal indexes in sources.json are not vote citation gaps",
+      "url": "https://w1.c1.rada.gov.ua/pls/radan_gs09/ns_h1",
+      "also": [
+        "https://meeting.rada.gov.ua/work/vote/en/voting/skl9"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Clerk roll-call list and English meeting portal. Every vote row already has https ns_golos?g_id=. Companions, not dropped original-record URLs on a citation missing http(s). Do not invent yeas. Do not swap a working URL."
+    },
+    {
+      "hole": "6 leftover plenary CSV/TSV/open-data URLs in sources.json are harvest companions, not vote citation gaps",
+      "url": "https://data.rada.gov.ua/ogd/zal/ppz/skl9/plenary_agenda-skl9.csv",
+      "also": [
+        "https://data.rada.gov.ua/ogd/zal/ppz/skl9/plenary_event_question-skl9.csv",
+        "https://data.rada.gov.ua/ogd/zal/ppz/skl9/plenary_vote_results-skl9.tsv",
+        "https://data.rada.gov.ua/ogd/zal/ppz/skl9/plenary_deputies-skl9.csv",
+        "https://data.rada.gov.ua/open/data/en/plenary_result_event-skl9",
+        "https://data.rada.gov.ua/open/data/en/plenary_vote_results-skl9"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "votes.note: titles from plenary_result_event + agenda; yea/nay joined via plenary_vote_results packed rolls + plenary_deputies names. File-level votes.source_url is plenary_result_event-skl9.csv exact-in. These six leftover files/open-data pages never sat as vote item source_url. All 22367 vote rows already have https. Companions, not dropped original-record URLs on a citation missing http(s). Do not invent yeas. Do not swap a working URL."
+    },
+    {
+      "hole": "public.nazk.gov.ua/public_api leftover is not an ethics citation gap",
+      "url": "https://public.nazk.gov.ua/public_api",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "ethics.note: JSON API 403 from this host; HTML public register used. ethics.source_url is https public.nazk.gov.ua/ exact-in sources. 2464/2464 ethics rows already have https public.nazk.gov.ua/documents/{uuid}. Companion leftover, not a dropped original-record URL on a citation missing http(s). Do not swap a working URL. Do not name private donors. amount_band null on all rows."
+    },
+    {
+      "hole": "2464 ethics per-document URLs are not exact-in sources.json; sources holds the NACP register root",
+      "url": "https://public.nazk.gov.ua/",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "378 unique https public.nazk.gov.ua/documents/{uuid} already sit on ethics rows (2464/2464). sources holds the register root (ethics.source_url, exact-in), public_api, and documents/stats. Index/companion; do not swap a working URL. ethics.note: unmatched or hidden wartime rows skipped; no amounts; no private donor names."
+    },
+    {
+      "hole": "3 leftover NACP root/news/POLITDATA URLs in sources.json are not money citation gaps",
+      "url": "https://nazk.gov.ua/",
+      "also": [
+        "https://nazk.gov.ua/uk/novyny/rezultaty-diyalnosti-nazk-u-2025-rotsi-derzhavnyy-kontrol-u-sferi-finansuvannya-politychnyh-partiy",
+        "https://nazk.gov.ua/uk/novyny/nazk-zapustylo-onovlenu-versiyu-reestru-politdata-2-0/"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "money.source_url already has https NACP order 2/26 exact-in sources. monitoring_url, nacp_stats_url, and cvk_funds_url also https exact-in. money.note: CEC/CVK 2019 campaign-fund XML/PDF and NACP POLITDATA name private donors and were not collected. Companions, not dropped original-record URLs on a citation missing http(s). Did not name private donors. Did not mint fees."
+    },
+    {
+      "hole": "rada.gov.ua root and sitting-roster indexes in sources.json are not pledge or vote rows",
+      "url": "https://www.rada.gov.ua/",
+      "also": [
+        "https://people.rada.gov.ua/body/main/en/vr-mps",
+        "https://itd.rada.gov.ua/struct/en/Structure/MPs"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Chamber root and IX roster indexes. members.source_url already has https mps09-data.csv exact-in sources. members.json 392/392 sitting already carry https itd.rada.gov.ua/mps/info/page/{id} roster_url. Index/companion, not a dropped original-record URL. Do not mint sitting names."
+    },
+    {
+      "hole": "TheCommittees, vr-committees, and p_komitis indexes in sources.json are not committee/pledge/vote citation gaps",
+      "url": "https://itd.rada.gov.ua/struct/en/Structure/TheCommittees",
+      "also": [
+        "https://people.rada.gov.ua/body/main/en/vr-committees",
+        "https://w1.c1.rada.gov.ua/pls/site2/p_komitis"
+      ],
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "committees.json 36/36 already carry https people.rada.gov.ua cmt-*_skl9 pages (origin clerk). committees.posts_url is mp-posts_ids.csv exact-in sources. p_komitis is issues.source_url exact-in. committees.source_url AdHocandInterimPanels is not in sources.json; TheCommittees index is. Index/companion; do not swap a working URL. Do not mint AHJs. committees.note: subcommittees omitted; unmatched names dropped, not invented."
+    },
+    {
+      "hole": "institutional.json items 0",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Empty kit (institutional_kits = 0 claimed). Not an ingest drop. Do not mint rows."
+    },
+    {
+      "hole": "gap.json items 0 after 275575-pair exam",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Honest empty after dual-source exam (gap.note: 275575 same-issue pairs; 1092 with unambiguous polarity; 0 dual-sourced own-pledge break). Not a lost kit URL. Did not invent yeas."
+    },
+    {
+      "hole": "members.json 392 sitting of 450 statutory; 58 wartime vacant not padded",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Sitting-name roster is complete for currently sitting deputies (392/392 sitting, claimed_seats 450, all https roster_url). 58 vacancies are wartime, not a dropped kit URL. Not ingest-drop. Do not mint sitting names. All pledge/vote citations already carry http(s)."
+    },
+    {
+      "hole": "money.json named_donors false",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "money.note: CEC/CVK 2019 campaign-fund XML/PDF and NACP POLITDATA name private donors and were not collected. POLITDATA 2.0 news URL sits in sources.json as a companion; no original-record donor URL sits on a citation missing http(s). Did not name private donors. Statutory party-funding order already on money.source_url."
+    },
+    {
+      "hole": "meta.json incomplete true is honest-complete rollup, not a lost kit URL",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "meta.note: UA honest-complete Phase 2 stamp 2026-08-21 (sit 392/450 wartime vacant not padded; pledges 304 personal https / 125 sitting party-list skipped; votes 22367 named 22093 leftover packed 0 / 274 Reiestratsiia empties; money named_donors false; gap 0). Flag reflects leftover harvest, not a dropped original-record URL on a public citation missing http(s)."
+    }
+  ],
+  "summary": {
+    "restored": 0,
+    "left": 17,
+    "evidence": {
+      "Supported": 17,
+      "Unproven": 0,
+      "Disputed": 0,
+      "Human decision": 0
+    }
+  },
+  "notes": [
+    "One hole type: ingest-drop. Restore a URL the kit already has in sources, or leave the hole.",
+    "No existing scoring citation lost a kit URL. All 304 pledges, 22367 votes, 2464 ethics rows, and money.source_url already carry http(s).",
+    "0 of 304 pledge sourceUrl values are exact-in sources.json. Citations already have https CEC showdoc files; sources holds the wp401 index. Do not swap.",
+    "0 personal member-site URLs sit in sources.json. member_site_source_urls_not_on_pledge_or_vote is 0. Nothing to attach. Do not mint pledges.",
+    "pledges.note: CEC/CVK 2019 single-mandate programs only; party-list ticket skipped; same sentence on 3+ members dropped; municipality-local lines dropped; 58 vacancies not invented. Not a full 450-seat harvest. Did not recrawl leftover CEC docs.",
+    "vote_source_urls_exact_in_sources is 0 because sources holds ns_h1 / meeting portal / plenary CSV indexes while votes cite per-event ns_golos?g_id=. Not a drop: citations already have https. votes.source_url plenary_result_event-skl9.csv is exact-in.",
+    "Did not invent pledges, sitting names, fees, AHJs. Did not name private donors.",
+    "institutional.json items 0 is an empty kit, not an ingest drop.",
+    "gap.json items 0 after 275575-pair exam is honest empty, not an ingest drop.",
+    "members 392 sitting of 450 statutory with https roster_url is wartime-vacant honest roster, not a lost kit URL. Do not mint sitting names.",
+    "money named_donors false is a POLITDATA/CVK campaign-fund hole, not a dropped original-record URL.",
+    "members.sources lists https://data.rada.gov.ua/ogd/mps/skl9/mp-resignation.csv which is not in sources.json. Inverse of ingest-drop; roster citations already have https. Did not recrawl.",
+    "Did not recrawl. Did not fetch pages. Source of truth is the kit existing URL."
+  ]
+}

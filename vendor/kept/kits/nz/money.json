@@ -1,0 +1,64 @@
+{
+  "iso2": "nz",
+  "named_donors": false,
+  "unit": "NZD",
+  "sitting_total_reconstructed": 4145744,
+  "buckets": [
+    {
+      "label": "New Zealand Labour Party",
+      "amount": 1291992
+    },
+    {
+      "label": "The New Zealand National Party",
+      "amount": 1084061
+    },
+    {
+      "label": "ACT New Zealand",
+      "amount": 368548
+    },
+    {
+      "label": "The Greens, The Green Party of Aotearoa/New Zealand",
+      "amount": 368548
+    },
+    {
+      "label": "Te Pāti Māori",
+      "amount": 207930
+    },
+    {
+      "label": "New Zealand First Party",
+      "amount": 173483
+    },
+    {
+      "label": "New Conservatives",
+      "amount": 139450
+    },
+    {
+      "label": "The Opportunities Party (TOP)",
+      "amount": 139450
+    },
+    {
+      "label": "Freedoms New Zealand",
+      "amount": 95042
+    },
+    {
+      "label": "Aotearoa Legalise Cannabis Party",
+      "amount": 69310
+    },
+    {
+      "label": "DemocracyNZ",
+      "amount": 69310
+    },
+    {
+      "label": "NewZeal",
+      "amount": 69310
+    },
+    {
+      "label": "Animal Justice Party Aotearoa New Zealand",
+      "amount": 69310
+    }
+  ],
+  "incomplete": true,
+  "source_url": "https://elections.nz/assets/pagecomponent-file-files/Variation-of-Allocation-Decision-8-September-2023.pdf",
+  "note": "MERGE occupation / public-finance buckets only. Prior buckets 13 kept. data.govt.nz home HTTP 200 challenge; catalogue CKAN occupation search HTTP 0 Imperva/challenge — host stopped after first challenge family. CKAN relevant packs 0; resource follows 0. No sitting-only House of Representatives occupation aggregate after examination of data.govt.nz / Electoral Commission (seats 123). No additional HTML public-finance party/chamber subsidy table parsed. Electoral Commission PDF public-finance https://elections.nz/assets/pagecomponent-file-files/Variation-of-Allocation-Decision-8-September-2023.pdf (13 buckets; official total 4145744). Party donations exceeding $20,000 (HTTP 200) name private donors and were not collected. Annual donations-and-loans pages are not an occupation table; NZD was not invented from donor lists. parliament.nz one probe HTTP 200 Radware/challenge — host stopped; no further parliament.nz fetches. Pledges not looped. Named private donors not collected. Occupations not published as a sitting-only official aggregate on the probed Electoral Commission / data.govt.nz surfaces.",
+  "retrieved": "2026-08-20"
+}

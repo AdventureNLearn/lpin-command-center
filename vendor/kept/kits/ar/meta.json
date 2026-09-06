@@ -1,0 +1,44 @@
+{
+  "iso2": "ar",
+  "name": "Argentina",
+  "region": "americas",
+  "chamber": "Cámara de Diputados",
+  "houses": "bicameral",
+  "system": "presidential",
+  "seats": 257,
+  "election": "competitive",
+  "session": "Período 144 (2026)",
+  "kit": "scoring",
+  "lang": [
+    "es",
+    "en"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 257,
+    "sitting": 257,
+    "votes": 154,
+    "committees": 45,
+    "key_votes": 154,
+    "sourced_quotes": 64
+  },
+  "capabilities": [
+    "members",
+    "pledges",
+    "votes",
+    "issues",
+    "gap",
+    "caucus",
+    "committees",
+    "ethics",
+    "money",
+    "method"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "gold-kit-8103",
+  "source_live": null,
+  "note": "AR honest-complete 2026-08-21. Sit 257. Pledges 64 / 58 sitting. Leftover pledges hunt-stop. Votes 154 clerk totals, named 0. Yeas unpublished — not invented. Money unpublished. Gap 0. Honest incomplete. pledges.json stays 64. br/votes.json not touched.",
+  "roster_source": "https://datos.hcdn.gob.ar/dataset/a80e0fa7-d73a-4ed1-9dec-80465e368951/resource/638cf72a-f993-4211-80e1-43984a529e4f/download/diputados_actuales2.0.json",
+  "honest_complete": true
+}

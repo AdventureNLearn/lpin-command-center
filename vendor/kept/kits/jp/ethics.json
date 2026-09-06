@@ -1,0 +1,329 @@
+{
+  "iso2": "jp",
+  "chamber": "House of Representatives",
+  "retrieved": "2026-08-21",
+  "incomplete": true,
+  "note": "Public statutory disclosure categories only. No yen amounts invented. Per-member asset filings are inspectable at the House for 7 years; this kit does not transcribe figures. Added House 政治倫理 / 資産公開 classes from official shugiin.go.jp pages that returned 200. Cap +15 then Diet Law Art. 124-3 ethics-review-council-statute cap +1. Closed-session minutes not collected.",
+  "items": [
+    {
+      "member_id": null,
+      "category": "asset-report",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/tetuzuki/sisan.htm",
+      "label_en": "Asset report (資産等報告書)",
+      "note": "Public inspection at the House. Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "supplementary-asset-report",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/tetuzuki/sisan.htm",
+      "label_en": "Supplementary asset report (資産等補充報告書)",
+      "note": "Public inspection at the House. Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "income-report",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/tetuzuki/sisan.htm",
+      "label_en": "Income report (所得等報告書)",
+      "note": "Public inspection at the House. Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "related-companies-report",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/tetuzuki/sisan.htm",
+      "label_en": "Related companies report (関連会社等報告書)",
+      "note": "Public inspection at the House. Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "land",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_housei.nsf/html/houritsu/12519921216100.htm",
+      "label_en": "Land (location, area, assessed value)",
+      "note": "Act No. 100 of 1992 Art. 2(1)(i). Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "building-leasehold",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_housei.nsf/html/houritsu/12519921216100.htm",
+      "label_en": "Superficies or land lease for a building",
+      "note": "Act No. 100 of 1992 Art. 2(1)(ii). Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "buildings",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_housei.nsf/html/houritsu/12519921216100.htm",
+      "label_en": "Buildings (location, floor area, assessed value)",
+      "note": "Act No. 100 of 1992 Art. 2(1)(iii). Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "time-deposits",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_housei.nsf/html/houritsu/12519921216100.htm",
+      "label_en": "Time deposits (ordinary and current accounts excluded)",
+      "note": "Act No. 100 of 1992 Art. 2(1)(iv). Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "money-trusts",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_housei.nsf/html/houritsu/12519921216100.htm",
+      "label_en": "Money trusts (principal)",
+      "note": "Act No. 100 of 1992 Art. 2(1)(v). Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "securities",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_housei.nsf/html/houritsu/12519921216100.htm",
+      "label_en": "Securities (type; shares by issue and number)",
+      "note": "Act No. 100 of 1992 Art. 2(1)(vi). Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "vehicles-vessels-aircraft-art",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_housei.nsf/html/houritsu/12519921216100.htm",
+      "label_en": "Motor vehicles, vessels, aircraft, and art objects (acquisition over 1 million yen: type and quantity only)",
+      "note": "Act No. 100 of 1992 Art. 2(1)(vii). Quantity category; yen figures not collected."
+    },
+    {
+      "member_id": null,
+      "category": "golf-memberships",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_housei.nsf/html/houritsu/12519921216100.htm",
+      "label_en": "Transferable golf-club memberships (course name)",
+      "note": "Act No. 100 of 1992 Art. 2(1)(viii). Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "loans-receivable",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_housei.nsf/html/houritsu/12519921216100.htm",
+      "label_en": "Loans receivable (excluding household relatives)",
+      "note": "Act No. 100 of 1992 Art. 2(1)(ix). Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "borrowings",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_housei.nsf/html/houritsu/12519921216100.htm",
+      "label_en": "Borrowings (excluding household relatives)",
+      "note": "Act No. 100 of 1992 Art. 2(1)(x). Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "political-funds-report",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.soumu.go.jp/senkyo/seiji_s/naruhodo01.html",
+      "label_en": "Political funds income and expenditure report (政治資金収支報告書)",
+      "note": "Public MIC / prefectural election-commission reports. Named private donors not collected."
+    },
+    {
+      "member_id": null,
+      "category": "party-subsidy-report",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.soumu.go.jp/senkyo/seiji_s/naruhodo03.html",
+      "label_en": "Party subsidy use report (政党交付金使途等報告書)",
+      "note": "Public MIC reports. Named private donors not collected."
+    },
+    {
+      "member_id": null,
+      "category": "ordinary-income",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_housei.nsf/html/houritsu/12519921216100.htm",
+      "label_en": "Ordinary income (総所得金額) in the income report",
+      "note": "Act No. 100 of 1992 Art. 3(i)(a). Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "forest-income",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_housei.nsf/html/houritsu/12519921216100.htm",
+      "label_en": "Forest income (山林所得金額) in the income report",
+      "note": "Act No. 100 of 1992 Art. 3(i)(a). Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "separately-computed-income",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_housei.nsf/html/houritsu/12519921216100.htm",
+      "label_en": "Separately computed income under special tax measures",
+      "note": "Act No. 100 of 1992 Art. 3(i)(b). Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "income-origin-facts",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_housei.nsf/html/houritsu/12519921216100.htm",
+      "label_en": "Facts giving rise to reported income (when the statutory threshold applies)",
+      "note": "Act No. 100 of 1992 Art. 3(i). Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "gift-tax-property",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_housei.nsf/html/houritsu/12519921216100.htm",
+      "label_en": "Property acquired by gift (gift-tax taxable base class)",
+      "note": "Act No. 100 of 1992 Art. 3(ii). Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "paid-corporate-office",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_housei.nsf/html/houritsu/12519921216100.htm",
+      "label_en": "Paid officer, advisor, or other post in a company or other corporation",
+      "note": "Act No. 100 of 1992 Art. 4. Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "unincorporated-body-office",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_housei.nsf/html/houritsu/12519921216100.htm",
+      "label_en": "Paid post in an unincorporated association or foundation with a representative",
+      "note": "Act No. 100 of 1992 Art. 4. Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "inheritance-acquired-property",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_housei.nsf/html/houritsu/12519921216100.htm",
+      "label_en": "Property acquired by inheritance or bequest (flag on land, leasehold, buildings)",
+      "note": "Act No. 100 of 1992 Art. 2(1)(i)–(iii). Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "public-inspection-of-reports",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_housei.nsf/html/houritsu/12519921216100.htm",
+      "label_en": "Public inspection of the four asset/income/related-company reports",
+      "note": "Act No. 100 of 1992 Art. 5(2); House inspection desk. Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "asset-disclosure-rules",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_housei.nsf/html/houritsu/12519921216100.htm",
+      "label_en": "Diet-member asset disclosure rules set by the Speakers",
+      "note": "Act No. 100 of 1992 Art. 6. Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "political-ethics-code",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/shiryo/dl-dietlaw.htm",
+      "label_en": "Code of Political Ethics (政治倫理綱領)",
+      "note": "Diet Law Art. 124-2. Public House-adopted code. Closed-session minutes not collected."
+    },
+    {
+      "member_id": null,
+      "category": "standards-of-conduct",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/shiryo/dl-dietlaw.htm",
+      "label_en": "Standards of Conduct (行為規範)",
+      "note": "Diet Law Art. 124-2; House Political Ethics Review Council page. Closed-session minutes not collected."
+    },
+    {
+      "member_id": null,
+      "category": "ethics-review",
+      "public": true,
+      "amount_band": null,
+      "origin": "clerk",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_iinkai.nsf/html/iinkai/rinri.htm",
+      "label_en": "Political-ethics review of moral-political responsibility",
+      "note": "House Political Ethics Review Council public mandate. Closed-session minutes not collected."
+    },
+    {
+      "member_id": null,
+      "category": "ethics-recommendation",
+      "public": true,
+      "amount_band": null,
+      "origin": "clerk",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_iinkai.nsf/html/iinkai/rinri.htm",
+      "label_en": "Ethics-review recommendation (勧告)",
+      "note": "House Political Ethics Review Council public mandate. Closed-session minutes not collected."
+    },
+    {
+      "member_id": null,
+      "category": "conduct-based-notification",
+      "public": true,
+      "amount_band": null,
+      "origin": "clerk",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/kokkai/jimukyoku.htm",
+      "label_en": "Notification under the Standards of Conduct (行為規範に基づく届出)",
+      "note": "House Secretariat public function. Amounts not collected."
+    },
+    {
+      "member_id": null,
+      "category": "ethics-review-council-statute",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/shiryo/dl-dietlaw.htm",
+      "label_en": "Statutory duty to maintain a Political Ethics Review Council",
+      "note": "Diet Law Art. 124-3. Council roster not harvested here. Closed-session minutes not collected."
+    }
+  ]
+}

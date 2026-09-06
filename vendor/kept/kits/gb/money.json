@@ -1,0 +1,37 @@
+{
+  "iso2": "gb",
+  "named_donors": false,
+  "unit": "GBP thousand",
+  "sitting_total_reconstructed": 242665,
+  "buckets": [
+    {
+      "label": "subhead A MPs' pay, staffing and business costs",
+      "amount": 242665
+    },
+    {
+      "label": "staff payroll",
+      "amount": 166000
+    },
+    {
+      "label": "office",
+      "amount": 19000
+    },
+    {
+      "label": "accommodation",
+      "amount": 13000
+    },
+    {
+      "label": "travel and subsistence",
+      "amount": 7000
+    },
+    {
+      "label": "other",
+      "amount": 4000
+    }
+  ],
+  "incomplete": true,
+  "source_url": "https://assets.ctfassets.net/nc7h1cs4q6ic/4b4G1auuoyWtPmOX0fss4V/37cb52e115f960eb36c668d42819a8f6/-HC_468-_-_The_Independent_Parliamentary_Standards_Authority_-_Annual_Report___Accounts_2024-25.pdf",
+  "extra_source_url": "https://assets.ctfassets.net/nc7h1cs4q6ic/4uHILFPnAaUGFCCmqIuBhr/49180e52006087e3b41b356359dee584/IPSA_Supporting_Democracy_2024-25.pdf",
+  "retrieved": "2026-08-21",
+  "note": "MERGE occupation / public-finance buckets only. Prior bucket 1 kept (IPSA Annual Report and Accounts 2024-25 HC 468 Subhead A outturn 242,665 £'000). Added IPSA Supporting Democracy 2024-25 printed Breakdown of total spend: staff payroll £166m, office £19m, accommodation £13m, travel and subsistence £7m, other £4m (stored as GBP thousand to match existing unit; printed millions × 1000). Bucket sum of new rows 209,000. Official sitting-MP public-finance category totals, not occupation-of-donor, not a campaign-donation total, not person-level GBP (annual per-MP total-spend CSV was not summed). New rows overlap Subhead A (business-cost partition, MP salary not in the £209m print) — sitting_total_reconstructed stays the printed Subhead A Total outturn and is not a sum of all buckets. IPSA other-payment-data 2024-25 printed sitting-MP aggregates retrieved (security assistance £174,057.04; disability assistance £556,605.11; staff absence £1,456,276.49). Not stored as extra buckets: table unit is pounds, overlapping the Supporting Democracy Other/staff lines, and would mix with existing GBP thousand. Electoral Commission Policy Development Grants HTML Cloudflare-blocked from this host (cached challenge body); scheme is party-wide public funding, not a sitting-House-only campaign aggregate — party ceilings not copied. PEF Online names private donors and was not ingested. No official Electoral Commission / ONS / Commons Library sitting-only occupation aggregate for the current House (CBP-7483 is 1979–2019; ONS SOC volumes are classifications, not an MP census). Members API biographies are free-text and were not rolled into invented SOC buckets. House of Commons Short Money 2025-26 allocation previously blocked; party rows not summed. Per-MP IPSA CSVs were not summed. Named private donors not collected. Added 5 bucket(s) this pass (cap +8). GBP totals not invented."
+}

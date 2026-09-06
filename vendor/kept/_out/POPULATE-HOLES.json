@@ -1,0 +1,346 @@
+{
+  "at": "2026-09-06T20:47:29.253Z",
+  "holes_in": 42,
+  "filled": 37,
+  "stub_empty": 2,
+  "stub_error": 3,
+  "skip_existing": 0,
+  "kit_on_disk_count": 196,
+  "atlas_rows": 196,
+  "sitting_total": 19117,
+  "results": [
+    {
+      "iso2": "af",
+      "name": "Afghanistan",
+      "status": "stub-empty",
+      "sitting": 0,
+      "chamber": "",
+      "source": "https://www.wikidata.org/wiki/Q889"
+    },
+    {
+      "iso2": "al",
+      "name": "Albania",
+      "status": "filled",
+      "sitting": 453,
+      "chamber": "Parliament of Albania",
+      "source": "https://www.wikidata.org/wiki/Q1135960"
+    },
+    {
+      "iso2": "am",
+      "name": "Armenia",
+      "status": "filled",
+      "sitting": 614,
+      "chamber": "National Assembly of Armenia",
+      "source": "https://www.wikidata.org/wiki/Q1337463"
+    },
+    {
+      "iso2": "ao",
+      "name": "Angola",
+      "status": "filled",
+      "sitting": 666,
+      "chamber": "National Assembly of Angola",
+      "source": "https://www.wikidata.org/wiki/Q1969479"
+    },
+    {
+      "iso2": "at",
+      "name": "Austria",
+      "status": "filled",
+      "sitting": 795,
+      "chamber": "Austrian Parliament",
+      "source": "https://www.wikidata.org/wiki/Q4817650"
+    },
+    {
+      "iso2": "bd",
+      "name": "Bangladesh",
+      "status": "filled",
+      "sitting": 800,
+      "chamber": "Jatiya Sangsad",
+      "source": "https://www.wikidata.org/wiki/Q1684080"
+    },
+    {
+      "iso2": "be",
+      "name": "Belgium",
+      "status": "filled",
+      "sitting": 797,
+      "chamber": "Belgian Federal Parliament",
+      "source": "https://www.wikidata.org/wiki/Q1137059"
+    },
+    {
+      "iso2": "bg",
+      "name": "Bulgaria",
+      "status": "stub-error",
+      "sitting": 0,
+      "error": "Error: SPARQL 504"
+    },
+    {
+      "iso2": "cf",
+      "name": "Central African Republic",
+      "status": "filled",
+      "sitting": 474,
+      "chamber": "National Assembly",
+      "source": "https://www.wikidata.org/wiki/Q1577158"
+    },
+    {
+      "iso2": "cg",
+      "name": "Congo",
+      "status": "filled",
+      "sitting": 525,
+      "chamber": "Parliament of the Republic of the Congo",
+      "source": "https://www.wikidata.org/wiki/Q4345421"
+    },
+    {
+      "iso2": "ch",
+      "name": "Switzerland",
+      "status": "filled",
+      "sitting": 649,
+      "chamber": "Federal Assembly of Switzerland",
+      "source": "https://www.wikidata.org/wiki/Q684719"
+    },
+    {
+      "iso2": "cm",
+      "name": "Cameroon",
+      "status": "filled",
+      "sitting": 800,
+      "chamber": "Parliament of Cameroon",
+      "source": "https://www.wikidata.org/wiki/Q25039919"
+    },
+    {
+      "iso2": "co",
+      "name": "Colombia",
+      "status": "stub-empty",
+      "sitting": 0,
+      "chamber": "Congress of Colombia",
+      "source": "https://www.wikidata.org/wiki/Q1284236"
+    },
+    {
+      "iso2": "cy",
+      "name": "Cyprus",
+      "status": "filled",
+      "sitting": 464,
+      "chamber": "House of Representatives",
+      "source": "https://www.wikidata.org/wiki/Q1112381"
+    },
+    {
+      "iso2": "cz",
+      "name": "Czechia",
+      "status": "filled",
+      "sitting": 798,
+      "chamber": "Parliament of the Czech Republic",
+      "source": "https://www.wikidata.org/wiki/Q2347172"
+    },
+    {
+      "iso2": "dk",
+      "name": "Denmark",
+      "status": "stub-error",
+      "sitting": 0,
+      "error": "Error: SPARQL 504"
+    },
+    {
+      "iso2": "dm",
+      "name": "Dominica",
+      "status": "filled",
+      "sitting": 30,
+      "chamber": "House of Assembly of Dominica",
+      "source": "https://www.wikidata.org/wiki/Q1297237"
+    },
+    {
+      "iso2": "do",
+      "name": "Dominican Republic",
+      "status": "filled",
+      "sitting": 43,
+      "chamber": "Congress of the Dominican Republic",
+      "source": "https://www.wikidata.org/wiki/Q595411"
+    },
+    {
+      "iso2": "dz",
+      "name": "Algeria",
+      "status": "filled",
+      "sitting": 2,
+      "chamber": "Parliament of Algeria",
+      "source": "https://www.wikidata.org/wiki/Q3142337"
+    },
+    {
+      "iso2": "ee",
+      "name": "Estonia",
+      "status": "filled",
+      "sitting": 799,
+      "chamber": "Riigikogu",
+      "source": "https://www.wikidata.org/wiki/Q217799"
+    },
+    {
+      "iso2": "fi",
+      "name": "Finland",
+      "status": "filled",
+      "sitting": 798,
+      "chamber": "Parliament of Finland",
+      "source": "https://www.wikidata.org/wiki/Q643412"
+    },
+    {
+      "iso2": "ga",
+      "name": "Gabon",
+      "status": "filled",
+      "sitting": 160,
+      "chamber": "Parliament of Gabon",
+      "source": "https://www.wikidata.org/wiki/Q4345413"
+    },
+    {
+      "iso2": "gd",
+      "name": "Grenada",
+      "status": "filled",
+      "sitting": 4,
+      "chamber": "Parliament of Grenada",
+      "source": "https://www.wikidata.org/wiki/Q1253647"
+    },
+    {
+      "iso2": "ge",
+      "name": "Georgia",
+      "status": "filled",
+      "sitting": 394,
+      "chamber": "Parliament of Georgia",
+      "source": "https://www.wikidata.org/wiki/Q1417210"
+    },
+    {
+      "iso2": "gr",
+      "name": "Greece",
+      "status": "stub-error",
+      "sitting": 0,
+      "error": "Error: SPARQL 504"
+    },
+    {
+      "iso2": "gw",
+      "name": "Guinea Bissau",
+      "status": "filled",
+      "sitting": 16,
+      "chamber": "National People's Assembly",
+      "source": "https://www.wikidata.org/wiki/Q740533"
+    },
+    {
+      "iso2": "ir",
+      "name": "Iran (Islamic Republic of)",
+      "status": "filled",
+      "sitting": 483,
+      "chamber": "Islamic Consultative Assembly",
+      "source": "https://www.wikidata.org/wiki/Q378605"
+    },
+    {
+      "iso2": "la",
+      "name": "Lao People’s Democratic Republic",
+      "status": "filled",
+      "sitting": 1,
+      "chamber": "National Assembly",
+      "source": "https://www.wikidata.org/wiki/Q1188525"
+    },
+    {
+      "iso2": "lk",
+      "name": "Sri Lanka",
+      "status": "filled",
+      "sitting": 676,
+      "chamber": "Parliament of Sri Lanka",
+      "source": "https://www.wikidata.org/wiki/Q1450753"
+    },
+    {
+      "iso2": "lu",
+      "name": "Luxembourg",
+      "status": "filled",
+      "sitting": 578,
+      "chamber": "Chamber of Deputies",
+      "source": "https://www.wikidata.org/wiki/Q517449"
+    },
+    {
+      "iso2": "lv",
+      "name": "Latvia",
+      "status": "filled",
+      "sitting": 799,
+      "chamber": "Saeima",
+      "source": "https://www.wikidata.org/wiki/Q822919"
+    },
+    {
+      "iso2": "md",
+      "name": "Republic of Moldova",
+      "status": "filled",
+      "sitting": 502,
+      "chamber": "Parliament of the Republic of Moldova",
+      "source": "https://www.wikidata.org/wiki/Q555809"
+    },
+    {
+      "iso2": "mz",
+      "name": "Mozambique",
+      "status": "filled",
+      "sitting": 800,
+      "chamber": "Assembly of the Republic",
+      "source": "https://www.wikidata.org/wiki/Q1848595"
+    },
+    {
+      "iso2": "pk",
+      "name": "Pakistan",
+      "status": "filled",
+      "sitting": 1,
+      "chamber": "Parliament of Pakistan",
+      "source": "https://www.wikidata.org/wiki/Q2665089"
+    },
+    {
+      "iso2": "pt",
+      "name": "Portugal",
+      "status": "filled",
+      "sitting": 790,
+      "chamber": "Assembly of the Republic",
+      "source": "https://www.wikidata.org/wiki/Q740564"
+    },
+    {
+      "iso2": "ro",
+      "name": "Romania",
+      "status": "filled",
+      "sitting": 797,
+      "chamber": "Parliament of Romania",
+      "source": "https://www.wikidata.org/wiki/Q1813360"
+    },
+    {
+      "iso2": "ru",
+      "name": "Russian Federation",
+      "status": "filled",
+      "sitting": 660,
+      "chamber": "Federal Assembly of the Russian Federation",
+      "source": "https://www.wikidata.org/wiki/Q457869"
+    },
+    {
+      "iso2": "sc",
+      "name": "Seychelles",
+      "status": "filled",
+      "sitting": 1,
+      "chamber": "National Assembly of Seychelles",
+      "source": "https://www.wikidata.org/wiki/Q676484"
+    },
+    {
+      "iso2": "ug",
+      "name": "Uganda",
+      "status": "filled",
+      "sitting": 798,
+      "chamber": "Parliament of Uganda",
+      "source": "https://www.wikidata.org/wiki/Q2052850"
+    },
+    {
+      "iso2": "uy",
+      "name": "Uruguay",
+      "status": "filled",
+      "sitting": 587,
+      "chamber": "General Assembly of Uruguay",
+      "source": "https://www.wikidata.org/wiki/Q1501988"
+    },
+    {
+      "iso2": "vn",
+      "name": "Viet Nam",
+      "status": "filled",
+      "sitting": 763,
+      "chamber": "National Assembly of Vietnam",
+      "source": "https://www.wikidata.org/wiki/Q1765001"
+    },
+    {
+      "iso2": "zw",
+      "name": "Zimbabwe",
+      "status": "filled",
+      "sitting": 800,
+      "chamber": "Parliament of Zimbabwe",
+      "source": "https://www.wikidata.org/wiki/Q2083905"
+    }
+  ]
+}

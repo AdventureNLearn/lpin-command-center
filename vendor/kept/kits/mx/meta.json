@@ -1,0 +1,56 @@
+{
+  "iso2": "mx",
+  "name": "Mexico",
+  "region": "americas",
+  "chamber": "Cámara de Diputados",
+  "houses": "bicameral",
+  "system": "presidential",
+  "seats": 500,
+  "election": "competitive",
+  "session": "LXVI 2024-2027",
+  "kit": "scoring",
+  "lang": [
+    "es",
+    "en"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 496,
+    "sitting": 496,
+    "votes": 295,
+    "committees": 51,
+    "key_votes": 295,
+    "sourced_quotes": 60,
+    "pledged": 53,
+    "pledges": 60,
+    "named_votes": 0,
+    "ethics": 39,
+    "money": 4,
+    "sources": 80,
+    "gap": 0
+  },
+  "capabilities": [
+    "members",
+    "pledges",
+    "votes",
+    "issues",
+    "gap",
+    "caucus",
+    "committees",
+    "ethics",
+    "money",
+    "method"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "gold-kit-8103",
+  "source_live": null,
+  "note": "Honest-complete 2026-08-21. Sitting 496 (4 vacant not padded). Pledges 60 / 53 personal sourced; leftover Diario ticket/procedure hunt-stop. Votes 295 clerk totals, named 0; Gaceta 404 not looped. Committees 51 packed. Ethics 39 public categories; SNA classified annex not packed. Money 4 INE public-finance buckets, named_donors false. Gap 0 after dual-source exam. Members not rewritten.",
+  "roster_source": "https://es.wikipedia.org/wiki/Anexo:LXVI_Legislatura_del_Congreso_de_la_Unión_de_México",
+  "honest_complete": true,
+  "hunt_stops": [
+    "mx-diario-ticket-procedure",
+    "mx-gaceta-404-do-not-loop",
+    "mx-sna-classified-annex-not-packed"
+  ]
+}

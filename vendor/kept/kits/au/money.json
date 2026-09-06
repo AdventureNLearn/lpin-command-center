@@ -1,0 +1,120 @@
+{
+  "iso2": "au",
+  "named_donors": false,
+  "unit": "AUD",
+  "sitting_total_reconstructed": 93850428.95,
+  "buckets": [
+    {
+      "label": "Australian Labor Party (Federal)",
+      "amount": 36999384.08
+    },
+    {
+      "label": "Liberal Party of Australia",
+      "amount": 28235699.46
+    },
+    {
+      "label": "Pauline Hanson's One Nation",
+      "amount": 6078750.36
+    },
+    {
+      "label": "The Greens NSW",
+      "amount": 3670962.37
+    },
+    {
+      "label": "The Australian Greens - Victoria",
+      "amount": 3569616.01
+    },
+    {
+      "label": "National Party of Australia - N.S.W.",
+      "amount": 2429326.33
+    },
+    {
+      "label": "Queensland Greens",
+      "amount": 2397487.77
+    },
+    {
+      "label": "Australian Greens (Federal)",
+      "amount": 1668519.22
+    },
+    {
+      "label": "National Party of Australia - Victoria",
+      "amount": 1462229.34
+    },
+    {
+      "label": "The Greens (WA) Inc",
+      "amount": 1353438.38
+    },
+    {
+      "label": "Legalise Cannabis Australia",
+      "amount": 486221.96
+    },
+    {
+      "label": "Gerard Rennick People First",
+      "amount": 393028.7
+    },
+    {
+      "label": "David Pocock",
+      "amount": 389102
+    },
+    {
+      "label": "Trumpet of Patriots",
+      "amount": 262865.34
+    },
+    {
+      "label": "Country Liberal Party (NT)",
+      "amount": 239522.25
+    },
+    {
+      "label": "Family First Party Australia",
+      "amount": 203684.83
+    },
+    {
+      "label": "Katter's Australian Party (KAP)",
+      "amount": 175310.15
+    },
+    {
+      "label": "National Party of Australia (WA) Inc",
+      "amount": 155965.93
+    },
+    {
+      "label": "Jacqui Lambie Network",
+      "amount": 91608.23
+    },
+    {
+      "label": "Victorian Socialists",
+      "amount": 74302.38
+    },
+    {
+      "label": "Centre Alliance",
+      "amount": 63808.99
+    },
+    {
+      "label": "Shooters, Fishers and Farmers Party",
+      "amount": 34648.94
+    },
+    {
+      "label": "Socialist Alliance",
+      "amount": 24532.8
+    },
+    {
+      "label": "Australian Christians",
+      "amount": 15677.18
+    },
+    {
+      "label": "Libertarian Party",
+      "amount": 12379
+    },
+    {
+      "label": "Sustainable Australia Party - Universal Basic Income",
+      "amount": 12379
+    },
+    {
+      "label": "independent candidates",
+      "amount": 3349977.95
+    }
+  ],
+  "incomplete": true,
+  "source_url": "https://www.aec.gov.au/media/2025/11-27.htm",
+  "note": "AEC public-finance table: finalised 2025 federal election (2025-05-03) election-funding payments by registered political party, plus the official Independent Candidates subtotal. Not occupation-of-donor. Not sitting-House-only (Senate groups and parties without House seats are in the party table). 60 named independent public-funding rows were not stored as person buckets; the official Independent Candidates total was kept as one public-finance bucket. Transparency Register named donor and candidate return dumps not ingested. Occupations not published. Bucket sum 93850428.95 vs official total 93850428.95.",
+  "retrieved": "2026-08-20"
+}

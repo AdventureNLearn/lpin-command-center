@@ -1,0 +1,33 @@
+{
+  "iso2": "rw",
+  "name": "Rwanda",
+  "region": "",
+  "chamber": "Parliament of Rwanda",
+  "houses": "",
+  "system": "",
+  "seats": 40,
+  "election": "",
+  "session": "",
+  "kit": "map",
+  "lang": [
+    "en"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 40,
+    "sitting": 40,
+    "votes": 0,
+    "committees": 0,
+    "key_votes": 0,
+    "sourced_quotes": 0
+  },
+  "capabilities": [
+    "members"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "lpin-wikidata-fill",
+  "source_live": null,
+  "note": "Wikidata sitting pull 2026-09-06. 40 named. Vacancies not invented.",
+  "roster_source": "https://www.wikidata.org/wiki/Q4162795"
+}

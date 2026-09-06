@@ -1,0 +1,52 @@
+{
+  "iso2": "de",
+  "named_donors": false,
+  "unit": "sitting members",
+  "sitting_total_reconstructed": 630,
+  "buckets": [
+    {
+      "label": "Unternehmensorganisation, Buchhaltung, Recht und Verwaltung",
+      "amount": 459
+    },
+    {
+      "label": "Gesundheit, Soziales, Lehre und Erziehung",
+      "amount": 45
+    },
+    {
+      "label": "Sprach-, Literatur-, Geistes-, Gesellschafts- und Wirtschaftswissenschaften, Medien, Kunst, Kultur und Gestaltung",
+      "amount": 44
+    },
+    {
+      "label": "Rohstoffgewinnung, Produktion und Fertigung",
+      "amount": 20
+    },
+    {
+      "label": "sonstige (Militär, Schüler, Auszubildende, Studierende, Rentner, ohne nähere Angaben)",
+      "amount": 18
+    },
+    {
+      "label": "Kaufmännische Dienstleistungen, Warenhandel, Vertrieb, Hotel und Tourismus",
+      "amount": 16
+    },
+    {
+      "label": "Naturwissenschaft, Geografie und Informatik",
+      "amount": 13
+    },
+    {
+      "label": "Verkehr, Logistik, Schutz und Sicherheit",
+      "amount": 7
+    },
+    {
+      "label": "Bau, Architektur, Vermessung und Gebäudetechnik",
+      "amount": 4
+    },
+    {
+      "label": "Land-, Forst- und Tierwirtschaft und Gartenbau",
+      "amount": 4
+    }
+  ],
+  "incomplete": true,
+  "source_url": "https://www.bundeswahlleiterin.de/dam/jcr/eeb02132-caeb-430a-ae1f-6cd5907f1809/btw25_gewaehlte_utf8.zip",
+  "note": "Occupation buckets are sitting-member counts from Die Bundeswahlleiterin elected-candidates CSV (btw25_gewaehlte_utf8.csv, endgültig, stand 2025-03-12) rolled to official KldB 2010 Berufsbereich using the file codebook Anlage. 630 elected on 2025-02-23. Not occupation-of-donor. Not campaign-euro. Codebook marks Berufsschlüssel as BWL Eigenrecherche, not nomination-paper copy. Bundestag textarchiv 2025-02-24 cites the same BWL occupation areas. Bundestagsverwaltung Festsetzung der staatlichen Mittel für 2025 (PM 3, 2026-01-31, finanz_25.pdf) ANLAGE 2 Gesamtübersicht is a per-party euro table that did not extract as text this run; euro totals not invented. Rechenschaftsberichte name private donors above the PartG disclosure floor and were not collected. Named private donors not collected.",
+  "retrieved": "2026-08-20"
+}

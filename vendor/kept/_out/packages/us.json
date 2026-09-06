@@ -1,0 +1,92 @@
+{
+  "iso2": "us",
+  "kit_on_disk": true,
+  "objects": {
+    "committees.json": {
+      "state": "filled",
+      "count": 28
+    },
+    "ethics.json": {
+      "state": "filled",
+      "count": 15
+    },
+    "gap.json": {
+      "state": "seeded",
+      "count": 0
+    },
+    "institutional.json": {
+      "state": "empty",
+      "count": 0
+    },
+    "issues.json": {
+      "state": "filled",
+      "count": 13
+    },
+    "members.json": {
+      "state": "filled",
+      "count": 437
+    },
+    "meta.json": {
+      "state": "filled",
+      "count": 21
+    },
+    "money.json": {
+      "state": "seeded",
+      "count": 4
+    },
+    "parties.json": {
+      "state": "filled",
+      "count": 3
+    },
+    "pledges.json": {
+      "state": "filled",
+      "count": 297
+    },
+    "sources.json": {
+      "state": "filled",
+      "count": 1238
+    },
+    "votes.json": {
+      "state": "filled",
+      "count": 849
+    }
+  },
+  "capital": {
+    "name": "Washington,  D.C.",
+    "lat": 38.901495,
+    "lon": -77.011364,
+    "kind": "capital"
+  },
+  "holes": [
+    {
+      "object": "ethics.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "gap.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "institutional.json",
+      "reason": "items 0"
+    },
+    {
+      "object": "money.json",
+      "reason": "sitting_total_reconstructed null"
+    },
+    {
+      "object": "pledges.json",
+      "reason": "incomplete true"
+    },
+    {
+      "object": "votes.json",
+      "reason": "incomplete true; selected 849 claimed 1878"
+    },
+    {
+      "object": "meta.json",
+      "reason": "incomplete true"
+    }
+  ],
+  "retrieved": "2026-08-29",
+  "source": "vendor/kept/kits/us"
+}

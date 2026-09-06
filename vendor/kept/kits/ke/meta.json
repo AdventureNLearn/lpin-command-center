@@ -1,0 +1,51 @@
+{
+  "iso2": "ke",
+  "name": "Kenya",
+  "region": "africa",
+  "chamber": "National Assembly",
+  "houses": "",
+  "system": "",
+  "seats": 0,
+  "election": "",
+  "session": "",
+  "kit": "map",
+  "lang": [
+    "en"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 348,
+    "sitting": 348,
+    "pledges": 1,
+    "pledged": 1,
+    "votes": 65,
+    "named_votes": 0,
+    "committees": 45,
+    "ethics": 0,
+    "key_votes": 65,
+    "sourced_quotes": 1,
+    "money": 4
+  },
+  "capabilities": [
+    "members",
+    "pledges",
+    "votes",
+    "issues",
+    "gap",
+    "caucus",
+    "committees",
+    "ethics",
+    "money",
+    "method"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "gold-kit-8103",
+  "source_live": null,
+  "retrieved": "2026-08-21",
+  "note": "13th National Assembly sitting roster 348 (349 statutory; one seat not padded). Pledges 1 / 1 sitting hunt-stop after Hansard/MP-page examination. Votes 65 Third Readings (54 clerk + 11 hansard), named 0. Committees 45 clerk. Ethics 0 honest empty (DIAL confidential). Money 4 ORPP PPF public-finance buckets kept. Gap 0 after dual-source exam. Institutional 0. Honest incomplete.",
+  "roster_source": "https://www.parliament.go.ke/the-national-assembly/mps",
+  "honest_complete": true,
+  "flagged_by": "CoS",
+  "flagged_at": "2026-08-21T17:28:21Z"
+}

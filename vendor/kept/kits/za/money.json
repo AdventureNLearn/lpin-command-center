@@ -1,0 +1,11 @@
+{
+  "iso2": "za",
+  "named_donors": false,
+  "buckets": [],
+  "unit": null,
+  "sitting_total_reconstructed": null,
+  "incomplete": true,
+  "source_url": "https://www.parliament.gov.za/group-details?chamber=2",
+  "retrieved": "2026-08-20",
+  "note": "No official parliament.gov.za / IEC / Stats SA sitting-National-Assembly occupation aggregate after examination. parliament.gov.za group-details?chamber=2 is the NA member list (name/party/province), not profession. national-assembly is a party-seat table, not occupation. Parliament person-details pages are third-person bios and were not looped. parliament-policy-political-party-allowances HTML has no sitting-NA occupation census and no published chamber-subsidy rand table this run. IEC Political Funding pages (Represented Political Parties Fund, Multi-Party Democracy Fund, published declarations, documents) describe an all-sphere (National Assembly plus provincial legislatures) public-fund formula and also host named private-donation declarations above the disclosure floor — those name dumps were not collected. RPPF/MPDF pages this run had no sitting-NA-only occupation table and no donor-free published rand allocation table that could be stored as kit buckets without inventing totals. Rand totals were not invented from IEC donor names. Stats SA home/publications/search for occupation and national assembly returned no sitting-NA occupation yearbook. QLFS / occupational-code-list pages are national labour classification, not a sitting-NA census, and were not stored. Named private donors not collected. Occupation / public-finance buckets left empty. Parliament person-details bios not looped (third-person; cache person-details files=0)."
+}

@@ -1,0 +1,33 @@
+{
+  "iso2": "tt",
+  "name": "Trinidad and Tobago",
+  "region": "",
+  "chamber": "Parliament of Trinidad and Tobago",
+  "houses": "",
+  "system": "",
+  "seats": 130,
+  "election": "",
+  "session": "",
+  "kit": "map",
+  "lang": [
+    "en"
+  ],
+  "threshold": 5,
+  "counts": {
+    "members": 130,
+    "sitting": 130,
+    "votes": 0,
+    "committees": 0,
+    "key_votes": 0,
+    "sourced_quotes": 0
+  },
+  "capabilities": [
+    "members"
+  ],
+  "basis": "Evidence",
+  "incomplete": true,
+  "lane": "lpin-wikidata-fill",
+  "source_live": null,
+  "note": "Wikidata sitting pull 2026-09-06. 130 named. Vacancies not invented.",
+  "roster_source": "https://www.wikidata.org/wiki/Q7138943"
+}

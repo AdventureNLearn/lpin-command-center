@@ -1,0 +1,241 @@
+{
+  "iso2": "fr",
+  "wave": "WAVE-FILL-FR",
+  "hole_type": "ingest-drop",
+  "retrieved": "2026-08-29",
+  "source": "vendor/kept/kits/fr",
+  "read_only": [
+    "vendor/kept/kits/fr/sources.json",
+    "vendor/kept/kits/fr/pledges.json",
+    "vendor/kept/kits/fr/votes.json",
+    "vendor/kept/kits/fr/members.json",
+    "vendor/kept/kits/fr/gap.json",
+    "vendor/kept/kits/fr/meta.json",
+    "vendor/kept/kits/fr/ethics.json",
+    "vendor/kept/kits/fr/money.json",
+    "vendor/kept/kits/fr/institutional.json",
+    "vendor/kept/kits/fr/issues.json"
+  ],
+  "did_not_rewrite": [
+    "vendor/kept/kits/fr",
+    "votes.json",
+    "members.json",
+    "src/",
+    "packages/fr.json",
+    "packages/fr-permit.json",
+    "packages/_index.json",
+    "packages/us-fill.json",
+    "packages/ca-fill.json",
+    "packages/kr-fill.json",
+    "packages/gb-fill.json",
+    "packages/de-fill.json",
+    "packages/br-fill.json",
+    "packages/ua-fill.json"
+  ],
+  "counts": {
+    "sources_items": 143,
+    "pledges_items": 75,
+    "pledges_with_sourceUrl": 75,
+    "pledges_without_sourceUrl": 0,
+    "pledge_sourceUrl_exact_in_sources": 56,
+    "votes_items": 8434,
+    "votes_with_source_url": 8434,
+    "votes_without_source_url": 0,
+    "vote_source_urls_exact_in_sources": 0,
+    "ethics_items": 2567,
+    "ethics_with_http_source_url": 2567,
+    "ethics_missing_http": 0,
+    "money_has_https_source_url": true,
+    "member_site_source_urls": 0,
+    "member_site_source_urls_not_on_pledge_or_vote": 0
+  },
+  "log": [
+    {
+      "hole": "No member-site URLs sit in sources.json",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "All 143 sources.json URLs are assemblee-nationale.fr, hatvp.fr, wikidata.org, cnccfp.fr, data.gouv.fr, legifrance.gouv.fr, vie-publique.fr, or insee.fr clerk/HATVP/CNCCFP/INSEE pages. Zero personal member-sites. Nothing unused to attach onto a citation missing http(s). Restoring a member-site would mint a pledge. Did not recrawl."
+    },
+    {
+      "hole": "6 leftover Barodet profession-de-foi PDFs never became pledge rows (Jean Terlier, Pascale Got, Maxime Michelet, Cyrille Isaac-Sibille, Sandrine Josso, Caroline Yadan; all sitting, 0 pledges)",
+      "action": "left",
+      "evidence": "Unproven",
+      "reason": "Original-record Barodet 2024 PDFs sit in sources.json and are unused by pledges or votes. Restoring would mint pledges. Did not recrawl leftover PDFs or leftover 630 local Barodet paths. Incomplete beats fake-complete.",
+      "url": "https://www2.assemblee-nationale.fr/static/barodet/Barodet-2024/Professions_de_foi_par_d%C3%A9partement/81_Tarn_3%20circonscriptions/81-8103-TERLIER%20Jean_T1.pdf",
+      "also": [
+        "https://www2.assemblee-nationale.fr/static/barodet/Barodet-2024/Professions_de_foi_par_d%C3%A9partement/33_Gironde_12%20circonscriptions/33-3305-GOT%20Pascale_T1.pdf",
+        "https://www2.assemblee-nationale.fr/static/barodet/Barodet-2024/Professions_de_foi_par_d%C3%A9partement/51_Marne_5%20circonscriptions/51-5103-MICHELET%20Maxime_T1.pdf",
+        "https://www2.assemblee-nationale.fr/static/barodet/Barodet-2024/Professions_de_foi_par_d%C3%A9partement/69_Rh%C3%B4ne_14%20circonscriptions/69-6912-ISAAC-SIBILLE%20Cyrille_T1.pdf",
+        "https://www2.assemblee-nationale.fr/static/barodet/Barodet-2024/Professions_de_foi_par_d%C3%A9partement/44_Loire-Atlantique_10%20circonscriptions/44-4407-JOSSO%20Sandrine_T1.pdf",
+        "https://www2.assemblee-nationale.fr/static/barodet/Barodet-2024/Professions_de_foi_par_d%C3%A9partement/99_Fran%C3%A7ais%20de%20l'%C3%89tranger_11%20circonscriptions/99-9908-YADAN%20Caroline_T1.pdf"
+      ]
+    },
+    {
+      "hole": "assemblee-nationale.fr/dyn/histoire/barodet/17 leftover never became a pledge row",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Barodet 17e index/companion in sources.json. Not a dropped original-record URL on a citation missing http(s). Restoring would mint a pledge. Index/companion; leave.",
+      "url": "https://www.assemblee-nationale.fr/dyn/histoire/barodet/17"
+    },
+    {
+      "hole": "No existing pledge, vote, ethics, or money citation is missing an http(s) URL",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "pledges.json 75/75 have sourceUrl https. votes.json 8434/8434 have source_url https. ethics.json 2567/2567 have source_url https. money.source_url is an https AMO10 zip (exact-in sources). Nothing to attach. Do not swap a working URL."
+    },
+    {
+      "hole": "19 pledge Barodet PDF URLs (17 unique) are not exact-in sources.json; citations already have https",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "56 of 75 pledge sourceUrl values are exact-in sources.json. The other 19 already cite https www2.assemblee-nationale.fr Barodet PDFs that are not in the 143-URL sources list. Not a drop of a kit URL onto a citation missing http(s). Do not swap a working URL for a different-issue URL. Did not recrawl."
+    },
+    {
+      "hole": "8434 vote clerk per-scrutin URLs are not exact-in sources.json; sources holds vote indexes",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "All 8434 votes already carry https www.assemblee-nationale.fr/dyn/17/scrutins/{n}. sources holds the travaux-parlementaires/votes index, dyn/17/scrutins index, and Scrutins.json.zip (votes.source_url, exact-in). Index/companion; do not swap a working URL. votes.note: Ordinary SPO leftover exhausted."
+    },
+    {
+      "hole": "3 vote index/zip URLs in sources.json are not vote citation gaps",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Scrutins.json.zip already sits on votes.source_url. Remaining two are harvest indexes. Citations already have https per-scrutin pages. Do not mint floor rows.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins",
+      "also": [
+        "https://data.assemblee-nationale.fr/travaux-parlementaires/votes",
+        "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip"
+      ]
+    },
+    {
+      "hole": "2567 ethics per-person HATVP URLs are not exact-in sources.json; sources holds the HATVP register/index",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "All 2567 ethics rows already carry https www.hatvp.fr/pages_nominatives/... permalinks. 0 exact-in sources. sources holds hatvp.fr root, open-data, liste.csv, and consulter-les-declarations/ (ethics.source_url, exact-in). Not a drop: citations already have https. Do not swap a working URL."
+    },
+    {
+      "hole": "4 HATVP index/open-data URLs in sources.json are not ethics citation gaps",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "ethics.source_url already has https consulter-les-declarations/ (exact-in). Remaining three are register/open-data companions. ethics.note: unmatched or empty summaries skipped; no amounts; no patrimoine. Do not swap a working URL.",
+      "url": "https://www.hatvp.fr/consulter-les-declarations/",
+      "also": [
+        "https://www.hatvp.fr/",
+        "https://www.hatvp.fr/open-data/",
+        "https://www.hatvp.fr/livraison/opendata/liste.csv"
+      ]
+    },
+    {
+      "hole": "10 CNCCFP / data.gouv / Legifrance / vie-publique URLs in sources.json are not money citation gaps",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "money.source_url already has https AMO10 deputes_actifs zip (exact-in sources). CNCCFP 2024 publication simplifiee / data.gouv candidate rows / rapport d activite companions were not converted into sitting-only origin-of-receipts euros. Index/companion; do not swap a working URL. Did not name private donors. Did not mint fees.",
+      "url": "https://cnccfp.fr/",
+      "also": [
+        "https://cnccfp.fr/elections/",
+        "https://cnccfp.fr/resources/4989-2-2/",
+        "https://cnccfp.fr/elections-legislatives-des-30-juin-et-7-juillet-2024-publication-simplifiee-des-comptes-de-campagne/",
+        "https://cnccfp.fr/rapport-activite-2024/",
+        "https://cnccfp.fr/wp-content/uploads/2025/07/cnccfp-rapport_activite_2024-DP.pdf"
+      ]
+    },
+    {
+      "hole": "6 INSEE PCS nomenclature URLs in sources.json are not money citation gaps",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "money.note: INSEE.fr PCS 2003 pages confirm category labels; occupation buckets already sourced from AMO10 https zip. Nomenclature pages are companions, not dropped original-record URLs on a citation missing http(s). Do not swap a working URL.",
+      "url": "https://www.insee.fr/fr/information/2406153",
+      "also": [
+        "https://www.insee.fr/fr/metadonnees/pcs2003/categorieSocioprofessionnelle/33",
+        "https://www.insee.fr/fr/metadonnees/pcs2003/categorieSocioprofessionnelle/37",
+        "https://www.insee.fr/fr/metadonnees/pcs2003/categorieSocioprofessionnelle/31",
+        "https://www.insee.fr/fr/metadonnees/pcs2003/categorieSocioprofessionnelle/42",
+        "https://www.insee.fr/fr/metadonnees/pcs2003/categorieSocioprofessionnelle/23"
+      ]
+    },
+    {
+      "hole": "AMO20 leftover zip in sources.json is not a money or roster citation gap",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "AMO10 deputes_actifs zip already sits on money.source_url (exact-in). AMO20 is a broader legislature dump companion. Roster citations already have https wikidata roster_url. Do not mint sitting names. Do not swap a working URL.",
+      "url": "https://data.assemblee-nationale.fr/static/openData/repository/17/amo/deputes_senateurs_ministres_legislature/AMO20_dep_sen_min_tous_mandats_et_organes.json.zip"
+    },
+    {
+      "hole": "assemblee-nationale.fr / data.assemblee-nationale.fr roots, roster CSV/acteurs, statut-depute, and query.wikidata.org in sources.json are not pledge or vote rows",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Chamber roots and sitting-roster/open-data indexes. members.source_url is https://www.wikidata.org/wiki/Q3044918 (not in sources.json; inverse of ingest-drop). All 595 members already have https wikidata roster_url. Index/companion, not a dropped original-record URL.",
+      "url": "https://www.assemblee-nationale.fr/",
+      "also": [
+        "https://data.assemblee-nationale.fr/",
+        "https://data.assemblee-nationale.fr/acteurs/deputes-en-exercice",
+        "https://data.assemblee-nationale.fr/acteurs/deputes-senateurs-ministres-de-la-legislature",
+        "https://data.assemblee-nationale.fr/static/openData/repository/17/amo/deputes_actifs_csv_opendata/liste_deputes_libre_office.csv",
+        "https://www.assemblee-nationale.fr/dyn/synthese/statut-depute",
+        "https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/role-et-pouvoirs-de-l-assemblee-nationale/le-depute/le-statut-du-depute",
+        "https://query.wikidata.org/"
+      ]
+    },
+    {
+      "hole": "57 leftover organe/commission/CMP/CNPE/CNPS URLs in sources.json are not committee/pledge/vote citation gaps",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "committees.json 92/92 already carry https assemblee-nationale.fr organe permalinks (48 exact-in sources; committees.source_url autres-commissions exact-in). Remaining organe pages are indexes/companions. committees.note: leftover remaining none; unmatched member ids dropped. Do not mint AHJs. Do not swap a working URL.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/organes/commissions-permanentes"
+    },
+    {
+      "hole": "institutional.json items 0",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Empty kit (institutional_kits = 0 claimed). Not an ingest drop. Do not mint rows."
+    },
+    {
+      "hole": "gap.json items 0 after 1901-pair exam",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Honest empty after dual-source exam (gap.note: examined 1901 sourced-pledge x same-issue clerk vote pairs; 2209/2209 clerk rolls have nominative positions). Not a lost kit URL."
+    },
+    {
+      "hole": "members.json 595 sitting; roster complete",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "Sitting-name roster is complete (595/595 sitting, all https wikidata roster_url; members.incomplete false). Not ingest-drop. Do not mint sitting names. All pledge/vote citations already carry http(s). money sitting_total_reconstructed 577 is the AMO10 occupation slice, not a roster pad."
+    },
+    {
+      "hole": "money.json named_donors false",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "money.note: CNCCFP 2024 legislatives publication simplifiee still has no sitting-only origin-of-receipts euro table; natural-person donor identities unpublished (code electoral) and were not collected. No original-record donor URL sits on a citation missing http(s). Did not name private donors. Occupation zip already on money.source_url."
+    },
+    {
+      "hole": "meta.json incomplete true is honest-complete rollup, not a lost kit URL",
+      "action": "left",
+      "evidence": "Supported",
+      "reason": "meta.note: FR honest-complete 2026-08-21 leftover closeout. Sit 595. Pledges 75 personal https Barodet 17e. Leftover 630 local PDFs + sites/tribune hunt-stop (no https sourceUrl without inventing Barodet paths; sites/tribune 0 first-person). Votes live 8434 clerk named. Gap 0. named_donors false. Flag reflects leftover harvest, not a dropped original-record URL on a public citation missing http(s)."
+    }
+  ],
+  "summary": {
+    "restored": 0,
+    "left": 19,
+    "evidence": {
+      "Supported": 18,
+      "Unproven": 1,
+      "Disputed": 0,
+      "Human decision": 0
+    }
+  },
+  "notes": [
+    "One hole type: ingest-drop. Restore a URL the kit already has in sources, or leave the hole.",
+    "No existing scoring citation lost a kit URL. All 75 pledges, 8434 votes, 2567 ethics rows, and money.source_url already carry http(s).",
+    "56 of 75 pledge sourceUrl values are exact-in sources.json. 19 https Barodet pledges (17 unique PDFs) are not exact-in. Citations already have https; do not swap.",
+    "0 personal member-site URLs sit in sources.json. member_site_source_urls_not_on_pledge_or_vote is 0. 6 leftover official Barodet PDFs never became pledge rows. Left. Do not mint pledges.",
+    "pledges.note: Personal sourced sentences + https URL only (profession de foi Barodet 17e / tribune). Party platform skipped. Same sentence on 3+ members dropped as boilerplate. Not a full roster. Did not recrawl leftover 630 local PDFs or leftover member-sites/tribune.",
+    "vote_source_urls_exact_in_sources is 0 because sources holds the travaux-parlementaires/votes and dyn/17/scrutins indexes plus Scrutins.json.zip while votes cite per-scrutin /dyn/17/scrutins/{n}. Not a drop: citations already have https. votes.source_url Scrutins.json.zip is exact-in.",
+    "Did not invent pledges, sitting names, fees, AHJs. Did not name private donors.",
+    "institutional.json items 0 is an empty kit, not an ingest drop.",
+    "gap.json items 0 after 1901-pair exam is honest empty, not an ingest drop.",
+    "members 595 sitting with https roster_url is complete roster coverage, not a lost kit URL. Do not mint sitting names.",
+    "money named_donors false is a CNCCFP/code-electoral disclosure hole, not a dropped original-record URL.",
+    "members.source_url https://www.wikidata.org/wiki/Q3044918 is not in sources.json (sources holds query.wikidata.org/). Inverse of ingest-drop; roster citations already have https. Did not recrawl.",
+    "Did not recrawl. Did not fetch pages. Source of truth is the kit existing URL."
+  ]
+}
