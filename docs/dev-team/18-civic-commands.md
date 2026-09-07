@@ -1,7 +1,7 @@
 # 18 — Civic commands (KIT-05 prep)
 
 Seat: 18 · class: public-suite · date: 2026-08-29  
-Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`  
+Tree: `REPO_ROOT`  
 This sitting writes: **this file only**. No `src/` edits. Do not implement KIT-02+. Do not start KIT-05.
 
 Sources: `src/lib/intel/commands.ts`, `src/lib/intel/runCommand.ts`, `src/lib/intel/types.ts`, `src/lib/intel/store.ts`, Handoffs `gevradio-unification/KIT-05-command-grammar.md`, `KIT-02-desk-drawer.md`, `KIT-01-layer-registry.md`, `KIT-03-kept-desks.md`, `KIT-04-permit-search.md`, `GROK_BUILD_HANDOFF.md` §2 UX grammar.

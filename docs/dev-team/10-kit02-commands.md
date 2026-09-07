@@ -1,7 +1,7 @@
 # KIT-02 COMMANDS — desk open/close (Seat 10)
 
 Seat: 10 · band: KIT-02 · class: public-suite · date: 2026-08-29
-Coordinator: Host Grok Build. Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`
+Coordinator: Host Grok Build. Tree: `REPO_ROOT`
 This file only. Did not edit `src/`, `_out/`, or `kits/`.
 
 Claim: **extend `CommandAction` with desk open/close. Four phrases. Do not steal `show legislatures`. Apply before the engine-null return, like corpus.**

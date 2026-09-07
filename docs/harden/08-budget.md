@@ -1,7 +1,7 @@
 # SEAT H08 — ENTITY BUDGET
 
 Seat: **H08** · harden pass (15 seats) · class: public-suite  
-Coordinator: Host Grok Build. Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`.  
+Coordinator: Host Grok Build. Tree: `REPO_ROOT`.  
 Date: 2026-08-29. **This file only.** Did not edit `src/`, `_out/`, or `kits/`.
 
 Claim: **civic globe entities are capped. Today LEG ≤ 33, AHJ = 0 (draft `permit-pins.ts` is unwired). KIT-06 may add at most 12 orbit cores or 56 mid clusters. 16165 is a catalog sum, never an entity quota. Camera-move must not rebuild civic. Both engines (globe + flat) take the same cap.**

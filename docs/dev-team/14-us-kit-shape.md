@@ -1,7 +1,7 @@
 # SEAT 14 — US KIT SHAPE
 
 Seat: 14 · band: later kits (11–25) · class: public-suite · date: 2026-08-29  
-Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`  
+Tree: `REPO_ROOT`  
 Prep only. Do not implement KIT-03. No `src/` edit. `votes.json` body not dumped.
 
 Claim: `_out/packages/us.json` is the US stack **index/holes card**. The KIT-03 KeptAdapter roster lives in the **gold kit** `vendor/kept/kits/us/`, not in the package dump.

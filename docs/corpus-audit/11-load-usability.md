@@ -1,6 +1,6 @@
 # Seat 11 — Load usability
 
-Target class: public-suite. Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`.  
+Target class: public-suite. Tree: `REPO_ROOT`.  
 Corpus: `vendor/kept/_out/`. Bots PARK. Gold-kit `votes.json` not opened. `src/` not edited.
 
 **Claim under test:** every corpus JSON parses, and the parsed set is small enough for a localhost Vite smoke dashboard without a JSON worker.

@@ -1,7 +1,7 @@
 # SEAT H03 — REST IMPORT GRAPH
 
 Seat: **H03**. Coordinator: Host Grok Build.
-Target class: public-suite. Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`.
+Target class: public-suite. Tree: `REPO_ROOT`.
 Date: 2026-08-29. **This file only.** Did not edit `src/`. Did not copy `places-rest.ts`.
 
 Claim: **first-paint OverlayHud graph must not include Rest.** `search-lite` is the HUD path. `places.ts` still concatenates Rest. **BLOCK** if `OverlayHud.tsx` / `runCommand.ts` / `globeEngine.ts` import `places.ts` or `catalog.ts`.

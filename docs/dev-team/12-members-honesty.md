@@ -1,7 +1,7 @@
 # SEAT 12 — Members honesty (KIT-03 prep)
 
 Seat: 12 · class: public-suite · date: 2026-08-29  
-Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`  
+Tree: `REPO_ROOT`  
 Band: later kits (11–25). **Prep only. Do not implement KIT-03.**  
 Write: this file only. No `src/`. No `_out/` rewrite. No `kits/` rewrite.
 

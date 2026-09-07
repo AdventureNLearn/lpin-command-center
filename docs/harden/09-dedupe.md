@@ -1,7 +1,7 @@
 # SEAT H09 — DEDUPE
 
 Seat: **H09 DEDUPE** · harden pass (15 seats, host) · class: public-suite · date: 2026-08-29  
-Coordinator: Host Grok Build. Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`  
+Coordinator: Host Grok Build. Tree: `REPO_ROOT`  
 **This file only.** Did not edit `src/`, `_out/`, `kits/`, or sibling harden seats. Coordinator writes `src/` after audits.
 
 Claim: **four named twins are real. Two are surgical. One is dead code. One is parser grammar that must stay two-pass.** Rank is for the coordinator, not a license to refactor engines.

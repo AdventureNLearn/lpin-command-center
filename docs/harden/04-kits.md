@@ -1,6 +1,6 @@
 # H04 — KIT-00..06 completeness
 
-Seat: **H04**. Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`.  
+Seat: **H04**. Tree: `REPO_ROOT`.  
 Write: this file only. No `src/` edits. Date: 2026-08-29.
 
 Law: `FEATURE_KITS.md` (one kit per turn). Paste blocks: Handoffs `KIT-00` … `KIT-06`.  

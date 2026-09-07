@@ -39,8 +39,8 @@ A Claims-only page with no globe is still LPIN if it keeps 1–8.
 
 | Product | Live SoT | Write tree |
 |---------|----------|------------|
-| LPIN Claims & Jobsite | https://lpin-v2-map.grok.me | `C:\AOS\products\LPINsuite_v2` (gated) — do not write this sitting |
-| Command Center cockpit | gevradio copy-from | `sandbox/work/groks-eye-view-next` — this sitting’s tree |
+| LPIN Claims & Jobsite | https://lpin-v2-map.grok.me | `<HOST_TREE>/LPINsuite_v2` (gated) — do not write this sitting |
+| Command Center cockpit | gevradio copy-from | `REPO_ROOT` — this sitting’s tree |
 | Permit / Kept / Insind / Fifty / Open Cells | their grok.me hosts | packs in this tree; do not overwrite those hosts |
 
 New LPIN work: add a lane row **or** a pack row. Do not borrow IDWT or Tutor source.

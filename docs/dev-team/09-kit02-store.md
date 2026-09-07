@@ -1,7 +1,7 @@
 # 09 — KIT-02 store (desk field)
 
 Seat: 09 · band: KIT-02 · date: 2026-08-29  
-Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`  
+Tree: `REPO_ROOT`  
 This file is the **intel-store contract** for the empty DeskDrawer. It does not patch `src/`.
 
 One field opens the drawer. `corpusOpen` already exists and stays the corpus panel. Do **not** reuse it.

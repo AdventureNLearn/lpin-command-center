@@ -2,7 +2,7 @@
 
 Seat: 08 · band: KIT-02 (07–10, 31) · class: public-suite · date: 2026-08-29  
 Coordinator: Host Grok Build. One writer per file.  
-Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`  
+Tree: `REPO_ROOT`  
 This file only. Did not edit `src/`, `_out/`, or `kits/`.
 
 Claim: **DeskDrawer is a dark cockpit panel with three slots. It is not a Kept page.**

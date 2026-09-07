@@ -1,7 +1,7 @@
 # SEAT 32 — COORDINATOR COMMS / STANDUP
 
 Seat: **32 COMMS**. Coordinator: Host Grok Build (this TUI).
-Target class: public-suite. Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`.
+Target class: public-suite. Tree: `REPO_ROOT`.
 Date: 2026-08-29. **This file only.** No `src/`, `_out/`, `kits/`. Fence band (26–30, 32).
 
 Law: `docs/dev-team/README.md` — one tree, one writer per file, write only `docs/dev-team/<NN>-*.md`.

@@ -1,7 +1,7 @@
 # LPIN Inspection desk
 
 **Seat 06** · **Product:** LPIN Intelligence Network  
-**Tree:** `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`  
+**Tree:** `REPO_ROOT`  
 **Method source (copy-from, not write target):** https://insind.grok.me — title **Inspection Index**  
 **This file only.** Do not patch `src/`.
 

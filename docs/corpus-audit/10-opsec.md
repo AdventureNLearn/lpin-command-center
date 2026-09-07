@@ -1,7 +1,7 @@
 # SEAT 10 — OPSEC / PROMOTE READINESS
 
 Target class: public-suite.
-Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`
+Tree: `REPO_ROOT`
 Corpus: `vendor/kept/_out/` (HANDOFF 2026-08-29; WAVE-501 US AUDIT PASS; packages 33/33 PASS).
 Bots: PARK. This seat writes this file only.
 
@@ -80,7 +80,7 @@ Fill files (`*-fill.json`, 12) are ingest-drop diaries. `us-fill.json` `log[]` n
 
 - **Secrets:** no API keys, tokens, vault passwords, Sub8 keys, or `Bearer` dumps in `_out` json/md. `PASTE-FOR-ANL-FEEDS.md` and `FEED-AUDIT.md` state keys stay in browser/env, never in git/STATUS/AUDIT. Policy mentions only.
 - **Skill brands in public UI:** none in `src/` (no AOS / Sub8 / Eagle Eye / gevradio / keptglobal / CoS). Operator chrome **does** exist in internal markdown: `HANDOFF.md`, `STATUS.md`, `PASTE-FOR-ANL-FEEDS.md`, `REACH.md` (ANL / CoS / Grok Build / gevradio / AOS / Eagle Eye as a never-list). Do not surface those files in product UI.
-- **Host paths:** `permit-index.json` `catalog_paths` and `packages/_index.json` `extras[].paths` carry absolute `C:\AOS\...` strings. Internal inventory only.
+- **Host paths:** `permit-index.json` `catalog_paths` and `packages/_index.json` `extras[].paths` must stay relative repo paths. Absolute `C:\AOS\...` host strings are forbidden inventory (reject, do not embed).
 - **Atlas / capitals:** `atlas.json` 196 countries (iso2, name, un_member, kit_on_disk). `capitals.json` 194 capital points, `freshness: delayed`, `kind: capital` only, “not parcel-accurate. No permit pins.” National capitals, not AHJ samples.
 - **Pins:** rest contents not copied anywhere in `_out`. Do not dump 16k pins. Do not remix live gevradio (D-251).
 
@@ -100,7 +100,7 @@ Fill files (`*-fill.json`, 12) are ingest-drop diaries. `us-fill.json` `log[]` n
 **Internal-only (hide from public UI; OK on disk for audit):**
 
 - Permit `notes` strings that enumerate US AHJ slugs or named US cities as exclusions (fj, cl, nz, plus gh/nl/ph/th/tz/mx).
-- `permit-index.json` `catalog_paths` and `_index.json` absolute host paths.
+- `permit-index.json` `catalog_paths` and `_index.json` `paths` if they contain absolute `C:\AOS\...` host strings (must stay relative).
 - Fill-file `log[]` per-member leftover URL diaries.
 - `HANDOFF.md` / `STATUS.md` / `PASTE-FOR-ANL-FEEDS.md` / `REACH.md` / `AUDIT*.md` operator chrome.
 - Any rest pin / GeoJSON expansion of `places-rest.ts` (not in `_out`; do not create).

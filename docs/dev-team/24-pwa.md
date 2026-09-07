@@ -1,7 +1,7 @@
 # SEAT 24 — PWA / KIT-08 PREP
 
 Seat: 24 · band: later kits (11–25, prep only) · class: public-suite · date: 2026-08-29  
-Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`  
+Tree: `REPO_ROOT`  
 Write: this file only. No `src/` edits. No `_out/` edits. No `public/` assets.  
 Did not implement KIT-08. Did not fix the PWA icon.
 

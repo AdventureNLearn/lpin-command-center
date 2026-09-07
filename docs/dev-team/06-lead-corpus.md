@@ -1,7 +1,7 @@
 # LEAD 06 CORPUS — KIT-02 empty drawer (public-suite)
 
 Seat: LEAD 06 CORPUS. Coordinator: Host Grok Build.
-Target class: public-suite. Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`.
+Target class: public-suite. Tree: `REPO_ROOT`.
 Date: 2026-08-29. This file only. Did not edit `src/` or `_out/`. Did not load `votes.json`.
 
 Claim: **corpus is stable enough for KIT-02 empty drawer.**

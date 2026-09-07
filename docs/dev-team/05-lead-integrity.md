@@ -2,10 +2,10 @@
 
 **Seat:** Lead 05 Integrity  
 **Target class:** public-suite  
-**Tree:** `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`  
+**Tree:** `REPO_ROOT`  
 **Write:** this file only. No `src/`. No `_out/`. No `kits/`.  
 **Specialists:** 26 fence `src`, 27 secrets/OPSEC, 30 refuse list  
-**Kernel:** `C:\AOS\ops\HARD-RULES.md` §1. Corpus: `docs/corpus-audit/10-opsec.md`. UI: `src/components/intel/CorpusPanel.tsx`.
+**Kernel:** `<HOST_TREE>/HARD-RULES.md` §1. Corpus: `docs/corpus-audit/10-opsec.md`. UI: `src/components/intel/CorpusPanel.tsx`.
 
 This sitting is doctrine for implementers (KIT-02 next; KIT-03+ later). Do not ship around it.
 
@@ -76,7 +76,7 @@ Bind the **left** column in product UI. The **right** column stays on disk for a
 
 | UI-safe | Internal-only |
 |---------|----------------|
-| `iso2`, country `name`, `un_member`, `kit_on_disk` | `_index.json` `extras[].paths` (absolute `C:\AOS\...`) |
+| `iso2`, country `name`, `un_member`, `kit_on_disk` | `_index.json` `extras[].paths` (reject absolute `C:\AOS\...`) |
 | `kit_on_disk_count` (33), `remaining_count` (0), atlas row count (196) | Fill-file `log[]` leftover URL diaries (`*-fill.json`) |
 | `objects.*.state`, `objects.*.count` | Operator chrome in HANDOFF / STATUS / PASTE / REACH / AUDIT*.md |
 | Object-level `holes[].reason` (counts, “items 0”, “no invented roster”) | Fat `vendor/kept/kits/{iso}/members.json` **name arrays** until KIT-03 + human review |
@@ -89,7 +89,7 @@ Bind the **left** column in product UI. The **right** column stays on disk for a
 | UI-safe | Internal-only — **hide** |
 |---------|--------------------------|
 | `counts.core` / `extra` / `more` / `rest` | `notes[]` strings that enumerate US AHJ **slugs or named US cities** as iso2 exclusions |
-| `lock_date` (`2026-08-18`) | `permit-index.json` `catalog_paths` (absolute host paths) |
+| `lock_date` (`2026-08-18`) | `permit-index.json` `catalog_paths` (relative only; never `C:\AOS\...`) |
 | `honesty.rest_is_count_not_map` (true) | `places-rest.ts` rows / ids / GeoJSON / pin arrays |
 | `honesty.factory_urls_verified` (false) | Expanding “rest N” into a pin list |
 | `honesty.fees_invented` (false); “fees omitted” | Fee tables |
@@ -280,8 +280,8 @@ Write only your `docs/dev-team/<NN>-*.md`. Confirm or tighten this lead. Do not 
 - `docs/corpus-audit/10-opsec.md`: fj/cl/nz `notes` enumerate US AHJ slugs or named cores; il/in/ar counts-only; 501 has no address fields; five members-0 kits honest; secrets 0; skill brands 0 in `src/`; localhost yes field-gated; live gevradio no.
 - `CorpusPanel.tsx`: delayed archive copy; permit counts not notes; 501 integers + “not an influence score”; holes include “nothing from this panel is plotted.”
 - `corpus.ts`: projector over atlas / capitals / permit-index / `_index`; lazy 501 counts; no `notes[]` pass-through.
-- `permit-index.json`: 79 / 462 / 699 / 14925; `rest_is_count_not_map: true`; `factory_urls_verified: false`; `catalog_paths` are absolute host paths.
-- `_index.json` `extras[].paths`: absolute `C:\AOS\...` fill files — internal.
+- `permit-index.json`: 79 / 462 / 699 / 14925; `rest_is_count_not_map: true`; `factory_urls_verified: false`; `catalog_paths` are relative repo paths (never `C:\AOS\...`).
+- `_index.json` `extras[].paths`: relative fill-file paths — reject absolute `C:\AOS\...`.
 - `ARCHIVE.md` / HANDOFF / `vendor/kept/OPSEC.md`: this tree is a new app; do not remix live gevradio / keptglobal until promote + OPSEC gate.
 - `LAYER_META` LEG/AHJ delayed civic labels; store defaults `on: false`.
 - No `src/components/desks/` on disk. Drawer contract (`13-drawer-contract.md`) names placeholder **“No desk selected.”**

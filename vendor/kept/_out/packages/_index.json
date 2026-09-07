@@ -544,7 +544,7 @@
       "audit": "PASS",
       "holes": 19,
       "paths": [
-        "C:\\AOS\\ops\\local-reason-bridge\\sandbox\\work\\groks-eye-view-next\\vendor\\kept\\_out\\packages\\br-fill.json"
+        "vendor/kept/_out/packages/br-fill.json"
       ]
     },
     {
@@ -553,7 +553,7 @@
       "audit": "PASS",
       "holes": 21,
       "paths": [
-        "C:\\AOS\\ops\\local-reason-bridge\\sandbox\\work\\groks-eye-view-next\\vendor\\kept\\_out\\packages\\ca-fill.json"
+        "vendor/kept/_out/packages/ca-fill.json"
       ]
     },
     {
@@ -562,7 +562,7 @@
       "audit": "PASS",
       "holes": 19,
       "paths": [
-        "C:\\AOS\\ops\\local-reason-bridge\\sandbox\\work\\groks-eye-view-next\\vendor\\kept\\_out\\packages\\cn-fill.json"
+        "vendor/kept/_out/packages/cn-fill.json"
       ]
     },
     {
@@ -571,7 +571,7 @@
       "audit": "PASS",
       "holes": 19,
       "paths": [
-        "C:\\AOS\\ops\\local-reason-bridge\\sandbox\\work\\groks-eye-view-next\\vendor\\kept\\_out\\packages\\de-fill.json"
+        "vendor/kept/_out/packages/de-fill.json"
       ]
     },
     {
@@ -580,7 +580,7 @@
       "audit": "PASS",
       "holes": 19,
       "paths": [
-        "C:\\AOS\\ops\\local-reason-bridge\\sandbox\\work\\groks-eye-view-next\\vendor\\kept\\_out\\packages\\fr-fill.json"
+        "vendor/kept/_out/packages/fr-fill.json"
       ]
     },
     {
@@ -589,7 +589,7 @@
       "audit": "PASS",
       "holes": 21,
       "paths": [
-        "C:\\AOS\\ops\\local-reason-bridge\\sandbox\\work\\groks-eye-view-next\\vendor\\kept\\_out\\packages\\gb-fill.json"
+        "vendor/kept/_out/packages/gb-fill.json"
       ]
     },
     {
@@ -598,7 +598,7 @@
       "audit": "PASS",
       "holes": 19,
       "paths": [
-        "C:\\AOS\\ops\\local-reason-bridge\\sandbox\\work\\groks-eye-view-next\\vendor\\kept\\_out\\packages\\it-fill.json"
+        "vendor/kept/_out/packages/it-fill.json"
       ]
     },
     {
@@ -607,7 +607,7 @@
       "audit": "PASS",
       "holes": 16,
       "paths": [
-        "C:\\AOS\\ops\\local-reason-bridge\\sandbox\\work\\groks-eye-view-next\\vendor\\kept\\_out\\packages\\kr-fill.json"
+        "vendor/kept/_out/packages/kr-fill.json"
       ]
     },
     {
@@ -616,7 +616,7 @@
       "audit": "PASS",
       "holes": 21,
       "paths": [
-        "C:\\AOS\\ops\\local-reason-bridge\\sandbox\\work\\groks-eye-view-next\\vendor\\kept\\_out\\packages\\pl-fill.json"
+        "vendor/kept/_out/packages/pl-fill.json"
       ]
     },
     {
@@ -625,7 +625,7 @@
       "audit": "PASS",
       "holes": 21,
       "paths": [
-        "C:\\AOS\\ops\\local-reason-bridge\\sandbox\\work\\groks-eye-view-next\\vendor\\kept\\_out\\packages\\tw-fill.json"
+        "vendor/kept/_out/packages/tw-fill.json"
       ]
     },
     {
@@ -634,7 +634,7 @@
       "audit": "PASS",
       "holes": 17,
       "paths": [
-        "C:\\AOS\\ops\\local-reason-bridge\\sandbox\\work\\groks-eye-view-next\\vendor\\kept\\_out\\packages\\ua-fill.json"
+        "vendor/kept/_out/packages/ua-fill.json"
       ]
     },
     {
@@ -643,7 +643,7 @@
       "audit": "PASS",
       "holes": 19,
       "paths": [
-        "C:\\AOS\\ops\\local-reason-bridge\\sandbox\\work\\groks-eye-view-next\\vendor\\kept\\_out\\packages\\us-fill.json"
+        "vendor/kept/_out/packages/us-fill.json"
       ]
     },
     {
@@ -655,7 +655,7 @@
       "edges": 215,
       "bytes": 126062,
       "paths": [
-        "C:\\AOS\\ops\\local-reason-bridge\\sandbox\\work\\groks-eye-view-next\\vendor\\kept\\_out\\501-links.json"
+        "vendor/kept/_out/501-links.json"
       ]
     },
     {
@@ -666,7 +666,7 @@
       "edges_with_program_area": 9,
       "note": "501-links.json holes[12] 1-based hole 13",
       "paths": [
-        "C:\\AOS\\ops\\local-reason-bridge\\sandbox\\work\\groks-eye-view-next\\vendor\\kept\\_out\\501-links.json"
+        "vendor/kept/_out/501-links.json"
       ]
     }
   ],
@@ -675,7 +675,7 @@
       "kind": "AUDIT-LOG last PASS bytes vs disk",
       "audit_log_bytes": 125973,
       "disk_bytes": 126062,
-      "path": "C:\\AOS\\ops\\local-reason-bridge\\sandbox\\work\\groks-eye-view-next\\vendor\\kept\\_out\\501-links.json"
+      "path": "vendor/kept/_out/501-links.json"
     }
   ],
   "mtime_drift": [],

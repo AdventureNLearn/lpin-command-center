@@ -1,7 +1,7 @@
 # SEAT 17 — NO-REST IMPORT GRAPH
 
 Seat: 17 (later kits, prep only). Coordinator: Host Grok Build.
-Target class: public-suite. Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`.
+Target class: public-suite. Tree: `REPO_ROOT`.
 Date: 2026-08-29. This file only. Did not edit `src/`, `_out/`, or `kits/`.
 
 Claim: **first-paint OverlayHud / corpus do not import Rest. `places.ts` does. KIT-02 / KIT-04 must not import Rest.**

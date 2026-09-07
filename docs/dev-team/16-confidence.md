@@ -1,7 +1,7 @@
 # SEAT 16 — CONFIDENCE CHIPS
 
 Seat: 16 · class: public-suite · date: 2026-08-29  
-Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`  
+Tree: `REPO_ROOT`  
 Band: later kits (11–25). **Prep only. Do not implement KIT-03+.**  
 This sitting writes: this file only. No `src/`, `_out/`, `kits/`, or `package.json` edits.
 

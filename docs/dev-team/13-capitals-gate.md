@@ -2,7 +2,7 @@
 
 Seat: 13 · band: later kits (11–25) · class: public-suite  
 Date: 2026-08-29  
-Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`  
+Tree: `REPO_ROOT`  
 Corpus: `vendor/kept/_out/` (read-only)  
 This sitting writes: this file only. Prep. **Do not implement KIT-03+.** No `src/` edits.
 

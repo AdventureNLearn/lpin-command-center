@@ -1,7 +1,7 @@
 # SEAT 22 — STREAMS (KIT-07 prep)
 
 Seat: 22 · band: later kits (11–25) · date: 2026-08-29  
-Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`  
+Tree: `REPO_ROOT`  
 Kit: `KIT-07-kept-streams.md` (depends on KIT-03). FEATURE_KITS: **Streams (max 8) + compare**.  
 This sitting writes: **this file only**. No `src/` edits. No `_out/` edits. No `kits/` edits. **Do not implement.**
 
@@ -21,7 +21,7 @@ A later KIT-07 turn can put Kept Streams + Compare inside the Kept drawer (after
 
 ## 1. Kit text (load-bearing)
 
-Source: `C:\AOS\ops\obsidian\AOS-v3-Sovereign-Brain\Active\Handoffs\gevradio-unification\KIT-07-kept-streams.md`.
+Source: `<HOST_TREE>/KIT-07-kept-streams.md`.
 
 Depends on **KIT-03**. Execute only that kit when its turn comes. Goal: bring Kept’s Streams and Compare into the **drawer** without turning the globe into a spreadsheet.
 

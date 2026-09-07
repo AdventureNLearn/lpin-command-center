@@ -1,7 +1,7 @@
 # 01 — LEAD INTEGRATION — KIT-02 DeskDrawer
 
 Seat: 01 INTEGRATION · class: public-suite · date: 2026-08-29  
-Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`  
+Tree: `REPO_ROOT`  
 Kit: `KIT-02-desk-drawer.md` (depends on KIT-01; execute only this kit)  
 Specialists 07 / 08 / 09 / 10 / 29 / 31: **files absent**. Disk audit below is the SoT.
 
