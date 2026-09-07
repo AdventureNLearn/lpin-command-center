@@ -1,7 +1,7 @@
 # SEAT 19 — runCommand (later-kits prep)
 
 Seat: 19 RUNCOMMAND. Band: later kits 11–25. Coordinator: Host Grok Build.
-Target class: public-suite. Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`.
+Target class: public-suite. Tree: `REPO_ROOT`.
 Date: 2026-08-29. **This file only.** Did not edit `src/`, `_out/`, or `kits/`. Do not implement KIT-03+.
 
 Claim: **corpus and radio already apply before engine-null. Desk actions must too. Grok output is only a `CommandAction` after `fromUnknown`. `applyAction` must switch every variant.**

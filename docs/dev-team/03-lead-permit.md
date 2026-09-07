@@ -1,7 +1,7 @@
 # LEAD 03 PERMIT — KIT-04 / KIT-06 contract
 
 Seat: LEAD 03 PERMIT. Coordinator: Host Grok Build.
-Target class: public-suite. Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`.
+Target class: public-suite. Tree: `REPO_ROOT`.
 Date: 2026-08-29. This file only. Did not edit `src/`, `_out/`, or `kits/`.
 Did not import or copy `places-rest.ts`. Rest ids, hostnames, and pin rows are not listed here.
 

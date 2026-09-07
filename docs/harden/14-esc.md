@@ -1,7 +1,7 @@
 # SEAT H14 — ESC / MUTEX / 390
 
 Seat: H14 · band: Harden (15) · class: public-suite · date: 2026-08-29  
-Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`  
+Tree: `REPO_ROOT`  
 This sitting writes: **this file only**. No `src/` edit. Coordinator patches OverlayHud after audits.
 
 Lead SoT: `docs/dev-team/01-lead-integration.md` §4 Esc stack, §3 mutex, §5 footer `z-30` vs sheet `z-20`.  

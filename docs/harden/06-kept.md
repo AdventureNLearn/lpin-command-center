@@ -1,7 +1,7 @@
 # SEAT H06 — KEPT HONESTY
 
 Seat: **H06 KEPT HONESTY** · class: public-suite · date: 2026-08-29  
-Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`  
+Tree: `REPO_ROOT`  
 This sitting writes **this file only**. No `src/` edits. No `_out/` rewrite. No `kits/` rewrite.
 
 Probe: `src/lib/kept/desks.ts`, `src/lib/kept/roster.ts`, `src/lib/intel/globeEngine.ts` `loadLegislatures`, plus the call sites that consume them (`flatEngine`, `commands.ts`, `DeskDrawer.tsx`). Gold kits: **metadata + empty `members.json` only**. **Did not load `votes.json` bodies** (any iso, including `_template`).

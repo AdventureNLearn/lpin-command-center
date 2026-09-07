@@ -1,7 +1,7 @@
 # H05 — Drawer surfaces (`DeskDrawer` modes)
 
 Seat: **H05** · band: Harden · class: public-suite · date: 2026-08-29  
-Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`  
+Tree: `REPO_ROOT`  
 This sitting writes: **`docs/harden/05-drawer.md` only.** No `src/` edit. No Playwright.
 
 Claim: **one panel, seven live modes.** The shell is KIT-02 chrome (right 22rem / 390px sheet / `z-20`). The body is no longer “No desk selected.” It is a prefix router on `desk.id`. Four bugs are on disk and named once: **dead ends**, **missing Esc / no back stack**, **390px overflow**, **duplicate `PermitHits`**.

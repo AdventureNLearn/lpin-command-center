@@ -1,7 +1,7 @@
 # SEAT 15 — Places layers (KIT-04 prep)
 
 Seat: 15 · band: later kits · class: public-suite · date: 2026-08-29  
-Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`  
+Tree: `REPO_ROOT`  
 This file is **prep only**. It does not implement KIT-04. It does not patch `src/`.  
 It does not copy, list, or paste `places-rest.ts` ids, names, or URLs.
 

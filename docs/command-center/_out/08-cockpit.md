@@ -1,6 +1,6 @@
 # 08 — Live cockpit inventory (stays)
 
-**Tree:** `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`  
+**Tree:** `REPO_ROOT`  
 **Product:** LPIN. HUD title is **LPIN NETWORK** (`OverlayHud` boot + header). Document title / Talk SYSTEM: **LPIN Intelligence Network**. Not GEV on chrome.  
 **Verdict:** these surfaces **stay**. Packs ride them. Do not replace `/`, iframe hosts, or unmount Cesium.
 

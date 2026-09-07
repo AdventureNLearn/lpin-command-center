@@ -1,7 +1,7 @@
 # SEAT 21 — PIN BUDGET
 
 Seat: 21 · band: later-kits prep (11–25) · class: public-suite  
-Coordinator: Host Grok Build. Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`.  
+Coordinator: Host Grok Build. Tree: `REPO_ROOT`.  
 Date: 2026-08-29. This file only. Did not edit `src/`, `_out/`, or `kits/`.  
 Did not propose a `globeEngine.ts` patch this sitting. Read subscribe as-is.
 

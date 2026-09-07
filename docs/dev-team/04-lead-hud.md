@@ -1,7 +1,7 @@
 # LEAD 04 — HUD / P0 lock (KIT-02 empty drawers)
 
 Seat: 04 HUD/P0 · class: public-suite · date: 2026-08-29  
-Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`  
+Tree: `REPO_ROOT`  
 This sitting writes: **this file only**. Do not edit `src/`.  
 Specialists named (18 commands, 19 runCommand, 25 P0 reconfirm, 28 usability 390): **not on disk** at write time (`docs/dev-team/` had README only). This lead is grounded in OverlayHud / commands / runCommand / RadioDeck / CommsChat / CorpusPanel as they exist now.
 

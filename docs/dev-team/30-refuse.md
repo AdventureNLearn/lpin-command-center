@@ -3,7 +3,7 @@
 Seat: 30 · band: Fence (26–30, 32) · job: refuse  
 Coordinator: Host Grok Build · date: 2026-08-29  
 Target class: public-suite  
-Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`  
+Tree: `REPO_ROOT`  
 This file only. Did not edit `src/`, `_out/`, or `kits/`.
 
 Law for this 32-seat team: write only `docs/dev-team/<NN>-*.md`. One writer per file. Next implement = **KIT-02 empty drawer**. One kit per turn.
@@ -102,7 +102,7 @@ Playwright MCP (Edge persistent profile) is **abandoned this sitting**.
 
 Xplor / Xplorer stays **dead**.
 
-- `C:\xplor\Xplorer\Xplorer.exe` was missing while it still owned `UserChoiceLatest` for `http`/`https` → “Application not found.”
+- `<HOST_TREE>/Xplorer.exe` was missing while it still owned `UserChoiceLatest` for `http`/`https` → “Application not found.”
 - Defaults were repaired to Edge. Reinstalling Xplor can re-hijack associations.
 - Do not launch Xplor. Do not re-associate http/https to Xplorer. Do not use it as the KIT-00/KIT-02 smoke browser.
 - Do not “fix” browser defaults from this team.

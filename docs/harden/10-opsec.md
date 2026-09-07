@@ -2,7 +2,7 @@
 
 Seat: **H10 OPSEC COPY**. Coordinator: Host Grok Build.
 Target class: public-suite.
-Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`.
+Tree: `REPO_ROOT`.
 Date: 2026-08-29. **This file only.** Did not edit `src/`, `_out/`, or `kits/`. Did not print secrets.
 
 Surfaces scanned: `src/components/desks/DeskDrawer.tsx`, `src/components/intel/CorpusPanel.tsx`, `src/components/intel/OverlayHud.tsx` (plus the loaders they call: `corpus.ts`, `desks.ts`, `roster.ts`, `search-lite.ts`). No network.
@@ -103,7 +103,7 @@ Country packs carry `notes` that enumerate **US AHJ slugs or named US cores** as
 - Do not render `notes[]` from `packages/{iso}-permit.json`.
 - Do not list excluded US city/county slugs or `fl-*` / `co-*` / `tx-*` / `tn-*` style tokens.
 - Rest stays a **count** (14925), not a map. Do not dump Rest ids.
-- `permit-index.json` `catalog_paths` (absolute host paths) stay internal.
+- `permit-index.json` `catalog_paths` stay relative repo paths; never emit absolute `C:\AOS\...` in product.
 
 This report does **not** copy those slug lists.
 

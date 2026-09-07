@@ -1,7 +1,7 @@
 # SEAT H02 — COMMAND COLLISIONS
 
 Seat: H02 · harden 02 of 15 · date: 2026-08-29  
-Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`  
+Tree: `REPO_ROOT`  
 This sitting writes: **this file only**. No `src/` edits.
 
 Sources (read fully): `src/lib/intel/commands.ts`, `src/lib/intel/runCommand.ts`.  

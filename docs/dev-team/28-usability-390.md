@@ -1,7 +1,7 @@
 # Seat 28 — Usability 390px (command bar vs drawers)
 
 Seat: 28 · band: Fence · class: public-suite · date: 2026-08-29  
-Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`  
+Tree: `REPO_ROOT`  
 This sitting writes: this file only. No `src/` edit. No Playwright. No `DeskDrawer` create.
 
 **Claim under test:** at **390px** width the command bar stays visible and usable, and the KIT-02 desk drawer must copy the **live CorpusPanel** inset / inner-scroll / z-stack so it does not cover that bar.

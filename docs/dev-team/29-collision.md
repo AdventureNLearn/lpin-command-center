@@ -3,7 +3,7 @@
 Seat: 29 · band: Fence (26–30, 32) · job: collision  
 Coordinator: Host Grok Build · date: 2026-08-29  
 Target class: public-suite  
-Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`  
+Tree: `REPO_ROOT`  
 This sitting writes: **this file only**. No `src/` edits. No `_out/` edits. No `kits/` edits.
 
 D-156: **one writer per file.** Identical prompt head; `resume_from`; do not two-write an authority object.

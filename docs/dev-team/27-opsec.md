@@ -2,7 +2,7 @@
 
 Seat: FENCE 27 OPSEC. Coordinator: Host Grok Build.
 Target class: public-suite.
-Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`.
+Tree: `REPO_ROOT`.
 Corpus: `vendor/kept/_out/` (HANDOFF 2026-08-29; WAVE-501 US AUDIT PASS; packages 33/33 PASS).
 Date: 2026-08-29. This file only. Did not edit `src/`, `_out/`, or `kits/`.
 

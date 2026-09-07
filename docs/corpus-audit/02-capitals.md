@@ -1,7 +1,7 @@
 # SEAT 02 — CAPITALS
 
 Date: 2026-08-29  
-Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`  
+Tree: `REPO_ROOT`  
 Corpus: `vendor/kept/_out/`  
 Files read (not rewritten): `capitals.json`, `atlas.json`, `HANDOFF.md`, `FEED-AUDIT.md`, `AUDIT.md`, `AUDIT-LOG.md`, `STATUS.md`  
 Method: PowerShell `ConvertFrom-Json` join on iso2 (case-insensitive). No network. No src edit.

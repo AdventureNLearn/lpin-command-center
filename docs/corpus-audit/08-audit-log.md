@@ -1,7 +1,7 @@
 # Seat 08 — AUDIT-LOG vs disk
 
 Target class: public-suite.
-Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`
+Tree: `REPO_ROOT`
 Corpus: `vendor/kept/_out/`
 Mined: 2026-08-29. Bots PARK. No network. No writes under `src/`, `vendor/kept/kits/`, `vendor/kept/_out/`.
 

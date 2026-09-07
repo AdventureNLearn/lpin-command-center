@@ -1,7 +1,7 @@
 # SEAT H07 — PERMIT SEARCH
 
 Seat: **H07 PERMIT SEARCH**. Harden pass (15 seats). Coordinator: Host Grok Build.
-Target class: public-suite. Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`.
+Target class: public-suite. Tree: `REPO_ROOT`.
 Date: 2026-08-29. **This file only.** Did not edit `src/`, `_out/`, or `kits/`.
 Did not import, copy, or list `places-rest.ts` ids, hostnames, or pin rows.
 

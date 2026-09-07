@@ -1,7 +1,7 @@
 # SEAT 09 — FENCE
 
 Target class: public-suite  
-Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`  
+Tree: `REPO_ROOT`  
 Corpus: `vendor/kept/_out/`  
 Bots: PARK (`vendor/kept/_out/STATUS.md` STATUS: PARK, writers: none)  
 Mined: 2026-08-29 18:56:33 -04:00 (Eastern Daylight Time)  

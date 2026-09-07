@@ -1,7 +1,7 @@
 # H11 — STORE / TYPES
 
 Seat: **H11 STORE/TYPES**. Harden pass. Coordinator: Host Grok Build.
-Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`
+Tree: `REPO_ROOT`
 Date: 2026-08-29. **This file only.** Did not edit `src/`.
 
 Claim: **`CommandAction` variants all reach `applyAction`. Desk ↔ corpus mutex is store-atomic, HUD-leaky. No `permitRest` flag. Switch has no `never` default.**

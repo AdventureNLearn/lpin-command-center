@@ -1,7 +1,7 @@
 # SEAT H12 — TESTS
 
 Seat: **H12 TESTS** · harden pass · class: public-suite · date: 2026-08-29  
-Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`  
+Tree: `REPO_ROOT`  
 This sitting writes: **this file only**. No `src/` edits. No new `*.test.*`. Coordinator adds tests later.
 
 **Claim:** Catalog integrity is the only civic node test. `parseCommand` has none. Five cheap `node --test` cases would lock desk/layer order, Creedence, core parse, ROOT, and the Rest fence.

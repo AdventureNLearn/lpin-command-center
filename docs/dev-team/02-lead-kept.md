@@ -1,7 +1,7 @@
 # LEAD 02 — KEPT (KIT-03 data contract)
 
 Seat: **02 LEAD KEPT** · class: public-suite · date: 2026-08-29  
-Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`  
+Tree: `REPO_ROOT`  
 This sitting writes **this file only**. No `src/`, `_out/`, `kits/`, `package.json`. No npm, no git push, no grok.me.
 
 Specialists (prep only, later kits): **11** atlas join · **12** members honesty · **13** capitals · **14** us-kit shape · **22** streams · **23** 501.
@@ -40,7 +40,7 @@ FEATURE_KITS: one kit per turn. KIT-03 depends on KIT-02. KIT-07 streams depend 
 
 | Path | Use |
 | --- | --- |
-| `C:\AOS\ops\obsidian\AOS-v3-Sovereign-Brain\Active\Handoffs\gevradio-unification\KIT-03-kept-desks.md` | Kit goal. Depends on KIT-02. |
+| `<HOST_TREE>/KIT-03-kept-desks.md` | Kit goal. Depends on KIT-02. |
 | same dir `KIT-02-desk-drawer.md` | Drawer shell KIT-03 must plug into. |
 | same dir `FEATURE_KITS.md` | One kit per turn; KIT-03 after KIT-02; KIT-07 after KIT-03. |
 | same dir `KIT-07-kept-streams.md` | Streams later. No influence score. |

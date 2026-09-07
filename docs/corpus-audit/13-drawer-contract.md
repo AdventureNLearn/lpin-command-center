@@ -1,7 +1,7 @@
 # 13 — Drawer / adapter contract
 
 Seat: 13 · class: public-suite · date: 2026-08-29  
-Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`  
+Tree: `REPO_ROOT`  
 Corpus: `vendor/kept/_out/` · kits (fat, later): `vendor/kept/kits/{iso}/`  
 This file is the contract. It does not patch `src/`.
 

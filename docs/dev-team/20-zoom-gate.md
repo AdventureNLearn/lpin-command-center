@@ -1,7 +1,7 @@
 # SEAT 20 — ZOOM GATE (KIT-06 prep)
 
 Seat: 20 · band: later kits (prep only) · date: 2026-08-29  
-Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`  
+Tree: `REPO_ROOT`  
 Write: this file only. No `src/` edits. No `_out/` edits. Do not implement KIT-03+.
 
 **Claim:** Rest later must reuse the flights camera-height gate (`heightM > 2_000_000` m = **> 2000 km** → no fetch). KIT-02 and KIT-04 must not plot Rest.
@@ -12,7 +12,7 @@ Write: this file only. No `src/` edits. No `_out/` edits. Do not implement KIT-0
 
 ### KIT-06 (not this sitting)
 
-Source: `C:\AOS\ops\obsidian\AOS-v3-Sovereign-Brain\Active\Handoffs\gevradio-unification\KIT-06-permit-zoom-gate.md`  
+Source: `<HOST_TREE>/KIT-06-permit-zoom-gate.md`  
 Depends on KIT-04. Goal: permit markers stay cheap; Rest never dumps at orbital zoom.
 
 | Camera height (kit, qualitative) | What may draw |

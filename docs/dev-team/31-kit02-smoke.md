@@ -1,7 +1,7 @@
 # SEAT 31 — KIT-02 smoke checklist
 
 Seat: 31 · KIT-02 · class: public-suite · date: 2026-08-29  
-Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`  
+Tree: `REPO_ROOT`  
 This sitting writes: **this file only**. No `src/` edits. No Playwright.  
 Coordinator Host runs this **after** implementing KIT-02 (`KIT-02-desk-drawer.md`). One kit per turn. Do not start KIT-03+.
 

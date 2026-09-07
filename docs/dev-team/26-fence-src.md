@@ -1,7 +1,7 @@
 # SEAT 26 — FENCE SRC
 
 Target class: public-suite  
-Tree: `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`  
+Tree: `REPO_ROOT`  
 Seat: 26 Fence. Write this file only. No `src/` edits this sit.  
 Mined: 2026-08-29 19:23:34 -04:00 (Eastern Daylight Time)  
 Method: disk `LastWriteTime` / `Length` / SHA-256. Content scan of named civic files + `globeEngine.ts`. No network. No revert.

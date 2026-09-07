@@ -1,7 +1,7 @@
 # Seat 07 — KIT-02 shell mount
 
 **Class:** KIT-02 empty desk drawer contract (next implement).  
-**Tree:** `C:\AOS\ops\local-reason-bridge\sandbox\work\groks-eye-view-next`  
+**Tree:** `REPO_ROOT`  
 **This sitting writes:** this file only. No `src/` edits.  
 **P0:** homepage is the Cesium globe. Fail closed if Earth unmounts.
 
