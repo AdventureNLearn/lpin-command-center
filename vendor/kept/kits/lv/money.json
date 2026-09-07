@@ -1,7 +1,25 @@
 {
   "iso2": "lv",
-  "items": [],
+  "named_donors": false,
+  "unit": "EUR",
+  "sitting_total_reconstructed": 6702563,
+  "buckets": [
+    {
+      "label": "state budget funding allocated 2026 (all parties combined)",
+      "amount": 6702563
+    },
+    {
+      "label": "state budget funding paid 2025 (all parties combined)",
+      "amount": 5998138.21
+    },
+    {
+      "label": "2025 municipal election campaign-period revenues (aggregate)",
+      "amount": 2353833
+    }
+  ],
   "incomplete": true,
+  "source_url": "https://www.knab.gov.lv/lv/valsts-budzeta-finansejums",
+  "extra_source_url": "https://www.knab.gov.lv/lv/jaunums/knab-saucis-pie-administrativas-atbildibas-gandriz-pusi-no-aizvaditajas-velesanas-kandidejusajam-politiskajam-organizacijam",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "KNAB official party-funding pages HTTP 200 (probed 2026-09-06). Source-type aggregates only. 2026 allocation printed 'Valsts budžeta finansējums politiskajām partijām un to apvienībām 2026. gadā ir 6 702 563 eiro' (page dated 15.07.2026). 2025 paid Kopā 5 998 138,21 eiro from the same table (2023 5 675 351,04 / 2024 6 024 268,22 not stored). 2025 municipal-election campaign-period combined revenues 2 353 833 eiro from KNAB 07.01.2026 declaration-audit notice (expenses 6 185 924 and limited-agitation subset 2 709 996 not stored — different side / overlap). Per-party rows not stored. Named private donors not collected. sitting_total_reconstructed is the 2026 printed combined allocation, not a sum of all buckets."
 }

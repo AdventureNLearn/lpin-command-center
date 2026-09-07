@@ -1,4 +1,18 @@
 {
   "iso2": "bg",
-  "items": []
+  "chamber": "National Assembly of Bulgaria",
+  "session": "",
+  "source_url": "https://www.parliament.bg/api/v1/vote-list",
+  "retrieved": "2026-09-06",
+  "incomplete": true,
+  "items": [
+    {
+      "id": "bg-vote-62",
+      "date": "2011-01-20",
+      "title": "гласуване на доверие по цялостната политика на Министерския съвет с министър-председател Бойко Борисов",
+      "issue_id": "",
+      "origin": "official-api",
+      "source_url": "https://www.parliament.bg/api/v1/vote-list"
+    }
+  ]
 }

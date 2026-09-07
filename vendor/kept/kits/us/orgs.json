@@ -1,7 +1,291 @@
 {
   "iso2": "us",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://api.open.fec.gov/v1/committees/",
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "C00462390",
+      "name": "007 GO GODWIN COMMITTEE",
+      "kind": "Presidential",
+      "source_url": "https://www.fec.gov/data/committee/C00462390/",
+      "committee_type": "Presidential",
+      "party": "DEMOCRATIC PARTY"
+    },
+    {
+      "id": "C00886879",
+      "name": "10000 LAKES PAC",
+      "kind": "PAC - Nonqualified",
+      "source_url": "https://www.fec.gov/data/committee/C00886879/",
+      "committee_type": "PAC - Nonqualified"
+    },
+    {
+      "id": "C00555748",
+      "name": "10,000 LAKES VICTORY 2014",
+      "kind": "PAC - Nonqualified",
+      "source_url": "https://www.fec.gov/data/committee/C00555748/",
+      "committee_type": "PAC - Nonqualified"
+    },
+    {
+      "id": "C00877886",
+      "name": "1000 WOMEN STRONG PAC",
+      "kind": "Super PAC (Independent Expenditure-Only)",
+      "source_url": "https://www.fec.gov/data/committee/C00877886/",
+      "committee_type": "Super PAC (Independent Expenditure-Only)"
+    },
+    {
+      "id": "C00831172",
+      "name": "100-40 PAC",
+      "kind": "Hybrid PAC (with Non-Contribution Account) - Nonqualified",
+      "source_url": "https://www.fec.gov/data/committee/C00831172/",
+      "committee_type": "Hybrid PAC (with Non-Contribution Account) - Nonqualified"
+    },
+    {
+      "id": "C00239533",
+      "name": "100 BLACK MEN OF NEW JERSEY INC POLITICAL ACTION COMMITTEE",
+      "kind": "PAC - Nonqualified",
+      "source_url": "https://www.fec.gov/data/committee/C00239533/",
+      "committee_type": "PAC - Nonqualified"
+    },
+    {
+      "id": "C00358796",
+      "name": "100 PRO LIFE PAC",
+      "kind": "PAC - Nonqualified",
+      "source_url": "https://www.fec.gov/data/committee/C00358796/",
+      "committee_type": "PAC - Nonqualified"
+    },
+    {
+      "id": "C00724070",
+      "name": "1031 PAC",
+      "kind": "Hybrid PAC (with Non-Contribution Account) - Nonqualified",
+      "source_url": "https://www.fec.gov/data/committee/C00724070/",
+      "committee_type": "Hybrid PAC (with Non-Contribution Account) - Nonqualified"
+    },
+    {
+      "id": "C00563023",
+      "name": "10 ^ 9+",
+      "kind": "Super PAC (Independent Expenditure-Only)",
+      "source_url": "https://www.fec.gov/data/committee/C00563023/",
+      "committee_type": "Super PAC (Independent Expenditure-Only)"
+    },
+    {
+      "id": "C00943464",
+      "name": "10 PUSH UPS PAC",
+      "kind": "PAC - Nonqualified",
+      "source_url": "https://www.fec.gov/data/committee/C00943464/",
+      "committee_type": "PAC - Nonqualified"
+    },
+    {
+      "id": "C00429613",
+      "name": "10TH CD VICTORY FUND",
+      "kind": "PAC - Qualified",
+      "source_url": "https://www.fec.gov/data/committee/C00429613/",
+      "committee_type": "PAC - Qualified",
+      "party": "DEMOCRATIC PARTY"
+    },
+    {
+      "id": "C00119693",
+      "name": "10TH CONG DEMOCRATIC WOMEN POLITICAL ACTION FUND",
+      "kind": "House",
+      "source_url": "https://www.fec.gov/data/committee/C00119693/",
+      "committee_type": "House",
+      "party": "DEMOCRATIC PARTY"
+    },
+    {
+      "id": "C00223743",
+      "name": "10TH CONGRESSIONAL DISTRICT DELEGATES FOR BOB DOLE",
+      "kind": "Delegate Committee",
+      "source_url": "https://www.fec.gov/data/committee/C00223743/",
+      "committee_type": "Delegate Committee"
+    },
+    {
+      "id": "C00181032",
+      "name": "10TH CONGRESSIONAL DISTRICT DELEGATES FOR MONDALE",
+      "kind": "Delegate Committee",
+      "source_url": "https://www.fec.gov/data/committee/C00181032/",
+      "committee_type": "Delegate Committee"
+    },
+    {
+      "id": "C00163121",
+      "name": "10TH CONGRESSIONAL DISTRICT DEMOCRATIC ACTION COMM OF OHIO",
+      "kind": "Party - Nonqualified",
+      "source_url": "https://www.fec.gov/data/committee/C00163121/",
+      "committee_type": "Party - Nonqualified",
+      "party": "DEMOCRATIC PARTY"
+    },
+    {
+      "id": "C00408286",
+      "name": "10TH CONGRESSIONAL DISTRICT DEMOCRATIC COMM",
+      "kind": "Party - Nonqualified",
+      "source_url": "https://www.fec.gov/data/committee/C00408286/",
+      "committee_type": "Party - Nonqualified",
+      "party": "DEMOCRATIC PARTY"
+    },
+    {
+      "id": "C00296806",
+      "name": "10TH CONGRESSIONAL DISTRICT DEMOCRATIC LEADERSHIP CAUCUS",
+      "kind": "Party - Qualified",
+      "source_url": "https://www.fec.gov/data/committee/C00296806/",
+      "committee_type": "Party - Qualified",
+      "party": "DEMOCRATIC PARTY"
+    },
+    {
+      "id": "C00180141",
+      "name": "10TH CONGRESSIONAL DISTRICT MONDALE DELEGATE COMMITTEE",
+      "kind": "Delegate Committee",
+      "source_url": "https://www.fec.gov/data/committee/C00180141/",
+      "committee_type": "Delegate Committee"
+    },
+    {
+      "id": "C00360305",
+      "name": "10TH CONGRESSIONAL DISTRICT VICTORY FUND - FEDERAL",
+      "kind": "Party - Nonqualified",
+      "source_url": "https://www.fec.gov/data/committee/C00360305/",
+      "committee_type": "Party - Nonqualified"
+    },
+    {
+      "id": "C88000971",
+      "name": "10TH CONRESSIONAL DISTRICT CARTER DELEGATE CANDIDATES COMMITTEE",
+      "kind": "Delegate Committee",
+      "source_url": "https://www.fec.gov/data/committee/C88000971/",
+      "committee_type": "Delegate Committee"
+    },
+    {
+      "id": "C00486647",
+      "name": "10TH CONSTITUTION PAC",
+      "kind": "PAC - Nonqualified",
+      "source_url": "https://www.fec.gov/data/committee/C00486647/",
+      "committee_type": "PAC - Nonqualified"
+    },
+    {
+      "id": "C00074468",
+      "name": "10TH DISTRICT CONGRESSIONAL DEMOCRAT ACTION CLUB",
+      "kind": "Party - Nonqualified",
+      "source_url": "https://www.fec.gov/data/committee/C00074468/",
+      "committee_type": "Party - Nonqualified",
+      "party": "DEMOCRATIC PARTY"
+    },
+    {
+      "id": "C00170498",
+      "name": "10TH DISTRICT COUNCIL",
+      "kind": "PAC - Nonqualified",
+      "source_url": "https://www.fec.gov/data/committee/C00170498/",
+      "committee_type": "PAC - Nonqualified"
+    },
+    {
+      "id": "C00177790",
+      "name": "10TH DISTRICT DELEGATE COMMITTEE",
+      "kind": "Delegate Committee",
+      "source_url": "https://www.fec.gov/data/committee/C00177790/",
+      "committee_type": "Delegate Committee"
+    },
+    {
+      "id": "C00227181",
+      "name": "10TH DISTRICT DELEGATE COMMITTEE FOR MIKE DUKAKIS",
+      "kind": "Delegate Committee",
+      "source_url": "https://www.fec.gov/data/committee/C00227181/",
+      "committee_type": "Delegate Committee"
+    },
+    {
+      "id": "C00175836",
+      "name": "10TH DISTRICT MONDALE DELEGATE COMMITTEE",
+      "kind": "Delegate Committee",
+      "source_url": "https://www.fec.gov/data/committee/C00175836/",
+      "committee_type": "Delegate Committee"
+    },
+    {
+      "id": "C00005462",
+      "name": "10TH DISTRICT REPUBLICAN CONGRESSIONAL COMMITTEE",
+      "kind": "Party - Qualified",
+      "source_url": "https://www.fec.gov/data/committee/C00005462/",
+      "committee_type": "Party - Qualified",
+      "party": "REPUBLICAN PARTY"
+    },
+    {
+      "id": "C00896209",
+      "name": "10X CALIFORNIA",
+      "kind": "Super PAC (Independent Expenditure-Only)",
+      "source_url": "https://www.fec.gov/data/committee/C00896209/",
+      "committee_type": "Super PAC (Independent Expenditure-Only)"
+    },
+    {
+      "id": "C00943167",
+      "name": "10X THE VOTE",
+      "kind": "Super PAC (Independent Expenditure-Only)",
+      "source_url": "https://www.fec.gov/data/committee/C00943167/",
+      "committee_type": "Super PAC (Independent Expenditure-Only)"
+    },
+    {
+      "id": "C00687368",
+      "name": "11/06/18 VICTORY FUND",
+      "kind": "Super PAC (Independent Expenditure-Only)",
+      "source_url": "https://www.fec.gov/data/committee/C00687368/",
+      "committee_type": "Super PAC (Independent Expenditure-Only)"
+    },
+    {
+      "id": "C00686774",
+      "name": "1106 FUND",
+      "kind": "House",
+      "source_url": "https://www.fec.gov/data/committee/C00686774/",
+      "committee_type": "House"
+    },
+    {
+      "id": "C00659722",
+      "name": "115TH FRESHMEN VICTORY",
+      "kind": "PAC - Nonqualified",
+      "source_url": "https://www.fec.gov/data/committee/C00659722/",
+      "committee_type": "PAC - Nonqualified"
+    },
+    {
+      "id": "C90022559",
+      "name": "1199 SEIU NEW YORK STATE POLITICAL ACTION FUND",
+      "kind": "Independent expenditure filer (not a committee)",
+      "source_url": "https://www.fec.gov/data/committee/C90022559/",
+      "committee_type": "Independent expenditure filer (not a committee)"
+    },
+    {
+      "id": "C90013426",
+      "name": "1199SEIU UNITED HEALTHCARE WORKERS EAST",
+      "kind": "Independent expenditure filer (not a committee)",
+      "source_url": "https://www.fec.gov/data/committee/C90013426/",
+      "committee_type": "Independent expenditure filer (not a committee)"
+    },
+    {
+      "id": "C00348540",
+      "name": "1199 SEIU UNITED HEALTHCARE WORKERS EAST FEDERAL POLITICAL ACTION FUND",
+      "kind": "PAC - Qualified",
+      "source_url": "https://www.fec.gov/data/committee/C00348540/",
+      "committee_type": "PAC - Qualified"
+    },
+    {
+      "id": "C00344531",
+      "name": "1199 SEIU UNITED HEALTHCARE WORKERS EAST HOME CARE POLITICAL ACTION FUND",
+      "kind": "PAC - Qualified",
+      "source_url": "https://www.fec.gov/data/committee/C00344531/",
+      "committee_type": "PAC - Qualified"
+    },
+    {
+      "id": "C00561084",
+      "name": "11 CONGRESSIONAL DISTRICT OF ILLINOIS TEA PARTY PAC",
+      "kind": "PAC - Nonqualified",
+      "source_url": "https://www.fec.gov/data/committee/C00561084/",
+      "committee_type": "PAC - Nonqualified"
+    },
+    {
+      "id": "C00178467",
+      "name": "11TH CONGRESSIONAL DELEGATES FOR MONDALE",
+      "kind": "Delegate Committee",
+      "source_url": "https://www.fec.gov/data/committee/C00178467/",
+      "committee_type": "Delegate Committee"
+    },
+    {
+      "id": "C88000765",
+      "name": "11TH CONGRESSIONAL DIST CARTER DELEGATES",
+      "kind": "Delegate Committee",
+      "source_url": "https://www.fec.gov/data/committee/C88000765/",
+      "committee_type": "Delegate Committee",
+      "party": "DEMOCRATIC PARTY"
+    }
+  ],
+  "note": "Capped sample from official source."
 }

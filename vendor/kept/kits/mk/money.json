@@ -1,7 +1,40 @@
 {
   "iso2": "mk",
-  "items": [],
+  "named_donors": false,
+  "unit": "MKD",
+  "sitting_total_reconstructed": 385022129,
+  "buckets": [
+    {
+      "label": "paid political advertising from state budget (parliamentary election campaign 2024, all participants combined)",
+      "amount": 244756444
+    },
+    {
+      "label": "other transfers from party main accounts (aggregate)",
+      "amount": 75979798
+    },
+    {
+      "label": "donations from individuals transferred from regular-operation accounts (aggregate)",
+      "amount": 51209059
+    },
+    {
+      "label": "donations from individuals to campaign accounts (aggregate)",
+      "amount": 8852253
+    },
+    {
+      "label": "donations from legal entities transferred from regular-operation accounts (aggregate)",
+      "amount": 2180675
+    },
+    {
+      "label": "donations from legal entities to campaign accounts (aggregate)",
+      "amount": 1204125
+    },
+    {
+      "label": "in-kind donations (aggregate)",
+      "amount": 839775
+    }
+  ],
   "incomplete": true,
+  "source_url": "https://dksk.mk/wp-content/uploads/2024/09/DKSK-Izveshtaj.pdf",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "SCPC (DKSK) special report on financing of the 2024 Assembly election campaign HTTP 200 (probed 2026-09-06). Printed combined revenues ВКУПНО ПРИХОДИ 385.022.129 denars. Source-type aggregate buckets from the official table total row (PPR 244.756.444; other main-account transfers 75.979.798; individual donations via regular accounts 51.209.059; individual campaign-account donations 8.852.253; legal-entity donations via regular accounts 2.180.675; legal-entity campaign-account donations 1.204.125; in-kind 839.775). Per-participant rows not stored. Named private donors not collected. sitting_total_reconstructed is the printed combined total, not a reconstructed sum."
 }

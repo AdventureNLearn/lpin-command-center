@@ -1,7 +1,19 @@
 {
   "iso2": "fi",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://vaalit.fi/en/list-of-registered-parties",
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "fi-org-1",
+      "name": "Sinimusta Liike r.p.",
+      "source_url": "https://vaalit.fi/en/list-of-registered-parties"
+    },
+    {
+      "id": "fi-org-2",
+      "name": "Suomen Graniittipuolue r.p.",
+      "source_url": "https://vaalit.fi/en/list-of-registered-parties"
+    }
+  ],
+  "note": "Capped sample from official source."
 }

@@ -25,9 +25,24 @@
       "id": "committees",
       "hole": "No sourced committee list.",
       "basis": "Evidence"
+    },
+    {
+      "id": "orgs",
+      "hole": "No sourced org list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members-count",
+      "hole": "Wikidata sitting 233 vs claimed_seats 130 / institutional 130. Overcount 103 (historical or multi-body rows likely). Rows not trimmed or invented.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members-cross-chamber",
+      "hole": "1 extra row(s) share a Wikidata person across chambers. Kept: id and name+chamber keys differ. Not collapsed.",
+      "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: National Council of Slovenia · National Assembly · Slovenian Parliament. Sitting 233. Empty objects not invented."
+  "note": "Polish polish-iso-12 2026-09-06. Sitting 233. Dupes removed 0 (id then name+chamber). Overcount 103 vs 130. Empty categories are holes, not zeros invented."
 }

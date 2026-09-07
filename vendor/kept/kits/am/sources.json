@@ -28,6 +28,41 @@
       "url": "https://www.wikidata.org/wiki/Q17277248",
       "kind": "index",
       "basis": "Evidence"
+    },
+    {
+      "id": "official-orgs",
+      "label": "Official registered political parties / committees",
+      "url": "https://old.parliament.am/deputies.php?sel=factions&lang=eng",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://old.parliament.am/committees.php?lang=eng",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-votes",
+      "label": "Official roll-call / division source",
+      "url": "https://www.parliament.am/sittings/sitting-minutes/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-ethics",
+      "label": "Official ethics",
+      "url": "https://cpcarmenia.am",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-money",
+      "label": "Official money / campaign-finance portal",
+      "url": "https://www.elections.am",
+      "kind": "primary",
+      "basis": "Evidence"
     }
   ],
   "incomplete": false

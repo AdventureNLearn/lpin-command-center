@@ -1,7 +1,9 @@
 {
   "iso2": "hr",
-  "items": [],
+  "named_public_filers": false,
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced filers for this ISO. Not invented."
+  "source_url": "https://data.gov.hr/ckan/dataset/registar-politickih-stranaka-republike-hrvatske",
+  "items": [],
+  "note": "CKAN party register is an orgs source, not a disclosure-filer list. Sample contained municipality-named rows; not stored as filers. Not invented."
 }

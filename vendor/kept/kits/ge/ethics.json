@@ -1,7 +1,17 @@
 {
   "iso2": "ge",
-  "items": [],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced ethics for this ISO. Not invented."
+  "note": "Public ACB officials' property-status declaration register named on the official portal title (HTTP 200). Search-index organisation names (incl. subnational) not stored. No amounts. No PII.",
+  "source_url": "https://declaration.acb.gov.ge",
+  "items": [
+    {
+      "member_id": null,
+      "category": "თანამდებობის პირთა ქონებრივი მდგომარეობის დეკლარაციები",
+      "public": true,
+      "amount_band": null,
+      "origin": "clerk",
+      "source_url": "https://declaration.acb.gov.ge"
+    }
+  ]
 }

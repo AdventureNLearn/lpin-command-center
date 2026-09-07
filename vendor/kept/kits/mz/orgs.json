@@ -1,7 +1,34 @@
 {
   "iso2": "mz",
-  "items": [],
+  "source_url": "https://www.parlamento.mz/",
+  "items": [
+    {
+      "id": "frelimo",
+      "name": "FRELIMO",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.parlamento.mz/"
+    },
+    {
+      "id": "podemos",
+      "name": "PODEMOS",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.parlamento.mz/"
+    },
+    {
+      "id": "renamo",
+      "name": "RENAMO",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.parlamento.mz/"
+    },
+    {
+      "id": "mdm",
+      "name": "MDM",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.parlamento.mz/"
+    }
+  ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "origin": "electoral-register",
+  "note": "Assembleia da República homepage bancada labels. Cap 40. Incomplete."
 }

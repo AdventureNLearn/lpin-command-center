@@ -22,12 +22,27 @@
       "basis": "Evidence"
     },
     {
-      "id": "committees",
-      "hole": "No sourced committee list.",
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "orgs",
+      "hole": "No sourced org list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members-overcount",
+      "hole": "Named members 144 exceed statutory 109. Wikidata P39 includes former terms. Names not deleted without a current-term official list.",
       "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: Deputy · National Assembly. Sitting 144. Empty objects not invented."
+  "note": "Polish 2026-09-06 polish-iso-02. Members 144 of statutory 109 (overcount 35). Dupes removed 0. Names not invented down."
 }

@@ -1,7 +1,27 @@
 {
   "iso2": "gm",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://assembly.gm/members/parties",
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "national-peoples-party",
+      "name": "National People's Party",
+      "origin": "clerk",
+      "source_url": "https://assembly.gm/members/parties/national-peoples-party"
+    },
+    {
+      "id": "united-democratic-party",
+      "name": "United Democratic Party",
+      "origin": "clerk",
+      "source_url": "https://assembly.gm/members/parties/united-democratic-party"
+    },
+    {
+      "id": "national-reconciliation-party",
+      "name": "National Reconciliation Party",
+      "origin": "clerk",
+      "source_url": "https://assembly.gm/members/parties/national-reconciliation-party"
+    }
+  ],
+  "note": "Capped sample from official source."
 }

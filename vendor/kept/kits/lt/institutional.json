@@ -30,7 +30,9 @@
       "name": "Seimas",
       "kind": "parliament",
       "seats": 141,
-      "url": "https://www.lrs.lt/"
+      "url": "https://www.lrs.lt/",
+      "http_status": 200,
+      "official_http_200": true
     },
     {
       "id": "Q18507240",
@@ -40,5 +42,5 @@
       "url": "https://www.wikidata.org/wiki/Q18507240"
     }
   ],
-  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score. polish-iso-08: official parliament URLs noted only on HTTP 200; 403 is a miss. polish-iso-08: official parliament URLs noted only on HTTP 200; 403 is a miss."
 }

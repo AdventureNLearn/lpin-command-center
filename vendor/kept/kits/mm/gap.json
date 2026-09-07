@@ -2,6 +2,11 @@
   "iso2": "mm",
   "items": [
     {
+      "id": "members",
+      "hole": "items 76 claimed_seats 664 (underfill). Wikidata P39 without end-date filter. Current sitting not invented.",
+      "basis": "Evidence"
+    },
+    {
       "id": "votes",
       "hole": "No sourced roll-call file.",
       "basis": "Evidence"
@@ -22,12 +27,22 @@
       "basis": "Evidence"
     },
     {
-      "id": "committees",
-      "hole": "No sourced committee list.",
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "orgs",
+      "hole": "No sourced org list.",
       "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: Amyotha Hluttaw · Chamber of Nationalities · House of Representatives · Speaker of the Assembly of the Union of Myanmar · Assembly of the Union. Sitting 76. Empty objects not invented."
+  "note": "polish-iso-09. Sitting 76. Empty categories are holes, not zeros invented."
 }

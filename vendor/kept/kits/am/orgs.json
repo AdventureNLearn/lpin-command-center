@@ -1,7 +1,28 @@
 {
   "iso2": "am",
-  "items": [],
+  "source_url": "https://old.parliament.am/deputies.php?sel=factions&lang=eng",
+  "items": [
+    {
+      "id": "am-faction-82",
+      "name": "Civil Contract",
+      "kind": "political-party",
+      "source_url": "https://old.parliament.am/deputies.php?sel=factions&GroupingID=82&show_session=8&lang=eng"
+    },
+    {
+      "id": "am-faction-83",
+      "name": "Armenia",
+      "kind": "political-party",
+      "source_url": "https://old.parliament.am/deputies.php?sel=factions&GroupingID=83&show_session=8&lang=eng"
+    },
+    {
+      "id": "am-faction-84",
+      "name": "With Honor",
+      "kind": "political-party",
+      "source_url": "https://old.parliament.am/deputies.php?sel=factions&GroupingID=84&show_session=8&lang=eng"
+    }
+  ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "origin": "crawl-merge",
+  "note": "Merged from crawl collected.orgs (official source). Cap 40. Incomplete."
 }

@@ -1,7 +1,39 @@
 {
   "iso2": "cv",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://cne.cv/sala_de_imprensa_/legislativas-2026-48-listas-candidatas-de-cinco-partidos-validadas-para-as-eleicoes/",
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "movimento-para-a-democracia-mpd",
+      "name": "Movimento para a Democracia (MpD)",
+      "kind": "political-party",
+      "source_url": "https://cne.cv/sala_de_imprensa_/legislativas-2026-48-listas-candidatas-de-cinco-partidos-validadas-para-as-eleicoes/"
+    },
+    {
+      "id": "partido-africano-da-independencia-de-cabo-verde-paicv",
+      "name": "Partido Africano da Independência de Cabo Verde (PAICV)",
+      "kind": "political-party",
+      "source_url": "https://cne.cv/sala_de_imprensa_/legislativas-2026-48-listas-candidatas-de-cinco-partidos-validadas-para-as-eleicoes/"
+    },
+    {
+      "id": "partido-popular-pp",
+      "name": "Partido Popular (PP)",
+      "kind": "political-party",
+      "source_url": "https://cne.cv/sala_de_imprensa_/legislativas-2026-48-listas-candidatas-de-cinco-partidos-validadas-para-as-eleicoes/"
+    },
+    {
+      "id": "pessoas-trabalho-e-solidariedade-pts",
+      "name": "Pessoas, Trabalho e Solidariedade (PTS)",
+      "kind": "political-party",
+      "source_url": "https://cne.cv/sala_de_imprensa_/legislativas-2026-48-listas-candidatas-de-cinco-partidos-validadas-para-as-eleicoes/"
+    },
+    {
+      "id": "uniao-cabo-verdiana-independente-e-democratica-ucid",
+      "name": "União Cabo-verdiana Independente e Democrática (UCID)",
+      "kind": "political-party",
+      "source_url": "https://cne.cv/sala_de_imprensa_/legislativas-2026-48-listas-candidatas-de-cinco-partidos-validadas-para-as-eleicoes/"
+    }
+  ],
+  "note": "CNE official legislative-lists notice names five competing parties. Cap 40. Incomplete."
 }

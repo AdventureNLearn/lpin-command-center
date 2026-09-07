@@ -1,6 +1,18 @@
 {
   "iso2": "hu",
   "kit": "institutional",
-  "items": [],
-  "incomplete": true
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "houses": [],
+  "seats": 199,
+  "items": [
+    {
+      "id": "hu",
+      "name": "National Assembly",
+      "kind": "parliament",
+      "seats": 199,
+      "url": "https://www.parlament.hu/"
+    }
+  ],
+  "note": "Unicameral national legislature. Wikidata sitting file overcounts vs statutory 199."
 }

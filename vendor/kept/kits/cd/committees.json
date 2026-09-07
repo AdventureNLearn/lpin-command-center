@@ -1,7 +1,9 @@
 {
   "iso2": "cd",
-  "source_url": "https://www.wikidata.org/wiki/Q282928",
-  "retrieved": "2026-09-06",
+  "items": [],
   "incomplete": true,
-  "items": []
+  "retrieved": "2026-09-07",
+  "note": "assemblee-nationale.cd fetch failed. senat.cd HTTP 200 (~7kB) has no committee names in GET HTML. Names not invented.",
+  "source_url": "https://www.senat.cd/",
+  "http_status": 200
 }

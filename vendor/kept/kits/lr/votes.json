@@ -1,7 +1,16 @@
 {
   "iso2": "lr",
-  "items": [],
+  "source_url": "https://senate.gov.lr/votes/",
+  "retrieved": "2026-09-07",
   "incomplete": true,
-  "retrieved": "2026-09-06",
-  "note": "No sourced votes for this ISO. Not invented."
+  "items": [
+    {
+      "id": "lr-vote-2023-02-23",
+      "date": "2023-02-23",
+      "title": "Confirmation of 33 Officers of the AFL",
+      "origin": "clerk",
+      "source_url": "https://senate.gov.lr/votes-confirmation-of-33-officers-of-the-afl/"
+    }
+  ],
+  "note": "Official Senate Voting Records HTML HTTP 200. 1 row(s) present in first HTML (WP REST 401). Position arrays not collected. Incomplete corpus."
 }

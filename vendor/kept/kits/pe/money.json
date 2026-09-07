@@ -1,7 +1,51 @@
 {
   "iso2": "pe",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://www.gob.pe/institucion/onpe/noticias/1324622-partidos-representados-en-el-actual-congreso-recibiran-ultimos-montos-del-financiamiento-publico-directo",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "incomplete": true,
+  "named_donors": false,
+  "buckets": [
+    {
+      "label": "Partido Político Nacional Perú Libre",
+      "amount": 1225034.01
+    },
+    {
+      "label": "Fuerza Popular",
+      "amount": 1090520.94
+    },
+    {
+      "label": "Renovación Popular",
+      "amount": 960389.38
+    },
+    {
+      "label": "Acción Popular",
+      "amount": 940234.41
+    },
+    {
+      "label": "Alianza para el Progreso",
+      "amount": 844388.45
+    },
+    {
+      "label": "Avanza País - Partido de Integración Social",
+      "amount": 844065.59
+    },
+    {
+      "label": "Juntos por el Perú",
+      "amount": 782782.75
+    },
+    {
+      "label": "Partido Democrático Somos Perú",
+      "amount": 752979.94
+    },
+    {
+      "label": "Podemos Perú",
+      "amount": 733685.53
+    },
+    {
+      "label": "Partido Morado",
+      "amount": 706976.39
+    }
+  ],
+  "unit": "PEN",
+  "note": "Official ONPE remaining FPD party totals for Jan–Jul 2026 (2021–2026 Congress public finance). Named private donors not collected."
 }

@@ -1,7 +1,136 @@
 {
   "iso2": "il",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_LobbyistsClients",
   "retrieved": "2026-09-06",
-  "note": "No sourced filers for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "sap",
+      "name": "SAP",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_LobbyistsClients"
+    },
+    {
+      "id": "yes",
+      "name": "yes",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_LobbyistsClients"
+    },
+    {
+      "id": "il-client-49",
+      "name": "אגוד נותני שרותי הסיעוד בישראל",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_LobbyistsClients"
+    },
+    {
+      "id": "il-client-52",
+      "name": "אגודת האקדמאים למדעי החברה והרוח בישראל",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_LobbyistsClients"
+    },
+    {
+      "id": "il-client-59",
+      "name": "אדם טבע ודין",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_LobbyistsClients"
+    },
+    {
+      "id": "il-client-62",
+      "name": "אהבה ארגון הנכים בישראל המיוחד",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_LobbyistsClients"
+    },
+    {
+      "id": "il-client-64",
+      "name": "אור וישועה (ע\"ר)",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_LobbyistsClients"
+    },
+    {
+      "id": "edf",
+      "name": "EDF-אנרגיות מתחדשות ישראל",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_LobbyistsClients"
+    },
+    {
+      "id": "il-client-75",
+      "name": "איגוד הבנקים",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_LobbyistsClients"
+    },
+
+    {
+      "id": "il-client-84",
+      "name": "איגוד השמאים בישראל (ע\"ר)",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_LobbyistsClients"
+    },
+    {
+      "id": "il-client-85",
+      "name": "איגוד חברות הביטוח בישראל  (התאחדות חברות לביטוח חיים בע\"מ)",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_LobbyistsClients"
+    },
+    {
+      "id": "il-client-99",
+      "name": "האיגוד הארצי לקציני-ים",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_LobbyistsClients"
+    },
+    {
+      "id": "il-client-122",
+      "name": "אסותא",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_LobbyistsClients"
+    },
+    {
+      "id": "il-client-123",
+      "name": "אסם-נסטלה",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_LobbyistsClients"
+    },
+    {
+      "id": "il-client-130",
+      "name": "ארגון הגג של המסעדות האתניות",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_LobbyistsClients"
+    },
+    {
+      "id": "il-client-136",
+      "name": "איגוד חברות לאספקת שירותי משאבי אנוש בישראל",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_LobbyistsClients"
+    },
+    {
+      "id": "il-client-140",
+      "name": "ארגון משפחות נרצחים ונרצחות",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_LobbyistsClients"
+    },
+    {
+      "id": "il-client-142",
+      "name": "ארגון עובדי צה\"ל",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_LobbyistsClients"
+    },
+    {
+      "id": "il-client-144",
+      "name": "ארגון רבני צהר",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_LobbyistsClients"
+    },
+    {
+      "id": "il-client-147",
+      "name": "בזק -החברה הישראלית לתקשורת בע\"מ",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_LobbyistsClients"
+    },
+    {
+      "id": "il-client-149",
+      "name": "בטרם",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_LobbyistsClients"
+    }
+  ],
+  "note": "Client organisations from official OData. Cap 40. No identity numbers. Harvest kit not clobbered."
 }

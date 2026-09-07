@@ -27,7 +27,11 @@
       "label": "Congress of the Federated States of Micronesia",
       "url": "https://cfsm.gov.fm/",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 200,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-05",
+      "note": "Official HTTP 200 (polish-iso-05)."
     },
     {
       "id": "wd-q1287548",

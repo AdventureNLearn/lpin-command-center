@@ -1,7 +1,333 @@
 {
   "iso2": "ie",
-  "items": [],
-  "incomplete": true,
+  "chamber": "Oireachtas",
+  "session": "",
+  "source_url": "https://api.oireachtas.ie/v1/divisions?limit=50",
   "retrieved": "2026-09-06",
-  "note": "No sourced votes for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "ie-div-vote_190",
+      "date": "2026-08-28",
+      "title": "Question put:",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/division/house/dail/34/2026-08-28/vote_190",
+      "recorded": {
+        "yea": 80,
+        "nay": 71,
+        "abstain": 0
+      }
+    },
+    {
+      "id": "ie-div-vote_191",
+      "date": "2026-08-28",
+      "title": "Amendment put:",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/division/house/dail/34/2026-08-28/vote_191",
+      "recorded": {
+        "yea": 60,
+        "nay": 93,
+        "abstain": 0
+      }
+    },
+    {
+      "id": "ie-div-vote_192",
+      "date": "2026-08-28",
+      "title": "Question put: \"That amendment No. 2 set down to the motion for Financial Resolution is hereby negatived and that the motion for the Financial Resolution is hereby agreed to.\"",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/division/house/dail/34/2026-08-28/vote_192",
+      "recorded": {
+        "yea": 104,
+        "nay": 49,
+        "abstain": 0
+      }
+    },
+    {
+      "id": "ie-div-vote_4",
+      "date": "2026-07-16",
+      "title": "Question put:",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/27/2026-07-16/vote_4",
+      "recorded": {
+        "yea": 27,
+        "nay": 10
+      }
+    },
+    {
+      "id": "ie-div-vote_1",
+      "date": "2026-07-16",
+      "title": "Question put: \"That the Order of Business be agreed to.\"",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/27/2026-07-16/vote_1",
+      "recorded": {
+        "yea": 18,
+        "nay": 11
+      }
+    },
+    {
+      "id": "ie-div-vote_2",
+      "date": "2026-07-16",
+      "title": "Amendment put:",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/27/2026-07-16/vote_2",
+      "recorded": {
+        "yea": 6,
+        "nay": 29
+      }
+    },
+    {
+      "id": "ie-div-vote_1-2026-07-15",
+      "date": "2026-07-15",
+      "title": "Question put: \"That the Bill do now pass.\"",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/27/2026-07-15/vote_1",
+      "recorded": {
+        "yea": 25,
+        "nay": 13
+      }
+    },
+    {
+      "id": "ie-div-vote_2-2026-07-15",
+      "date": "2026-07-15",
+      "title": "Amendment put:",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/27/2026-07-15/vote_2",
+      "recorded": {
+        "yea": 13,
+        "nay": 24
+      }
+    },
+    {
+      "id": "ie-div-vote_187",
+      "date": "2026-07-15",
+      "title": "Question put:",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/division/house/dail/34/2026-07-15/vote_187",
+      "recorded": {
+        "yea": 114,
+        "nay": 28,
+        "abstain": 0
+      }
+    },
+    {
+      "id": "ie-div-vote_185",
+      "date": "2026-07-14",
+      "title": "Question put: \"That the proposed arrangements for this week's business be agreed to.\"",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/division/house/dail/34/2026-07-14/vote_185",
+      "recorded": {
+        "yea": 79,
+        "nay": 71,
+        "abstain": 0
+      }
+    },
+    {
+      "id": "ie-div-vote_3-2026-07-14",
+      "date": "2026-07-14",
+      "title": "Question put:",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/27/2026-07-14/vote_3",
+      "recorded": {
+        "yea": 28,
+        "nay": 7
+      }
+    },
+    {
+      "id": "ie-div-vote_1-2026-07-14",
+      "date": "2026-07-14",
+      "title": "Question put: “That section 62 stand part of the Bill.”",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/27/2026-07-14/vote_1",
+      "recorded": {
+        "yea": 25,
+        "nay": 12
+      }
+    },
+    {
+      "id": "ie-div-vote_1-2026-07-09",
+      "date": "2026-07-09",
+      "title": "Amendment put:",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/27/2026-07-09/vote_1",
+      "recorded": {
+        "yea": 16,
+        "nay": 24
+      }
+    },
+    {
+      "id": "ie-div-vote_1-2026-07-08",
+      "date": "2026-07-08",
+      "title": "Question put:",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/27/2026-07-08/vote_1",
+      "recorded": {
+        "yea": 31,
+        "nay": 11
+      }
+    },
+    {
+      "id": "ie-div-vote_170",
+      "date": "2026-07-08",
+      "title": "Amendment put:",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/division/house/dail/34/2026-07-08/vote_170",
+      "recorded": {
+        "yea": 44,
+        "nay": 97,
+        "abstain": 0
+      }
+    },
+    {
+      "id": "ie-div-vote_171",
+      "date": "2026-07-08",
+      "title": "Recommendation put:",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/division/house/dail/34/2026-07-08/vote_171",
+      "recorded": {
+        "yea": 97,
+        "nay": 46,
+        "abstain": 0
+      }
+    },
+    {
+      "id": "ie-div-vote_172",
+      "date": "2026-07-08",
+      "title": "Amendment to amendment put:",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/division/house/dail/34/2026-07-08/vote_172",
+      "recorded": {
+        "yea": 68,
+        "nay": 81,
+        "abstain": 0
+      }
+    },
+    {
+      "id": "ie-div-vote_176",
+      "date": "2026-07-08",
+      "title": "Question put: That section 62 stand part of the Bill.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/division/house/dail/34/2026-07-08/vote_176",
+      "recorded": {
+        "yea": 82,
+        "nay": 65,
+        "abstain": 0
+      }
+    },
+    {
+      "id": "ie-div-vote_179",
+      "date": "2026-07-08",
+      "title": "Question put: \"That the motion, as amended, be agreed to.\"",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/division/house/dail/34/2026-07-08/vote_179",
+      "recorded": {
+        "yea": 80,
+        "nay": 66,
+        "abstain": 0
+      }
+    },
+    {
+      "id": "ie-div-vote_1-2026-07-07",
+      "date": "2026-07-07",
+      "title": "Question put:",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/27/2026-07-07/vote_1",
+      "recorded": {
+        "yea": 28,
+        "nay": 12
+      }
+    },
+    {
+      "id": "ie-div-vote_2-2026-07-07",
+      "date": "2026-07-07",
+      "title": "Question put: \"That the Bill be received for final consideration.\"",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/27/2026-07-07/vote_2",
+      "recorded": {
+        "yea": 32,
+        "nay": 7
+      }
+    },
+    {
+      "id": "ie-div-vote_169",
+      "date": "2026-07-07",
+      "title": "Amendment put:",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/division/house/dail/34/2026-07-07/vote_169",
+      "recorded": {
+        "yea": 67,
+        "nay": 79,
+        "abstain": 0
+      }
+    },
+    {
+      "id": "ie-div-vote_1-2026-07-02",
+      "date": "2026-07-02",
+      "title": "Amendment put:",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/27/2026-07-02/vote_1",
+      "recorded": {
+        "yea": 12,
+        "nay": 26
+      }
+    },
+    {
+      "id": "ie-div-vote_3-2026-07-02",
+      "date": "2026-07-02",
+      "title": "Question put:",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/27/2026-07-02/vote_3",
+      "recorded": {
+        "yea": 27,
+        "nay": 10
+      }
+    },
+    {
+      "id": "ie-div-vote_1-2026-07-01",
+      "date": "2026-07-01",
+      "title": "Question put:",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/division/committee/dail/34/select_committee_on_enterprise_tourism_and_employment/2026-07-01/vote_1",
+      "recorded": {
+        "yea": 6,
+        "nay": 2
+      }
+    },
+    {
+      "id": "ie-div-vote_1-2026-06-30",
+      "date": "2026-06-30",
+      "title": "Amendment put:",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/division/house/seanad/27/2026-06-30/vote_1",
+      "recorded": {
+        "yea": 15,
+        "nay": 31
+      }
+    }
+  ]
 }

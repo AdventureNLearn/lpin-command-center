@@ -1,7 +1,75 @@
 {
   "iso2": "mt",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://electoral.gov.mt/finance-en",
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "mt-org-abba",
+      "name": "ABBA",
+      "kind": "party-statute",
+      "source_url": "https://electoral.gov.mt/Media/Default/Documents/PartyStatutes/Abba-1.pdf"
+    },
+    {
+      "id": "mt-org-adpd",
+      "name": "AD+PD",
+      "kind": "party-statute",
+      "source_url": "https://electoral.gov.mt/Media/Default/Documents/PartyStatutes/ADPD.pdf"
+    },
+    {
+      "id": "mt-org-ahwa",
+      "name": "Aħwa Maltin",
+      "kind": "party-statute",
+      "source_url": "https://electoral.gov.mt/finance-en"
+    },
+    {
+      "id": "mt-org-alleanza-bidla",
+      "name": "Alleanza Bidla Party",
+      "kind": "party-statute",
+      "source_url": "https://electoral.gov.mt/Media/Default/Documents/PartyStatutes/Alleanza_Bidla.pdf"
+    },
+    {
+      "id": "mt-org-bne",
+      "name": "Brain, Not Ego",
+      "kind": "party-statute",
+      "source_url": "https://electoral.gov.mt/Media/Default/Documents/PartyStatutes/BNE-1.pdf"
+    },
+    {
+      "id": "mt-org-imperium-europa",
+      "name": "Imperium Europa",
+      "kind": "party-statute",
+      "source_url": "https://electoral.gov.mt/Media/Default/Documents/PartyStatutes/Imperium_Europa.pdf"
+    },
+    {
+      "id": "mt-org-momentum",
+      "name": "Momentum",
+      "kind": "party-statute",
+      "source_url": "https://electoral.gov.mt/finance-en"
+    },
+    {
+      "id": "mt-org-mpm",
+      "name": "Moviment Patrijotti Maltin",
+      "kind": "party-statute",
+      "source_url": "https://electoral.gov.mt/Media/Default/Documents/PartyStatutes/Moviment_Patrijotti_Maltin-1.pdf"
+    },
+    {
+      "id": "mt-org-pl",
+      "name": "Partit Laburista",
+      "kind": "party-statute",
+      "source_url": "https://electoral.gov.mt/Media/Default/Documents/PartyStatutes/Partit_Laburista.pdf"
+    },
+    {
+      "id": "mt-org-pn",
+      "name": "Partit Nazzjonalista",
+      "kind": "party-statute",
+      "source_url": "https://electoral.gov.mt/Media/Default/Documents/PartyStatutes/Partit_Nazzjonalista.pdf"
+    },
+    {
+      "id": "mt-org-volt",
+      "name": "Volt Malta",
+      "kind": "party-statute",
+      "source_url": "https://electoral.gov.mt/finance-en"
+    }
+  ],
+  "note": "Capped sample from official source."
 }

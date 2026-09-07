@@ -1,7 +1,101 @@
 {
   "iso2": "sg",
-  "source_url": "https://www.wikidata.org/wiki/Q1517231",
+  "chamber": "Parliament of Singapore",
+  "source_url": "https://www.parliament.gov.sg/about-us/structure/select-committees",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 9,
+  "items": [
+    {
+      "id": "select-committee-on-deliberate-online-falsehoods-causes-consequences-and-counter",
+      "name": "Select Committee on Deliberate Online Falsehoods - Causes, Consequences and Countermeasures",
+      "chamber": "Parliament of Singapore",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.gov.sg/about-us/structure/select-committees"
+    },
+    {
+      "id": "committee-of-selection",
+      "name": "Committee of Selection",
+      "chamber": "Parliament of Singapore",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.gov.sg/about-us/structure/select-committees"
+    },
+    {
+      "id": "committee-of-privileges",
+      "name": "Committee of Privileges",
+      "chamber": "Parliament of Singapore",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.gov.sg/about-us/structure/select-committees"
+    },
+    {
+      "id": "estimates-committee",
+      "name": "Estimates Committee",
+      "chamber": "Parliament of Singapore",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.gov.sg/about-us/structure/select-committees"
+    },
+    {
+      "id": "house-committee",
+      "name": "House Committee",
+      "chamber": "Parliament of Singapore",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.gov.sg/about-us/structure/select-committees"
+    },
+    {
+      "id": "public-accounts-committee",
+      "name": "Public Accounts Committee",
+      "chamber": "Parliament of Singapore",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.gov.sg/about-us/structure/select-committees"
+    },
+    {
+      "id": "public-petitions-committee",
+      "name": "Public Petitions Committee",
+      "chamber": "Parliament of Singapore",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.gov.sg/about-us/structure/select-committees"
+    },
+    {
+      "id": "standing-orders-committee",
+      "name": "Standing Orders Committee",
+      "chamber": "Parliament of Singapore",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.gov.sg/about-us/structure/select-committees"
+    },
+    {
+      "id": "special-select-committee-on-nominations-for-appointment-as-nominated-members-of-",
+      "name": "Special Select Committee on Nominations for Appointment as Nominated Members of Parliament",
+      "chamber": "Parliament of Singapore",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.gov.sg/about-us/structure/select-committees"
+    }
+  ],
+  "note": "Official standing select committees page. 9 committee names after dropping nav/PII labels."
 }

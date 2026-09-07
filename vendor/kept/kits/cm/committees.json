@@ -1,7 +1,91 @@
 {
   "iso2": "cm",
-  "source_url": "https://www.wikidata.org/wiki/Q25039919",
+  "chamber": "Parliament of Cameroon",
+  "source_url": "https://www.assnat.cm/index.php/fr/assemblee-nationale/les-9-commissions",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 8,
+  "items": [
+    {
+      "id": "commission-des-finances-et-du-budget",
+      "name": "Commission des finances et du budget",
+      "chamber": "National Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.assnat.cm/index.php/fr/assemblee-nationale/les-9-commissions"
+    },
+    {
+      "id": "commission-des-affaires-etrangeres",
+      "name": "Commission des affaires étrangères",
+      "chamber": "National Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.assnat.cm/index.php/fr/assemblee-nationale/les-9-commissions"
+    },
+    {
+      "id": "commission-de-la-defense-nationale-et-de-la-securite",
+      "name": "Commission de la défense nationale et de la sécurité",
+      "chamber": "National Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.assnat.cm/index.php/fr/assemblee-nationale/les-9-commissions"
+    },
+    {
+      "id": "commission-des-affaires-economiques-de-la-programmation-et-d",
+      "name": "Commission des affaires économiques, de la programmation et de l’aménagement du territoire",
+      "chamber": "National Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.assnat.cm/index.php/fr/assemblee-nationale/les-9-commissions"
+    },
+    {
+      "id": "commission-de-l-education-de-la-formation-professionnelle-et",
+      "name": "Commission de l’éducation, de la formation professionnelle et de la jeunesse",
+      "chamber": "National Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.assnat.cm/index.php/fr/assemblee-nationale/les-9-commissions"
+    },
+    {
+      "id": "commission-des-affaires-culturelles-sociales-et-familiales",
+      "name": "Commission des affaires culturelles, sociales et familiales",
+      "chamber": "National Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.assnat.cm/index.php/fr/assemblee-nationale/les-9-commissions"
+    },
+    {
+      "id": "commission-de-la-production-et-des-echanges",
+      "name": "Commission de la production et des échanges",
+      "chamber": "National Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.assnat.cm/index.php/fr/assemblee-nationale/les-9-commissions"
+    },
+    {
+      "id": "commission-des-resolutions-et-des-petitions",
+      "name": "Commission des résolutions et des pétitions",
+      "chamber": "National Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.assnat.cm/index.php/fr/assemblee-nationale/les-9-commissions"
+    }
+  ],
+  "note": "National Assembly page listing the 9 committees. Names only; member names not collected."
 }

@@ -20,7 +20,11 @@
       "label": "House of Representatives",
       "url": "https://parliament.ly",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 200,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-08",
+      "note": "Official parliament HTTP 200 (polish-iso-08)."
     },
     {
       "id": "wd-q17443556",
@@ -41,6 +45,13 @@
       "label": "Member of the High Council of State (Wikidata)",
       "url": "https://www.wikidata.org/wiki/Q114774820",
       "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://parliament.ly/%d8%a7%d9%84%d9%84%d8%ac%d8%a7%d9%86-%d8%a7%d9%84%d8%af%d8%a7%d8%a6%d9%85%d8%a9-%d8%a8%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8/",
+      "kind": "primary",
       "basis": "Evidence"
     }
   ],

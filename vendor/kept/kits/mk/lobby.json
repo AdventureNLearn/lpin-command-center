@@ -1,7 +1,16 @@
 {
   "iso2": "mk",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://dksk.mk/mk/%d0%bb%d0%be%d0%b1%d0%b8%d1%80%d0%b0%d1%9a%d0%b5-2/",
   "retrieved": "2026-09-06",
-  "note": "No sourced lobby for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "mk-dksk-lobby-register",
+      "name": "Register of lobbyists",
+      "kind": "lobby-register",
+      "source_url": "https://dksk.mk/mk/%d0%bb%d0%be%d0%b1%d0%b8%d1%80%d0%b0%d1%9a%d0%b5-2/",
+      "note": "Official SCPC lobbying page HTTP 200. No named lobbyists on the public page this seat."
+    }
+  ],
+  "note": "Capped sample from official source."
 }

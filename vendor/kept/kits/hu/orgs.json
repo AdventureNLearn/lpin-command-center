@@ -1,6 +1,8 @@
 {
   "iso2": "hu",
-  "incomplete": true,
   "items": [],
-  "note": "501/NGO rows need EIN (or national number), legal name as on the 990, subsection, filing year, https to the 990. Churches that do not file stay honest empty."
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "note": "NVI VTR nominating-organisations register HTTP 200 is SPA shell; CSV/JSON not collected. Honest empty. Not invented.",
+  "source_url": "https://vtr.valasztas.hu/ogy2026/jelolo-szervezetek?tab=partok"
 }

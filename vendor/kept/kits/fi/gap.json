@@ -2,11 +2,6 @@
   "iso2": "fi",
   "items": [
     {
-      "id": "votes",
-      "hole": "No sourced roll-call file.",
-      "basis": "Evidence"
-    },
-    {
       "id": "pledges",
       "hole": "No sourced quote+URL pledges.",
       "basis": "Evidence"
@@ -17,17 +12,12 @@
       "basis": "Evidence"
     },
     {
-      "id": "money",
-      "hole": "No sourced money file.",
-      "basis": "Evidence"
-    },
-    {
-      "id": "committees",
-      "hole": "No sourced committee list.",
+      "id": "members-sitting",
+      "hole": "Wikidata office-holders 685 vs claimed 200. Current sitting not isolated. Not invented; roster not replaced (votes.items>=10).",
       "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: Parliament of Finland. Sitting 685. Empty objects not invented."
+  "note": "Hour 2026-09-06. Filled committees from official HTTP 200. Vacancies not invented."
 }

@@ -1,4 +1,381 @@
 {
   "iso2": "dk",
-  "items": []
+  "chamber": "Folketing",
+  "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80",
+  "retrieved": "2026-09-06",
+  "incomplete": true,
+  "claimed": 37,
+  "items": [
+    {
+      "id": "1",
+      "name": "Finansudvalget",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    },
+    {
+      "id": "9",
+      "name": "Forsvarsudvalget",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    },
+    {
+      "id": "10",
+      "name": "Grønlandsudvalget",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    },
+    {
+      "id": "15",
+      "name": "Børne- og Undervisningsudvalget",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    },
+    {
+      "id": "19",
+      "name": "Europaudvalget",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    },
+    {
+      "id": "20",
+      "name": "Udenrigsudvalget",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    },
+    {
+      "id": "21",
+      "name": "Skatteudvalget",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    },
+    {
+      "id": "22",
+      "name": "Retsudvalget",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    },
+    {
+      "id": "26",
+      "name": "Erhvervs-, Vækst- og Eksportudvalget",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    },
+    {
+      "id": "36",
+      "name": "Sundheds- og Forebyggelsesudvalget",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    },
+    {
+      "id": "41",
+      "name": "Transportudvalget",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    },
+    {
+      "id": "51",
+      "name": "Udvalget for Fødevarer, Landbrug og Fiskeri",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    },
+    {
+      "id": "53",
+      "name": "Kulturudvalget",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    },
+    {
+      "id": "60",
+      "name": "Beskæftigelsesudvalget",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    },
+    {
+      "id": "63",
+      "name": "Miljøudvalget",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    },
+    {
+      "id": "76",
+      "name": "Udvalget for Udlændinge- og Integrationspolitik",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    },
+    {
+      "id": "90",
+      "name": "By- og Boligudvalget",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    },
+    {
+      "id": "104",
+      "name": "Kommunaludvalget",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    },
+    {
+      "id": "114",
+      "name": "Uddannelses- og Forskningsudvalget",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    },
+    {
+      "id": "128",
+      "name": "Udvalget for Forretningsordenen",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    },
+    {
+      "id": "146",
+      "name": "Socialudvalget",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    },
+    {
+      "id": "170",
+      "name": "Klima-, Energi- og Bygningsudvalget",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    },
+    {
+      "id": "174",
+      "name": "Udvalget til Valgs Prøvelse",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    },
+    {
+      "id": "222",
+      "name": "Udvalget for Landdistrikter og Øer",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    },
+    {
+      "id": "229",
+      "name": "Kirkeudvalget",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    },
+    {
+      "id": "233",
+      "name": "Det Politisk-Økonomiske Udvalg",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    },
+    {
+      "id": "267",
+      "name": "Ligestillingsudvalget",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    },
+    {
+      "id": "283",
+      "name": "Indfødsretsudvalget",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    },
+    {
+      "id": "290",
+      "name": "Færøudvalget",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    },
+    {
+      "id": "291",
+      "name": "Underudvalget til belysning af rammerne for Statsrevisorernes og Rigsrevisionens arbejde med regeringens lovforberedelse",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    },
+    {
+      "id": "306",
+      "name": "Trafikudvalget",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    },
+    {
+      "id": "328",
+      "name": "Tilsynet i henhold til grundlovens § 71",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    },
+    {
+      "id": "331",
+      "name": "Udvalget for Forskning, Innovation og Videregående Uddannelser",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    },
+    {
+      "id": "334",
+      "name": "Udvalget for Småøer",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    },
+    {
+      "id": "341",
+      "name": "Underudvalget under Udvalget for Forretningsordenen",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    },
+    {
+      "id": "377",
+      "name": "Europaudvalgets Underudvalg",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    },
+    {
+      "id": "404",
+      "name": "Folketingets Præsidium",
+      "chamber": "Folketing",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80"
+    }
+  ],
+  "note": "official committee names"
 }

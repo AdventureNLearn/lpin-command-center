@@ -1,7 +1,24 @@
 {
   "iso2": "do",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://www.senadord.gob.do/partidos-politicos/",
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "partido-revolucionario-moderno-prm",
+      "name": "Partido Revolucionario Moderno (PRM)",
+      "source_url": "https://www.senadord.gob.do/partidos-politicos/"
+    },
+    {
+      "id": "fuerza-del-pueblo",
+      "name": "Fuerza del Pueblo",
+      "source_url": "https://www.senadord.gob.do/partidos-politicos/"
+    },
+    {
+      "id": "partido-reformista-social-cristiano-prsc",
+      "name": "Partido Reformista Social Cristiano (PRSC)",
+      "source_url": "https://www.senadord.gob.do/partidos-politicos/"
+    }
+  ],
+  "note": "Senate sitting blocs named on official partidos-politicos page HTTP 200. Independientes/person rows omitted. JCE PDF list not unpacked."
 }

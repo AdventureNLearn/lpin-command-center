@@ -1,7 +1,101 @@
 {
   "iso2": "ad",
-  "source_url": "https://www.wikidata.org/wiki/Q24824",
+  "chamber": "General Council of Andorra",
+  "source_url": "https://www.consellgeneral.ad/ca/composicio-actual/les-comissions-legislatives",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 9,
+  "items": [
+    {
+      "id": "ad-cl-interior",
+      "name": "Comissio Legislativa de Justicia, Interior i Afers Institucionals",
+      "chamber": "General Council of Andorra",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.consellgeneral.ad/ca/composicio-actual/les-comissions-legislatives/interior"
+    },
+    {
+      "id": "ad-cl-exteriors",
+      "name": "Comissio Legislativa de Politica Exterior",
+      "chamber": "General Council of Andorra",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.consellgeneral.ad/ca/composicio-actual/les-comissions-legislatives/politica-exterior"
+    },
+    {
+      "id": "ad-cl-economia",
+      "name": "Comissio Legislativa d Economia",
+      "chamber": "General Council of Andorra",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.consellgeneral.ad/ca/composicio-actual/les-comissions-legislatives/economia"
+    },
+    {
+      "id": "ad-cl-finances",
+      "name": "Comissio Legislativa de Finances i Pressupost",
+      "chamber": "General Council of Andorra",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.consellgeneral.ad/ca/composicio-actual/les-comissions-legislatives/finances-i-pressupost"
+    },
+    {
+      "id": "ad-cl-territori",
+      "name": "Comissio Legislativa de Politica Territorial, Urbanisme i Medi Ambient",
+      "chamber": "General Council of Andorra",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.consellgeneral.ad/ca/composicio-actual/les-comissions-legislatives/politica-territorial-i-urbanisme"
+    },
+    {
+      "id": "ad-cl-sanitat",
+      "name": "Comissio Legislativa de Sanitat",
+      "chamber": "General Council of Andorra",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.consellgeneral.ad/ca/composicio-actual/les-comissions-legislatives/sanitat"
+    },
+    {
+      "id": "ad-cl-socials",
+      "name": "Comissio Legislativa d Afers Socials i Igualtat",
+      "chamber": "General Council of Andorra",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.consellgeneral.ad/ca/composicio-actual/les-comissions-legislatives/afers-socials"
+    },
+    {
+      "id": "ad-cl-educacio",
+      "name": "Comissio Legislativa d Educacio, Recerca, Cultura, Joventut i Esports",
+      "chamber": "General Council of Andorra",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.consellgeneral.ad/ca/composicio-actual/les-comissions-legislatives/educacio-recerca-cultura-i-esports"
+    },
+    {
+      "id": "ad-cl-pensions",
+      "name": "Comissio Legislativa de Seguiment i Sostenibilitat de les pensions de la Caixa Andorrana de la Seguretat Social",
+      "chamber": "General Council of Andorra",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.consellgeneral.ad/ca/composicio-actual/les-comissions-legislatives/comissio-legislativa-de-seguiment-i-sostenibilitat-de-les-pensions-de-la-caixa-andorrana-de-la-seguretat-social"
+    }
+  ],
+  "note": "Legislative commissions roster on Consell General site."
 }

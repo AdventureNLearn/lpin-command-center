@@ -1,7 +1,52 @@
 {
   "iso2": "lt",
-  "items": [],
+  "source_url": "https://apps.lrs.lt/sip/p2b.ad_seimo_frakcijos",
+  "items": [
+    {
+      "id": "demokratu-frakcija-vardan-lietuvos",
+      "name": "Demokratų frakcija „Vardan Lietuvos“",
+      "kind": "parliamentary-group",
+      "source_url": "https://apps.lrs.lt/sip/p2b.ad_seimo_frakcijos"
+    },
+    {
+      "id": "liberalu-sajudzio-frakcija",
+      "name": "Liberalų sąjūdžio frakcija",
+      "kind": "parliamentary-group",
+      "source_url": "https://apps.lrs.lt/sip/p2b.ad_seimo_frakcijos"
+    },
+    {
+      "id": "lietuvos-socialdemokratu-partijos-frakcija",
+      "name": "Lietuvos socialdemokratų partijos frakcija",
+      "kind": "parliamentary-group",
+      "source_url": "https://apps.lrs.lt/sip/p2b.ad_seimo_frakcijos"
+    },
+    {
+      "id": "lietuvos-valstieciu-zaliuju-ir-krikscionisku-seimu-sajungos-frakcija",
+      "name": "Lietuvos valstiečių, žaliųjų ir Krikščioniškų šeimų sąjungos frakcija",
+      "kind": "parliamentary-group",
+      "source_url": "https://apps.lrs.lt/sip/p2b.ad_seimo_frakcijos"
+    },
+    {
+      "id": "misri-seimo-nariu-grupe",
+      "name": "Mišri Seimo narių grupė",
+      "kind": "parliamentary-group",
+      "source_url": "https://apps.lrs.lt/sip/p2b.ad_seimo_frakcijos"
+    },
+    {
+      "id": "nemuno-ausros-frakcija",
+      "name": "„Nemuno aušros“ frakcija",
+      "kind": "parliamentary-group",
+      "source_url": "https://apps.lrs.lt/sip/p2b.ad_seimo_frakcijos"
+    },
+    {
+      "id": "tevynes-sajungos-lietuvos-krikscioniu-demokratu-frakcija",
+      "name": "Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija",
+      "kind": "parliamentary-group",
+      "source_url": "https://apps.lrs.lt/sip/p2b.ad_seimo_frakcijos"
+    }
+  ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "origin": "electoral-register",
+  "note": "Official party/parliamentary-group register. Cap 40. Incomplete."
 }

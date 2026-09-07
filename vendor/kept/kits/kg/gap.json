@@ -2,8 +2,8 @@
   "iso2": "kg",
   "items": [
     {
-      "id": "votes",
-      "hole": "No sourced roll-call file.",
+      "id": "members",
+      "hole": "Named members 41 of statutory 120 (claimed_seats 120). Vacancies not invented.",
       "basis": "Evidence"
     },
     {
@@ -22,12 +22,17 @@
       "basis": "Evidence"
     },
     {
-      "id": "committees",
-      "hole": "No sourced committee list.",
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
       "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: Member of the Supreme Council of Kyrgyzstan · Supreme Council. Sitting 41. Empty objects not invented."
+  "note": "Category coverage 2026-09-06. Empty categories are holes, not zeros invented."
 }

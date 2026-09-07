@@ -1,7 +1,41 @@
 {
   "iso2": "li",
-  "source_url": "https://www.wikidata.org/wiki/Q1149644",
+  "chamber": "Landtag of Liechtenstein",
+  "source_url": "https://www.landtag.li/kommissionen",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 3,
+  "items": [
+    {
+      "id": "li-apk",
+      "name": "Aussenpolitische Kommission",
+      "chamber": "Landtag of Liechtenstein",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.landtag.li/aussenpolitische-kommission"
+    },
+    {
+      "id": "li-fin",
+      "name": "Finanzkommission",
+      "chamber": "Landtag of Liechtenstein",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.landtag.li/finanzkommission"
+    },
+    {
+      "id": "li-gpk",
+      "name": "Geschäftsprüfungskommission",
+      "chamber": "Landtag of Liechtenstein",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.landtag.li/geschaeftspruefungskommission"
+    }
+  ],
+  "note": "Official Landtag Kommissionen pages. 3 named commissions. Memberships not collected."
 }

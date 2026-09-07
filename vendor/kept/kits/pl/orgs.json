@@ -1,7 +1,63 @@
 {
   "iso2": "pl",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://pkw.gov.pl/uploaded_files/1698467872_subwencja-2024-2027.pdf",
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "polskie-stronnictwo-ludowe",
+      "name": "Polskie Stronnictwo Ludowe",
+      "kind": "party",
+      "source_url": "https://pkw.gov.pl/uploaded_files/1698467872_subwencja-2024-2027.pdf"
+    },
+    {
+      "id": "nowa-lewica",
+      "name": "Nowa Lewica",
+      "kind": "party",
+      "source_url": "https://pkw.gov.pl/uploaded_files/1698467872_subwencja-2024-2027.pdf"
+    },
+    {
+      "id": "prawo-i-sprawiedliwo-",
+      "name": "Prawo i Sprawiedliwość",
+      "kind": "party",
+      "source_url": "https://pkw.gov.pl/uploaded_files/1698467872_subwencja-2024-2027.pdf"
+    },
+    {
+      "id": "platforma-obywatelska-rp",
+      "name": "Platforma Obywatelska RP",
+      "kind": "party",
+      "source_url": "https://pkw.gov.pl/uploaded_files/1698467872_subwencja-2024-2027.pdf"
+    },
+    {
+      "id": "zieloni",
+      "name": "Zieloni",
+      "kind": "party",
+      "source_url": "https://pkw.gov.pl/uploaded_files/1698467872_subwencja-2024-2027.pdf"
+    },
+    {
+      "id": "nowoczesna",
+      "name": "Nowoczesna",
+      "kind": "party",
+      "source_url": "https://pkw.gov.pl/uploaded_files/1698467872_subwencja-2024-2027.pdf"
+    },
+    {
+      "id": "konfederacja-wolno-i-niepodleg-o-",
+      "name": "Konfederacja Wolność i Niepodległość",
+      "kind": "party",
+      "source_url": "https://pkw.gov.pl/uploaded_files/1698467872_subwencja-2024-2027.pdf"
+    },
+    {
+      "id": "inicjatywa-polska",
+      "name": "Inicjatywa Polska",
+      "kind": "party",
+      "source_url": "https://pkw.gov.pl/uploaded_files/1698467872_subwencja-2024-2027.pdf"
+    },
+    {
+      "id": "polska-2050",
+      "name": "Polska 2050",
+      "kind": "party",
+      "source_url": "https://pkw.gov.pl/uploaded_files/1698467872_subwencja-2024-2027.pdf"
+    }
+  ],
+  "note": "Capped sample from official source."
 }

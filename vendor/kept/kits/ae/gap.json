@@ -25,9 +25,29 @@
       "id": "committees",
       "hole": "No sourced committee list.",
       "basis": "Evidence"
+    },
+    {
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "orgs",
+      "hole": "No sourced org list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members-statutory",
+      "hole": "Institutional seats 0. Named members 63 from https://www.wikidata.org/wiki/Q5440456. No statutory size on file. Names not deleted.",
+      "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: Federal Supreme Council. Sitting 63. Empty objects not invented."
+  "note": "Category coverage 2026-09-06. Empty categories are holes, not zeros invented."
 }

@@ -1,7 +1,15 @@
 {
   "iso2": "at",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://www.parlament.gv.at/Filter/api/filter/data/2008",
   "retrieved": "2026-09-06",
-  "note": "No sourced ethics for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "at-unvereinbarkeitsausschuss",
+      "name": "Unvereinbarkeitsausschuss",
+      "kind": "committee",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/A-UV/1/00915"
+    }
+  ],
+  "note": "Capped sample from official source."
 }

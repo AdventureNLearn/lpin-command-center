@@ -2,8 +2,8 @@
   "iso2": "gr",
   "items": [
     {
-      "id": "votes",
-      "hole": "No sourced roll-call file.",
+      "id": "members",
+      "hole": "Sitting 266 of 300. GR 266/300 kept. Vacancies not invented.",
       "basis": "Evidence"
     },
     {
@@ -20,9 +20,24 @@
       "id": "money",
       "hole": "No sourced money file.",
       "basis": "Evidence"
+    },
+    {
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "orgs",
+      "hole": "No sourced org list.",
+      "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Fill 2026-09-06. Sitting 266 of 300. Vacancies not invented."
+  "note": "Category coverage 2026-09-06. Empty categories are holes, not zeros invented."
 }

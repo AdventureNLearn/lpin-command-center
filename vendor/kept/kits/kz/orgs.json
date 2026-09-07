@@ -1,7 +1,52 @@
 {
   "iso2": "kz",
-  "items": [],
+  "source_url": "https://www.election.gov.kz/eng/news/releases/index.php?ID=10393",
+  "items": [
+    {
+      "id": "adilet-party",
+      "name": "Adilet Party",
+      "kind": "political-party",
+      "source_url": "https://www.election.gov.kz/eng/news/releases/index.php?ID=10393"
+    },
+    {
+      "id": "nationwide-social-democratic-party",
+      "name": "Nationwide Social Democratic Party",
+      "kind": "political-party",
+      "source_url": "https://www.election.gov.kz/eng/news/releases/index.php?ID=10393"
+    },
+    {
+      "id": "kazakhstan-green-party-baitaq",
+      "name": "Kazakhstan Green Party ‘Baitaq’",
+      "kind": "political-party",
+      "source_url": "https://www.election.gov.kz/eng/news/releases/index.php?ID=10393"
+    },
+    {
+      "id": "people-s-party-of-kazakhstan",
+      "name": "People's Party of Kazakhstan",
+      "kind": "political-party",
+      "source_url": "https://www.election.gov.kz/eng/news/releases/index.php?ID=10393"
+    },
+    {
+      "id": "auyl-party",
+      "name": "Auyl Party",
+      "kind": "political-party",
+      "source_url": "https://www.election.gov.kz/eng/news/releases/index.php?ID=10393"
+    },
+    {
+      "id": "ak-zhol-democratic-party-of-kazakhstan",
+      "name": "Ak Zhol Democratic Party of Kazakhstan",
+      "kind": "political-party",
+      "source_url": "https://www.election.gov.kz/eng/news/releases/index.php?ID=10393"
+    },
+    {
+      "id": "respublica-party",
+      "name": "Respublica Party",
+      "kind": "political-party",
+      "source_url": "https://www.election.gov.kz/eng/news/releases/index.php?ID=10393"
+    }
+  ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "origin": "electoral-register",
+  "note": "Official party/parliamentary-group register. Cap 40. Incomplete."
 }

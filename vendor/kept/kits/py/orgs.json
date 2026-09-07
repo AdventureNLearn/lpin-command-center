@@ -1,7 +1,57 @@
 {
   "iso2": "py",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://silpy.congreso.gov.py/web/partidos",
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "partido-colorado-anr",
+      "name": "Partido Colorado (ANR)",
+      "kind": "party",
+      "chamber": "CAMARA DE SENADORES",
+      "origin": "clerk",
+      "source_url": "https://silpy.congreso.gov.py/web/partidos"
+    },
+    {
+      "id": "movimiento-conciencia-democratica-nacional",
+      "name": "Movimiento Conciencia Democrática Nacional",
+      "kind": "party",
+      "chamber": "CAMARA DE SENADORES",
+      "origin": "clerk",
+      "source_url": "https://silpy.congreso.gov.py/web/partidos"
+    },
+    {
+      "id": "partido-cruzada-nacional",
+      "name": "Partido Cruzada Nacional",
+      "kind": "party",
+      "chamber": "CAMARA DE SENADORES",
+      "origin": "clerk",
+      "source_url": "https://silpy.congreso.gov.py/web/partidos"
+    },
+    {
+      "id": "partido-democratico-progresista",
+      "name": "Partido Democrático Progresista (PDP)",
+      "kind": "party",
+      "chamber": "CAMARA DE SENADORES",
+      "origin": "clerk",
+      "source_url": "https://silpy.congreso.gov.py/web/partidos"
+    },
+    {
+      "id": "partido-encuentro-nacional",
+      "name": "Partido Encuentro Nacional (PEN)",
+      "kind": "party",
+      "chamber": "CAMARA DE SENADORES",
+      "origin": "clerk",
+      "source_url": "https://silpy.congreso.gov.py/web/partidos"
+    },
+    {
+      "id": "partido-liberal-radical-autentico",
+      "name": "Partido Liberal Radical Auténtico (PLRA)",
+      "kind": "party",
+      "chamber": "CAMARA DE SENADORES",
+      "origin": "clerk",
+      "source_url": "https://silpy.congreso.gov.py/web/partidos"
+    }
+  ],
+  "note": "SILpy Senate 2023-2028 party labels. Emails not stored. Deputies chamber not extracted this pass."
 }

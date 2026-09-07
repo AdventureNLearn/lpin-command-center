@@ -13,7 +13,11 @@
       "label": "Seimas",
       "url": "https://www.lrs.lt/",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 200,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-08",
+      "note": "Official parliament HTTP 200 (polish-iso-08)."
     },
     {
       "id": "wd-q374152",
@@ -27,6 +31,27 @@
       "label": "Member of the Seimas (Wikidata)",
       "url": "https://www.wikidata.org/wiki/Q18507240",
       "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-votes",
+      "label": "Official roll-call / division source",
+      "url": "https://apps.lrs.lt/sip/p2b.ad_seimo_posedzio_eiga_full",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://apps.lrs.lt/sip/p2b.ad_seimo_nariai",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-orgs",
+      "label": "Official registered political parties / committees",
+      "url": "https://apps.lrs.lt/sip/p2b.ad_seimo_frakcijos",
+      "kind": "primary",
       "basis": "Evidence"
     }
   ],

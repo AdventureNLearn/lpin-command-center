@@ -1,7 +1,191 @@
 {
   "iso2": "ie",
-  "source_url": "https://www.wikidata.org/wiki/Q129821",
+  "chamber": "Oireachtas",
+  "source_url": "https://api.oireachtas.ie/v1/divisions?chamber_type=committee",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 18,
+  "items": [
+    {
+      "id": "select_committee_on_enterprise_tourism_and_employment",
+      "name": "Select Committee on Enterprise, Tourism and Employment",
+      "chamber": "dail",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/select_committee_on_enterprise_tourism_and_employment"
+    },
+    {
+      "id": "select_committee_on_foreign_affairs_and_trade",
+      "name": "Select Committee on Foreign Affairs and Trade",
+      "chamber": "dail",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/select_committee_on_foreign_affairs_and_trade"
+    },
+    {
+      "id": "select_committee_on_housing_local_government_and_heritage",
+      "name": "Select Committee on Housing, Local Government and Heritage",
+      "chamber": "dail",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/select_committee_on_housing_local_government_and_heritage"
+    },
+    {
+      "id": "select_committee_on_justice_home_affairs_and_migration",
+      "name": "Select Committee on Justice, Home Affairs and Migration",
+      "chamber": "dail",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/select_committee_on_justice_home_affairs_and_migration"
+    },
+    {
+      "id": "select_committee_on_finance_public_expenditure_public_service_reform_and_digital",
+      "name": "Select Committee on Finance, Public Expenditure, Public Service Reform and Digitalisation, and Taoiseach",
+      "chamber": "dail",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/select_committee_on_finance_public_expenditure_public_service_reform_and_digitalisation_and_taoiseach"
+    },
+    {
+      "id": "select_committee_on_health",
+      "name": "Select Committee on Health",
+      "chamber": "dail",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/select_committee_on_health"
+    },
+    {
+      "id": "select_committee_on_infrastructure_and_national_development_plan_delivery",
+      "name": "Select Committee on Infrastructure and National Development Plan Delivery",
+      "chamber": "dail",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/select_committee_on_infrastructure_and_national_development_plan_delivery"
+    },
+    {
+      "id": "joint_committee_on_infrastructure_and_national_development_plan_delivery",
+      "name": "Joint Committee on Infrastructure and National Development Plan Delivery",
+      "chamber": "dail",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_infrastructure_and_national_development_plan_delivery"
+    },
+    {
+      "id": "joint_committee_on_artificial_intelligence",
+      "name": "Joint Committee on Artificial Intelligence",
+      "chamber": "dail",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_artificial_intelligence"
+    },
+    {
+      "id": "joint_committee_on_the_implementation_of_the_good_friday_agreement",
+      "name": "Joint Committee on the Implementation of the Good Friday Agreement",
+      "chamber": "dail",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_the_implementation_of_the_good_friday_agreement"
+    },
+    {
+      "id": "comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge",
+      "name": "Comhchoiste na Gaeilge, na Gaeltachta agus Phobal Labhartha na Gaeilge",
+      "chamber": "dail",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/comhchoiste_na_gaeilge_na_gaeltachta_agus_phobal_labhartha_na_gaeilge"
+    },
+    {
+      "id": "joint_committee_on_climate_environment_and_energy",
+      "name": "Joint Committee on Climate, Environment and Energy",
+      "chamber": "dail",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_climate_environment_and_energy"
+    },
+    {
+      "id": "joint_committee_on_health",
+      "name": "Joint Committee on Health",
+      "chamber": "dail",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_health"
+    },
+    {
+      "id": "joint_committee_on_agriculture_and_food",
+      "name": "Joint Committee on Agriculture and Food",
+      "chamber": "dail",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_agriculture_and_food"
+    },
+    {
+      "id": "joint_committee_on_fisheries_and_maritime_affairs",
+      "name": "Joint Committee on Fisheries and Maritime Affairs",
+      "chamber": "dail",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_fisheries_and_maritime_affairs"
+    },
+    {
+      "id": "joint_committee_on_foreign_affairs_and_trade",
+      "name": "Joint Committee on Foreign Affairs and Trade",
+      "chamber": "dail",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_foreign_affairs_and_trade"
+    },
+    {
+      "id": "select_committee_on_foreign_affairs_and_defence",
+      "name": "Select Committee on Foreign Affairs and Defence",
+      "chamber": "dail",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/33/select_committee_on_foreign_affairs_and_defence"
+    },
+    {
+      "id": "select_committee_on_finance_public_expenditure_and_reform_and_taoiseach",
+      "name": "Select Committee on Finance, Public Expenditure and Reform, and Taoiseach",
+      "chamber": "dail",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/committee/dail/33/select_committee_on_finance_public_expenditure_and_reform_and_taoiseach"
+    }
+  ],
+  "note": "Committee identities from official divisions API chamber_type=committee. /v1/committees 404; oireachtas.ie/en/committees/ 403 this UA. Cap 80."
 }

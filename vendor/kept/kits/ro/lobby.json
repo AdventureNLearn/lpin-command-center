@@ -1,7 +1,17 @@
 {
   "iso2": "ro",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://ruti.gov.ro/",
   "retrieved": "2026-09-06",
-  "note": "No sourced lobby for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "ruti-register",
+      "category": "registrul-unic-al-transparentei-intereselor",
+      "public": true,
+      "origin": "clerk",
+      "source_url": "https://ruti.gov.ro/",
+      "note": "SPA shell HTTP 200. Filer/meeting rows not in static HTML."
+    }
+  ],
+  "note": "Capped sample from official source."
 }

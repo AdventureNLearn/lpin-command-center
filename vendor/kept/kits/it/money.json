@@ -1,7 +1,25 @@
 {
   "iso2": "it",
-  "items": [],
+  "named_donors": false,
+  "unit": "EUR",
+  "sitting_total_reconstructed": 32584199,
+  "buckets": [
+    {
+      "label": "2 per mille IRPEF allocated to political parties 2025 declarations (all parties combined)",
+      "amount": 32584199
+    },
+    {
+      "label": "2 per mille IRPEF allocated to political parties 2024 declarations (all parties combined)",
+      "amount": 29790532
+    },
+    {
+      "label": "2 per mille IRPEF allocated to political parties 2023 declarations (all parties combined)",
+      "amount": 24058168
+    }
+  ],
   "incomplete": true,
+  "source_url": "https://www1.finanze.gov.it/finanze/2xmille/public/index.php?tree=2025AADUEXM0101",
+  "extra_source_url": "https://www1.finanze.gov.it/finanze/2xmille/public/index.php?tree=2024AADUEXM0101",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "Dipartimento delle Finanze (MEF) Analisi statistiche Due per mille HTTP 200 (probed 2026-09-06, UA LPIN-CommandCenter/0.1). Official printed TOTALE 2‰ spettante rows: dichiarazioni 2025 (redditi 2024) 32.584.199 euro; dichiarazioni 2024 (redditi 2023) 29.790.532 euro; dichiarazioni 2023 (redditi 2022) 24.058.168 euro. Source-type public-funding buckets only. Per-party rows on the same tables not stored. Named private donors not collected. sitting_total_reconstructed is the 2025 printed combined TOTALE, not a sum of year buckets. Harvest kit was empty (items []); written this seat."
 }

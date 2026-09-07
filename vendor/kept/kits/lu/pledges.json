@@ -1,7 +1,25 @@
 {
   "iso2": "lu",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://lsap.lu/partei/allgemeng-informatiounen/grondsazprogramm/",
   "retrieved": "2026-09-06",
-  "note": "No sourced pledges for this ISO. Not invented."
+  "incomplete": true,
+  "note": "Quote+URL from official party manifesto / programme HTML. DP gemengewalen municipal URL skipped. Not invented. Cap 40.",
+  "items": [
+    {
+      "id": "lu-p-luxembourg-socialist-workers-party-elections-94ab01",
+      "party_id": "luxembourg-socialist-workers-party",
+      "quote": "Wir Luxemburger Sozialistinnen und Sozialisten setzen uns für eine humane, demokratische und gerechte Gesellschaft ein.",
+      "issue_id": "elections",
+      "source_url": "https://lsap.lu/partei/allgemeng-informatiounen/grondsazprogramm/",
+      "date": "2026-03-14"
+    },
+    {
+      "id": "lu-p-luxembourg-socialist-workers-party-spending-51af62",
+      "party_id": "luxembourg-socialist-workers-party",
+      "quote": "Wir streben eine Gesellschaft an, in der soziale Ungerechtigkeiten überwunden und Konflikte friedlich gelöst werden.",
+      "issue_id": "spending",
+      "source_url": "https://lsap.lu/partei/allgemeng-informatiounen/grondsazprogramm/",
+      "date": "2026-03-14"
+    }
+  ]
 }

@@ -1,7 +1,19 @@
 {
   "iso2": "py",
-  "items": [],
+  "named_donors": false,
+  "unit": "",
+  "buckets": [
+    {
+      "label": "aporte estatal (state public contribution)",
+      "source_url": "https://tsje.gov.py/financiamiento-publico-directo.html"
+    },
+    {
+      "label": "subsidio electoral (post-election campaign subsidy)",
+      "source_url": "https://tsje.gov.py/financiamiento-publico-directo.html"
+    }
+  ],
   "incomplete": true,
+  "source_url": "https://tsje.gov.py/financiamiento-publico-directo.html",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "TSJE (official electoral tribunal) financiamiento público directo HTTP 200. Source-type public-funding buckets from the official page (aporte estatal; subsidio electoral). PYG combined transfer totals not printed on the page (formula only: 5–15% jornal mínimo per Congress vote). Named private donors not collected. Amounts not invented."
 }

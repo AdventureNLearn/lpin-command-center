@@ -1,7 +1,154 @@
 {
   "iso2": "pt",
-  "items": [],
+  "source_url": "https://www.tribunalconstitucional.pt/tc/partidos.html",
+  "items": [
+    {
+      "id": "partido-comunista-portugues",
+      "name": "Partido Comunista Português",
+      "kind": "political-party",
+      "source_url": "https://www.tribunalconstitucional.pt/tc/partidos.html"
+    },
+    {
+      "id": "cds-partido-popular",
+      "name": "CDS - Partido Popular",
+      "kind": "political-party",
+      "source_url": "https://www.tribunalconstitucional.pt/tc/partidos.html"
+    },
+    {
+      "id": "partido-social-democrata",
+      "name": "Partido Social Democrata",
+      "kind": "political-party",
+      "source_url": "https://www.tribunalconstitucional.pt/tc/partidos.html"
+    },
+    {
+      "id": "partido-socialista",
+      "name": "Partido Socialista",
+      "kind": "political-party",
+      "source_url": "https://www.tribunalconstitucional.pt/tc/partidos.html"
+    },
+    {
+      "id": "partido-comunista-dos-trabalhadores-portugueses",
+      "name": "Partido Comunista dos Trabalhadores Portugueses",
+      "kind": "political-party",
+      "source_url": "https://www.tribunalconstitucional.pt/tc/partidos.html"
+    },
+    {
+      "id": "partido-popular-monarquico",
+      "name": "Partido Popular Monárquico",
+      "kind": "political-party",
+      "source_url": "https://www.tribunalconstitucional.pt/tc/partidos.html"
+    },
+    {
+      "id": "partido-ecologista-os-verdes",
+      "name": "Partido Ecologista \"Os Verdes\"",
+      "kind": "political-party",
+      "source_url": "https://www.tribunalconstitucional.pt/tc/partidos.html"
+    },
+    {
+      "id": "partido-da-terra",
+      "name": "Partido da Terra",
+      "kind": "political-party",
+      "source_url": "https://www.tribunalconstitucional.pt/tc/partidos.html"
+    },
+    {
+      "id": "bloco-de-esquerda",
+      "name": "Bloco de Esquerda",
+      "kind": "political-party",
+      "source_url": "https://www.tribunalconstitucional.pt/tc/partidos.html"
+    },
+    {
+      "id": "partido-trabalhista-portugues",
+      "name": "Partido Trabalhista Português",
+      "kind": "political-party",
+      "source_url": "https://www.tribunalconstitucional.pt/tc/partidos.html"
+    },
+    {
+      "id": "pessoas-animais-natureza",
+      "name": "PESSOAS-ANIMAIS-NATUREZA",
+      "kind": "political-party",
+      "source_url": "https://www.tribunalconstitucional.pt/tc/partidos.html"
+    },
+    {
+      "id": "movimento-alternativa-socialista",
+      "name": "Movimento Alternativa Socialista",
+      "kind": "political-party",
+      "source_url": "https://www.tribunalconstitucional.pt/tc/partidos.html"
+    },
+    {
+      "id": "livre",
+      "name": "LIVRE",
+      "kind": "political-party",
+      "source_url": "https://www.tribunalconstitucional.pt/tc/partidos.html"
+    },
+    {
+      "id": "juntos-pelo-povo",
+      "name": "Juntos pelo Povo",
+      "kind": "political-party",
+      "source_url": "https://www.tribunalconstitucional.pt/tc/partidos.html"
+    },
+    {
+      "id": "alternativa-democratica-nacional",
+      "name": "ALTERNATIVA DEMOCRÁTICA NACIONAL",
+      "kind": "political-party",
+      "source_url": "https://www.tribunalconstitucional.pt/tc/partidos.html"
+    },
+    {
+      "id": "nos-cidadaos",
+      "name": "Nós, Cidadãos!",
+      "kind": "political-party",
+      "source_url": "https://www.tribunalconstitucional.pt/tc/partidos.html"
+    },
+    {
+      "id": "a-tua",
+      "name": "(A)TUA",
+      "kind": "political-party",
+      "source_url": "https://www.tribunalconstitucional.pt/tc/partidos.html"
+    },
+    {
+      "id": "iniciativa-liberal",
+      "name": "Iniciativa Liberal",
+      "kind": "political-party",
+      "source_url": "https://www.tribunalconstitucional.pt/tc/partidos.html"
+    },
+    {
+      "id": "chega",
+      "name": "CHEGA",
+      "kind": "political-party",
+      "source_url": "https://www.tribunalconstitucional.pt/tc/partidos.html"
+    },
+    {
+      "id": "reagir-incluir-reciclar",
+      "name": "Reagir Incluir Reciclar",
+      "kind": "political-party",
+      "source_url": "https://www.tribunalconstitucional.pt/tc/partidos.html"
+    },
+    {
+      "id": "volt-portugal",
+      "name": "Volt Portugal",
+      "kind": "political-party",
+      "source_url": "https://www.tribunalconstitucional.pt/tc/partidos.html"
+    },
+    {
+      "id": "nova-direita",
+      "name": "NOVA DIREITA",
+      "kind": "political-party",
+      "source_url": "https://www.tribunalconstitucional.pt/tc/partidos.html"
+    },
+    {
+      "id": "partido-liberal-social",
+      "name": "Partido Liberal Social",
+      "kind": "political-party",
+      "source_url": "https://www.tribunalconstitucional.pt/tc/partidos.html"
+    },
+    {
+      "id": "trabalhadores-unidos",
+      "name": "Trabalhadores Unidos",
+      "kind": "political-party",
+      "source_url": "https://www.tribunalconstitucional.pt/tc/partidos.html"
+    }
+  ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "origin": "electoral-register",
+  "note": "Tribunal Constitucional register of political parties. Cap 40. Incomplete register slice."
 }

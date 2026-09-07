@@ -1,7 +1,72 @@
 {
   "iso2": "mv",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://www.elections.gov.mv/en/news/121",
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "mv-pnc",
+      "name": "Peoples National Congress Party",
+      "members_recorded": 74048,
+      "as_of": "2025-12-31",
+      "source_url": "https://www.elections.gov.mv/en/news/121"
+    },
+    {
+      "id": "mv-mdp",
+      "name": "Maldivian Democratic Party",
+      "members_recorded": 43784,
+      "as_of": "2025-12-31",
+      "source_url": "https://www.elections.gov.mv/en/news/121"
+    },
+    {
+      "id": "mv-jp",
+      "name": "Jumhooree Party",
+      "members_recorded": 12343,
+      "as_of": "2025-12-31",
+      "source_url": "https://www.elections.gov.mv/en/news/121"
+    },
+    {
+      "id": "mv-mda",
+      "name": "Maldives Development Alliance Party",
+      "members_recorded": 9686,
+      "as_of": "2025-12-31",
+      "source_url": "https://www.elections.gov.mv/en/news/121"
+    },
+    {
+      "id": "mv-ap",
+      "name": "Adhaalath Party",
+      "members_recorded": 8267,
+      "as_of": "2025-12-31",
+      "source_url": "https://www.elections.gov.mv/en/news/121"
+    },
+    {
+      "id": "mv-mnp",
+      "name": "Maldives National Party",
+      "members_recorded": 5133,
+      "as_of": "2025-12-31",
+      "source_url": "https://www.elections.gov.mv/en/news/121"
+    },
+    {
+      "id": "mv-pnf",
+      "name": "Peoples National Front Party",
+      "members_recorded": 3012,
+      "as_of": "2025-12-31",
+      "source_url": "https://www.elections.gov.mv/en/news/121"
+    },
+    {
+      "id": "mv-democrats",
+      "name": "The Democrats Party",
+      "members_recorded": 2952,
+      "as_of": "2025-12-31",
+      "source_url": "https://www.elections.gov.mv/en/news/121"
+    },
+    {
+      "id": "mv-mlsdp",
+      "name": "Maldives Labor and Social Democracy Party",
+      "members_recorded": 1710,
+      "as_of": "2025-12-31",
+      "source_url": "https://www.elections.gov.mv/en/news/121"
+    }
+  ],
+  "note": "Capped sample from official source."
 }

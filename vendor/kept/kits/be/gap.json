@@ -25,9 +25,14 @@
       "id": "committees",
       "hole": "No sourced committee list.",
       "basis": "Evidence"
+    },
+    {
+      "id": "members-overcount",
+      "hole": "Named members 1442 exceed statutory 210. Wikidata P39 includes former terms. Names not deleted without a current-term official list.",
+      "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: Chamber of Representatives · Belgian Federal Parliament · Senate of Belgium. Sitting 1442. Empty objects not invented."
+  "note": "Polish 2026-09-06 polish-iso-02. Members 1442 of statutory 210 (overcount 1232). Dupes removed 0. Names not invented down."
 }

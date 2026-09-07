@@ -1,7 +1,23 @@
 {
   "iso2": "az",
-  "items": [],
+  "named_donors": false,
+  "unit": "",
+  "buckets": [
+    {
+      "label": "annual party financial-status reports (Form 1)",
+      "source_url": "https://www.msk.gov.az/en/parties/financialreports/2025"
+    },
+    {
+      "label": "annual party financial-transaction reports (Form 2)",
+      "source_url": "https://www.msk.gov.az/en/parties/financialreports/2025"
+    },
+    {
+      "label": "annual party accounting-policy notes",
+      "source_url": "https://www.msk.gov.az/en/parties/financialreports/2025"
+    }
+  ],
   "incomplete": true,
+  "source_url": "https://www.msk.gov.az/en/parties/financialreports/2025",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "CEC MSK 2025 party financial-reports index HTTP 200 this seat. Source-type register buckets only (Form 1/2/3 columns). Combined AZN public-funding total not printed on the index HTML. Per-party PDF amounts not summed and not invented. Named private donors not collected."
 }

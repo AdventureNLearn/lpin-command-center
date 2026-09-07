@@ -20,13 +20,38 @@
       "label": "National Assembly of The Gambia",
       "url": "https://www.assembly.gm/",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 200,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-05",
+      "note": "Official HTTP 200 (polish-iso-05)."
     },
     {
       "id": "wd-q1427127",
       "label": "National Assembly of The Gambia (Wikidata)",
       "url": "https://www.wikidata.org/wiki/Q1427127",
       "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://assembly.gm/members/committees",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-votes",
+      "label": "Official votes",
+      "url": "https://assembly.gm/documents/type/votes-proceedings",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-orgs",
+      "label": "Official orgs",
+      "url": "https://assembly.gm/members/parties",
+      "kind": "primary",
       "basis": "Evidence"
     }
   ],

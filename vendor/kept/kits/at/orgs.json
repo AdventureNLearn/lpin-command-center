@@ -1,7 +1,40 @@
 {
   "iso2": "at",
-  "items": [],
+  "source_url": "https://www.parlament.gv.at/dokument/swbrett/80300/0080/KlubReg.html",
+  "items": [
+    {
+      "id": "parlamentsklub-der-osterreichischen-volkspartei",
+      "name": "Parlamentsklub der Österreichischen Volkspartei",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.parlament.gv.at/dokument/swbrett/80300/0080/KlubReg.html"
+    },
+    {
+      "id": "klub-der-sozialdemokratischen-abgeordneten-zum-nationalrat-bundesrat-und-europai",
+      "name": "Klub der sozialdemokratischen Abgeordneten zum Nationalrat, Bundesrat und Europäischen Parlament (Sozialdemokratische Parlamentsfraktion)",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.parlament.gv.at/dokument/swbrett/80300/0080/KlubReg.html"
+    },
+    {
+      "id": "freiheitlicher-parlamentsklub",
+      "name": "Freiheitlicher Parlamentsklub",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.parlament.gv.at/dokument/swbrett/80300/0080/KlubReg.html"
+    },
+    {
+      "id": "der-grune-klub-im-parlament-klub-der-grunen-abgeordneten-zum-nationalrat-bundesr",
+      "name": "Der Grüne Klub im Parlament – Klub der Grünen Abgeordneten zum Nationalrat, Bundesrat und Europäischen Parlament",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.parlament.gv.at/dokument/swbrett/80300/0080/KlubReg.html"
+    },
+    {
+      "id": "parlamentsklub-neos",
+      "name": "PARLAMENTSKLUB NEOS",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.parlament.gv.at/dokument/swbrett/80300/0080/KlubReg.html"
+    }
+  ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "origin": "electoral-register",
+  "note": "Official Nationalrat Klubregister. Person rows omitted. Cap 40. Incomplete."
 }

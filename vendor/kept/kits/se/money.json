@@ -1,5 +1,21 @@
 {
   "iso2": "se",
   "named_donors": false,
-  "buckets": []
+  "unit": "SEK",
+  "sitting_total_reconstructed": 167733850,
+  "buckets": [
+    {
+      "label": "state party support granted 15 Oct 2025–14 Oct 2026 (all parties combined)",
+      "amount": 167733850
+    },
+    {
+      "label": "state support to parliamentary parties' women's organisations (all combined, printed Summa in 2025/26:PN1)",
+      "amount": 14999660
+    }
+  ],
+  "incomplete": true,
+  "source_url": "https://data.riksdagen.se/dokument/hd04pn1",
+  "extra_source_url": "https://www.kammarkollegiet.se/vara-tjanster/insyn-i-partiers-finansiering",
+  "retrieved": "2026-09-06",
+  "note": "Partibidragsnämnden verksamhetsredogörelse 2025/26:PN1 HTTP 200 at data.riksdagen.se/dokument/hd04pn1 (probed 2026-09-06). Official printed combined Summa: Statligt stöd till politiska partier 167 733 850 kronor for 15 October 2025–14 October 2026; Statligt stöd till riksdagspartiernas kvinnoorganisationer 14 999 660 kronor. Source-type public-funding buckets only. Per-party rows on the same tables not stored. Kammarkollegiet 2023 intäktsredovisning press HTTP 200 lists per-party mixed revenues with no printed combined Summa — not summed, not stored. Named private donors not collected. sitting_total_reconstructed is the printed party-support Summa, not a sum of both programme buckets. votes.items=50 untouched."
 }

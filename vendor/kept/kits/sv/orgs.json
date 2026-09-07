@@ -1,7 +1,58 @@
 {
   "iso2": "sv",
-  "items": [],
+  "source_url": "https://tse.gob.sv/publico/partidos-politicos",
+  "items": [
+    {
+      "id": "sv-ni",
+      "name": "Nuevas Ideas",
+      "kind": "political-party",
+      "source_url": "https://tse.gob.sv/publico/partidos-politicos"
+    },
+    {
+      "id": "sv-fmln",
+      "name": "Frente Farabundo Martí para la Liberación Nacional",
+      "kind": "political-party",
+      "source_url": "https://tse.gob.sv/publico/partidos-politicos"
+    },
+    {
+      "id": "sv-arena",
+      "name": "Alianza Republicana Nacionalista",
+      "kind": "political-party",
+      "source_url": "https://tse.gob.sv/publico/partidos-politicos"
+    },
+    {
+      "id": "sv-pcn",
+      "name": "Partido de Concertación Nacional",
+      "kind": "political-party",
+      "source_url": "https://tse.gob.sv/publico/partidos-politicos"
+    },
+    {
+      "id": "sv-pdc",
+      "name": "Partido Demócrata Cristiano",
+      "kind": "political-party",
+      "source_url": "https://tse.gob.sv/publico/partidos-politicos"
+    },
+    {
+      "id": "sv-vamos",
+      "name": "Vamos",
+      "kind": "political-party",
+      "source_url": "https://tse.gob.sv/publico/partidos-politicos"
+    },
+    {
+      "id": "sv-gana",
+      "name": "Gran Alianza por la Unidad Nacional",
+      "kind": "political-party",
+      "source_url": "https://tse.gob.sv/publico/partidos-politicos"
+    },
+    {
+      "id": "sv-ds",
+      "name": "Democracia Salvadoreña",
+      "kind": "political-party",
+      "source_url": "https://tse.gob.sv/publico/partidos-politicos"
+    }
+  ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "origin": "crawl-merge",
+  "note": "Merged from crawl collected.orgs (official source). Cap 40. Incomplete."
 }

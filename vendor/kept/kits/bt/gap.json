@@ -2,11 +2,6 @@
   "iso2": "bt",
   "items": [
     {
-      "id": "votes",
-      "hole": "No sourced roll-call file.",
-      "basis": "Evidence"
-    },
-    {
       "id": "pledges",
       "hole": "No sourced quote+URL pledges.",
       "basis": "Evidence"
@@ -22,12 +17,27 @@
       "basis": "Evidence"
     },
     {
-      "id": "committees",
-      "hole": "No sourced committee list.",
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "orgs",
+      "hole": "No sourced org list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members-overcount",
+      "hole": "Named members 77 exceed statutory 72. Wikidata P39 includes former terms. Names not deleted without a current-term official list.",
       "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: National Council of Bhutan · National Assembly of Bhutan · King of Bhutan · Parliament of Bhutan. Sitting 77. Empty objects not invented."
+  "note": "Polish 2026-09-06 polish-iso-02. Members 77 of statutory 72 (overcount 5). Dupes removed 0. Names not invented down."
 }

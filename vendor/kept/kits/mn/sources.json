@@ -20,13 +20,31 @@
       "label": "State Great Khural",
       "url": "https://www.parliament.mn/",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 200,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-09",
+      "note": "Official parliament HTTP 200 (polish-iso-09)."
     },
     {
       "id": "wd-q1544714",
       "label": "State Great Khural (Wikidata)",
       "url": "https://www.wikidata.org/wiki/Q1544714",
       "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://www.parliament.mn/nc/subcom/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-ethics",
+      "label": "Official MP ethics / disclosure source",
+      "url": "https://meduuleg.iaac.mn",
+      "kind": "primary",
       "basis": "Evidence"
     }
   ],

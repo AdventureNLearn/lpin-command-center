@@ -20,7 +20,10 @@
       "label": "Parliament of Fiji",
       "url": "http://www.parliament.gov.fj/",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 307,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-05"
     },
     {
       "id": "wd-q4345425",
@@ -34,6 +37,13 @@
       "label": "Member of the Parliament of Fiji (Wikidata)",
       "url": "https://www.wikidata.org/wiki/Q18145348",
       "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-money",
+      "label": "Official money",
+      "url": "https://www.feo.org.fj/audited-accounts/",
+      "kind": "primary",
       "basis": "Evidence"
     }
   ],

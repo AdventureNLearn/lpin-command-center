@@ -58,7 +58,9 @@ let skyToken: { value: string; exp: number } | null = null;
 
 function aircraftList(data: Adsb | null | undefined): AdsbAc[] {
   if (!data) return [];
-  return data.ac ?? data.aircraft ?? [];
+  const ac = Array.isArray(data.ac) ? data.ac : [];
+  const aircraft = Array.isArray(data.aircraft) ? data.aircraft : [];
+  return ac.length >= aircraft.length ? ac : aircraft;
 }
 
 function fromOpenSky(row: Array<string | number | boolean | null>): FlightSample | null {
@@ -84,15 +86,17 @@ function fromOpenSky(row: Array<string | number | boolean | null>): FlightSample
 }
 
 function fromAdsb(ac: AdsbAc, military: boolean): FlightSample | null {
-  if (ac.lat == null || ac.lon == null) return null;
+  const lat = Number(ac.lat);
+  const lon = Number(ac.lon);
+  if (!Number.isFinite(lat) || !Number.isFinite(lon)) return null;
   const alt = ac.alt_baro === "ground" ? 0 : Number(ac.alt_geom ?? ac.alt_baro ?? 0);
   const altM = Number.isFinite(alt) ? alt * 0.3048 : 0;
   return {
-    id: String(ac.hex ?? ac.flight ?? Math.random()),
+    id: String(ac.hex ?? ac.flight ?? "").trim() || `adsb-${lat.toFixed(3)}-${lon.toFixed(3)}`,
     callsign: String(ac.flight ?? ac.r ?? ac.hex ?? "UNKN").trim(),
     origin: String(ac.t ?? ""),
-    lat: ac.lat,
-    lon: ac.lon,
+    lat,
+    lon,
     altM,
     heading: Number(ac.track ?? 0) || 0,
     speedMs: (Number(ac.gs ?? 0) || 0) * 0.514444,
@@ -213,7 +217,8 @@ async function pullAdsbPoint(base: string, lat: number, lon: number, dist: numbe
 }
 
 async function pullAdsbRegion(view: FlightView): Promise<{ flights: FlightSample[]; source: string }> {
-  const dist = Math.round(view.distNm);
+  // adsb.fi 400s above 250 nmi; lol accepts more. Cap so ADS-B-first stays first.
+  const dist = Math.min(250, Math.max(1, Math.round(view.distNm)));
   for (const base of ADSB_BASES) {
     try {
       const flights = await pullAdsbPoint(base, view.lat, view.lon, dist);
@@ -319,7 +324,9 @@ export const getFlights = createServerFn({ method: "POST" })
   }
 
   const av = Boolean(data.aviationstack || process.env.AVIATIONSTACK_ACCESS_KEY);
-  const osCred = Boolean(data.openskyId && data.openskySecret) || Boolean(process.env.OPENSKY_CLIENT_ID);
+  const osCred =
+    Boolean(data.openskyId && data.openskySecret) ||
+    Boolean(process.env.OPENSKY_CLIENT_ID && process.env.OPENSKY_CLIENT_SECRET);
   const cacheKey = `flights:${view.lat.toFixed(1)}:${view.lon.toFixed(1)}:${Math.round(view.distNm)}`;
   const ttl = av ? 90_000 : 16_000;
   return cached(cacheKey, ttl, async () => {

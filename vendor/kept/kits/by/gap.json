@@ -25,9 +25,29 @@
       "id": "committees",
       "hole": "No sourced committee list.",
       "basis": "Evidence"
+    },
+    {
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "orgs",
+      "hole": "No sourced org list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members-overcount",
+      "hole": "Named members 416 exceed statutory 174. Wikidata P39 includes former terms. Names not deleted without a current-term official list.",
+      "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: House of Representatives · National Assembly of the Republic of Belarus · Council of the Republic of Belarus. Sitting 416. Empty objects not invented."
+  "note": "Polish 2026-09-06 polish-iso-02. Members 416 of statutory 174 (overcount 242). Dupes removed 0. Names not invented down."
 }

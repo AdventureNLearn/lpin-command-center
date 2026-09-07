@@ -1,7 +1,60 @@
 {
   "iso2": "bt",
-  "items": [],
+  "named_donors": false,
+  "unit": "BTN",
+  "sitting_total_reconstructed": 55825631.67,
+  "buckets": [
+    {
+      "label": "campaign fund primary round 2023-24 (disbursed minus refunded)",
+      "amount": 33056742.33
+    },
+    {
+      "label": "campaign fund general election 2023-24 (disbursed minus refunded)",
+      "amount": 13908609.34
+    },
+    {
+      "label": "audio visual advertisement primary round",
+      "amount": 676600
+    },
+    {
+      "label": "audio visual advertisement general election",
+      "amount": 3740300
+    },
+    {
+      "label": "supplement page primary round",
+      "amount": 175000
+    },
+    {
+      "label": "supplement page general election",
+      "amount": 3925920
+    },
+    {
+      "label": "printing of banners primary round",
+      "amount": 50525
+    },
+    {
+      "label": "printing of banners general election",
+      "amount": 20210
+    },
+    {
+      "label": "printing of posters primary round",
+      "amount": 28200
+    },
+    {
+      "label": "printing of posters general election",
+      "amount": 27120
+    },
+    {
+      "label": "printing of placards primary round",
+      "amount": 74025
+    },
+    {
+      "label": "printing of placards general election",
+      "amount": 142380
+    }
+  ],
   "incomplete": true,
+  "source_url": "https://www.ecb.bt/release-of-report-on-the-state-finance-and-election-returns-of-the-national-assembly-elections-2023-24/",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "Election Commission of Bhutan official State Finance and Election Returns HTML HTTP 200 (probed 2026-09-06). Public Election Fund Act 2008 report for National Assembly Elections 2023-24. Printed source-type state-funding expenditure buckets (primary + general leaf rows). Bucket sum 55,825,631.67 equals official Total Expenditure for National Assembly Election 2023-24. Parent Total Cost rows not stored (would double-count). Gross transfers Nu. 35,250,000 (primary, five parties) and Nu. 14,100,000 (general) not stored — campaign-fund rows are disbursed-minus-refunded. Per-party/candidate average rows and named candidate refunds not collected. sitting_total_reconstructed is the printed combined total, not a sum invented off-page. Named private donors not collected."
 }

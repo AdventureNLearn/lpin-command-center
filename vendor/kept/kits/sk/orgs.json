@@ -1,7 +1,52 @@
 {
   "iso2": "sk",
-  "items": [],
+  "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/zoznam",
+  "items": [
+    {
+      "id": "klub-smer-socialna-demokracia",
+      "name": "Klub SMER - sociálna demokracia",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/zoznam"
+    },
+    {
+      "id": "klub-sloboda-a-solidarita",
+      "name": "Klub Sloboda a Solidarita",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/zoznam"
+    },
+    {
+      "id": "klub-slovenska-narodna-strana",
+      "name": "Klub Slovenská národná strana",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/zoznam"
+    },
+    {
+      "id": "klub-kdh",
+      "name": "Klub KDH",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/zoznam"
+    },
+    {
+      "id": "klub-hlas-socialna-demokracia",
+      "name": "Klub HLAS - sociálna demokracia",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/zoznam"
+    },
+    {
+      "id": "klub-progresivne-slovensko",
+      "name": "Klub Progresívne Slovensko",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/zoznam"
+    },
+    {
+      "id": "klub-slovensko-za-ludi",
+      "name": "Klub SLOVENSKO - ZA ĽUDÍ",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/kluby/zoznam"
+    }
+  ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "origin": "electoral-register",
+  "note": "NR SR official parliamentary clubs list. Cap 40. Incomplete."
 }

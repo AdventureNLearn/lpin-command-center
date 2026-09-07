@@ -1,7 +1,40 @@
 {
   "iso2": "bt",
-  "items": [],
+  "source_url": "https://www.ecb.bt/declaration-of-results-of-the-4th-national-assembly-elections-2023-2024/",
+  "items": [
+    {
+      "id": "bhutan-tendrel-party-btp",
+      "name": "Bhutan Tendrel Party (BTP)",
+      "kind": "political-party",
+      "source_url": "https://www.ecb.bt/declaration-of-results-of-the-4th-national-assembly-elections-2023-2024/"
+    },
+    {
+      "id": "druk-nyamrup-tshogpa-dnt",
+      "name": "Druk Nyamrup Tshogpa (DNT)",
+      "kind": "political-party",
+      "source_url": "https://www.ecb.bt/declaration-of-results-of-the-4th-national-assembly-elections-2023-2024/"
+    },
+    {
+      "id": "druk-phuensum-tshogpa-dpt",
+      "name": "Druk Phuensum Tshogpa (DPT)",
+      "kind": "political-party",
+      "source_url": "https://www.ecb.bt/declaration-of-results-of-the-4th-national-assembly-elections-2023-2024/"
+    },
+    {
+      "id": "druk-thuendrel-tshogpa-dtt",
+      "name": "Druk Thuendrel Tshogpa (DTT)",
+      "kind": "political-party",
+      "source_url": "https://www.ecb.bt/declaration-of-results-of-the-4th-national-assembly-elections-2023-2024/"
+    },
+    {
+      "id": "people-s-democratic-party-pdp",
+      "name": "People’s Democratic Party (PDP)",
+      "kind": "political-party",
+      "source_url": "https://www.ecb.bt/declaration-of-results-of-the-4th-national-assembly-elections-2023-2024/"
+    }
+  ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "origin": "electoral-register",
+  "note": "ECB official primary-round party names. Locality bye-election titles dropped. Cap 40. Incomplete."
 }

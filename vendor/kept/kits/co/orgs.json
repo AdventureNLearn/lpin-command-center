@@ -1,7 +1,69 @@
 {
   "iso2": "co",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://www.datos.gov.co/resource/sjwx-dr6n.json?$limit=40",
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "conservador",
+      "name": "Conservador",
+      "origin": "register",
+      "source_url": "https://www.datos.gov.co/resource/sjwx-dr6n.json?$limit=40"
+    },
+    {
+      "id": "partido-mira",
+      "name": "Partido Mira",
+      "origin": "register",
+      "source_url": "https://www.datos.gov.co/resource/sjwx-dr6n.json?$limit=40"
+    },
+    {
+      "id": "liberal",
+      "name": "Liberal",
+      "origin": "register",
+      "source_url": "https://www.datos.gov.co/resource/sjwx-dr6n.json?$limit=40"
+    },
+    {
+      "id": "cambio-radical",
+      "name": "Cambio Radical",
+      "origin": "register",
+      "source_url": "https://www.datos.gov.co/resource/sjwx-dr6n.json?$limit=40"
+    },
+    {
+      "id": "partido-de-la-u",
+      "name": "Partido de la U",
+      "origin": "register",
+      "source_url": "https://www.datos.gov.co/resource/sjwx-dr6n.json?$limit=40"
+    },
+    {
+      "id": "centro-democratico",
+      "name": "Centro Democrático",
+      "origin": "register",
+      "source_url": "https://www.datos.gov.co/resource/sjwx-dr6n.json?$limit=40"
+    },
+    {
+      "id": "polo-democratico-alternativo",
+      "name": "Polo Democrático Alternativo",
+      "origin": "register",
+      "source_url": "https://www.datos.gov.co/resource/sjwx-dr6n.json?$limit=40"
+    },
+    {
+      "id": "coalicion-lista-de-la-decencia",
+      "name": "Coalición Lista de la Decencia",
+      "origin": "register",
+      "source_url": "https://www.datos.gov.co/resource/sjwx-dr6n.json?$limit=40"
+    },
+    {
+      "id": "alianza-verde",
+      "name": "Alianza Verde",
+      "origin": "register",
+      "source_url": "https://www.datos.gov.co/resource/sjwx-dr6n.json?$limit=40"
+    },
+    {
+      "id": "comunes",
+      "name": "Comunes",
+      "origin": "register",
+      "source_url": "https://www.datos.gov.co/resource/sjwx-dr6n.json?$limit=40"
+    }
+  ],
+  "note": "Capped sample from official source."
 }

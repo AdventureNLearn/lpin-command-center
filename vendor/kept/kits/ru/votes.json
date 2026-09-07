@@ -3,5 +3,6 @@
   "items": [],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced votes for this ISO. Not invented."
+  "note": "api.duma.gov.ru returned HTTP 200 HTML documentation only; endpoints require a token. www.duma.gov.ru fetch failed from this host. Blocked/dead/token-gated Duma APIs not treated as data.",
+  "source_url": "http://api.duma.gov.ru/"
 }

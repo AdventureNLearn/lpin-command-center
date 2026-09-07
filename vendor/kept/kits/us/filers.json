@@ -1,7 +1,154 @@
 {
   "iso2": "us",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://lda.senate.gov/api/v1/registrants/",
   "retrieved": "2026-09-06",
-  "note": "No sourced filers for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "11",
+      "name": "A-K ASSOC",
+      "kind": "filer",
+      "source_url": "https://lda.gov/api/v1/registrants/11/"
+    },
+    {
+      "id": "22",
+      "name": "AAI CORPORATION",
+      "kind": "filer",
+      "source_url": "https://lda.gov/api/v1/registrants/22/"
+    },
+    {
+      "id": "33",
+      "name": "AB MANAGEMENT ASSOCIATES",
+      "kind": "filer",
+      "source_url": "https://lda.gov/api/v1/registrants/33/"
+    },
+    {
+      "id": "44",
+      "name": "AMERICAN BANKERS ASSOCIATION SECURITIES ASSOCIATION (ABASA)",
+      "kind": "filer",
+      "source_url": "https://lda.gov/api/v1/registrants/44/"
+    },
+    {
+      "id": "55",
+      "name": "ABB, INC.",
+      "kind": "filer",
+      "source_url": "https://lda.gov/api/v1/registrants/55/"
+    },
+    {
+      "id": "66",
+      "name": "ABBOTT LABORATORIES",
+      "kind": "filer",
+      "source_url": "https://lda.gov/api/v1/registrants/66/"
+    },
+    {
+      "id": "77",
+      "name": "ABC",
+      "kind": "filer",
+      "source_url": "https://lda.gov/api/v1/registrants/77/"
+    },
+    {
+      "id": "88",
+      "name": "ABLONDI FOSTER SOBIN & DAVIDOW",
+      "kind": "filer",
+      "source_url": "https://lda.gov/api/v1/registrants/88/"
+    },
+    {
+      "id": "90",
+      "name": "ABR INFORMATION SERVICES",
+      "kind": "filer",
+      "source_url": "https://lda.gov/api/v1/registrants/90/"
+    },
+    {
+      "id": "102",
+      "name": "ABS GROUP OF COMPANIES",
+      "kind": "filer",
+      "source_url": "https://lda.gov/api/v1/registrants/102/"
+    },
+    {
+      "id": "113",
+      "name": "ACADEMY FOR RADIOLOGY & BIOMEDICAL IMAGING RESEARCH",
+      "kind": "filer",
+      "source_url": "https://lda.gov/api/v1/registrants/113/"
+    },
+    {
+      "id": "124",
+      "name": "ACG INTERCONTINENTAL",
+      "kind": "filer",
+      "source_url": "https://lda.gov/api/v1/registrants/124/"
+    },
+    {
+      "id": "135",
+      "name": "ACIL",
+      "kind": "filer",
+      "source_url": "https://lda.gov/api/v1/registrants/135/"
+    },
+    {
+      "id": "146",
+      "name": "ACKERSON GROUP",
+      "kind": "filer",
+      "source_url": "https://lda.gov/api/v1/registrants/146/"
+    },
+    {
+      "id": "157",
+      "name": "ADAMS AND REESE, LLP",
+      "kind": "filer",
+      "source_url": "https://lda.gov/api/v1/registrants/157/"
+    },
+    {
+      "id": "170",
+      "name": "ADDUCCI DORF LEHNER MITCHELL & BLANKENSHIP",
+      "kind": "filer",
+      "source_url": "https://lda.gov/api/v1/registrants/170/"
+    },
+    {
+      "id": "181",
+      "name": "ADDUCI, MASTRIANI & SCHAUMBERG, L.L.P.",
+      "kind": "filer",
+      "source_url": "https://lda.gov/api/v1/registrants/181/"
+    },
+    {
+      "id": "192",
+      "name": "ADROIT CONSULTANTS",
+      "kind": "filer",
+      "source_url": "https://lda.gov/api/v1/registrants/192/"
+    },
+    {
+      "id": "215",
+      "name": "ADVANCED PARADIGM CONSULTING",
+      "kind": "filer",
+      "source_url": "https://lda.gov/api/v1/registrants/215/"
+    },
+    {
+      "id": "226",
+      "name": "ADVANCED STRATEGIES",
+      "kind": "filer",
+      "source_url": "https://lda.gov/api/v1/registrants/226/"
+    },
+    {
+      "id": "237",
+      "name": "ADVANTA CORPORATION",
+      "kind": "filer",
+      "source_url": "https://lda.gov/api/v1/registrants/237/"
+    },
+    {
+      "id": "248",
+      "name": "ADVANTAGE ASSOCIATES INTERNATIONAL",
+      "kind": "filer",
+      "source_url": "https://lda.gov/api/v1/registrants/248/"
+    },
+    {
+      "id": "250",
+      "name": "ASSOCIATION FOR POSTAL COMMERCE",
+      "kind": "filer",
+      "source_url": "https://lda.gov/api/v1/registrants/250/"
+    },
+    {
+      "id": "261",
+      "name": "THE ADVOCACY GROUP",
+      "kind": "filer",
+      "source_url": "https://lda.gov/api/v1/registrants/261/"
+    }
+  ],
+  "note": "Capped sample from official source. Natural-person names omitted in place.",
+  "named_public_filers": true
 }

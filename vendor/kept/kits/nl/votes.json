@@ -1,7 +1,58 @@
 {
   "iso2": "nl",
-  "items": [],
-  "incomplete": true,
+  "chamber": "States General",
+  "session": "",
+  "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Besluit?$top=50&$filter=StemmingsSoort%20ne%20null&$orderby=GewijzigdOp%20desc",
   "retrieved": "2026-09-06",
-  "note": "No sourced votes for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "nl-bes-e4c44888-a9f8-4480-97b2-1370a91ec2cd",
+      "date": "2026-09-03",
+      "title": "Verworpen.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Besluit(e4c44888-a9f8-4480-97b2-1370a91ec2cd)"
+    },
+    {
+      "id": "nl-bes-579b2499-827e-4bb7-bcd2-e6b75b7ab501",
+      "date": "2026-07-13",
+      "title": "Verworpen.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Besluit(579b2499-827e-4bb7-bcd2-e6b75b7ab501)"
+    },
+    {
+      "id": "nl-bes-01535727-21b7-43ea-8c1d-929492e6a5d0",
+      "date": "2026-07-06",
+      "title": "Verworpen.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Besluit(01535727-21b7-43ea-8c1d-929492e6a5d0)"
+    },
+    {
+      "id": "nl-bes-baece9e9-37be-4f86-b1b7-d5036881f5b3",
+      "date": "2026-07-06",
+      "title": "Aangenomen.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Besluit(baece9e9-37be-4f86-b1b7-d5036881f5b3)"
+    },
+    {
+      "id": "nl-bes-7fdbbcc6-5262-4111-9ef4-04497b485d54",
+      "date": "2026-07-02",
+      "title": "Verworpen.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Besluit(7fdbbcc6-5262-4111-9ef4-04497b485d54)"
+    },
+    {
+      "id": "nl-bes-8dfc0ffb-e7d7-4066-995a-2b759c42ca9d",
+      "date": "2026-07-02",
+      "title": "Aangenomen.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Besluit(8dfc0ffb-e7d7-4066-995a-2b759c42ca9d)"
+    }
+  ]
 }

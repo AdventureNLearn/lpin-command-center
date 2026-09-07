@@ -1,7 +1,25 @@
 {
   "iso2": "am",
-  "items": [],
+  "named_donors": false,
+  "unit": "AMD",
+  "sitting_total_reconstructed": 2218329906,
+  "buckets": [
+    {
+      "label": "NA 2026 campaign-fund inflows (all contestants combined, bank data)",
+      "amount": 2218329906
+    },
+    {
+      "label": "NA 2026 campaign-fund outflows (all contestants combined, bank data)",
+      "amount": 2083507702
+    },
+    {
+      "label": "NA 2026 campaign-fund remainder (all contestants combined, bank data)",
+      "amount": 134822204
+    }
+  ],
   "incomplete": true,
+  "source_url": "https://res.elections.am/images/forWebPages/Verahskich/07.06.26m_14-06-2026.pdf",
+  "extra_source_url": "https://www.elections.am/PageFor/Oversight%20Service",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "CEC Oversight and Audit Service (ՎՎԾ) official տեղեկանք HTTP 200 this round. Printed combined line ընդամենը as of 12.06.2026 for 07.06.2026 National Assembly elections: inflows 2,218,329,906 AMD; outflows 2,083,507,702 AMD; remainder 134,822,204 AMD from bank-supplied campaign-fund data. sitting_total_reconstructed is the printed inflows total, not a reconstructed sum. Per-contestant rows on the same table not stored. Named private donors not collected. Local-election (community) OAS PDFs not used."
 }

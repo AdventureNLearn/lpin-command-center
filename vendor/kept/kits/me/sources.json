@@ -20,13 +20,24 @@
       "label": "Parliament of Montenegro",
       "url": "https://www.skupstina.me/",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 200,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-08",
+      "note": "Official parliament HTTP 200 (polish-iso-08)."
     },
     {
       "id": "wd-q1579497",
       "label": "Parliament of Montenegro (Wikidata)",
       "url": "https://www.wikidata.org/wiki/Q1579497",
       "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://api.skupstina.me/media/files/1605826816-poslovnik.pdf",
+      "kind": "primary",
       "basis": "Evidence"
     }
   ],

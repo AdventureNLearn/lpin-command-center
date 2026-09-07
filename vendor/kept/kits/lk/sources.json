@@ -20,13 +20,24 @@
       "label": "Parliament of Sri Lanka",
       "url": "http://www.parliament.lk/",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 200,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-08",
+      "note": "Official parliament HTTP 200 (polish-iso-08)."
     },
     {
       "id": "wd-q1450753",
       "label": "Parliament of Sri Lanka (Wikidata)",
       "url": "https://www.wikidata.org/wiki/Q1450753",
       "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://www.parliament.lk/en/component/committees/categories?id=1&type=committee",
+      "kind": "primary",
       "basis": "Evidence"
     }
   ],

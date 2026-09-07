@@ -1,6 +1,18 @@
 {
   "iso2": "no",
   "kit": "institutional",
-  "items": [],
-  "incomplete": true
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "houses": [],
+  "seats": 169,
+  "items": [
+    {
+      "id": "no",
+      "name": "Storting",
+      "kind": "parliament",
+      "seats": 169,
+      "url": "https://www.stortinget.no/"
+    }
+  ],
+  "note": "Unicameral national legislature. Wikidata sitting file overcounts vs statutory 169. Official data.stortinget.no/eksport/representanter HTTP 200 current period 2025-2029 replaced Wikidata sitting overcount with 169 named. Not an invented cut."
 }

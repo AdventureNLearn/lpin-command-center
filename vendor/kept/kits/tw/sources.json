@@ -35,6 +35,27 @@
       "url": "https://www.wikidata.org/wiki/Q715869",
       "kind": "index",
       "basis": "Evidence"
+    },
+    {
+      "id": "official-lobby",
+      "label": "Official lobby",
+      "url": "https://www.moi.gov.tw/lobby/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-filers",
+      "label": "Official filers",
+      "url": "https://ardata.cy.gov.tw/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-orgs",
+      "label": "Official orgs",
+      "url": "https://party.moi.gov.tw/",
+      "kind": "primary",
+      "basis": "Evidence"
     }
   ],
   "incomplete": false

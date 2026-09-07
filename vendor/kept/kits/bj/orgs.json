@@ -1,7 +1,28 @@
 {
   "iso2": "bj",
-  "items": [],
+  "source_url": "https://assemblee-nationale.bj/index.php/presentation/organisation_et_fonctionnement/groupes-parlementaires/",
+  "items": [
+    {
+      "id": "bloc-republicain-br",
+      "name": "BLOC RÉPUBLICAIN (BR)",
+      "kind": "parliamentary-group",
+      "source_url": "https://assemblee-nationale.bj/index.php/presentation/organisation_et_fonctionnement/groupes-parlementaires/"
+    },
+    {
+      "id": "union-progressiste-up",
+      "name": "UNION PROGRESSISTE (UP)",
+      "kind": "parliamentary-group",
+      "source_url": "https://assemblee-nationale.bj/index.php/presentation/organisation_et_fonctionnement/groupes-parlementaires/"
+    },
+    {
+      "id": "les-democrates-ld",
+      "name": "LES DÉMOCRATES (LD)",
+      "kind": "parliamentary-group",
+      "source_url": "https://assemblee-nationale.bj/index.php/presentation/organisation_et_fonctionnement/groupes-parlementaires/"
+    }
+  ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "origin": "electoral-register",
+  "note": "Official party/parliamentary-group register. Cap 40. Incomplete."
 }

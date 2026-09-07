@@ -1,7 +1,17 @@
 {
   "iso2": "cv",
-  "items": [],
+  "named_donors": false,
+  "unit": "CVE",
+  "sitting_total_reconstructed": 199978125,
+  "buckets": [
+    {
+      "label": "state subvention paid autárquicas 2024 (accounts approved)",
+      "amount": 199978125
+    }
+  ],
   "incomplete": true,
+  "source_url": "https://cne.cv/sala_de_imprensa_/cne-paga-subvencoes-as-forcas-politicas-que-participaram-nas-eleicoes-autarquicas-de-2024/",
+  "extra_source_url": "https://cne.cv/sala_de_imprensa_/cne-aprova-revisao-do-valor-da-subvencao-do-estado-para-as-eleicoes-autarquicas-de-500-para-705-escudos/",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "CNE official news HTTP 200 (probed 2026-09-06). Printed combined subvention paid 199.978.125 escudos to parties and independent lists whose 2024 autárquicas accounts were approved. Rate 705$00 per valid vote (Deliberação n.º 19/CNE/2025) not stored as a competing total. Pending lists (S-SAT, MSKP, MAS) not paid — incomplete. Per-party rows not stored. Named private donors not collected. Autárquicas public-funding total, not a legislative-election combined total."
 }

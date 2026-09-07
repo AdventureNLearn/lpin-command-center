@@ -42,6 +42,20 @@
       "url": "https://www.wikidata.org/wiki/Q1284236",
       "kind": "index",
       "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://www.camara.gov.co/comisiones",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-orgs",
+      "label": "Official orgs",
+      "url": "https://www.datos.gov.co/resource/sjwx-dr6n.json?$limit=40",
+      "kind": "primary",
+      "basis": "Evidence"
     }
   ],
   "incomplete": false

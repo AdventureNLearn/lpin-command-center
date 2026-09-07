@@ -13,7 +13,11 @@
       "label": "Parliament of the Republic of Moldova",
       "url": "https://parlament.md/",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 403,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-08",
+      "note": "403 is a miss. Not treated as live official this seat."
     },
     {
       "id": "wd-q555809",
@@ -27,6 +31,13 @@
       "label": "member of the Parliament of Moldova (Wikidata)",
       "url": "https://www.wikidata.org/wiki/Q18390049",
       "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-ethics",
+      "label": "Official MP financial-interest / disclosure register",
+      "url": "https://portal-declaratii.ani.md",
+      "kind": "primary",
       "basis": "Evidence"
     }
   ],

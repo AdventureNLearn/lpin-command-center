@@ -1,7 +1,16 @@
 {
   "iso2": "tt",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://integritycommission.org.tt/",
   "retrieved": "2026-09-06",
-  "note": "No sourced ethics for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "tt-integrity-commission-register",
+      "kind": "register-host",
+      "origin": "clerk",
+      "source_url": "https://integritycommission.org.tt/",
+      "note": "Integrity in Public Life Act register of interests. Public inspection on request. No bulk named-filer dump in HTML. Amounts not collected."
+    }
+  ],
+  "note": "Capped sample from official source."
 }

@@ -1,7 +1,58 @@
 {
   "iso2": "ua",
-  "items": [],
+  "source_url": "https://data.rada.gov.ua/ogd/mps/skl9/mps09-data.csv",
+  "items": [
+    {
+      "id": "servant-of-the-people",
+      "name": "Servant of the People",
+      "kind": "political-party",
+      "source_url": "https://data.rada.gov.ua/ogd/mps/skl9/mps09-data.csv"
+    },
+    {
+      "id": "european-solidarity",
+      "name": "European Solidarity",
+      "kind": "political-party",
+      "source_url": "https://data.rada.gov.ua/ogd/mps/skl9/mps09-data.csv"
+    },
+    {
+      "id": "batkivshchyna",
+      "name": "Batkivshchyna",
+      "kind": "political-party",
+      "source_url": "https://data.rada.gov.ua/ogd/mps/skl9/mps09-data.csv"
+    },
+    {
+      "id": "platform-for-life-and-peace",
+      "name": "Platform for Life and Peace",
+      "kind": "political-party",
+      "source_url": "https://data.rada.gov.ua/ogd/mps/skl9/mps09-data.csv"
+    },
+    {
+      "id": "dovira",
+      "name": "Dovira",
+      "kind": "political-party",
+      "source_url": "https://data.rada.gov.ua/ogd/mps/skl9/mps09-data.csv"
+    },
+    {
+      "id": "holos",
+      "name": "Holos",
+      "kind": "political-party",
+      "source_url": "https://data.rada.gov.ua/ogd/mps/skl9/mps09-data.csv"
+    },
+    {
+      "id": "for-the-future",
+      "name": "For the Future",
+      "kind": "political-party",
+      "source_url": "https://data.rada.gov.ua/ogd/mps/skl9/mps09-data.csv"
+    },
+    {
+      "id": "restoration-of-ukraine",
+      "name": "Restoration of Ukraine",
+      "kind": "political-party",
+      "source_url": "https://data.rada.gov.ua/ogd/mps/skl9/mps09-data.csv"
+    }
+  ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "origin": "parties-index",
+  "note": "Thin org list derived from official parties.json (non-wikidata). Incomplete. origin:parties-index."
 }

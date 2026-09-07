@@ -1,7 +1,105 @@
 {
   "iso2": "us",
-  "items": [],
+  "source_url": "https://lda.gov/api/v1/registrants/?page_size=40",
+  "items": [
+    {
+      "id": "government-relations-group-llc",
+      "name": "GOVERNMENT RELATIONS GROUP, LLC",
+      "register": "US Senate/House Lobbying Disclosure Act",
+      "source_url": "https://lda.gov/api/v1/filings/ed6a8380-b500-44b0-a252-ae2931b5ebfe/"
+    },
+    {
+      "id": "simpson-thacher-bartlett-llp",
+      "name": "SIMPSON THACHER & BARTLETT LLP",
+      "register": "US Senate/House Lobbying Disclosure Act",
+      "source_url": "https://lda.gov/api/v1/filings/492f1de3-3943-4c8f-a9c1-3e39f7b2b613/"
+    },
+    {
+      "id": "reh-company-formerly-the-sinclair-companies",
+      "name": "REH COMPANY (FORMERLY THE SINCLAIR COMPANIES)",
+      "register": "US Senate/House Lobbying Disclosure Act",
+      "source_url": "https://lda.gov/api/v1/filings/85ab74c2-b671-4f47-bc41-fa8af8e76d46/"
+    },
+    {
+      "id": "talley-strategies-llc",
+      "name": "TALLEY STRATEGIES LLC",
+      "register": "US Senate/House Lobbying Disclosure Act",
+      "source_url": "https://lda.gov/api/v1/filings/00ace018-e1b0-4b92-8135-5f2aec6486fd/"
+    },
+    {
+      "id": "capitol-consultants-llc",
+      "name": "CAPITOL CONSULTANTS LLC",
+      "register": "US Senate/House Lobbying Disclosure Act",
+      "source_url": "https://lda.gov/api/v1/filings/29bc6844-e113-41d7-a697-3adf15a90e13/"
+    },
+    {
+      "id": "valcour-llc",
+      "name": "VALCOUR LLC",
+      "register": "US Senate/House Lobbying Disclosure Act",
+      "source_url": "https://lda.gov/api/v1/filings/4e54d129-a963-48e0-b3d2-beeff5bab239/"
+    },
+    {
+      "id": "geos-institute",
+      "name": "GEOS INSTITUTE",
+      "register": "US Senate/House Lobbying Disclosure Act",
+      "source_url": "https://lda.gov/api/v1/filings/f154d1b7-eebc-4cf2-9e98-7ee52870c57f/"
+    },
+    {
+      "id": "chapman-and-cutler-llp",
+      "name": "CHAPMAN AND CUTLER LLP",
+      "register": "US Senate/House Lobbying Disclosure Act",
+      "source_url": "https://lda.gov/api/v1/filings/8e33c631-96f0-4f6b-8cc2-9640fa234ddf/"
+    },
+    {
+      "id": "curepsp",
+      "name": "CUREPSP",
+      "register": "US Senate/House Lobbying Disclosure Act",
+      "source_url": "https://lda.gov/api/v1/filings/d2c2c0b6-6019-4629-b481-eece9c1d1329/"
+    },
+    {
+      "id": "off-hill-strategies-l-l-c",
+      "name": "OFF HILL STRATEGIES L.L.C.",
+      "register": "US Senate/House Lobbying Disclosure Act",
+      "source_url": "https://lda.gov/api/v1/filings/597bfee9-9555-465c-ab9e-699e282b7a3c/"
+    },
+    {
+      "id": "lmh-strategic-solutions",
+      "name": "LMH STRATEGIC SOLUTIONS",
+      "register": "US Senate/House Lobbying Disclosure Act",
+      "source_url": "https://lda.gov/api/v1/filings/af7baea9-fe01-490c-a7f4-b3406cdd3856/"
+    },
+    {
+      "id": "hunton-andrews-kurth-llp",
+      "name": "HUNTON ANDREWS KURTH LLP",
+      "register": "US Senate/House Lobbying Disclosure Act",
+      "source_url": "https://lda.gov/api/v1/filings/21ed6837-2081-4916-9299-32571264117e/"
+    },
+    {
+      "id": "ballard-partners",
+      "name": "BALLARD PARTNERS",
+      "register": "US Senate/House Lobbying Disclosure Act",
+      "source_url": "https://lda.gov/api/v1/filings/f7202297-ce6b-4ffc-938c-566e9d79d368/"
+    },
+    {
+      "id": "brownstein-hyatt-farber-schreck-llp",
+      "name": "BROWNSTEIN HYATT FARBER SCHRECK, LLP",
+      "register": "US Senate/House Lobbying Disclosure Act",
+      "source_url": "https://lda.gov/api/v1/filings/a87b9b4a-0827-4401-a999-1d40a210331d/"
+    },
+    {
+      "id": "starzyk-associates-llc",
+      "name": "STARZYK & ASSOCIATES, LLC",
+      "register": "US Senate/House Lobbying Disclosure Act",
+      "source_url": "https://lda.gov/api/v1/filings/952bfa81-2cbf-4da5-b0a5-6f34692ac6a6/"
+    },
+    {
+      "id": "capital-park-partners-llc",
+      "name": "CAPITAL PARK PARTNERS LLC",
+      "register": "US Senate/House Lobbying Disclosure Act",
+      "source_url": "https://lda.gov/api/v1/filings/2c0e25d2-4fb0-4d98-b4b5-0f7511744c67/"
+    }
+  ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced lobby for this ISO. Not invented."
+  "note": "Unique registrant organisation names from LDA filings already on disk (same source). Duplicate filings collapsed. Cap 40. No clients or spend. Not a score."
 }

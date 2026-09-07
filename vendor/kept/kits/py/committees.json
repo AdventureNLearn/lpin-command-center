@@ -1,7 +1,541 @@
 {
   "iso2": "py",
-  "source_url": "https://www.wikidata.org/wiki/Q2511660",
+  "chamber": "Congress of Paraguay",
+  "source_url": "https://datos.congreso.gov.py/opendata/api/data/comision",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 53,
+  "items": [
+    {
+      "id": "32",
+      "name": "ASUNTOS CONSTITUCIONALES",
+      "chamber": "CAMARA DE DIPUTADOS",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/32"
+    },
+    {
+      "id": "5",
+      "name": "ASUNTOS CONSTITUCIONALES, DEFENSA NACIONAL Y FUERZA PÚBLICA",
+      "chamber": "CAMARA DE SENADORES",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/5"
+    },
+    {
+      "id": "2",
+      "name": "LEGISLACIÓN, CODIFICACIÓN, JUSTICIA Y TRABAJO",
+      "chamber": "CAMARA DE SENADORES",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/2"
+    },
+    {
+      "id": "33",
+      "name": "ASUNTOS ECONÓMICOS Y FINANCIEROS",
+      "chamber": "CAMARA DE DIPUTADOS",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/33"
+    },
+    {
+      "id": "34",
+      "name": "LEGISLACIÓN Y CODIFICACIÓN",
+      "chamber": "CAMARA DE DIPUTADOS",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/34"
+    },
+    {
+      "id": "6",
+      "name": "HACIENDA Y PRESUPUESTO",
+      "chamber": "CAMARA DE SENADORES",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/6"
+    },
+    {
+      "id": "3",
+      "name": "RELACIONES EXTERIORES Y ASUNTOS INTERNACIONALES",
+      "chamber": "CAMARA DE SENADORES",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/3"
+    },
+    {
+      "id": "35",
+      "name": "RELACIONES EXTERIORES",
+      "chamber": "CAMARA DE DIPUTADOS",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/35"
+    },
+    {
+      "id": "36",
+      "name": "JUSTICIA, TRABAJO Y PREVISIÓN SOCIAL",
+      "chamber": "CAMARA DE DIPUTADOS",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/36"
+    },
+    {
+      "id": "8",
+      "name": "PETICIONES, PODERES Y REGLAMENTOS",
+      "chamber": "CAMARA DE SENADORES",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/8"
+    },
+    {
+      "id": "9",
+      "name": "CULTURA Y EDUCACIÓN",
+      "chamber": "CAMARA DE SENADORES",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/9"
+    },
+    {
+      "id": "37",
+      "name": "DERECHOS HUMANOS",
+      "chamber": "CAMARA DE DIPUTADOS",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/37"
+    },
+    {
+      "id": "38",
+      "name": "EDUCACIÓN, CULTURA Y CULTO",
+      "chamber": "CAMARA DE DIPUTADOS",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/38"
+    },
+    {
+      "id": "39",
+      "name": "OBRAS, SERVICIOS PÚBLICOS Y COMUNICACIONES",
+      "chamber": "CAMARA DE DIPUTADOS",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/39"
+    },
+    {
+      "id": "11",
+      "name": "ECONOMÍA, COOPERATIVISMO, DESARROLLO E INTEGRACIÓN ECONÓMICA LATINOAMERICANA",
+      "chamber": "CAMARA DE SENADORES",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/11"
+    },
+    {
+      "id": "4",
+      "name": "REFORMA AGRARIA Y BIENESTAR RURAL",
+      "chamber": "CAMARA DE SENADORES",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/4"
+    },
+    {
+      "id": "40",
+      "name": "PRENSA, COMUNICACIÓN SOCIAL, ARTES Y ESPECTÁCULOS",
+      "chamber": "CAMARA DE DIPUTADOS",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/40"
+    },
+    {
+      "id": "13",
+      "name": "SALUD PÚBLICA Y SEGURIDAD SOCIAL",
+      "chamber": "CAMARA DE SENADORES",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/13"
+    },
+    {
+      "id": "41",
+      "name": "AGRICULTURA Y GANADERÍA",
+      "chamber": "CAMARA DE DIPUTADOS",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/41"
+    },
+    {
+      "id": "14",
+      "name": "ASUNTOS DEPARTAMENTALES, MUNICIPALES, DISTRITALES Y REGIONALES",
+      "chamber": "CAMARA DE SENADORES",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/14"
+    },
+    {
+      "id": "42",
+      "name": "DEFENSA NACIONAL, SEGURIDAD, INTELIGENCIA Y ORDEN INTERNO",
+      "chamber": "CAMARA DE DIPUTADOS",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/42"
+    },
+    {
+      "id": "15",
+      "name": "OBRAS PÚBLICAS, COMUNICACIONES Y SERVICIOS PÚBLICOS",
+      "chamber": "CAMARA DE SENADORES",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/15"
+    },
+    {
+      "id": "43",
+      "name": "INDUSTRIA, COMERCIO, TURISMO Y COOPERATIVISMO",
+      "chamber": "CAMARA DE DIPUTADOS",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/43"
+    },
+    {
+      "id": "16",
+      "name": "ENERGÍA, RECURSOS NATURALES, POBLACIÓN, AMBIENTE, PRODUCCIÓN Y DESARROLLO SOSTENIBLE",
+      "chamber": "CAMARA DE SENADORES",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/16"
+    },
+    {
+      "id": "44",
+      "name": "SALUD PÚBLICA",
+      "chamber": "CAMARA DE DIPUTADOS",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/44"
+    },
+    {
+      "id": "45",
+      "name": "ASUNTOS MUNICIPALES Y DEPARTAMENTALES",
+      "chamber": "CAMARA DE DIPUTADOS",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/45"
+    },
+    {
+      "id": "17",
+      "name": "EQUIDAD Y GÉNERO",
+      "chamber": "CAMARA DE SENADORES",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/17"
+    },
+    {
+      "id": "46",
+      "name": "DESARROLLO SOCIAL, POBLACIÓN Y VIVIENDA",
+      "chamber": "CAMARA DE DIPUTADOS",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/46"
+    },
+    {
+      "id": "69",
+      "name": "CUENTAS Y CONTROL DE LA ADMINISTRACIÓN FINANCIERA DEL ESTADO",
+      "chamber": "CAMARA DE SENADORES",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/69"
+    },
+    {
+      "id": "47",
+      "name": "PRESUPUESTO",
+      "chamber": "CAMARA DE DIPUTADOS",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/47"
+    },
+    {
+      "id": "70",
+      "name": "INDUSTRIA, COMERCIO Y TURISMO",
+      "chamber": "CAMARA DE SENADORES",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/70"
+    },
+    {
+      "id": "48",
+      "name": "CUENTAS Y CONTROL DE EJECUCIÓN PRESUPUESTARIA",
+      "chamber": "CAMARA DE DIPUTADOS",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/48"
+    },
+    {
+      "id": "71",
+      "name": "PREVENCIÓN Y LUCHA CONTRA EL NARCOTRÁFICO Y DELITOS CONEXOS",
+      "chamber": "CAMARA DE SENADORES",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/71"
+    },
+    {
+      "id": "49",
+      "name": "PETICIONES, PODERES, REGLAMENTO Y REDACCIÓN",
+      "chamber": "CAMARA DE DIPUTADOS",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/49"
+    },
+    {
+      "id": "50",
+      "name": "LUCHA CONTRA EL NARCOTRÁFICO, ILÍCITOS CONEXOS,GRAVES Y DE PREVENCIÓN DE LAS ADICCIONES.",
+      "chamber": "CAMARA DE DIPUTADOS",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/50"
+    },
+    {
+      "id": "72",
+      "name": "DESARROLLO SOCIAL",
+      "chamber": "CAMARA DE SENADORES",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/72"
+    },
+    {
+      "id": "100344",
+      "name": "PUEBLOS INDÍGENAS",
+      "chamber": "CAMARA DE SENADORES",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/100344"
+    },
+    {
+      "id": "51",
+      "name": "CIENCIA Y TECNOLOGÍA",
+      "chamber": "CAMARA DE DIPUTADOS",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/51"
+    },
+    {
+      "id": "100951",
+      "name": "DERECHOS PARA LAS PERSONAS CON DISCAPACIDAD",
+      "chamber": "CAMARA DE SENADORES",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/100951"
+    },
+    {
+      "id": "52",
+      "name": "ENERGÍA Y MINERÍA",
+      "chamber": "CAMARA DE DIPUTADOS",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/52"
+    },
+    {
+      "id": "101427",
+      "name": "DE LA FAMILIA, NIÑEZ, ADOLESCENCIA Y JUVENTUD",
+      "chamber": "CAMARA DE SENADORES",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/101427"
+    },
+    {
+      "id": "53",
+      "name": "DE AMBIENTE, DESARROLLO SOSTENIBLE Y CAMBIO CLIMÁTICO",
+      "chamber": "CAMARA DE DIPUTADOS",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/53"
+    },
+    {
+      "id": "101460",
+      "name": "SEGUIMIENTO Y CONTROL DEL CONTRABANDO DE PRODUCTOS FRUTIHORTÍCOLAS E INDUSTRIALIZADOS",
+      "chamber": "CAMARA DE SENADORES",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/101460"
+    },
+    {
+      "id": "54",
+      "name": "BIENESTAR RURAL",
+      "chamber": "CAMARA DE DIPUTADOS",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/54"
+    },
+    {
+      "id": "55",
+      "name": "EQUIDAD SOCIAL Y GÉNERO",
+      "chamber": "CAMARA DE DIPUTADOS",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/55"
+    },
+    {
+      "id": "101488",
+      "name": "DEPORTES",
+      "chamber": "CAMARA DE SENADORES",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/101488"
+    },
+    {
+      "id": "101495",
+      "name": "ADULTOS MAYORES Y SEGUIMIENTO DEL SISTEMA DE JUBILACIONES Y PENSIONES",
+      "chamber": "CAMARA DE SENADORES",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/101495"
+    },
+    {
+      "id": "101500",
+      "name": "CIENCIAS, TECNOLOGÍA, INNOVACIÓN Y FUTURO",
+      "chamber": "CAMARA DE SENADORES",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/101500"
+    },
+    {
+      "id": "62",
+      "name": "ENTES BINACIONALES HIDROELÉCTRICOS",
+      "chamber": "CAMARA DE DIPUTADOS",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/62"
+    },
+    {
+      "id": "100364",
+      "name": "ASUNTOS MIGRATORIOS Y DESARROLLO",
+      "chamber": "CAMARA DE DIPUTADOS",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/100364"
+    },
+    {
+      "id": "100601",
+      "name": "NIÑEZ, JUVENTUD Y DESARROLLO",
+      "chamber": "CAMARA DE DIPUTADOS",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/100601"
+    },
+    {
+      "id": "100600",
+      "name": "FAMILIA Y PERSONAS ADULTAS MAYORES.",
+      "chamber": "CAMARA DE DIPUTADOS",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/100600"
+    },
+    {
+      "id": "100830",
+      "name": "DE DEFENSA DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD",
+      "chamber": "CAMARA DE DIPUTADOS",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "http://silpy.congreso.gov.py/comision/100830"
+    }
+  ],
+  "note": "Congress open-data API. 79 committee records; 57 PERMANENTE stored (cap 80). Emails not stored."
 }

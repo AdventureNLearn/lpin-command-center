@@ -1,5 +1,15 @@
 {
   "iso2": "gr",
+  "source_url": "https://www.hellenicparliament.gr/Organosi-kai-Leitourgia/epitropi-elegxou-ton-oikonomikon-ton-komaton-kai-ton-vouleftwn/",
+  "retrieved": "2026-09-07",
+  "incomplete": true,
   "named_donors": false,
-  "buckets": []
+  "buckets": [
+    {
+      "label": "party-and-mp-finance-oversight",
+      "source_url": "https://www.hellenicparliament.gr/Organosi-kai-Leitourgia/epitropi-elegxou-ton-oikonomikon-ton-komaton-kai-ton-vouleftwn/"
+    }
+  ],
+  "unit": "",
+  "note": "Official committee-of-audit page HTTP 200. Source-type bucket only. Named donors and amounts not collected."
 }

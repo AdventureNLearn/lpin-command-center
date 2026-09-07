@@ -1,7 +1,16 @@
 {
   "iso2": "ao",
-  "items": [],
+  "named_donors": false,
+  "unit": "AOA",
+  "sitting_total_reconstructed": 1112050000,
+  "buckets": [
+    {
+      "label": "state campaign financing per candidacy 2022 (equal allocation)",
+      "amount": 1112050000
+    }
+  ],
   "incomplete": true,
+  "source_url": "https://www.cne.ao/noticia/Mensagem+de+Sua+Excel%C3%AAncia+Presidente+da+CNE+Doutor+Manuel+Pereira+da+Silva+sobre+o+balan%C3%A7o+da+campanha+eleitoral+e+prepara%C3%A7%C3%A3o+do+apelo+ao+voto+e+ao+civismo+dos+cidad%C3%A3os+eleitores",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "CNE official news HTTP 200 this seat. Printed: each of the 8 validated 2022 general-election candidacies received 1.112.050.000,00 Kwanzas of state campaign financing (equal). sitting_total_reconstructed is that official per-candidacy figure, not an 8-list product (combined total not printed). Named private donors not collected. 2027 cycle totals not published on the CNE homepage this pass."
 }

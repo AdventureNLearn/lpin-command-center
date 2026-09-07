@@ -38,22 +38,28 @@
       "name": "Senate of Lesotho",
       "kind": "chamber",
       "seats": 33,
-      "url": "http://senate.parliament.ls/"
+      "url": "http://senate.parliament.ls/",
+      "http_status": 200,
+      "official_http_200": true
     },
     {
       "id": "Q1138713",
       "name": "National Assembly",
       "kind": "chamber",
       "seats": 120,
-      "url": "https://nationalassembly.parliament.ls/"
+      "url": "https://nationalassembly.parliament.ls/",
+      "http_status": 200,
+      "official_http_200": true
     },
     {
       "id": "Q4345419",
       "name": "Parliament of Lesotho",
       "kind": "parliament",
       "seats": 0,
-      "url": "https://parliament.ls/"
+      "url": "https://parliament.ls/",
+      "http_status": 200,
+      "official_http_200": true
     }
   ],
-  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score. polish-iso-08: official parliament URLs noted only on HTTP 200; 403 is a miss. polish-iso-08: official parliament URLs noted only on HTTP 200; 403 is a miss."
 }

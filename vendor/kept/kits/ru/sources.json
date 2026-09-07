@@ -49,6 +49,14 @@
       "url": "https://www.wikidata.org/wiki/Q186473",
       "kind": "index",
       "basis": "Evidence"
+    },
+    {
+      "id": "duma-api-docs",
+      "label": "State Duma API documentation (token-gated)",
+      "url": "http://api.duma.gov.ru/",
+      "kind": "none",
+      "basis": "Evidence",
+      "note": "HTTP 200 HTML documentation only. Endpoints require a token. Not treated as sitting data."
     }
   ],
   "incomplete": false

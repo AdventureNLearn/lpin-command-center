@@ -3,5 +3,6 @@
   "items": [],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced votes for this ISO. Not invented."
+  "note": "catalogodatos.gub.uy votacion search HTTP 200 returned electoral-event packages, not parliamentary roll-calls. Municipales packages discarded (OPSEC). parlamento.gub.uy hunt-stop 403. Not invented.",
+  "source_url": "https://catalogodatos.gub.uy/api/3/action/package_search?q=votacion"
 }

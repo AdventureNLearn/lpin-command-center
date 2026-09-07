@@ -20,13 +20,24 @@
       "label": "National Council",
       "url": "https://www.conseil-national.mc/",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 0,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-08",
+      "note": "Official parliament probe miss status 0 (fetch failed)."
     },
     {
       "id": "wd-q1127198",
       "label": "National Council (Wikidata)",
       "url": "https://www.wikidata.org/wiki/Q1127198",
       "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://legimonaco.mc/tnc/autre-texte-reglementaire/2020/11-25-R01/",
+      "kind": "primary",
       "basis": "Evidence"
     }
   ],

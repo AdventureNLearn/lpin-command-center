@@ -1,7 +1,15 @@
 {
   "iso2": "th",
-  "items": [],
+  "source_url": "https://party.ect.go.th/",
+  "retrieved": "2026-09-07",
   "incomplete": true,
-  "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "items": [
+    {
+      "id": "th-ect-party-db",
+      "name": "Election Commission political party database",
+      "kind": "register",
+      "source_url": "https://party.ect.go.th/"
+    }
+  ],
+  "note": "Capped sample from official source."
 }

@@ -1,7 +1,106 @@
 {
   "iso2": "tr",
-  "items": [],
+  "source_url": "https://www.tbmm.gov.tr/milletvekili/AllList",
+  "items": [
+    {
+      "id": "ak-parti",
+      "name": "AK Parti",
+      "kind": "political-party",
+      "source_url": "https://www.tbmm.gov.tr/milletvekili/AllList"
+    },
+    {
+      "id": "yeni-parti",
+      "name": "Yeni Parti",
+      "kind": "political-party",
+      "source_url": "https://www.tbmm.gov.tr/milletvekili/AllList"
+    },
+    {
+      "id": "dem-parti",
+      "name": "DEM PARTİ",
+      "kind": "political-party",
+      "source_url": "https://www.tbmm.gov.tr/milletvekili/AllList"
+    },
+    {
+      "id": "mhp",
+      "name": "MHP",
+      "kind": "political-party",
+      "source_url": "https://www.tbmm.gov.tr/milletvekili/AllList"
+    },
+    {
+      "id": "chp",
+      "name": "CHP",
+      "kind": "political-party",
+      "source_url": "https://www.tbmm.gov.tr/milletvekili/AllList"
+    },
+    {
+      "id": "i-yi-parti",
+      "name": "İYİ Parti",
+      "kind": "political-party",
+      "source_url": "https://www.tbmm.gov.tr/milletvekili/AllList"
+    },
+    {
+      "id": "yeni-yol",
+      "name": "YENİ YOL",
+      "kind": "political-party",
+      "source_url": "https://www.tbmm.gov.tr/milletvekili/AllList"
+    },
+    {
+      "id": "ba-imsiz",
+      "name": "BAĞIMSIZ",
+      "kind": "political-party",
+      "source_url": "https://www.tbmm.gov.tr/milletvekili/AllList"
+    },
+    {
+      "id": "yeni-den-refah",
+      "name": "YENİDEN REFAH",
+      "kind": "political-party",
+      "source_url": "https://www.tbmm.gov.tr/milletvekili/AllList"
+    },
+    {
+      "id": "h-da-par",
+      "name": "HÜDA PAR",
+      "kind": "political-party",
+      "source_url": "https://www.tbmm.gov.tr/milletvekili/AllList"
+    },
+    {
+      "id": "ti-p",
+      "name": "TİP",
+      "kind": "political-party",
+      "source_url": "https://www.tbmm.gov.tr/milletvekili/AllList"
+    },
+    {
+      "id": "dbp",
+      "name": "DBP",
+      "kind": "political-party",
+      "source_url": "https://www.tbmm.gov.tr/milletvekili/AllList"
+    },
+    {
+      "id": "emep",
+      "name": "EMEP",
+      "kind": "political-party",
+      "source_url": "https://www.tbmm.gov.tr/milletvekili/AllList"
+    },
+    {
+      "id": "dp",
+      "name": "DP",
+      "kind": "political-party",
+      "source_url": "https://www.tbmm.gov.tr/milletvekili/AllList"
+    },
+    {
+      "id": "saadet-partisi",
+      "name": "SAADET Partisi",
+      "kind": "political-party",
+      "source_url": "https://www.tbmm.gov.tr/milletvekili/AllList"
+    },
+    {
+      "id": "dsp",
+      "name": "DSP",
+      "kind": "political-party",
+      "source_url": "https://www.tbmm.gov.tr/milletvekili/AllList"
+    }
+  ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "origin": "parties-index",
+  "note": "Thin org list derived from official parties.json (non-wikidata). Incomplete. origin:parties-index."
 }

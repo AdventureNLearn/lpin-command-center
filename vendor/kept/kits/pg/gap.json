@@ -25,9 +25,29 @@
       "id": "committees",
       "hole": "No sourced committee list.",
       "basis": "Evidence"
+    },
+    {
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "orgs",
+      "hole": "No sourced org list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members-count",
+      "hole": "Wikidata sitting file 176 names vs institutional 111. Official parliament.gov.pg/members HTTP 200 HTML — not harvested as a machine-readable current list this sitting. Not invented a cut.",
+      "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: Member of the National Parliament of Papua New Guinea · National Parliament of Papua New Guinea. Sitting 176. Empty objects not invented."
+  "note": "Category coverage 2026-09-06. Empty categories are holes, not zeros invented. polish-iso-10 2026-09-06. Empty categories remain holes, not zeros invented."
 }

@@ -1,7 +1,61 @@
 {
   "iso2": "my",
-  "source_url": "https://www.wikidata.org/wiki/Q2986392",
+  "chamber": "Parliament of Malaysia",
+  "source_url": "http://www.parlimen.gov.my/jawatankuasa-dr.html?uweb=dr",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 5,
+  "items": [
+    {
+      "id": "my-dr-pemilih",
+      "name": "Jawatankuasa Pemilih",
+      "chamber": "Dewan Rakyat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "http://www.parlimen.gov.my/jawatankuasa-dr.html?uweb=dr"
+    },
+    {
+      "id": "my-dr-pac",
+      "name": "Jawatankuasa Kira-kira Wang Negara",
+      "chamber": "Dewan Rakyat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "http://www.parlimen.gov.my/jawatankuasa-dr.html?uweb=dr"
+    },
+    {
+      "id": "my-dr-peraturan",
+      "name": "Jawatankuasa Peraturan Mesyuarat",
+      "chamber": "Dewan Rakyat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "http://www.parlimen.gov.my/jawatankuasa-dr.html?uweb=dr"
+    },
+    {
+      "id": "my-dr-dewan",
+      "name": "Jawatankuasa Dewan",
+      "chamber": "Dewan Rakyat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "http://www.parlimen.gov.my/jawatankuasa-dr.html?uweb=dr"
+    },
+    {
+      "id": "my-dr-hak",
+      "name": "Jawatankuasa Hak dan Kebebasan",
+      "chamber": "Dewan Rakyat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "http://www.parlimen.gov.my/jawatankuasa-dr.html?uweb=dr"
+    }
+  ],
+  "note": "Dewan Rakyat and Dewan Negara committee index pages live. HTTPS parlimen.gov.my and parliament.gov.my fetch failed; HTTP parlimen.gov.my 200."
 }

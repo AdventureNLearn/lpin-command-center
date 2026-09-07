@@ -1,7 +1,33 @@
 {
   "iso2": "sk",
-  "items": [],
+  "source_url": "https://www.minv.sk/?psph-informacie",
+  "retrieved": "2026-09-07",
   "incomplete": true,
-  "retrieved": "2026-09-06",
-  "note": "No sourced filers for this ISO. Not invented."
+  "items": [
+    {
+      "id": "metodicke-pokyny-a-usmernenia",
+      "name": "Metodické pokyny a usmernenia",
+      "kind": "political-party",
+      "source_url": "https://www.minv.sk/?psph-informacie"
+    },
+    {
+      "id": "metodicke-usmernenia",
+      "name": "Metodické usmernenia",
+      "kind": "political-party",
+      "source_url": "https://www.minv.sk/?psph-informacie"
+    },
+    {
+      "id": "dotacie-obcianskym-zdruzeniam-smernice",
+      "name": "Dotácie občianskym združeniam - smernice",
+      "kind": "political-party",
+      "source_url": "https://www.minv.sk/?psph-informacie"
+    },
+    {
+      "id": "strana-nema-ziaden-majetok",
+      "name": "strana nemá žiaden majetok,",
+      "kind": "political-party",
+      "source_url": "https://www.minv.sk/?psph-informacie"
+    }
+  ],
+  "note": "Interior Ministry party agenda HTTP 200. 4 organisation filers. Natural persons not collected."
 }

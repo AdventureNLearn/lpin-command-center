@@ -1,7 +1,41 @@
 {
   "iso2": "vc",
-  "source_url": "https://www.wikidata.org/wiki/Q1138357",
+  "chamber": "House of Assembly of Saint Vincent and the Grenadines",
+  "source_url": "https://assembly.gov.vc/assembly/index.php/committees",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 3,
+  "items": [
+    {
+      "id": "select-committee",
+      "name": "Select Committee",
+      "chamber": "House of Assembly of Saint Vincent and the Grenadines",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assembly.gov.vc/assembly/index.php/select-committee-2018"
+    },
+    {
+      "id": "public-accounts-committee",
+      "name": "Public Accounts Committee",
+      "chamber": "House of Assembly of Saint Vincent and the Grenadines",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assembly.gov.vc/assembly/index.php/public-accounts-committee"
+    },
+    {
+      "id": "finance-committee",
+      "name": "Finance Committee",
+      "chamber": "House of Assembly of Saint Vincent and the Grenadines",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assembly.gov.vc/assembly/index.php/finance-committee"
+    }
+  ],
+  "note": "Official committee names from HTTP 200. Memberships not collected."
 }

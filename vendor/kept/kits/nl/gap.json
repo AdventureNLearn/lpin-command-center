@@ -2,18 +2,8 @@
   "iso2": "nl",
   "items": [
     {
-      "id": "votes",
-      "hole": "No sourced roll-call file.",
-      "basis": "Evidence"
-    },
-    {
       "id": "pledges",
       "hole": "No sourced quote+URL pledges.",
-      "basis": "Evidence"
-    },
-    {
-      "id": "ethics",
-      "hole": "No sourced ethics filings.",
       "basis": "Evidence"
     },
     {
@@ -22,12 +12,12 @@
       "basis": "Evidence"
     },
     {
-      "id": "committees",
-      "hole": "No sourced committee list.",
+      "id": "members-count",
+      "hole": "Wikidata sitting file 1286 names vs statutory 225 (Senate 75 + House 150). Tweede Kamer OData current occupancy HTTP 200 count 157 — members.json not overwritten (already has items; no in-place id/name+chamber dupes). Senate official current list 404. Not invented a cut.",
       "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: Senate · House of Representatives · States General. Sitting 1286. Empty objects not invented."
+  "note": "Category coverage 2026-09-06. Empty categories are holes, not zeros invented. polish-iso-10 2026-09-06. Empty categories remain holes, not zeros invented."
 }

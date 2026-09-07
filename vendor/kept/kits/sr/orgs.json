@@ -1,7 +1,52 @@
 {
   "iso2": "sr",
-  "items": [],
+  "source_url": "https://www.dna.sr/politiek-college/fracties/",
+  "items": [
+    {
+      "id": "sr-frac-ndp",
+      "name": "Nationale Democratische Partij",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.dna.sr/politiek-college/fracties/ndp/"
+    },
+    {
+      "id": "sr-frac-vhp",
+      "name": "Vooruitstrevende Hervormingspartij",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.dna.sr/politiek-college/fracties/vhp/"
+    },
+    {
+      "id": "sr-frac-nps",
+      "name": "Nationale Partij Suriname",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.dna.sr/politiek-college/fracties/nps/"
+    },
+    {
+      "id": "sr-frac-abop",
+      "name": "Algemene Bevrijdings- en Ontwikkelingspartij",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.dna.sr/politiek-college/fracties/abop/"
+    },
+    {
+      "id": "sr-frac-pl",
+      "name": "Pertjajah Luhur",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.dna.sr/politiek-college/fracties/pl/"
+    },
+    {
+      "id": "sr-frac-bep",
+      "name": "Broederschap en Eenheid in de Politiek",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.dna.sr/politiek-college/fracties/bep/"
+    },
+    {
+      "id": "sr-frac-a20",
+      "name": "Alternatief 2020",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.dna.sr/politiek-college/fracties/a20/"
+    }
+  ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "origin": "crawl-merge",
+  "note": "Merged from crawl collected.orgs (official source). Cap 40. Incomplete."
 }

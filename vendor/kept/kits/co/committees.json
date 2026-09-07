@@ -1,7 +1,81 @@
 {
   "iso2": "co",
-  "source_url": "https://www.wikidata.org/wiki/Q1284236",
+  "chamber": "Congress of Colombia",
+  "source_url": "https://www.camara.gov.co/comisiones",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 7,
+  "items": [
+    {
+      "id": "comision-primera",
+      "name": "Comisión Primera Constitucional Permanente",
+      "chamber": "Congress of Colombia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.camara.gov.co/integrantes-comision-primera-constitucional-permanente/"
+    },
+    {
+      "id": "comision-segunda",
+      "name": "Comisión Segunda o de Relaciones Internacionales",
+      "chamber": "Congress of Colombia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.camara.gov.co/integrantes-comision-segunda-constitucional/"
+    },
+    {
+      "id": "comision-tercera",
+      "name": "Comisión Tercera o de Hacienda y Crédito Público",
+      "chamber": "Congress of Colombia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.camara.gov.co/integrantes-comision-tercera-constitucional/"
+    },
+    {
+      "id": "comision-cuarta",
+      "name": "Comisión Cuarta o Presupuesto",
+      "chamber": "Congress of Colombia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.camara.gov.co/integrantes-comision-cuarta-constitucional/"
+    },
+    {
+      "id": "comision-quinta",
+      "name": "Comisión Quinta Constitucional Permanente",
+      "chamber": "Congress of Colombia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.camara.gov.co/integrantes-comision-quinta-constitucional/"
+    },
+    {
+      "id": "comision-sexta",
+      "name": "Comisión Sexta o de Transportes y Comunicaciones",
+      "chamber": "Congress of Colombia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.camara.gov.co/integrantes-comision-sexta-constitucional/"
+    },
+    {
+      "id": "comision-septima",
+      "name": "Comisión Séptima Constitucional Permanente",
+      "chamber": "Congress of Colombia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.camara.gov.co/integrantes-comision-septima-constitucional/"
+    }
+  ],
+  "note": "Chamber constitutional commissions page HTTP 200. Seven named commissions collected. Cap not a dump."
 }

@@ -1,7 +1,17 @@
 {
   "iso2": "be",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://www.ps.be/programme-2024",
   "retrieved": "2026-09-06",
-  "note": "No sourced pledges for this ISO. Not invented."
+  "incomplete": true,
+  "note": "Quote+URL from official party manifesto / programme HTML. Not invented. Cap 40.",
+  "items": [
+    {
+      "id": "be-p-socialist-party-crime-a4a59a",
+      "party_id": "socialist-party",
+      "quote": "Nous voulons des quartiers sûrs, avec une présence policière renforcée et des services de secours efficaces.",
+      "issue_id": "crime",
+      "source_url": "https://www.ps.be/programme-2024",
+      "date": "2024-06-09"
+    }
+  ]
 }

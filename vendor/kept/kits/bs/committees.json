@@ -1,7 +1,19 @@
 {
   "iso2": "bs",
-  "source_url": "https://www.wikidata.org/wiki/Q1572486",
-  "retrieved": "2026-09-06",
+  "source_url": "https://www.bahamas.gov.bs/about-the-parliament",
+  "retrieved": "2026-09-07",
   "incomplete": true,
-  "items": []
+  "items": [
+    {
+      "id": "bs-committee-membership",
+      "name": "Committee Membership",
+      "chamber": "Parliament",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.bahamas.gov.bs/committee-membership"
+    }
+  ],
+  "note": "Capped sample from official source."
 }

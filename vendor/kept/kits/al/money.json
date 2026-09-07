@@ -1,7 +1,16 @@
 {
   "iso2": "al",
-  "items": [],
+  "named_donors": false,
+  "unit": "ALL",
+  "sitting_total_reconstructed": 345600000,
+  "buckets": [
+    {
+      "label": "annual public financial assistance 2026 (all parties combined)",
+      "amount": 345600000
+    }
+  ],
   "incomplete": true,
+  "source_url": "https://kqz.gov.al/lajme/kshz-shperndan-fondet-vjetore-financiare-per-partite-politike",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "KQZ (Central Election Commission) official news HTTP 200 (probed 2026-09-06). State Election Commissioner distributed 2026 annual public financial assistance. Printed combined fund from Law 87/2025 state budget: 345 600 000 lekë. Per-party rows on the same page not stored. Named private donors not collected. Vendim KSHZ 7/2026 is the allocating decision."
 }

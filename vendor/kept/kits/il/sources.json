@@ -28,6 +28,27 @@
       "url": "https://www.wikidata.org/wiki/Q133396",
       "kind": "index",
       "basis": "Evidence"
+    },
+    {
+      "id": "official-orgs",
+      "label": "Official orgs",
+      "url": "https://knesset.gov.il/Odata/ParliamentInfo.svc/KNS_Faction?$filter=KnessetNum%20eq%2025&$top=40",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-lobby",
+      "label": "Official lobby",
+      "url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-filers",
+      "label": "Official filers",
+      "url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_LobbyistsClients",
+      "kind": "primary",
+      "basis": "Evidence"
     }
   ],
   "incomplete": false

@@ -28,6 +28,41 @@
       "url": "https://www.wikidata.org/wiki/Q21100241",
       "kind": "index",
       "basis": "Evidence"
+    },
+    {
+      "id": "official-votes",
+      "label": "Official roll-call / division source",
+      "url": "https://api.riigikogu.ee/api/votings?startDate=2026-01-01&endDate=2026-09-06&lang=en",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://www.riigikogu.ee/en/parliament-of-estonia/committees/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-orgs",
+      "label": "Official orgs",
+      "url": "https://www.erjk.ee/et/aruanded/erakondade-kulud",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-money",
+      "label": "Official money",
+      "url": "https://www.erjk.ee/et/aruanded/erakondade-kulud",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-ethics",
+      "label": "Official MP financial-interest / disclosure / standards register",
+      "url": "https://www.riigikogu.ee/tutvustus-ja-ajalugu/riigikogu-uues-kuues/riigikogu-liikme-hea-tava/",
+      "kind": "primary",
+      "basis": "Evidence"
     }
   ],
   "incomplete": false

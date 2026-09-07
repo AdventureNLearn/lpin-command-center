@@ -1,7 +1,17 @@
 {
   "iso2": "md",
-  "items": [],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced ethics for this ISO. Not invented."
+  "note": "Public ANI declaration types named on the official portal search form. No amounts. No PII. Unique classes restored after null-member_id collapse. Deduped 2 duplicate ethics rows 2026-09-07.",
+  "source_url": "https://portal-declaratii.ani.md",
+  "items": [
+    {
+      "member_id": null,
+      "category": "declarație de avere și interese personale",
+      "public": true,
+      "amount_band": null,
+      "origin": "clerk",
+      "source_url": "https://portal-declaratii.ani.md"
+    }
+  ]
 }

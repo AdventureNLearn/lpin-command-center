@@ -20,13 +20,24 @@
       "label": "National People's Assembly",
       "url": "https://www.parlamento.gw/",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 200,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-05",
+      "note": "Official HTTP 200 (polish-iso-05)."
     },
     {
       "id": "wd-q740533",
       "label": "National People's Assembly (Wikidata)",
       "url": "https://www.wikidata.org/wiki/Q740533",
       "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://www.parlamento.gw/noticias/comissoes",
+      "kind": "primary",
       "basis": "Evidence"
     }
   ],

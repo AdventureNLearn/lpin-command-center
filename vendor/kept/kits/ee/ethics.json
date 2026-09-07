@@ -1,7 +1,17 @@
 {
   "iso2": "ee",
-  "items": [],
   "incomplete": true,
-  "retrieved": "2026-09-06",
-  "note": "No sourced ethics for this ISO. Not invented."
+  "retrieved": "2026-09-07",
+  "note": "Public Riigikogu liikme hea tava classes named on the official page (HTTP 200). No amounts. No annex. No PII. Deduped 3 duplicate ethics rows 2026-09-07.",
+  "source_url": "https://www.riigikogu.ee/tutvustus-ja-ajalugu/riigikogu-uues-kuues/riigikogu-liikme-hea-tava/",
+  "items": [
+    {
+      "member_id": null,
+      "category": "Riigikogu liikme hea tava",
+      "public": true,
+      "amount_band": null,
+      "origin": "clerk",
+      "source_url": "https://www.riigikogu.ee/tutvustus-ja-ajalugu/riigikogu-uues-kuues/riigikogu-liikme-hea-tava/"
+    }
+  ]
 }

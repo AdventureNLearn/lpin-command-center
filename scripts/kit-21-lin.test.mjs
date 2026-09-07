@@ -22,6 +22,7 @@ test("KIT-21 LIN: eight SME desks, labeled, 0 pins, no iframe hosts", () => {
   }
   assert.match(net, /id: "fifty"/);
   assert.match(net, /id: "opencells"/);
+  assert.match(net, /id: "workbook"/);
   assert.match(net, /role: "reference"/);
   assert.doesNotMatch(net, /iframe/i);
   assert.match(net, /Human final call/);

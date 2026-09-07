@@ -4,6 +4,7 @@ import { matchKeptDesk } from "@/lib/kept/desks";
 import { PROJECT_KINDS } from "@/lib/permit/playbooks";
 import { matchLinCommand } from "@/lib/lin/network";
 import { parseResearchCommand } from "@/lib/lin/session";
+import { parseWorkbookCommand } from "@/lib/lin/workbook";
 
 const LAYERS: { re: RegExp; id: LayerId }[] = [
   { re: /military|mil(?:itary)? (?:ads-?b|flights?|traffic)/i, id: "military" },
@@ -91,6 +92,9 @@ export function parseCommand(raw: string): CommandAction {
   if (/\b(close desk|hide desk|desk off|close drawers?)\b/i.test(text)) {
     return { type: "desk", on: false };
   }
+  const wb = parseWorkbookCommand(text);
+  if (wb === "open") return { type: "workbook" };
+  if (wb && typeof wb === "object") return { type: "workbook", country: wb.country, industry: wb.industry };
   const research = parseResearchCommand(text);
   if (research) return { type: "research", topic: research };
   if (/^(run lanes|show lanes|open lanes|arm lanes|lanes)$/i.test(text)) return { type: "lanes" };
@@ -129,6 +133,13 @@ export function parseCommand(raw: string): CommandAction {
   if (ahjIn?.[1]) return { type: "permitSearch", q: ahjIn[1].trim() };
   const bldg = text.match(/^building desk\s+(.+)$/i);
   if (bldg?.[1]) return { type: "permitSearch", q: bldg[1].trim() };
+  const sits = text.match(
+    /^(?:who sits(?: in)?|who's in|who is in|tell me about|look up)\s+(.+)$/i,
+  );
+  if (sits?.[1]) {
+    const desk = matchKeptDesk(sits[1]);
+    if (desk) return { type: "keptOpen", iso2: desk.iso2 };
+  }
   const score = text.match(/^score the sitting in\s+(.+)$/i);
   if (score?.[1]) {
     const desk = matchKeptDesk(score[1]);

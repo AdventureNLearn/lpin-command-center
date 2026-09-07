@@ -1,7 +1,16 @@
 {
   "iso2": "ci",
-  "source_url": "https://www.wikidata.org/wiki/Q27881072",
+  "source_url": "https://senat.ci/",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "items": [
+    {
+      "id": "les-commissions-permanentes",
+      "name": "Les Commissions Permanentes",
+      "source_url": "https://senat.ci/les-senateurs-commission",
+      "chamber": "Senate",
+      "origin": "clerk"
+    }
+  ],
+  "note": "Capped sample from official source."
 }

@@ -22,12 +22,27 @@
       "basis": "Evidence"
     },
     {
-      "id": "committees",
-      "hole": "No sourced committee list.",
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "orgs",
+      "hole": "No sourced org list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members-count",
+      "hole": "Wikidata sitting file 7 names vs statutory 176 (Shura 90 + State Council 86). Official homepages HTTP 200 but not a current member list. Not invented a fill.",
       "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: state council of Oman · Council of Oman · Consultative Assembly of Oman. Sitting 7. Empty objects not invented."
+  "note": "Category coverage 2026-09-06. Empty categories are holes, not zeros invented. polish-iso-10 2026-09-06. Empty categories remain holes, not zeros invented."
 }

@@ -1,7 +1,25 @@
 {
   "iso2": "ch",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://www.svp.ch/positionen/",
   "retrieved": "2026-09-06",
-  "note": "No sourced pledges for this ISO. Not invented."
+  "incomplete": true,
+  "note": "Quote+URL from official party manifesto / programme HTML. Not invented. Cap 40.",
+  "items": [
+    {
+      "id": "ch-p-swiss-people-s-party-spending-6e8f43",
+      "party_id": "swiss-people-s-party",
+      "quote": "Wir wollen die kriminellen Ausländer ausschaffen.",
+      "issue_id": "spending",
+      "source_url": "https://www.svp.ch/positionen/",
+      "date": "2023-10-01"
+    },
+    {
+      "id": "ch-p-swiss-people-s-party-taxes-26d86f",
+      "party_id": "swiss-people-s-party",
+      "quote": "Wir wollen tiefe Steuern für alle und weniger staatliche Regulierungen.",
+      "issue_id": "taxes",
+      "source_url": "https://www.svp.ch/positionen/",
+      "date": "2023-10-01"
+    }
+  ]
 }

@@ -2,6 +2,11 @@
   "iso2": "mv",
   "items": [
     {
+      "id": "members",
+      "hole": "items 10 claimed_seats 85 (underfill). Wikidata P39 without end-date filter. Current sitting not invented.",
+      "basis": "Evidence"
+    },
+    {
       "id": "votes",
       "hole": "No sourced roll-call file.",
       "basis": "Evidence"
@@ -9,11 +14,6 @@
     {
       "id": "pledges",
       "hole": "No sourced quote+URL pledges.",
-      "basis": "Evidence"
-    },
-    {
-      "id": "ethics",
-      "hole": "No sourced ethics filings.",
       "basis": "Evidence"
     },
     {
@@ -25,9 +25,19 @@
       "id": "committees",
       "hole": "No sourced committee list.",
       "basis": "Evidence"
+    },
+    {
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
+      "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: Member of the People's Majlis · Speaker of the People's Majlis · People's Majlis. Sitting 10. Empty objects not invented."
+  "note": "polish-iso-09. Sitting 10. Empty categories are holes, not zeros invented."
 }

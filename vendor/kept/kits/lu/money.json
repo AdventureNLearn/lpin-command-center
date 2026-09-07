@@ -1,7 +1,37 @@
 {
   "iso2": "lu",
-  "items": [],
+  "named_donors": false,
+  "unit": "EUR",
+  "sitting_total_reconstructed": null,
+  "buckets": [
+    {
+      "label": "dotation publique (state public funding)",
+      "source_url": "https://www.chd.lu/sites/default/files/2026-01/cc-rapport-exercice-comptable-2024.pdf"
+    },
+    {
+      "label": "cotisations des membres",
+      "source_url": "https://www.chd.lu/sites/default/files/2026-01/cc-rapport-exercice-comptable-2024.pdf"
+    },
+    {
+      "label": "contributions des mandataires",
+      "source_url": "https://www.chd.lu/sites/default/files/2026-01/cc-rapport-exercice-comptable-2024.pdf"
+    },
+    {
+      "label": "dons, donations ou legs (aggregate)",
+      "source_url": "https://www.chd.lu/sites/default/files/2026-01/cc-rapport-exercice-comptable-2024.pdf"
+    },
+    {
+      "label": "recettes provenant du patrimoine mobilier ou immobilier",
+      "source_url": "https://www.chd.lu/sites/default/files/2026-01/cc-rapport-exercice-comptable-2024.pdf"
+    },
+    {
+      "label": "recettes provenant de manifestations et de publications",
+      "source_url": "https://www.chd.lu/sites/default/files/2026-01/cc-rapport-exercice-comptable-2024.pdf"
+    }
+  ],
   "incomplete": true,
+  "source_url": "https://www.chd.lu/fr/financement-des-partis-politiques",
+  "extra_source_url": "https://www.chd.lu/sites/default/files/2026-01/cc-rapport-exercice-comptable-2024.pdf",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "Chamber financing-of-parties page HTTP 200. Cour des comptes 2024 observation report HTTP 200. Source-type receipt buckets from official Article 13 schema quoted in the report (cotisations; contributions des mandataires; dons/donations/legs; patrimoine; manifestations/publications) plus public dotation (Tableau 1). Per-party EUR rows in Tableau 1 not stored and not summed. Combined all-party total not printed. Named private donors not collected. Amounts not invented."
 }

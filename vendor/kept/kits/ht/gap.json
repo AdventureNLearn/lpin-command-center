@@ -17,17 +17,38 @@
       "basis": "Evidence"
     },
     {
+      "id": "committees",
+      "hole": "Official chamber HTML HTTP 200; sitting committee roster not isolated. Not invented.",
+      "basis": "Evidence"
+    },
+    {
       "id": "money",
       "hole": "No sourced money file.",
       "basis": "Evidence"
     },
+
     {
-      "id": "committees",
-      "hole": "No sourced committee list.",
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "orgs",
+      "hole": "No sourced org list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members-incomplete",
+      "hole": "Wikidata sitting file 141 vs claimed 149 (Chamber of Deputies 102, Senate 39). Same person in two chambers kept (name+chamber unique). leparlementhaitien.info HTTP 200 HTML; missing seats not invented.",
       "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: Chamber of Deputies · Senate of Haiti · Parliament of Haiti. Sitting 141. Empty objects not invented."
+  "note": "Category coverage 2026-09-06. Empty categories are holes, not zeros invented."
 }

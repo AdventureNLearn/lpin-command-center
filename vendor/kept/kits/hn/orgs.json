@@ -1,7 +1,8 @@
 {
   "iso2": "hn",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://cne.hn/",
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "incomplete": true,
+  "items": [],
+  "note": "CNE host HTTP 403 after one browser-UA retry (hunt-stop). Congreso nacional homepage HTTP 200 Next.js shell; party names not in GET. Not invented."
 }

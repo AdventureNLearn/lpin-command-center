@@ -1,4 +1,410 @@
 {
   "iso2": "dk",
-  "items": []
+  "chamber": "Folketing",
+  "session": "",
+  "source_url": "https://oda.ft.dk/api/Afstemning?$top=50&$orderby=id%20desc",
+  "retrieved": "2026-09-06",
+  "incomplete": true,
+  "items": [
+    {
+      "id": "dk-afst-10604",
+      "date": "2026-09-03",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10604)"
+    },
+    {
+      "id": "dk-afst-10603",
+      "date": "2026-09-03",
+      "title": "Forslaget er forkastet.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10603)"
+    },
+    {
+      "id": "dk-afst-10602",
+      "date": "2026-09-03",
+      "title": "Forslaget er forkastet.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10602)"
+    },
+    {
+      "id": "dk-afst-10601",
+      "date": "2026-09-03",
+      "title": "Forslaget er forkastet.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10601)"
+    },
+    {
+      "id": "dk-afst-10600",
+      "date": "2026-09-03",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10600)"
+    },
+    {
+      "id": "dk-afst-10599",
+      "date": "2026-09-03",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10599)"
+    },
+    {
+      "id": "dk-afst-10598",
+      "date": "2026-09-03",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10598)"
+    },
+    {
+      "id": "dk-afst-10597",
+      "date": "2026-09-03",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10597)"
+    },
+    {
+      "id": "dk-afst-10596",
+      "date": "2026-09-03",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10596)"
+    },
+    {
+      "id": "dk-afst-10595",
+      "date": "2026-09-03",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10595)"
+    },
+    {
+      "id": "dk-afst-10594",
+      "date": "2026-09-03",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10594)"
+    },
+    {
+      "id": "dk-afst-10593",
+      "date": "2026-09-03",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10593)"
+    },
+    {
+      "id": "dk-afst-10592",
+      "date": "2026-09-03",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10592)"
+    },
+    {
+      "id": "dk-afst-10591",
+      "date": "2026-09-03",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10591)"
+    },
+    {
+      "id": "dk-afst-10590",
+      "date": "2026-08-27",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10590)"
+    },
+    {
+      "id": "dk-afst-10589",
+      "date": "2026-08-27",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10589)"
+    },
+    {
+      "id": "dk-afst-10588",
+      "date": "2026-08-27",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10588)"
+    },
+    {
+      "id": "dk-afst-10587",
+      "date": "2026-08-27",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10587)"
+    },
+    {
+      "id": "dk-afst-10586",
+      "date": "2026-08-27",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10586)"
+    },
+    {
+      "id": "dk-afst-10585",
+      "date": "2026-08-31",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10585)"
+    },
+    {
+      "id": "dk-afst-10584",
+      "date": "2026-08-27",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10584)"
+    },
+    {
+      "id": "dk-afst-10583",
+      "date": "2026-08-31",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10583)"
+    },
+    {
+      "id": "dk-afst-10582",
+      "date": "2026-08-31",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10582)"
+    },
+    {
+      "id": "dk-afst-10581",
+      "date": "2026-08-27",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10581)"
+    },
+    {
+      "id": "dk-afst-10580",
+      "date": "2026-08-14",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10580)"
+    },
+    {
+      "id": "dk-afst-10579",
+      "date": "2026-06-25",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10579)"
+    },
+    {
+      "id": "dk-afst-10578",
+      "date": "2026-07-02",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10578)"
+    },
+    {
+      "id": "dk-afst-10577",
+      "date": "2026-07-02",
+      "title": "Forslaget er forkastet.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10577)"
+    },
+    {
+      "id": "dk-afst-10576",
+      "date": "2026-07-03",
+      "title": "Forslaget er forkastet.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10576)"
+    },
+    {
+      "id": "dk-afst-10575",
+      "date": "2026-07-02",
+      "title": "Forslaget er forkastet.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10575)"
+    },
+    {
+      "id": "dk-afst-10574",
+      "date": "2026-07-02",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10574)"
+    },
+    {
+      "id": "dk-afst-10573",
+      "date": "2026-07-02",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10573)"
+    },
+    {
+      "id": "dk-afst-10572",
+      "date": "2026-07-03",
+      "title": "Forslaget er forkastet.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10572)"
+    },
+    {
+      "id": "dk-afst-10571",
+      "date": "2026-06-25",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10571)"
+    },
+    {
+      "id": "dk-afst-10570",
+      "date": "2026-02-26",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10570)"
+    },
+    {
+      "id": "dk-afst-10569",
+      "date": "2026-02-26",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10569)"
+    },
+    {
+      "id": "dk-afst-10568",
+      "date": "2026-02-26",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10568)"
+    },
+    {
+      "id": "dk-afst-10567",
+      "date": "2026-04-07",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10567)"
+    },
+    {
+      "id": "dk-afst-10566",
+      "date": "2026-04-07",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10566)"
+    },
+    {
+      "id": "dk-afst-10565",
+      "date": "2026-04-07",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10565)"
+    },
+    {
+      "id": "dk-afst-10564",
+      "date": "2026-04-07",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10564)"
+    },
+    {
+      "id": "dk-afst-10563",
+      "date": "2026-04-07",
+      "title": "Forslaget er forkastet.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10563)"
+    },
+    {
+      "id": "dk-afst-10562",
+      "date": "2026-04-07",
+      "title": "Afstemning 190",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10562)"
+    },
+    {
+      "id": "dk-afst-10561",
+      "date": "2026-04-07",
+      "title": "Forslaget er forkastet.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10561)"
+    },
+    {
+      "id": "dk-afst-10560",
+      "date": "2026-04-07",
+      "title": "Forslaget er forkastet.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10560)"
+    },
+    {
+      "id": "dk-afst-10559",
+      "date": "2026-04-07",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10559)"
+    },
+    {
+      "id": "dk-afst-10558",
+      "date": "2026-04-07",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10558)"
+    },
+    {
+      "id": "dk-afst-10557",
+      "date": "2026-04-07",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10557)"
+    },
+    {
+      "id": "dk-afst-10556",
+      "date": "2026-04-07",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10556)"
+    },
+    {
+      "id": "dk-afst-10555",
+      "date": "2026-04-07",
+      "title": "Forslaget er vedtaget.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://oda.ft.dk/api/Afstemning(10555)"
+    }
+  ]
 }

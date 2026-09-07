@@ -13,7 +13,11 @@
       "label": "Parliament of Namibia",
       "url": "https://www.parliament.na/",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 200,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-09",
+      "note": "Official parliament HTTP 200 (polish-iso-09)."
     },
     {
       "id": "wd-q4167580",
@@ -27,7 +31,11 @@
       "label": "National Council of Namibia",
       "url": "https://www.parliament.na/",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 200,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-09",
+      "note": "Official parliament HTTP 200 (polish-iso-09)."
     },
     {
       "id": "wd-q1969272",
@@ -41,13 +49,31 @@
       "label": "National Assembly",
       "url": "https://www.parliament.na/",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 200,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-09",
+      "note": "Official parliament HTTP 200 (polish-iso-09)."
     },
     {
       "id": "wd-q1769673",
       "label": "National Assembly (Wikidata)",
       "url": "https://www.wikidata.org/wiki/Q1769673",
       "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://www.parliament.na/committees/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-orgs",
+      "label": "Official orgs",
+      "url": "https://www.parliament.na/political-parties/",
+      "kind": "primary",
       "basis": "Evidence"
     }
   ],

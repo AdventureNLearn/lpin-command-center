@@ -1,7 +1,34 @@
 {
   "iso2": "lu",
-  "items": [],
+  "source_url": "https://www.chd.lu/en/political-groups",
+  "items": [
+    {
+      "id": "groupe-politique-socialiste",
+      "name": "Groupe politique socialiste",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.chd.lu/en/political-groups"
+    },
+    {
+      "id": "dei-greng",
+      "name": "déi gréng",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.chd.lu/en/political-groups"
+    },
+    {
+      "id": "piraten",
+      "name": "Piraten",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.chd.lu/en/political-groups"
+    },
+    {
+      "id": "dei-lenk",
+      "name": "déi Lénk",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.chd.lu/en/political-groups"
+    }
+  ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "origin": "electoral-register",
+  "note": "Chamber of Deputies political groups. Cap 40. Incomplete."
 }

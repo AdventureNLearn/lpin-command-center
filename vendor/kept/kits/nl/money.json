@@ -1,7 +1,24 @@
 {
   "iso2": "nl",
-  "items": [],
+  "named_donors": false,
+  "unit": "EUR",
+  "sitting_total_reconstructed": 29131718,
+  "buckets": [
+    {
+      "label": "state subsidy paid 2024 (all parties combined)",
+      "amount": 29131718
+    },
+    {
+      "label": "state subsidy paid 2023 (all parties combined)",
+      "amount": 31477637
+    },
+    {
+      "label": "state subsidy paid 2022 (all parties combined)",
+      "amount": 28873282
+    }
+  ],
   "incomplete": true,
+  "source_url": "https://partijfinanciering.nl/dashboard/subsidies",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "BZK Dashboard partijfinanciering Uitgekeerde subsidies - totaal HTTP 200 (probed 2026-09-06). Official combined Wfpp state-subsidy totals printed: 2022 € 28.873.282; 2023 € 31.477.637; 2024 € 29.131.718. Source-type public-funding buckets only. Per-party subsidy rows not stored. Substantial-gift and annual-donation pages name private donors and were not collected. sitting_total_reconstructed is the 2024 printed combined total, not a sum of all year buckets."
 }

@@ -5,9 +5,29 @@
       "id": "money",
       "hole": "No sourced money file.",
       "basis": "Evidence"
+    },
+    {
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "orgs",
+      "hole": "No sourced org list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members-count",
+      "hole": "Harvest House roster 317 vs claimed_seats 316. Official congress.gov.ph 403 (miss). Harvest protected — not clobbered. One extra not cut.",
+      "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: Congress of the Philippines · House of Representatives of the Philippines · Senate of the Philippines. Sitting 317. Empty objects not invented."
+  "note": "Category coverage 2026-09-06. Empty categories are holes, not zeros invented. polish-iso-10 2026-09-06. Empty categories remain holes, not zeros invented."
 }

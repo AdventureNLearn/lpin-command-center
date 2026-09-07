@@ -1,7 +1,17 @@
 {
   "iso2": "am",
-  "items": [],
   "incomplete": true,
-  "retrieved": "2026-09-06",
-  "note": "No sourced ethics for this ISO. Not invented."
+  "retrieved": "2026-09-07",
+  "note": "Public CPC electronic-platform classes named on the official homepage (HTTP 200): declarations, gifts, integrity questionnaire. No amounts. No PII. Per-person filings not transcribed. Deduped 2 duplicate ethics rows 2026-09-07.",
+  "source_url": "https://cpcarmenia.am",
+  "items": [
+    {
+      "member_id": null,
+      "category": "հայտարարագրեր",
+      "public": true,
+      "amount_band": null,
+      "origin": "clerk",
+      "source_url": "https://cpcarmenia.am"
+    }
+  ]
 }

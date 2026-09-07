@@ -27,13 +27,38 @@
       "label": "Parliament of Malta",
       "url": "https://www.parlament.mt/",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 403,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-09",
+      "note": "403 is a miss. Not treated as live official this seat."
     },
     {
       "id": "wd-q1817866",
       "label": "Parliament of Malta (Wikidata)",
       "url": "https://www.wikidata.org/wiki/Q1817866",
       "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-ethics",
+      "label": "Official ethics",
+      "url": "https://standardscommissioner.com/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-money",
+      "label": "Official money",
+      "url": "https://electoral.gov.mt/finance2026-en",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-orgs",
+      "label": "Official orgs",
+      "url": "https://electoral.gov.mt/finance-en",
+      "kind": "primary",
       "basis": "Evidence"
     }
   ],

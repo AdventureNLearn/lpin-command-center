@@ -1,7 +1,34 @@
 {
   "iso2": "lu",
-  "items": [],
+  "named_public_filers": true,
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced filers for this ISO. Not invented."
+  "source_url": "https://www.chd.lu/en/transparency-register",
+  "items": [
+    {
+      "id": "lu-lobby-1",
+      "name": "A.N.I.L. Association",
+      "kind": "lobby-registrant",
+      "source_url": "https://www.chd.lu/en/transparency-register"
+    },
+    {
+      "id": "lu-lobby-2",
+      "name": "SYPROLUX - Syndicat",
+      "kind": "lobby-registrant",
+      "source_url": "https://www.chd.lu/en/transparency-register"
+    },
+    {
+      "id": "lu-lobby-3",
+      "name": "Artisans ASBL",
+      "kind": "lobby-registrant",
+      "source_url": "https://www.chd.lu/en/transparency-register"
+    },
+    {
+      "id": "lu-lobby-5",
+      "name": "Transgender Luxembourg a.s.b.l.",
+      "kind": "lobby-registrant",
+      "source_url": "https://www.chd.lu/en/transparency-register"
+    }
+  ],
+  "note": "Capped sample of organisation names from official register/API. Cap 40. Natural-person names omitted."
 }

@@ -49,6 +49,41 @@
       "url": "https://www.wikidata.org/wiki/Q1968468",
       "kind": "index",
       "basis": "Evidence"
+    },
+    {
+      "id": "official-votes",
+      "label": "Official roll-call / division source",
+      "url": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionesXAnno?prmAnno=2026",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://opendata.camara.cl/camaradiputados/WServices/WSComision.asmx/retornarComisionesVigentes",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-ethics",
+      "label": "Official MP financial-interest / disclosure register",
+      "url": "https://www.infoprobidad.cl",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-lobby",
+      "label": "Official lobby",
+      "url": "https://www.leylobby.gob.cl/lobistas",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-orgs",
+      "label": "Official orgs",
+      "url": "https://www.servel.cl/partidos-politicos/partidos-constituidos/",
+      "kind": "primary",
+      "basis": "Evidence"
     }
   ],
   "incomplete": false

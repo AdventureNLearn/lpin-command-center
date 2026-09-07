@@ -1,7 +1,231 @@
 {
   "iso2": "il",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists",
   "retrieved": "2026-09-06",
-  "note": "No sourced lobby for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "il-corp-512065194",
+      "name": "שדלן עצמאי",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    },
+    {
+      "id": "il-corp-512332321",
+      "name": "משרד עו\"ד תדמור ושות' פרופ' יובל לוי ושות'",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    },
+    {
+      "id": "il-corp-512562059",
+      "name": "גלעד יחסי ממשל ולובינג",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    },
+    {
+      "id": "il-corp-540214996",
+      "name": "משרד עו\"ד-מיתר,ליקוורניק,גבע,לשם,טל",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    },
+    {
+      "id": "il-corp-515590370",
+      "name": "ריפבליק יועצים בע\"מ",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    },
+    {
+      "id": "il-corp-514920925",
+      "name": "ח.ב הקבינט ישראל בע\"מ",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    },
+    {
+      "id": "il-corp-540293941",
+      "name": "משרד עו\"ד ריינגולד בסט",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    },
+    {
+      "id": "il-corp-540272531",
+      "name": "קריספין רובנשטיין בלכר ושות' -עורכי דין",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    },
+    {
+      "id": "il-corp-56718612",
+      "name": "אקטיב-אסטרטגיה וקשרי ממשל",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    },
+    {
+      "id": "il-corp-33993627",
+      "name": "במבי צורי ייעוץ אסטרטגי וניהול פרויקטים",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    },
+    {
+      "id": "il-corp-513280024",
+      "name": "ברדוגו יועצים",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    },
+    {
+      "id": "il-corp-558228375",
+      "name": "משרד עורכי דין זינגר דנה ושות'",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    },
+    {
+      "id": "il-corp-540113743",
+      "name": "משרד עו\"ד גולדפרב זליגמן ושות'",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    },
+    {
+      "id": "il-corp-513596445",
+      "name": "תאסק יעוץ אסטרטגי",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    },
+    {
+      "id": "il-corp-567410021",
+      "name": "משרד עו\"ד ש. הורוביץ ושות'",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    },
+    {
+      "id": "il-corp-558561221",
+      "name": "קבוצת ש.מ.ל.ת",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    },
+    {
+      "id": "il-corp-540107158",
+      "name": "משרד עורכי דין הרצוג פוקס נאמן",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    },
+    {
+      "id": "il-corp-557534468",
+      "name": "משרד עורכי דין -פישר בכר חן וול אוריון ושות'",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    },
+    {
+      "id": "il-corp-540248360",
+      "name": "מיתר משרד עו\"ד",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    },
+    {
+      "id": "il-corp-516497450",
+      "name": "נהלה ייעוץ ואסטרטגיה בע\"מ",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    },
+    {
+      "id": "il-corp-55753468",
+      "name": "פישר ושות'",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    },
+    {
+      "id": "il-corp-515586774",
+      "name": "י.כ שרותי לובינג ויחסי ציבור",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    },
+    {
+      "id": "il-corp-540245503",
+      "name": "אגמון ושות' רוזנברג הכהן ושות'",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    },
+    {
+      "id": "il-corp-28736189",
+      "name": "בועז ליברמן תקשורת ויחסי ציבור",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    },
+    {
+      "id": "il-corp-28777332",
+      "name": "גידי זאגא",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    },
+    {
+      "id": "il-corp-540090990",
+      "name": "א.ש. שמרון י.מלכו,פרסקו ושות'",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    },
+    {
+      "id": "il-corp-35997204",
+      "name": "לירן בן הרוש אסטרטגיה לובינג קשרי ממשל",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    },
+    {
+      "id": "il-corp-513256800",
+      "name": "זאב וייס משרד עורכי דין",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    },
+    {
+      "id": "il-corp-513913798",
+      "name": "כהן - רימון - כהן",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    },
+    {
+      "id": "il-corp-39896071",
+      "name": "רוז אסטרטגיה וייעוץ",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    },
+    {
+      "id": "il-corp-513152520",
+      "name": "גורן עמיר יועצים בע\"מ",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    },
+    {
+      "id": "jlm-public-policy-ltd",
+      "name": "JLM PUBLIC POLICY LTD",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    },
+    {
+      "id": "il-corp-925395162",
+      "name": "עו\"ד גויסקי-קשרי ממשל, ייעוץ ושירותי חקיקה",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    },
+    {
+      "id": "il-corp-57212615",
+      "name": "תקשורות יעל שביט",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    },
+    {
+      "id": "il-corp-514730878",
+      "name": "צחי סמייה-אסטרטגיה קשרי ממשל ולובינג בע\"מ",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    },
+    {
+      "id": "il-corp-203829676",
+      "name": "חרלפ ייעוץ אסטרטגי",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    },
+    {
+      "id": "il-corp-540038122",
+      "name": "משרד עו\"ד מ. פירון ושות'",
+      "origin": "register",
+      "source_url": "https://knesset.gov.il/Odata/Lobbyists.svc/V_Lobbyists"
+    }
+  ],
+  "note": "Lobby firms (CorporationName) from official OData. Person names and identity numbers omitted. Harvest kit not clobbered. Cap 40."
 }

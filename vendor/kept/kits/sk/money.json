@@ -1,7 +1,19 @@
 {
   "iso2": "sk",
-  "items": [],
+  "named_donors": false,
+  "unit": "",
+  "buckets": [
+    {
+      "label": "výročné správy politických strán a politických hnutí",
+      "source_url": "https://www.minv.sk/?vyrocne-spravy-politickych-stran-a-politickych-hnuti-za-rok-2025"
+    },
+    {
+      "label": "príspevky zo štátneho rozpočtu",
+      "source_url": "https://www.minv.sk/?psph-informacie"
+    }
+  ],
   "incomplete": true,
+  "source_url": "https://www.minv.sk/?vyrocne-spravy-politickych-stran-a-politickych-hnuti-za-rok-2025",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "Interior Ministry official political-party annual-report register HTTP 200 this pass (výročné správy 2025; ?psph-informacie). Source-type register buckets only from the published report index and statutory income schema (príspevky zo štátneho rozpočtu). Combined EUR totals not extracted from per-party PDFs this pass (not summed, not invented). Named private donors not collected."
 }

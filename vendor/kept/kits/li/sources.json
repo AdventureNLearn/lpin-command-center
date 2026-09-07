@@ -13,7 +13,11 @@
       "label": "Landtag of Liechtenstein",
       "url": "https://www.landtag.li/",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 200,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-08",
+      "note": "Official parliament HTTP 200 (polish-iso-08)."
     },
     {
       "id": "wd-q1149644",
@@ -27,6 +31,20 @@
       "label": "member of the Landtag of Liechtenstein (Wikidata)",
       "url": "https://www.wikidata.org/wiki/Q21328607",
       "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://www.landtag.li/kommissionen",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-votes",
+      "label": "Official votes",
+      "url": "https://www.landtag.li/beschluesse",
+      "kind": "primary",
       "basis": "Evidence"
     }
   ],

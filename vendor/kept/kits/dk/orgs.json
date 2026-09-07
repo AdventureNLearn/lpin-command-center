@@ -1,6 +1,34 @@
 {
   "iso2": "dk",
+  "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?%24filter=typeid%20eq%204&%24top=40&%24format=json",
+  "items": [
+    {
+      "id": "269",
+      "name": "Radikale Venstre",
+      "kind": "parliamentary-group",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?%24filter=typeid%20eq%204&%24top=40&%24format=json"
+    },
+    {
+      "id": "430",
+      "name": "Dansk Folkeparti",
+      "kind": "parliamentary-group",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?%24filter=typeid%20eq%204&%24top=40&%24format=json"
+    },
+    {
+      "id": "549",
+      "name": "Venstre, Danmarks Liberale Parti",
+      "kind": "parliamentary-group",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?%24filter=typeid%20eq%204&%24top=40&%24format=json"
+    },
+    {
+      "id": "571",
+      "name": "Socialdemokratiet",
+      "kind": "parliamentary-group",
+      "source_url": "https://oda.ft.dk/api/Akt%C3%B8r?%24filter=typeid%20eq%204&%24top=40&%24format=json"
+    }
+  ],
   "incomplete": true,
-  "items": [],
-  "note": "501/NGO rows need EIN (or national number), legal name as on the 990, subsection, filing year, https to the 990. Churches that do not file stay honest empty."
+  "retrieved": "2026-09-06",
+  "origin": "electoral-register",
+  "note": "Folketing OData Aktør typeid=4 (parliamentary groups). Cap 40."
 }

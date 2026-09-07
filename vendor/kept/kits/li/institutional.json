@@ -30,7 +30,9 @@
       "name": "Landtag of Liechtenstein",
       "kind": "parliament",
       "seats": 25,
-      "url": "https://www.landtag.li/"
+      "url": "https://www.landtag.li/",
+      "http_status": 200,
+      "official_http_200": true
     },
     {
       "id": "Q21328607",
@@ -40,5 +42,5 @@
       "url": "https://www.wikidata.org/wiki/Q21328607"
     }
   ],
-  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score. polish-iso-08: official parliament URLs noted only on HTTP 200; 403 is a miss. polish-iso-08: official parliament URLs noted only on HTTP 200; 403 is a miss."
 }

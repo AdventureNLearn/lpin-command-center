@@ -1,7 +1,411 @@
 {
   "iso2": "sk",
-  "items": [],
-  "incomplete": true,
+  "chamber": "National Council of the Slovak Republic",
+  "session": "9",
+  "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/vyhladavanie_vysledok&ZakZborID=13&CisObdobia=9&CisSchodze=52",
   "retrieved": "2026-09-06",
-  "note": "No sourced votes for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "sk-hl-58228",
+      "date": "2026-06-18",
+      "title": "Hlasovanie o programe 60. schôdze NR SR.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=58228"
+    },
+    {
+      "id": "sk-hl-58229",
+      "date": "2026-06-18",
+      "title": "Hlasovanie o procedurálnom návrhu predsedu NR SR R. Rašiho.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=58229"
+    },
+    {
+      "id": "sk-hl-58230",
+      "date": "2026-06-18",
+      "title": "Hlasovanie o procedurálnom návrhu posl. Richtera.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=58230"
+    },
+    {
+      "id": "sk-hl-58231",
+      "date": "2026-06-18",
+      "title": "Hlasovanie o procedurálnom návrhu posl. Marcinková",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=58231"
+    },
+    {
+      "id": "sk-hl-58232",
+      "date": "2026-06-18",
+      "title": "Žiadosť vlády Slovenskej republiky o vyslovenie dôvery vláde Slovenskej republiky (tlač 1418). Hlasovanie o vyslovení dôvery vláde.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=58232"
+    },
+    {
+      "id": "sk-hl-57962",
+      "date": "2026-05-26",
+      "title": "Hlasovanie o návrhu na doplnenie programu - posl. Remišová.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57962"
+    },
+    {
+      "id": "sk-hl-57963",
+      "date": "2026-05-26",
+      "title": "Hlasovanie o návrhu na doplnenie programu - posl. Dvořák.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57963"
+    },
+    {
+      "id": "sk-hl-57964",
+      "date": "2026-05-26",
+      "title": "Hlasovanie o návrhu na doplnenie programu - posl. Šimečka.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57964"
+    },
+    {
+      "id": "sk-hl-57965",
+      "date": "2026-05-26",
+      "title": "Hlasovanie o návrhu na doplnenie programu - posl. Hlina.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57965"
+    },
+    {
+      "id": "sk-hl-57966",
+      "date": "2026-05-26",
+      "title": "Hlasovanie o návrhu na doplnenie programu - posl. Ferenčák.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57966"
+    },
+    {
+      "id": "sk-hl-57967",
+      "date": "2026-05-26",
+      "title": "Hlasovanie o návrhu na doplnenie programu - posl. Polák.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57967"
+    },
+    {
+      "id": "sk-hl-57968",
+      "date": "2026-05-26",
+      "title": "Hlasovanie o návrhu na doplnenie programu - posl. Krajčí.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57968"
+    },
+    {
+      "id": "sk-hl-57969",
+      "date": "2026-05-26",
+      "title": "Hlasovanie o návrhu na doplnenie programu - posl. Grendel.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57969"
+    },
+    {
+      "id": "sk-hl-57970",
+      "date": "2026-05-26",
+      "title": "Hlasovanie o 1. návrhu na doplnenie programu - posl. Jakab.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57970"
+    },
+    {
+      "id": "sk-hl-57971",
+      "date": "2026-05-26",
+      "title": "Hlasovanie o 2. návrhu na doplnenie programu - posl. Jakab.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57971"
+    },
+    {
+      "id": "sk-hl-57972",
+      "date": "2026-05-26",
+      "title": "Hlasovanie o návrhu na doplnenie programu - posl. Jurík.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57972"
+    },
+    {
+      "id": "sk-hl-57973",
+      "date": "2026-05-26",
+      "title": "Hlasovanie o 1. návrhu na doplnenie programu - posl. Matovič.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57973"
+    },
+    {
+      "id": "sk-hl-57974",
+      "date": "2026-05-26",
+      "title": "Hlasovanie o 2. návrhu na doplnenie programu - posl. Matovič.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57974"
+    },
+    {
+      "id": "sk-hl-57975",
+      "date": "2026-05-26",
+      "title": "Hlasovanie o 3. návrhu na doplnenie programu - posl. Matovič.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57975"
+    },
+    {
+      "id": "sk-hl-57976",
+      "date": "2026-05-26",
+      "title": "Hlasovanie o 4. návrhu na doplnenie programu - posl. Matovič.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57976"
+    },
+    {
+      "id": "sk-hl-57977",
+      "date": "2026-05-26",
+      "title": "Hlasovanie o návrhu na doplnenie programu - posl. Horecký.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57977"
+    },
+    {
+      "id": "sk-hl-57978",
+      "date": "2026-05-26",
+      "title": "Hlasovanie o návrhu na doplnenie programu - posl. Krátky.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57978"
+    },
+    {
+      "id": "sk-hl-57979",
+      "date": "2026-05-26",
+      "title": "Hlasovanie o návrhu na doplnenie programu - posl. Marcinková.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57979"
+    },
+    {
+      "id": "sk-hl-57980",
+      "date": "2026-05-26",
+      "title": "Hlasovanie o návrhu na doplnenie programu - posl. Šipoš.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57980"
+    },
+    {
+      "id": "sk-hl-57981",
+      "date": "2026-05-26",
+      "title": "Hlasovanie o návrhu na doplnenie programu - posl. Mesterová.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57981"
+    },
+    {
+      "id": "sk-hl-57982",
+      "date": "2026-05-26",
+      "title": "Hlasovanie o návrhu na doplnenie programu - posl. Dostál.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57982"
+    },
+    {
+      "id": "sk-hl-57983",
+      "date": "2026-05-26",
+      "title": "Hlasovanie o návrhu na doplnenie programu - posl. Puškárová.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57983"
+    },
+    {
+      "id": "sk-hl-57984",
+      "date": "2026-05-26",
+      "title": "Hlasovanie o návrhu programu 52. schôdze ako o celku.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57984"
+    },
+    {
+      "id": "sk-hl-57985",
+      "date": "2026-05-28",
+      "title": "Hlasovanie o 1. procedurálnom návrhu predsedu NR SR R. Rašiho.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57985"
+    },
+    {
+      "id": "sk-hl-57986",
+      "date": "2026-05-28",
+      "title": "Hlasovanie o 2. procedurálnom návrhu predsedu NR SR R. Rašiho",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57986"
+    },
+    {
+      "id": "sk-hl-57987",
+      "date": "2026-05-28",
+      "title": "Hlasovanie o 1. procedurálnom návrhu posl. A. Lučanský.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57987"
+    },
+    {
+      "id": "sk-hl-57988",
+      "date": "2026-05-28",
+      "title": "Hlasovanie o 2. procedurálnom návrhu posl. A. Lučanský.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57988"
+    },
+    {
+      "id": "sk-hl-57989",
+      "date": "2026-05-28",
+      "title": "Návrh skupiny poslancov Národnej rady Slovenskej republiky na prijatie Pravidiel hlasovania na schôdzach Národnej rady Slovenskej republiky (tlač 1384) (Zlúčená rozprava o tlačiach 1384, 1385 a 1386). Hlasovanie o návrhu uznesenia.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57989"
+    },
+    {
+      "id": "sk-hl-57990",
+      "date": "2026-05-28",
+      "title": "Návrh skupiny poslancov Národnej rady Slovenskej republiky na prijatie Pravidiel pre podávanie a doručovanie materiálov Národnej rade Slovenskej republiky (tlač 1385). Hlasovanie o návrhu uznesenia.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57990"
+    },
+    {
+      "id": "sk-hl-57991",
+      "date": "2026-05-28",
+      "title": "Návrh skupiny poslancov Národnej rady Slovenskej republiky na prijatie Podrobnejších pravidiel rokovania Národnej rady Slovenskej republiky (tlač 1386). Hlasovanie o pozmeňujúcich a doplňujúcich návrhoch z rozpravy - Z. Mesterová.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57991"
+    },
+    {
+      "id": "sk-hl-57992",
+      "date": "2026-05-28",
+      "title": "Návrh skupiny poslancov Národnej rady Slovenskej republiky na prijatie Podrobnejších pravidiel rokovania Národnej rady Slovenskej republiky (tlač 1386). Hlasovanie o pozmeňujúcich a doplňujúcich návrhoch z rozpravy - O. Dostál.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57992"
+    },
+    {
+      "id": "sk-hl-57993",
+      "date": "2026-05-28",
+      "title": "Návrh skupiny poslancov Národnej rady Slovenskej republiky na prijatie Podrobnejších pravidiel rokovania Národnej rady Slovenskej republiky (tlač 1386) Hlasovanie o návrhu uznesenia.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57993"
+    },
+    {
+      "id": "sk-hl-57994",
+      "date": "2026-05-28",
+      "title": "Návrh na voľbu predsedu skupiny priateľstva v rámci Slovenskej skupiny Medziparlamentnej únie a vymenovanie člena Stálej delegácie Národnej rady Slovenskej republiky (tlač 1387) Hlasovanie o návrhu uznesenia.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57994"
+    },
+    {
+      "id": "sk-hl-57995",
+      "date": "2026-05-28",
+      "title": "Vládny návrh zákona, ktorým sa mení a dopĺňa zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov v znení neskorších predpisov (tlač 1205) - druhé čítanie Hlasovanie o bodoch z informácie výborov - body 1 až 6.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57995"
+    },
+    {
+      "id": "sk-hl-57996",
+      "date": "2026-05-28",
+      "title": "Vládny návrh zákona, ktorým sa mení a dopĺňa zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov v znení neskorších predpisov (tlač 1205) - druhé čítanie Hlasovanie o pristúpení k tretiemu čítaniu ihneď.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57996"
+    },
+    {
+      "id": "sk-hl-57997",
+      "date": "2026-05-28",
+      "title": "Vládny návrh zákona, ktorým sa mení a dopĺňa zákon č. 414/2012 Z. z. o obchodovaní s emisnými kvótami a o zmene a doplnení niektorých zákonov v znení neskorších predpisov (tlač 1205) - tretie čítanie Hlasovanie o návrhu zákona ako o celku.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57997"
+    },
+    {
+      "id": "sk-hl-57998",
+      "date": "2026-05-28",
+      "title": "Návrh poslancov Národnej rady Slovenskej republiky Róberta PUCIHO, Petra KALIVODU a Andrey SZABÓOVEJ na vydanie zákona, ktorým sa mení zákon č. 261/2017 Z. z. o štátnej cene Jozefa Miloslava Hurbana a štátnej cene Alexandra Dubčeka v znení zákona č. 199/2020 Z. z. (tlač 1235) - druhé čítanie Hlasova",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57998"
+    },
+    {
+      "id": "sk-hl-57999",
+      "date": "2026-05-28",
+      "title": "Návrh poslancov Národnej rady Slovenskej republiky Róberta PUCIHO, Petra KALIVODU a Andrey SZABÓOVEJ na vydanie zákona, ktorým sa mení zákon č. 261/2017 Z. z. o štátnej cene Jozefa Miloslava Hurbana a štátnej cene Alexandra Dubčeka v znení zákona č. 199/2020 Z. z. (tlač 1235) - druhé čítanie Hlasova",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=57999"
+    },
+    {
+      "id": "sk-hl-58000",
+      "date": "2026-05-28",
+      "title": "Návrh poslancov Národnej rady Slovenskej republiky Róberta PUCIHO, Petra KALIVODU a Andrey SZABÓOVEJ na vydanie zákona, ktorým sa mení zákon č. 261/2017 Z. z. o štátnej cene Jozefa Miloslava Hurbana a štátnej cene Alexandra Dubčeka v znení zákona č. 199/2020 Z. z. (tlač 1235) - druhé čítanie Hlasova",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=58000"
+    },
+    {
+      "id": "sk-hl-58001",
+      "date": "2026-05-28",
+      "title": "Návrh poslancov Národnej rady Slovenskej republiky Róberta PUCIHO, Petra KALIVODU a Andrey SZABÓOVEJ na vydanie zákona, ktorým sa mení zákon č. 261/2017 Z. z. o štátnej cene Jozefa Miloslava Hurbana a štátnej cene Alexandra Dubčeka v znení zákona č. 199/2020 Z. z. (tlač 1235) - tretie čítanie Hlasov",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=58001"
+    },
+    {
+      "id": "sk-hl-58002",
+      "date": "2026-05-28",
+      "title": "Návrh poslancov Národnej rady Slovenskej republiky Pauly PUŠKÁROVEJ, Jozefa HABÁNIKA a Karola JANASA na vydanie zákona, ktorým sa mení a dopĺňa zákon č. 300/2025 Z. z. o vysokých školách (vysokoškolský zákon) a o zmene a doplnení niektorých zákonov a ktorým sa menia a dopĺňajú ďalšie zákony (tlač 12",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=58002"
+    },
+    {
+      "id": "sk-hl-58003",
+      "date": "2026-05-28",
+      "title": "Návrh poslancov Národnej rady Slovenskej republiky Pauly PUŠKÁROVEJ, Jozefa HABÁNIKA a Karola JANASA na vydanie zákona, ktorým sa mení a dopĺňa zákon č. 300/2025 Z. z. o vysokých školách (vysokoškolský zákon) a o zmene a doplnení niektorých zákonov a ktorým sa menia a dopĺňajú ďalšie zákony (tlač 12",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=58003"
+    },
+    {
+      "id": "sk-hl-58008",
+      "date": "2026-06-02",
+      "title": "Hlasovanie o 1. procedurálnom návrhu predsedu NR SR R. Rašiho.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=58008"
+    },
+    {
+      "id": "sk-hl-58009",
+      "date": "2026-06-02",
+      "title": "Hlasovanie o 2. procedurálnom návrhu predsedu NR SR R. Rašiho",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=58009"
+    },
+    {
+      "id": "sk-hl-58010",
+      "date": "2026-06-02",
+      "title": "Hlasovanie o procedurálnom návrhu posl. Dubovický.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasovanie&ID=58010"
+    }
+  ],
+  "note": "Capped sample from official NR SR hlasovanie search HTML (term 9). Attendance prezentácia rows omitted. No position arrays. Not invented."
 }

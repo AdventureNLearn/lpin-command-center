@@ -1,6 +1,18 @@
 {
   "iso2": "se",
   "kit": "institutional",
-  "items": [],
-  "incomplete": true
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "houses": [],
+  "seats": 349,
+  "items": [
+    {
+      "id": "se",
+      "name": "Riksdag",
+      "kind": "parliament",
+      "seats": 349,
+      "url": "https://www.riksdagen.se/"
+    }
+  ],
+  "note": "Unicameral national legislature. Statutory 349. Polish polish-iso-12: sitting 341 vs seats 349. Undercount 8. Not a score."
 }

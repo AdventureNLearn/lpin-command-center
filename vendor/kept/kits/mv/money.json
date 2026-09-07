@@ -1,7 +1,24 @@
 {
   "iso2": "mv",
-  "items": [],
+  "named_donors": false,
+  "unit": "MVR",
+  "sitting_total_reconstructed": 27981256,
+  "buckets": [
+    {
+      "label": "state grant paid 2025 (all parties combined)",
+      "amount": 27981256
+    },
+    {
+      "label": "state grant paid 2024 (all parties combined)",
+      "amount": 44099905
+    },
+    {
+      "label": "state grant paid 2023 (all parties combined)",
+      "amount": 36896088
+    }
+  ],
   "incomplete": true,
+  "source_url": "https://stat.elections.gov.mv/Party/Grant",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "Elections Commission of Maldives Stat App Party/Grant HTTP 200 (probed 2026-09-06). Official jumla (total) row printed: 2025 27,981,256; 2024 44,099,905; 2023 36,896,088 Maldivian rufiyaa. All-time jumla 382,405,812 not stored as a competing sitting total. Source-type state-grant buckets only. Per-party grant rows not stored. Named private donors not collected. sitting_total_reconstructed is the 2025 printed combined total, not a sum of year buckets."
 }

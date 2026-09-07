@@ -25,9 +25,29 @@
       "id": "committees",
       "hole": "No sourced committee list.",
       "basis": "Evidence"
+    },
+    {
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "orgs",
+      "hole": "No sourced org list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members-overcount",
+      "hole": "Sitting file has 327 unique members vs statutory/claimed 56 (Wikidata P39 includes former). Overcount noted; names not invented down.",
+      "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: member of the House of Representatives of Cyprus · House of Representatives. Sitting 327. Empty objects not invented."
+  "note": "Polish 2026-09-06 polish-iso-03. Members 327 of claimed 56 (statutory 56). Dupes removed 0. Vacancies/overcount not invented down."
 }

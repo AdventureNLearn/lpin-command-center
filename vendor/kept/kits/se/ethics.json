@@ -1,4 +1,25 @@
 {
   "iso2": "se",
-  "items": []
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "note": "Public Lag (1996:810) § 8 ekonomiska registret classes from the official Riksdag statute page, plus gift register named on the official code-of-conduct page. No kronor amounts. Unique classes restored after null-member_id collapse. Deduped 10 duplicate ethics rows 2026-09-07.",
+  "source_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1996810-om-registrering-av_sfs-1996-810/",
+  "items": [
+    {
+      "member_id": null,
+      "category": "innehav av aktier / andelar",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1996810-om-registrering-av_sfs-1996-810/"
+    },
+    {
+      "member_id": null,
+      "category": "gifts (Riksdag gift register)",
+      "public": true,
+      "amount_band": null,
+      "origin": "clerk",
+      "source_url": "https://www.riksdagen.se/en/members-and-parties/the-members-pay-and-conditions/code-of-conduct-for-members/"
+    }
+  ]
 }

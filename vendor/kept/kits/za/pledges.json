@@ -94,16 +94,6 @@
       "lang": "en"
     },
     {
-      "id": "za-p-siviwe-gwarube-national-list-democratic-alliance-education",
-      "member_id": "siviwe-gwarube-national-list-democratic-alliance",
-      "issue_id": "education",
-      "sentence": "I will not rest until every learner receives a quality material for their foundational learning.",
-      "sourceUrl": "https://pmg.org.za/hansard/43297/",
-      "date": "2026-06-10",
-      "term": "7th Parliament",
-      "lang": "en"
-    },
-    {
       "id": "za-p-khumbudzo-phophi-silence-ntshavheni-national-list-african-national-congress-security",
       "member_id": "khumbudzo-phophi-silence-ntshavheni-national-list-african-national-congress",
       "issue_id": "security",
@@ -130,16 +120,6 @@
       "sentence": "It is for this reason that Cogta budget speech this week was themed \"Every municipality must work\", as the Minister of Cogta, I am determined to see all municipalities receive the administrative, technical and financial support needed to become viable, able to deliver and able to maintain the infrastructure, because that is what is mandated to do.",
       "sourceUrl": "https://pmg.org.za/hansard/39167/",
       "date": "2024-07-19",
-      "term": "7th Parliament",
-      "lang": "en"
-    },
-    {
-      "id": "za-p-leon-amos-schreiber-national-list-democratic-alliance-security",
-      "member_id": "leon-amos-schreiber-national-list-democratic-alliance",
-      "issue_id": "security",
-      "sentence": "I will also make it my mission to restore dignity to interactions with Home Affairs, for the many dedicated officials who have found their calling by serving the people of South Africa through this vital department, and to our valued clients. [Inaudible] ... as a powerful engine of economic growth.",
-      "sourceUrl": "https://pmg.org.za/hansard/39102/",
-      "date": "2024-07-15",
       "term": "7th Parliament",
       "lang": "en"
     },
@@ -175,5 +155,5 @@
     }
   ],
   "incomplete": true,
-  "note": "Personal sourced sentences + https URL from parliament.gov.za member pages / member speeches and PMG National Assembly Hansard (7th Parliament, from 2024-06). Floor procedural, quoted-president, party manifesto, and municipality-named sentences dropped. parliament.gov.za person-details pages previously examined are third-person biographies (name, party, portfolio, contact) with no personal first-person pledge sentences; unused 7th-Parliament NA Hansard was examined this wave. Leftover after keep-filters is third-person / procedure-only. PMG NA Hansard remains the personal-sentence source. Hunt-stop after examination — do not loop unused Hansard or person-details bios. Not a full roster. Honest incomplete."
+  "note": "Personal sourced sentences + https URL from parliament.gov.za member pages / member speeches and PMG National Assembly Hansard (7th Parliament, from 2024-06). Floor procedural, quoted-president, party manifesto, and municipality-named sentences dropped. parliament.gov.za person-details pages previously examined are third-person biographies (name, party, portfolio, contact) with no personal first-person pledge sentences; unused 7th-Parliament NA Hansard was examined this wave. Leftover after keep-filters is third-person / procedure-only. PMG NA Hansard remains the personal-sentence source. Hunt-stop after examination — do not loop unused Hansard or person-details bios. Not a full roster. Honest incomplete. Deduped 2 duplicate pledges rows 2026-09-06."
 }

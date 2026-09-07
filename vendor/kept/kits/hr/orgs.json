@@ -1,7 +1,289 @@
 {
   "iso2": "hr",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json",
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "incomplete": true,
+  "note": "Capped sample from official CKAN Stranke JSON (AKTIVAN). Cap 40. OIB and seat address omitted.",
+  "items": [
+    {
+      "id": "samostalna-demokratska-srpska-stranka",
+      "name": "SAMOSTALNA DEMOKRATSKA SRPSKA STRANKA",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "primorsko-goranski-savez",
+      "name": "PRIMORSKO GORANSKI SAVEZ",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "demokratska-kneginecka-stranka",
+      "name": "DEMOKRATSKA KNEGINEČKA STRANKA",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "stranka-umirovljenika",
+      "name": "STRANKA UMIROVLJENIKA",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "demokratska-prigorsko-zagrebacka-stranka",
+      "name": "DEMOKRATSKA PRIGORSKO-ZAGREBAČKA STRANKA",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "socijalisticka-radnicka-partija-hrvatske",
+      "name": "SOCIJALISTIČKA RADNIČKA PARTIJA HRVATSKE",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "stranka-demokratske-akcije-hrvatske",
+      "name": "STRANKA DEMOKRATSKE AKCIJE HRVATSKE",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "hrvatska-stranka-prava-1861",
+      "name": "HRVATSKA STRANKA PRAVA - 1861",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "zagorska-stranka",
+      "name": "ZAGORSKA STRANKA",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "hrvatski-laburisti-stranka-rada",
+      "name": "HRVATSKI LABURISTI - STRANKA RADA",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "hrvatska-stranka-umirovljenika",
+      "name": "HRVATSKA STRANKA UMIROVLJENIKA",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "hrvatski-demokratski-savez-slavonije-i-baranje",
+      "name": "HRVATSKI DEMOKRATSKI SAVEZ SLAVONIJE I BARANJE",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "nezavisni-seljaci-hrvatske",
+      "name": "NEZAVISNI SELJACI HRVATSKE",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "dubrovacki-demokratski-sabor",
+      "name": "DUBROVAČKI DEMOKRATSKI SABOR",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "lista-za-rijeku",
+      "name": "LISTA ZA RIJEKU",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "akcija-mladih",
+      "name": "AKCIJA MLADIH",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "socijaldemokratska-partija-hrvatske",
+      "name": "SOCIJALDEMOKRATSKA PARTIJA HRVATSKE",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "hrvatski-oslobodilacki-pokret",
+      "name": "HRVATSKI OSLOBODILAČKI POKRET",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "istarski-demokratski-sabor",
+      "name": "ISTARSKI DEMOKRATSKI SABOR",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "hrvatska-seljacka-stranka",
+      "name": "HRVATSKA SELJAČKA STRANKA",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "hrvatska-demokratska-zajednica",
+      "name": "HRVATSKA DEMOKRATSKA ZAJEDNICA",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "me-imurski-demokratski-savez",
+      "name": "MEĐIMURSKI DEMOKRATSKI SAVEZ",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "blok-umirovljenici-zajedno",
+      "name": "BLOK UMIROVLJENICI ZAJEDNO",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "hrvatska-socijalno-liberalna-stranka",
+      "name": "HRVATSKA SOCIJALNO - LIBERALNA STRANKA",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "hrvatska-stranka-prava",
+      "name": "HRVATSKA STRANKA PRAVA",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "plocanska-stranka",
+      "name": "PLOČANSKA STRANKA",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "istarska-stranka-umirovljenika-partito-istriano-dei-pensionati",
+      "name": "ISTARSKA STRANKA UMIROVLJENIKA - PARTITO ISTRIANO DEI PENSIONATI",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "akcija-umirovljenici-zajedno",
+      "name": "AKCIJA UMIROVLJENICI ZAJEDNO",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "stranka-hrvatskog-zajednistva",
+      "name": "STRANKA HRVATSKOG ZAJEDNIŠTVA",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "nezavisna-lista-stipe-petrina",
+      "name": "NEZAVISNA LISTA STIPE PETRINA",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "hrvatska-narodna-stranka-liberalni-demokrati",
+      "name": "HRVATSKA NARODNA STRANKA - LIBERALNI DEMOKRATI",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "moja-voljena-hrvatska",
+      "name": "MOJA VOLJENA HRVATSKA",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "demokrati",
+      "name": "DEMOKRATI",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "demokratski-hss",
+      "name": "DEMOKRATSKI HSS",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "popravi-grad",
+      "name": "POPRAVI GRAD",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "domovinski-pokret",
+      "name": "DOMOVINSKI POKRET",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "hrvatska-stranka-buducnosti",
+      "name": "HRVATSKA STRANKA BUDUĆNOSTI",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "mozemo-politicka-platforma",
+      "name": "Možemo! - politička platforma",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "alternativa-101",
+      "name": "ALTERNATIVA 101",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    },
+    {
+      "id": "autohtona-hrvatska-seljacka-stranka",
+      "name": "AUTOHTONA - HRVATSKA SELJAČKA STRANKA",
+      "kind": "political-party",
+      "origin": "register",
+      "source_url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json"
+    }
+  ]
 }

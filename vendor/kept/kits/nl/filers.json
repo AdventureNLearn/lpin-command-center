@@ -1,7 +1,112 @@
 {
   "iso2": "nl",
-  "items": [],
+  "named_public_filers": true,
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced filers for this ISO. Not invented."
+  "source_url": "https://partijfinanciering.nl/",
+  "items": [
+    {
+      "id": "d720f5af-0516-408a-b830-0b6ffb8a581c",
+      "name": "ChristenUnie",
+      "kind": "political-party",
+      "source_url": "https://partijfinanciering.nl/"
+    },
+    {
+      "id": "848c3fca-8931-4236-8fe9-33b6a598fa4d",
+      "name": "Groep Markuszower",
+      "kind": "political-party",
+      "source_url": "https://partijfinanciering.nl/"
+    },
+    {
+      "id": "e0b7b638-de3c-47cc-85bd-341dd65ea33d",
+      "name": "Forum voor Democratie",
+      "kind": "political-party",
+      "source_url": "https://partijfinanciering.nl/"
+    },
+    {
+      "id": "a3689bb6-3914-4d5c-a6a8-42e24582e299",
+      "name": "Socialistische Partij",
+      "kind": "political-party",
+      "source_url": "https://partijfinanciering.nl/"
+    },
+    {
+      "id": "65129918-f256-4975-9da4-488da34d6695",
+      "name": "Partij voor de Vrijheid",
+      "kind": "political-party",
+      "source_url": "https://partijfinanciering.nl/"
+    },
+    {
+      "id": "d3b4d880-ef37-4ce6-99ec-4940266ac466",
+      "name": "Partij voor de Dieren",
+      "kind": "political-party",
+      "source_url": "https://partijfinanciering.nl/"
+    },
+    {
+      "id": "4e9f6f5b-2544-4667-8134-6b85c4ebb4e0",
+      "name": "Democraten 66",
+      "kind": "political-party",
+      "source_url": "https://partijfinanciering.nl/"
+    },
+    {
+      "id": "77f9b6f1-b1a9-4d1b-a05e-9936e79d8fa5",
+      "name": "Staatkundig Gereformeerde Partij",
+      "kind": "political-party",
+      "source_url": "https://partijfinanciering.nl/"
+    },
+    {
+      "id": "626555ac-e836-44e3-9978-a6a7f0abc3ce",
+      "name": "BoerBurgerBeweging",
+      "kind": "political-party",
+      "source_url": "https://partijfinanciering.nl/"
+    },
+    {
+      "id": "d60f373a-5bb2-477f-9979-a8f3a0514e6b",
+      "name": "Progressief Nederland",
+      "kind": "political-party",
+      "source_url": "https://partijfinanciering.nl/"
+    },
+    {
+      "id": "62c1a13c-85ff-40ed-90f7-a9546d61f869",
+      "name": "Christen-Democratisch Appèl",
+      "kind": "political-party",
+      "source_url": "https://partijfinanciering.nl/"
+    },
+    {
+      "id": "deb74bb5-63a9-4ffc-98ed-af577167452e",
+      "name": "DENK",
+      "kind": "political-party",
+      "source_url": "https://partijfinanciering.nl/"
+    },
+    {
+      "id": "a9e74299-15f9-455c-8330-b84f176d1a7e",
+      "name": "50PLUS",
+      "kind": "political-party",
+      "source_url": "https://partijfinanciering.nl/"
+    },
+    {
+      "id": "7476e97a-3243-4122-9df6-ba7d82a5279b",
+      "name": "Volkspartij voor Vrijheid en Democratie",
+      "kind": "political-party",
+      "source_url": "https://partijfinanciering.nl/"
+    },
+    {
+      "id": "65b21c25-91e8-4844-a67c-bc5866e457b5",
+      "name": "Lid Keijzer",
+      "kind": "political-party",
+      "source_url": "https://partijfinanciering.nl/"
+    },
+    {
+      "id": "fab6e7e1-9d63-446a-a6e1-e1c74e3f679e",
+      "name": "JA21",
+      "kind": "political-party",
+      "source_url": "https://partijfinanciering.nl/"
+    },
+    {
+      "id": "ae48391e-ce4d-47e0-86e3-ee310282f66f",
+      "name": "Volt",
+      "kind": "political-party",
+      "source_url": "https://partijfinanciering.nl/"
+    }
+  ],
+  "note": "Capped sample of organisation names from official register/API. Cap 40. Natural-person names omitted."
 }

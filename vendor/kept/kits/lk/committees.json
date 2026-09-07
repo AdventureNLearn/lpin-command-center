@@ -1,7 +1,91 @@
 {
   "iso2": "lk",
-  "source_url": "https://www.wikidata.org/wiki/Q1450753",
+  "chamber": "Parliament of Sri Lanka",
+  "source_url": "https://www.parliament.lk/en/component/committees/categories?id=1&type=committee",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 8,
+  "items": [
+    {
+      "id": "legislative-standing-committee",
+      "name": "Legislative Standing Committee",
+      "chamber": "Parliament of Sri Lanka",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.lk/en/component/committees/categories?id=1&type=committee"
+    },
+    {
+      "id": "backbencher-committee",
+      "name": "Backbencher Committee",
+      "chamber": "Parliament of Sri Lanka",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.lk/en/component/committees/categories?id=1&type=committee"
+    },
+    {
+      "id": "cope-subcommittee-iii-1-on-institutional-plans",
+      "name": "CoPE Subcommittee III.1 on Institutional Plans",
+      "chamber": "Parliament of Sri Lanka",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.lk/en/component/committees/categories?id=1&type=committee"
+    },
+    {
+      "id": "cope-subcommittee-iii-2-on-institutional-plans",
+      "name": "CoPE Subcommittee III.2 on Institutional Plans",
+      "chamber": "Parliament of Sri Lanka",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.lk/en/component/committees/categories?id=1&type=committee"
+    },
+    {
+      "id": "cope-subcommittee-iii-3-on-institutional-plans",
+      "name": "CoPE Subcommittee III.3 on Institutional Plans",
+      "chamber": "Parliament of Sri Lanka",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.lk/en/component/committees/categories?id=1&type=committee"
+    },
+    {
+      "id": "cope-subcommittee-iii-4-on-institutional-plans",
+      "name": "CoPE Subcommittee III.4 on Institutional Plans",
+      "chamber": "Parliament of Sri Lanka",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.lk/en/component/committees/categories?id=1&type=committee"
+    },
+    {
+      "id": "cope-subcommittee-iii-5-on-institutional-plans",
+      "name": "CoPE Subcommittee III.5 on Institutional Plans",
+      "chamber": "Parliament of Sri Lanka",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.lk/en/component/committees/categories?id=1&type=committee"
+    },
+    {
+      "id": "cope-subcommittee-iii-6-on-institutional-plans",
+      "name": "CoPE Subcommittee III.6 on Institutional Plans",
+      "chamber": "Parliament of Sri Lanka",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.lk/en/component/committees/categories?id=1&type=committee"
+    }
+  ],
+  "note": "official committee names"
 }

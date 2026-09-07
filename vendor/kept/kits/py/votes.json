@@ -1,7 +1,26 @@
 {
   "iso2": "py",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://silpy.congreso.gov.py/web/votaciones",
   "retrieved": "2026-09-06",
-  "note": "No sourced votes for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "105525",
+      "date": null,
+      "title": "Expediente D-2477810 — resolución bicameral de investigación transitoria (lavado de activos y delitos conexos)",
+      "chamber": "CAMARA DE SENADORES",
+      "origin": "clerk",
+      "source_url": "https://silpy.congreso.gov.py/web/votacion/105525",
+      "recorded": {
+        "yea": 27,
+        "nay": 9,
+        "abstain": 0,
+        "absent": 8,
+        "novote": 1,
+        "total": 45
+      },
+      "result": "APROBADO"
+    }
+  ],
+  "note": "Capped sample from official source."
 }

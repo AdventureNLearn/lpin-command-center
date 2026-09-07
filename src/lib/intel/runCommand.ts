@@ -21,6 +21,7 @@ import { linDeskById } from "@/lib/lin/network";
 import { SENSE_LANES } from "@/lib/lin/protocol";
 import { sealInsight } from "./honesty";
 import { useLin } from "@/lib/lin/session";
+import { useWorkbook } from "@/lib/lin/workbook";
 
 function isLayer(v: unknown): v is LayerId {
   return typeof v === "string" && v in LAYER_META;
@@ -74,6 +75,9 @@ function fromUnknown(raw: VoiceAction): CommandAction {
   if (type === "streams") return { type: "streams", on: Boolean(raw.on) };
   if (type === "streamPin") return { type: "streamPin", on: Boolean(raw.on), iso2: typeof raw.id === "string" ? raw.id : undefined };
   if (type === "method") return { type: "method", on: Boolean(raw.on) };
+  if (type === "workbook") {
+    return { type: "workbook", country: String(raw.q ?? raw.id ?? ""), industry: String(raw.kind ?? "") };
+  }
   if (type === "research") return { type: "research", topic: String(raw.q ?? "") };
   if (type === "lanes") return { type: "lanes" };
   if (type === "guide") return { type: "guide" };
@@ -151,6 +155,33 @@ export async function applyAction(action: CommandAction, raw = "") {
       useRadio.getState().setPicker(false);
     }
     flash(action.on ? "Corpus" : "Corpus closed");
+    return;
+  }
+  if (action.type === "workbook") {
+    const country = action.country ?? "";
+    const industry = action.industry ?? "";
+    if (country || industry) {
+      const err = useWorkbook.getState().openFacets(country, industry);
+      if (err) {
+        flash(err);
+        return;
+      }
+    }
+    useIntel.getState().setDesk({ system: "lin", id: "workbook" });
+    const w = useWorkbook.getState();
+    useIntel.getState().setInsight(
+      sealInsight({
+        id: "lin-workbook",
+        title: w.title || "Research workbook",
+        body: "Country and industry stay on separate tabs. Law, permitting, trades, regulations, funding, political, and corporate are separate lenses — not one score. Dirt is not shingles. Paste an official URL and the smallest quote. Blank means we do not know yet.",
+        system: "lin",
+        desk: { system: "lin", id: "workbook" },
+        q: w.title || undefined,
+        source: "Local workbook · delayed",
+      }),
+    );
+    hushPicker();
+    flash(w.title ? `Workbook · ${w.title}` : "Workbook");
     return;
   }
   if (action.type === "research") {
@@ -378,7 +409,7 @@ export async function applyAction(action: CommandAction, raw = "") {
       break;
     }
     case "unknown":
-      flash(raw ? `Grok shrugged at “${raw}”. Try Tokyo.` : "Grok shrugged.");
+      flash(raw ? `Grok shrugged at “${raw}”. Name a country, a state, or a layer.` : "Grok shrugged.");
       break;
   }
 }

@@ -1,7 +1,17 @@
 {
   "iso2": "jm",
-  "items": [],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced ethics for this ISO. Not invented."
+  "note": "Integrity Commission HTTP 200. Per-member filings not transcribed. Amounts not invented.",
+  "source_url": "https://integrity.gov.jm/",
+  "items": [
+    {
+      "member_id": null,
+      "category": "statutory-declaration",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://integrity.gov.jm/"
+    }
+  ]
 }

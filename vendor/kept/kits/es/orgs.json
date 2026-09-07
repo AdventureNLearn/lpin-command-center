@@ -1,7 +1,106 @@
 {
   "iso2": "es",
-  "items": [],
+  "source_url": "https://www.congreso.es/webpublica/opendata/diputados/DiputadosActivos__20260820050006.json",
+  "items": [
+    {
+      "id": "pp",
+      "name": "PP",
+      "kind": "political-party",
+      "source_url": "https://www.congreso.es/webpublica/opendata/diputados/DiputadosActivos__20260820050006.json"
+    },
+    {
+      "id": "psoe",
+      "name": "PSOE",
+      "kind": "political-party",
+      "source_url": "https://www.congreso.es/webpublica/opendata/diputados/DiputadosActivos__20260820050006.json"
+    },
+    {
+      "id": "vox",
+      "name": "VOX",
+      "kind": "political-party",
+      "source_url": "https://www.congreso.es/webpublica/opendata/diputados/DiputadosActivos__20260820050006.json"
+    },
+    {
+      "id": "sumar",
+      "name": "SUMAR",
+      "kind": "political-party",
+      "source_url": "https://www.congreso.es/webpublica/opendata/diputados/DiputadosActivos__20260820050006.json"
+    },
+    {
+      "id": "psc-psoe",
+      "name": "PSC-PSOE",
+      "kind": "political-party",
+      "source_url": "https://www.congreso.es/webpublica/opendata/diputados/DiputadosActivos__20260820050006.json"
+    },
+    {
+      "id": "erc",
+      "name": "ERC",
+      "kind": "political-party",
+      "source_url": "https://www.congreso.es/webpublica/opendata/diputados/DiputadosActivos__20260820050006.json"
+    },
+    {
+      "id": "jxcat-junts",
+      "name": "JxCAT-JUNTS",
+      "kind": "political-party",
+      "source_url": "https://www.congreso.es/webpublica/opendata/diputados/DiputadosActivos__20260820050006.json"
+    },
+    {
+      "id": "psdeg-psoe",
+      "name": "PsdeG-PSOE",
+      "kind": "political-party",
+      "source_url": "https://www.congreso.es/webpublica/opendata/diputados/DiputadosActivos__20260820050006.json"
+    },
+    {
+      "id": "eh-bildu",
+      "name": "EH Bildu",
+      "kind": "political-party",
+      "source_url": "https://www.congreso.es/webpublica/opendata/diputados/DiputadosActivos__20260820050006.json"
+    },
+    {
+      "id": "eaj-pnv",
+      "name": "EAJ-PNV",
+      "kind": "political-party",
+      "source_url": "https://www.congreso.es/webpublica/opendata/diputados/DiputadosActivos__20260820050006.json"
+    },
+    {
+      "id": "pse-ee-psoe",
+      "name": "PSE-EE (PSOE)",
+      "kind": "political-party",
+      "source_url": "https://www.congreso.es/webpublica/opendata/diputados/DiputadosActivos__20260820050006.json"
+    },
+    {
+      "id": "psib-psoe",
+      "name": "PSIB-PSOE",
+      "kind": "political-party",
+      "source_url": "https://www.congreso.es/webpublica/opendata/diputados/DiputadosActivos__20260820050006.json"
+    },
+    {
+      "id": "psn-psoe",
+      "name": "PSN-PSOE",
+      "kind": "political-party",
+      "source_url": "https://www.congreso.es/webpublica/opendata/diputados/DiputadosActivos__20260820050006.json"
+    },
+    {
+      "id": "bng",
+      "name": "BNG",
+      "kind": "political-party",
+      "source_url": "https://www.congreso.es/webpublica/opendata/diputados/DiputadosActivos__20260820050006.json"
+    },
+    {
+      "id": "cca",
+      "name": "CCa",
+      "kind": "political-party",
+      "source_url": "https://www.congreso.es/webpublica/opendata/diputados/DiputadosActivos__20260820050006.json"
+    },
+    {
+      "id": "upn",
+      "name": "UPN",
+      "kind": "political-party",
+      "source_url": "https://www.congreso.es/webpublica/opendata/diputados/DiputadosActivos__20260820050006.json"
+    }
+  ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "origin": "parties-index",
+  "note": "Thin org list derived from official parties.json (non-wikidata). Incomplete. origin:parties-index."
 }

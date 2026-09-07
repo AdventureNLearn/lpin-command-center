@@ -13,7 +13,11 @@
       "label": "Assembly of the Republic",
       "url": "https://www.parlamento.mz/",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 200,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-09",
+      "note": "Official parliament HTTP 200 (polish-iso-09)."
     },
     {
       "id": "wd-q1848595",
@@ -41,6 +45,13 @@
       "label": "MDM parliamentary group (Wikidata)",
       "url": "https://www.wikidata.org/wiki/Q118406817",
       "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://www.parlamento.mz/?page_id=11996",
+      "kind": "primary",
       "basis": "Evidence"
     }
   ],

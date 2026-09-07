@@ -1,7 +1,20 @@
 {
   "iso2": "jo",
-  "items": [],
+  "named_donors": false,
+  "unit": "",
+  "buckets": [
+    {
+      "label": "state financial contribution to political parties (نظام المساهمة المالية)",
+      "source_url": "https://www.iec.jo/"
+    },
+    {
+      "label": "campaign-finance disclosure instructions",
+      "source_url": "https://www.iec.jo/ar/applicable-legislation"
+    }
+  ],
   "incomplete": true,
+  "source_url": "https://www.iec.jo/",
+  "extra_source_url": "https://www.iec.jo/ar/applicable-legislation",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "Independent Election Commission HTTP 200 (probed 2026-09-06). Official news records that the Commission began disbursing party entitlements under the financial-contribution bylaw; printed combined JOD totals not on the GET HTML this pass (not invented). Campaign spending ceilings printed as limits, not collected as sitting totals. Named private donors not collected. parties.iec.jo fetch failed this pass."
 }

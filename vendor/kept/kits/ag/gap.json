@@ -25,9 +25,34 @@
       "id": "committees",
       "hole": "No sourced committee list.",
       "basis": "Evidence"
+    },
+    {
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "orgs",
+      "hole": "No sourced org list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members-coverage",
+      "hole": "Named members 33 of statutory 36. Vacancies not padded. Names not invented without a current-term official list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members-overcount",
+      "hole": "Senate named 21 exceed statutory 17. House named 12 of statutory 19. Cross-chamber historical P39 rows kept. Names not deleted without a current-term official list.",
+      "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: Senate of Antigua and Barbuda · Parliament of Antigua and Barbuda · Governor-General of Antigua and Barbuda · House of Representatives of Antigua and Barbuda. Sitting 33. Empty objects not invented."
+  "note": "Category coverage 2026-09-06. Empty categories are holes, not zeros invented."
 }

@@ -28,6 +28,20 @@
       "url": "https://www.wikidata.org/wiki/Q18654760",
       "kind": "index",
       "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://www.parliament.gov.gy/committee-business/committees",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-votes",
+      "label": "Official votes",
+      "url": "https://www.parliament.gov.gy/publications/minutes/",
+      "kind": "primary",
+      "basis": "Evidence"
     }
   ],
   "incomplete": false

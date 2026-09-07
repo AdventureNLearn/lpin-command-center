@@ -2,27 +2,37 @@
   "iso2": "bg",
   "items": [
     {
-      "id": "votes",
-      "hole": "No sourced roll-call file.",
-      "basis": "Evidence"
-    },
-    {
       "id": "pledges",
       "hole": "No sourced quote+URL pledges.",
-      "basis": "Evidence"
-    },
-    {
-      "id": "ethics",
-      "hole": "No sourced ethics filings.",
       "basis": "Evidence"
     },
     {
       "id": "money",
       "hole": "No sourced money file.",
       "basis": "Evidence"
+    },
+    {
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "orgs",
+      "hole": "No sourced org list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members-coverage",
+      "hole": "Named members 235 of statutory 240. BG 235/240 preserved. Vacancies not invented.",
+      "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Fill 2026-09-06. Sitting 235 of 240. Vacancies not invented."
+  "note": "Polish 2026-09-06 polish-iso-02. Members 235 of statutory 240. Dupes removed 0. Vacancies not invented."
 }

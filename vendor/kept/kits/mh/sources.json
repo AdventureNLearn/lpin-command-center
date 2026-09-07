@@ -20,13 +20,24 @@
       "label": "Legislature of the Marshall Islands",
       "url": "https://rmiparliament.org/",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 200,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-09",
+      "note": "Official parliament HTTP 200 (polish-iso-09)."
     },
     {
       "id": "wd-q1280186",
       "label": "Legislature of the Marshall Islands (Wikidata)",
       "url": "https://www.wikidata.org/wiki/Q1280186",
       "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://rmiparliament.org/cms/index.php/committees",
+      "kind": "primary",
       "basis": "Evidence"
     }
   ],

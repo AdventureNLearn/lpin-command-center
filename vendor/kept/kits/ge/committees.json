@@ -1,7 +1,101 @@
 {
   "iso2": "ge",
-  "source_url": "https://www.wikidata.org/wiki/Q1417210",
+  "chamber": "Parliament of Georgia",
+  "source_url": "https://parliament.ge/en/parliament/committees/63938/about",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 9,
+  "items": [
+    {
+      "id": "63938",
+      "name": "Human Rights and Civil Integration Committee",
+      "chamber": "Parliament of Georgia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://parliament.ge/en/parliament/committees/63938/about"
+    },
+    {
+      "id": "63939",
+      "name": "Education, Science and Youth Affairs Committee",
+      "chamber": "Parliament of Georgia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://parliament.ge/en/parliament/committees/63939/about"
+    },
+    {
+      "id": "63940",
+      "name": "Environmental Protection and Natural Resources Committee",
+      "chamber": "Parliament of Georgia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://parliament.ge/en/parliament/committees/63940/about"
+    },
+    {
+      "id": "63945",
+      "name": "Legal Issues Committee",
+      "chamber": "Parliament of Georgia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://parliament.ge/en/parliament/committees/63945/about"
+    },
+    {
+      "id": "63950",
+      "name": "Budget and Finance Committee",
+      "chamber": "Parliament of Georgia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://parliament.ge/en/parliament/committees/63950/about"
+    },
+    {
+      "id": "67431",
+      "name": "Committee on Defense and Security",
+      "chamber": "Parliament of Georgia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://parliament.ge/en/parliament/committees/67431/about"
+    },
+    {
+      "id": "63952",
+      "name": "Healthcare and Social Issues Committee",
+      "chamber": "Parliament of Georgia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://parliament.ge/en/parliament/committees/63952/about"
+    },
+    {
+      "id": "67454",
+      "name": "Committee on Agriculture",
+      "chamber": "Parliament of Georgia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://parliament.ge/parliament/committees/67454/about"
+    },
+    {
+      "id": "67445",
+      "name": "Committee on Procedural Issues",
+      "chamber": "Parliament of Georgia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://parliament.ge/en/parliament/committees/67445/about"
+    }
+  ],
+  "note": "Official committee about-pages HTTP 200. Cap 9."
 }

@@ -42,6 +42,27 @@
       "url": "https://www.wikidata.org/wiki/Q98975",
       "kind": "index",
       "basis": "Evidence"
+    },
+    {
+      "id": "official-orgs",
+      "label": "Official orgs",
+      "url": "https://pkw.gov.pl/uploaded_files/1698467872_subwencja-2024-2027.pdf",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-sejm-api",
+      "label": "Sejm term10 MP API",
+      "url": "https://api.sejm.gov.pl/sejm/term10/MP",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-lobby",
+      "label": "Official lobby",
+      "url": "https://www.gov.pl/web/mswia/dzialalnosc-lobbingowa",
+      "kind": "primary",
+      "basis": "Evidence"
     }
   ],
   "incomplete": false

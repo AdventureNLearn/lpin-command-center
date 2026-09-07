@@ -28,6 +28,41 @@
       "url": "https://www.wikidata.org/wiki/Q18643511",
       "kind": "index",
       "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://www.sabor.hr/en/contacts/committees",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-ethics",
+      "label": "Official MP financial-interest / disclosure register",
+      "url": "https://www.sukobinteresa.hr",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-money",
+      "label": "Official money",
+      "url": "https://www.sabor.hr/hr/pristup-informacijama/proracun-sabora",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-orgs",
+      "label": "Register of political parties (CKAN Stranke)",
+      "url": "https://data.gov.hr/ckan/dataset/197ea086-e03b-42d1-b3c1-0496c85faf1e/resource/1a766609-e55d-4c13-ad0c-7bd409496d34/download/data.json",
+      "kind": "official-open-data",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-votes",
+      "label": "Official votes",
+      "url": "https://www.sabor.hr/hr/sjednice/zapisnici/arhiva-zapisnika",
+      "kind": "primary",
+      "basis": "Evidence"
     }
   ],
   "incomplete": false

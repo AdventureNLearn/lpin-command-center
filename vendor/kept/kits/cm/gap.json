@@ -22,12 +22,27 @@
       "basis": "Evidence"
     },
     {
-      "id": "committees",
-      "hole": "No sourced committee list.",
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "orgs",
+      "hole": "No sourced org list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members-overcount",
+      "hole": "Sitting file has 845 unique members vs statutory/claimed 280 (Wikidata P39 includes former). Overcount noted; names not invented down.",
       "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: Senate of Cameroon · Parliament of Cameroon · National Assembly of Cameroon. Sitting 845. Empty objects not invented."
+  "note": "Polish 2026-09-06 polish-iso-03. Members 845 of claimed 280 (statutory 280). Dupes removed 0. Vacancies/overcount not invented down."
 }

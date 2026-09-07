@@ -1,7 +1,19 @@
 {
   "iso2": "ad",
-  "items": [],
+  "named_donors": false,
+  "unit": "",
+  "buckets": [
+    {
+      "label": "fiscalització comptes anuals i finançament dels partits polítics",
+      "source_url": "https://www.tribunaldecomptes.ad/en/documents?year=2023"
+    },
+    {
+      "label": "fiscalització despeses electorals eleccions al Consell General",
+      "source_url": "https://www.tribunaldecomptes.ad/en/documents?year=2023"
+    }
+  ],
   "incomplete": true,
+  "source_url": "https://www.tribunaldecomptes.ad/en/documents?year=2023",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "Tribunal de Comptes reports index HTTP 200 this seat. Source-type register buckets only (Informe 3/2023 party-accounts fiscalization; Informe 1/2023 Consell General electoral expenses). Combined EUR totals not extracted from the report PDFs this pass. BOPA donor edicts name natural persons and were not collected. eleccions.ad remains communal results, not a finance register."
 }

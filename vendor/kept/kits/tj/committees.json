@@ -1,7 +1,51 @@
 {
   "iso2": "tj",
-  "source_url": "https://www.wikidata.org/wiki/Q2011165",
+  "chamber": "Supreme Assembly",
+  "source_url": "https://majmilli.tj/kumitahoi-majlisi-milli/",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 4,
+  "items": [
+    {
+      "id": "tj-mm-constitutional-rights",
+      "name": "КУМИТА ОИД БА ТАЪМИНИ АСОСҲОИ КОНСТИТУТСИОНӢ, ҲУҚУҚУ ОЗОДИҲОИ ИНСОН, ШАҲРВАНД ВА ҚОНУНИЯТ",
+      "chamber": "National Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://majmilli.tj/kumitahoi-majlisi-milli/"
+    },
+    {
+      "id": "tj-mm-economy-comms",
+      "name": "КУМИТА ОИД БА ИҚТИСОДИЁТ ВА КОММУНИКАТСИЯ",
+      "chamber": "National Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://majmilli.tj/kumitahoi-majlisi-milli/"
+    },
+    {
+      "id": "tj-mm-social-health-education",
+      "name": "КУМИТА ОИД БА МАСЪАЛАҲОИ ИҶТИМОӢ, ҲИФЗИ СИҲАТӢ, ИЛМ, МАОРИФ, ФАРҲАНГ ВА СИЁСАТИ ҶАВОНОНУ ЗАНОН",
+      "chamber": "National Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://majmilli.tj/kumitahoi-majlisi-milli/"
+    },
+    {
+      "id": "tj-mm-agrarian-employment-ecology",
+      "name": "КУМИТА ОИД БА МАСЪАЛАҲОИ АГРАРӢ, ШУҒЛИ АҲОЛӢ ВА ЭКОЛОГИЯ",
+      "chamber": "National Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://majmilli.tj/kumitahoi-majlisi-milli/"
+    }
+  ],
+  "note": "National Assembly (Majlisi Milli) official committee list. Lower-house parlament.tj unreachable this probe."
 }

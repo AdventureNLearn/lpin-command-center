@@ -1,7 +1,51 @@
 {
   "iso2": "mc",
-  "source_url": "https://www.wikidata.org/wiki/Q1127198",
+  "chamber": "National Council",
+  "source_url": "https://legimonaco.mc/tnc/autre-texte-reglementaire/2020/11-25-R01/",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 4,
+  "items": [
+    {
+      "id": "mc-c-finances",
+      "name": "Commission des Finances et de l’Économie Nationale",
+      "chamber": "National Council",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://legimonaco.mc/tnc/autre-texte-reglementaire/2020/11-25-R01/"
+    },
+    {
+      "id": "mc-c-sociaux",
+      "name": "Commission des Intérêts Sociaux et des Affaires Diverses",
+      "chamber": "National Council",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://legimonaco.mc/tnc/autre-texte-reglementaire/2020/11-25-R01/"
+    },
+    {
+      "id": "mc-c-legislation",
+      "name": "Commission de Législation",
+      "chamber": "National Council",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://legimonaco.mc/tnc/autre-texte-reglementaire/2020/11-25-R01/"
+    },
+    {
+      "id": "mc-c-ext",
+      "name": "Commission des Relations Extérieures",
+      "chamber": "National Council",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://legimonaco.mc/tnc/autre-texte-reglementaire/2020/11-25-R01/"
+    }
+  ],
+  "note": "Standing orders of the National Council list four permanent commissions. conseil-national.mc fetch failed (status 0)."
 }

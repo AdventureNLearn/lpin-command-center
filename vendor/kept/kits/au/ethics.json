@@ -2,7 +2,7 @@
   "iso2": "au",
   "incomplete": true,
   "retrieved": "2026-08-20",
-  "note": "Public statutory/register categories only. No confidential annex. No invented dollar amounts. Per-member filings not transcribed.",
+  "note": "Public statutory/register categories only. No confidential annex. No invented dollar amounts. Per-member filings not transcribed. Deduped 13 duplicate ethics rows 2026-09-06.",
   "items": [
     {
       "member_id": null,
@@ -12,136 +12,6 @@
       "origin": "statute",
       "source_url": "https://www.aph.gov.au/Senators_and_Members/Members/Register",
       "label_en": "Shareholdings",
-      "note": "Public category. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "family-and-business-trusts",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "https://www.aph.gov.au/Senators_and_Members/Members/Register",
-      "label_en": "Family and business trusts",
-      "note": "Public category. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "real-estate",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "https://www.aph.gov.au/Senators_and_Members/Members/Register",
-      "label_en": "Real estate",
-      "note": "Public category. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "directorships",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "https://www.aph.gov.au/Senators_and_Members/Members/Register",
-      "label_en": "Directorships of companies",
-      "note": "Public category. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "partnerships",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "https://www.aph.gov.au/Senators_and_Members/Members/Register",
-      "label_en": "Partnerships",
-      "note": "Public category. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "liabilities",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "https://www.aph.gov.au/Senators_and_Members/Members/Register",
-      "label_en": "Liabilities",
-      "note": "Public category. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "bonds-debentures",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "https://www.aph.gov.au/Senators_and_Members/Members/Register",
-      "label_en": "Bonds and debentures",
-      "note": "Public category. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "savings-investment",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "https://www.aph.gov.au/Senators_and_Members/Members/Register",
-      "label_en": "Savings or investment accounts",
-      "note": "Public category. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "other-assets",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "https://www.aph.gov.au/Senators_and_Members/Members/Register",
-      "label_en": "Other assets",
-      "note": "Public category. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "other-income",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "https://www.aph.gov.au/Senators_and_Members/Members/Register",
-      "label_en": "Other substantial sources of income",
-      "note": "Public category. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "gifts",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "https://www.aph.gov.au/Senators_and_Members/Members/Register",
-      "label_en": "Gifts",
-      "note": "Public category. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "sponsored-travel",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "https://www.aph.gov.au/Senators_and_Members/Members/Register",
-      "label_en": "Sponsored travel or hospitality",
-      "note": "Public category. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "memberships",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "https://www.aph.gov.au/Senators_and_Members/Members/Register",
-      "label_en": "Memberships of organisations",
-      "note": "Public category. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "other-interests",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "https://www.aph.gov.au/Senators_and_Members/Members/Register",
-      "label_en": "Any other interests",
       "note": "Public category. Amounts not collected."
     }
   ]

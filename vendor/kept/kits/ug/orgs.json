@@ -1,7 +1,135 @@
 {
   "iso2": "ug",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://www.ec.or.ug/political-parties",
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "name": "Activist Party (AP)",
+      "source_url": "https://www.ec.or.ug/political-parties",
+      "origin": "clerk",
+      "id": "activist-party-ap"
+    },
+    {
+      "name": "Conservative Party (CP)",
+      "source_url": "https://www.ec.or.ug/political-parties",
+      "origin": "clerk",
+      "id": "conservative-party-cp"
+    },
+    {
+      "name": "Democratic Front (DF)",
+      "source_url": "https://www.ec.or.ug/political-parties",
+      "origin": "clerk",
+      "id": "democratic-front-df"
+    },
+    {
+      "name": "Democratic Party (DP)",
+      "source_url": "https://www.ec.or.ug/political-parties",
+      "origin": "clerk",
+      "id": "democratic-party-dp"
+    },
+    {
+      "name": "Ecological Party of Uganda (EPU)",
+      "source_url": "https://www.ec.or.ug/political-parties",
+      "origin": "clerk",
+      "id": "ecological-party-of-uganda-epu"
+    },
+    {
+      "name": "Forum for Democratic Change (FDC)",
+      "source_url": "https://www.ec.or.ug/political-parties",
+      "origin": "clerk",
+      "id": "forum-for-democratic-change-fdc"
+    },
+    {
+      "name": "Justice Forum (JEEMA)",
+      "source_url": "https://www.ec.or.ug/political-parties",
+      "origin": "clerk",
+      "id": "justice-forum-jeema"
+    },
+    {
+      "name": "Liberal Democratic Transparency (LDT)",
+      "source_url": "https://www.ec.or.ug/political-parties",
+      "origin": "clerk",
+      "id": "liberal-democratic-transparency-ldt"
+    },
+    {
+      "name": "National Peasants’ Party (NPP)",
+      "source_url": "https://www.ec.or.ug/political-parties",
+      "origin": "clerk",
+      "id": "national-peasants-party-npp"
+    },
+    {
+      "name": "National Resistance Movement (NRM)",
+      "source_url": "https://www.ec.or.ug/political-parties",
+      "origin": "clerk",
+      "id": "national-resistance-movement-nrm"
+    },
+    {
+      "name": "National Unity Platform (NUP)",
+      "source_url": "https://www.ec.or.ug/political-parties",
+      "origin": "clerk",
+      "id": "national-unity-platform-nup"
+    },
+    {
+      "name": "People's Front for Freedom (PFF)",
+      "source_url": "https://www.ec.or.ug/political-parties",
+      "origin": "clerk",
+      "id": "people-s-front-for-freedom-pff"
+    },
+    {
+      "name": "People’s Development Party (PDP)",
+      "source_url": "https://www.ec.or.ug/political-parties",
+      "origin": "clerk",
+      "id": "people-s-development-party-pdp"
+    },
+    {
+      "name": "People’s Progressive Party (PPP)",
+      "source_url": "https://www.ec.or.ug/political-parties",
+      "origin": "clerk",
+      "id": "people-s-progressive-party-ppp"
+    },
+    {
+      "name": "Republican Women and Youth Party (RWYP)",
+      "source_url": "https://www.ec.or.ug/political-parties",
+      "origin": "clerk",
+      "id": "republican-women-and-youth-party-rwyp"
+    },
+    {
+      "name": "Revolutionary People’s Party (RPP)",
+      "source_url": "https://www.ec.or.ug/political-parties",
+      "origin": "clerk",
+      "id": "revolutionary-people-s-party-rpp"
+    },
+    {
+      "name": "Social Democratic Party(SDP)",
+      "source_url": "https://www.ec.or.ug/political-parties",
+      "origin": "clerk",
+      "id": "social-democratic-party-sdp"
+    },
+    {
+      "name": "The Common Man’s Party",
+      "source_url": "https://www.ec.or.ug/political-parties",
+      "origin": "clerk",
+      "id": "the-common-man-s-party"
+    },
+    {
+      "name": "Uganda Federal Alliance (UFA)",
+      "source_url": "https://www.ec.or.ug/political-parties",
+      "origin": "clerk",
+      "id": "uganda-federal-alliance-ufa"
+    },
+    {
+      "name": "Uganda Patriotic Movement (UPM)",
+      "source_url": "https://www.ec.or.ug/political-parties",
+      "origin": "clerk",
+      "id": "uganda-patriotic-movement-upm"
+    },
+    {
+      "name": "Uganda People’s Congress (UPC)",
+      "source_url": "https://www.ec.or.ug/political-parties",
+      "origin": "clerk",
+      "id": "uganda-people-s-congress-upc"
+    }
+  ],
+  "note": "Capped sample from official source."
 }

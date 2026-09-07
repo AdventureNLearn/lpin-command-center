@@ -1,7 +1,46 @@
 {
   "iso2": "is",
-  "items": [],
+  "source_url": "https://www.althingi.is/altext/xml/thingflokkar/",
+  "items": [
+    {
+      "id": "is-org-46",
+      "name": "Flokkur fólksins",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.althingi.is/altext/xml/thingflokkar/"
+    },
+    {
+      "id": "is-org-2",
+      "name": "Framsóknarflokkur",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.althingi.is/altext/xml/thingflokkar/"
+    },
+    {
+      "id": "is-org-47",
+      "name": "Miðflokkurinn",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.althingi.is/altext/xml/thingflokkar/"
+    },
+    {
+      "id": "is-org-38",
+      "name": "Samfylkingin",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.althingi.is/altext/xml/thingflokkar/"
+    },
+    {
+      "id": "is-org-35",
+      "name": "Sjálfstæðisflokkur",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.althingi.is/altext/xml/thingflokkar/"
+    },
+    {
+      "id": "is-org-45",
+      "name": "Viðreisn",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.althingi.is/altext/xml/thingflokkar/"
+    }
+  ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "origin": "crawl-merge",
+  "note": "Merged from crawl collected.orgs (official source). Cap 40. Incomplete."
 }

@@ -1,7 +1,111 @@
 {
   "iso2": "na",
-  "source_url": "https://www.wikidata.org/wiki/Q4167580",
+  "chamber": "Parliament of Namibia",
+  "source_url": "https://www.parliament.na/standing-committees/",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 10,
+  "items": [
+    {
+      "id": "standing-committee-on-constitutional-and-legal-affairs",
+      "name": "Standing Committee on Constitutional and Legal Affairs",
+      "chamber": "Parliament of Namibia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.na/standing-committees/"
+    },
+    {
+      "id": "standing-committee-on-economics-and-public-administration",
+      "name": "Standing Committee on Economics and Public Administration",
+      "chamber": "Parliament of Namibia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.na/standing-committees/"
+    },
+    {
+      "id": "standing-committee-on-natural-resources",
+      "name": "Standing Committee on Natural Resources",
+      "chamber": "Parliament of Namibia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.na/standing-committees/"
+    },
+    {
+      "id": "standing-committee-on-foreign-affairs-defence-and-security",
+      "name": "Standing Committee on Foreign Affairs, Defence and Security",
+      "chamber": "Parliament of Namibia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.na/standing-committees/"
+    },
+    {
+      "id": "standing-committee-on-gender-equality-social-development-and-family-affairs",
+      "name": "Standing Committee on Gender Equality, Social Development and Family Affairs",
+      "chamber": "Parliament of Namibia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.na/standing-committees/"
+    },
+    {
+      "id": "standing-committee-on-human-resources-and-community-development",
+      "name": "Standing Committee on Human Resources and Community Development",
+      "chamber": "Parliament of Namibia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.na/standing-committees/"
+    },
+    {
+      "id": "standing-committee-on-information-communication-technology-and-innovation",
+      "name": "Standing Committee on Information, Communication, Technology and Innovation",
+      "chamber": "Parliament of Namibia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.na/standing-committees/"
+    },
+    {
+      "id": "standing-committee-on-public-accounts",
+      "name": "Standing Committee on Public Accounts",
+      "chamber": "Parliament of Namibia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.na/standing-committees/"
+    },
+    {
+      "id": "standing-committee-on-privileges-and-immunities",
+      "name": "Standing Committee on Privileges and Immunities",
+      "chamber": "Parliament of Namibia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.na/standing-committees/"
+    },
+    {
+      "id": "standing-committee-on-standing-rules-orders-internal-arrangements",
+      "name": "Standing Committee on Standing Rules, Orders & Internal Arrangements",
+      "chamber": "Parliament of Namibia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.na/standing-committees/"
+    }
+  ],
+  "note": "National Assembly standing committees named on parliament.na standing-committees HTTP 200. Nav/function sentences dropped. Memberships not collected."
 }

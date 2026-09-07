@@ -5,6 +5,48 @@
       "id": "wikidata",
       "label": "Wikidata sitting members",
       "url": "https://www.wikidata.org/wiki/Q272930"
+    },
+    {
+      "id": "official-pledges",
+      "label": "Official party manifesto / programme",
+      "url": "https://www.socialdemokraterna.se/val-2026/valprogram",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-votes",
+      "label": "Official roll-call / division source",
+      "url": "https://data.riksdagen.se/dokumentlista/?doktyp=votering&utformat=json&sz=50",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-ethics",
+      "label": "Official MP financial-interest / disclosure register",
+      "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1996810-om-registrering-av_sfs-1996-810/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://www.riksdagen.se/sv/sa-fungerar-riksdagen/utskotten-och-eu-namnden/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-members",
+      "label": "Official sitting members hub",
+      "url": "https://www.riksdagen.se/sv/ledamoter-och-partier/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-filers",
+      "label": "Official filers",
+      "url": "https://partiinsyn.kammarkollegiet.se/PartiinsynOpenData/PartiinsynOpenData.csv",
+      "kind": "primary",
+      "basis": "Evidence"
     }
   ]
 }

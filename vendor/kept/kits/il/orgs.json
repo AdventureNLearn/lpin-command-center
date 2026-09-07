@@ -1,7 +1,105 @@
 {
   "iso2": "il",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://knesset.gov.il/Odata/ParliamentInfo.svc/KNS_Faction?$filter=KnessetNum%20eq%2025&$top=40",
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "il-faction-1095",
+      "name": "התאחדות הספרדים שומרי תורה תנועתו של מרן הרב עובדיה יוסף זצ\"ל",
+      "origin": "clerk",
+      "source_url": "https://knesset.gov.il/Odata/ParliamentInfo.svc/KNS_Faction(1095)"
+    },
+    {
+      "id": "il-faction-1096",
+      "name": "הליכוד ",
+      "origin": "clerk",
+      "source_url": "https://knesset.gov.il/Odata/ParliamentInfo.svc/KNS_Faction(1096)"
+    },
+    {
+      "id": "il-faction-1097",
+      "name": "הציונות הדתית",
+      "origin": "clerk",
+      "source_url": "https://knesset.gov.il/Odata/ParliamentInfo.svc/KNS_Faction(1097)"
+    },
+    {
+      "id": "il-faction-1098",
+      "name": "המחנה הממלכתי",
+      "origin": "clerk",
+      "source_url": "https://knesset.gov.il/Odata/ParliamentInfo.svc/KNS_Faction(1098)"
+    },
+    {
+      "id": "il-faction-1099",
+      "name": "רע\"ם",
+      "origin": "clerk",
+      "source_url": "https://knesset.gov.il/Odata/ParliamentInfo.svc/KNS_Faction(1099)"
+    },
+    {
+      "id": "il-faction-1100",
+      "name": "העבודה",
+      "origin": "clerk",
+      "source_url": "https://knesset.gov.il/Odata/ParliamentInfo.svc/KNS_Faction(1100)"
+    },
+    {
+      "id": "il-faction-1101",
+      "name": "יהדות התורה",
+      "origin": "clerk",
+      "source_url": "https://knesset.gov.il/Odata/ParliamentInfo.svc/KNS_Faction(1101)"
+    },
+    {
+      "id": "il-faction-1102",
+      "name": "יש עתיד",
+      "origin": "clerk",
+      "source_url": "https://knesset.gov.il/Odata/ParliamentInfo.svc/KNS_Faction(1102)"
+    },
+    {
+      "id": "il-faction-1103",
+      "name": "חד\"ש-תע\"ל",
+      "origin": "clerk",
+      "source_url": "https://knesset.gov.il/Odata/ParliamentInfo.svc/KNS_Faction(1103)"
+    },
+    {
+      "id": "il-faction-1104",
+      "name": "ישראל ביתנו",
+      "origin": "clerk",
+      "source_url": "https://knesset.gov.il/Odata/ParliamentInfo.svc/KNS_Faction(1104)"
+    },
+    {
+      "id": "il-faction-1105",
+      "name": "הציונות הדתית בראשות בצלאל סמוטריץ'",
+      "origin": "clerk",
+      "source_url": "https://knesset.gov.il/Odata/ParliamentInfo.svc/KNS_Faction(1105)"
+    },
+    {
+      "id": "il-faction-1106",
+      "name": "עוצמה יהודית בראשות איתמר בן גביר",
+      "origin": "clerk",
+      "source_url": "https://knesset.gov.il/Odata/ParliamentInfo.svc/KNS_Faction(1106)"
+    },
+    {
+      "id": "il-faction-1107",
+      "name": "נעם - בראשות אבי מעוז",
+      "origin": "clerk",
+      "source_url": "https://knesset.gov.il/Odata/ParliamentInfo.svc/KNS_Faction(1107)"
+    },
+    {
+      "id": "il-faction-1108",
+      "name": "הימין הממלכתי ",
+      "origin": "clerk",
+      "source_url": "https://knesset.gov.il/Odata/ParliamentInfo.svc/KNS_Faction(1108)"
+    },
+    {
+      "id": "il-faction-1109",
+      "name": "חה\"כ עידן רול",
+      "origin": "clerk",
+      "source_url": "https://knesset.gov.il/Odata/ParliamentInfo.svc/KNS_Faction(1109)"
+    },
+    {
+      "id": "il-faction-1110",
+      "name": "כחול לבן - המחנה הממלכתי",
+      "origin": "clerk",
+      "source_url": "https://knesset.gov.il/Odata/ParliamentInfo.svc/KNS_Faction(1110)"
+    }
+  ],
+  "note": "25th Knesset factions from official OData."
 }

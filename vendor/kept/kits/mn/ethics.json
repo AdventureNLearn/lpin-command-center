@@ -1,7 +1,17 @@
 {
   "iso2": "mn",
-  "items": [],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced ethics for this ISO. Not invented."
+  "note": "Public IAAC declaration classes named on the official meduuleg.iaac.mn filing-system login page (HTTP 200). Per-person filings not collected. No amounts. No PII. Deduped 1 duplicate ethics rows 2026-09-07.",
+  "source_url": "https://meduuleg.iaac.mn",
+  "items": [
+    {
+      "member_id": null,
+      "category": "хувийн ашиг сонирхлын урьдчилсан мэдүүлэг",
+      "public": true,
+      "amount_band": null,
+      "origin": "clerk",
+      "source_url": "https://meduuleg.iaac.mn"
+    }
+  ]
 }

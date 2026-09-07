@@ -1,7 +1,26 @@
 {
   "iso2": "ar",
-  "items": [],
+  "named_donors": false,
+  "unit": "ARS",
+  "sitting_total_reconstructed": 648264488.84,
+  "buckets": [
+    {
+      "label": "aporte para desenvolvimiento institucional 2025 (Fondo Partidario Permanente, all parties combined)",
+      "amount": 648264488.84
+    },
+    {
+      "label": "monto global aporte de campaña 2025 diputados nacionales",
+      "amount": 8815610700.67
+    },
+    {
+      "label": "monto global aporte de campaña 2025 senadores nacionales",
+      "amount": 4407805350.33
+    }
+  ],
   "incomplete": true,
+  "source_url": "https://www.argentina.gob.ar/normativa/nacional/norma-413135/actualizacion",
+  "extra_source_url": "https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-375-2025-417128",
+  "hub_url": "https://www.argentina.gob.ar/dine/financiamiento-publico-de-campana",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "DINE / Infoleg official HTML HTTP 200 this seat. Disposición 1/2025 printed 'monto total a distribuir en concepto de aporte para desenvolvimiento institucional para el año 2025' $ 648.264.488,84. Resolución 375/2025 printed monto global aporte de campaña elecciones legislativas 26.10.2025: diputados $ 8.815.610.700,67; senadores $ 4.407.805.350,33. sitting_total_reconstructed is the 2025 printed FPP institutional total, not a sum of campaign buckets. Per-party annex images not stored. Named private donors not collected. Harvest ISO: kit was empty (items []); written this pass."
 }

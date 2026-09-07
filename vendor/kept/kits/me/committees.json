@@ -1,7 +1,151 @@
 {
   "iso2": "me",
-  "source_url": "https://www.wikidata.org/wiki/Q1579497",
+  "chamber": "Parliament of Montenegro",
+  "source_url": "https://api.skupstina.me/media/files/1605826816-poslovnik.pdf",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 14,
+  "items": [
+    {
+      "id": "me-c-1",
+      "name": "Ustavni odbor",
+      "chamber": "Skupština",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://api.skupstina.me/media/files/1605826816-poslovnik.pdf"
+    },
+    {
+      "id": "me-c-2",
+      "name": "Zakonodavni odbor",
+      "chamber": "Skupština",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://api.skupstina.me/media/files/1605826816-poslovnik.pdf"
+    },
+    {
+      "id": "me-c-3",
+      "name": "Odbor za politički sistem, pravosuđe i upravu",
+      "chamber": "Skupština",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://api.skupstina.me/media/files/1605826816-poslovnik.pdf"
+    },
+    {
+      "id": "me-c-4",
+      "name": "Odbor za bezbjednost i odbranu",
+      "chamber": "Skupština",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://api.skupstina.me/media/files/1605826816-poslovnik.pdf"
+    },
+    {
+      "id": "me-c-5",
+      "name": "Odbor za međunarodne odnose i iseljenike",
+      "chamber": "Skupština",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://api.skupstina.me/media/files/1605826816-poslovnik.pdf"
+    },
+    {
+      "id": "me-c-6",
+      "name": "Odbor za evropske integracije",
+      "chamber": "Skupština",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://api.skupstina.me/media/files/1605826816-poslovnik.pdf"
+    },
+    {
+      "id": "me-c-7",
+      "name": "Odbor za ekonomiju, finansije i budžet",
+      "chamber": "Skupština",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://api.skupstina.me/media/files/1605826816-poslovnik.pdf"
+    },
+    {
+      "id": "me-c-8",
+      "name": "Odbor za ljudska prava i slobode",
+      "chamber": "Skupština",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://api.skupstina.me/media/files/1605826816-poslovnik.pdf"
+    },
+    {
+      "id": "me-c-9",
+      "name": "Odbor za rodnu ravnopravnost",
+      "chamber": "Skupština",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://api.skupstina.me/media/files/1605826816-poslovnik.pdf"
+    },
+    {
+      "id": "me-c-10",
+      "name": "Odbor za turizam, poljoprivredu, ekologiju i prostorno planiranje",
+      "chamber": "Skupština",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://api.skupstina.me/media/files/1605826816-poslovnik.pdf"
+    },
+    {
+      "id": "me-c-11",
+      "name": "Odbor za prosvjetu, nauku, kulturu i sport",
+      "chamber": "Skupština",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://api.skupstina.me/media/files/1605826816-poslovnik.pdf"
+    },
+    {
+      "id": "me-c-12",
+      "name": "Odbor za zdravstvo, rad i socijalno staranje",
+      "chamber": "Skupština",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://api.skupstina.me/media/files/1605826816-poslovnik.pdf"
+    },
+    {
+      "id": "me-c-13",
+      "name": "Odbor za antikorupciju",
+      "chamber": "Skupština",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://api.skupstina.me/media/files/1605826816-poslovnik.pdf"
+    },
+    {
+      "id": "me-c-14",
+      "name": "Administrativni odbor",
+      "chamber": "Skupština",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://api.skupstina.me/media/files/1605826816-poslovnik.pdf"
+    }
+  ],
+  "note": "Official Rules of Procedure PDF lists 14 standing committees. skupstina.me HTML is SPA; data.skupstina.me HTTP 200 has no committees dataset."
 }

@@ -1,6 +1,58 @@
 {
   "iso2": "se",
+  "source_url": "https://www.riksdagen.se/sv/ledamoter-partier/partierna-i-riksdagen/",
+  "items": [
+    {
+      "id": "socialdemokraterna",
+      "name": "Socialdemokraterna",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.riksdagen.se/sv/ledamoter-partier/partierna-i-riksdagen/"
+    },
+    {
+      "id": "sverigedemokraterna",
+      "name": "Sverigedemokraterna",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.riksdagen.se/sv/ledamoter-partier/partierna-i-riksdagen/"
+    },
+    {
+      "id": "moderaterna",
+      "name": "Moderaterna",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.riksdagen.se/sv/ledamoter-partier/partierna-i-riksdagen/"
+    },
+    {
+      "id": "centerpartiet",
+      "name": "Centerpartiet",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.riksdagen.se/sv/ledamoter-partier/partierna-i-riksdagen/"
+    },
+    {
+      "id": "vansterpartiet",
+      "name": "Vänsterpartiet",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.riksdagen.se/sv/ledamoter-partier/partierna-i-riksdagen/"
+    },
+    {
+      "id": "kristdemokraterna",
+      "name": "Kristdemokraterna",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.riksdagen.se/sv/ledamoter-partier/partierna-i-riksdagen/"
+    },
+    {
+      "id": "miljopartiet",
+      "name": "Miljöpartiet",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.riksdagen.se/sv/ledamoter-partier/partierna-i-riksdagen/"
+    },
+    {
+      "id": "liberalerna",
+      "name": "Liberalerna",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.riksdagen.se/sv/ledamoter-partier/partierna-i-riksdagen/"
+    }
+  ],
   "incomplete": true,
-  "items": [],
-  "note": "501/NGO rows need EIN (or national number), legal name as on the 990, subsection, filing year, https to the 990. Churches that do not file stay honest empty."
+  "retrieved": "2026-09-06",
+  "origin": "electoral-register",
+  "note": "Official party/parliamentary-group register. Cap 40. Incomplete."
 }

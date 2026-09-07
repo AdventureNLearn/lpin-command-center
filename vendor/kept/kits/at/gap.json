@@ -2,18 +2,8 @@
   "iso2": "at",
   "items": [
     {
-      "id": "votes",
-      "hole": "No sourced roll-call file.",
-      "basis": "Evidence"
-    },
-    {
       "id": "pledges",
       "hole": "No sourced quote+URL pledges.",
-      "basis": "Evidence"
-    },
-    {
-      "id": "ethics",
-      "hole": "No sourced ethics filings.",
       "basis": "Evidence"
     },
     {
@@ -22,12 +12,27 @@
       "basis": "Evidence"
     },
     {
-      "id": "committees",
-      "hole": "No sourced committee list.",
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "orgs",
+      "hole": "No sourced org list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members-overcount",
+      "hole": "Named members 1362 exceed statutory 243. Wikidata P39 includes former terms. Names not deleted without a current-term official list.",
       "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: Federal Council of Austria · National Council of Austria · Austrian Parliament. Sitting 1362. Empty objects not invented."
+  "note": "Category coverage 2026-09-06. Empty categories are holes, not zeros invented."
 }

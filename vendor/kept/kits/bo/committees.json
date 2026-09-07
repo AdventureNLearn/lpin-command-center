@@ -1,7 +1,121 @@
 {
   "iso2": "bo",
-  "source_url": "https://www.wikidata.org/wiki/Q1968458",
+  "chamber": "Plurinational Legislative Assembly",
+  "source_url": "https://diputados.gob.bo/noticias/cuantas-comisiones-que-hay-en-diputados-y-que-labor-realizan/",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 11,
+  "items": [
+    {
+      "id": "bo-cd-comm-1",
+      "name": "Comisión de Constitución, Legislación y Sistema Electoral",
+      "chamber": "Chamber of Deputies",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://diputados.gob.bo/noticias/cuantas-comisiones-que-hay-en-diputados-y-que-labor-realizan/"
+    },
+    {
+      "id": "bo-cd-comm-2",
+      "name": "Comisión de Justicia Plural, Ministerio Público y Defensa Legal del Estado",
+      "chamber": "Chamber of Deputies",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://diputados.gob.bo/noticias/cuantas-comisiones-que-hay-en-diputados-y-que-labor-realizan/"
+    },
+    {
+      "id": "bo-cd-comm-3",
+      "name": "Comisión de Planificación, Política Económica y Finanzas",
+      "chamber": "Chamber of Deputies",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://diputados.gob.bo/noticias/cuantas-comisiones-que-hay-en-diputados-y-que-labor-realizan/"
+    },
+    {
+      "id": "bo-cd-comm-4",
+      "name": "Comisión de Economía Plural, Producción e Industria",
+      "chamber": "Chamber of Deputies",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://diputados.gob.bo/noticias/cuantas-comisiones-que-hay-en-diputados-y-que-labor-realizan/"
+    },
+    {
+      "id": "bo-cd-comm-5",
+      "name": "Comisión de Organización Territorial del Estado y Autonomías",
+      "chamber": "Chamber of Deputies",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://diputados.gob.bo/noticias/cuantas-comisiones-que-hay-en-diputados-y-que-labor-realizan/"
+    },
+    {
+      "id": "bo-cd-comm-6",
+      "name": "Comisión de Naciones y Pueblos Indígena Originario Campesino, Culturas e Interculturalidad",
+      "chamber": "Chamber of Deputies",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://diputados.gob.bo/noticias/cuantas-comisiones-que-hay-en-diputados-y-que-labor-realizan/"
+    },
+    {
+      "id": "bo-cd-comm-7",
+      "name": "Comisión de Educación y Salud",
+      "chamber": "Chamber of Deputies",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://diputados.gob.bo/noticias/cuantas-comisiones-que-hay-en-diputados-y-que-labor-realizan/"
+    },
+    {
+      "id": "bo-cd-comm-8",
+      "name": "Comisión de Derechos Humanos",
+      "chamber": "Chamber of Deputies",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://diputados.gob.bo/noticias/cuantas-comisiones-que-hay-en-diputados-y-que-labor-realizan/"
+    },
+    {
+      "id": "bo-cd-comm-9",
+      "name": "Comisión de Política Social",
+      "chamber": "Chamber of Deputies",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://diputados.gob.bo/noticias/cuantas-comisiones-que-hay-en-diputados-y-que-labor-realizan/"
+    },
+    {
+      "id": "bo-cd-comm-10",
+      "name": "Comisión de Gobierno, Defensa y Fuerzas Armadas",
+      "chamber": "Chamber of Deputies",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://diputados.gob.bo/noticias/cuantas-comisiones-que-hay-en-diputados-y-que-labor-realizan/"
+    },
+    {
+      "id": "bo-cd-comm-11",
+      "name": "Comisión de Política Internacional y Protección al Migrante",
+      "chamber": "Chamber of Deputies",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://diputados.gob.bo/noticias/cuantas-comisiones-que-hay-en-diputados-y-que-labor-realizan/"
+    }
+  ],
+  "note": "Official Chamber news page lists standing commissions (stated 12). 11 names parsed from that page. 12th not collected. Not invented."
 }

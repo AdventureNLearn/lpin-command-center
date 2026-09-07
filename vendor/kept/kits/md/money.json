@@ -1,7 +1,40 @@
 {
   "iso2": "md",
-  "items": [],
+  "named_donors": false,
+  "unit": "MDL",
+  "sitting_total_reconstructed": 66603800,
+  "buckets": [
+    {
+      "label": "state budget allocation 2026 — parliamentary election performance share (30%)",
+      "amount": 19981140
+    },
+    {
+      "label": "state budget allocation 2026 — local general election performance share (30%)",
+      "amount": 19981140
+    },
+    {
+      "label": "state budget allocation 2026 — presidential election performance share (15%)",
+      "amount": 9990570
+    },
+    {
+      "label": "state budget allocation 2026 — women elected parliamentary share (7.5%)",
+      "amount": 4995285
+    },
+    {
+      "label": "state budget allocation 2026 — women elected local-election share (7.5%)",
+      "amount": 4995285
+    },
+    {
+      "label": "state budget allocation 2026 — youth elected parliamentary share (5%)",
+      "amount": 3330190
+    },
+    {
+      "label": "state budget allocation 2026 — youth elected local-election share (5%)",
+      "amount": 3330190
+    }
+  ],
   "incomplete": true,
+  "source_url": "https://a.cec.md/ro/cu-privire-la-stabilirea-cuantumului-lunar-al-alocatiilor-de-la-2751_116406.html",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "CEC decision on 2026 monthly state-budget allocations HTTP 200 via browser after harvest-UA 520 (not treated as payload). Legea bugetului de stat 322/2025 printed combined 66 603 800,0 lei for financing political parties in 2026. Source-type public-funding shares printed on the same decision: 19 981 140,0 (30% parliamentary 28.09.2025); 19 981 140,0 (30% local general 05.11.2023); 9 990 570,00 (15% presidential 20.10.2024); 4 995 285,00 twice (7.5% women parliamentary / local); 3 330 190,00 twice (5% youth parliamentary / local). Per-party annex rows not stored. Named private donors not collected. sitting_total_reconstructed is the printed combined allocation."
 }

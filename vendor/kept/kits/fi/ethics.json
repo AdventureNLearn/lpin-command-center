@@ -1,7 +1,17 @@
 {
   "iso2": "fi",
-  "items": [],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced ethics for this ISO. Not invented."
+  "note": "Public disclosure classes named in the official Eduskunta sidonnaisuudet CMS teaser (HTTP 200). Per-member annex not transcribed. No amounts. No PII. Deduped 2 duplicate ethics rows 2026-09-07.",
+  "source_url": "https://www.eduskunta.fi/fi/kansanedustajat-ja-toimielimet/tietoa-kansanedustajan-tyosta/kansanedustajien-sidonnaisuudet",
+  "items": [
+    {
+      "member_id": null,
+      "category": "selvitys sidonnaisuuksista",
+      "public": true,
+      "amount_band": null,
+      "origin": "clerk",
+      "source_url": "https://www.eduskunta.fi/fi/kansanedustajat-ja-toimielimet/tietoa-kansanedustajan-tyosta/kansanedustajien-sidonnaisuudet"
+    }
+  ]
 }

@@ -1,7 +1,100 @@
 {
   "iso2": "eg",
-  "items": [],
+  "source_url": "https://www.parliament.gov.eg/MembersDetails.aspx",
+  "items": [
+    {
+      "id": "nations-future",
+      "name": "مستقبل وطن",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.gov.eg/MembersDetails.aspx"
+    },
+    {
+      "id": "homeland-defenders",
+      "name": "حماة الوطن",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.gov.eg/MembersDetails.aspx"
+    },
+    {
+      "id": "national-front",
+      "name": "الجبهة الوطنية",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.gov.eg/MembersDetails.aspx"
+    },
+    {
+      "id": "republican-people",
+      "name": "الشعب الجمهورى",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.gov.eg/MembersDetails.aspx"
+    },
+    {
+      "id": "egyptian-social-democratic",
+      "name": "المصرى الديمقراطى الاجتماعى",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.gov.eg/MembersDetails.aspx"
+    },
+    {
+      "id": "reform-and-development",
+      "name": "الاصلاح والتنمية",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.gov.eg/MembersDetails.aspx"
+    },
+    {
+      "id": "justice",
+      "name": "العدل",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.gov.eg/MembersDetails.aspx"
+    },
+    {
+      "id": "wafd",
+      "name": "الوفد المصرى",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.gov.eg/MembersDetails.aspx"
+    },
+    {
+      "id": "al-nour",
+      "name": "النور",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.gov.eg/MembersDetails.aspx"
+    },
+    {
+      "id": "tagammu",
+      "name": "التجمع الوطنى التقدمى",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.gov.eg/MembersDetails.aspx"
+    },
+    {
+      "id": "congress",
+      "name": "المؤتمر",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.gov.eg/MembersDetails.aspx"
+    },
+    {
+      "id": "eradet-geel",
+      "name": "إرادة جيل",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.gov.eg/MembersDetails.aspx"
+    },
+    {
+      "id": "freedom",
+      "name": "الحرية المصرى",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.gov.eg/MembersDetails.aspx"
+    },
+    {
+      "id": "conservative",
+      "name": "المحافظين",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.gov.eg/MembersDetails.aspx"
+    },
+    {
+      "id": "consciousness",
+      "name": "الوعي",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.gov.eg/MembersDetails.aspx"
+    }
+  ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "origin": "parties-index",
+  "note": "Thin org list derived from official parties.json (non-wikidata). Incomplete. origin:parties-index."
 }

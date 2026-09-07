@@ -1,7 +1,58 @@
 {
   "iso2": "sc",
-  "items": [],
+  "source_url": "https://ecs.sc/registered-political-parties/",
+  "items": [
+    {
+      "id": "linyon-demokratik-seselwa-lds",
+      "name": "Linyon Demokratik Seselwa (LDS)",
+      "kind": "political-party",
+      "source_url": "https://ecs.sc/registered-political-parties/"
+    },
+    {
+      "id": "united-seychelles-us",
+      "name": "United Seychelles (US)",
+      "kind": "political-party",
+      "source_url": "https://ecs.sc/registered-political-parties/"
+    },
+    {
+      "id": "one-seychelles-os",
+      "name": "One Seychelles (OS)",
+      "kind": "political-party",
+      "source_url": "https://ecs.sc/registered-political-parties/"
+    },
+    {
+      "id": "seychelles-united-movement-sum",
+      "name": "Seychelles United Movement (SUM)",
+      "kind": "political-party",
+      "source_url": "https://ecs.sc/registered-political-parties/"
+    },
+    {
+      "id": "lalyans-nouvo-sesel-lns",
+      "name": "Lalyans Nouvo Sesel (LNS)",
+      "kind": "political-party",
+      "source_url": "https://ecs.sc/registered-political-parties/"
+    },
+    {
+      "id": "mouvman-lavwa-seselwa-mls",
+      "name": "Mouvman Lavwa Seselwa (MLS)",
+      "kind": "political-party",
+      "source_url": "https://ecs.sc/registered-political-parties/"
+    },
+    {
+      "id": "laliberte-ibt",
+      "name": "Laliberté (IBT)",
+      "kind": "political-party",
+      "source_url": "https://ecs.sc/registered-political-parties/"
+    },
+    {
+      "id": "seychelles-people-national-movement-spnm",
+      "name": "Seychelles People National Movement (SPNM)",
+      "kind": "political-party",
+      "source_url": "https://ecs.sc/registered-political-parties/"
+    }
+  ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "origin": "electoral-register",
+  "note": "ECS registered political parties. Cap 40. Incomplete."
 }

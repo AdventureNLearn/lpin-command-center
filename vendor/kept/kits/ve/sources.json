@@ -20,7 +20,8 @@
       "label": "National Assembly  of Venezuela",
       "url": "https://asambleanacionalvenezuela.org",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "note": "HTTP 200 this polish probe is unrelated commercial HTML, not the National Assembly. asambleanacional.gob.ve fetch failed. Not used. Not invented."
     },
     {
       "id": "wd-q1585014",
@@ -30,5 +31,5 @@
       "basis": "Evidence"
     }
   ],
-  "incomplete": false
+  "incomplete": true
 }

@@ -1,7 +1,19 @@
 {
   "iso2": "na",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://www.parliament.na/political-parties/",
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "na-swapo",
+      "name": "South West Africa People's Organisation (SWAPO)",
+      "source_url": "https://www.parliament.na/political-parties/"
+    },
+    {
+      "id": "na-ipc",
+      "name": "Independent Patriots for Change (IPC)",
+      "source_url": "https://www.parliament.na/political-parties/"
+    }
+  ],
+  "note": "Capped sample from official source."
 }

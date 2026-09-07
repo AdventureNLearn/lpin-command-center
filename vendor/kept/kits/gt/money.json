@@ -1,7 +1,16 @@
 {
   "iso2": "gt",
-  "items": [],
+  "named_donors": false,
+  "unit": "",
+  "buckets": [
+    {
+      "label": "public transfers from the electoral tribunal (oficio Jan–Nov 2024)",
+      "source_url": "http://tse.org.gt/images/informacion_oficio/15-A-11-2024.pdf"
+    }
+  ],
   "incomplete": true,
+  "source_url": "http://tse.org.gt/images/informacion_oficio/15-A-11-2024.pdf",
+  "extra_source_url": "https://www.tse.org.gt/",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "TSE official acceso-a-la-información oficio PDF HTTP 200 (probed 2026-09-06). Printed mixed-entity PAGADO total 15,248,214.04 quetzales includes the tribunal itself, Contraloría, IIDH, A-WEB, IFES and political organizations; that mixed total is not stored as party finance (not invented as a party-only sum). Per-organization rows not stored. Named private donors not collected. TSE homepage HTTP 200; campaign-finance tables not extracted from the HTML shell this pass."
 }

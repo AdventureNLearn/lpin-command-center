@@ -1,7 +1,99 @@
 {
   "iso2": "cl",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://www.servel.cl/partidos-politicos/partidos-constituidos/",
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "partidos-politicos",
+      "name": "Partidos Politicos",
+      "origin": "register",
+      "source_url": "https://www.servel.cl/partidos-politicos/partidos-constituidos/"
+    },
+    {
+      "id": "fecha-constitucion-partidos-politicos",
+      "name": "Fecha Constitución Partidos Políticos",
+      "origin": "register",
+      "source_url": "https://www.servel.cl/partidos-politicos/partidos-constituidos/"
+    },
+    {
+      "id": "partido-democrata-cristiano",
+      "name": "Partido Demócrata Cristiano",
+      "origin": "register",
+      "source_url": "https://www.servel.cl/partidos-politicos/partidos-constituidos/"
+    },
+    {
+      "id": "partido-por-la-democracia",
+      "name": "Partido Por la Democracia",
+      "origin": "register",
+      "source_url": "https://www.servel.cl/partidos-politicos/partidos-constituidos/"
+    },
+    {
+      "id": "partido-radical-de-chile",
+      "name": "Partido Radical de Chile",
+      "origin": "register",
+      "source_url": "https://www.servel.cl/partidos-politicos/partidos-constituidos/"
+    },
+    {
+      "id": "partido-socialista-de-chile",
+      "name": "Partido Socialista de Chile",
+      "origin": "register",
+      "source_url": "https://www.servel.cl/partidos-politicos/partidos-constituidos/"
+    },
+    {
+      "id": "federacion-regionalista-verde-social",
+      "name": "Federación Regionalista Verde Social",
+      "origin": "register",
+      "source_url": "https://www.servel.cl/partidos-politicos/partidos-constituidos/"
+    },
+    {
+      "id": "partido-liberal-de-chile",
+      "name": "Partido Liberal de Chile",
+      "origin": "register",
+      "source_url": "https://www.servel.cl/partidos-politicos/partidos-constituidos/"
+    },
+    {
+      "id": "partido-de-la-gente",
+      "name": "Partido de la Gente",
+      "origin": "register",
+      "source_url": "https://www.servel.cl/partidos-politicos/partidos-constituidos/"
+    },
+    {
+      "id": "evolucion-politica",
+      "name": "Evolución Política",
+      "origin": "register",
+      "source_url": "https://www.servel.cl/partidos-politicos/partidos-constituidos/"
+    },
+    {
+      "id": "partido-comunista-de-chile",
+      "name": "Partido Comunista de Chile",
+      "origin": "register",
+      "source_url": "https://www.servel.cl/partidos-politicos/partidos-constituidos/"
+    },
+    {
+      "id": "union-democrata-independiente",
+      "name": "Unión Demócrata Independiente",
+      "origin": "register",
+      "source_url": "https://www.servel.cl/partidos-politicos/partidos-constituidos/"
+    },
+    {
+      "id": "partido-nacional-libertario",
+      "name": "Partido Nacional Libertario",
+      "origin": "register",
+      "source_url": "https://www.servel.cl/partidos-politicos/partidos-constituidos/"
+    },
+    {
+      "id": "partido-republicano",
+      "name": "Partido Republicano",
+      "origin": "register",
+      "source_url": "https://www.servel.cl/partidos-politicos/partidos-constituidos/"
+    },
+    {
+      "id": "partido-cristiano-de-chile",
+      "name": "Partido Cristiano de Chile",
+      "origin": "register",
+      "source_url": "https://www.servel.cl/partidos-politicos/partidos-constituidos/"
+    }
+  ],
+  "note": "Capped sample from official source."
 }

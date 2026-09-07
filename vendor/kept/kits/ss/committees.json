@@ -1,7 +1,361 @@
 {
   "iso2": "ss",
-  "source_url": "https://www.wikidata.org/wiki/Q5018721",
+  "chamber": "National Legislature of South Sudan",
+  "source_url": "https://nla.gov.ss/specialized-standing-committees/",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 35,
+  "items": [
+    {
+      "id": "ss-cie-legislation",
+      "name": "Committee on Legislation and Justice",
+      "chamber": "Transitional National Legislative Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nla.gov.ss/specialized-standing-committees/"
+    },
+    {
+      "id": "ss-cie-defense",
+      "name": "Committee on Defense and Veterans Affairs",
+      "chamber": "Transitional National Legislative Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nla.gov.ss/specialized-standing-committees/"
+    },
+    {
+      "id": "ss-cie-security",
+      "name": "Committee on National Security and Public Order",
+      "chamber": "Transitional National Legislative Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nla.gov.ss/specialized-standing-committees/"
+    },
+    {
+      "id": "ss-cie-finance",
+      "name": "Committee on Finance and Economic Planning",
+      "chamber": "Transitional National Legislative Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nla.gov.ss/specialized-standing-committees/"
+    },
+    {
+      "id": "ss-cie-foreign",
+      "name": "Committee on Foreign Affairs and International Corporation",
+      "chamber": "Transitional National Legislative Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nla.gov.ss/specialized-standing-committees/"
+    },
+    {
+      "id": "ss-cie-labour",
+      "name": "Committee on Labour",
+      "chamber": "Transitional National Legislative Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nla.gov.ss/specialized-standing-committees/"
+    },
+    {
+      "id": "ss-cie-public-service",
+      "name": "Committee on Public Service and HRD",
+      "chamber": "Transitional National Legislative Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nla.gov.ss/specialized-standing-committees/"
+    },
+    {
+      "id": "ss-cie-ethics-committee",
+      "name": "Committee on Members' Affairs Ethics and Integrity",
+      "chamber": "Transitional National Legislative Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nla.gov.ss/specialized-standing-committees/"
+    },
+    {
+      "id": "ss-cie-pac",
+      "name": "Committee on Public accounts",
+      "chamber": "Transitional National Legislative Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nla.gov.ss/specialized-standing-committees/"
+    },
+    {
+      "id": "ss-cie-info",
+      "name": "Committee on Information and Broadcasting",
+      "chamber": "Transitional National Legislative Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nla.gov.ss/specialized-standing-committees/"
+    },
+    {
+      "id": "ss-cie-hr",
+      "name": "Committee on Human Rights and Humanitarian Affairs",
+      "chamber": "Transitional National Legislative Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nla.gov.ss/specialized-standing-committees/"
+    },
+    {
+      "id": "ss-cie-petroleum",
+      "name": "Committee on Petroleum",
+      "chamber": "Transitional National Legislative Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nla.gov.ss/specialized-standing-committees/"
+    },
+    {
+      "id": "ss-cie-trade",
+      "name": "Committee on Trade and Industry",
+      "chamber": "Transitional National Legislative Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nla.gov.ss/specialized-standing-committees/"
+    },
+    {
+      "id": "ss-cie-agriculture",
+      "name": "Committee on Agriculture and Food Security",
+      "chamber": "Transitional National Legislative Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nla.gov.ss/specialized-standing-committees/"
+    },
+    {
+      "id": "ss-cie-gender",
+      "name": "Committee on Gender, Child Social Welfare, and Religious Affairs",
+      "chamber": "Transitional National Legislative Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nla.gov.ss/specialized-standing-committees/"
+    },
+    {
+      "id": "ss-cie-youth",
+      "name": "Committee on Youth and Sports",
+      "chamber": "Transitional National Legislative Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nla.gov.ss/specialized-standing-committees/"
+    },
+    {
+      "id": "ss-cie-health",
+      "name": "Committee on Health and Population",
+      "chamber": "Transitional National Legislative Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nla.gov.ss/specialized-standing-committees/"
+    },
+    {
+      "id": "ss-cie-education",
+      "name": "Committee on General Education and Instruction",
+      "chamber": "Transitional National Legislative Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nla.gov.ss/specialized-standing-committees/"
+    },
+    {
+      "id": "ss-cie-land",
+      "name": "Committee on Land and Physical Infrastructure",
+      "chamber": "Transitional National Legislative Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nla.gov.ss/specialized-standing-committees/"
+    },
+    {
+      "id": "ss-cie-peace",
+      "name": "Committee on Peace and Reconciliation",
+      "chamber": "Transitional National Legislative Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nla.gov.ss/specialized-standing-committees/"
+    },
+    {
+      "id": "ss-cie-cdf",
+      "name": "Committee on Constituency Development Fund",
+      "chamber": "Transitional National Legislative Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nla.gov.ss/specialized-standing-committees/"
+    },
+    {
+      "id": "ss-cie-water",
+      "name": "Committee on Water Resources and Irrigation",
+      "chamber": "Transitional National Legislative Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nla.gov.ss/specialized-standing-committees/"
+    },
+    {
+      "id": "ss-cie-federal",
+      "name": "Committee on Federal Affairs",
+      "chamber": "Transitional National Legislative Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nla.gov.ss/specialized-standing-committees/"
+    },
+    {
+      "id": "ss-cie-assurances",
+      "name": "Committee on Govt Assurances, Monitoring and Evaluation",
+      "chamber": "Transitional National Legislative Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nla.gov.ss/specialized-standing-committees/"
+    },
+    {
+      "id": "ss-cie-eac",
+      "name": "Committee on Regional Integration and East African Community Affairs",
+      "chamber": "Transitional National Legislative Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nla.gov.ss/specialized-standing-committees/"
+    },
+    {
+      "id": "ss-cie-transport",
+      "name": "Committee on Transport",
+      "chamber": "Transitional National Legislative Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nla.gov.ss/specialized-standing-committees/"
+    },
+    {
+      "id": "ss-cie-environment",
+      "name": "Committee on Environment and Forestry",
+      "chamber": "Transitional National Legislative Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nla.gov.ss/specialized-standing-committees/"
+    },
+    {
+      "id": "ss-cie-wildlife",
+      "name": "Committee on Wildlife Conservation and Tourism",
+      "chamber": "Transitional National Legislative Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nla.gov.ss/specialized-standing-committees/"
+    },
+    {
+      "id": "ss-cie-mining",
+      "name": "Committee on Mining",
+      "chamber": "Transitional National Legislative Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nla.gov.ss/specialized-standing-committees/"
+    },
+    {
+      "id": "ss-cie-livestock",
+      "name": "Committee on Livestock and Fisheries",
+      "chamber": "Transitional National Legislative Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nla.gov.ss/specialized-standing-committees/"
+    },
+    {
+      "id": "ss-cie-investment",
+      "name": "Committee on Investment",
+      "chamber": "Transitional National Legislative Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nla.gov.ss/specialized-standing-committees/"
+    },
+    {
+      "id": "ss-cie-culture",
+      "name": "Committee on Culture, Museums and Heritage",
+      "chamber": "Transitional National Legislative Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nla.gov.ss/specialized-standing-committees/"
+    },
+    {
+      "id": "ss-cie-roads",
+      "name": "Committee on Roads and Bridges",
+      "chamber": "Transitional National Legislative Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nla.gov.ss/specialized-standing-committees/"
+    },
+    {
+      "id": "ss-cie-higher-ed",
+      "name": "Committee on Higher Education, Research Science and Technology",
+      "chamber": "Transitional National Legislative Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nla.gov.ss/specialized-standing-committees/"
+    },
+    {
+      "id": "ss-cie-energy",
+      "name": "Committee on Energy and Dams",
+      "chamber": "Transitional National Legislative Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nla.gov.ss/specialized-standing-committees/"
+    }
+  ],
+  "note": "Specialized standing committees listed by the Transitional National Legislative Assembly. Committee names only; chair names not stored."
 }

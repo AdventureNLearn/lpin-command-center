@@ -1,7 +1,51 @@
 {
   "iso2": "tm",
-  "source_url": "https://www.wikidata.org/wiki/Q106506537",
+  "chamber": "National Council of Turkmenistan",
+  "source_url": "https://mejlis.gov.tm/mejlis-committees?lang=en",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 4,
+  "items": [
+    {
+      "id": "tm-human-rights-freedoms",
+      "name": "Committee for protection of human rights and freedoms",
+      "chamber": "Mejlis",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://mejlis.gov.tm/mejlis-committees/10?lang=en"
+    },
+    {
+      "id": "tm-legislation-norms",
+      "name": "Committee for legislation and norms",
+      "chamber": "Mejlis",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://mejlis.gov.tm/mejlis-committees/9?lang=en"
+    },
+    {
+      "id": "tm-economic-issues",
+      "name": "Committee for economic issues",
+      "chamber": "Mejlis",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://mejlis.gov.tm/mejlis-committees/8?lang=en"
+    },
+    {
+      "id": "tm-social-policy",
+      "name": "Committee for social policy",
+      "chamber": "Mejlis",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://mejlis.gov.tm/mejlis-committees/7?lang=en"
+    }
+  ],
+  "note": "Official Mejlis committees page HTTP 200. Sample names collected; remainder on source."
 }

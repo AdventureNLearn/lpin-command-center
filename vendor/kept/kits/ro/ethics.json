@@ -1,7 +1,17 @@
 {
   "iso2": "ro",
-  "items": [],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced ethics for this ISO. Not invented."
+  "note": "Public ANI declaration types named on the official Declarații de avere și interese page. Staff name list not stored. No amounts. Deduped 1 duplicate ethics rows 2026-09-07.",
+  "source_url": "https://integritate.eu/interes-public/declaratii-de-avere-si-interese/",
+  "items": [
+    {
+      "member_id": null,
+      "category": "declarație de avere",
+      "public": true,
+      "amount_band": null,
+      "origin": "clerk",
+      "source_url": "https://integritate.eu/interes-public/declaratii-de-avere-si-interese/"
+    }
+  ]
 }

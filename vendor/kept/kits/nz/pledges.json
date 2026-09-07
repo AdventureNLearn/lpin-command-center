@@ -1,7 +1,33 @@
 {
   "iso2": "nz",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://www.national.org.nz/policies",
   "retrieved": "2026-09-06",
-  "note": "No sourced pledges for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "nz-p-national-taxes-e3015b",
+      "party_id": "national",
+      "quote": "National will maintain three Budget Responsibility Rules to keep debt down, get back to surplus, and keep taxes low.",
+      "issue_id": "taxes",
+      "source_url": "https://www.national.org.nz/policies",
+      "date": "2023-10-01"
+    },
+    {
+      "id": "nz-p-national-environment-4b960e",
+      "party_id": "national",
+      "quote": "National will strengthen hunter-led conservation, protect access to the outdoors, and better recognise the value of hunting and fishing to New Zealand.",
+      "issue_id": "environment",
+      "source_url": "https://www.national.org.nz/policies",
+      "date": "2023-10-01"
+    },
+    {
+      "id": "nz-p-national-crime-bcfc19",
+      "party_id": "national",
+      "quote": "National will continue to ensure there are real consequences for crime by abolishing good character assessments at sentencing for all sexual offending.",
+      "issue_id": "crime",
+      "source_url": "https://www.national.org.nz/policies",
+      "date": "2023-10-01"
+    }
+  ],
+  "note": "Quote+URL from official party policies HTML. Cap 3. Nav chrome stripped. Not invented."
 }

@@ -1,7 +1,17 @@
 {
   "iso2": "nl",
-  "items": [],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced ethics for this ISO. Not invented."
+  "note": "Public Tweede Kamer openbare registers named on the clerk page. No euro amounts stored. Per-member PDF annex not transcribed. Unique classes restored after null-member_id collapse. Deduped 3 duplicate ethics rows 2026-09-07.",
+  "source_url": "https://www.tweedekamer.nl/kamerleden_en_commissies/openbare_registers",
+  "items": [
+    {
+      "member_id": null,
+      "category": "geschenken en voordelen",
+      "public": true,
+      "amount_band": null,
+      "origin": "clerk",
+      "source_url": "https://www.tweedekamer.nl/kamerleden_en_commissies/openbare_registers"
+    }
+  ]
 }

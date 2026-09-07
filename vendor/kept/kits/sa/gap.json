@@ -22,12 +22,27 @@
       "basis": "Evidence"
     },
     {
-      "id": "committees",
-      "hole": "No sourced committee list.",
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "orgs",
+      "hole": "No sourced org list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members",
+      "hole": "Wikidata 5 are Government/MoD persons, not Consultative Assembly (Shura) sitting. shura.gov.sa fetch failed this host. Not invented.",
       "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: Government of Saudi Arabia · Ministry of Defense Saudi Arabia. Sitting 5. Empty objects not invented."
+  "note": "Category coverage 2026-09-06. Empty categories are holes, not zeros invented. Polish-iso-11 members: id/name+chamber dupes 0. Empty/official misses not invented."
 }

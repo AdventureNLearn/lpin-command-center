@@ -49,6 +49,13 @@
       "url": "https://www.wikidata.org/wiki/Q244730",
       "kind": "index",
       "basis": "Evidence"
+    },
+    {
+      "id": "official-orgs",
+      "label": "Official parties index (orgs derived)",
+      "url": "https://sansad.in/api_ls/member?loksabha=18",
+      "kind": "primary",
+      "basis": "Evidence"
     }
   ],
   "incomplete": false

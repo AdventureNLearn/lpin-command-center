@@ -1,7 +1,57 @@
 {
   "iso2": "it",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://dati.camera.it/sparql",
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "it-org-gr190",
+      "name": "MISTO (MISTO) (15.07.1946-31.01.1948)",
+      "kind": "parliamentary-group",
+      "origin": "clerk",
+      "source_url": "http://dati.camera.it/ocd/gruppoParlamentare.rdf/gr190",
+      "note": "ocd:gruppoParlamentare XIX. Not invented."
+    },
+    {
+      "id": "it-org-gr191",
+      "name": "UNIONE NAZIONALE (UN) (15.11.1947-31.01.1948)",
+      "kind": "parliamentary-group",
+      "origin": "clerk",
+      "source_url": "http://dati.camera.it/ocd/gruppoParlamentare.rdf/gr191",
+      "note": "ocd:gruppoParlamentare XIX. Not invented."
+    },
+    {
+      "id": "it-org-gr192",
+      "name": "PARTITO SOCIALISTA LAVORATORI ITALIANI (PSLI) (01.02.1947-31.01.1948)",
+      "kind": "parliamentary-group",
+      "origin": "clerk",
+      "source_url": "http://dati.camera.it/ocd/gruppoParlamentare.rdf/gr192",
+      "note": "ocd:gruppoParlamentare XIX. Not invented."
+    },
+    {
+      "id": "it-org-gr196",
+      "name": "BLOCCO NAZIONALE DELLA LIBERTA' (BNL) (15.07.1946-17.01.1947)",
+      "kind": "parliamentary-group",
+      "origin": "clerk",
+      "source_url": "http://dati.camera.it/ocd/gruppoParlamentare.rdf/gr196",
+      "note": "ocd:gruppoParlamentare XIX. Not invented."
+    },
+    {
+      "id": "it-org-gr219",
+      "name": "PARTITO SOCIALISTA DEMOCRATICO ITALIANO (PSDI) (21.07.1953-11.06.1958)",
+      "kind": "parliamentary-group",
+      "origin": "clerk",
+      "source_url": "http://dati.camera.it/ocd/gruppoParlamentare.rdf/gr219",
+      "note": "ocd:gruppoParlamentare XIX. Not invented."
+    },
+    {
+      "id": "it-org-gr419",
+      "name": "MISTO (MISTO) (15.05.1996-29.05.2001)",
+      "kind": "parliamentary-group",
+      "origin": "clerk",
+      "source_url": "http://dati.camera.it/ocd/gruppoParlamentare.rdf/gr419",
+      "note": "ocd:gruppoParlamentare XIX. Not invented."
+    }
+  ],
+  "note": "Capped sample from official source."
 }

@@ -1,7 +1,44 @@
 {
   "iso2": "pe",
-  "source_url": "https://www.wikidata.org/wiki/Q1357543",
+  "source_url": "https://www.congreso.gob.pe/senado",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "items": [
+    {
+      "id": "comision-directiva-senado",
+      "name": "Comisión Directiva",
+      "chamber": "Senate",
+      "origin": "clerk",
+      "source_url": "https://www.congreso.gob.pe/senado"
+    },
+    {
+      "id": "comision-bicameral-presupuesto-cuenta-general",
+      "name": "Comisión Bicameral de Presupuesto y Cuenta General de la República",
+      "chamber": "Senate",
+      "origin": "clerk",
+      "source_url": "https://www.congreso.gob.pe/senado"
+    },
+    {
+      "id": "comision-permanente-senado",
+      "name": "Comisión Permanente",
+      "chamber": "Senate",
+      "origin": "clerk",
+      "source_url": "https://www.congreso.gob.pe/senado"
+    },
+    {
+      "id": "comision-directiva-diputados",
+      "name": "Comisión Directiva",
+      "chamber": "Chamber of Deputies",
+      "origin": "clerk",
+      "source_url": "https://www.congreso.gob.pe/camara-de-diputados"
+    },
+    {
+      "id": "comision-permanente-diputados",
+      "name": "Comisión Permanente",
+      "chamber": "Chamber of Deputies",
+      "origin": "clerk",
+      "source_url": "https://www.congreso.gob.pe/camara-de-diputados"
+    }
+  ],
+  "note": "Capped sample from official source."
 }

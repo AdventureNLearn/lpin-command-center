@@ -1,7 +1,28 @@
 {
   "iso2": "ua",
-  "items": [],
+  "named_donors": false,
+  "buckets": [
+    {
+      "label": "Servant of the People",
+      "amount": 585434.5
+    },
+    {
+      "label": "European Solidarity",
+      "amount": 169026.3
+    },
+    {
+      "label": "Batkivshchyna",
+      "amount": 111050.9
+    }
+  ],
+  "unit": "thousand UAH",
+  "sitting_total_reconstructed": 865511.7,
   "incomplete": true,
-  "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "source_url": "https://nazk.gov.ua/uk/documents/nakaz-vid-01-01-2026-2-26-deyaki-pytannya-derzhavnogo-finansuvannya-statutnoi-diyalnosti-politychnyh-partiy-u-2026-rotsi",
+  "monitoring_url": "https://nazk.gov.ua/uk/category/monitoring-diyalnosti-nazk/",
+  "rada_csv_url": "https://data.rada.gov.ua/ogd/mps/skl9/mps09-data.csv",
+  "cvk_funds_url": "https://www.cvk.gov.ua/pls/vnd2019/wp082pt001f01=919pkindrep=2.html",
+  "nacp_stats_url": "https://public.nazk.gov.ua/documents/stats",
+  "note": "Public-finance buckets are NACP 2026 state statutory funding of parliamentary parties (order No. 2/26 of 2026-01-01, тис. грн). Official labels: Слуга народу, Європейська Солідарність, Всеукраїнське об'єднання «Батьківщина». Same three-party total on the NACP monitoring table (Разом 865511.7). Bucket sum 865511.70. Holos and banned Opposition Platform – For Life receive 0 under the same order and are not stored as buckets. Not occupation-of-donor. Not sitting-member campaign funds. Rada mps09-data.csv old_profession is free text (117 titles), not an official occupation aggregate — not classified. CEC/CVK 2019 campaign-fund XML/PDF and NACP POLITDATA name private donors and were not collected. Named private donors not collected.",
+  "retrieved": "2026-08-20"
 }

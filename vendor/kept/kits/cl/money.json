@@ -1,7 +1,28 @@
 {
   "iso2": "cl",
-  "items": [],
+  "named_donors": false,
+  "unit": "CLP",
+  "sitting_total_reconstructed": 8641856413,
+  "buckets": [
+    {
+      "label": "party contributions received 2025 (all parties combined)",
+      "amount": 8641856413
+    },
+    {
+      "label": "women political-participation item rendered 2025",
+      "amount": 812022903
+    },
+    {
+      "label": "campaign contributions presidential and parliamentary 2025",
+      "amount": 31073000000
+    },
+    {
+      "label": "media contracts presidential and parliamentary 2025",
+      "amount": 8466000000
+    }
+  ],
   "incomplete": true,
+  "source_url": "https://www.servel.cl/wp-content/uploads/2026/05/Discurso-Cuenta-Publica.pdf",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "SERVEL Cuenta Pública 2025 speech PDF HTTP 200 (probed 2026-09-06). Printed: partidos políticos recibieron aportes por un total de $ 8.641.856.413 (83% público / 17% privado — shares not stored as invented peso splits). Women-participation item: rindieron $812.022.903 (approved $522.390.239 and deducted $289.632.664 partition the rendered total and were not stored). Campaign: 16.200 aportes a campañas por $31.073 millones; 6.961 contrataciones en medios por $8.466 millones. Campaign and media buckets are election-period aggregates, not added into sitting_total_reconstructed (party-operating aportes). Named private donors not collected. centro-de-datos financiamiento path 404 this pass."
 }

@@ -1,7 +1,81 @@
 {
   "iso2": "bt",
-  "source_url": "https://www.wikidata.org/wiki/Q2080399",
+  "chamber": "Parliament of Bhutan",
+  "source_url": "https://nab.parliament.gov.bt/committees",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 7,
+  "items": [
+    {
+      "id": "bt-nab-comm-1",
+      "name": "Economic and Finance Committee",
+      "chamber": "National Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nab.parliament.gov.bt/committees"
+    },
+    {
+      "id": "bt-nab-comm-2",
+      "name": "Women, Children and Youth Committee",
+      "chamber": "National Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nab.parliament.gov.bt/committees"
+    },
+    {
+      "id": "bt-nab-comm-3",
+      "name": "Good Governance Committee",
+      "chamber": "National Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nab.parliament.gov.bt/committees"
+    },
+    {
+      "id": "bt-nab-comm-4",
+      "name": "Environment and Climate Change Committee",
+      "chamber": "National Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nab.parliament.gov.bt/committees"
+    },
+    {
+      "id": "bt-nab-comm-5",
+      "name": "Public Accounts Committee",
+      "chamber": "National Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nab.parliament.gov.bt/committees"
+    },
+    {
+      "id": "bt-nab-comm-6",
+      "name": "Human Rights and Foreign Relations Committee",
+      "chamber": "National Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nab.parliament.gov.bt/committees"
+    },
+    {
+      "id": "bt-nab-comm-7",
+      "name": "Legislative Committee",
+      "chamber": "National Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://nab.parliament.gov.bt/committees"
+    }
+  ],
+  "note": "National Assembly committees page HTTP 200. Names taken from official nab.parliament.gov.bt committee headings/news on the same host. Collected 7. Next.js list HTML not a JSON API."
 }

@@ -1,7 +1,57 @@
 {
   "iso2": "lu",
-  "items": [],
+  "source_url": "https://www.chd.lu/en/transparency-register",
+  "items": [
+    {
+      "id": "syprolux",
+      "name": "SYPROLUX - Syndicat des Professions du Transport",
+      "register": "Chamber of Deputies Transparency Register",
+      "source_url": "https://www.chd.lu/en/transparency-register"
+    },
+    {
+      "id": "fedil",
+      "name": "FEDIL - The Voice of Luxembourg's Industry ASBL",
+      "register": "Chamber of Deputies Transparency Register",
+      "source_url": "https://www.chd.lu/en/transparency-register"
+    },
+    {
+      "id": "association-luxembourgeoise-des-aides-soignants",
+      "name": "Association Luxembourgeoise des Aides-Soignants asbl",
+      "register": "Chamber of Deputies Transparency Register",
+      "source_url": "https://www.chd.lu/en/transparency-register"
+    },
+    {
+      "id": "federation-des-artisans",
+      "name": "Fédération des Artisans ASBL",
+      "register": "Chamber of Deputies Transparency Register",
+      "source_url": "https://www.chd.lu/en/transparency-register"
+    },
+    {
+      "id": "federation-des-taxis-voitures-de-location-et-ambulances",
+      "name": "Fédération des Taxis, Voitures de Location et Ambulances",
+      "register": "Chamber of Deputies Transparency Register",
+      "source_url": "https://www.chd.lu/en/transparency-register"
+    },
+    {
+      "id": "union-des-syndicats-ogbl-et-lcgb",
+      "name": "Union des syndicats OGBL et LCGB",
+      "register": "Chamber of Deputies Transparency Register",
+      "source_url": "https://www.chd.lu/en/transparency-register"
+    },
+    {
+      "id": "intersex-and-transgender-luxembourg",
+      "name": "Intersex & Transgender Luxembourg",
+      "register": "Chamber of Deputies Transparency Register",
+      "source_url": "https://www.chd.lu/en/transparency-register"
+    },
+    {
+      "id": "comite-luxembourgeois-pour-lunicef",
+      "name": "Comité luxembourgeois pour l'Unicef asbl",
+      "register": "Chamber of Deputies Transparency Register",
+      "source_url": "https://www.chd.lu/en/transparency-register"
+    }
+  ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced lobby for this ISO. Not invented."
+  "note": "Organisation names from the official Chamber Transparency Register HTML. Addresses omitted. Cap 40. Not a score."
 }

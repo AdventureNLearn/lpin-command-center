@@ -1,7 +1,70 @@
 {
   "iso2": "ru",
-  "items": [],
+  "source_url": "https://minjust.gov.ru/ru/pages/politicheskie-partii/",
+  "items": [
+    {
+      "id": "kommunisticheskaya-partiya-rossijskoj-federacii-kprf",
+      "name": "Коммунистическая партия Российской Федерации (КПРФ)",
+      "kind": "political-party",
+      "source_url": "https://minjust.gov.ru/ru/pages/politicheskie-partii/"
+    },
+    {
+      "id": "ldpr",
+      "name": "ЛДПР",
+      "kind": "political-party",
+      "source_url": "https://minjust.gov.ru/ru/pages/politicheskie-partii/"
+    },
+    {
+      "id": "spravedlivaya-rossiya",
+      "name": "Справедливая Россия",
+      "kind": "political-party",
+      "source_url": "https://minjust.gov.ru/ru/pages/politicheskie-partii/"
+    },
+    {
+      "id": "yabloko",
+      "name": "Яблоко",
+      "kind": "political-party",
+      "source_url": "https://minjust.gov.ru/ru/pages/politicheskie-partii/"
+    },
+    {
+      "id": "kommunisticheskaya-partiya-kommunisty-rossii",
+      "name": "Коммунистическая партия Коммунисты России",
+      "kind": "political-party",
+      "source_url": "https://minjust.gov.ru/ru/pages/politicheskie-partii/"
+    },
+    {
+      "id": "partiya-za-spravedlivost",
+      "name": "Партия за справедливость!",
+      "kind": "political-party",
+      "source_url": "https://minjust.gov.ru/ru/pages/politicheskie-partii/"
+    },
+    {
+      "id": "rossijskaya-partiya-svobody-i-spravedlivosti",
+      "name": "Российская партия свободы и справедливости",
+      "kind": "political-party",
+      "source_url": "https://minjust.gov.ru/ru/pages/politicheskie-partii/"
+    },
+    {
+      "id": "rossijskaya-partiya-pensionerov-za-socialnuyu-spravedlivost",
+      "name": "Российская партия пенсионеров за социальную справедливость",
+      "kind": "political-party",
+      "source_url": "https://minjust.gov.ru/ru/pages/politicheskie-partii/"
+    },
+    {
+      "id": "vserossijskaya-politicheskaya-partiya-rodina",
+      "name": "Всероссийская политическая партия «Родина»",
+      "kind": "political-party",
+      "source_url": "https://minjust.gov.ru/ru/pages/politicheskie-partii/"
+    },
+    {
+      "id": "politicheskaya-partiya-partiya-vozrozhdeniya-rossii",
+      "name": "Политическая партия «Партия Возрождения России»",
+      "kind": "political-party",
+      "source_url": "https://minjust.gov.ru/ru/pages/politicheskie-partii/"
+    }
+  ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "origin": "electoral-register",
+  "note": "Minjust political-parties page labels. Cap 40. Incomplete."
 }

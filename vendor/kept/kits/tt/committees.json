@@ -1,7 +1,111 @@
 {
   "iso2": "tt",
-  "source_url": "https://www.wikidata.org/wiki/Q7138943",
+  "chamber": "Parliament of Trinidad and Tobago",
+  "source_url": "https://www.ttparliament.org/committees/find-committees/",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 10,
+  "items": [
+    {
+      "id": "business-committee-house-of-representatives",
+      "name": "Business Committee – House of Representatives",
+      "chamber": "Parliament of Trinidad and Tobago",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.ttparliament.org/committees/find-committees/"
+    },
+    {
+      "id": "business-committee-senate",
+      "name": "Business Committee – Senate",
+      "chamber": "Parliament of Trinidad and Tobago",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.ttparliament.org/committees/find-committees/"
+    },
+    {
+      "id": "committee-of-privileges-house-of-representatives",
+      "name": "Committee of Privileges – House of Representatives",
+      "chamber": "Parliament of Trinidad and Tobago",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.ttparliament.org/committees/find-committees/"
+    },
+    {
+      "id": "committee-of-privileges-senate",
+      "name": "Committee of Privileges – Senate",
+      "chamber": "Parliament of Trinidad and Tobago",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.ttparliament.org/committees/find-committees/"
+    },
+    {
+      "id": "committee-on-government-assurances",
+      "name": "Committee on Government Assurances",
+      "chamber": "Parliament of Trinidad and Tobago",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.ttparliament.org/committees/find-committees/"
+    },
+    {
+      "id": "house-committee-house-of-representatives",
+      "name": "House Committee – House of Representatives",
+      "chamber": "Parliament of Trinidad and Tobago",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.ttparliament.org/committees/find-committees/"
+    },
+    {
+      "id": "house-committee-senate",
+      "name": "House Committee – Senate",
+      "chamber": "Parliament of Trinidad and Tobago",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.ttparliament.org/committees/find-committees/"
+    },
+    {
+      "id": "public-accounts-enterprises-committee",
+      "name": "Public Accounts (Enterprises) Committee",
+      "chamber": "Parliament of Trinidad and Tobago",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.ttparliament.org/committees/find-committees/"
+    },
+    {
+      "id": "public-accounts-committee",
+      "name": "Public Accounts Committee",
+      "chamber": "Parliament of Trinidad and Tobago",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.ttparliament.org/committees/find-committees/"
+    },
+    {
+      "id": "standing-finance-committee",
+      "name": "Standing Finance Committee",
+      "chamber": "Parliament of Trinidad and Tobago",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.ttparliament.org/committees/find-committees/"
+    }
+  ],
+  "note": "Official find-committees named bodies. Type labels dropped. Memberships not collected."
 }

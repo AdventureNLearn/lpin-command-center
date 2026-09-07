@@ -42,6 +42,41 @@
       "url": "https://www.wikidata.org/wiki/Q389423",
       "kind": "index",
       "basis": "Evidence"
+    },
+    {
+      "id": "official-votes",
+      "label": "Official roll-call / division source",
+      "url": "https://www.psp.cz/sqw/hlasovani.sqw",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://www.psp.cz/sqw/hp.sqw?k=194",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-orgs",
+      "label": "Official orgs",
+      "url": "https://aplikace.mvcr.cz/seznam-politickych-stran/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-pledges",
+      "label": "Official party manifesto / programme",
+      "url": "https://www.pirati.cz/program/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-ethics",
+      "label": "Official MP financial-interest / disclosure register",
+      "url": "https://www.psp.cz/sqw/hp.sqw?k=403",
+      "kind": "primary",
+      "basis": "Evidence"
     }
   ],
   "incomplete": false

@@ -35,6 +35,27 @@
       "url": "https://www.wikidata.org/wiki/Q1357543",
       "kind": "index",
       "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://www.congreso.gob.pe/senado",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-money",
+      "label": "Official money",
+      "url": "https://www.gob.pe/institucion/onpe/noticias/1324622-partidos-representados-en-el-actual-congreso-recibiran-ultimos-montos-del-financiamiento-publico-directo",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-orgs",
+      "label": "Official orgs",
+      "url": "https://www.gob.pe/institucion/onpe/noticias/1324622-partidos-representados-en-el-actual-congreso-recibiran-ultimos-montos-del-financiamiento-publico-directo",
+      "kind": "primary",
+      "basis": "Evidence"
     }
   ],
   "incomplete": false

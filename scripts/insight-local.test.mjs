@@ -68,3 +68,14 @@ test("useful-tool surfaces: honest counts, sourced sitting, dark fly-ask", () =>
   assert.match(roster, /constituency_label/);
   assert.match(roster, /We do not have sitting names yet/);
 });
+
+test("D-282 who sits in any kit; shrug has no municipality sample", () => {
+  const commands = readFileSync(join(ROOT, "src/lib/intel/commands.ts"), "utf8");
+  assert.match(commands, /who sits(?: in)?/);
+  const run = readFileSync(join(ROOT, "src/lib/intel/runCommand.ts"), "utf8");
+  assert.match(run, /Name a country, a state, or a layer/);
+  assert.doesNotMatch(run, /Try Tokyo/);
+  const chat = readFileSync(join(ROOT, "src/lib/feeds/chat.ts"), "utf8");
+  assert.match(chat, /196 legislature kits/);
+  assert.doesNotMatch(chat, /33-kit country/);
+});

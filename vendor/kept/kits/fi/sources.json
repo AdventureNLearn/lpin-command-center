@@ -21,6 +21,55 @@
       "url": "https://www.wikidata.org/wiki/Q643412",
       "kind": "index",
       "basis": "Evidence"
+    },
+    {
+      "id": "official-votes",
+      "label": "Official roll-call / division source",
+      "url": "https://avoindata.eduskunta.fi/api/v1/tables/SaliDBAanestys/rows?page=0&perPage=50&columnName=IstuntoVPVuosi&columnValue=2026",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-money",
+      "label": "Finnish Government 2026 party subsidies",
+      "url": "https://valtioneuvosto.fi/sv/-/partistoden-for-2026-har-beviljats",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-filers",
+      "label": "Official disclosure-filer / registrant list",
+      "url": "https://public.api.avoimuusrekisteri.fi/open-data-register-notification",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-orgs",
+      "label": "Official orgs",
+      "url": "https://vaalit.fi/en/list-of-registered-parties",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-lobby",
+      "label": "Finnish Transparency Register (Avoimuusrekisteri)",
+      "url": "https://public.api.avoimuusrekisteri.fi/open-data-register-notification",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://www.eduskunta.fi/valiokunnat",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-ethics",
+      "label": "Official MP ethics / disclosure source",
+      "url": "https://www.eduskunta.fi/fi/kansanedustajat-ja-toimielimet/tietoa-kansanedustajan-tyosta/kansanedustajien-sidonnaisuudet",
+      "kind": "primary",
+      "basis": "Evidence"
     }
   ],
   "incomplete": false

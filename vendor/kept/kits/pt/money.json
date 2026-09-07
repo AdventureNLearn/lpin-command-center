@@ -1,7 +1,19 @@
 {
   "iso2": "pt",
-  "items": [],
+  "named_donors": false,
+  "unit": "",
+  "buckets": [
+    {
+      "label": "contas anuais (annual party accounts)",
+      "source_url": "https://www.tribunalconstitucional.pt/tc/contas.html"
+    },
+    {
+      "label": "campanhas eleitorais (election campaign accounts)",
+      "source_url": "https://www.tribunalconstitucional.pt/tc/contas.html"
+    }
+  ],
   "incomplete": true,
+  "source_url": "https://www.tribunalconstitucional.pt/tc/contas.html",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "ECFP (Tribunal Constitucional Entidade das Contas e Financiamentos Políticos) portal HTTP 200. Source-type register buckets only (annual party accounts; election campaign accounts). Euro totals not extracted from the ECFP portal this pass. Named private donors not collected (ECFP does not publish donor lists to third parties). CNE.pt electoral commission also HTTP 200; accounts live at ECFP."
 }

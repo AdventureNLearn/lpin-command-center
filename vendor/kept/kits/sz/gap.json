@@ -22,12 +22,37 @@
       "basis": "Evidence"
     },
     {
-      "id": "committees",
-      "hole": "No sourced committee list.",
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "orgs",
+      "hole": "No sourced org list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members-count",
+      "hole": "Wikidata sitting 13 vs claimed_seats 100 / institutional 100.  Undercount 87. Rows not trimmed or invented.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "parties",
+      "hole": "No sourced party list from sitting caucus fields. Not invented.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-probe",
+      "hole": "Official parliament URL miss this sitting (0 fetch failed). 403/0 is a miss. Roster not collected from HTML.",
       "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: Senate of Eswatini · Parliament of Eswatini · House of Assembly of Eswatini. Sitting 13. Empty objects not invented."
+  "note": "Polish polish-iso-12 2026-09-06. Sitting 13. Dupes removed 0 (id then name+chamber). Undercount 87 vs 100. Empty categories are holes, not zeros invented."
 }

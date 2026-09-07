@@ -1,7 +1,65 @@
 {
   "iso2": "mg",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://assemblee-nationale.mg/opendata/api/groupes-parlementaires/",
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "mg-g-10",
+      "name": "FIRAISANKINA",
+      "description": "FIRAISANKINA",
+      "seats": 22,
+      "source_url": "https://assemblee-nationale.mg/opendata/api/groupes-parlementaires/"
+    },
+    {
+      "id": "mg-g-16",
+      "name": "GPIF1",
+      "description": "GPIF1",
+      "seats": 46,
+      "source_url": "https://assemblee-nationale.mg/opendata/api/groupes-parlementaires/"
+    },
+    {
+      "id": "mg-g-17",
+      "name": "GPIF2",
+      "description": "GPIF2",
+      "seats": 18,
+      "source_url": "https://assemblee-nationale.mg/opendata/api/groupes-parlementaires/"
+    },
+    {
+      "id": "mg-g-18",
+      "name": "GPIF3",
+      "description": "GPIF3",
+      "seats": 19,
+      "source_url": "https://assemblee-nationale.mg/opendata/api/groupes-parlementaires/"
+    },
+    {
+      "id": "mg-g-8",
+      "name": "GPRI",
+      "description": "GROUPEMENT PARLEMENTAIRE POUR LE RASSEMBLEMENT DES INDEPENDANTS",
+      "seats": 0,
+      "source_url": "https://assemblee-nationale.mg/opendata/api/groupes-parlementaires/"
+    },
+    {
+      "id": "mg-g-7",
+      "name": "IRMAR",
+      "description": "Isika Rehetra Miaraka amin i Andry Rajoelina",
+      "seats": 35,
+      "source_url": "https://assemblee-nationale.mg/opendata/api/groupes-parlementaires/"
+    },
+    {
+      "id": "mg-g-9",
+      "name": "Non_Affilié",
+      "description": "non affilié",
+      "seats": 23,
+      "source_url": "https://assemblee-nationale.mg/opendata/api/groupes-parlementaires/"
+    },
+    {
+      "id": "mg-g-6",
+      "name": "UPAD",
+      "description": "UNION PARLEMENTAIRE POUR LA DEMOCRATIE",
+      "seats": 0,
+      "source_url": "https://assemblee-nationale.mg/opendata/api/groupes-parlementaires/"
+    }
+  ],
+  "note": "Capped sample from official source."
 }

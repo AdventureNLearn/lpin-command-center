@@ -1,7 +1,410 @@
 {
   "iso2": "at",
-  "items": [],
-  "incomplete": true,
+  "chamber": "Austrian Parliament",
+  "session": "",
+  "source_url": "https://www.parlament.gv.at/Filter/api/filter/data/101",
   "retrieved": "2026-09-06",
-  "note": "No sourced votes for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "at-XXVIII-BNR-69",
+      "date": "2025-10-15",
+      "title": "Universitätsgesetz 2002",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/69"
+    },
+    {
+      "id": "at-XXVIII-BNR-15",
+      "date": "2025-03-07",
+      "title": "Allgemeines bürgerliches Gesetzbuch, Mietrechtsgesetz u.a.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/15"
+    },
+    {
+      "id": "at-XXVIII-BNR-70",
+      "date": "2025-10-15",
+      "title": "Erneuerbaren-Ausbau-Gesetz und Ökostromgesetz 2012",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/70"
+    },
+    {
+      "id": "at-XXVIII-BNR-79",
+      "date": "2025-10-16",
+      "title": "Allgemeines Sozialversicherungsgesetz und Arbeitsvertragsrechts-Anpassungsgesetz",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/79"
+    },
+    {
+      "id": "at-XXVIII-BNR-64",
+      "date": "2025-09-24",
+      "title": "ORF-Gesetz",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/64"
+    },
+    {
+      "id": "at-XXVIII-BNR-78",
+      "date": "2025-10-16",
+      "title": "Allgemeine bürgerliche Gesetzbuch, Arbeitsverfassungsgesetz und Landarbeitsgesetz 2021",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/78"
+    },
+    {
+      "id": "at-XXVIII-BNR-82",
+      "date": "2025-10-16",
+      "title": "Niederlassungs- und Aufenthaltsgesetz und Ausländerbeschäftigungsgesetz",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/82"
+    },
+    {
+      "id": "at-XXVIII-BNR-77",
+      "date": "2025-10-15",
+      "title": "Einkommensteuergesetz 1988",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/77"
+    },
+    {
+      "id": "at-XXVIII-BNR-65",
+      "date": "2025-09-24",
+      "title": "ORF-Beitrags-Gesetz 2024",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/65"
+    },
+    {
+      "id": "at-XXVIII-BNR-81",
+      "date": "2025-10-16",
+      "title": "Einkommensteuergesetz 1988 und Arbeitslosenversicherungsgesetz 1977",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/81"
+    },
+    {
+      "id": "at-XXVIII-BNR-74",
+      "date": "2025-10-15",
+      "title": "Bundesvergabegesetz 2018",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/74"
+    },
+    {
+      "id": "at-XXVIII-BNR-76",
+      "date": "2025-10-15",
+      "title": "Familienlastenausgleichsgesetz 1967 und Kinderbetreuungsgeldgesetz",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/76"
+    },
+    {
+      "id": "at-XXVIII-BNR-63",
+      "date": "2025-09-24",
+      "title": "Waffengesetz 1996",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/63"
+    },
+    {
+      "id": "at-XXVIII-BNR-67",
+      "date": "2025-09-24",
+      "title": "Resilienz kritischer Einrichtungen-Gesetz – RKEG und Tilgungsgesetz 1972",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/67"
+    },
+    {
+      "id": "at-XXVIII-BNR-68",
+      "date": "2025-09-24",
+      "title": "Bundesrechnungsabschluss für das Jahr 2024",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/68"
+    },
+    {
+      "id": "at-XXVIII-BNR-75",
+      "date": "2025-10-15",
+      "title": "Strafrechtliches EU-Anpassungsgesetz 2025 – StrEU-AG 2025",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/75"
+    },
+    {
+      "id": "at-XXVIII-BNR-80",
+      "date": "2025-10-16",
+      "title": "Arbeitsmarktservicegesetz, Arbeitsmarktpolitik-Finanzierungsgesetz, Arbeitsvertragsrechts-Anpassungsgesetz und Landarbeitsgesetz 2021",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/80"
+    },
+    {
+      "id": "at-XXVIII-BNR-66",
+      "date": "2025-09-24",
+      "title": "Pyrotechnikgesetz 2010 und Schusswaffenkennzeichnungsgesetz",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/66"
+    },
+    {
+      "id": "at-XXVIII-BNR-71",
+      "date": "2025-10-15",
+      "title": "Stromkosten-Ausgleichsgesetz 2025 – SAG 2025",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/71"
+    },
+    {
+      "id": "at-XXVIII-BNR-84",
+      "date": "2025-10-16",
+      "title": "Allgemeines Sozialversicherungsgesetz",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/84"
+    },
+    {
+      "id": "at-XXVIII-BNR-85",
+      "date": "2025-10-16",
+      "title": "Gesundheitstelematikgesetz 2012 und Allgemeines Sozialversicherungsgesetz",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/85"
+    },
+    {
+      "id": "at-XXVIII-BNR-83",
+      "date": "2025-10-16",
+      "title": "Pensionsanpassungsgesetz 2026 – PAG 2026",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/83"
+    },
+    {
+      "id": "at-XXVIII-BNR-72",
+      "date": "2025-10-15",
+      "title": "GewO-EU-Finanzberufsverordnungen Novelle 2025",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/72"
+    },
+    {
+      "id": "at-XXVIII-BNR-5",
+      "date": "2024-12-11",
+      "title": "Zweckzuschuss anlässlich der Hochwasserkatastrophe",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/5"
+    },
+    {
+      "id": "at-XXVIII-BNR-178",
+      "date": "2026-07-07",
+      "title": "Pflichtschulabschluss-Prüfungs-Gesetz, Schulorganisationsgesetz und das Schulunterrichtsgesetz",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/178"
+    },
+    {
+      "id": "at-XXVIII-BNR-184",
+      "date": "2026-07-07",
+      "title": "Bundesgesetz gegen den unlauteren Wettbewerb 1984",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/184"
+    },
+    {
+      "id": "at-XXVIII-BNR-175",
+      "date": "2026-07-06",
+      "title": "Einspruch der Republik Österreich gegen den Beitritt der Demokratischen Volksrepublik Algerien zum Übereinkommen zur Befreiung ausländischer öffentlicher Urkunden von der Beglaubigung",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/175"
+    },
+    {
+      "id": "at-XXVIII-BNR-183",
+      "date": "2026-07-07",
+      "title": "Zahnärztequalitätssicherungsgesetz 2026",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/183"
+    },
+    {
+      "id": "at-XXVIII-BNR-179",
+      "date": "2026-07-07",
+      "title": "Alternative Investmentfonds Manager-Gesetz, Immobilien-Investmentfondsgesetz, Investmentfondsgesetz 2011, u.a.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/179"
+    },
+    {
+      "id": "at-XXVIII-BNR-4",
+      "date": "2024-12-11",
+      "title": "Bundesgesetz, mit dem das Bundeshaushaltsgesetz 2013 geändert wird",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/4"
+    },
+    {
+      "id": "at-XXVIII-BNR-196",
+      "date": "2026-07-08",
+      "title": "Bundesbezügegesetz",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/196"
+    },
+    {
+      "id": "at-XXVIII-BNR-189",
+      "date": "2026-07-07",
+      "title": "Tabak- und Nichtraucherinnen- bzw. Nichtraucherschutzgesetz – TNRSG",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/189"
+    },
+    {
+      "id": "at-XXVIII-BNR-176",
+      "date": "2026-07-06",
+      "title": "42. KFG-Novelle",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/176"
+    },
+    {
+      "id": "at-XXVIII-BNR-188",
+      "date": "2026-07-06",
+      "title": "Luftfahrtgesetz",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/188"
+    },
+    {
+      "id": "at-XXVIII-BNR-7",
+      "date": "2024-12-11",
+      "title": "Bundesbezügegesetz",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/7"
+    },
+    {
+      "id": "at-XXVIII-BNR-200",
+      "date": "2026-07-08",
+      "title": "Begründung von Vorbelastungen durch den Bundesminister für Innovation, Mobilität und Infrastruktur",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/200"
+    },
+    {
+      "id": "at-XXVIII-BNR-201",
+      "date": "2026-07-10",
+      "title": "Bundesfinanzrahmengesetz 2027 bis 2030 und Bundesfinanzrahmengesetz 2028 bis 2031",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/201"
+    },
+    {
+      "id": "at-XXVIII-BNR-198",
+      "date": "2026-07-08",
+      "title": "Budgetbegleitgesetz 2027-2028",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/198"
+    },
+    {
+      "id": "at-XXVIII-BNR-191",
+      "date": "2026-07-07",
+      "title": "Verbraucherrechts-Änderungsgesetz 2026 – VerbRÄG 2026",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/191"
+    },
+    {
+      "id": "at-XXVIII-BNR-199",
+      "date": "2026-07-08",
+      "title": "Dienstgeberabgabegesetz",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/199"
+    },
+    {
+      "id": "at-XXVIII-BNR-187",
+      "date": "2026-07-07",
+      "title": "Arbeitsvertragsrechts-Anpassungsgesetz, Bauarbeiter-Urlaubs- und Abfertigungsgesetz u.a.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/187"
+    },
+    {
+      "id": "at-XXVIII-BNR-185",
+      "date": "2026-07-07",
+      "title": "Volksgruppengesetz und Gerichtsorganisationsgesetz",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/185"
+    },
+    {
+      "id": "at-XXVIII-BNR-73",
+      "date": "2025-10-15",
+      "title": "Erwachsenenschutz-Anpassungsgesetz 2025 - ErwSchAG 2025",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/73"
+    },
+    {
+      "id": "at-XXVIII-BNR-192",
+      "date": "2026-07-07",
+      "title": "Sterbeverfügungsgesetz-Novelle 2026 – StVfG-Nov 2026",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/192"
+    },
+    {
+      "id": "at-XXVIII-BNR-186",
+      "date": "2026-07-07",
+      "title": "Richter- und Staatsanwaltschaftsdienstgesetz und das Arbeits- und Sozialgerichtsgesetz",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/186"
+    },
+    {
+      "id": "at-XXVIII-BNR-180",
+      "date": "2026-07-07",
+      "title": "Protokoll zur Abänderung des am 14. Juni 2000 in Taschkent unterzeichneten Abkommens zwischen der Republik Österreich und der Republik Usbekistan",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/180"
+    },
+    {
+      "id": "at-XXVIII-BNR-8",
+      "date": "2024-12-11",
+      "title": "Strafprozessrechtsänderungsgesetz 2024",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/8"
+    },
+    {
+      "id": "at-XXVIII-BNR-6",
+      "date": "2024-12-11",
+      "title": "2. Dienstrechts-Novelle 2024",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/6"
+    },
+    {
+      "id": "at-XXVIII-BNR-177",
+      "date": "2026-07-06",
+      "title": "Bundesstraßengesetz 1971",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/177"
+    },
+    {
+      "id": "at-XXVIII-BNR-195",
+      "date": "2026-07-07",
+      "title": "Warenreparaturrichtlinie-Umsetzungsgesetz – WaRUG",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/gegenstand/XXVIII/BNR/195"
+    }
+  ]
 }

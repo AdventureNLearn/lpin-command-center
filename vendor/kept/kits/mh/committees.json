@@ -1,7 +1,21 @@
 {
   "iso2": "mh",
-  "source_url": "https://www.wikidata.org/wiki/Q1280186",
+  "chamber": "Legislature of the Marshall Islands",
+  "source_url": "https://rmiparliament.org/cms/index.php/committees",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 1,
+  "items": [
+    {
+      "id": "mh-c-appropriations",
+      "name": "Appropriations Committee",
+      "chamber": "Nitijela",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://rmiparliament.org/cms/?view=category&id=87"
+    }
+  ],
+  "note": "Official committees index HTTP 200. Named standing committee collected from homepage category: Appropriations Committee (category id=87 HTTP 200). Other standing names not listed as collectable rows on the index."
 }

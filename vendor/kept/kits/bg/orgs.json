@@ -1,6 +1,63 @@
 {
   "iso2": "bg",
+  "source_url": "https://www.parliament.bg/api/v1/coll-list/bg/2",
+  "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": [],
-  "note": "501/NGO rows need EIN (or national number), legal name as on the 990, subsection, filing year, https to the 990. Churches that do not file stay honest empty."
+  "items": [
+    {
+      "id": "bg-pg-3763",
+      "name": "Парламентарна група \"Прогресивна България\"",
+      "seats": 131,
+      "kind": "parliamentary-group",
+      "chamber": "National Assembly",
+      "source_url": "https://www.parliament.bg/api/v1/coll-list/bg/2",
+      "origin": "official-api"
+    },
+    {
+      "id": "bg-pg-3764",
+      "name": "Парламентарна група на \"ГЕРБ – СДС\"",
+      "seats": 39,
+      "kind": "parliamentary-group",
+      "chamber": "National Assembly",
+      "source_url": "https://www.parliament.bg/api/v1/coll-list/bg/2",
+      "origin": "official-api"
+    },
+    {
+      "id": "bg-pg-3766",
+      "name": "Парламентарна група \"Движение за права и свободи – ДПС\"",
+      "seats": 21,
+      "kind": "parliamentary-group",
+      "chamber": "National Assembly",
+      "source_url": "https://www.parliament.bg/api/v1/coll-list/bg/2",
+      "origin": "official-api"
+    },
+    {
+      "id": "bg-pg-3767",
+      "name": "Парламентарна група \"Демократична България\"",
+      "seats": 21,
+      "kind": "parliamentary-group",
+      "chamber": "National Assembly",
+      "source_url": "https://www.parliament.bg/api/v1/coll-list/bg/2",
+      "origin": "official-api"
+    },
+    {
+      "id": "bg-pg-3765",
+      "name": "Парламентарна група \"Продължаваме Промяната\"",
+      "seats": 16,
+      "kind": "parliamentary-group",
+      "chamber": "National Assembly",
+      "source_url": "https://www.parliament.bg/api/v1/coll-list/bg/2",
+      "origin": "official-api"
+    },
+    {
+      "id": "bg-pg-3768",
+      "name": "Парламентарна група \"ВЪЗРАЖДАНЕ\"",
+      "seats": 12,
+      "kind": "parliamentary-group",
+      "chamber": "National Assembly",
+      "source_url": "https://www.parliament.bg/api/v1/coll-list/bg/2",
+      "origin": "official-api"
+    }
+  ],
+  "note": "Capped sample from official source."
 }

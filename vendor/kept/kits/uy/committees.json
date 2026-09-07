@@ -1,7 +1,331 @@
 {
   "iso2": "uy",
-  "source_url": "https://www.wikidata.org/wiki/Q1501988",
+  "chamber": "General Assembly of Uruguay",
+  "source_url": "https://catalogodatos.gub.uy/dataset/parlamento-del-uruguay-comisiones-de-la-camara-de-senadores",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 32,
+  "items": [
+    {
+      "id": "uy-354",
+      "name": "AMBIENTE",
+      "chamber": "Cámara de Senadores",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://catalogodatos.gub.uy/api/3/action/datastore_search?resource_id=bdcd140f-7dac-4ad8-aed0-fdf856393893&limit=400"
+    },
+    {
+      "id": "uy-331",
+      "name": "ASUNTOS ADMINISTRATIVOS",
+      "chamber": "Cámara de Senadores",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://catalogodatos.gub.uy/api/3/action/datastore_search?resource_id=bdcd140f-7dac-4ad8-aed0-fdf856393893&limit=400"
+    },
+    {
+      "id": "uy-312",
+      "name": "ASUNTOS INTERNACIONALES",
+      "chamber": "Cámara de Senadores",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://catalogodatos.gub.uy/api/3/action/datastore_search?resource_id=bdcd140f-7dac-4ad8-aed0-fdf856393893&limit=400"
+    },
+    {
+      "id": "uy-314",
+      "name": "ASUNTOS LABORALES Y SEGURIDAD SOCIAL",
+      "chamber": "Cámara de Senadores",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://catalogodatos.gub.uy/api/3/action/datastore_search?resource_id=bdcd140f-7dac-4ad8-aed0-fdf856393893&limit=400"
+    },
+    {
+      "id": "uy-826",
+      "name": "CIENCIA, INNOVACIÓN Y TECNOLOGÍA",
+      "chamber": "Cámara de Senadores",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://catalogodatos.gub.uy/api/3/action/datastore_search?resource_id=bdcd140f-7dac-4ad8-aed0-fdf856393893&limit=400"
+    },
+    {
+      "id": "uy-311",
+      "name": "CONSTITUCIÓN Y LEGISLACIÓN",
+      "chamber": "Cámara de Senadores",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://catalogodatos.gub.uy/api/3/action/datastore_search?resource_id=bdcd140f-7dac-4ad8-aed0-fdf856393893&limit=400"
+    },
+    {
+      "id": "uy-321",
+      "name": "DEFENSA NACIONAL",
+      "chamber": "Cámara de Senadores",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://catalogodatos.gub.uy/api/3/action/datastore_search?resource_id=bdcd140f-7dac-4ad8-aed0-fdf856393893&limit=400"
+    },
+    {
+      "id": "uy-1189",
+      "name": "DERECHOS HUMANOS Y EQUIDAD DE GÉNERO",
+      "chamber": "Cámara de Senadores",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://catalogodatos.gub.uy/api/3/action/datastore_search?resource_id=bdcd140f-7dac-4ad8-aed0-fdf856393893&limit=400"
+    },
+    {
+      "id": "uy-317",
+      "name": "EDUCACIÓN Y CULTURA",
+      "chamber": "Cámara de Senadores",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://catalogodatos.gub.uy/api/3/action/datastore_search?resource_id=bdcd140f-7dac-4ad8-aed0-fdf856393893&limit=400"
+    },
+    {
+      "id": "uy-336",
+      "name": "GANADERÍA, AGRICULTURA Y PESCA",
+      "chamber": "Cámara de Senadores",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://catalogodatos.gub.uy/api/3/action/datastore_search?resource_id=bdcd140f-7dac-4ad8-aed0-fdf856393893&limit=400"
+    },
+    {
+      "id": "uy-315",
+      "name": "HACIENDA",
+      "chamber": "Cámara de Senadores",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://catalogodatos.gub.uy/api/3/action/datastore_search?resource_id=bdcd140f-7dac-4ad8-aed0-fdf856393893&limit=400"
+    },
+    {
+      "id": "uy-945",
+      "name": "INDUSTRIA, ENERGÍA, COMERCIO, TURISMO Y SERVICIOS",
+      "chamber": "Cámara de Senadores",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://catalogodatos.gub.uy/api/3/action/datastore_search?resource_id=bdcd140f-7dac-4ad8-aed0-fdf856393893&limit=400"
+    },
+    {
+      "id": "uy-927",
+      "name": "POBLACIÓN, DESARROLLO E INCLUSIÓN",
+      "chamber": "Cámara de Senadores",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://catalogodatos.gub.uy/api/3/action/datastore_search?resource_id=bdcd140f-7dac-4ad8-aed0-fdf856393893&limit=400"
+    },
+    {
+      "id": "uy-322",
+      "name": "PRESUPUESTO",
+      "chamber": "Cámara de Senadores",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://catalogodatos.gub.uy/api/3/action/datastore_search?resource_id=bdcd140f-7dac-4ad8-aed0-fdf856393893&limit=400"
+    },
+    {
+      "id": "uy-347",
+      "name": "SALUD PÚBLICA",
+      "chamber": "Cámara de Senadores",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://catalogodatos.gub.uy/api/3/action/datastore_search?resource_id=bdcd140f-7dac-4ad8-aed0-fdf856393893&limit=400"
+    },
+    {
+      "id": "uy-324",
+      "name": "TRANSPORTE Y OBRAS PÚBLICAS",
+      "chamber": "Cámara de Senadores",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://catalogodatos.gub.uy/api/3/action/datastore_search?resource_id=bdcd140f-7dac-4ad8-aed0-fdf856393893&limit=400"
+    },
+    {
+      "id": "uy-418",
+      "name": "VIVIENDA Y ORDENAMIENTO TERRITORIAL",
+      "chamber": "Cámara de Senadores",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://catalogodatos.gub.uy/api/3/action/datastore_search?resource_id=bdcd140f-7dac-4ad8-aed0-fdf856393893&limit=400"
+    },
+    {
+      "id": "uy-73",
+      "name": "ASUNTOS INTERNACIONALES",
+      "chamber": "Cámara de Representantes",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://catalogodatos.gub.uy/api/3/action/datastore_search?resource_id=a2ed57c7-d2bd-4ee3-9fd7-863fcc7e81d1&limit=400"
+    },
+    {
+      "id": "uy-74",
+      "name": "ASUNTOS INTERNOS",
+      "chamber": "Cámara de Representantes",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://catalogodatos.gub.uy/api/3/action/datastore_search?resource_id=a2ed57c7-d2bd-4ee3-9fd7-863fcc7e81d1&limit=400"
+    },
+    {
+      "id": "uy-75",
+      "name": "CONSTITUCIÓN, CÓDIGOS, LEGISLACIÓN GENERAL Y ADMINISTRACIÓN",
+      "chamber": "Cámara de Representantes",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://catalogodatos.gub.uy/api/3/action/datastore_search?resource_id=a2ed57c7-d2bd-4ee3-9fd7-863fcc7e81d1&limit=400"
+    },
+    {
+      "id": "uy-76",
+      "name": "DEFENSA NACIONAL",
+      "chamber": "Cámara de Representantes",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://catalogodatos.gub.uy/api/3/action/datastore_search?resource_id=a2ed57c7-d2bd-4ee3-9fd7-863fcc7e81d1&limit=400"
+    },
+    {
+      "id": "uy-210",
+      "name": "DERECHOS HUMANOS",
+      "chamber": "Cámara de Representantes",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://catalogodatos.gub.uy/api/3/action/datastore_search?resource_id=a2ed57c7-d2bd-4ee3-9fd7-863fcc7e81d1&limit=400"
+    },
+    {
+      "id": "uy-211",
+      "name": "EDUCACIÓN Y CULTURA",
+      "chamber": "Cámara de Representantes",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://catalogodatos.gub.uy/api/3/action/datastore_search?resource_id=a2ed57c7-d2bd-4ee3-9fd7-863fcc7e81d1&limit=400"
+    },
+    {
+      "id": "uy-212",
+      "name": "GANADERIA, AGRICULTURA Y PESCA",
+      "chamber": "Cámara de Representantes",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://catalogodatos.gub.uy/api/3/action/datastore_search?resource_id=a2ed57c7-d2bd-4ee3-9fd7-863fcc7e81d1&limit=400"
+    },
+    {
+      "id": "uy-78",
+      "name": "HACIENDA",
+      "chamber": "Cámara de Representantes",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://catalogodatos.gub.uy/api/3/action/datastore_search?resource_id=a2ed57c7-d2bd-4ee3-9fd7-863fcc7e81d1&limit=400"
+    },
+    {
+      "id": "uy-824",
+      "name": "INDUSTRIA, ENERGÍA Y MINERÍA",
+      "chamber": "Cámara de Representantes",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://catalogodatos.gub.uy/api/3/action/datastore_search?resource_id=a2ed57c7-d2bd-4ee3-9fd7-863fcc7e81d1&limit=400"
+    },
+    {
+      "id": "uy-1171",
+      "name": "LEGISLACIÓN DEL TRABAJO Y SEGURIDAD SOCIAL",
+      "chamber": "Cámara de Representantes",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://catalogodatos.gub.uy/api/3/action/datastore_search?resource_id=a2ed57c7-d2bd-4ee3-9fd7-863fcc7e81d1&limit=400"
+    },
+    {
+      "id": "uy-84",
+      "name": "PRESUPUESTOS",
+      "chamber": "Cámara de Representantes",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://catalogodatos.gub.uy/api/3/action/datastore_search?resource_id=a2ed57c7-d2bd-4ee3-9fd7-863fcc7e81d1&limit=400"
+    },
+    {
+      "id": "uy-218",
+      "name": "SALUD PÚBLICA Y ASISTENCIA SOCIAL",
+      "chamber": "Cámara de Representantes",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://catalogodatos.gub.uy/api/3/action/datastore_search?resource_id=a2ed57c7-d2bd-4ee3-9fd7-863fcc7e81d1&limit=400"
+    },
+    {
+      "id": "uy-220",
+      "name": "TRANSPORTE, COMUNICACIONES Y OBRAS PÚBLICAS",
+      "chamber": "Cámara de Representantes",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://catalogodatos.gub.uy/api/3/action/datastore_search?resource_id=a2ed57c7-d2bd-4ee3-9fd7-863fcc7e81d1&limit=400"
+    },
+    {
+      "id": "uy-823",
+      "name": "TURISMO",
+      "chamber": "Cámara de Representantes",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://catalogodatos.gub.uy/api/3/action/datastore_search?resource_id=a2ed57c7-d2bd-4ee3-9fd7-863fcc7e81d1&limit=400"
+    },
+    {
+      "id": "uy-65",
+      "name": "VIVIENDA Y TERRITORIO",
+      "chamber": "Cámara de Representantes",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://catalogodatos.gub.uy/api/3/action/datastore_search?resource_id=a2ed57c7-d2bd-4ee3-9fd7-863fcc7e81d1&limit=400"
+    }
+  ],
+  "note": "CKAN datastore HTTP 200. Current Tipo=Permanente and Cese empty only (Senate 17, Deputies 15, cap 80). Historical integrada/ceased rows dropped. parlamento.gub.uy 403 hunt-stop. Memberships not collected."
 }

@@ -1,7 +1,338 @@
 {
   "iso2": "ch",
-  "items": [],
-  "incomplete": true,
+  "chamber": "Federal Assembly of Switzerland",
+  "session": "Session d'hiver 2023",
+  "source_url": "https://ws.parlament.ch/odata.svc/Vote?$top=50&$format=json&$filter=Language%20eq%20'EN'",
   "retrieved": "2026-09-06",
-  "note": "No sourced votes for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "ch-vote-1",
+      "date": "2003-12-01",
+      "title": "03.054 — Fondation Bibliomedia. Aide financière 2004-2007 — Gesamtabstimmung",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=1,Language='EN')"
+    },
+    {
+      "id": "ch-vote-4",
+      "date": "2003-12-01",
+      "title": "03.055 — Musée suisse des transports. Aide financière 2004-2007 — Vote sur l'ensemble",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=4,Language='EN')"
+    },
+    {
+      "id": "ch-vote-6",
+      "date": "2003-12-01",
+      "title": "03.045 — EPF. Mandat de prestations pour les années 2004-2007 — Vote sur l'ensemble",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=6,Language='EN')"
+    },
+    {
+      "id": "ch-vote-8",
+      "date": "2003-12-02",
+      "title": "02.432 — Maintien du secret bancaire",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=8,Language='EN')"
+    },
+    {
+      "id": "ch-vote-10",
+      "date": "2003-12-02",
+      "title": "01.044 — Signature électronique. Loi — 1. Zivilgesetzbuch Art. 970a",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=10,Language='EN')"
+    },
+    {
+      "id": "ch-vote-13",
+      "date": "2003-12-02",
+      "title": "01.064 — Partage des valeurs patrimoniales confisquées. Loi fédérale",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=13,Language='EN')"
+    },
+    {
+      "id": "ch-vote-15",
+      "date": "2003-12-02",
+      "title": "01.064 — Partage des valeurs patrimoniales confisquées. Loi fédérale — Gesamtabstimmung",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=15,Language='EN')"
+    },
+    {
+      "id": "ch-vote-16",
+      "date": "2003-12-02",
+      "title": "02.090 — Partenariat enregistré entre personnes du même sexe. Loi fédérale — Eintreten",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=16,Language='EN')"
+    },
+    {
+      "id": "ch-vote-26",
+      "date": "2004-06-18",
+      "title": "02.090 — Partenariat enregistré entre personnes du même sexe. Loi fédérale — Vote final",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=26,Language='EN')"
+    },
+    {
+      "id": "ch-vote-28",
+      "date": "2003-12-03",
+      "title": "02.090 — Partenariat enregistré entre personnes du même sexe. Loi fédérale — Vote sur l'ensemble",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=28,Language='EN')"
+    },
+    {
+      "id": "ch-vote-33",
+      "date": "2003-12-03",
+      "title": "02.035 — Transfèrement des personnes condamnées. Modification de la loi sur l'entraide pénale — Vote sur l'ensemble",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=33,Language='EN')"
+    },
+    {
+      "id": "ch-vote-35",
+      "date": "2003-12-03",
+      "title": "03.025 — Entraide judiciaire en matière pénale. Deuxième protocole additionnel à la Convention européenne — Vote sur l'ensemble",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=35,Language='EN')"
+    },
+    {
+      "id": "ch-vote-36",
+      "date": "2003-12-03",
+      "title": "00.405 — LP. Protection des acquéreurs de bonne foi — Vote sur l'ensemble",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=36,Language='EN')"
+    },
+    {
+      "id": "ch-vote-43",
+      "date": "2003-12-03",
+      "title": "03.047 — Programme d'allégement 2003 du budget de la Confédération — 7. BG über Massnahmen zur Verbesserung des Bundeshaushaltes Art. 4a",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=43,Language='EN')"
+    },
+    {
+      "id": "ch-vote-46",
+      "date": "2003-12-04",
+      "title": "03.047 — Programme d'allégement 2003 du budget de la Confédération — 23. Einlagen in den Fonds für Eisenbahngrossprojekte",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=46,Language='EN')"
+    },
+    {
+      "id": "ch-vote-47",
+      "date": "2003-12-09",
+      "title": "03.047 — Programme d'allégement 2003 du budget de la Confédération — 7. BG über Massnahmen zur Verbesserung des Bundeshaushaltes Art. 4a Zfr. 8 Bildung, Forschung und Technologie",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=47,Language='EN')"
+    },
+    {
+      "id": "ch-vote-62",
+      "date": "2003-12-09",
+      "title": "03.051 — Budget 2004 — Schuldenbremse",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=62,Language='EN')"
+    },
+    {
+      "id": "ch-vote-63",
+      "date": "2003-12-09",
+      "title": "03.051 — Budget 2004 — Art. 3 Ausgabenbremse",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=63,Language='EN')"
+    },
+    {
+      "id": "ch-vote-66",
+      "date": "2003-12-09",
+      "title": "03.051 — Budget 2004 — Art. 6 Ausgabenbremse",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=66,Language='EN')"
+    },
+    {
+      "id": "ch-vote-67",
+      "date": "2003-12-09",
+      "title": "03.051 — Budget 2004 — Vote sur l'ensemble",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=67,Language='EN')"
+    },
+    {
+      "id": "ch-vote-72",
+      "date": "2003-12-09",
+      "title": "03.051 — Budget 2004 — 7. Volkswirtschaftsdepartement 708 Bundesamt für Landwirtschaft",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=72,Language='EN')"
+    },
+    {
+      "id": "ch-vote-73",
+      "date": "2003-12-08",
+      "title": "03.053 — Tarif des douanes. Mesures 2003/1. Rapport — Vote sur l'ensemble",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=73,Language='EN')"
+    },
+    {
+      "id": "ch-vote-75",
+      "date": "2003-12-08",
+      "title": "03.061 — Accord de libre-échange entre les Etats de l'AELE et le Chili. Approbation — Vote sur l'ensemble",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=75,Language='EN')"
+    },
+    {
+      "id": "ch-vote-81",
+      "date": "2003-12-17",
+      "title": "00.079 — Loi sur l'assurance-maladie. Révision partielle (Financement des hôpitaux)",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=81,Language='EN')"
+    },
+    {
+      "id": "ch-vote-93",
+      "date": "2003-12-09",
+      "title": "03.047 — Programme d'allégement 2003 du budget de la Confédération — Abstimung über die Dringlichkeitsklausel (Absolutes Mehr erforderlich)",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=93,Language='EN')"
+    },
+    {
+      "id": "ch-vote-99",
+      "date": "2003-12-09",
+      "title": "03.052 — Budget 2003. Supplément II — Entrer en matière",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=99,Language='EN')"
+    },
+    {
+      "id": "ch-vote-100",
+      "date": "2003-12-09",
+      "title": "03.052 — Budget 2003. Supplément II — Vote sur l'ensemble",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=100,Language='EN')"
+    },
+    {
+      "id": "ch-vote-103",
+      "date": "2003-12-11",
+      "title": "03.047 — Programme d'allégement 2003 du budget de la Confédération — Abstimmung über die Dringlichkeit",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=103,Language='EN')"
+    },
+    {
+      "id": "ch-vote-108",
+      "date": "2003-12-11",
+      "title": "02.078 — Nouveau régime financier — Art. 130, Abs. 1bis",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=108,Language='EN')"
+    },
+    {
+      "id": "ch-vote-112",
+      "date": "2003-12-11",
+      "title": "02.078 — Nouveau régime financier — Vote sur l'ensemble",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=112,Language='EN')"
+    },
+    {
+      "id": "ch-vote-114",
+      "date": "2003-12-11",
+      "title": "02.441 — Droit de recours accordé aux organisations et associations. Suppression — Iv. Pa. Freund",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=114,Language='EN')"
+    },
+    {
+      "id": "ch-vote-122",
+      "date": "2003-12-15",
+      "title": "03.041 — Immobilier militaire 2004 — Art. 1 Ausgabenbremse",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=122,Language='EN')"
+    },
+    {
+      "id": "ch-vote-124",
+      "date": "2003-12-15",
+      "title": "03.041 — Immobilier militaire 2004 — Vote sur l'ensemble",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=124,Language='EN')"
+    },
+    {
+      "id": "ch-vote-128",
+      "date": "2003-12-15",
+      "title": "03.008 — Procédure pénale militaire (Protection des témoins). Révision — Vote sur l'ensemble",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=128,Language='EN')"
+    },
+    {
+      "id": "ch-vote-130",
+      "date": "2003-12-15",
+      "title": "03.067 — WEF à Davos. Engagement de l'armée en service d'appui — Art. 1",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=130,Language='EN')"
+    },
+    {
+      "id": "ch-vote-132",
+      "date": "2003-12-15",
+      "title": "03.067 — WEF à Davos. Engagement de l'armée en service d'appui — Vote sur l'ensemble",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=132,Language='EN')"
+    },
+    {
+      "id": "ch-vote-134",
+      "date": "2003-12-16",
+      "title": "03.038 — Convention révisée pour la navigation du Rhin. Protocole additionnel no 7 — Vote sur l'ensemble",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=134,Language='EN')"
+    },
+    {
+      "id": "ch-vote-142",
+      "date": "2003-12-16",
+      "title": "03.064 — Rapport concernant le classement des motions Neirynck 00.3277 et Paupe 01.3334 (Egalité de traitement entre pensionnés belges et suisses)",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=142,Language='EN')"
+    },
+    {
+      "id": "ch-vote-143",
+      "date": "2003-12-16",
+      "title": "02.3069 — Reconnaissance du génocide des Arméniens de 1915",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=143,Language='EN')"
+    },
+    {
+      "id": "ch-vote-145",
+      "date": "2003-12-16",
+      "title": "03.3225 — Retrait de la demande d'adhésion à l'UE",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=145,Language='EN')"
+    },
+    {
+      "id": "ch-vote-148",
+      "date": "2003-12-16",
+      "title": "02.466 — Interdiction de la publicité en faveur du tabac",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/Vote(ID=148,Language='EN')"
+    }
+  ]
 }

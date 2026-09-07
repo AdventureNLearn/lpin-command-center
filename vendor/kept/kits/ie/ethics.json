@@ -1,7 +1,17 @@
 {
   "iso2": "ie",
-  "items": [],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced ethics for this ISO. Not invented."
+  "note": "Public SIPO Oireachtas Statement of Registrable Interest form classes only. No euro amounts. No member filings transcribed. Confidential annex not collected. Unique classes restored after null-member_id collapse. Deduped 3 duplicate ethics rows 2026-09-07.",
+  "source_url": "https://www.sipo.ie/en/form/3f466-disclosing-interests-forms/",
+  "items": [
+    {
+      "member_id": null,
+      "category": "statement of registrable interests (Dáil)",
+      "public": true,
+      "amount_band": null,
+      "origin": "clerk",
+      "source_url": "https://www.sipo.ie/en/form/3f466-disclosing-interests-forms/"
+    }
+  ]
 }

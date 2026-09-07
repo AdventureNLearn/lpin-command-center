@@ -1,7 +1,8 @@
 {
   "iso2": "gh",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://ec.gov.gh/number-of-seats-won-by-political-parties/",
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "incomplete": true,
+  "items": [],
+  "note": "EC seats-won page HTTP 200 Elementor shell. Party-name table not in GET HTML. political-parties path previously 404. Not invented. Harvest write skipped because no parseable names."
 }

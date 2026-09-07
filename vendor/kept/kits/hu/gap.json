@@ -1,5 +1,48 @@
 {
   "iso2": "hu",
-  "items": [],
-  "incomplete": true
+  "items": [
+    {
+      "id": "votes",
+      "hole": "No sourced roll-call file.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "pledges",
+      "hole": "No sourced quote+URL pledges.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "ethics",
+      "hole": "No sourced ethics filings.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "committees",
+      "hole": "No sourced committee list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "orgs",
+      "hole": "No sourced org list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members-overcount",
+      "hole": "Wikidata sitting file 294 vs statutory 199. parlament.hu HTTP 200 is a CAPTCHA interstitial this sitting; roster not collected or replaced.",
+      "basis": "Evidence"
+    }
+  ],
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "note": "Category coverage 2026-09-06. Empty categories are holes, not zeros invented."
 }

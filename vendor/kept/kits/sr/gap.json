@@ -22,12 +22,22 @@
       "basis": "Evidence"
     },
     {
-      "id": "committees",
-      "hole": "No sourced committee list.",
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members-count",
+      "hole": "Wikidata sitting 182 vs claimed_seats 51 / institutional 51. Overcount 131 (historical or multi-body rows likely). Rows not trimmed or invented.",
       "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: member of the National Assembly of Suriname · National Assembly. Sitting 182. Empty objects not invented."
+  "note": "Polish polish-iso-12 2026-09-06. Sitting 182. Dupes removed 0 (id then name+chamber). Overcount 131 vs 51. Empty categories are holes, not zeros invented."
 }

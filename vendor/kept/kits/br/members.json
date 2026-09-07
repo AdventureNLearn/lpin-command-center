@@ -2,9 +2,9 @@
   "iso2": "br",
   "sitting": true,
   "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome",
-  "retrieved": "2026-08-20",
+  "retrieved": "2026-09-06",
   "incomplete": false,
-  "claimed_seats": 513,
+  "claimed_seats": 594,
   "items": [
     {
       "id": "204379",
@@ -7187,6 +7187,1140 @@
         "pt"
       ],
       "roster_url": "https://www.camara.leg.br/deputados/220552"
+    },
+    {
+      "id": "5672",
+      "name": "Alan Rick",
+      "sitting": true,
+      "party_id": "republicanos",
+      "caucus": "REPUBLICANOS",
+      "constituency_label": "AC",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5672"
+    },
+    {
+      "id": "5982",
+      "name": "Alessandro Vieira",
+      "sitting": true,
+      "party_id": "mdb",
+      "caucus": "MDB",
+      "constituency_label": "SE",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5982"
+    },
+    {
+      "id": "5967",
+      "name": "Angelo Coronel",
+      "sitting": true,
+      "party_id": "republicanos",
+      "caucus": "REPUBLICANOS",
+      "constituency_label": "BA",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5967"
+    },
+    {
+      "id": "6009",
+      "name": "Astronauta Marcos Pontes",
+      "sitting": true,
+      "party_id": "pl",
+      "caucus": "PL",
+      "constituency_label": "SP",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/6009"
+    },
+    {
+      "id": "4639",
+      "name": "Beto Faro",
+      "sitting": true,
+      "party_id": "pt",
+      "caucus": "PT",
+      "constituency_label": "PA",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/4639"
+    },
+    {
+      "id": "6336",
+      "name": "Camilo Santana",
+      "sitting": true,
+      "party_id": "pt",
+      "caucus": "PT",
+      "constituency_label": "CE",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/6336"
+    },
+    {
+      "id": "6295",
+      "name": "Carlos Fávaro",
+      "sitting": true,
+      "party_id": "psd",
+      "caucus": "PSD",
+      "constituency_label": "MT",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/6295"
+    },
+    {
+      "id": "5936",
+      "name": "Carlos Portinho",
+      "sitting": true,
+      "party_id": "pl",
+      "caucus": "PL",
+      "constituency_label": "RJ",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5936"
+    },
+    {
+      "id": "5990",
+      "name": "Carlos Viana",
+      "sitting": true,
+      "party_id": "psd",
+      "caucus": "PSD",
+      "constituency_label": "MG",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5990"
+    },
+    {
+      "id": "470",
+      "name": "Chico Rodrigues",
+      "sitting": true,
+      "party_id": "psb",
+      "caucus": "PSB",
+      "constituency_label": "RR",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/470"
+    },
+    {
+      "id": "5973",
+      "name": "Cid Gomes",
+      "sitting": true,
+      "party_id": "psb",
+      "caucus": "PSB",
+      "constituency_label": "CE",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5973"
+    },
+    {
+      "id": "739",
+      "name": "Ciro Nogueira",
+      "sitting": true,
+      "party_id": "pp",
+      "caucus": "PP",
+      "constituency_label": "PI",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/739"
+    },
+    {
+      "id": "6337",
+      "name": "Cleitinho",
+      "sitting": true,
+      "party_id": "republicanos",
+      "caucus": "REPUBLICANOS",
+      "constituency_label": "MG",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/6337"
+    },
+    {
+      "id": "475",
+      "name": "Confúcio Moura",
+      "sitting": true,
+      "party_id": "mdb",
+      "caucus": "MDB",
+      "constituency_label": "RO",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/475"
+    },
+    {
+      "id": "6335",
+      "name": "Damares Alves",
+      "sitting": true,
+      "party_id": "republicanos",
+      "caucus": "REPUBLICANOS",
+      "constituency_label": "DF",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/6335"
+    },
+    {
+      "id": "5998",
+      "name": "Daniella Ribeiro",
+      "sitting": true,
+      "party_id": "pp",
+      "caucus": "PP",
+      "constituency_label": "PB",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5998"
+    },
+    {
+      "id": "3830",
+      "name": "Davi Alcolumbre",
+      "sitting": true,
+      "party_id": "uniao",
+      "caucus": "UNIÃO",
+      "constituency_label": "AP",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/3830"
+    },
+    {
+      "id": "5793",
+      "name": "Dr. Hiran",
+      "sitting": true,
+      "party_id": "pp",
+      "caucus": "PP",
+      "constituency_label": "RR",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5793"
+    },
+    {
+      "id": "5906",
+      "name": "Dra. Eudócia",
+      "sitting": true,
+      "party_id": "psdb",
+      "caucus": "PSDB",
+      "constituency_label": "AL",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5906"
+    },
+    {
+      "id": "4994",
+      "name": "Eduardo Braga",
+      "sitting": true,
+      "party_id": "mdb",
+      "caucus": "MDB",
+      "constituency_label": "AM",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/4994"
+    },
+    {
+      "id": "3777",
+      "name": "Eduardo Gomes",
+      "sitting": true,
+      "party_id": "pl",
+      "caucus": "PL",
+      "constituency_label": "TO",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/3777"
+    },
+    {
+      "id": "4642",
+      "name": "Efraim Filho",
+      "sitting": true,
+      "party_id": "pl",
+      "caucus": "PL",
+      "constituency_label": "PB",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/4642"
+    },
+    {
+      "id": "5718",
+      "name": "Eliziane Gama",
+      "sitting": true,
+      "party_id": "psd",
+      "caucus": "PSD",
+      "constituency_label": "MA",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5718"
+    },
+    {
+      "id": "22",
+      "name": "Esperidião Amin",
+      "sitting": true,
+      "party_id": "pp",
+      "caucus": "PP",
+      "constituency_label": "SC",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/22"
+    },
+    {
+      "id": "5953",
+      "name": "Fabiano Contarato",
+      "sitting": true,
+      "party_id": "pt",
+      "caucus": "PT",
+      "constituency_label": "ES",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5953"
+    },
+    {
+      "id": "5917",
+      "name": "Fernando Dueire",
+      "sitting": true,
+      "party_id": "psd",
+      "caucus": "PSD",
+      "constituency_label": "PE",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5917"
+    },
+    {
+      "id": "345",
+      "name": "Flávio Arns",
+      "sitting": true,
+      "party_id": "psb",
+      "caucus": "PSB",
+      "constituency_label": "PR",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/345"
+    },
+    {
+      "id": "5894",
+      "name": "Flávio Bolsonaro",
+      "sitting": true,
+      "party_id": "pl",
+      "caucus": "PL",
+      "constituency_label": "RJ",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5894"
+    },
+    {
+      "id": "6008",
+      "name": "Giordano",
+      "sitting": true,
+      "party_id": "pode",
+      "caucus": "PODE",
+      "constituency_label": "SP",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/6008"
+    },
+    {
+      "id": "6341",
+      "name": "Hamilton Mourão",
+      "sitting": true,
+      "party_id": "republicanos",
+      "caucus": "REPUBLICANOS",
+      "constituency_label": "RS",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/6341"
+    },
+    {
+      "id": "5008",
+      "name": "Humberto Costa",
+      "sitting": true,
+      "party_id": "pt",
+      "caucus": "PT",
+      "constituency_label": "PE",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5008"
+    },
+    {
+      "id": "5385",
+      "name": "Irajá",
+      "sitting": true,
+      "party_id": "psd",
+      "caucus": "PSD",
+      "constituency_label": "TO",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5385"
+    },
+    {
+      "id": "6010",
+      "name": "Ivete da Silveira",
+      "sitting": true,
+      "party_id": "mdb",
+      "caucus": "MDB",
+      "constituency_label": "SC",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/6010"
+    },
+    {
+      "id": "4770",
+      "name": "Izalci Lucas",
+      "sitting": true,
+      "party_id": "pl",
+      "caucus": "PL",
+      "constituency_label": "DF",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/4770"
+    },
+    {
+      "id": "35",
+      "name": "Jader Barbalho",
+      "sitting": true,
+      "party_id": "mdb",
+      "caucus": "MDB",
+      "constituency_label": "PA",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/35"
+    },
+    {
+      "id": "6340",
+      "name": "Jaime Bagattoli",
+      "sitting": true,
+      "party_id": "pl",
+      "caucus": "PL",
+      "constituency_label": "RO",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/6340"
+    },
+    {
+      "id": "581",
+      "name": "Jaques Wagner",
+      "sitting": true,
+      "party_id": "pt",
+      "caucus": "PT",
+      "constituency_label": "BA",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/581"
+    },
+    {
+      "id": "4531",
+      "name": "Jayme Campos",
+      "sitting": true,
+      "party_id": "uniao",
+      "caucus": "UNIÃO",
+      "constituency_label": "MT",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/4531"
+    },
+    {
+      "id": "5895",
+      "name": "Jorge Kajuru",
+      "sitting": true,
+      "party_id": "psb",
+      "caucus": "PSB",
+      "constituency_label": "GO",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5895"
+    },
+    {
+      "id": "6342",
+      "name": "Jorge Seif",
+      "sitting": true,
+      "party_id": "pl",
+      "caucus": "PL",
+      "constituency_label": "SC",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/6342"
+    },
+    {
+      "id": "6369",
+      "name": "Jussara Lima",
+      "sitting": true,
+      "party_id": "psd",
+      "caucus": "PSD",
+      "constituency_label": "PI",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/6369"
+    },
+    {
+      "id": "4811",
+      "name": "Laércio Oliveira",
+      "sitting": true,
+      "party_id": "pp",
+      "caucus": "PP",
+      "constituency_label": "SE",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/4811"
+    },
+    {
+      "id": "5979",
+      "name": "Leila Barros",
+      "sitting": true,
+      "party_id": "pdt",
+      "caucus": "PDT",
+      "constituency_label": "DF",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5979"
+    },
+    {
+      "id": "6359",
+      "name": "Lourdinha Pereira",
+      "sitting": true,
+      "party_id": "psb",
+      "caucus": "PSB",
+      "constituency_label": "MA",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/6359"
+    },
+    {
+      "id": "5926",
+      "name": "Lucas Barreto",
+      "sitting": true,
+      "party_id": "psd",
+      "caucus": "PSD",
+      "constituency_label": "AP",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5926"
+    },
+    {
+      "id": "1186",
+      "name": "Luis Carlos Heinze",
+      "sitting": true,
+      "party_id": "pp",
+      "caucus": "PP",
+      "constituency_label": "RS",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/1186"
+    },
+    {
+      "id": "631",
+      "name": "Magno Malta",
+      "sitting": true,
+      "party_id": "pl",
+      "caucus": "PL",
+      "constituency_label": "ES",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/631"
+    },
+    {
+      "id": "5376",
+      "name": "Mara Gabrilli",
+      "sitting": true,
+      "party_id": "psd",
+      "caucus": "PSD",
+      "constituency_label": "SP",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5376"
+    },
+    {
+      "id": "742",
+      "name": "Marcelo Castro",
+      "sitting": true,
+      "party_id": "mdb",
+      "caucus": "MDB",
+      "constituency_label": "PI",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/742"
+    },
+    {
+      "id": "285",
+      "name": "Marcio Bittar",
+      "sitting": true,
+      "party_id": "pl",
+      "caucus": "PL",
+      "constituency_label": "AC",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/285"
+    },
+    {
+      "id": "5422",
+      "name": "Marcos Rogério",
+      "sitting": true,
+      "party_id": "pl",
+      "caucus": "PL",
+      "constituency_label": "RO",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5422"
+    },
+    {
+      "id": "5942",
+      "name": "Marcos do Val",
+      "sitting": true,
+      "party_id": "avante",
+      "caucus": "AVANTE",
+      "constituency_label": "ES",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5942"
+    },
+    {
+      "id": "5985",
+      "name": "Nelsinho Trad",
+      "sitting": true,
+      "party_id": "psd",
+      "caucus": "PSD",
+      "constituency_label": "MS",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5985"
+    },
+    {
+      "id": "5525",
+      "name": "Omar Aziz",
+      "sitting": true,
+      "party_id": "psd",
+      "caucus": "PSD",
+      "constituency_label": "AM",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5525"
+    },
+    {
+      "id": "5924",
+      "name": "Oriovisto Guimarães",
+      "sitting": true,
+      "party_id": "psdb",
+      "caucus": "PSDB",
+      "constituency_label": "PR",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5924"
+    },
+    {
+      "id": "5523",
+      "name": "Otto Alencar",
+      "sitting": true,
+      "party_id": "psd",
+      "caucus": "PSD",
+      "constituency_label": "BA",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5523"
+    },
+    {
+      "id": "825",
+      "name": "Paulo Paim",
+      "sitting": true,
+      "party_id": "pt",
+      "caucus": "PT",
+      "constituency_label": "RS",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/825"
+    },
+    {
+      "id": "5502",
+      "name": "Plínio Valério",
+      "sitting": true,
+      "party_id": "psdb",
+      "caucus": "PSDB",
+      "constituency_label": "AM",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5502"
+    },
+    {
+      "id": "5386",
+      "name": "Professora Dorinha Seabra",
+      "sitting": true,
+      "party_id": "uniao",
+      "caucus": "UNIÃO",
+      "constituency_label": "TO",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5386"
+    },
+    {
+      "id": "5012",
+      "name": "Randolfe Rodrigues",
+      "sitting": true,
+      "party_id": "pt",
+      "caucus": "PT",
+      "constituency_label": "AP",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5012"
+    },
+    {
+      "id": "70",
+      "name": "Renan Calheiros",
+      "sitting": true,
+      "party_id": "mdb",
+      "caucus": "MDB",
+      "constituency_label": "AL",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/70"
+    },
+    {
+      "id": "5207",
+      "name": "Renan Filho",
+      "sitting": true,
+      "party_id": "mdb",
+      "caucus": "MDB",
+      "constituency_label": "AL",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5207"
+    },
+    {
+      "id": "6025",
+      "name": "Roberta Acioly",
+      "sitting": true,
+      "party_id": "republicanos",
+      "caucus": "REPUBLICANOS",
+      "constituency_label": "RR",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/6025"
+    },
+    {
+      "id": "5732",
+      "name": "Rodrigo Pacheco",
+      "sitting": true,
+      "party_id": "psb",
+      "caucus": "PSB",
+      "constituency_label": "MG",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5732"
+    },
+    {
+      "id": "4694",
+      "name": "Rogerio Marinho",
+      "sitting": true,
+      "party_id": "pl",
+      "caucus": "PL",
+      "constituency_label": "RN",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/4694"
+    },
+    {
+      "id": "5352",
+      "name": "Rogério Carvalho",
+      "sitting": true,
+      "party_id": "pt",
+      "caucus": "PT",
+      "constituency_label": "SE",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5352"
+    },
+    {
+      "id": "5322",
+      "name": "Romário",
+      "sitting": true,
+      "party_id": "pl",
+      "caucus": "PL",
+      "constituency_label": "RJ",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5322"
+    },
+    {
+      "id": "5974",
+      "name": "Sargento Reginauro",
+      "sitting": true,
+      "party_id": "psdb",
+      "caucus": "PSDB",
+      "constituency_label": "CE",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5974"
+    },
+    {
+      "id": "6331",
+      "name": "Sergio Moro",
+      "sitting": true,
+      "party_id": "pl",
+      "caucus": "PL",
+      "constituency_label": "PR",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/6331"
+    },
+    {
+      "id": "5988",
+      "name": "Soraya Thronicke",
+      "sitting": true,
+      "party_id": "psb",
+      "caucus": "PSB",
+      "constituency_label": "MS",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5988"
+    },
+    {
+      "id": "5959",
+      "name": "Styvenson Valentim",
+      "sitting": true,
+      "party_id": "pode",
+      "caucus": "PODE",
+      "constituency_label": "RN",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5959"
+    },
+    {
+      "id": "4560",
+      "name": "Sérgio Petecão",
+      "sitting": true,
+      "party_id": "psd",
+      "caucus": "PSD",
+      "constituency_label": "AC",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/4560"
+    },
+    {
+      "id": "6338",
+      "name": "Teresa Leitão",
+      "sitting": true,
+      "party_id": "pt",
+      "caucus": "PT",
+      "constituency_label": "PE",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/6338"
+    },
+    {
+      "id": "5736",
+      "name": "Tereza Cristina",
+      "sitting": true,
+      "party_id": "pp",
+      "caucus": "PP",
+      "constituency_label": "MS",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5736"
+    },
+    {
+      "id": "5899",
+      "name": "Vanderlan Cardoso",
+      "sitting": true,
+      "party_id": "psd",
+      "caucus": "PSD",
+      "constituency_label": "GO",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5899"
+    },
+    {
+      "id": "5748",
+      "name": "Veneziano Vital do Rêgo",
+      "sitting": true,
+      "party_id": "mdb",
+      "caucus": "MDB",
+      "constituency_label": "PB",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5748"
+    },
+    {
+      "id": "1173",
+      "name": "Wellington Fagundes",
+      "sitting": true,
+      "party_id": "pl",
+      "caucus": "PL",
+      "constituency_label": "MT",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/1173"
+    },
+    {
+      "id": "5411",
+      "name": "Weverton",
+      "sitting": true,
+      "party_id": "pdt",
+      "caucus": "PDT",
+      "constituency_label": "MA",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5411"
+    },
+    {
+      "id": "5070",
+      "name": "Wilder Morais",
+      "sitting": true,
+      "party_id": "pl",
+      "caucus": "PL",
+      "constituency_label": "GO",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5070"
+    },
+    {
+      "id": "5783",
+      "name": "Zenaide Maia",
+      "sitting": true,
+      "party_id": "psd",
+      "caucus": "PSD",
+      "constituency_label": "RN",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5783"
+    },
+    {
+      "id": "3806",
+      "name": "Zequinha Marinho",
+      "sitting": true,
+      "party_id": "pode",
+      "caucus": "PODE",
+      "constituency_label": "PA",
+      "chamber": "Senado Federal",
+      "term": "57 2023-2027",
+      "lang": [
+        "pt"
+      ],
+      "roster_url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/3806"
     }
   ],
   "note": "Currently sitting (em exercício, legislatura 57) from Câmara dados abertos. Party is profile, not the score."

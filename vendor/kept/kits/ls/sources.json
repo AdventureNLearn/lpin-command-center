@@ -13,7 +13,11 @@
       "label": "Senate of Lesotho",
       "url": "http://senate.parliament.ls/",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 200,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-08",
+      "note": "Official parliament HTTP 200 (polish-iso-08)."
     },
     {
       "id": "wd-q927191",
@@ -27,7 +31,11 @@
       "label": "National Assembly",
       "url": "https://nationalassembly.parliament.ls/",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 200,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-08",
+      "note": "Official parliament HTTP 200 (polish-iso-08)."
     },
     {
       "id": "wd-q1138713",
@@ -41,13 +49,24 @@
       "label": "Parliament of Lesotho",
       "url": "https://parliament.ls/",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 200,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-08",
+      "note": "Official parliament HTTP 200 (polish-iso-08)."
     },
     {
       "id": "wd-q4345419",
       "label": "Parliament of Lesotho (Wikidata)",
       "url": "https://www.wikidata.org/wiki/Q4345419",
       "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "http://senate.parliament.ls/committees",
+      "kind": "primary",
       "basis": "Evidence"
     }
   ],

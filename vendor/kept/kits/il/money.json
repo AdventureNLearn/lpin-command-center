@@ -1,7 +1,28 @@
 {
   "iso2": "il",
-  "items": [],
+  "named_donors": false,
+  "unit": "ILS",
+  "sitting_total_reconstructed": 167221000,
+  "buckets": [
+    {
+      "label": "party funding executed 2024 (budget item 1410, all parties combined)",
+      "amount": 146969000
+    },
+    {
+      "label": "party funding enacted 2025 (budget item 1410, all parties combined)",
+      "amount": 167221000
+    },
+    {
+      "label": "ongoing party funding proposed 2026 (budget item 141001 gross, all parties combined)",
+      "amount": 179659000
+    },
+    {
+      "label": "election party funding proposed 2026 (budget item 141002, all parties combined)",
+      "amount": 131341000
+    }
+  ],
   "incomplete": true,
+  "source_url": "https://main.knesset.gov.il/About/documents/budget/Budget2-President-Knesset2026.pdf",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "Knesset official 2026 budget booklet (חוברת ב, נשיא/כנסת/בחירות ומימון מפלגות) HTTP 200 (probed 2026-09-06). Printed table amounts are אלפי ש\"ח; stored here as full ILS (×1000). Item 1410 ביצוע 2024 146,969; חוק תקציב 2025 167,221; הצעת תקציב 2026 ברוטו 311,000 of which 141001 ongoing 179,659 (154,659 expenditure + 25,000 conditional) and 141002 election 131,341. Source-type public-funding buckets only. סעיף 14 whole-line 752,256 (includes election administration 1420 and reserves) not stored as party finance. Per-faction rows not in the booklet. Named private donors not collected. sitting_total_reconstructed is the 2025 enacted 1410 printed combined total, not a sum of proposal buckets. Harvest kit was empty (items []); written this seat. main.knesset.gov.il HTML budgetinfo8.aspx returned HTTP 247 (WAF) and was not used."
 }

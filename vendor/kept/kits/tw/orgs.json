@@ -1,7 +1,45 @@
 {
   "iso2": "tw",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://party.moi.gov.tw/",
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "kmt",
+      "name": "Kuomintang",
+      "kind": "political-party",
+      "origin": "harvest-kit",
+      "source_url": "https://party.moi.gov.tw/",
+      "harvest_present": true,
+      "note": "Sitting caucus from harvest parties.json. MOI party-information host HTTP 200. Kit not rewritten. Dissolution notices not used as a party roster."
+    },
+    {
+      "id": "dpp",
+      "name": "Democratic Progressive Party",
+      "kind": "political-party",
+      "origin": "harvest-kit",
+      "source_url": "https://party.moi.gov.tw/",
+      "harvest_present": true,
+      "note": "Sitting caucus from harvest parties.json. MOI party-information host HTTP 200. Kit not rewritten. Dissolution notices not used as a party roster."
+    },
+    {
+      "id": "tpp",
+      "name": "Taiwan People's Party",
+      "kind": "political-party",
+      "origin": "harvest-kit",
+      "source_url": "https://party.moi.gov.tw/",
+      "harvest_present": true,
+      "note": "Sitting caucus from harvest parties.json. MOI party-information host HTTP 200. Kit not rewritten. Dissolution notices not used as a party roster."
+    },
+    {
+      "id": "independent",
+      "name": "Independent",
+      "kind": "political-party",
+      "origin": "harvest-kit",
+      "source_url": "https://party.moi.gov.tw/",
+      "harvest_present": true,
+      "note": "Sitting caucus from harvest parties.json. MOI party-information host HTTP 200. Kit not rewritten. Dissolution notices not used as a party roster."
+    }
+  ],
+  "note": "Capped sample from official source."
 }

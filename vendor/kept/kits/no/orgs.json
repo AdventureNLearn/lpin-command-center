@@ -1,6 +1,154 @@
 {
   "iso2": "no",
+  "source_url": "https://data.brreg.no/partiregisteret/api/lastned/csv",
+  "items": [
+    {
+      "id": "919772255",
+      "name": "ALLIANSEN - ALTERNATIV FOR NORGE",
+      "kind": "political-party",
+      "source_url": "https://data.brreg.no/partiregisteret/api/lastned/csv"
+    },
+    {
+      "id": "971526939",
+      "name": "ARBEIDERPARTIET",
+      "kind": "political-party",
+      "source_url": "https://data.brreg.no/partiregisteret/api/lastned/csv"
+    },
+    {
+      "id": "914612292",
+      "name": "FOLKETS PARTI",
+      "kind": "political-party",
+      "source_url": "https://data.brreg.no/partiregisteret/api/lastned/csv"
+    },
+    {
+      "id": "934577884",
+      "name": "FRED OG RETTFERDIGHET (FOR)",
+      "kind": "political-party",
+      "source_url": "https://data.brreg.no/partiregisteret/api/lastned/csv"
+    },
+    {
+      "id": "970374825",
+      "name": "FREMSKRITTSPARTIET",
+      "kind": "political-party",
+      "source_url": "https://data.brreg.no/partiregisteret/api/lastned/csv"
+    },
+    {
+      "id": "925687588",
+      "name": "GENERASJONSPARTIET",
+      "kind": "political-party",
+      "source_url": "https://data.brreg.no/partiregisteret/api/lastned/csv"
+    },
+    {
+      "id": "870168012",
+      "name": "HØYRE",
+      "kind": "political-party",
+      "source_url": "https://data.brreg.no/partiregisteret/api/lastned/csv"
+    },
+    {
+      "id": "924942703",
+      "name": "INDUSTRI- OG NÆRINGSPARTIET",
+      "kind": "political-party",
+      "source_url": "https://data.brreg.no/partiregisteret/api/lastned/csv"
+    },
+    {
+      "id": "898722112",
+      "name": "KONSERVATIVT",
+      "kind": "political-party",
+      "source_url": "https://data.brreg.no/partiregisteret/api/lastned/csv"
+    },
+    {
+      "id": "939909494",
+      "name": "KRISTELIG FOLKEPARTI",
+      "kind": "political-party",
+      "source_url": "https://data.brreg.no/partiregisteret/api/lastned/csv"
+    },
+    {
+      "id": "881149702",
+      "name": "KYSTPARTIET",
+      "kind": "political-party",
+      "source_url": "https://data.brreg.no/partiregisteret/api/lastned/csv"
+    },
+    {
+      "id": "813304902",
+      "name": "LIBERALISTENE",
+      "kind": "political-party",
+      "source_url": "https://data.brreg.no/partiregisteret/api/lastned/csv"
+    },
+    {
+      "id": "971377461",
+      "name": "MILJØPARTIET DE GRØNNE",
+      "kind": "political-party",
+      "source_url": "https://data.brreg.no/partiregisteret/api/lastned/csv"
+    },
+    {
+      "id": "985002967",
+      "name": "NORGES KOMMUNISTISKE PARTI",
+      "kind": "political-party",
+      "source_url": "https://data.brreg.no/partiregisteret/api/lastned/csv"
+    },
+    {
+      "id": "995574152",
+      "name": "NORGESDEMOKRATENE",
+      "kind": "political-party",
+      "source_url": "https://data.brreg.no/partiregisteret/api/lastned/csv"
+    },
+    {
+      "id": "932991497",
+      "name": "PARTIET DNI",
+      "kind": "political-party",
+      "source_url": "https://data.brreg.no/partiregisteret/api/lastned/csv"
+    },
+    {
+      "id": "925790230",
+      "name": "PARTIET SENTRUM",
+      "kind": "political-party",
+      "source_url": "https://data.brreg.no/partiregisteret/api/lastned/csv"
+    },
+    {
+      "id": "985130590",
+      "name": "PENSJONISTPARTIET",
+      "kind": "political-party",
+      "source_url": "https://data.brreg.no/partiregisteret/api/lastned/csv"
+    },
+    {
+      "id": "998732115",
+      "name": "PIRATPARTIET",
+      "kind": "political-party",
+      "source_url": "https://data.brreg.no/partiregisteret/api/lastned/csv"
+    },
+    {
+      "id": "971491450",
+      "name": "RØDT",
+      "kind": "political-party",
+      "source_url": "https://data.brreg.no/partiregisteret/api/lastned/csv"
+    },
+    {
+      "id": "971278404",
+      "name": "SENTERPARTIET",
+      "kind": "political-party",
+      "source_url": "https://data.brreg.no/partiregisteret/api/lastned/csv"
+    },
+    {
+      "id": "971526971",
+      "name": "SV - SOSIALISTISK VENSTREPARTI",
+      "kind": "political-party",
+      "source_url": "https://data.brreg.no/partiregisteret/api/lastned/csv"
+    },
+    {
+      "id": "917910235",
+      "name": "VELFERD OG INNOVASJONSPARTIET",
+      "kind": "political-party",
+      "source_url": "https://data.brreg.no/partiregisteret/api/lastned/csv"
+    },
+    {
+      "id": "971278390",
+      "name": "VENSTRE",
+      "kind": "political-party",
+      "source_url": "https://data.brreg.no/partiregisteret/api/lastned/csv"
+    }
+  ],
   "incomplete": true,
-  "items": [],
-  "note": "501/NGO rows need EIN (or national number), legal name as on the 990, subsection, filing year, https to the 990. Churches that do not file stay honest empty."
+  "retrieved": "2026-09-06",
+  "origin": "electoral-register",
+  "note": "Brønnøysundregistrene Partiregisteret CSV. Cap 40. Incomplete register slice."
 }

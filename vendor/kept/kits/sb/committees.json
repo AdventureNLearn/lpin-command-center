@@ -1,7 +1,49 @@
 {
   "iso2": "sb",
-  "source_url": "https://www.wikidata.org/wiki/Q727851",
+  "source_url": "https://parliament.gov.sb/committees/reports/",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "items": [
+    {
+      "id": "sb-blc",
+      "name": "Bills and Legislation Committee",
+      "chamber": "National Parliament",
+      "kind": "select",
+      "origin": "clerk",
+      "source_url": "https://parliament.gov.sb/committees/reports/"
+    },
+    {
+      "id": "sb-frc",
+      "name": "Foreign Relations Committee",
+      "chamber": "National Parliament",
+      "kind": "select",
+      "origin": "clerk",
+      "source_url": "https://parliament.gov.sb/committees/reports/"
+    },
+    {
+      "id": "sb-phc",
+      "name": "Parliamentary House Committee",
+      "chamber": "National Parliament",
+      "kind": "select",
+      "origin": "clerk",
+      "source_url": "https://parliament.gov.sb/committees/reports/"
+    },
+    {
+      "id": "sb-pac",
+      "name": "Public Accounts Committee",
+      "chamber": "National Parliament",
+      "kind": "select",
+      "origin": "clerk",
+      "source_url": "https://parliament.gov.sb/committees/reports/"
+    },
+    {
+      "id": "sb-ssc",
+      "name": "Special Select Committee",
+      "chamber": "National Parliament",
+      "kind": "select",
+      "origin": "clerk",
+      "source_url": "https://parliament.gov.sb/committees/reports/"
+    }
+  ],
+  "note": "Capped sample from official source."
 }

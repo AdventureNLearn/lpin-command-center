@@ -28,6 +28,20 @@
       "url": "https://www.wikidata.org/wiki/Q1718790",
       "kind": "index",
       "basis": "Evidence"
+    },
+    {
+      "id": "official-votes",
+      "label": "Official roll-call / division source",
+      "url": "https://www.parlamento.cv/AtividadeParlamentar/votacoes.php",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://www.parlamento.cv/comissao/comissaoespec.php",
+      "kind": "primary",
+      "basis": "Evidence"
     }
   ],
   "incomplete": false

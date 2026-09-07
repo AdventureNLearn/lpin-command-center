@@ -1,7 +1,17 @@
 {
   "iso2": "si",
-  "items": [],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced ethics for this ISO. Not invented."
+  "note": "Public KPK premoženjsko stanje form classes named on the official ZIntPK reporting page. No amounts. No PII. Unique classes restored after null-member_id collapse. Deduped 3 duplicate ethics rows 2026-09-07.",
+  "source_url": "https://www.kpk-rs.si/sl/nadzor-in-preiskave/premozenjsko-stanje",
+  "items": [
+    {
+      "member_id": null,
+      "category": "prijava premoženjskega stanja ob nastopu funkcije",
+      "public": true,
+      "amount_band": null,
+      "origin": "clerk",
+      "source_url": "https://www.kpk-rs.si/sl/nadzor-in-preiskave/premozenjsko-stanje"
+    }
+  ]
 }

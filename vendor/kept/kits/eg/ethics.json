@@ -1,7 +1,7 @@
 {
   "iso2": "eg",
   "incomplete": true,
-  "note": "Official Committee of Values mandate categories from ParliamentaryOrgans.aspx kept. Additional public-law membership-duty categories from InternalRegulation.aspx باب الحادي عشر (الفصل الخامس واجبات الأعضاء / الفصل الثانى أحوال عدم الجمع) and Constitution.aspx Art. 109 HTML that returned 200. No per-member financial-disclosure cards or public sitting-member ethics register on parliament.gov.eg. member_id null. amount_band null. No EGP. No confidential annex. Honest incomplete.",
+  "note": "Official Committee of Values mandate categories from ParliamentaryOrgans.aspx kept. Additional public-law membership-duty categories from InternalRegulation.aspx باب الحادي عشر (الفصل الخامس واجبات الأعضاء / الفصل الثانى أحوال عدم الجمع) and Constitution.aspx Art. 109 HTML that returned 200. No per-member financial-disclosure cards or public sitting-member ethics register on parliament.gov.eg. member_id null. amount_band null. No EGP. No confidential annex. Honest incomplete. Deduped 12 duplicate ethics rows 2026-09-06.",
   "source_url": "https://www.parliament.gov.eg/ParliamentaryOrgans.aspx",
   "retrieved": "2026-08-20",
   "items": [
@@ -15,103 +15,7 @@
     },
     {
       "member_id": null,
-      "category": "religious_moral_social_values",
-      "public": true,
-      "amount_band": null,
-      "origin": "clerk",
-      "source_url": "https://www.parliament.gov.eg/ParliamentaryOrgans.aspx"
-    },
-    {
-      "member_id": null,
-      "category": "political_economic_principles",
-      "public": true,
-      "amount_band": null,
-      "origin": "clerk",
-      "source_url": "https://www.parliament.gov.eg/ParliamentaryOrgans.aspx"
-    },
-    {
-      "member_id": null,
       "category": "financial_disclosure",
-      "public": true,
-      "amount_band": null,
-      "origin": "clerk",
-      "source_url": "https://www.parliament.gov.eg/InternalRegulation.aspx"
-    },
-    {
-      "member_id": null,
-      "category": "gifts",
-      "public": true,
-      "amount_band": null,
-      "origin": "clerk",
-      "source_url": "https://www.parliament.gov.eg/InternalRegulation.aspx"
-    },
-    {
-      "member_id": null,
-      "category": "no_state_contracts",
-      "public": true,
-      "amount_band": null,
-      "origin": "clerk",
-      "source_url": "https://www.parliament.gov.eg/InternalRegulation.aspx"
-    },
-    {
-      "member_id": null,
-      "category": "incompatible_offices",
-      "public": true,
-      "amount_band": null,
-      "origin": "clerk",
-      "source_url": "https://www.parliament.gov.eg/InternalRegulation.aspx"
-    },
-    {
-      "member_id": null,
-      "category": "incompatible_appointment",
-      "public": true,
-      "amount_band": null,
-      "origin": "clerk",
-      "source_url": "https://www.parliament.gov.eg/InternalRegulation.aspx"
-    },
-    {
-      "member_id": null,
-      "category": "share_management_separation",
-      "public": true,
-      "amount_band": null,
-      "origin": "clerk",
-      "source_url": "https://www.parliament.gov.eg/InternalRegulation.aspx"
-    },
-    {
-      "member_id": null,
-      "category": "occupation_notification",
-      "public": true,
-      "amount_band": null,
-      "origin": "clerk",
-      "source_url": "https://www.parliament.gov.eg/InternalRegulation.aspx"
-    },
-    {
-      "member_id": null,
-      "category": "personal_interest_disclosure",
-      "public": true,
-      "amount_band": null,
-      "origin": "clerk",
-      "source_url": "https://www.parliament.gov.eg/InternalRegulation.aspx"
-    },
-    {
-      "member_id": null,
-      "category": "parliamentary_conduct_code",
-      "public": true,
-      "amount_band": null,
-      "origin": "clerk",
-      "source_url": "https://www.parliament.gov.eg/InternalRegulation.aspx"
-    },
-    {
-      "member_id": null,
-      "category": "no_credit_privileges",
-      "public": true,
-      "amount_band": null,
-      "origin": "clerk",
-      "source_url": "https://www.parliament.gov.eg/InternalRegulation.aspx"
-    },
-    {
-      "member_id": null,
-      "category": "share_purchase_limits",
       "public": true,
       "amount_band": null,
       "origin": "clerk",

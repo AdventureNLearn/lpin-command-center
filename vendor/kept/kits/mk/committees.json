@@ -1,7 +1,251 @@
 {
   "iso2": "mk",
-  "source_url": "https://www.wikidata.org/wiki/Q1258164",
+  "chamber": "Assembly of North Macedonia",
+  "source_url": "https://opendata.sobranie.mk/api/3/action/package_list",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 24,
+  "items": [
+    {
+      "id": "mk-c-1",
+      "name": "Буџетски совет на Собранието на Република Северна Македонија",
+      "chamber": "Sobranie",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://opendata.sobranie.mk/api/3/action/package_search?rows=50"
+    },
+    {
+      "id": "mk-c-2",
+      "name": "Верификациона комисија",
+      "chamber": "Sobranie",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://opendata.sobranie.mk/api/3/action/package_search?rows=50"
+    },
+    {
+      "id": "mk-c-3",
+      "name": "Законодавно правна комисија",
+      "chamber": "Sobranie",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://opendata.sobranie.mk/api/3/action/package_search?rows=50"
+    },
+    {
+      "id": "mk-c-4",
+      "name": "Комисија за деловнички и мандатно-имунитетни прашања",
+      "chamber": "Sobranie",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://opendata.sobranie.mk/api/3/action/package_search?rows=50"
+    },
+    {
+      "id": "mk-c-5",
+      "name": "Комисија за европски прашања",
+      "chamber": "Sobranie",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://opendata.sobranie.mk/api/3/action/package_search?rows=50"
+    },
+    {
+      "id": "mk-c-6",
+      "name": "Комисија за еднакви можности на жените и мажите",
+      "chamber": "Sobranie",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://opendata.sobranie.mk/api/3/action/package_search?rows=50"
+    },
+    {
+      "id": "mk-c-7",
+      "name": "Комисија за економски прашања, труд и енергетска политика",
+      "chamber": "Sobranie",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://opendata.sobranie.mk/api/3/action/package_search?rows=50"
+    },
+    {
+      "id": "mk-c-8",
+      "name": "Комисија за здравство",
+      "chamber": "Sobranie",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://opendata.sobranie.mk/api/3/action/package_search?rows=50"
+    },
+    {
+      "id": "mk-c-9",
+      "name": "Комисија за земјоделство, шумарство и водостопанство",
+      "chamber": "Sobranie",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://opendata.sobranie.mk/api/3/action/package_search?rows=50"
+    },
+    {
+      "id": "mk-c-10",
+      "name": "Комисија за култура и туризам",
+      "chamber": "Sobranie",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://opendata.sobranie.mk/api/3/action/package_search?rows=50"
+    },
+    {
+      "id": "mk-c-11",
+      "name": "Комисија за локална самоуправа",
+      "chamber": "Sobranie",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://opendata.sobranie.mk/api/3/action/package_search?rows=50"
+    },
+    {
+      "id": "mk-c-12",
+      "name": "Комисија за надворешна политика и надворешна трговија",
+      "chamber": "Sobranie",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://opendata.sobranie.mk/api/3/action/package_search?rows=50"
+    },
+    {
+      "id": "mk-c-13",
+      "name": "Комисија за надзор над работата на Агенцијата за национална безбедност и на Агенцијата за разузнавање",
+      "chamber": "Sobranie",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://opendata.sobranie.mk/api/3/action/package_search?rows=50"
+    },
+    {
+      "id": "mk-c-14",
+      "name": "Комисија за надзор над спроведување на мерките за следење на комуникациите",
+      "chamber": "Sobranie",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://opendata.sobranie.mk/api/3/action/package_search?rows=50"
+    },
+    {
+      "id": "mk-c-15",
+      "name": "Комисија за образование, наука и спорт",
+      "chamber": "Sobranie",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://opendata.sobranie.mk/api/3/action/package_search?rows=50"
+    },
+    {
+      "id": "mk-c-16",
+      "name": "Комисија за одбрана и безбедност",
+      "chamber": "Sobranie",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://opendata.sobranie.mk/api/3/action/package_search?rows=50"
+    },
+    {
+      "id": "mk-c-17",
+      "name": "Комисија за политички систем и односи меѓу заедниците",
+      "chamber": "Sobranie",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://opendata.sobranie.mk/api/3/action/package_search?rows=50"
+    },
+    {
+      "id": "mk-c-18",
+      "name": "Комисија за прашања на изборите и именувањата",
+      "chamber": "Sobranie",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://opendata.sobranie.mk/api/3/action/package_search?rows=50"
+    },
+    {
+      "id": "mk-c-19",
+      "name": "Комисија за социјална политика, демографија и млади",
+      "chamber": "Sobranie",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://opendata.sobranie.mk/api/3/action/package_search?rows=50"
+    },
+    {
+      "id": "mk-c-20",
+      "name": "Комисија за транспорт, дигитална трансформација, животна средина и просторно планирање",
+      "chamber": "Sobranie",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://opendata.sobranie.mk/api/3/action/package_search?rows=50"
+    },
+    {
+      "id": "mk-c-21",
+      "name": "Комисија за финансирање и буџет",
+      "chamber": "Sobranie",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://opendata.sobranie.mk/api/3/action/package_search?rows=50"
+    },
+    {
+      "id": "mk-c-22",
+      "name": "Национален совет за евроинтеграции",
+      "chamber": "Sobranie",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://opendata.sobranie.mk/api/3/action/package_search?rows=50"
+    },
+    {
+      "id": "mk-c-23",
+      "name": "Постојана анкетна комисија за заштита на слободите и правата на граѓанинот",
+      "chamber": "Sobranie",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://opendata.sobranie.mk/api/3/action/package_search?rows=50"
+    },
+    {
+      "id": "mk-c-24",
+      "name": "Совет на Собранискиот канал",
+      "chamber": "Sobranie",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://opendata.sobranie.mk/api/3/action/package_search?rows=50"
+    }
+  ],
+  "note": "Official Assembly CKAN. Committee names taken from komisiski_sednici_2024-2028 resource titles. 24 unique bodies (hyphen variant merged). Cap 80."
 }

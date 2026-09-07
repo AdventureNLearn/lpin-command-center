@@ -1,7 +1,57 @@
 {
   "iso2": "qa",
-  "source_url": "https://www.wikidata.org/wiki/Q818691",
+  "source_url": "https://www.shura.qa/ar-QA/Pages/About-Council/Committees",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "items": [
+    {
+      "id": "legal-legislative",
+      "name": "لجنة الشؤون القانونية والتشريعية",
+      "chamber": "Majlis Al-Shura",
+      "kind": "standing",
+      "origin": "clerk",
+      "source_url": "https://www.shura.qa/ar-QA/Pages/About-Council/Committees"
+    },
+    {
+      "id": "internal-external",
+      "name": "لجنة الشؤون الداخلية والخارجية",
+      "chamber": "Majlis Al-Shura",
+      "kind": "standing",
+      "origin": "clerk",
+      "source_url": "https://www.shura.qa/ar-QA/Pages/About-Council/Committees"
+    },
+    {
+      "id": "finance-economy",
+      "name": "لجنة الشؤون المالية والاقتصادية",
+      "chamber": "Majlis Al-Shura",
+      "kind": "standing",
+      "origin": "clerk",
+      "source_url": "https://www.shura.qa/ar-QA/Pages/About-Council/Committees"
+    },
+    {
+      "id": "health-services-environment",
+      "name": "لجنة شؤون الصحة والخدمات العامة والبيئة",
+      "chamber": "Majlis Al-Shura",
+      "kind": "standing",
+      "origin": "clerk",
+      "source_url": "https://www.shura.qa/ar-QA/Pages/About-Council/Committees"
+    },
+    {
+      "id": "education-culture-sport-media",
+      "name": "لجنة شؤون التعليم والثقافة والرياضة والإعلام",
+      "chamber": "Majlis Al-Shura",
+      "kind": "standing",
+      "origin": "clerk",
+      "source_url": "https://www.shura.qa/ar-QA/Pages/About-Council/Committees"
+    },
+    {
+      "id": "social-labour-housing",
+      "name": "لجنة الشؤون الاجتماعية والعمل والإسكان",
+      "chamber": "Majlis Al-Shura",
+      "kind": "standing",
+      "origin": "clerk",
+      "source_url": "https://www.shura.qa/ar-QA/Pages/About-Council/Committees"
+    }
+  ],
+  "note": "Capped sample from official source."
 }

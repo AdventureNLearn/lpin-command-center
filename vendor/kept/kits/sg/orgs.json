@@ -1,7 +1,244 @@
 {
   "iso2": "sg",
-  "items": [],
+  "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40",
+  "items": [
+    {
+      "id": "ai",
+      "name": "Angkatan Islam Singapura (Angkasa)",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "bs",
+      "name": "Barisan Sosialis",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "cp",
+      "name": "Citizens' Party",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "dp",
+      "name": "Democratic Party",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "dpp",
+      "name": "Democratic Progressive Party",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "jps",
+      "name": "Justice Party Singapore",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "lp",
+      "name": "Labour Party",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "lsp",
+      "name": "Liberal Socialist Party",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "nsp",
+      "name": "National Solidarity Party",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "pap",
+      "name": "People's Action Party",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "par",
+      "name": "People's Alliance for Reform",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "pf",
+      "name": "People's Front",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "pkms",
+      "name": "Pertubuhan Kebangsaan Melayu Singapura",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "pmip",
+      "name": "Pan Malayan Islamic Party",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "pp",
+      "name": "Progressive Party",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "ppp",
+      "name": "People's Power Party",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "prssd",
+      "name": "Partai Rakyat, Singapore State Division",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "psp",
+      "name": "Progress Singapore Party",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "pv",
+      "name": "Peoples Voice",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "rdu",
+      "name": "Red Dot United",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "rp",
+      "name": "Reform Party",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "sa",
+      "name": "Singapore Alliance",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "sc",
+      "name": "Singapore Congress",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "sda",
+      "name": "Singapore Democratic Alliance",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "sdp",
+      "name": "Singapore Democratic Party",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "sf",
+      "name": "Socialist Front",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "sgf",
+      "name": "Singaporeans First",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "sjp",
+      "name": "Singapore Justice Party",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "slf",
+      "name": "Singapore Labour Front",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "snf",
+      "name": "Singapore National Front",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "spa",
+      "name": "Singapore People's Alliance",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "spp",
+      "name": "Singapore People's Party",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "suf",
+      "name": "Singapore United Front",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "sup",
+      "name": "Singapore United Party",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "uf",
+      "name": "United Front",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "unf",
+      "name": "United National Front",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "upf",
+      "name": "United People's Front",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "upp",
+      "name": "United People's Party",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    },
+    {
+      "id": "usd",
+      "name": "United Singapore Democrats",
+      "kind": "political-party",
+      "source_url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40"
+    }
+  ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "origin": "crawl-merge",
+  "note": "Merged from crawl collected.orgs (official source). Cap 40. Incomplete."
 }

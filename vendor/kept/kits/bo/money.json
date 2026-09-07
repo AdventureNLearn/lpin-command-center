@@ -1,7 +1,17 @@
 {
   "iso2": "bo",
-  "items": [],
+  "named_donors": false,
+  "unit": "BOB",
+  "sitting_total_reconstructed": 8764999.41,
+  "buckets": [
+    {
+      "label": "fortalecimiento público año no electoral 2024 (all political organizations combined)",
+      "amount": 8764999.41
+    }
+  ],
   "incomplete": true,
+  "source_url": "https://web.oep.org.bo/gestion/2024/",
+  "extra_source_url": "https://web.oep.org.bo/organizaciones-politicas/fiscalizacion/",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "OEP/TSE official gestión 2024 HTML HTTP 200 this seat. Resolución TSE-RSP-ADM N° 018/2024 printed distribution of Fortalecimiento Público en Año No Electoral gestión 2024 Bs8.764.999,41. UTF fiscalization portal HTTP 200; per-party financial statements and named donors not collected. Amounts not invented."
 }

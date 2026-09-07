@@ -1,7 +1,811 @@
 {
   "iso2": "ch",
-  "source_url": "https://www.wikidata.org/wiki/Q684719",
+  "chamber": "Federal Assembly of Switzerland",
+  "source_url": "https://ws.parlament.ch/odata.svc/Committee?$top=80&$filter=Language%20eq%20'EN'&$format=json",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 80,
+  "items": [
+    {
+      "id": "1",
+      "name": "Bureau Conseil national",
+      "chamber": "Conseil national",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=1,Language='EN')"
+    },
+    {
+      "id": "2",
+      "name": "Commission des finances Conseil national",
+      "chamber": "Conseil national",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=2,Language='EN')"
+    },
+    {
+      "id": "3",
+      "name": "Commission de gestion Conseil national",
+      "chamber": "Conseil national",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=3,Language='EN')"
+    },
+    {
+      "id": "4",
+      "name": "Commission de politique extérieure Conseil national",
+      "chamber": "Conseil national",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=4,Language='EN')"
+    },
+    {
+      "id": "5",
+      "name": "Commission de la science, de l'éducation et de la culture Conseil national",
+      "chamber": "Conseil national",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=5,Language='EN')"
+    },
+    {
+      "id": "6",
+      "name": "Commission de la sécurité sociale et de la santé publique Conseil national",
+      "chamber": "Conseil national",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=6,Language='EN')"
+    },
+    {
+      "id": "7",
+      "name": "Commission de l'environnement, de l'aménagement du territoire et de l'énergie Conseil national",
+      "chamber": "Conseil national",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=7,Language='EN')"
+    },
+    {
+      "id": "8",
+      "name": "Commission de la politique de sécurité Conseil national",
+      "chamber": "Conseil national",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=8,Language='EN')"
+    },
+    {
+      "id": "9",
+      "name": "Commission des transports et des télécommunications Conseil national",
+      "chamber": "Conseil national",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=9,Language='EN')"
+    },
+    {
+      "id": "10",
+      "name": "Commission de l'économie et des redevances Conseil national",
+      "chamber": "Conseil national",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=10,Language='EN')"
+    },
+    {
+      "id": "11",
+      "name": "Commission des institutions politiques Conseil national",
+      "chamber": "Conseil national",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=11,Language='EN')"
+    },
+    {
+      "id": "12",
+      "name": "Commission des affaires juridiques Conseil national",
+      "chamber": "Conseil national",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=12,Language='EN')"
+    },
+    {
+      "id": "13",
+      "name": "Commission des constructions publiques CN",
+      "chamber": "Conseil national",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=13,Language='EN')"
+    },
+    {
+      "id": "14",
+      "name": "Bureau Conseil des États",
+      "chamber": "Conseil des Etats",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=14,Language='EN')"
+    },
+    {
+      "id": "15",
+      "name": "Commission des finances Conseil des États",
+      "chamber": "Conseil des Etats",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=15,Language='EN')"
+    },
+    {
+      "id": "16",
+      "name": "Commission de gestion Conseil des États",
+      "chamber": "Conseil des Etats",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=16,Language='EN')"
+    },
+    {
+      "id": "17",
+      "name": "Commission de politique extérieure Conseil des États",
+      "chamber": "Conseil des Etats",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=17,Language='EN')"
+    },
+    {
+      "id": "18",
+      "name": "Commission de la science, de l'éducation et de la culture Conseil des États",
+      "chamber": "Conseil des Etats",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=18,Language='EN')"
+    },
+    {
+      "id": "19",
+      "name": "Commission de la sécurité sociale et de la santé publique Conseil des États",
+      "chamber": "Conseil des Etats",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=19,Language='EN')"
+    },
+    {
+      "id": "20",
+      "name": "Commission de l'environnement, de l'aménagement du territoire et de l'énergie Conseil des États",
+      "chamber": "Conseil des Etats",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=20,Language='EN')"
+    },
+    {
+      "id": "21",
+      "name": "Commission de la politique de sécurité Conseil des États",
+      "chamber": "Conseil des Etats",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=21,Language='EN')"
+    },
+    {
+      "id": "22",
+      "name": "Commission des transports et des télécommunications Conseil des États",
+      "chamber": "Conseil des Etats",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=22,Language='EN')"
+    },
+    {
+      "id": "23",
+      "name": "Commission de l'économie et des redevances Conseil des États",
+      "chamber": "Conseil des Etats",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=23,Language='EN')"
+    },
+    {
+      "id": "24",
+      "name": "Commission des institutions politiques Conseil des États",
+      "chamber": "Conseil des Etats",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=24,Language='EN')"
+    },
+    {
+      "id": "25",
+      "name": "Commission des affaires juridiques Conseil des États",
+      "chamber": "Conseil des Etats",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=25,Language='EN')"
+    },
+    {
+      "id": "26",
+      "name": "Commission des constructions publiques CE",
+      "chamber": "Conseil des Etats",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=26,Language='EN')"
+    },
+    {
+      "id": "27",
+      "name": "Délégation administrative",
+      "chamber": "Assemblée fédérale (Chambres réunies)",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=27,Language='EN')"
+    },
+    {
+      "id": "28",
+      "name": "Délégation des finances",
+      "chamber": "Assemblée fédérale (Chambres réunies)",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=28,Language='EN')"
+    },
+    {
+      "id": "29",
+      "name": "Commission des grâces",
+      "chamber": "Assemblée fédérale (Chambres réunies)",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=29,Language='EN')"
+    },
+    {
+      "id": "30",
+      "name": "Commission de rédaction",
+      "chamber": "Assemblée fédérale (Chambres réunies)",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=30,Language='EN')"
+    },
+    {
+      "id": "31",
+      "name": "Délégation auprès de l’Assemblée parlementaire du Conseil de l’Europe",
+      "chamber": "Assemblée fédérale (Chambres réunies)",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=31,Language='EN')"
+    },
+    {
+      "id": "32",
+      "name": "Délégation AELE / Parlement européen",
+      "chamber": "Assemblée fédérale (Chambres réunies)",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=32,Language='EN')"
+    },
+    {
+      "id": "33",
+      "name": "Délégation auprès de l'Union interparlementaire",
+      "chamber": "Assemblée fédérale (Chambres réunies)",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=33,Language='EN')"
+    },
+    {
+      "id": "34",
+      "name": "Délégation auprès de l'Assemblée parlementaire de la Francophonie",
+      "chamber": "Assemblée fédérale (Chambres réunies)",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=34,Language='EN')"
+    },
+    {
+      "id": "35",
+      "name": "Délégation auprès de l'Assemblée parlementaire de l'OSCE",
+      "chamber": "Assemblée fédérale (Chambres réunies)",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=35,Language='EN')"
+    },
+    {
+      "id": "39",
+      "name": "Commission 92.083-CN",
+      "chamber": "Conseil national",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=39,Language='EN')"
+    },
+    {
+      "id": "40",
+      "name": "Commission 92.083-CE",
+      "chamber": "Conseil des Etats",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=40,Language='EN')"
+    },
+    {
+      "id": "41",
+      "name": "Commission 91.312-CE",
+      "chamber": "Conseil des Etats",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=41,Language='EN')"
+    },
+    {
+      "id": "42",
+      "name": "Commission 92.305-CE",
+      "chamber": "Conseil des Etats",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=42,Language='EN')"
+    },
+    {
+      "id": "43",
+      "name": "Commission 92.306-CE",
+      "chamber": "Conseil des Etats",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=43,Language='EN')"
+    },
+    {
+      "id": "44",
+      "name": "Commission 90.266-CN",
+      "chamber": "Conseil national",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=44,Language='EN')"
+    },
+    {
+      "id": "45",
+      "name": "Commission 91.425-CN",
+      "chamber": "Conseil national",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=45,Language='EN')"
+    },
+    {
+      "id": "46",
+      "name": "Commission 92.442-CN",
+      "chamber": "Conseil national",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=46,Language='EN')"
+    },
+    {
+      "id": "47",
+      "name": "Commission 92.451-CN",
+      "chamber": "Conseil national",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=47,Language='EN')"
+    },
+    {
+      "id": "48",
+      "name": "Commission 92.451-CE",
+      "chamber": "Conseil des Etats",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=48,Language='EN')"
+    },
+    {
+      "id": "51",
+      "name": "Commission 85.227-CE",
+      "chamber": "Conseil des Etats",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=51,Language='EN')"
+    },
+    {
+      "id": "52",
+      "name": "Commission 90.231-CE",
+      "chamber": "Conseil des Etats",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=52,Language='EN')"
+    },
+    {
+      "id": "53",
+      "name": "Commission 90.265-CE",
+      "chamber": "Conseil des Etats",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=53,Language='EN')"
+    },
+    {
+      "id": "54",
+      "name": "Commission 90.021-CN",
+      "chamber": "Conseil national",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=54,Language='EN')"
+    },
+    {
+      "id": "55",
+      "name": "Commission 90.021-CE",
+      "chamber": "Conseil des Etats",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=55,Language='EN')"
+    },
+    {
+      "id": "56",
+      "name": "Commission 91.032-CN",
+      "chamber": "Conseil national",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=56,Language='EN')"
+    },
+    {
+      "id": "57",
+      "name": "Commission 91.019-CE",
+      "chamber": "Conseil des Etats",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=57,Language='EN')"
+    },
+    {
+      "id": "58",
+      "name": "Commission 91.034-CN",
+      "chamber": "Conseil national",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=58,Language='EN')"
+    },
+    {
+      "id": "61",
+      "name": "Commission 93.411-CN",
+      "chamber": "Conseil national",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=61,Language='EN')"
+    },
+    {
+      "id": "62",
+      "name": "Commission 93.411-CE",
+      "chamber": "Conseil des Etats",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=62,Language='EN')"
+    },
+    {
+      "id": "75",
+      "name": "Commission 90.022-CE",
+      "chamber": "Conseil des Etats",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=75,Language='EN')"
+    },
+    {
+      "id": "76",
+      "name": "Délégation des commissions de gestion",
+      "chamber": "Assemblée fédérale (Chambres réunies)",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=76,Language='EN')"
+    },
+    {
+      "id": "209",
+      "name": "Commission 95.076-CN",
+      "chamber": "Conseil national",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=209,Language='EN')"
+    },
+    {
+      "id": "212",
+      "name": "Commission 95.067-CN",
+      "chamber": "Conseil national",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=212,Language='EN')"
+    },
+    {
+      "id": "213",
+      "name": "Commission 95.067-CE",
+      "chamber": "Conseil des Etats",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=213,Language='EN')"
+    },
+    {
+      "id": "215",
+      "name": "Commission des finances NR. Minorité Marti Werner",
+      "chamber": "Conseil national",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=215,Language='EN')"
+    },
+    {
+      "id": "220",
+      "name": "Commission 96.016-CE",
+      "chamber": "Conseil des Etats",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=220,Language='EN')"
+    },
+    {
+      "id": "221",
+      "name": "Commission 96.016-CN",
+      "chamber": "Conseil national",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=221,Language='EN')"
+    },
+    {
+      "id": "261",
+      "name": "Commission 96.091-CN",
+      "chamber": "Conseil national",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=261,Language='EN')"
+    },
+    {
+      "id": "262",
+      "name": "Commission 96.091-CE",
+      "chamber": "Conseil des Etats",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=262,Language='EN')"
+    },
+    {
+      "id": "315",
+      "name": "Bureau de l'Assemblée fédérale (Chambres réunies)",
+      "chamber": "Assemblée fédérale (Chambres réunies)",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=315,Language='EN')"
+    },
+    {
+      "id": "328",
+      "name": "Commission 98.059-CN",
+      "chamber": "Conseil national",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=328,Language='EN')"
+    },
+    {
+      "id": "329",
+      "name": "Commission 98.059-CE",
+      "chamber": "Conseil des Etats",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=329,Language='EN')"
+    },
+    {
+      "id": "333",
+      "name": "Délégation de surveillance des NLFA",
+      "chamber": "Assemblée fédérale (Chambres réunies)",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=333,Language='EN')"
+    },
+    {
+      "id": "351",
+      "name": "Commission 99.028-CN",
+      "chamber": "Conseil national",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=351,Language='EN')"
+    },
+    {
+      "id": "389",
+      "name": "Commission 00.016-CN",
+      "chamber": "Conseil national",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=389,Language='EN')"
+    },
+    {
+      "id": "390",
+      "name": "Commission 00.016-CE",
+      "chamber": "Conseil des Etats",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=390,Language='EN')"
+    },
+    {
+      "id": "482",
+      "name": "Commission spéciale CN (01.074)",
+      "chamber": "Conseil national",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=482,Language='EN')"
+    },
+    {
+      "id": "483",
+      "name": "Commission spéciale CE (01.074)",
+      "chamber": "Conseil des Etats",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=483,Language='EN')"
+    },
+    {
+      "id": "536",
+      "name": "Commission judiciaire",
+      "chamber": "Assemblée fédérale (Chambres réunies)",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=536,Language='EN')"
+    },
+    {
+      "id": "545",
+      "name": "Commission spéciale CN (03.047)",
+      "chamber": "Conseil national",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=545,Language='EN')"
+    },
+    {
+      "id": "547",
+      "name": "Commission spéciale CE (03.047)",
+      "chamber": "Conseil des Etats",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=547,Language='EN')"
+    },
+    {
+      "id": "582",
+      "name": "Délégation auprès de l'Assemblée parlementaire de l'OTAN",
+      "chamber": "Assemblée fédérale (Chambres réunies)",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=582,Language='EN')"
+    },
+    {
+      "id": "596",
+      "name": "Commission de réhabilitation V",
+      "chamber": "Assemblée fédérale (Chambres réunies)",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=596,Language='EN')"
+    },
+    {
+      "id": "600",
+      "name": "Commission 04.012-CN",
+      "chamber": "Conseil national",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/OData.svc/Committee(ID=600,Language='EN')"
+    }
+  ],
+  "note": "capped at 80"
 }

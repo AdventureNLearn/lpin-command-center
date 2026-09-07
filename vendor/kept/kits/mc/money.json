@@ -1,7 +1,20 @@
 {
   "iso2": "mc",
-  "items": [],
+  "named_donors": false,
+  "unit": "EUR",
+  "sitting_total_reconstructed": null,
+  "buckets": [
+    {
+      "label": "comptes de campagne (campaign accounts)",
+      "source_url": "https://www.gouv.mc/gouvernement-et-institutions/les-institutions/les-assemblees-et-corps-constitues/la-commission-de-verification-des-comptes-de-campagne"
+    },
+    {
+      "label": "rapports de vérification published in Journal de Monaco",
+      "source_url": "https://www.gouv.mc/gouvernement-et-institutions/les-institutions/les-assemblees-et-corps-constitues/la-commission-de-verification-des-comptes-de-campagne"
+    }
+  ],
   "incomplete": true,
+  "source_url": "https://www.gouv.mc/gouvernement-et-institutions/les-institutions/les-assemblees-et-corps-constitues/la-commission-de-verification-des-comptes-de-campagne",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "Official Electoral Campaign Auditing Committee page HTTP 200. Source-type register buckets only (campaign accounts; verification reports published in Journal de Monaco). Combined collected EUR totals not printed on the commission page. Legal expenditure ceiling is not a collected total and was not stored. Named private donors not collected. Amounts not invented."
 }

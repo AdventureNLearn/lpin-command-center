@@ -1,7 +1,45 @@
 {
   "iso2": "ba",
-  "items": [],
+  "named_donors": false,
+  "unit": "BAM",
+  "sitting_total_reconstructed": 20828151.57,
+  "buckets": [
+    {
+      "label": "budget revenues 2024 (all reporting parties combined)",
+      "amount": 20828151.57
+    },
+    {
+      "label": "total revenues 2024 (all reporting parties combined)",
+      "amount": 29299601.58
+    },
+    {
+      "label": "membership fees 2024 (aggregate)",
+      "amount": 2537584.92
+    },
+    {
+      "label": "voluntary contributions from natural persons 2024 (aggregate)",
+      "amount": 3575229.85
+    },
+    {
+      "label": "voluntary contributions from legal persons 2024 (aggregate)",
+      "amount": 433756.4
+    },
+    {
+      "label": "property income 2024 (aggregate)",
+      "amount": 670779.16
+    },
+    {
+      "label": "non-cash donations 2024 (aggregate)",
+      "amount": 367261.24
+    },
+    {
+      "label": "other revenues 2024 (aggregate)",
+      "amount": 886838.44
+    }
+  ],
   "incomplete": true,
+  "source_url": "https://www.izbori.ba/Documents/Revizija/2024/Fin_izvjestaji_2024/informacija_gfi_2024/informacija_o_podnesenim_godisnjim_fip_stranaka_za_2024.pdf",
+  "extra_source_url": "https://www.izbori.ba/?Lang=3&CategoryId=1412&Tag=581",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "CIK BiH Informacija o podnesenim godišnjim finansijskim izvještajima političkih stranaka za 2024. HTTP 200 this seat. Tabela 1 printed source-type aggregates only (138 of 207 parties filed). sitting_total_reconstructed is printed Prihodi iz budžeta 20.828.151,57 KM, not a sum of all buckets. Zero-amount propaganda and enterprise-profit rows omitted. Named private donors / per-party annex not collected. Incomplete: 69 parties did not file."
 }

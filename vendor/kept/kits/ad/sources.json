@@ -28,6 +28,34 @@
       "url": "https://www.wikidata.org/wiki/Q24824",
       "kind": "index",
       "basis": "Evidence"
+    },
+    {
+      "id": "official-orgs",
+      "label": "Official registered political parties / committees",
+      "url": "https://www.consellgeneral.ad/ca/composicio-actual/els-grups-parlamentaris",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://www.consellgeneral.ad/ca/composicio-actual/les-comissions-legislatives",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-ethics",
+      "label": "Official ethics",
+      "url": "https://www.consellgeneral.ad/ca/noticies/guia-per-aplicacio-del-codi-de-conducta-dels-consellers-generals",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-https-q24824",
+      "label": "General Council of Andorra (https)",
+      "url": "https://www.consellgeneral.ad",
+      "kind": "primary",
+      "basis": "Evidence"
     }
   ],
   "incomplete": false

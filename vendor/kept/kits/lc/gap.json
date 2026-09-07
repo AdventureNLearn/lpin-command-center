@@ -2,6 +2,11 @@
   "iso2": "lc",
   "items": [
     {
+      "id": "members",
+      "hole": "items 42 claimed_seats 28 (overfill). Wikidata P39 without end-date filter. Current sitting not invented.",
+      "basis": "Evidence"
+    },
+    {
       "id": "votes",
       "hole": "No sourced roll-call file.",
       "basis": "Evidence"
@@ -25,9 +30,24 @@
       "id": "committees",
       "hole": "No sourced committee list.",
       "basis": "Evidence"
+    },
+    {
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "orgs",
+      "hole": "No sourced org list.",
+      "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: House of Assembly of Saint Lucia · Senate of Saint Lucia · Parliament of Saint Lucia. Sitting 42. Empty objects not invented."
+  "note": "polish-iso-08. Sitting 42. Empty categories are holes, not zeros invented."
 }

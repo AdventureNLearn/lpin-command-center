@@ -1,7 +1,16 @@
 {
   "iso2": "sn",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://www.cena.sn/",
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "listes-en-lice-par-circonscription",
+      "name": "LISTES EN LICE PAR CIRCONSCRIPTION",
+      "source_url": "https://www.cena.sn/rapports/LISTES_EN_LICE_PAR_CIRCONSCRIPTION.pdf",
+      "kind": "political-party",
+      "origin": "cena"
+    }
+  ],
+  "note": "Capped sample from official source."
 }

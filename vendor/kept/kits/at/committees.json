@@ -1,7 +1,381 @@
 {
   "iso2": "at",
-  "source_url": "https://www.wikidata.org/wiki/Q4817650",
+  "chamber": "Austrian Parliament",
+  "source_url": "https://www.parlament.gv.at/recherchieren/open-data/daten-und-lizenz/datensatz-ausschuesse/index.html",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 37,
+  "items": [
+    {
+      "id": "ausschuss-XXVIII-A-VF-1-00938",
+      "name": "Verfassungsausschuss",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/A-VF/1/00938"
+    },
+    {
+      "id": "ausschuss-XXVIII-SA-IA-1-00925",
+      "name": "Ständiger Unterausschuss des Ausschusses für innere Angelegenheiten",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/SA-IA/1/00925"
+    },
+    {
+      "id": "ausschuss-XXVIII-A-PB-1-00932",
+      "name": "Ausschuss für Petitionen und Bürgerinitiativen",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/A-PB/1/00932"
+    },
+    {
+      "id": "ausschuss-XXVIII-A-SP-1-00935",
+      "name": "Sportausschuss",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/A-SP/1/00935"
+    },
+    {
+      "id": "ausschuss-XXVIII-SA-BU-1-00908",
+      "name": "Ständiger Unterausschuss des Budgetausschusses",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/SA-BU/1/00908"
+    },
+    {
+      "id": "ausschuss-XXVIII-A-KU-1-00928",
+      "name": "Kulturausschuss",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/A-KU/1/00928"
+    },
+    {
+      "id": "ausschuss-XXVIII-SA-EU-1-00910",
+      "name": "Ständiger Unterausschuss in Angelegenheiten der Europäischen Union",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/SA-EU/1/00910"
+    },
+    {
+      "id": "ausschuss-XXVIII-A-WH-1-00940",
+      "name": "Ausschuss für Wirtschaft, Industrie und Energie",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/A-WH/1/00940"
+    },
+    {
+      "id": "ausschuss-XXVIII-A-VE-1-00939",
+      "name": "Ausschuss für Verkehr und Mobilität",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/A-VE/1/00939"
+    },
+    {
+      "id": "ausschuss-XXVIII-A-UV-1-00915",
+      "name": "Unvereinbarkeitsausschuss",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/A-UV/1/00915"
+    },
+    {
+      "id": "ausschuss-XXVIII-SA-RH-1-00934",
+      "name": "Ständiger Unterausschuss des Rechnungshofausschusses",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/SA-RH/1/00934"
+    },
+    {
+      "id": "ausschuss-XXVIII-A-RH-1-00933",
+      "name": "Rechnungshofausschuss",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/A-RH/1/00933"
+    },
+    {
+      "id": "ausschuss-XXVIII-SA-P9-1-00916",
+      "name": "Ständiger gemeinsamer Ausschuss im Sinne des § 9 des Finanz-Verfassungsgesetzes 1948",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/SA-P9/1/00916"
+    },
+    {
+      "id": "ausschuss-XXVIII-SA-HA-1-00912",
+      "name": "Ständiger Unterausschuss des Hauptausschusses",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/SA-HA/1/00912"
+    },
+    {
+      "id": "ausschuss-XXVIII-SA-LV-1-00930",
+      "name": "Ständiger Unterausschuss des Landesverteidigungsausschusses",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/SA-LV/1/00930"
+    },
+    {
+      "id": "ausschuss-XXVIII-A-IA-1-00924",
+      "name": "Ausschuss für innere Angelegenheiten",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/A-IA/1/00924"
+    },
+    {
+      "id": "ausschuss-XXVIII-A-JU-1-00926",
+      "name": "Justizausschuss",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/A-JU/1/00926"
+    },
+    {
+      "id": "ausschuss-XXVIII-A-UM-1-00937",
+      "name": "Umweltausschuss",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/A-UM/1/00937"
+    },
+    {
+      "id": "ausschuss-XXVIII-A-LV-1-00929",
+      "name": "Landesverteidigungsausschuss",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/A-LV/1/00929"
+    },
+    {
+      "id": "ausschuss-XXVIII-A-LF-1-00931",
+      "name": "Ausschuss für Land- und Forstwirtschaft",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/A-LF/1/00931"
+    },
+    {
+      "id": "ausschuss-XXVIII-A-IM-1-00913",
+      "name": "Immunitätsausschuss",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/A-IM/1/00913"
+    },
+    {
+      "id": "ausschuss-XXVIII-A-HA-1-00911",
+      "name": "Hauptausschuss",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/A-HA/1/00911"
+    },
+    {
+      "id": "ausschuss-XXVIII-A-GL-1-00923",
+      "name": "Gleichbehandlungsausschuss",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/A-GL/1/00923"
+    },
+    {
+      "id": "ausschuss-XXVIII-A-BU-1-00907",
+      "name": "Budgetausschuss",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/A-BU/1/00907"
+    },
+    {
+      "id": "ausschuss-XXVIII-A-GE-1-00922",
+      "name": "Gesundheitsausschuss",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/A-GE/1/00922"
+    },
+    {
+      "id": "ausschuss-XXVIII-A-FA-1-00920",
+      "name": "Ausschuss für Familie und Jugend",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/A-FA/1/00920"
+    },
+    {
+      "id": "ausschuss-XXVIII-A-AS-1-00917",
+      "name": "Ausschuss für Arbeit und Soziales",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/A-AS/1/00917"
+    },
+    {
+      "id": "ausschuss-XXVIII-A-GO-1-00914",
+      "name": "Geschäftsordnungsausschuss",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/A-GO/1/00914"
+    },
+    {
+      "id": "ausschuss-XXVIII-A-FI-1-00921",
+      "name": "Finanzausschuss",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/A-FI/1/00921"
+    },
+    {
+      "id": "ausschuss-XXVIII-A-BA-1-00919",
+      "name": "Ausschuss für Bauten und Wohnen",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/A-BA/1/00919"
+    },
+    {
+      "id": "ausschuss-XXVIII-A-AU-1-00918",
+      "name": "Außenpolitischer Ausschuss",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/A-AU/1/00918"
+    },
+    {
+      "id": "ausschuss-XXVIII-A-BI-1-00942",
+      "name": "Bildungsausschuss",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/A-BI/1/00942"
+    },
+    {
+      "id": "ausschuss-XXVIII-A-KO-1-00927",
+      "name": "Ausschuss für Konsumentenschutz",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/A-KO/1/00927"
+    },
+    {
+      "id": "ausschuss-XXVIII-A-MV-1-00943",
+      "name": "Ausschuss für Menschenrechte und Volksanwaltschaft",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/A-MV/1/00943"
+    },
+    {
+      "id": "ausschuss-XXVIII-A-TO-1-00936",
+      "name": "Tourismusausschuss",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/A-TO/1/00936"
+    },
+    {
+      "id": "ausschuss-XXVIII-A-WI-1-00941",
+      "name": "Ausschuss für Wissenschaft, Forschung und Digitalisierung",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/A-WI/1/00941"
+    },
+    {
+      "id": "ausschuss-XXVIII-SA-ESM-1-00909",
+      "name": "Ständiger Unterausschuss in ESM-Angelegenheiten",
+      "chamber": "Nationalrat",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gv.at/ausschuss/XXVIII/SA-ESM/1/00909"
+    }
+  ],
+  "note": "Filter API 2008 Ausschuesse NR XXVIII HTTP 200."
 }

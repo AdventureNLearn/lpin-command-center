@@ -1,7 +1,23 @@
 {
   "iso2": "uy",
-  "items": [],
+  "named_donors": false,
+  "unit": "",
+  "buckets": [
+    {
+      "label": "financiamiento y rendiciones elecciones nacionales 2024",
+      "source_url": "https://www.gub.uy/corte-electoral/comunicacion/publicaciones/financiamiento-rendiciones-cuenta-elecciones-nacionales-segunda-eleccion"
+    },
+    {
+      "label": "presupuesto inicial de campaña (candidatos presidenciales)",
+      "source_url": "https://www.gub.uy/corte-electoral/datos-y-estadisticas/datos/presupuesto-inicial-campana-donaciones-contribuciones-candidatos"
+    },
+    {
+      "label": "presupuesto inicial de campaña (candidatos a cámaras)",
+      "source_url": "https://www.gub.uy/corte-electoral/datos-y-estadisticas/datos/presupuesto-inicial-campana-donaciones-contribuciones-candidatos-camara"
+    }
+  ],
   "incomplete": true,
+  "source_url": "https://www.gub.uy/corte-electoral/comunicacion/publicaciones/financiamiento-rendiciones-cuenta-elecciones-nacionales-segunda-eleccion",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "Corte Electoral official campaign-finance pages HTTP 200 this pass (financiamiento y rendiciones elecciones nacionales y segunda elección 2024; presupuesto inicial de campaña). Source-type register buckets only. Combined UYU totals not extracted from per-party PDFs this pass (not summed, not invented). aplicaciones.corteelectoral.gub.uy RendicionDeCuentas2024 search HTTP 403 (harvest UA and browser UA); hunt-stop that host. Named private donors not collected."
 }

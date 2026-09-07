@@ -14,6 +14,27 @@
       "url": "https://www.ft.dk/",
       "kind": "primary",
       "basis": "Evidence"
+    },
+    {
+      "id": "official-votes",
+      "label": "Official roll-call / division source",
+      "url": "https://oda.ft.dk/api/Afstemning?$top=50&$orderby=id%20desc",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://oda.ft.dk/api/Akt%C3%B8r?$filter=typeid%20eq%203&$top=80",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-orgs",
+      "label": "Official registered political parties / committees",
+      "url": "https://oda.ft.dk/api/Akt%C3%B8r?%24filter=typeid%20eq%204&%24top=40&%24format=json",
+      "kind": "primary",
+      "basis": "Evidence"
     }
   ],
   "incomplete": false

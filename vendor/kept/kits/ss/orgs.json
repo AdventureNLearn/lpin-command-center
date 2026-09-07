@@ -1,7 +1,46 @@
 {
   "iso2": "ss",
-  "items": [],
+  "source_url": "https://nla.gov.ss/political-parties-and-groups-represented-in-the-national-legislative-assembly/",
+  "items": [
+    {
+      "id": "the-sudan-people-s-liberation-movement-splm",
+      "name": "The Sudan People’s Liberation Movement (SPLM)",
+      "kind": "political-party",
+      "source_url": "https://nla.gov.ss/political-parties-and-groups-represented-in-the-national-legislative-assembly/"
+    },
+    {
+      "id": "the-sudan-people-s-liberation-movement-in-opposition-splm-io",
+      "name": "The Sudan People’s Liberation Movement in Opposition (SPLM-IO)",
+      "kind": "political-party",
+      "source_url": "https://nla.gov.ss/political-parties-and-groups-represented-in-the-national-legislative-assembly/"
+    },
+    {
+      "id": "south-sudan-opposition-alliance",
+      "name": "South Sudan Opposition Alliance",
+      "kind": "political-party",
+      "source_url": "https://nla.gov.ss/political-parties-and-groups-represented-in-the-national-legislative-assembly/"
+    },
+    {
+      "id": "former-detainees",
+      "name": "Former detainees",
+      "kind": "parliamentary-group",
+      "source_url": "https://nla.gov.ss/political-parties-and-groups-represented-in-the-national-legislative-assembly/"
+    },
+    {
+      "id": "the-national-agenda",
+      "name": "The National Agenda",
+      "kind": "political-party",
+      "source_url": "https://nla.gov.ss/political-parties-and-groups-represented-in-the-national-legislative-assembly/"
+    },
+    {
+      "id": "dc",
+      "name": "DC",
+      "kind": "political-party",
+      "source_url": "https://nla.gov.ss/political-parties-and-groups-represented-in-the-national-legislative-assembly/"
+    }
+  ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "origin": "electoral-register",
+  "note": "Official NLA political parties and groups page. Independents label dropped. Cap 40. Incomplete."
 }

@@ -22,12 +22,17 @@
       "basis": "Evidence"
     },
     {
-      "id": "committees",
-      "hole": "No sourced committee list.",
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members-count",
+      "hole": "Wikidata sitting 315 vs claimed_seats 99 / institutional 99. Overcount 216 (historical or multi-body rows likely). Rows not trimmed or invented.",
       "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: Member of the Parliament of Singapore · Parliament of Singapore. Sitting 315. Empty objects not invented."
+  "note": "Polish polish-iso-12 2026-09-06. Sitting 315. Dupes removed 0 (id then name+chamber). Overcount 216 vs 99. Empty categories are holes, not zeros invented."
 }

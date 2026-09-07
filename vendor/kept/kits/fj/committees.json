@@ -1,7 +1,91 @@
 {
   "iso2": "fj",
-  "source_url": "https://www.wikidata.org/wiki/Q4345425",
+  "chamber": "Parliament of Fiji",
+  "source_url": "https://web.archive.org/web/20250114184952/https://www.parliament.gov.fj/committees/",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 8,
+  "items": [
+    {
+      "id": "emoluments-committee",
+      "name": "Emoluments Committee",
+      "chamber": "Parliament of Fiji",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://web.archive.org/web/20250114184952/https://www.parliament.gov.fj/committees/"
+    },
+    {
+      "id": "privileges-committee",
+      "name": "Privileges Committee",
+      "chamber": "Parliament of Fiji",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://web.archive.org/web/20250114184952/https://www.parliament.gov.fj/committees/"
+    },
+    {
+      "id": "standing-committee-on-public-accounts",
+      "name": "Standing Committee on Public Accounts",
+      "chamber": "Parliament of Fiji",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://web.archive.org/web/20250114184952/https://www.parliament.gov.fj/committees/"
+    },
+    {
+      "id": "standing-committee-on-social-affairs",
+      "name": "Standing Committee on Social Affairs",
+      "chamber": "Parliament of Fiji",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://web.archive.org/web/20250114184952/https://www.parliament.gov.fj/committees/"
+    },
+    {
+      "id": "standing-committee-on-economic-affairs",
+      "name": "Standing Committee on Economic Affairs",
+      "chamber": "Parliament of Fiji",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://web.archive.org/web/20250114184952/https://www.parliament.gov.fj/committees/"
+    },
+    {
+      "id": "standing-committee-on-foreign-affairs-and-defence",
+      "name": "Standing Committee on Foreign Affairs and Defence",
+      "chamber": "Parliament of Fiji",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://web.archive.org/web/20250114184952/https://www.parliament.gov.fj/committees/"
+    },
+    {
+      "id": "standing-committee-on-justice-law-and-human-rights",
+      "name": "Standing Committee on Justice, Law and Human Rights",
+      "chamber": "Parliament of Fiji",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://web.archive.org/web/20250114184952/https://www.parliament.gov.fj/committees/"
+    },
+    {
+      "id": "standing-committee-on-natural-resources",
+      "name": "Standing Committee on Natural Resources",
+      "chamber": "Parliament of Fiji",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://web.archive.org/web/20250114184952/https://www.parliament.gov.fj/committees/"
+    }
+  ],
+  "note": "Live parliament.gov.fj committees paths HTTP 307 JS-redirect (not a roster). Wayback 2025-01-14 capture of official committees page HTTP 200. Duplicate punctuated rows and Sports/FICAC headings dropped. Memberships not collected."
 }

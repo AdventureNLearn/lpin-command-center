@@ -29,4 +29,5 @@ export const FIFTY_KERNEL = [
   "Not retrieved is a finding. It is not “nothing happened.”",
   "User types locality. Product samples stay geographically agnostic.",
   "Not legal advice. Not a live camera registry. Human final call.",
+  "Dirt is not shingles. Field is not boardroom. Do not skip a stack layer.",
 ] as const;

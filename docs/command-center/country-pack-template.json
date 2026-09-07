@@ -1,0 +1,44 @@
+{
+  "id": "country-pack-template",
+  "exemplar_iso2": "us",
+  "exemplar_path": "vendor/kept/kits/us",
+  "blank_path": "vendor/kept/kits/_template",
+  "sequence": "countries-first",
+  "note": "US is the most complete pack on disk, not finished. Match its attention (sourced, dated, honest empty). Not a political clone. Users type their own county/locality.",
+  "us_still_open": [
+    "House-only sitting file (Senate names not in members.json)",
+    "ethics/lobby/filers are samples, not the full register",
+    "county AHJ is user-typed; state packs only",
+    "incomplete remains true"
+  ],
+  "objects": [
+    "meta",
+    "institutional",
+    "members",
+    "parties",
+    "votes",
+    "pledges",
+    "committees",
+    "ethics",
+    "money",
+    "issues",
+    "sources",
+    "gap",
+    "filers",
+    "lobby",
+    "orgs"
+  ],
+  "us_bar": {
+    "members": 437,
+    "votes": 849,
+    "committees": 28,
+    "pledges": 297,
+    "ethics": "public categories",
+    "money": "FEC buckets, named_donors false",
+    "houses": ["United States Congress", "House of Representatives", "Senate"]
+  },
+  "subnational": {
+    "us_method": "state packs nationwide; user types county or place",
+    "global": "national kit first; first-level subnational only if official; locality user-typed"
+  }
+}

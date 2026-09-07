@@ -1,7 +1,91 @@
 {
   "iso2": "cu",
-  "source_url": "https://www.wikidata.org/wiki/Q720753",
+  "chamber": "National Assembly of People's Power",
+  "source_url": "https://www.parlamentocubano.gob.cu/comisiones",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 8,
+  "items": [
+    {
+      "id": "agroalimentaria",
+      "name": "Comisión Agroalimentaria",
+      "chamber": "National Assembly of People's Power",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlamentocubano.gob.cu/comisiones/comision-agroalimentaria"
+    },
+    {
+      "id": "defensa-nacional-orden-interior",
+      "name": "Comisión de Defensa Nacional y Orden Interior",
+      "chamber": "National Assembly of People's Power",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlamentocubano.gob.cu/comisiones/comision-de-defensa-nacional-y-orden-interior"
+    },
+    {
+      "id": "industria-construcciones-energia",
+      "name": "Comisión de Industria, Construcciones y Energía",
+      "chamber": "National Assembly of People's Power",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlamentocubano.gob.cu/comisiones/comision-de-industria-construcciones-y-energia"
+    },
+    {
+      "id": "educacion-cultura-ciencia-tecnologia-medio-ambiente",
+      "name": "Comisión de Educación, Cultura, Ciencia, Tecnología y Medio Ambiente",
+      "chamber": "National Assembly of People's Power",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlamentocubano.gob.cu/comisiones/comision-de-educacion-cultura-ciencia-tecnologia-y-medio-ambiente"
+    },
+    {
+      "id": "asuntos-economicos",
+      "name": "Comisión de Asuntos Económicos",
+      "chamber": "National Assembly of People's Power",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlamentocubano.gob.cu/comisiones/comision-de-asuntos-economicos"
+    },
+    {
+      "id": "salud-y-deporte",
+      "name": "Comisión de Salud y Deporte",
+      "chamber": "National Assembly of People's Power",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlamentocubano.gob.cu/comisiones/comision-de-salud-y-deporte"
+    },
+    {
+      "id": "juventud-ninez-igualdad-mujer",
+      "name": "Comisión de Atención a la Juventud, la Niñez y la Igualdad de los Derechos de la Mujer",
+      "chamber": "National Assembly of People's Power",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlamentocubano.gob.cu/comisiones/comision-de-atencion-la-juventud-la-ninez-y-la-igualdad-de-los-derechos-de-la-mujer"
+    },
+    {
+      "id": "asuntos-constitucionales-juridicos",
+      "name": "Comisión de Asuntos Constitucionales y Jurídicos",
+      "chamber": "National Assembly of People's Power",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlamentocubano.gob.cu/comisiones/comision-de-asuntos-constitucionales-y-juridicos"
+    }
+  ],
+  "note": "Permanent working commissions page HTTP 200. Eight named commissions collected from official links; page states 11 total. Remaining names not copied from non-list text."
 }

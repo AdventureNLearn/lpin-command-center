@@ -1,7 +1,61 @@
 {
   "iso2": "bj",
-  "source_url": "https://www.wikidata.org/wiki/Q1969527",
+  "chamber": "National Assembly",
+  "source_url": "https://assemblee-nationale.bj/index.php/presentation/organisation_et_fonctionnement/commissions-permanentes-de-lassemblee-nationale/",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 5,
+  "items": [
+    {
+      "id": "bj-an-comm-1",
+      "name": "Commission des Lois, de l'Administration et des Droits de l'Homme",
+      "chamber": "National Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.bj/index.php/presentation/organisation_et_fonctionnement/commissions-permanentes-de-lassemblee-nationale/"
+    },
+    {
+      "id": "bj-an-comm-2",
+      "name": "Commission des Finances et des Echanges",
+      "chamber": "National Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.bj/index.php/presentation/organisation_et_fonctionnement/commissions-permanentes-de-lassemblee-nationale/"
+    },
+    {
+      "id": "bj-an-comm-3",
+      "name": "Commission du Plan, de l'Équipement et de Production",
+      "chamber": "National Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.bj/index.php/presentation/organisation_et_fonctionnement/commissions-permanentes-de-lassemblee-nationale/"
+    },
+    {
+      "id": "bj-an-comm-4",
+      "name": "Commission de l'Éducation, de la Culture, de l'Emploi et des Affaires Sociales",
+      "chamber": "National Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.bj/index.php/presentation/organisation_et_fonctionnement/commissions-permanentes-de-lassemblee-nationale/"
+    },
+    {
+      "id": "bj-an-comm-5",
+      "name": "Commission des Relations Extérieures, de la Coopération au Développement, de la Défense et de la Sécurité",
+      "chamber": "National Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.bj/index.php/presentation/organisation_et_fonctionnement/commissions-permanentes-de-lassemblee-nationale/"
+    }
+  ],
+  "note": "HTTP 403 harvest UA; 200 browser UA. Five permanent commissions named on official National Assembly page. Collected 5."
 }

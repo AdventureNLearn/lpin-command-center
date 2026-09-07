@@ -1,8 +1,25 @@
 import { createServerFn } from "@tanstack/react-start";
+import { cached, fetchJson } from "./http";
 import { simulatedVessels } from "@/lib/intel/vessels";
 import type { Contact } from "@/lib/intel/types";
 
 type Snapshot = { vessels: Contact[]; source: string; freshness: "live" | "simulated"; at: number };
+
+const DT_LOC = "https://meri.digitraffic.fi/api/ais/v1/locations";
+const DT_VES = "https://meri.digitraffic.fi/api/ais/v1/vessels";
+const DT_HEADERS = { "Digitraffic-User": "GroksEyeView/1.1" };
+const DT_SOURCE = "Fintraffic Digitraffic AIS (Finnish waters)";
+const LIVE_CAP = 280;
+
+type DtLocations = {
+  features?: Array<{
+    mmsi?: number;
+    geometry?: { coordinates?: number[] };
+    properties?: { mmsi?: number; sog?: number; cog?: number; heading?: number };
+  }>;
+};
+
+type DtVessel = { mmsi?: number; name?: string };
 
 const cache: Snapshot = {
   vessels: [],
@@ -15,7 +32,15 @@ let socket: WebSocket | null = null;
 let started = false;
 let usedKey = "";
 
-function asContact(mmsi: string, lat: number, lon: number, heading: number, name: string, sog: number): Contact {
+function asContact(
+  mmsi: string,
+  lat: number,
+  lon: number,
+  heading: number,
+  name: string,
+  sog: number,
+  source = "AISStream",
+): Contact {
   return {
     id: `ais-${mmsi}`,
     kind: "vessel",
@@ -27,9 +52,46 @@ function asContact(mmsi: string, lat: number, lon: number, heading: number, name
     heading,
     speedMs: sog * 0.514444,
     vertMs: 0,
-    source: "AISStream",
+    source,
     freshness: "live",
   };
+}
+
+async function digitrafficNames(): Promise<Map<string, string>> {
+  const rows = await fetchJson<DtVessel[]>(DT_VES, { timeoutMs: 12_000, headers: DT_HEADERS });
+  const names = new Map<string, string>();
+  for (const row of rows ?? []) {
+    const mmsi = String(row.mmsi ?? "").trim();
+    const name = String(row.name ?? "").trim();
+    if (mmsi && name) names.set(mmsi, name);
+  }
+  return names;
+}
+
+async function pullDigitraffic(): Promise<Contact[]> {
+  const [locs, names] = await Promise.all([
+    fetchJson<DtLocations>(DT_LOC, { timeoutMs: 12_000, headers: DT_HEADERS }),
+    cached("ais:dt-names", 30 * 60 * 1000, digitrafficNames).catch(() => new Map<string, string>()),
+  ]);
+  const moving: Contact[] = [];
+  const rest: Contact[] = [];
+  for (const f of locs.features ?? []) {
+    const coords = f.geometry?.coordinates ?? [];
+    const lon = Number(coords[0]);
+    const lat = Number(coords[1]);
+    if (!Number.isFinite(lat) || !Number.isFinite(lon)) continue;
+    if (Math.abs(lat) > 90 || Math.abs(lon) > 180) continue;
+    const mmsi = String(f.mmsi ?? f.properties?.mmsi ?? "").trim();
+    if (!mmsi) continue;
+    const sog = Number(f.properties?.sog ?? 0) || 0;
+    let heading = Number(f.properties?.heading ?? 0);
+    if (!Number.isFinite(heading) || heading < 0 || heading >= 360) {
+      heading = Number(f.properties?.cog ?? 0) || 0;
+    }
+    const contact = asContact(mmsi, lat, lon, heading, names.get(mmsi) ?? "", sog, DT_SOURCE);
+    (sog > 0.3 ? moving : rest).push(contact);
+  }
+  return [...moving, ...rest].slice(0, LIVE_CAP);
 }
 
 function startAis(userKey?: string): void {
@@ -91,7 +153,7 @@ function startAis(userKey?: string): void {
               Number(pr.Sog ?? 0) || 0,
             ),
           );
-          if (live.size > 280) {
+          if (live.size > LIVE_CAP) {
             const first = live.keys().next().value;
             if (first) live.delete(first);
           }
@@ -129,6 +191,22 @@ export const getVessels = createServerFn({ method: "POST" })
   startAis(data.aisKey);
   if (cache.freshness === "live" && cache.vessels.length > 8) {
     return cache;
+  }
+  const keyed = Boolean((data.aisKey || process.env.AISSTREAM_API_KEY || "").trim());
+  if (!keyed) {
+    try {
+      const vessels = await cached("ais:digitraffic", 45_000, pullDigitraffic);
+      if (vessels.length) {
+        return {
+          vessels,
+          source: DT_SOURCE,
+          freshness: "live" as const,
+          at: Date.now(),
+        };
+      }
+    } catch {
+      /* modeled lanes */
+    }
   }
   return {
     vessels: simulatedVessels(),

@@ -1,7 +1,100 @@
 {
   "iso2": "tw",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://www.moi.gov.tw/lobby/",
   "retrieved": "2026-09-06",
-  "note": "No sourced lobby for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "遊說登記系統",
+      "name": "遊說登記系統",
+      "origin": "clerk",
+      "source_url": "https://lroa.moi.gov.tw/lroa-frontend/",
+      "kind": "lobby-info"
+    },
+    {
+      "id": "遊說法資訊專區",
+      "name": "遊說法資訊專區",
+      "origin": "clerk",
+      "source_url": "https://www.moi.gov.tw/lobby/cp.aspx?n=7584",
+      "kind": "lobby-info"
+    },
+    {
+      "id": "遊說法問答集",
+      "name": "遊說法問答集",
+      "origin": "clerk",
+      "source_url": "https://www.moi.gov.tw/lobby/cl.aspx?n=4641",
+      "kind": "lobby-info"
+    },
+    {
+      "id": "遊說公告事項",
+      "name": "遊說公告事項",
+      "origin": "clerk",
+      "source_url": "https://www.moi.gov.tw/lobby/News.aspx?n=4657&sms=10315",
+      "kind": "lobby-info"
+    },
+    {
+      "id": "受委託進行遊說備案資料",
+      "name": "受委託進行遊說備案資料",
+      "origin": "clerk",
+      "source_url": "https://www.moi.gov.tw/lobby/cl.aspx?n=4647",
+      "kind": "lobby-info"
+    },
+    {
+      "id": "受委託遊說者資料",
+      "name": "受委託遊說者資料",
+      "origin": "clerk",
+      "source_url": "https://www.moi.gov.tw/lobby/cl.aspx?n=5279",
+      "kind": "lobby-info"
+    },
+    {
+      "id": "中央及地方機關遊說案件統計資料",
+      "name": "中央及地方機關遊說案件統計資料",
+      "origin": "clerk",
+      "source_url": "https://www.moi.gov.tw/lobby/cl.aspx?n=5190",
+      "kind": "lobby-info"
+    },
+    {
+      "id": "內政部受理遊說案件資料",
+      "name": "內政部受理遊說案件資料",
+      "origin": "clerk",
+      "source_url": "https://www.moi.gov.tw/lobby/cl.aspx?n=4651",
+      "kind": "lobby-info"
+    },
+    {
+      "id": "遊說者申請登記事項",
+      "name": "遊說者申請登記事項",
+      "origin": "clerk",
+      "source_url": "https://www.moi.gov.tw/lobby/cl.aspx?n=4652",
+      "kind": "lobby-info"
+    },
+    {
+      "id": "被遊說者登記事項",
+      "name": "被遊說者登記事項",
+      "origin": "clerk",
+      "source_url": "https://www.moi.gov.tw/lobby/cl.aspx?n=4653",
+      "kind": "lobby-info"
+    },
+    {
+      "id": "115-08-10-中央及地方機關至115年第2季遊說案件統計",
+      "name": "115-08-10 中央及地方機關至115年第2季遊說案件統計",
+      "origin": "clerk",
+      "source_url": "https://www.moi.gov.tw/lobby/News_Content.aspx?n=4657&sms=10315&s=340134",
+      "kind": "lobby-info"
+    },
+    {
+      "id": "115-05-14-中央及地方機關至115年第1季遊說案件統計",
+      "name": "115-05-14 中央及地方機關至115年第1季遊說案件統計",
+      "origin": "clerk",
+      "source_url": "https://www.moi.gov.tw/lobby/News_Content.aspx?n=4657&sms=10315&s=338367",
+      "kind": "lobby-info"
+    },
+    {
+      "id": "115-03-03-中央及地方機關至114年第4季遊說案件統計",
+      "name": "115-03-03 中央及地方機關至114年第4季遊說案件統計",
+      "origin": "clerk",
+      "source_url": "https://www.moi.gov.tw/lobby/News_Content.aspx?n=4657&sms=10315&s=337069",
+      "kind": "lobby-info"
+    }
+  ],
+  "note": "Capped sample from official source."
 }

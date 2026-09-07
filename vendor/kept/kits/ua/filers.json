@@ -1,7 +1,16 @@
 {
   "iso2": "ua",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://transparency.nazk.gov.ua/",
   "retrieved": "2026-09-06",
-  "note": "No sourced filers for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "ua-nazk-transparency-filers-host",
+      "kind": "register-host",
+      "origin": "clerk",
+      "source_url": "https://transparency.nazk.gov.ua/",
+      "note": "NACP Transparency Register HTTP 200 SPA. Item list not in first HTML payload. Names not invented. Harvest kit not rewritten."
+    }
+  ],
+  "note": "Capped sample from official source."
 }

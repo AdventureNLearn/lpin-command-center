@@ -1,7 +1,30 @@
 {
   "iso2": "ls",
-  "source_url": "https://www.wikidata.org/wiki/Q4345419",
+  "source_url": "http://senate.parliament.ls/committees",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "items": [
+    {
+      "id": "portfolio-committees",
+      "name": "Portfolio Committees",
+      "title": "Portfolio Committees",
+      "chamber": "Parliament of Lesotho",
+      "source_url": "http://senate.parliament.ls/committees"
+    },
+    {
+      "id": "sessional-select-committees",
+      "name": "Sessional Select Committees",
+      "title": "Sessional Select Committees",
+      "chamber": "Parliament of Lesotho",
+      "source_url": "http://senate.parliament.ls/committees"
+    },
+    {
+      "id": "ad-hoc-committees",
+      "name": "Ad Hoc Committees",
+      "title": "Ad Hoc Committees",
+      "chamber": "Parliament of Lesotho",
+      "source_url": "http://senate.parliament.ls/committees"
+    }
+  ],
+  "note": "Official category names from Senate and National Assembly committees pages HTTP 200."
 }

@@ -1,7 +1,34 @@
 {
   "iso2": "rs",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://www.parlament.gov.rs/upload/rezultati_glasanja/2026/2-20.05.2026..pdf",
   "retrieved": "2026-09-06",
-  "note": "No sourced votes for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "2024-05-02-government-program",
+      "date": "2024-05-02",
+      "title": "Program Vlade i Predlog za predsednika i članove Vlade",
+      "chamber": "Narodna skupština",
+      "origin": "clerk",
+      "source_url": "http://www.parlament.gov.rs/upload/archive/files/lat/doc/stenografske_beleske/Prva%20posebna%20sednica%20NSRS%20u%20XIV%20sazivu,%20odrzane%202.%20maj%202024.%20godine,%20drugi%20dan%20rada%20LAT.docx",
+      "recorded": {
+        "yea": 152,
+        "nay": 61,
+        "abstain": 0,
+        "absent": 37,
+        "present": 213
+      }
+    },
+    {
+      "id": "2026-05-20-election-law",
+      "date": "2026-05-20",
+      "title": "Predlog zakona o izmenama i dopunama Zakona o izboru narodnih poslanika",
+      "chamber": "Narodna skupština",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.gov.rs/upload/rezultati_glasanja/2026/2-20.05.2026..pdf",
+      "recorded": null,
+      "note": "Official result PDF live; chamber totals not copied from person-level list this pass."
+    }
+  ],
+  "note": "Capped sample from official source."
 }

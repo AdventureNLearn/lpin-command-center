@@ -63,6 +63,13 @@
       "url": "https://www.wikidata.org/wiki/Q9134365",
       "kind": "index",
       "basis": "Evidence"
+    },
+    {
+      "id": "official-orgs",
+      "label": "Official registered political parties / committees",
+      "url": "https://search.electoralcommission.org.uk/api/search/Registrations?et=pp&regStatus=registered&rows=40&sort=RegulatedEntityName&order=asc",
+      "kind": "primary",
+      "basis": "Evidence"
     }
   ],
   "incomplete": false

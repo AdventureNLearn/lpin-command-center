@@ -1,7 +1,9 @@
 {
   "iso2": "ve",
-  "items": [],
+  "named_donors": false,
+  "buckets": [],
   "incomplete": true,
+  "source_url": "https://www.cne.gob.ve/",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "www.cne.gob.ve DNS miss (harvest UA and browser UA). asambleanacional.gob.ve DNS miss. mppef.gob.ve HTTP 200 is ministry news, not a party-funding total table. No official published combined campaign-finance total collected. Not invented. Named private donors not collected."
 }

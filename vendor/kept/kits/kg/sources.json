@@ -28,6 +28,27 @@
       "url": "https://www.wikidata.org/wiki/Q578193",
       "kind": "index",
       "basis": "Evidence"
+    },
+    {
+      "id": "official-orgs",
+      "label": "Official registered political parties / committees",
+      "url": "https://www.kenesh.kg/api/factions",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-votes",
+      "label": "Official roll-call / division source",
+      "url": "https://www.kenesh.kg/api/votes",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://www.kenesh.kg/api/committees",
+      "kind": "primary",
+      "basis": "Evidence"
     }
   ],
   "incomplete": false

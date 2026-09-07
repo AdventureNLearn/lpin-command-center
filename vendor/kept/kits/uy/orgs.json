@@ -1,7 +1,76 @@
 {
   "iso2": "uy",
-  "items": [],
+  "source_url": "https://eleccionesnacionales2024.corteelectoral.gub.uy/JSON/ResumenGeneral_D.json",
+  "items": [
+    {
+      "id": "partido-frente-amplio",
+      "name": "Partido Frente Amplio",
+      "kind": "political-party",
+      "source_url": "https://eleccionesnacionales2024.corteelectoral.gub.uy/JSON/ResumenGeneral_D.json"
+    },
+    {
+      "id": "partido-nacional",
+      "name": "Partido Nacional",
+      "kind": "political-party",
+      "source_url": "https://eleccionesnacionales2024.corteelectoral.gub.uy/JSON/ResumenGeneral_D.json"
+    },
+    {
+      "id": "partido-colorado",
+      "name": "Partido Colorado",
+      "kind": "political-party",
+      "source_url": "https://eleccionesnacionales2024.corteelectoral.gub.uy/JSON/ResumenGeneral_D.json"
+    },
+    {
+      "id": "partido-cabildo-abierto",
+      "name": "Partido Cabildo Abierto",
+      "kind": "political-party",
+      "source_url": "https://eleccionesnacionales2024.corteelectoral.gub.uy/JSON/ResumenGeneral_D.json"
+    },
+    {
+      "id": "partido-independiente",
+      "name": "Partido Independiente",
+      "kind": "political-party",
+      "source_url": "https://eleccionesnacionales2024.corteelectoral.gub.uy/JSON/ResumenGeneral_D.json"
+    },
+    {
+      "id": "partido-ecologista-radical-intransigente",
+      "name": "Partido Ecologista Radical Intransigente",
+      "kind": "political-party",
+      "source_url": "https://eleccionesnacionales2024.corteelectoral.gub.uy/JSON/ResumenGeneral_D.json"
+    },
+    {
+      "id": "partido-asamblea-popular",
+      "name": "Partido Asamblea Popular",
+      "kind": "political-party",
+      "source_url": "https://eleccionesnacionales2024.corteelectoral.gub.uy/JSON/ResumenGeneral_D.json"
+    },
+    {
+      "id": "partido-identidad-soberana",
+      "name": "Partido Identidad Soberana",
+      "kind": "political-party",
+      "source_url": "https://eleccionesnacionales2024.corteelectoral.gub.uy/JSON/ResumenGeneral_D.json"
+    },
+    {
+      "id": "partido-por-los-cambios-necesarios-pcn",
+      "name": "Partido Por Los Cambios Necesarios (PCN)",
+      "kind": "political-party",
+      "source_url": "https://eleccionesnacionales2024.corteelectoral.gub.uy/JSON/ResumenGeneral_D.json"
+    },
+    {
+      "id": "partido-constitucional-ambientalista",
+      "name": "Partido Constitucional Ambientalista",
+      "kind": "political-party",
+      "source_url": "https://eleccionesnacionales2024.corteelectoral.gub.uy/JSON/ResumenGeneral_D.json"
+    },
+    {
+      "id": "partido-avanzar-republicano",
+      "name": "Partido Avanzar Republicano",
+      "kind": "political-party",
+      "source_url": "https://eleccionesnacionales2024.corteelectoral.gub.uy/JSON/ResumenGeneral_D.json"
+    }
+  ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "origin": "electoral-register",
+  "note": "Corte Electoral 2024 national-election lemas (official JSON). Candidate/person lists not stored. Cap 40. Incomplete."
 }

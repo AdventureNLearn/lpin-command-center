@@ -1,7 +1,22 @@
 {
   "iso2": "bb",
-  "items": [],
+  "source_url": "https://www.barbadosparliament.com/",
+  "items": [
+    {
+      "id": "the-barbados-labour-party",
+      "name": "The Barbados Labour Party",
+      "kind": "political-party",
+      "source_url": "https://www.barbadosparliament.com/"
+    },
+    {
+      "id": "the-democratic-labour-party",
+      "name": "The Democratic Labour Party",
+      "kind": "political-party",
+      "source_url": "https://www.barbadosparliament.com/"
+    }
+  ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "origin": "electoral-register",
+  "note": "Official party/parliamentary-group register. Cap 40. Incomplete."
 }

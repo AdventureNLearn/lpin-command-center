@@ -1,7 +1,49 @@
 {
   "iso2": "cz",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://aplikace.mvcr.cz/seznam-politickych-stran/",
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "ano-2011",
+      "name": "ANO 2011",
+      "source_url": "https://www.psp.cz/sqw/hp.sqw?k=194"
+    },
+    {
+      "id": "ods",
+      "name": "ODS",
+      "source_url": "https://www.psp.cz/sqw/hp.sqw?k=194"
+    },
+    {
+      "id": "stan",
+      "name": "STAN",
+      "source_url": "https://www.psp.cz/sqw/hp.sqw?k=194"
+    },
+    {
+      "id": "pirati",
+      "name": "Piráti",
+      "source_url": "https://www.psp.cz/sqw/hp.sqw?k=194"
+    },
+    {
+      "id": "kdu-csl",
+      "name": "KDU-ČSL",
+      "source_url": "https://www.psp.cz/sqw/hp.sqw?k=194"
+    },
+    {
+      "id": "spd",
+      "name": "SPD",
+      "source_url": "https://www.psp.cz/sqw/hp.sqw?k=194"
+    },
+    {
+      "id": "motoriste-sobe",
+      "name": "Motoristé sobě",
+      "source_url": "https://www.psp.cz/sqw/hp.sqw?k=194"
+    },
+    {
+      "id": "top-09",
+      "name": "TOP 09",
+      "source_url": "https://www.psp.cz/sqw/hp.sqw?k=194"
+    }
+  ],
+  "note": "Capped sample from official source."
 }

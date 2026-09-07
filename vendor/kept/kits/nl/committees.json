@@ -1,7 +1,421 @@
 {
   "iso2": "nl",
-  "source_url": "https://www.wikidata.org/wiki/Q1371388",
+  "chamber": "States General",
+  "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie?$top=80",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 41,
+  "items": [
+    {
+      "id": "c8fca908-279a-44e2-9f7a-0199e521c28f",
+      "name": "Vaste commissie voor Landbouw, Natuur en Voedselkwaliteit",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(c8fca908-279a-44e2-9f7a-0199e521c28f)"
+    },
+    {
+      "id": "89edaeeb-6d77-4934-b8be-028bcb45d189",
+      "name": "Werkgroep Financiële Verantwoordingen",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(89edaeeb-6d77-4934-b8be-028bcb45d189)"
+    },
+    {
+      "id": "dd5994e0-6caf-4607-99b4-0396742c0e9b",
+      "name": "Tijdelijke commissie Fraudebeleid en Dienstverlening",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(dd5994e0-6caf-4607-99b4-0396742c0e9b)"
+    },
+    {
+      "id": "dd5204c5-6977-4235-bc0b-040aa15e0571",
+      "name": "Parlementaire enquêtecommissie financieel stelsel",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(dd5204c5-6977-4235-bc0b-040aa15e0571)"
+    },
+    {
+      "id": "d8c4982c-be0d-4d55-a6a7-074b3f8dd5ab",
+      "name": "Vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(d8c4982c-be0d-4d55-a6a7-074b3f8dd5ab)"
+    },
+    {
+      "id": "bdcee0c2-2d54-4d8a-85bd-0848599d2469",
+      "name": "Tijdelijke commissie benoeming Nationale ombudsman",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(bdcee0c2-2d54-4d8a-85bd-0848599d2469)"
+    },
+    {
+      "id": "e9bf81c4-abc0-4908-b2f8-087b4fe936a4",
+      "name": "Vaste commissie voor Veiligheid en Justitie",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(e9bf81c4-abc0-4908-b2f8-087b4fe936a4)"
+    },
+    {
+      "id": "177c62b9-fca4-462e-bc71-08d198297339",
+      "name": "Parlementaire enquêtecommissie aardgaswinning Groningen",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(177c62b9-fca4-462e-bc71-08d198297339)"
+    },
+    {
+      "id": "791b7605-4645-4f80-8092-0be71c859957",
+      "name": "Tijdelijke commissie ICT",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(791b7605-4645-4f80-8092-0be71c859957)"
+    },
+    {
+      "id": "85cc9502-1c99-422f-91fb-0c39aba9bcab",
+      "name": "Tijdelijke Commissie Onderzoek TBS",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(85cc9502-1c99-422f-91fb-0c39aba9bcab)"
+    },
+    {
+      "id": "1e683e12-45f6-4068-8549-114741ecdb9b",
+      "name": "Tijdelijke commissie Onderzoek Bouwfraude",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(1e683e12-45f6-4068-8549-114741ecdb9b)"
+    },
+    {
+      "id": "f72caf23-f2df-4adc-8a75-128446754bd1",
+      "name": "Tijdelijke commissie Uitvoeringsorganisaties",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(f72caf23-f2df-4adc-8a75-128446754bd1)"
+    },
+    {
+      "id": "48c117dc-4dd3-410e-ac30-14437c2a2f08",
+      "name": "Vaste commissie voor Volkshuisvesting en Ruimtelijke Ordening",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(48c117dc-4dd3-410e-ac30-14437c2a2f08)"
+    },
+    {
+      "id": "def27d77-515a-4f81-9980-146f9edfa641",
+      "name": "Tijdelijke commissie Digitale toekomst",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(def27d77-515a-4f81-9980-146f9edfa641)"
+    },
+    {
+      "id": "b7cb67c2-71c7-478c-b3cf-1498e06f8f89",
+      "name": "NAVO Parlementaire Assemblee",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(b7cb67c2-71c7-478c-b3cf-1498e06f8f89)"
+    },
+    {
+      "id": "dc296029-ed0e-47d4-bd39-1726f9f516ce",
+      "name": "OVSE Parlementaire Assemblee",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(dc296029-ed0e-47d4-bd39-1726f9f516ce)"
+    },
+    {
+      "id": "46dd3419-16ea-4bb4-8819-1ac3d3e25055",
+      "name": "Contactgroep Duitsland",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(46dd3419-16ea-4bb4-8819-1ac3d3e25055)"
+    },
+    {
+      "id": "8b038ac9-ba74-4b0d-930b-1d848d792f4c",
+      "name": "Contactgroep Groot Brittannië",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(8b038ac9-ba74-4b0d-930b-1d848d792f4c)"
+    },
+    {
+      "id": "44c341a0-ae41-4f51-9c81-1f94d2fd1107",
+      "name": "Vaste commissie voor Infrastructuur en Waterstaat",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(44c341a0-ae41-4f51-9c81-1f94d2fd1107)"
+    },
+    {
+      "id": "8d2d96dc-6adb-472c-a374-233c73341a0d",
+      "name": "Tijdelijke gemengde commissie subsidiariteitstoets",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(8d2d96dc-6adb-472c-a374-233c73341a0d)"
+    },
+    {
+      "id": "63535cc8-a088-4b96-9d5e-28026e8b51bd",
+      "name": "Parlementaire ondervragingscommissie ongewenste beïnvloeding uit onvrije landen",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(63535cc8-a088-4b96-9d5e-28026e8b51bd)"
+    },
+    {
+      "id": "7cea615c-96f1-4f55-822f-2b038fe75b23",
+      "name": "Parlementaire ondervragingscommissie Fiscale constructies",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(7cea615c-96f1-4f55-822f-2b038fe75b23)"
+    },
+    {
+      "id": "691aea0e-1191-455b-b107-2e81a3fa6f37",
+      "name": "Algemene commissie voor Jeugdzorg",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(691aea0e-1191-455b-b107-2e81a3fa6f37)"
+    },
+    {
+      "id": "af1f56ee-1f1f-4bed-b0ab-31097ecdddef",
+      "name": "Vaste commissie voor Koninkrijksrelaties",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(af1f56ee-1f1f-4bed-b0ab-31097ecdddef)"
+    },
+    {
+      "id": "0fb5100c-d9e8-4c59-b704-33b72e76029f",
+      "name": "Vaste commissie voor Justitie",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(0fb5100c-d9e8-4c59-b704-33b72e76029f)"
+    },
+    {
+      "id": "90f412fa-d124-49d1-a550-37a4220b0b69",
+      "name": "Vaste commissie voor Buitenlandse Handel en Ontwikkelingssamenwerking",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(90f412fa-d124-49d1-a550-37a4220b0b69)"
+    },
+    {
+      "id": "192ff0db-c77c-4cd1-9100-3d05559a1fe6",
+      "name": "Interparlementaire Unie (IPU)",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(192ff0db-c77c-4cd1-9100-3d05559a1fe6)"
+    },
+    {
+      "id": "2634a212-4b16-4891-9f34-42c8c68c7c43",
+      "name": "Tijdelijke commissie Onderzoek integratiebeleid",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(2634a212-4b16-4891-9f34-42c8c68c7c43)"
+    },
+    {
+      "id": "c6ad1d42-fb0f-4678-b38e-495cbf020bd3",
+      "name": "Tijdelijke commissie Parlementair onderzoek Onderwijsvernieuwingen",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(c6ad1d42-fb0f-4678-b38e-495cbf020bd3)"
+    },
+    {
+      "id": "d2462ecd-7746-40f1-ae65-4b4dd0ef9887",
+      "name": "Tijdelijke commissie Opsporingsmethoden",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(d2462ecd-7746-40f1-ae65-4b4dd0ef9887)"
+    },
+    {
+      "id": "db454dc4-07c7-439c-8c8c-4bcd40417388",
+      "name": "Vaste commissie voor Binnenlandse Zaken en Koninkrijksrelaties",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(db454dc4-07c7-439c-8c8c-4bcd40417388)"
+    },
+    {
+      "id": "a2f228e6-15bd-46e5-a088-4c3741036b05",
+      "name": "IPC Artikel 13",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(a2f228e6-15bd-46e5-a088-4c3741036b05)"
+    },
+    {
+      "id": "53359240-1bc2-4c15-9b8e-4c396d05db2a",
+      "name": "Enquêtecommissie Bouwnijverheid",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(53359240-1bc2-4c15-9b8e-4c396d05db2a)"
+    },
+    {
+      "id": "86cce16c-39ef-46bd-8fbe-4db6a57f433e",
+      "name": "Algemene commissie voor Immigratie, Integratie en Asiel",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(86cce16c-39ef-46bd-8fbe-4db6a57f433e)"
+    },
+    {
+      "id": "0167bf15-89c2-4ca2-9bca-4dfd79c3533a",
+      "name": "Tijdelijke commissie Huizenprijzen",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(0167bf15-89c2-4ca2-9bca-4dfd79c3533a)"
+    },
+    {
+      "id": "4e2ced14-ec17-43f1-8b5f-4eadc05b4589",
+      "name": "Vaste commissie voor Klimaat en Groene Groei",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(4e2ced14-ec17-43f1-8b5f-4eadc05b4589)"
+    },
+    {
+      "id": "ddf15bc6-1cce-4ca2-ae83-50907d527e5a",
+      "name": "Vaste commissie voor Verkeer en Waterstaat",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(ddf15bc6-1cce-4ca2-ae83-50907d527e5a)"
+    },
+    {
+      "id": "e1983fd8-9393-4814-8751-50f0d802a512",
+      "name": "Vaste commissie voor Economische Zaken en Klimaat",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(e1983fd8-9393-4814-8751-50f0d802a512)"
+    },
+    {
+      "id": "02737d3d-44b6-4dbb-957b-512c3b5af763",
+      "name": "Begeleidingscommissie Staatscommissie parlementair stelsel",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(02737d3d-44b6-4dbb-957b-512c3b5af763)"
+    },
+    {
+      "id": "f03add63-0be4-49cb-bb30-51a99bd03923",
+      "name": "Tijdelijke commissie Fyra",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(f03add63-0be4-49cb-bb30-51a99bd03923)"
+    },
+    {
+      "id": "fd1dd9b4-1e18-4974-bac0-539e8034dee2",
+      "name": "Tijdelijke commissie College van Toezicht Centrale Verzekeringen",
+      "chamber": "Tweede Kamer",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Commissie(fd1dd9b4-1e18-4974-bac0-539e8034dee2)"
+    }
+  ],
+  "note": "Tweede Kamer OData Commissie NaamNL"
 }

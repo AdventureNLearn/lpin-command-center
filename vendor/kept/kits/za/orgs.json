@@ -1,7 +1,117 @@
 {
   "iso2": "za",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://www.parliament.gov.za/political-party-list",
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "acdp",
+      "name": "African Christian Democratic Party",
+      "abbrev": "ACDP",
+      "source_url": "https://www.parliament.gov.za/political-party-list"
+    },
+    {
+      "id": "actionsa",
+      "name": "ActionSA",
+      "abbrev": "ActionSA",
+      "source_url": "https://www.parliament.gov.za/political-party-list"
+    },
+    {
+      "id": "aljama-ah",
+      "name": "Al-Jama-ah",
+      "abbrev": "ALJAMA AH",
+      "source_url": "https://www.parliament.gov.za/political-party-list"
+    },
+    {
+      "id": "anc",
+      "name": "African National Congress",
+      "abbrev": "ANC",
+      "source_url": "https://www.parliament.gov.za/political-party-list"
+    },
+    {
+      "id": "atm",
+      "name": "African Transformation Movement",
+      "abbrev": "ATM",
+      "source_url": "https://www.parliament.gov.za/political-party-list"
+    },
+    {
+      "id": "bosa",
+      "name": "Build One South Africa",
+      "abbrev": "BOSA",
+      "source_url": "https://www.parliament.gov.za/political-party-list"
+    },
+    {
+      "id": "da",
+      "name": "Democratic Alliance",
+      "abbrev": "DA",
+      "source_url": "https://www.parliament.gov.za/political-party-list"
+    },
+    {
+      "id": "eff",
+      "name": "Economic Freedom Fighters",
+      "abbrev": "EFF",
+      "source_url": "https://www.parliament.gov.za/political-party-list"
+    },
+    {
+      "id": "ff-plus",
+      "name": "Freedom Front Plus",
+      "abbrev": "FF Plus",
+      "source_url": "https://www.parliament.gov.za/political-party-list"
+    },
+    {
+      "id": "good",
+      "name": "Good Party",
+      "abbrev": "GOOD",
+      "source_url": "https://www.parliament.gov.za/political-party-list"
+    },
+    {
+      "id": "ifp",
+      "name": "Inkatha Freedom Party",
+      "abbrev": "IFP",
+      "source_url": "https://www.parliament.gov.za/political-party-list"
+    },
+    {
+      "id": "ncc",
+      "name": "National Coloured Congress",
+      "abbrev": "NCC",
+      "source_url": "https://www.parliament.gov.za/political-party-list"
+    },
+    {
+      "id": "patriotic-alliance",
+      "name": "Patriotic Alliance",
+      "abbrev": "PA",
+      "source_url": "https://www.parliament.gov.za/political-party-list"
+    },
+    {
+      "id": "pac",
+      "name": "Pan Africanist Congress of Azania",
+      "abbrev": "PAC",
+      "source_url": "https://www.parliament.gov.za/political-party-list"
+    },
+    {
+      "id": "rise-mzansi",
+      "name": "RISE Mzansi",
+      "abbrev": "RISE Mzansi",
+      "source_url": "https://www.parliament.gov.za/political-party-list"
+    },
+    {
+      "id": "uat",
+      "name": "United Africans Transformation",
+      "abbrev": "UAT",
+      "source_url": "https://www.parliament.gov.za/political-party-list"
+    },
+    {
+      "id": "mk",
+      "name": "uMkhonto weSizwe",
+      "abbrev": "MK",
+      "source_url": "https://www.parliament.gov.za/political-party-list"
+    },
+    {
+      "id": "udm",
+      "name": "United Democratic Movement",
+      "abbrev": "UDM",
+      "source_url": "https://www.parliament.gov.za/political-party-list"
+    }
+  ],
+  "note": "Capped sample from official source."
 }

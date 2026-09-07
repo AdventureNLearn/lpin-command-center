@@ -14,6 +14,34 @@
       "url": "https://www.parliament.bg/",
       "kind": "primary",
       "basis": "Evidence"
+    },
+    {
+      "id": "official-votes",
+      "label": "Official roll-call / division source",
+      "url": "https://www.parliament.bg/api/v1/vote-list",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://www.parliament.bg/api/v1/coll-list/bg/3",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-ethics",
+      "label": "Official MP financial-interest / disclosure register",
+      "url": "https://www.parliament.bg/api/v1/conflict-register",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-orgs",
+      "label": "Official orgs",
+      "url": "https://www.parliament.bg/api/v1/coll-list/bg/2",
+      "kind": "primary",
+      "basis": "Evidence"
     }
   ],
   "incomplete": false

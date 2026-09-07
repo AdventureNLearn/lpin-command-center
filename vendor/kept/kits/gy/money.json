@@ -1,7 +1,14 @@
 {
   "iso2": "gy",
-  "items": [],
-  "incomplete": true,
+  "named_donors": false,
+  "source_url": "https://www.gecom.org.gy/",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "incomplete": true,
+  "note": "Official elections host. Named donors and amounts not collected.",
+  "buckets": [
+    {
+      "label": "elections-commission-host",
+      "source_url": "https://www.gecom.org.gy/"
+    }
+  ]
 }

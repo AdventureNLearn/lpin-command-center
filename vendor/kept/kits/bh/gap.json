@@ -22,12 +22,27 @@
       "basis": "Evidence"
     },
     {
-      "id": "committees",
-      "hole": "No sourced committee list.",
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "orgs",
+      "hole": "No sourced org list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members-coverage",
+      "hole": "Named members 79 of statutory 80. Vacancies not padded. Names not invented without a current-term official list.",
       "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: National Assembly of Bahrain · Council of Representatives · Consultative Council of Bahrain. Sitting 79. Empty objects not invented."
+  "note": "Polish 2026-09-06 polish-iso-02. Members 79 of statutory 80. Dupes removed 0. Vacancies not invented."
 }

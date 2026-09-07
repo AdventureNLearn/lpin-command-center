@@ -1,7 +1,40 @@
 {
   "iso2": "kg",
-  "items": [],
+  "source_url": "https://www.kenesh.kg/api/factions",
+  "items": [
+    {
+      "id": "kg-org-203",
+      "name": "Депутатская группа «Элдик»",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.kenesh.kg/api/factions"
+    },
+    {
+      "id": "kg-org-302",
+      "name": "Депутатская группа «Ынтымак - Мекенчил»",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.kenesh.kg/api/factions"
+    },
+    {
+      "id": "kg-org-303",
+      "name": "Депутатская группа «Ала-Тоо»",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.kenesh.kg/api/factions"
+    },
+    {
+      "id": "kg-org-304",
+      "name": "Депутатская группа «Ишеним»",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.kenesh.kg/api/factions"
+    },
+    {
+      "id": "kg-org-306",
+      "name": "Депутатская группа «Эл үмүтү - Ата Журт»",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.kenesh.kg/api/factions"
+    }
+  ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "origin": "crawl-merge",
+  "note": "Merged from crawl collected.orgs (official source). Cap 40. Incomplete."
 }

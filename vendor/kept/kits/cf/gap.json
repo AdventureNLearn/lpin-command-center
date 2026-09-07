@@ -25,9 +25,29 @@
       "id": "committees",
       "hole": "No sourced committee list.",
       "basis": "Evidence"
+    },
+    {
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "orgs",
+      "hole": "No sourced org list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members-overcount",
+      "hole": "Sitting file has 469 unique members vs statutory/claimed 100 (Wikidata P39 includes former). Overcount noted; names not invented down.",
+      "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: Member of the National Assembly of the Central African Republic · National Assembly. Sitting 469. Empty objects not invented."
+  "note": "Polish 2026-09-06 polish-iso-03. Members 469 of claimed 100 (statutory 100). Dupes removed 0. Vacancies/overcount not invented down."
 }

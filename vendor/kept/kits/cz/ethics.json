@@ -1,7 +1,17 @@
 {
   "iso2": "cz",
-  "items": [],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced ethics for this ISO. Not invented."
+  "note": "Public Chamber registr oznámení classes named on the official Mandátový a imunitní výbor Registr page (zákon 159/2006 Sb.). CRO SPA not parsed. No amounts. No named filings. Deduped 1 duplicate ethics rows 2026-09-07.",
+  "source_url": "https://www.psp.cz/sqw/hp.sqw?k=403",
+  "items": [
+    {
+      "member_id": null,
+      "category": "registr oznámení (zákon o střetu zájmů)",
+      "public": true,
+      "amount_band": null,
+      "origin": "clerk",
+      "source_url": "https://www.psp.cz/sqw/hp.sqw?k=403"
+    }
+  ]
 }

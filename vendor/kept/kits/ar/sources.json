@@ -49,6 +49,55 @@
       "url": "https://www.wikidata.org/wiki/Q646190",
       "kind": "index",
       "basis": "Evidence"
+    },
+    {
+      "id": "official-orgs",
+      "label": "Official orgs",
+      "url": "https://datos.hcdn.gob.ar/api/3/action/package_show?id=bloques-interbloques-e-integracion",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-members",
+      "label": "Official sitting members file",
+      "url": "https://datos.hcdn.gob.ar/dataset/a80e0fa7-d73a-4ed1-9dec-80465e368951/resource/638cf72a-f993-4211-80e1-43984a529e4f/download/diputados_actuales2.0.json",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-votes",
+      "label": "Official roll-call / division source",
+      "url": "https://datos.hcdn.gob.ar/dataset/votaciones_nominales",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-pledges",
+      "label": "Official pledges portal",
+      "url": "https://www.hcdn.gob.ar",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://datos.hcdn.gob.ar/dataset/comisiones",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-ethics",
+      "label": "Official ethics",
+      "url": "https://www.argentina.gob.ar/anticorrupcion/declaraciones-juradas",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-money",
+      "label": "Official money / campaign-finance portal",
+      "url": "https://www.electoral.gob.ar/nuevo/index.php",
+      "kind": "primary",
+      "basis": "Evidence"
     }
   ],
   "incomplete": false

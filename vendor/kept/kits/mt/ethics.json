@@ -1,7 +1,23 @@
 {
   "iso2": "mt",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://standardscommissioner.com/",
   "retrieved": "2026-09-06",
-  "note": "No sourced ethics for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "mt-standards-commissioner",
+      "label": "Commissioner for Standards in Public Life",
+      "kind": "standards-office",
+      "source_url": "https://standardscommissioner.com/",
+      "note": "Investigates ethical-standard breaches by ministers, members of Parliament, and persons of trust. Personal case files not collected."
+    },
+    {
+      "id": "mt-standards-committee",
+      "label": "Parliamentary Standards Committee",
+      "kind": "oversight-committee",
+      "source_url": "https://standardscommissioner.com/",
+      "note": "Oversees the Commissioner. Chaired by the Speaker. Member lists not copied."
+    }
+  ],
+  "note": "Capped sample from official source."
 }

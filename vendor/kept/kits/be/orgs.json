@@ -1,7 +1,49 @@
 {
   "iso2": "be",
-  "items": [],
+  "source_url": "https://www.dekamer.be/pdf_sections/lobby/Lobbyregister.pdf",
+  "retrieved": "2026-09-07",
   "incomplete": true,
-  "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "items": [
+    {
+      "id": "be-org-11-11-11",
+      "name": "11.11.11",
+      "source_url": "https://www.dekamer.be/pdf_sections/lobby/Lobbyregister.pdf"
+    },
+    {
+      "id": "be-org-abbvie",
+      "name": "AbbVie",
+      "source_url": "https://www.dekamer.be/pdf_sections/lobby/Lobbyregister.pdf"
+    },
+    {
+      "id": "be-org-ab-inbev",
+      "name": "AB InBev",
+      "source_url": "https://www.dekamer.be/pdf_sections/lobby/Lobbyregister.pdf"
+    },
+    {
+      "id": "be-org-abr-bvi",
+      "name": "ABR - BVI",
+      "source_url": "https://www.dekamer.be/pdf_sections/lobby/Lobbyregister.pdf"
+    },
+    {
+      "id": "be-org-air-cargo-belgium",
+      "name": "Air Cargo Belgium",
+      "source_url": "https://www.dekamer.be/pdf_sections/lobby/Lobbyregister.pdf"
+    },
+    {
+      "id": "be-org-apco",
+      "name": "APCO",
+      "source_url": "https://www.dekamer.be/pdf_sections/lobby/Lobbyregister.pdf"
+    },
+    {
+      "id": "be-org-belgian-bioethanol-association",
+      "name": "Belgian Bioethanol Association",
+      "source_url": "https://www.dekamer.be/pdf_sections/lobby/Lobbyregister.pdf"
+    },
+    {
+      "id": "be-org-belgian-biopackaging",
+      "name": "Belgian BioPackaging",
+      "source_url": "https://www.dekamer.be/pdf_sections/lobby/Lobbyregister.pdf"
+    }
+  ],
+  "note": "Capped sample from official source."
 }

@@ -1,7 +1,20 @@
 {
   "iso2": "ge",
-  "items": [],
+  "named_donors": false,
+  "unit": "",
+  "buckets": [
+    {
+      "label": "party-finance monitoring (donations and membership fees)",
+      "source_url": "https://monitoring.sao.ge/"
+    },
+    {
+      "label": "campaign-finance declarations",
+      "source_url": "https://monitoring.sao.ge/"
+    }
+  ],
   "incomplete": true,
+  "source_url": "https://monitoring.sao.ge/",
+  "extra_source_url": "https://monitoring.acb.gov.ge/",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "State Audit Office party-finance monitoring portal HTTP 200 (probed 2026-09-06). Successor to Anti-Corruption Bureau monitoring.acb.gov.ge (HTTP 200 notice: functions transferred to SAO from 2026-03-02). Source-type register buckets only. Combined GEL totals not printed in GET HTML this pass (portal/SPA; per-party scanned declarations not summed, not invented). Named private donors not collected. cesko.ge 403 miss after one browser-UA retry (hunt-stop)."
 }

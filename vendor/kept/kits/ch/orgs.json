@@ -1,7 +1,184 @@
 {
   "iso2": "ch",
-  "items": [],
+  "source_url": "https://ws.parlament.ch/odata.svc/Party?$top=40&$filter=Language eq 'DE'",
+  "items": [
+    {
+      "id": "12",
+      "name": "Sozialdemokratische Partei der Schweiz",
+      "kind": "political-party",
+      "source_url": "https://ws.parlament.ch/OData.svc/Party(ID=12,Language='DE')"
+    },
+    {
+      "id": "13",
+      "name": "Schweizerische Volkspartei",
+      "kind": "political-party",
+      "source_url": "https://ws.parlament.ch/OData.svc/Party(ID=13,Language='DE')"
+    },
+    {
+      "id": "14",
+      "name": "Christlichdemokratische Volkspartei der Schweiz",
+      "kind": "political-party",
+      "source_url": "https://ws.parlament.ch/OData.svc/Party(ID=14,Language='DE')"
+    },
+    {
+      "id": "15",
+      "name": "FDP.Die Liberalen",
+      "kind": "political-party",
+      "source_url": "https://ws.parlament.ch/OData.svc/Party(ID=15,Language='DE')"
+    },
+    {
+      "id": "16",
+      "name": "Liberal-Demokratische Partei",
+      "kind": "political-party",
+      "source_url": "https://ws.parlament.ch/OData.svc/Party(ID=16,Language='DE')"
+    },
+    {
+      "id": "17",
+      "name": "Landesring der Unabhängigen",
+      "kind": "political-party",
+      "source_url": "https://ws.parlament.ch/OData.svc/Party(ID=17,Language='DE')"
+    },
+    {
+      "id": "18",
+      "name": "Evangelische Volkspartei der Schweiz",
+      "kind": "political-party",
+      "source_url": "https://ws.parlament.ch/OData.svc/Party(ID=18,Language='DE')"
+    },
+    {
+      "id": "19",
+      "name": "Schweizer Demokraten",
+      "kind": "political-party",
+      "source_url": "https://ws.parlament.ch/OData.svc/Party(ID=19,Language='DE')"
+    },
+    {
+      "id": "20",
+      "name": "GRÜNE Schweiz",
+      "kind": "political-party",
+      "source_url": "https://ws.parlament.ch/OData.svc/Party(ID=20,Language='DE')"
+    },
+    {
+      "id": "21",
+      "name": "Freiheits-Partei der Schweiz",
+      "kind": "political-party",
+      "source_url": "https://ws.parlament.ch/OData.svc/Party(ID=21,Language='DE')"
+    },
+    {
+      "id": "22",
+      "name": "Partei der Arbeit der Schweiz",
+      "kind": "political-party",
+      "source_url": "https://ws.parlament.ch/OData.svc/Party(ID=22,Language='DE')"
+    },
+    {
+      "id": "23",
+      "name": "Lega dei Ticinesi",
+      "kind": "political-party",
+      "source_url": "https://ws.parlament.ch/OData.svc/Party(ID=23,Language='DE')"
+    },
+    {
+      "id": "24",
+      "name": "Eidgenössisch-Demokratische Union",
+      "kind": "political-party",
+      "source_url": "https://ws.parlament.ch/OData.svc/Party(ID=24,Language='DE')"
+    },
+    {
+      "id": "25",
+      "name": "Grünes Bündnis",
+      "kind": "political-party",
+      "source_url": "https://ws.parlament.ch/OData.svc/Party(ID=25,Language='DE')"
+    },
+    {
+      "id": "27",
+      "name": "Christlich-soziale Partei",
+      "kind": "political-party",
+      "source_url": "https://ws.parlament.ch/OData.svc/Party(ID=27,Language='DE')"
+    },
+    {
+      "id": "28",
+      "name": "Alliance de Gauche",
+      "kind": "political-party",
+      "source_url": "https://ws.parlament.ch/OData.svc/Party(ID=28,Language='DE')"
+    },
+    {
+      "id": "1336",
+      "name": "Grünliberale Partei",
+      "kind": "political-party",
+      "source_url": "https://ws.parlament.ch/OData.svc/Party(ID=1336,Language='DE')"
+    },
+    {
+      "id": "1396",
+      "name": "Bauern- und Arbeiterbund",
+      "kind": "political-party",
+      "source_url": "https://ws.parlament.ch/OData.svc/Party(ID=1396,Language='DE')"
+    },
+    {
+      "id": "1398",
+      "name": "Bauernpartei (nicht BGB)",
+      "kind": "political-party",
+      "source_url": "https://ws.parlament.ch/OData.svc/Party(ID=1398,Language='DE')"
+    },
+    {
+      "id": "1404",
+      "name": "Demokraten",
+      "kind": "political-party",
+      "source_url": "https://ws.parlament.ch/OData.svc/Party(ID=1404,Language='DE')"
+    },
+    {
+      "id": "1405",
+      "name": "Demokraten dann Freisinnige",
+      "kind": "political-party",
+      "source_url": "https://ws.parlament.ch/OData.svc/Party(ID=1405,Language='DE')"
+    },
+    {
+      "id": "1406",
+      "name": "Demokraten und Arbeiterpartei",
+      "kind": "political-party",
+      "source_url": "https://ws.parlament.ch/OData.svc/Party(ID=1406,Language='DE')"
+    },
+    {
+      "id": "1407",
+      "name": "Demokratisch-konservative",
+      "kind": "political-party",
+      "source_url": "https://ws.parlament.ch/OData.svc/Party(ID=1407,Language='DE')"
+    },
+    {
+      "id": "1412",
+      "name": "Fortschrittspartei",
+      "kind": "political-party",
+      "source_url": "https://ws.parlament.ch/OData.svc/Party(ID=1412,Language='DE')"
+    },
+    {
+      "id": "1417",
+      "name": "Freisinn nahe",
+      "kind": "political-party",
+      "source_url": "https://ws.parlament.ch/OData.svc/Party(ID=1417,Language='DE')"
+    },
+    {
+      "id": "1420",
+      "name": "Gemässigte Konservative",
+      "kind": "political-party",
+      "source_url": "https://ws.parlament.ch/OData.svc/Party(ID=1420,Language='DE')"
+    },
+    {
+      "id": "1424",
+      "name": "Grütlianer",
+      "kind": "political-party",
+      "source_url": "https://ws.parlament.ch/OData.svc/Party(ID=1424,Language='DE')"
+    },
+    {
+      "id": "1425",
+      "name": "Grütlianer nahe",
+      "kind": "political-party",
+      "source_url": "https://ws.parlament.ch/OData.svc/Party(ID=1425,Language='DE')"
+    },
+    {
+      "id": "1426",
+      "name": "Grütlianer und Demokraten",
+      "kind": "political-party",
+      "source_url": "https://ws.parlament.ch/OData.svc/Party(ID=1426,Language='DE')"
+    }
+  ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "origin": "crawl-merge",
+  "note": "Merged from crawl collected.orgs (official source). Cap 40. Incomplete."
 }

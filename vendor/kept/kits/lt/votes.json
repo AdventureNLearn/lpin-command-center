@@ -1,7 +1,218 @@
 {
   "iso2": "lt",
-  "items": [],
-  "incomplete": true,
+  "chamber": "Seimas",
+  "session": "",
+  "source_url": "https://apps.lrs.lt/sip/p2b.ad_seimo_posedzio_eiga_full",
   "retrieved": "2026-09-06",
-  "note": "No sourced votes for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "lt-bals--59988",
+      "date": "2026-08-25",
+      "title": "Švietimo įstatymo Nr. I-1489 7, 8, 9, 10, 11, 14, 16, 19, 20, 21, 23, 29, 36, 38, 39, 41, 43, 44, 46, 49, 52, 53, 56, 57, 58, 59, 62, 63, 64, 67, 69, 70 straipsnių pakeitimo ir Įstatymo papildymo 56-4",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://apps.lrs.lt/sip/p2b.ad_sp_balsavimo_rezultatai?balsavimo_id=-59988"
+    },
+    {
+      "id": "lt-bals--59982",
+      "date": "2026-08-25",
+      "title": "Seimo nutarimo „Dėl Lietuvos Respublikos Seimo neeilinės sesijos darbų programos patvirtinimo“ projektas (Nr. XVP-1777)",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://apps.lrs.lt/sip/p2b.ad_sp_balsavimo_rezultatai?balsavimo_id=-59982"
+    },
+    {
+      "id": "lt-bals--59955",
+      "date": "2026-07-14",
+      "title": "Seimo nutarimo „Dėl Lietuvos Respublikos Seimo Pirmininko pirmojo pavaduotojo paskyrimo“ projektas (Nr. XVP-1765)",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://apps.lrs.lt/sip/p2b.ad_sp_balsavimo_rezultatai?balsavimo_id=-59955"
+    },
+    {
+      "id": "lt-bals--59969",
+      "date": "2026-07-14",
+      "title": "Darbo kodekso 185 straipsnio pakeitimo įstatymo projektas (Nr. XVP-1665)",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://apps.lrs.lt/sip/p2b.ad_sp_balsavimo_rezultatai?balsavimo_id=-59969"
+    },
+    {
+      "id": "lt-bals--59954",
+      "date": "2026-07-14",
+      "title": "Atmintinų dienų įstatymo Nr. VIII-397 1 straipsnio pakeitimo įstatymo projektas (Nr. XVP-1747)",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://apps.lrs.lt/sip/p2b.ad_sp_balsavimo_rezultatai?balsavimo_id=-59954"
+    },
+    {
+      "id": "lt-bals--59979",
+      "date": "2026-07-14",
+      "title": "Seimo nutarimo „Lietuvos Respublikos Seimo 2024 m. gruodžio 5 d. nutarimo Nr. XV-38 „Dėl Lietuvos Respublikos Seimo komisijų pirmininkų ir jų pavaduotojų patvirtinimo“ pakeitimo“ projektas (Nr. XVP-17",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://apps.lrs.lt/sip/p2b.ad_sp_balsavimo_rezultatai?balsavimo_id=-59979"
+    },
+    {
+      "id": "lt-bals--59947",
+      "date": "2026-07-14",
+      "title": "Mokesčių už pramoninės nuosavybės objektų registravimą įstatymo Nr. IX-352 pakeitimo įstatymo projektas (Nr. XVP-1634)",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://apps.lrs.lt/sip/p2b.ad_sp_balsavimo_rezultatai?balsavimo_id=-59947"
+    },
+    {
+      "id": "lt-bals--59958",
+      "date": "2026-07-14",
+      "title": "Seimo nutarimo „Dėl Lietuvos Respublikos Seimo 2024 m. lapkričio 14 d. nutarimo Nr. XV-9 „Dėl Lietuvos Respublikos Seimo valdybos patvirtinimo“ pakeitimo“ projektas (Nr. XVP-1766)",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://apps.lrs.lt/sip/p2b.ad_sp_balsavimo_rezultatai?balsavimo_id=-59958"
+    },
+    {
+      "id": "lt-bals--59961",
+      "date": "2026-07-14",
+      "title": "Seimo nutarimo „Dėl Lietuvos Respublikos Seimo 2024 m. lapkričio 14 d. nutarimo Nr. XV-10 „Dėl Lietuvos Respublikos Seimo seniūnų sueigos sudarymo“ pakeitimo“ projektas (Nr. XVP-1764)",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://apps.lrs.lt/sip/p2b.ad_sp_balsavimo_rezultatai?balsavimo_id=-59961"
+    },
+    {
+      "id": "lt-bals--59964",
+      "date": "2026-07-14",
+      "title": "Seimo nutarimo „Dėl Lietuvos Respublikos Seimo 2024 m. lapkričio 21 d. nutarimo Nr. XV-19 „Dėl Lietuvos Respublikos Seimo komitetų pirmininkų ir jų pavaduotojų patvirtinimo“ pakeitimo“ projektas (Nr.",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://apps.lrs.lt/sip/p2b.ad_sp_balsavimo_rezultatai?balsavimo_id=-59964"
+    },
+    {
+      "id": "lt-bals--59941",
+      "date": "2026-07-14",
+      "title": "Seimo nutarimo „Dėl pavedimo Lietuvos Respublikos valstybės kontrolei atlikti valstybinį auditą“ projektas (Nr. XVP-1670(2))",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://apps.lrs.lt/sip/p2b.ad_sp_balsavimo_rezultatai?balsavimo_id=-59941"
+    },
+    {
+      "id": "lt-bals--59945",
+      "date": "2026-07-14",
+      "title": "Administracinių nusižengimų kodekso 417 ir 589 straipsnių pakeitimo įstatymo projektas (Nr. XVP-543(3))",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://apps.lrs.lt/sip/p2b.ad_sp_balsavimo_rezultatai?balsavimo_id=-59945"
+    },
+    {
+      "id": "lt-bals--59943",
+      "date": "2026-07-14",
+      "title": "Saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2 ir 10 straipsnių pakeitimo įstatymo projektas (Nr. XVP-1689(2))",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://apps.lrs.lt/sip/p2b.ad_sp_balsavimo_rezultatai?balsavimo_id=-59943"
+    },
+    {
+      "id": "lt-bals--59944",
+      "date": "2026-07-14",
+      "title": "Saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 22 straipsnio pakeitimo įstatymo projektas (patikslintas) (Nr. XVP-720(3))",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://apps.lrs.lt/sip/p2b.ad_sp_balsavimo_rezultatai?balsavimo_id=-59944"
+    },
+    {
+      "id": "lt-bals--59939",
+      "date": "2026-07-14",
+      "title": "Klaipėdos valstybinio jūrų uosto pietinės dalies plėtros projekto įgyvendinimo įstatymo projektas (Nr. XVP-1597(2))",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://apps.lrs.lt/sip/p2b.ad_sp_balsavimo_rezultatai?balsavimo_id=-59939"
+    },
+    {
+      "id": "lt-bals--59974",
+      "date": "2026-07-14",
+      "title": "Seimo nutarimo „Dėl Lietuvos Respublikos Seimo Peticijų komisijos 2026 m. birželio 10 d. išvados Nr. 250-I-13“ projektas (Nr. XVP-1743)",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://apps.lrs.lt/sip/p2b.ad_sp_balsavimo_rezultatai?balsavimo_id=-59974"
+    },
+    {
+      "id": "lt-bals--59973",
+      "date": "2026-07-14",
+      "title": "Seimo nutarimo „Dėl Lietuvos Respublikos Seimo Peticijų komisijos 2026 m. birželio 10 d. išvados Nr. 250-I-12“ projektas (Nr. XVP-1742)",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://apps.lrs.lt/sip/p2b.ad_sp_balsavimo_rezultatai?balsavimo_id=-59973"
+    },
+    {
+      "id": "lt-bals--59975",
+      "date": "2026-07-14",
+      "title": "Seimo nutarimo „Dėl Lietuvos Respublikos Seimo Peticijų komisijos 2026 m. birželio 10 d. išvados Nr. 250-I-14“ projektas (Nr. XVP-1744)",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://apps.lrs.lt/sip/p2b.ad_sp_balsavimo_rezultatai?balsavimo_id=-59975"
+    },
+    {
+      "id": "lt-bals--59972",
+      "date": "2026-07-14",
+      "title": "Seimo nutarimo „Dėl Lietuvos Respublikos Seimo Peticijų komisijos 2026 m. balandžio 8 d. išvados Nr. 250-I-11“ projektas (Nr. XVP-1741)",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://apps.lrs.lt/sip/p2b.ad_sp_balsavimo_rezultatai?balsavimo_id=-59972"
+    },
+    {
+      "id": "lt-bals--59971",
+      "date": "2026-07-14",
+      "title": "Seimo nutarimo „Dėl Lietuvos Respublikos Seimo Peticijų komisijos 2026 m. birželio 10 d. išvados Nr. 250-I-23“ projektas (Nr. XVP-1700)",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://apps.lrs.lt/sip/p2b.ad_sp_balsavimo_rezultatai?balsavimo_id=-59971"
+    },
+    {
+      "id": "lt-bals--59970",
+      "date": "2026-07-14",
+      "title": "Seimo nutarimo „Dėl Lietuvos Respublikos Seimo Peticijų komisijos 2026 m. birželio 17 d. išvados Nr. 250-I-24“ projektas (Nr. XVP-1699(2))",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://apps.lrs.lt/sip/p2b.ad_sp_balsavimo_rezultatai?balsavimo_id=-59970"
+    },
+    {
+      "id": "lt-bals--59978",
+      "date": "2026-07-14",
+      "title": "Seimo nutarimo „Dėl Lietuvos Respublikos Seimo Peticijų komisijos 2026 m. gegužės 20 d. išvados Nr. 250-I-18“ projektas (Nr. XVP-1748)",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://apps.lrs.lt/sip/p2b.ad_sp_balsavimo_rezultatai?balsavimo_id=-59978"
+    },
+    {
+      "id": "lt-bals--59977",
+      "date": "2026-07-14",
+      "title": "Seimo nutarimo „Dėl Lietuvos Respublikos Seimo Peticijų komisijos 2026 m. birželio 10 d. išvados Nr. 250-I-16“ projektas (Nr. XVP-1746)",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://apps.lrs.lt/sip/p2b.ad_sp_balsavimo_rezultatai?balsavimo_id=-59977"
+    },
+    {
+      "id": "lt-bals--59976",
+      "date": "2026-07-14",
+      "title": "Seimo nutarimo „Dėl Lietuvos Respublikos Seimo Peticijų komisijos 2026 m. birželio 10 d. išvados Nr. 250-I-15“ projektas (Nr. XVP-1745)",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://apps.lrs.lt/sip/p2b.ad_sp_balsavimo_rezultatai?balsavimo_id=-59976"
+    },
+    {
+      "id": "lt-bals--59940",
+      "date": "2026-07-14",
+      "title": "Nesąžiningos prekybos praktikos pieno sektoriuje draudimo įstatymo projektas (Nr. XVP-395(3))",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://apps.lrs.lt/sip/p2b.ad_sp_balsavimo_rezultatai?balsavimo_id=-59940"
+    },
+    {
+      "id": "lt-bals--59949",
+      "date": "2026-07-14",
+      "title": "Klausimų grupė",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://apps.lrs.lt/sip/p2b.ad_sp_balsavimo_rezultatai?balsavimo_id=-59949"
+    }
+  ]
 }

@@ -1,7 +1,57 @@
 {
   "iso2": "mx",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://www.ine.mx/actores-politicos/partidos-politicos-nacionales/",
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "mx-pan",
+      "name": "Partido Acción Nacional",
+      "registered": "1946-03-30",
+      "source_url": "https://www.ine.mx/actores-politicos/partidos-politicos-nacionales/"
+    },
+    {
+      "id": "mx-pri",
+      "name": "Partido Revolucionario Institucional",
+      "registered": "1946-03-30",
+      "source_url": "https://www.ine.mx/actores-politicos/partidos-politicos-nacionales/"
+    },
+    {
+      "id": "mx-pvem",
+      "name": "Partido Verde Ecologista de México",
+      "registered": "1993-01-13",
+      "source_url": "https://www.ine.mx/actores-politicos/partidos-politicos-nacionales/"
+    },
+    {
+      "id": "mx-pt",
+      "name": "Partido del Trabajo",
+      "registered": "1993-01-13",
+      "source_url": "https://www.ine.mx/actores-politicos/partidos-politicos-nacionales/"
+    },
+    {
+      "id": "mx-mc",
+      "name": "Movimiento Ciudadano",
+      "registered": "1999-06-30",
+      "source_url": "https://www.ine.mx/actores-politicos/partidos-politicos-nacionales/"
+    },
+    {
+      "id": "mx-morena",
+      "name": "morena",
+      "registered": "2014-07-09",
+      "source_url": "https://www.ine.mx/actores-politicos/partidos-politicos-nacionales/"
+    },
+    {
+      "id": "mx-paz",
+      "name": "Partido PAZ",
+      "registered": "2026-06-25",
+      "source_url": "https://www.ine.mx/actores-politicos/partidos-politicos-nacionales/"
+    },
+    {
+      "id": "mx-somos",
+      "name": "Somos México",
+      "registered": "2026-06-25",
+      "source_url": "https://www.ine.mx/actores-politicos/partidos-politicos-nacionales/"
+    }
+  ],
+  "note": "Capped sample from official source."
 }

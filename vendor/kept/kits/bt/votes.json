@@ -1,7 +1,34 @@
 {
   "iso2": "bt",
-  "items": [],
-  "incomplete": true,
+  "chamber": "Parliament of Bhutan",
+  "session": "",
+  "source_url": "https://cms.parliament.gov.bt/uploads/Resolution_of_the_3rd_Session_Fourth_Parliament_Eng_c217d36f9f.pdf",
   "retrieved": "2026-09-06",
-  "note": "No sourced votes for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "bt-res-3-courteous-communication",
+      "date": "",
+      "title": "Motion to Incorporate Courteous Communication and Respectful Interaction into Public Service Training Programs",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://cms.parliament.gov.bt/uploads/Resolution_of_the_3rd_Session_Fourth_Parliament_Eng_c217d36f9f.pdf"
+    },
+    {
+      "id": "bt-res-3-online-content",
+      "date": "",
+      "title": "Motion to Strengthen Regulatory Enforcement and Institute a Zero-Tolerance Policy on Pornographic related Online Content",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://cms.parliament.gov.bt/uploads/Resolution_of_the_3rd_Session_Fourth_Parliament_Eng_c217d36f9f.pdf"
+    },
+    {
+      "id": "bt-res-3-pac",
+      "date": "",
+      "title": "Voting Records for the resolutions of the Public Accounts Committee",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://cms.parliament.gov.bt/uploads/Resolution_of_the_3rd_Session_Fourth_Parliament_Eng_c217d36f9f.pdf"
+    }
+  ]
 }

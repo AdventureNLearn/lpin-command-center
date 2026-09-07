@@ -2,6 +2,11 @@
   "iso2": "kp",
   "items": [
     {
+      "id": "members",
+      "hole": "Named members 179 of statutory 687 (claimed_seats 687). Vacancies not invented.",
+      "basis": "Evidence"
+    },
+    {
       "id": "votes",
       "hole": "No sourced roll-call file.",
       "basis": "Evidence"
@@ -25,9 +30,24 @@
       "id": "committees",
       "hole": "No sourced committee list.",
       "basis": "Evidence"
+    },
+    {
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "orgs",
+      "hole": "No sourced org list.",
+      "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: member of the Supreme People's Assembly · Supreme People's Assembly. Sitting 179. Empty objects not invented."
+  "note": "Category coverage 2026-09-06. Empty categories are holes, not zeros invented."
 }

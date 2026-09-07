@@ -56,6 +56,20 @@
       "url": "https://www.wikidata.org/wiki/Q841180",
       "kind": "index",
       "basis": "Evidence"
+    },
+    {
+      "id": "official-orgs",
+      "label": "Official registered political parties / committees",
+      "url": "https://www.elections.ca/content.aspx?section=pol&dir=par&document=index&lang=e",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "probe-ca-10",
+      "label": "Official endpoint (HTTP 200 this seat)",
+      "url": "https://www.ourcommons.ca/members/en/search/csv",
+      "kind": "primary",
+      "basis": "Evidence"
     }
   ],
   "incomplete": false

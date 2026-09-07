@@ -1,7 +1,17 @@
 {
   "iso2": "rw",
-  "items": [],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced ethics for this ISO. Not invented."
+  "source_url": "https://www.parliament.gov.rw/",
+  "items": [
+    {
+      "member_id": null,
+      "category": "deputies-conduct-discipline-immunity",
+      "public": true,
+      "amount_band": null,
+      "origin": "clerk",
+      "source_url": "https://www.parliament.gov.rw/"
+    }
+  ],
+  "note": "Category only from official assessment-committee mandate. Person-level filings not collected."
 }

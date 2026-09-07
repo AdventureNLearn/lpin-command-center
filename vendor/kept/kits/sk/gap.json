@@ -22,12 +22,27 @@
       "basis": "Evidence"
     },
     {
-      "id": "committees",
-      "hole": "No sourced committee list.",
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "orgs",
+      "hole": "No sourced org list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members-count",
+      "hole": "Wikidata sitting 189 vs claimed_seats 150 / institutional 150. Overcount 39 (historical or multi-body rows likely). Rows not trimmed or invented.",
       "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: Member of the National Council of the Slovak Republic · National Council of the Slovak Republic. Sitting 189. Empty objects not invented."
+  "note": "Polish polish-iso-12 2026-09-06. Sitting 189. Dupes removed 0 (id then name+chamber). Overcount 39 vs 150. Empty categories are holes, not zeros invented."
 }

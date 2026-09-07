@@ -20,13 +20,24 @@
       "label": "National Assembly of Mauritius",
       "url": "https://mauritiusassembly.govmu.org/",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 0,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-09",
+      "note": "Official parliament probe miss status 0 (timeout)."
     },
     {
       "id": "wd-q1854129",
       "label": "National Assembly of Mauritius (Wikidata)",
       "url": "https://www.wikidata.org/wiki/Q1854129",
       "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://mauritiusassembly.govmu.org/mauritiusassembly/index.php/committees-2024/",
+      "kind": "primary",
       "basis": "Evidence"
     }
   ],

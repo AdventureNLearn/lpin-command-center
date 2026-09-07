@@ -49,6 +49,20 @@
       "url": "https://www.wikidata.org/wiki/Q320290",
       "kind": "index",
       "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://datos.congreso.gov.py/opendata/api/data/comision",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-votes",
+      "label": "Official votes",
+      "url": "https://silpy.congreso.gov.py/web/votaciones",
+      "kind": "primary",
+      "basis": "Evidence"
     }
   ],
   "incomplete": false

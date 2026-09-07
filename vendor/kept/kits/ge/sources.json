@@ -13,7 +13,11 @@
       "label": "Parliament of Georgia",
       "url": "https://parliament.ge/",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 200,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-05",
+      "note": "Official HTTP 200 (polish-iso-05)."
     },
     {
       "id": "wd-q1417210",
@@ -34,6 +38,13 @@
       "label": "Human Rights and Civil Integration Committee of the Parliament of Georgia (Wikidata)",
       "url": "https://www.wikidata.org/wiki/Q141190086",
       "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://parliament.ge/en/parliament/committees/63938/about",
+      "kind": "primary",
       "basis": "Evidence"
     },
     {
@@ -160,6 +171,13 @@
       "label": "Foreign Relations Committee of the Parliament of Georgia (Wikidata)",
       "url": "https://www.wikidata.org/wiki/Q141191843",
       "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-ethics",
+      "label": "Official MP financial-interest / disclosure register",
+      "url": "https://declaration.acb.gov.ge",
+      "kind": "primary",
       "basis": "Evidence"
     }
   ],

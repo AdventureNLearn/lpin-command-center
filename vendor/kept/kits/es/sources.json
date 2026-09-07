@@ -49,6 +49,13 @@
       "url": "https://www.wikidata.org/wiki/Q539149",
       "kind": "index",
       "basis": "Evidence"
+    },
+    {
+      "id": "official-orgs",
+      "label": "Official parties index (orgs derived)",
+      "url": "https://www.congreso.es/webpublica/opendata/diputados/DiputadosActivos__20260820050006.json",
+      "kind": "primary",
+      "basis": "Evidence"
     }
   ],
   "incomplete": false

@@ -12,6 +12,7 @@ export const HOW_TO = [
   "Open the desk that matches that kind of question.",
   "Write what you found. If you quote a rule or a record, paste the official link next to it.",
   "A blank box means we do not know yet. Leave it blank. Do not guess to make it look finished.",
+  "Open a workbook when you have a country and an industry. Keep law, permitting, trades, regulations, funding, political, and corporate on separate tabs. Dirt is not shingles.",
   "If the same fact shows up on two desks, that is a lead — not proof.",
   "You decide. This tool never closes the call for you.",
 ] as const;
@@ -26,7 +27,7 @@ export const PILLARS: {
     id: "governance",
     label: "Governance",
     ask: "Who may act, and what is actually written?",
-    deskIds: ["legal", "regulatory", "jurisdictional", "governance", "fifty", "opencells", "kept"],
+    deskIds: ["legal", "regulatory", "jurisdictional", "governance", "fifty", "opencells", "workbook", "kept"],
   },
   {
     id: "operations",

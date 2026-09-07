@@ -42,6 +42,20 @@
       "url": "https://www.wikidata.org/wiki/Q2948392",
       "kind": "index",
       "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://diputados.gob.bo/comisiones/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-orgs",
+      "label": "Official orgs",
+      "url": "https://web.oep.org.bo/organizaciones-politicas/organizaciones-alcance-nacional/",
+      "kind": "primary",
+      "basis": "Evidence"
     }
   ],
   "incomplete": false

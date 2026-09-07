@@ -1,7 +1,19 @@
 {
   "iso2": "pg",
-  "source_url": "https://www.wikidata.org/wiki/Q24563",
+  "source_url": "https://www.parliament.gov.pg/committees",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "items": [
+    {
+      "id": "public-accounts-committee",
+      "name": "Public Accounts Committee",
+      "chamber": "National Parliament of Papua New Guinea",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.gov.pg/committees"
+    }
+  ],
+  "note": "Official page HTTP 200 yielded 1 named row(s); below collect threshold. Not invented."
 }

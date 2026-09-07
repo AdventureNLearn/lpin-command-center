@@ -1,7 +1,31 @@
 {
   "iso2": "th",
-  "source_url": "https://www.wikidata.org/wiki/Q1368318",
+  "chamber": "National Assembly of Thailand",
+  "source_url": "https://web.parliament.go.th/view/106/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3/TH-TH",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 2,
+  "items": [
+    {
+      "id": "th-hr-house-affairs",
+      "name": "Committee on House of Representatives Affairs",
+      "chamber": "House of Representatives",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://web.parliament.go.th/view/106/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3/TH-TH"
+    },
+    {
+      "id": "th-hr-legal",
+      "name": "Committee on Legal Affairs, Justice and Human Rights",
+      "chamber": "House of Representatives",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://web.parliament.go.th/view/7/Parliamentary_Rules_and_Procedures/67778/parcy/EN-US"
+    }
+  ],
+  "note": "House standing-committee pages on web.parliament.go.th HTTP 200. Sample capped to committees confirmed on probed official HTML; member names not stored. Senate committee path 500."
 }

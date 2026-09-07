@@ -1,7 +1,34 @@
 {
   "iso2": "za",
-  "items": [],
+  "named_public_filers": true,
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced filers for this ISO. Not invented."
+  "source_url": "https://results.elections.org.za/home/PartyFundingReports/8/4/8_4_Published_Declarations_Report.pdf",
+  "items": [
+    {
+      "id": "democratic-alliance",
+      "name": "Democratic Alliance",
+      "kind": "political-party",
+      "source_url": "https://results.elections.org.za/home/PartyFundingReports/8/4/8_4_Published_Declarations_Report.pdf"
+    },
+    {
+      "id": "rise-mzansi",
+      "name": "RISE Mzansi",
+      "kind": "political-party",
+      "source_url": "https://results.elections.org.za/home/PartyFundingReports/8/4/8_4_Published_Declarations_Report.pdf"
+    },
+    {
+      "id": "african-national-congress",
+      "name": "African National Congress",
+      "kind": "political-party",
+      "source_url": "https://results.elections.org.za/home/PartyFundingReports/8/4/8_4_Published_Declarations_Report.pdf"
+    },
+    {
+      "id": "inkatha-freedom-party",
+      "name": "Inkatha Freedom Party",
+      "kind": "political-party",
+      "source_url": "https://results.elections.org.za/home/PartyFundingReports/8/4/8_4_Published_Declarations_Report.pdf"
+    }
+  ],
+  "note": "Party-level filers from official IEC published declarations. Nav labels dropped. Named private donors not copied. Cap 40."
 }

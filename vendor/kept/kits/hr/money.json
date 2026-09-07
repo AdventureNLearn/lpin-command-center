@@ -1,7 +1,19 @@
 {
   "iso2": "hr",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://www.sabor.hr/hr/pristup-informacijama/proracun-sabora",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "incomplete": true,
+  "named_donors": false,
+  "buckets": [
+    {
+      "label": "parliament-budget",
+      "source_url": "https://www.sabor.hr/hr/pristup-informacijama/proracun-sabora"
+    },
+    {
+      "label": "campaign-finance-reports",
+      "source_url": "https://www.izbori.hr"
+    }
+  ],
+  "unit": "",
+  "note": "Official source-type buckets. Named private donors not collected."
 }

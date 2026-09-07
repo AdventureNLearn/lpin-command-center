@@ -1,7 +1,36 @@
 {
   "iso2": "ca",
-  "items": [],
+  "named_donors": false,
+  "unit": "CAD",
+  "sitting_total_reconstructed": 32718343.59,
+  "buckets": [
+    {
+      "label": "Bloc Québécois",
+      "amount": 1299393.93
+    },
+    {
+      "label": "Conservative Party of Canada",
+      "amount": 14801976.78
+    },
+    {
+      "label": "Green Party of Canada",
+      "amount": 295152.8
+    },
+    {
+      "label": "Independent",
+      "amount": 19466.7
+    },
+    {
+      "label": "Liberal Party of Canada",
+      "amount": 14043608.86
+    },
+    {
+      "label": "New Democratic Party",
+      "amount": 2258744.52
+    }
+  ],
   "incomplete": true,
-  "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "source_url": "https://www.elections.ca/content.aspx?section=fin&dir=oth/can/rem/rem_45ge&document=table&lang=e",
+  "note": "Elections Canada public-finance table: reimbursements of 45th GE (2025-04-28) candidate election expenses by political affiliation (qualifying candidates: elected or ≥10% of valid votes, return filed on time). Not occupation-of-donor. Not sitting-only (794 qualifying candidates). Page H1 currently mislabels the contest as the 2025-08-18 by-election; URL rem_45ge, index, and counts match the 45th GE. Bucket sum 32718343.59 vs official total 32718343.59. Named reimbursement CSV and contribution name dumps not ingested. Occupations not published.",
+  "retrieved": "2026-08-20"
 }

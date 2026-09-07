@@ -2,7 +2,7 @@
   "iso2": "nz",
   "incomplete": true,
   "retrieved": "2026-08-20",
-  "note": "Public statutory/register categories only. No confidential annex. No invented dollar amounts. Per-member filings not transcribed.",
+  "note": "Public statutory/register categories only. No confidential annex. No invented dollar amounts. Per-member filings not transcribed. Deduped 8 duplicate ethics rows 2026-09-06.",
   "items": [
     {
       "member_id": null,
@@ -12,86 +12,6 @@
       "origin": "statute",
       "source_url": "https://www.parliament.nz/en/mps-and-electorates/members-financial-interests/",
       "label_en": "Company interests",
-      "note": "Public category. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "trusts",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "https://www.parliament.nz/en/mps-and-electorates/members-financial-interests/",
-      "label_en": "Trusts",
-      "note": "Public category. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "real-property",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "https://www.parliament.nz/en/mps-and-electorates/members-financial-interests/",
-      "label_en": "Real property",
-      "note": "Public category. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "superannuation",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "https://www.parliament.nz/en/mps-and-electorates/members-financial-interests/",
-      "label_en": "Superannuation schemes",
-      "note": "Public category. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "employment",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "https://www.parliament.nz/en/mps-and-electorates/members-financial-interests/",
-      "label_en": "Employment",
-      "note": "Public category. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "gifts",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "https://www.parliament.nz/en/mps-and-electorates/members-financial-interests/",
-      "label_en": "Gifts",
-      "note": "Public category. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "overseas-travel",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "https://www.parliament.nz/en/mps-and-electorates/members-financial-interests/",
-      "label_en": "Overseas travel",
-      "note": "Public category. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "debts",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "https://www.parliament.nz/en/mps-and-electorates/members-financial-interests/",
-      "label_en": "Debts",
-      "note": "Public category. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "payment-for-activities",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "https://www.parliament.nz/en/mps-and-electorates/members-financial-interests/",
-      "label_en": "Payment for activities",
       "note": "Public category. Amounts not collected."
     }
   ]

@@ -1,6 +1,51 @@
 {
   "iso2": "gr",
+  "source_url": "https://www.hellenicparliament.gr/vouleftes/ana-koinovouleftiki-omada/",
+  "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": [],
-  "note": "501/NGO rows need EIN (or national number), legal name as on the 990, subsection, filing year, https to the 990. Churches that do not file stay honest empty."
+  "items": [
+    {
+      "id": "nea-dimokratia",
+      "name": "ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.hellenicparliament.gr/vouleftes/ana-koinovouleftiki-omada/"
+    },
+    {
+      "id": "pasok-kinima-allagis",
+      "name": "ΠΑΣΟΚ-ΚΙΝΗΜΑ ΑΛΛΑΓΗΣ",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.hellenicparliament.gr/vouleftes/ana-koinovouleftiki-omada/"
+    },
+    {
+      "id": "kommoynistiko-komma-elladas",
+      "name": "ΚΟΜΜΟΥΝΙΣΤΙΚΟ ΚΟΜΜΑ ΕΛΛΑΔΑΣ",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.hellenicparliament.gr/vouleftes/ana-koinovouleftiki-omada/"
+    },
+    {
+      "id": "elliniki-lysi-kyriakos-velopoylos",
+      "name": "ΕΛΛΗΝΙΚΗ ΛΥΣΗ - ΚΥΡΙΑΚΟΣ ΒΕΛΟΠΟΥΛΟΣ",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.hellenicparliament.gr/vouleftes/ana-koinovouleftiki-omada/"
+    },
+    {
+      "id": "synaspismos-rizospastikis-aristeras-proodeytiki-symmachia",
+      "name": "ΣΥΝΑΣΠΙΣΜΟΣ ΡΙΖΟΣΠΑΣΤΙΚΗΣ ΑΡΙΣΤΕΡΑΣ - ΠΡΟΟΔΕΥΤΙΚΗ ΣΥΜΜΑΧΙΑ",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.hellenicparliament.gr/vouleftes/ana-koinovouleftiki-omada/"
+    },
+    {
+      "id": "dimokratiko-patriotiko-kinima-niki",
+      "name": "ΔΗΜΟΚΡΑΤΙΚΟ ΠΑΤΡΙΩΤΙΚΟ ΚΙΝΗΜΑ \"ΝΙΚΗ\"",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.hellenicparliament.gr/vouleftes/ana-koinovouleftiki-omada/"
+    },
+    {
+      "id": "pleysi-eleytherias-zoi-konstantopoyloy",
+      "name": "ΠΛΕΥΣΗ ΕΛΕΥΘΕΡΙΑΣ-ΖΩΗ ΚΩΝΣΤΑΝΤΟΠΟΥΛΟΥ",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.hellenicparliament.gr/vouleftes/ana-koinovouleftiki-omada/"
+    }
+  ],
+  "note": "Hellenic Parliament official parliamentary-group table. Independents omitted. Cap 40. Incomplete."
 }

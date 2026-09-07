@@ -1,4 +1,241 @@
 {
   "iso2": "bg",
-  "items": []
+  "chamber": "National Assembly of Bulgaria",
+  "source_url": "https://www.parliament.bg/api/v1/coll-list/bg/3",
+  "retrieved": "2026-09-06",
+  "incomplete": true,
+  "claimed": 23,
+  "items": [
+    {
+      "id": "bg-com-3793",
+      "name": "Комисия по бюджет и финанси",
+      "chamber": "National Assembly",
+      "seats": 24,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "https://www.parliament.bg/api/v1/coll-list/bg/3"
+    },
+    {
+      "id": "bg-com-3816",
+      "name": "Комисия по правни въпроси",
+      "chamber": "National Assembly",
+      "seats": 24,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "https://www.parliament.bg/api/v1/coll-list/bg/3"
+    },
+    {
+      "id": "bg-com-3794",
+      "name": "Комисия по икономическа политика, инвестиции и индустрия",
+      "chamber": "National Assembly",
+      "seats": 24,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "https://www.parliament.bg/api/v1/coll-list/bg/3"
+    },
+    {
+      "id": "bg-com-3795",
+      "name": "Комисия по енергетика",
+      "chamber": "National Assembly",
+      "seats": 24,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "https://www.parliament.bg/api/v1/coll-list/bg/3"
+    },
+    {
+      "id": "bg-com-3796",
+      "name": "Комисия по регионална политика, благоустройство и местно самоуправление",
+      "chamber": "National Assembly",
+      "seats": 24,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "https://www.parliament.bg/api/v1/coll-list/bg/3"
+    },
+    {
+      "id": "bg-com-3797",
+      "name": "Комисия по външна политика",
+      "chamber": "National Assembly",
+      "seats": 19,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "https://www.parliament.bg/api/v1/coll-list/bg/3"
+    },
+    {
+      "id": "bg-com-3798",
+      "name": "Комисия по европейските въпроси и контрол на европейските фондове",
+      "chamber": "National Assembly",
+      "seats": 17,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "https://www.parliament.bg/api/v1/coll-list/bg/3"
+    },
+    {
+      "id": "bg-com-3799",
+      "name": "Комисия по отбрана",
+      "chamber": "National Assembly",
+      "seats": 19,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "https://www.parliament.bg/api/v1/coll-list/bg/3"
+    },
+    {
+      "id": "bg-com-3800",
+      "name": "Комисия по вътрешна сигурност и обществен ред",
+      "chamber": "National Assembly",
+      "seats": 19,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "https://www.parliament.bg/api/v1/coll-list/bg/3"
+    },
+    {
+      "id": "bg-com-3802",
+      "name": "Комисия по земеделието, храните и горите",
+      "chamber": "National Assembly",
+      "seats": 23,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "https://www.parliament.bg/api/v1/coll-list/bg/3"
+    },
+    {
+      "id": "bg-com-3803",
+      "name": "Комисия по труда, демографската и социалната политика",
+      "chamber": "National Assembly",
+      "seats": 22,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "https://www.parliament.bg/api/v1/coll-list/bg/3"
+    },
+    {
+      "id": "bg-com-3804",
+      "name": "Комисия по образованието и науката",
+      "chamber": "National Assembly",
+      "seats": 23,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "https://www.parliament.bg/api/v1/coll-list/bg/3"
+    },
+    {
+      "id": "bg-com-3805",
+      "name": "Комисия по въпросите на младежта и спорта",
+      "chamber": "National Assembly",
+      "seats": 21,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "https://www.parliament.bg/api/v1/coll-list/bg/3"
+    },
+    {
+      "id": "bg-com-3806",
+      "name": "Комисия по здравеопазването",
+      "chamber": "National Assembly",
+      "seats": 23,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "https://www.parliament.bg/api/v1/coll-list/bg/3"
+    },
+    {
+      "id": "bg-com-3807",
+      "name": "Комисия по околната среда и водите",
+      "chamber": "National Assembly",
+      "seats": 23,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "https://www.parliament.bg/api/v1/coll-list/bg/3"
+    },
+    {
+      "id": "bg-com-3808",
+      "name": "Комисия по транспорт и съобщения",
+      "chamber": "National Assembly",
+      "seats": 22,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "https://www.parliament.bg/api/v1/coll-list/bg/3"
+    },
+    {
+      "id": "bg-com-3809",
+      "name": "Комисия по иновациите и дигиталната трансформация",
+      "chamber": "National Assembly",
+      "seats": 15,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "https://www.parliament.bg/api/v1/coll-list/bg/3"
+    },
+    {
+      "id": "bg-com-3810",
+      "name": "Комисия по културата и медиите",
+      "chamber": "National Assembly",
+      "seats": 21,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "https://www.parliament.bg/api/v1/coll-list/bg/3"
+    },
+    {
+      "id": "bg-com-3811",
+      "name": "Комисия за прякото участие на гражданите и взаимодействието с гражданското общество",
+      "chamber": "National Assembly",
+      "seats": 15,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "https://www.parliament.bg/api/v1/coll-list/bg/3"
+    },
+    {
+      "id": "bg-com-3812",
+      "name": "Комисия по правата на човека, вероизповеданията и жалбите на гражданите",
+      "chamber": "National Assembly",
+      "seats": 15,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "https://www.parliament.bg/api/v1/coll-list/bg/3"
+    },
+    {
+      "id": "bg-com-3813",
+      "name": "Комисия по политиките за българите извън страната",
+      "chamber": "National Assembly",
+      "seats": 12,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "https://www.parliament.bg/api/v1/coll-list/bg/3"
+    },
+    {
+      "id": "bg-com-3814",
+      "name": "Комисия по превенция и противодействие на корупцията",
+      "chamber": "National Assembly",
+      "seats": 19,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "https://www.parliament.bg/api/v1/coll-list/bg/3"
+    },
+    {
+      "id": "bg-com-3815",
+      "name": "Комисия по туризъм",
+      "chamber": "National Assembly",
+      "seats": 15,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "official-api",
+      "source_url": "https://www.parliament.bg/api/v1/coll-list/bg/3"
+    }
+  ],
+  "note": "Standing committees (structure type 3)."
 }

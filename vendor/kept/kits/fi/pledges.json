@@ -1,7 +1,25 @@
 {
   "iso2": "fi",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://www.sdp.fi/tutustu/politiikka/",
   "retrieved": "2026-09-06",
-  "note": "No sourced pledges for this ISO. Not invented."
+  "incomplete": true,
+  "note": "Quote+URL from official party manifesto / programme HTML. Not invented. Cap 40.",
+  "items": [
+    {
+      "id": "fi-p-social-democratic-party-of-finland-spending-3619eb",
+      "party_id": "social-democratic-party-of-finland",
+      "quote": "SDP haluaa rakentaa oikeudenmukaista yhteiskuntaa, jossa oikeus osallisuuteen kuuluu kaikille, apua ja tukea saa aina tarvittaessa ja jokaisesta lapsesta ja nuoresta voi tulla mitä tahansa.",
+      "issue_id": "spending",
+      "source_url": "https://www.sdp.fi/tutustu/politiikka/",
+      "date": "2023-04-01"
+    },
+    {
+      "id": "fi-p-social-democratic-party-of-finland-spending-df405f",
+      "party_id": "social-democratic-party-of-finland",
+      "quote": "Haluamme vähentää eriarvoisuutta, tukea vaikeimmassa asemassa olevia sekä turvata elinkelpoisen maapallon myös tuleville sukupolville.",
+      "issue_id": "spending",
+      "source_url": "https://www.sdp.fi/tutustu/politiikka/",
+      "date": "2023-04-01"
+    }
+  ]
 }

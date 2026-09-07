@@ -1,4 +1,17 @@
 {
   "iso2": "no",
-  "items": []
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "note": "Public Storting reglement §§ 2–11 register classes from the official page. Amounts/values not stored. Unique classes restored after null-member_id collapse. Deduped 10 duplicate ethics rows 2026-09-07.",
+  "source_url": "https://www.stortinget.no/no/Stortinget-og-demokratiet/Representantene/Okonomiske-interesser/",
+  "items": [
+    {
+      "member_id": null,
+      "category": "verv i styrende organer",
+      "public": true,
+      "amount_band": null,
+      "origin": "clerk",
+      "source_url": "https://www.stortinget.no/no/Stortinget-og-demokratiet/Representantene/Okonomiske-interesser/"
+    }
+  ]
 }

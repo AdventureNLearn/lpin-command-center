@@ -20,7 +20,11 @@
       "label": "Senate",
       "url": "http://www.senat.mg/",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 200,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-08",
+      "note": "Official parliament HTTP 200 (polish-iso-08)."
     },
     {
       "id": "wd-q3510853",
@@ -34,13 +38,31 @@
       "label": "National Assembly",
       "url": "http://www.assemblee-nationale.mg/",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 200,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-08",
+      "note": "Official parliament HTTP 200 (polish-iso-08)."
     },
     {
       "id": "wd-q1141206",
       "label": "National Assembly (Wikidata)",
       "url": "https://www.wikidata.org/wiki/Q1141206",
       "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://assemblee-nationale.mg/opendata/api/commissions/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-orgs",
+      "label": "Official orgs",
+      "url": "https://assemblee-nationale.mg/opendata/api/groupes-parlementaires/",
+      "kind": "primary",
       "basis": "Evidence"
     }
   ],

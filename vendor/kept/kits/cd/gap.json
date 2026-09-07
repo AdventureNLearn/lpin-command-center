@@ -25,9 +25,29 @@
       "id": "committees",
       "hole": "No sourced committee list.",
       "basis": "Evidence"
+    },
+    {
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "orgs",
+      "hole": "No sourced org list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members-overcount",
+      "hole": "Sitting file has 931 unique members vs statutory/claimed 609 (Wikidata P39 includes former). Overcount noted; names not invented down.",
+      "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: National Assembly · Senate of the Democratic Republic of the Congo · Parliament of the Democratic Republic of the Congo. Sitting 931. Empty objects not invented."
+  "note": "Polish 2026-09-06 polish-iso-03. Members 931 of claimed 609 (statutory 609). Dupes removed 0. Vacancies/overcount not invented down."
 }

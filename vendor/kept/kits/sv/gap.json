@@ -25,9 +25,29 @@
       "id": "committees",
       "hole": "No sourced committee list.",
       "basis": "Evidence"
+    },
+    {
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members-count",
+      "hole": "Wikidata sitting 28 vs claimed_seats 60 / institutional 60.  Undercount 32. Rows not trimmed or invented.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-probe",
+      "hole": "Official parliament URL miss this sitting (0 fetch failed; 0 fetch failed). 403/0 is a miss. Roster not collected from HTML.",
+      "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: Deputy · Chamber of Senators · Legislative Assembly of El Salvador. Sitting 28. Empty objects not invented."
+  "note": "Polish polish-iso-12 2026-09-06. Sitting 28. Dupes removed 0 (id then name+chamber). Undercount 32 vs 60. Empty categories are holes, not zeros invented."
 }

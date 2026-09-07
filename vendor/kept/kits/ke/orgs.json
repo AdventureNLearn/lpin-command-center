@@ -1,7 +1,148 @@
 {
   "iso2": "ke",
-  "items": [],
+  "source_url": "https://www.parliament.go.ke/the-national-assembly/mps",
+  "items": [
+    {
+      "id": "uda",
+      "name": "UDA",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.go.ke/the-national-assembly/mps"
+    },
+    {
+      "id": "odm",
+      "name": "ODM",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.go.ke/the-national-assembly/mps"
+    },
+    {
+      "id": "wiper",
+      "name": "Wiper",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.go.ke/the-national-assembly/mps"
+    },
+    {
+      "id": "jubilee-party",
+      "name": "Jubilee Party",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.go.ke/the-national-assembly/mps"
+    },
+    {
+      "id": "jp",
+      "name": "JP",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.go.ke/the-national-assembly/mps"
+    },
+    {
+      "id": "udm",
+      "name": "UDM",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.go.ke/the-national-assembly/mps"
+    },
+    {
+      "id": "kanu",
+      "name": "KANU",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.go.ke/the-national-assembly/mps"
+    },
+    {
+      "id": "anc",
+      "name": "ANC",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.go.ke/the-national-assembly/mps"
+    },
+    {
+      "id": "ford-kenya",
+      "name": "FORD–Kenya",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.go.ke/the-national-assembly/mps"
+    },
+    {
+      "id": "dap-k",
+      "name": "DAP–K",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.go.ke/the-national-assembly/mps"
+    },
+    {
+      "id": "paa",
+      "name": "PAA",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.go.ke/the-national-assembly/mps"
+    },
+    {
+      "id": "kup",
+      "name": "KUP",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.go.ke/the-national-assembly/mps"
+    },
+    {
+      "id": "upia",
+      "name": "UPIA",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.go.ke/the-national-assembly/mps"
+    },
+    {
+      "id": "tsp",
+      "name": "TSP",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.go.ke/the-national-assembly/mps"
+    },
+    {
+      "id": "nap-k",
+      "name": "NAP–K",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.go.ke/the-national-assembly/mps"
+    },
+    {
+      "id": "orange-democratic-movement-odm",
+      "name": "Orange Democratic Movement (ODM)",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.go.ke/the-national-assembly/mps"
+    },
+    {
+      "id": "upa",
+      "name": "UPA",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.go.ke/the-national-assembly/mps"
+    },
+    {
+      "id": "mdg",
+      "name": "MDG",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.go.ke/the-national-assembly/mps"
+    },
+    {
+      "id": "mccp",
+      "name": "MCCP",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.go.ke/the-national-assembly/mps"
+    },
+    {
+      "id": "gddp",
+      "name": "GDDP",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.go.ke/the-national-assembly/mps"
+    },
+    {
+      "id": "dp",
+      "name": "DP",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.go.ke/the-national-assembly/mps"
+    },
+    {
+      "id": "nopeu",
+      "name": "NOPEU",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.go.ke/the-national-assembly/mps"
+    },
+    {
+      "id": "ccm",
+      "name": "CCM",
+      "kind": "political-party",
+      "source_url": "https://www.parliament.go.ke/the-national-assembly/mps"
+    }
+  ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "origin": "parties-index",
+  "note": "Thin org list derived from official parties.json (non-wikidata). Incomplete. origin:parties-index."
 }

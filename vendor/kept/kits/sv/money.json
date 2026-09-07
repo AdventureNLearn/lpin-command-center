@@ -1,7 +1,9 @@
 {
   "iso2": "sv",
-  "items": [],
+  "named_donors": false,
+  "buckets": [],
   "incomplete": true,
+  "source_url": "https://www.tse.gob.sv/",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "TSE HTTP 200 this pass (partidos-politicos listing; transparencia.tse.gob.sv). LAIP 'subsidios e incentivos fiscales' publishes acts of inexistence of TSE institutional subsidies, not deuda-política party totals. Combined party-finance amounts not published as an open list this pass. Not invented. Named private donors not collected."
 }

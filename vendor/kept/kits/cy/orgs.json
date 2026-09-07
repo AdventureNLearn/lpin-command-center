@@ -1,7 +1,8 @@
 {
   "iso2": "cy",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://elections.gov.cy/moi/elections/elections.nsf/elections06_el/elections06_el?OpenDocument=",
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "incomplete": true,
+  "items": [],
+  "note": "Central Elections Service register URL HTTP 403 Azure WAF after civic UA. Hunt-stop that host. Not invented."
 }

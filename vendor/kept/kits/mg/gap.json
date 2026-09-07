@@ -2,6 +2,11 @@
   "iso2": "mg",
   "items": [
     {
+      "id": "members",
+      "hole": "items 172 claimed_seats 178 (underfill). Wikidata P39 without end-date filter. Current sitting not invented.",
+      "basis": "Evidence"
+    },
+    {
       "id": "votes",
       "hole": "No sourced roll-call file.",
       "basis": "Evidence"
@@ -22,12 +27,17 @@
       "basis": "Evidence"
     },
     {
-      "id": "committees",
-      "hole": "No sourced committee list.",
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
       "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: Parliament of Madagascar · Senate · National Assembly. Sitting 172. Empty objects not invented."
+  "note": "polish-iso-08. Sitting 172. Empty categories are holes, not zeros invented."
 }

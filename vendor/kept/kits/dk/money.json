@@ -1,5 +1,17 @@
 {
   "iso2": "dk",
   "named_donors": false,
-  "buckets": []
+  "unit": "DKK",
+  "sitting_total_reconstructed": 133964137.5,
+  "buckets": [
+    {
+      "label": "state party support paid 2025 (Denmark parties combined)",
+      "amount": 133964137.5
+    }
+  ],
+  "incomplete": true,
+  "source_url": "https://www.valg.im.dk/valg/partistoette/folketingsvalg/oversigt-over-partistoette-for-2025",
+  "extra_source_url": "https://www.valg.im.dk/valg/partistoette/folketingsvalg/",
+  "retrieved": "2026-09-06",
+  "note": "Interior Ministry valg.im.dk official oversigt HTTP 200 (probed 2026-09-06). Printed 'I alt udbetalt til partier i Danmark: 133.964.137,50 kr.' for 2025 Folketingsvalg-based partistøtte (rate 38,50 kr. per vote). Per-party paid rows on the same page not stored. Faroe and Greenland paid rows not summed (no printed combined I alt stored this pass). Folketinget gruppestøtte page HTTP 403 after browser-UA retry — hunt-stop that host; monthly unit rates not multiplied into a combined total. Named private donors not collected. sitting_total_reconstructed is the printed Denmark combined paid total."
 }

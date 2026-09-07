@@ -13,6 +13,38 @@
       "label": "Hellenic Parliament site",
       "url": "https://www.hellenicparliament.gr/",
       "kind": "primary",
+      "basis": "Evidence",
+      "http_status": 200,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-05",
+      "note": "Official HTTP 200 (polish-iso-05)."
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://www.hellenicparliament.gr/en/Koinovouleftikes-Epitropes/Katigories",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-votes",
+      "label": "Official votes",
+      "url": "https://www.hellenicparliament.gr/api.ashx?q=laws",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-ethics",
+      "label": "Official MP financial-interest / disclosure register",
+      "url": "https://www.hellenicparliament.gr/Organosi-kai-Leitourgia/epitropi-elegxou-ton-oikonomikon-ton-komaton-kai-ton-vouleftwn/dilosi-periousiakis-katastasis-arxiki",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-money",
+      "label": "Official money",
+      "url": "https://www.hellenicparliament.gr/Organosi-kai-Leitourgia/epitropi-elegxou-ton-oikonomikon-ton-komaton-kai-ton-vouleftwn/",
+      "kind": "primary",
       "basis": "Evidence"
     }
   ],

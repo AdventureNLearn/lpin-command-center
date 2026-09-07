@@ -1,7 +1,149 @@
 {
   "iso2": "ar",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://datos.hcdn.gob.ar/api/3/action/package_show?id=bloques-interbloques-e-integracion",
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "la-libertad-avanza",
+      "name": "LA LIBERTAD AVANZA",
+      "seats": 95,
+      "kind": "parliamentary-bloc",
+      "source_url": "https://datos.hcdn.gob.ar/api/3/action/package_show?id=bloques-interbloques-e-integracion"
+    },
+    {
+      "id": "union-por-la-patria",
+      "name": "UNION POR LA PATRIA",
+      "seats": 93,
+      "kind": "parliamentary-bloc",
+      "source_url": "https://datos.hcdn.gob.ar/api/3/action/package_show?id=bloques-interbloques-e-integracion"
+    },
+    {
+      "id": "provincias-unidas",
+      "name": "PROVINCIAS UNIDAS",
+      "seats": 18,
+      "kind": "parliamentary-bloc",
+      "source_url": "https://datos.hcdn.gob.ar/api/3/action/package_show?id=bloques-interbloques-e-integracion"
+    },
+    {
+      "id": "pro",
+      "name": "PRO",
+      "seats": 12,
+      "kind": "parliamentary-bloc",
+      "source_url": "https://datos.hcdn.gob.ar/api/3/action/package_show?id=bloques-interbloques-e-integracion"
+    },
+    {
+      "id": "innovacion-federal",
+      "name": "INNOVACION FEDERAL",
+      "seats": 9,
+      "kind": "parliamentary-bloc",
+      "source_url": "https://datos.hcdn.gob.ar/api/3/action/package_show?id=bloques-interbloques-e-integracion"
+    },
+    {
+      "id": "ucr-union-civica-radical",
+      "name": "UCR - UNION CIVICA RADICAL",
+      "seats": 6,
+      "kind": "parliamentary-bloc",
+      "source_url": "https://datos.hcdn.gob.ar/api/3/action/package_show?id=bloques-interbloques-e-integracion"
+    },
+    {
+      "id": "elijo-catamarca",
+      "name": "ELIJO CATAMARCA",
+      "seats": 3,
+      "kind": "parliamentary-bloc",
+      "source_url": "https://datos.hcdn.gob.ar/api/3/action/package_show?id=bloques-interbloques-e-integracion"
+    },
+    {
+      "id": "independencia",
+      "name": "INDEPENDENCIA",
+      "seats": 3,
+      "kind": "parliamentary-bloc",
+      "source_url": "https://datos.hcdn.gob.ar/api/3/action/package_show?id=bloques-interbloques-e-integracion"
+    },
+    {
+      "id": "pts-frente-de-izquierda-y-trabajadores-de-unidad",
+      "name": "PTS-FRENTE DE IZQUIERDA Y TRABAJADORES DE UNIDAD",
+      "seats": 2,
+      "kind": "parliamentary-bloc",
+      "source_url": "https://datos.hcdn.gob.ar/api/3/action/package_show?id=bloques-interbloques-e-integracion"
+    },
+    {
+      "id": "coalicion-civica",
+      "name": "COALICION CIVICA",
+      "seats": 2,
+      "kind": "parliamentary-bloc",
+      "source_url": "https://datos.hcdn.gob.ar/api/3/action/package_show?id=bloques-interbloques-e-integracion"
+    },
+    {
+      "id": "encuentro-federal",
+      "name": "ENCUENTRO FEDERAL",
+      "seats": 2,
+      "kind": "parliamentary-bloc",
+      "source_url": "https://datos.hcdn.gob.ar/api/3/action/package_show?id=bloques-interbloques-e-integracion"
+    },
+    {
+      "id": "mid-movimiento-de-integracion-y-desarrollo",
+      "name": "MID - MOVIMIENTO DE INTEGRACION Y DESARROLLO",
+      "seats": 2,
+      "kind": "parliamentary-bloc",
+      "source_url": "https://datos.hcdn.gob.ar/api/3/action/package_show?id=bloques-interbloques-e-integracion"
+    },
+    {
+      "id": "produccion-y-trabajo",
+      "name": "PRODUCCION Y TRABAJO",
+      "seats": 2,
+      "kind": "parliamentary-bloc",
+      "source_url": "https://datos.hcdn.gob.ar/api/3/action/package_show?id=bloques-interbloques-e-integracion"
+    },
+    {
+      "id": "partido-obrero-en-el-frente-de-izquierda-y-de-trabajadores-unidad",
+      "name": "PARTIDO OBRERO EN EL FRENTE DE IZQUIERDA Y DE TRABAJADORES-UNIDAD",
+      "seats": 2,
+      "kind": "parliamentary-bloc",
+      "source_url": "https://datos.hcdn.gob.ar/api/3/action/package_show?id=bloques-interbloques-e-integracion"
+    },
+    {
+      "id": "coherencia",
+      "name": "COHERENCIA",
+      "seats": 1,
+      "kind": "parliamentary-bloc",
+      "source_url": "https://datos.hcdn.gob.ar/api/3/action/package_show?id=bloques-interbloques-e-integracion"
+    },
+    {
+      "id": "adelante-buenos-aires",
+      "name": "ADELANTE BUENOS AIRES",
+      "seats": 1,
+      "kind": "parliamentary-bloc",
+      "source_url": "https://datos.hcdn.gob.ar/api/3/action/package_show?id=bloques-interbloques-e-integracion"
+    },
+    {
+      "id": "defendamos-cordoba",
+      "name": "DEFENDAMOS CORDOBA",
+      "seats": 1,
+      "kind": "parliamentary-bloc",
+      "source_url": "https://datos.hcdn.gob.ar/api/3/action/package_show?id=bloques-interbloques-e-integracion"
+    },
+    {
+      "id": "la-neuquinidad",
+      "name": "LA NEUQUINIDAD",
+      "seats": 1,
+      "kind": "parliamentary-bloc",
+      "source_url": "https://datos.hcdn.gob.ar/api/3/action/package_show?id=bloques-interbloques-e-integracion"
+    },
+    {
+      "id": "por-santacruz",
+      "name": "POR SANTACRUZ",
+      "seats": 1,
+      "kind": "parliamentary-bloc",
+      "source_url": "https://datos.hcdn.gob.ar/api/3/action/package_show?id=bloques-interbloques-e-integracion"
+    },
+    {
+      "id": "primero-san-luis",
+      "name": "PRIMERO SAN LUIS",
+      "seats": 1,
+      "kind": "parliamentary-bloc",
+      "source_url": "https://datos.hcdn.gob.ar/api/3/action/package_show?id=bloques-interbloques-e-integracion"
+    }
+  ],
+  "note": "Capped sample from official source."
 }

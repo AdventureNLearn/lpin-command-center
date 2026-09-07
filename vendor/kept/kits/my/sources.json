@@ -13,7 +13,11 @@
       "label": "Parliament of Malaysia",
       "url": "http://www.parlimen.gov.my/",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 200,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-09",
+      "note": "Official parliament HTTP 200 (polish-iso-09)."
     },
     {
       "id": "wd-q2986392",
@@ -27,7 +31,11 @@
       "label": "Dewan Negara",
       "url": "http://www.parlimen.gov.my/",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 200,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-09",
+      "note": "Official parliament HTTP 200 (polish-iso-09)."
     },
     {
       "id": "wd-q1207095",
@@ -41,13 +49,24 @@
       "label": "Dewan Rakyat",
       "url": "http://www.parlimen.gov.my/",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 200,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-09",
+      "note": "Official parliament HTTP 200 (polish-iso-09)."
     },
     {
       "id": "wd-q1207092",
       "label": "Dewan Rakyat (Wikidata)",
       "url": "https://www.wikidata.org/wiki/Q1207092",
       "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "http://www.parlimen.gov.my/jawatankuasa-dr.html?uweb=dr",
+      "kind": "primary",
       "basis": "Evidence"
     }
   ],

@@ -49,6 +49,41 @@
       "url": "https://www.wikidata.org/wiki/Q1466018",
       "kind": "index",
       "basis": "Evidence"
+    },
+    {
+      "id": "official-votes",
+      "label": "Official votes",
+      "url": "https://www.cdep.ro/ords/pls/steno/evot2015.data",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://www.senat.ro/Comisii.aspx",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-ethics",
+      "label": "Official MP financial-interest / disclosure register",
+      "url": "https://integritate.eu/interes-public/declaratii-de-avere-si-interese/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-lobby",
+      "label": "Official lobby",
+      "url": "https://ruti.gov.ro/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-filers",
+      "label": "Official filers",
+      "url": "https://ruti.gov.ro/",
+      "kind": "primary",
+      "basis": "Evidence"
     }
   ],
   "incomplete": false

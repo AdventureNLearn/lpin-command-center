@@ -1,7 +1,17 @@
 {
   "iso2": "ch",
-  "items": [],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced ethics for this ISO. Not invented."
+  "note": "OData PersonInterest unique legal-form classes. No amounts. No org names. Unique classes restored after null-member_id collapse. Deduped 8 duplicate ethics rows 2026-09-07.",
+  "source_url": "https://ws.parlament.ch/odata.svc/PersonInterest?$top=40&$filter=Language eq 'DE'",
+  "items": [
+    {
+      "member_id": null,
+      "category": "Körperschaft des öffentlichen Rechts",
+      "public": true,
+      "amount_band": null,
+      "origin": "clerk",
+      "source_url": "https://ws.parlament.ch/odata.svc/PersonInterest?$top=40&$filter=Language eq 'DE'"
+    }
+  ]
 }

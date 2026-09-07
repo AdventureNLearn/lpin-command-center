@@ -1,7 +1,41 @@
 {
   "iso2": "bi",
-  "source_url": "https://www.wikidata.org/wiki/Q7138930",
+  "chamber": "Parliament of Burundi",
+  "source_url": "https://assemblee.bi/?cat=129",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 3,
+  "items": [
+    {
+      "id": "bi-an-comm-1",
+      "name": "COMMISSION DES AFFAIRES SOCIALES, DU RAPATRIEMENT, DU GENRE, DE L'EGALITE DES CHANCES ET DE LA LUTTE CONTRE LE SIDA",
+      "chamber": "National Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee.bi/?cat=129"
+    },
+    {
+      "id": "bi-an-comm-2",
+      "name": "COMMISSION DES AFFAIRES POLITIQUES, ADMINISTRATIVES, DES RELATIONS EXTERIEURES ET DE LA COMMUNAUTE EST-AFRICAINE",
+      "chamber": "National Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee.bi/?cat=129"
+    },
+    {
+      "id": "bi-an-comm-3",
+      "name": "COMMISSION DES COMPTES PUBLICS ET DES FINANCES, DES AFFAIRES ECONOMIQUES ET DE LA PLANIFICATION",
+      "chamber": "National Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee.bi/?cat=129"
+    }
+  ],
+  "note": "Permanent commissions listed on National Assembly site. 3 names recovered from official HTML; remaining commissions on that page not cleanly parsed. Not invented."
 }

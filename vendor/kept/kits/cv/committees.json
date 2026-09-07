@@ -1,7 +1,44 @@
 {
   "iso2": "cv",
-  "source_url": "https://www.wikidata.org/wiki/Q1718790",
-  "retrieved": "2026-09-06",
+  "source_url": "https://www.parlamento.cv/comissao/comissaoespec.php",
+  "retrieved": "2026-09-07",
   "incomplete": true,
-  "items": []
+  "items": [
+    {
+      "id": "comissao-permanente",
+      "name": "Comissão Permanente",
+      "chamber": "National Assembly of Cape Verde",
+      "origin": "clerk",
+      "source_url": "https://www.parlamento.cv/comissao/comissaoespec.php"
+    },
+    {
+      "id": "comissoes-especializadas",
+      "name": "Comissões Especializadas",
+      "chamber": "National Assembly of Cape Verde",
+      "origin": "clerk",
+      "source_url": "https://www.parlamento.cv/comissao/comissaoespec.php"
+    },
+    {
+      "id": "comissoes-eventuais",
+      "name": "Comissões Eventuais",
+      "chamber": "National Assembly of Cape Verde",
+      "origin": "clerk",
+      "source_url": "https://www.parlamento.cv/comissao/comissaoespec.php"
+    },
+    {
+      "id": "comissoes-de-inquerito",
+      "name": "Comissões de Inquérito",
+      "chamber": "National Assembly of Cape Verde",
+      "origin": "clerk",
+      "source_url": "https://www.parlamento.cv/comissao/comissaoespec.php"
+    },
+    {
+      "id": "conferencia-dos-presidentes-das-comissoes-especializadas",
+      "name": "Conferência dos Presidentes das Comissões Especializadas",
+      "chamber": "National Assembly of Cape Verde",
+      "origin": "clerk",
+      "source_url": "https://www.parlamento.cv/comissao/comissaoespec.php"
+    }
+  ],
+  "note": "Capped sample from official source."
 }

@@ -169,6 +169,7 @@ export type CommandAction =
   | { type: "streamPin"; iso2?: string; on: boolean }
   | { type: "method"; on: boolean }
   | { type: "research"; topic: string }
+  | { type: "workbook"; country?: string; industry?: string }
   | { type: "lanes" }
   | { type: "guide" }
   | { type: "unknown"; text: string };

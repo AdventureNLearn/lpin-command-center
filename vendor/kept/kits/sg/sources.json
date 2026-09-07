@@ -28,6 +28,34 @@
       "url": "https://www.wikidata.org/wiki/Q1517231",
       "kind": "index",
       "basis": "Evidence"
+    },
+    {
+      "id": "official-orgs",
+      "label": "Official registered political parties / committees",
+      "url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://www.parliament.gov.sg/about-us/structure/select-committees",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-filers",
+      "label": "Official disclosure-filer / registrant list",
+      "url": "https://data.gov.sg/api/action/datastore_search?resource_id=d_ef163fd9ebc3c2f21032c29da3bd3f77&limit=40",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-pledges",
+      "label": "Official party manifesto / programme",
+      "url": "https://www.wp.sg/manifesto",
+      "kind": "primary",
+      "basis": "Evidence"
     }
   ],
   "incomplete": false

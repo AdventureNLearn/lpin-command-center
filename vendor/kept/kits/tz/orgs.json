@@ -1,7 +1,52 @@
 {
   "iso2": "tz",
-  "items": [],
+  "source_url": "https://www.orpp.go.tz/",
+  "items": [
+    {
+      "id": "chama-cha-mapinduzi-ccm",
+      "name": "Chama cha Mapinduzi (CCM)",
+      "kind": "political-party",
+      "source_url": "https://www.orpp.go.tz/"
+    },
+    {
+      "id": "civic-united-front-cuf",
+      "name": "Civic United Front (CUF)",
+      "kind": "political-party",
+      "source_url": "https://www.orpp.go.tz/"
+    },
+    {
+      "id": "chama-cha-demokrasia-na-maendeleo-chadema",
+      "name": "Chama cha Demokrasia na Maendeleo (CHADEMA)",
+      "kind": "political-party",
+      "source_url": "https://www.orpp.go.tz/"
+    },
+    {
+      "id": "union-for-multiparty-democracy-umd",
+      "name": "Union for Multiparty Democracy (UMD)",
+      "kind": "political-party",
+      "source_url": "https://www.orpp.go.tz/"
+    },
+    {
+      "id": "african-democratic-alliance-party-ada-tadea",
+      "name": "African Democratic Alliance Party (ADA-TADEA)",
+      "kind": "political-party",
+      "source_url": "https://www.orpp.go.tz/"
+    },
+    {
+      "id": "tanzania-labour-party-tlp",
+      "name": "Tanzania Labour Party (TLP)",
+      "kind": "political-party",
+      "source_url": "https://www.orpp.go.tz/"
+    },
+    {
+      "id": "united-democratic-party-udp",
+      "name": "United Democratic Party (UDP)",
+      "kind": "political-party",
+      "source_url": "https://www.orpp.go.tz/"
+    }
+  ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "origin": "electoral-register",
+  "note": "ORPP registered political parties (official homepage list). Cap 40. Incomplete."
 }

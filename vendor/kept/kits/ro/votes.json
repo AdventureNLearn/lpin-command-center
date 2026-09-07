@@ -1,7 +1,182 @@
 {
   "iso2": "ro",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://www.cdep.ro/ords/pls/steno/evot2015.data",
   "retrieved": "2026-09-06",
-  "note": "No sourced votes for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "37304",
+      "date": "2026-08-24",
+      "title": "Ordinea de zi",
+      "chamber": "Camera Deputaților",
+      "origin": "clerk",
+      "source_url": "https://www.cdep.ro/ords/pls/steno/evot2015.data",
+      "recorded": {
+        "yea": 217,
+        "nay": 0,
+        "abstain": 0,
+        "present": 217
+      }
+    },
+    {
+      "id": "37305",
+      "date": "2026-08-24",
+      "title": "Programul de lucru",
+      "chamber": "Camera Deputaților",
+      "origin": "clerk",
+      "source_url": "https://www.cdep.ro/ords/pls/steno/evot2015.data",
+      "recorded": {
+        "yea": 218,
+        "nay": 1,
+        "abstain": 0,
+        "present": 219
+      }
+    },
+    {
+      "id": "37297",
+      "date": "2026-08-24",
+      "title": "Pl-x 530/2026 - Timp dezbatere",
+      "chamber": "Camera Deputaților",
+      "origin": "clerk",
+      "source_url": "https://www.cdep.ro/ords/pls/steno/evot2015.data",
+      "recorded": {
+        "yea": 225,
+        "nay": 2,
+        "abstain": 2,
+        "present": 229
+      }
+    },
+    {
+      "id": "37293",
+      "date": "2026-08-24",
+      "title": "PL-x 530/2026 - amendament respins 1",
+      "chamber": "Camera Deputaților",
+      "origin": "clerk",
+      "source_url": "https://www.cdep.ro/ords/pls/steno/evot2015.data",
+      "recorded": {
+        "yea": 65,
+        "nay": 81,
+        "abstain": 77,
+        "novote": 3,
+        "present": 226
+      }
+    },
+    {
+      "id": "37294",
+      "date": "2026-08-24",
+      "title": "PL-x 530/2026 - amendament respins 4",
+      "chamber": "Camera Deputaților",
+      "origin": "clerk",
+      "source_url": "https://www.cdep.ro/ords/pls/steno/evot2015.data",
+      "recorded": {
+        "yea": 62,
+        "nay": 144,
+        "abstain": 19,
+        "novote": 3,
+        "present": 228
+      }
+    },
+    {
+      "id": "37298",
+      "date": "2026-08-24",
+      "title": "Pl-x 536/2026 - Timp dezbatere",
+      "chamber": "Camera Deputaților",
+      "origin": "clerk",
+      "source_url": "https://www.cdep.ro/ords/pls/steno/evot2015.data",
+      "recorded": {
+        "yea": 245,
+        "nay": 1,
+        "abstain": 2,
+        "novote": 1,
+        "present": 249
+      }
+    },
+    {
+      "id": "37295",
+      "date": "2026-08-24",
+      "title": "Pl-x 536/2026 - amendament respins 2",
+      "chamber": "Camera Deputaților",
+      "origin": "clerk",
+      "source_url": "https://www.cdep.ro/ords/pls/steno/evot2015.data",
+      "recorded": {
+        "yea": 122,
+        "nay": 99,
+        "abstain": 16,
+        "novote": 1,
+        "present": 238
+      }
+    },
+    {
+      "id": "37296",
+      "date": "2026-08-24",
+      "title": "Pl-x 536/2026 - amendament respins 3",
+      "chamber": "Camera Deputaților",
+      "origin": "clerk",
+      "source_url": "https://www.cdep.ro/ords/pls/steno/evot2015.data",
+      "recorded": {
+        "yea": 119,
+        "nay": 100,
+        "abstain": 22,
+        "present": 241
+      }
+    },
+    {
+      "id": "37300",
+      "date": "2026-08-24",
+      "title": "Verificare prezenta",
+      "chamber": "Camera Deputaților",
+      "origin": "clerk",
+      "source_url": "https://www.cdep.ro/ords/pls/steno/evot2015.data",
+      "recorded": {
+        "yea": 187,
+        "nay": 6,
+        "abstain": 5,
+        "novote": 66,
+        "present": 264
+      }
+    },
+    {
+      "id": "37301",
+      "date": "2026-08-24",
+      "title": "Pl-x 530/2026 - Vot final adoptare",
+      "chamber": "Camera Deputaților",
+      "origin": "clerk",
+      "source_url": "https://www.cdep.ro/ords/pls/steno/evot2015.data",
+      "recorded": {
+        "yea": 183,
+        "nay": 84,
+        "abstain": 3,
+        "present": 270
+      }
+    },
+    {
+      "id": "37302",
+      "date": "2026-08-24",
+      "title": "Pl-x 536/2026 - Vot final adoptare",
+      "chamber": "Camera Deputaților",
+      "origin": "clerk",
+      "source_url": "https://www.cdep.ro/ords/pls/steno/evot2015.data",
+      "recorded": {
+        "yea": 249,
+        "nay": 0,
+        "abstain": 31,
+        "present": 280
+      }
+    },
+    {
+      "id": "37091",
+      "date": "2026-06-10",
+      "title": "PL-x 109/2026 - Vot final adoptare (Anul Traian Vuia)",
+      "chamber": "Camera Deputaților",
+      "origin": "clerk",
+      "source_url": "https://www.cdep.ro/ords/pls/steno/evot2015.Nominal?idv=37091",
+      "recorded": {
+        "yea": 284,
+        "nay": 1,
+        "abstain": 1,
+        "present": 286
+      }
+    }
+  ],
+  "note": "Capped sample from official source."
 }

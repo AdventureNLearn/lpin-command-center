@@ -1,7 +1,371 @@
 {
   "iso2": "mg",
-  "source_url": "https://www.wikidata.org/wiki/Q3919000",
+  "chamber": "Parliament of Madagascar",
+  "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 36,
+  "items": [
+    {
+      "id": "mg-c-61",
+      "name": "Commission de la Bonne gouvernance, de la Transparence, de la redevabilité et de la lutte contre la Corruption",
+      "chamber": "National Assembly",
+      "seats": 13,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/"
+    },
+    {
+      "id": "mg-c-56",
+      "name": "Commission de la Communication et de la Culture",
+      "chamber": "National Assembly",
+      "seats": 11,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/"
+    },
+    {
+      "id": "mg-c-66",
+      "name": "Commission de la Décentralisation et de l’Aménagement du Territoire",
+      "chamber": "National Assembly",
+      "seats": 19,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/"
+    },
+    {
+      "id": "mg-c-35",
+      "name": "Commission de la Défense Nationale",
+      "chamber": "National Assembly",
+      "seats": 15,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/"
+    },
+    {
+      "id": "mg-c-59",
+      "name": "Commission de la Gendarmerie Nationale",
+      "chamber": "National Assembly",
+      "seats": 18,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/"
+    },
+    {
+      "id": "mg-c-41",
+      "name": "Commission de l’Agriculture et élevage",
+      "chamber": "National Assembly",
+      "seats": 19,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/"
+    },
+    {
+      "id": "mg-c-57",
+      "name": "Commission de la Jeunesse et Sports",
+      "chamber": "National Assembly",
+      "seats": 15,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/"
+    },
+    {
+      "id": "mg-c-54",
+      "name": "Commission de la Pêche et de l’Économie Bleue",
+      "chamber": "National Assembly",
+      "seats": 15,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/"
+    },
+    {
+      "id": "mg-c-46",
+      "name": "Commission de la Population et de la Solidarité",
+      "chamber": "National Assembly",
+      "seats": 17,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/"
+    },
+    {
+      "id": "mg-c-67",
+      "name": "Commission de la Refondation locale",
+      "chamber": "National Assembly",
+      "seats": 1,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/"
+    },
+    {
+      "id": "mg-c-68",
+      "name": "Commission de la Refondation locale pour les jeunes",
+      "chamber": "National Assembly",
+      "seats": 1,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/"
+    },
+    {
+      "id": "mg-c-45",
+      "name": "Commission de la Santé publique et du Planning familial",
+      "chamber": "National Assembly",
+      "seats": 16,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/"
+    },
+    {
+      "id": "mg-c-39",
+      "name": "Commission de la Sécurité publique",
+      "chamber": "National Assembly",
+      "seats": 15,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/"
+    },
+    {
+      "id": "mg-c-53",
+      "name": "Commission de l’Eau, de l’Assainissement et de l’Hygiène",
+      "chamber": "National Assembly",
+      "seats": 16,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/"
+    },
+    {
+      "id": "mg-c-43",
+      "name": "Commission de l’Éducation Nationale",
+      "chamber": "National Assembly",
+      "seats": 19,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/"
+    },
+    {
+      "id": "mg-c-70",
+      "name": "Commission de l’Élevage (Vaomieran’ny fiompiana)",
+      "chamber": "National Assembly",
+      "seats": 1,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/"
+    },
+    {
+      "id": "mg-c-49",
+      "name": "Commission de l’Énergie et des Hydrocarbures, de l’Électrification rurale et des Ménages",
+      "chamber": "National Assembly",
+      "seats": 18,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/"
+    },
+    {
+      "id": "mg-c-42",
+      "name": "Commission de l’Enseignement Supérieur et de la Recherche Scientifique",
+      "chamber": "National Assembly",
+      "seats": 13,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/"
+    },
+    {
+      "id": "mg-c-44",
+      "name": "Commission de l’Enseignement technique et de la Formation Professionnelle",
+      "chamber": "National Assembly",
+      "seats": 16,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/"
+    },
+    {
+      "id": "mg-c-58",
+      "name": "Commission de l’Environnement et du Développement Durable",
+      "chamber": "National Assembly",
+      "seats": 22,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/"
+    },
+    {
+      "id": "mg-c-62",
+      "name": "Commission de l’Evaluation des Politiques Publiques",
+      "chamber": "National Assembly",
+      "seats": 15,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/"
+    },
+    {
+      "id": "mg-c-40",
+      "name": "Commission de l’Industrialisation",
+      "chamber": "National Assembly",
+      "seats": 17,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/"
+    },
+    {
+      "id": "mg-c-65",
+      "name": "Commission de l’Intérieur",
+      "chamber": "National Assembly",
+      "seats": 19,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/"
+    },
+    {
+      "id": "mg-c-36",
+      "name": "Commission des Affaires Étrangères",
+      "chamber": "National Assembly",
+      "seats": 16,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/"
+    },
+    {
+      "id": "mg-c-55",
+      "name": "Commission des Mines",
+      "chamber": "National Assembly",
+      "seats": 16,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/"
+    },
+    {
+      "id": "mg-c-60",
+      "name": "Commission des Nouvelles Villes et de l’Habitat",
+      "chamber": "National Assembly",
+      "seats": 9,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/"
+    },
+    {
+      "id": "mg-c-69",
+      "name": "Commission des Relations avec les Institutions",
+      "chamber": "National Assembly",
+      "seats": 1,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/"
+    },
+    {
+      "id": "mg-c-51",
+      "name": "Commission des Transports et de la Météorologie",
+      "chamber": "National Assembly",
+      "seats": 13,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/"
+    },
+    {
+      "id": "mg-c-50",
+      "name": "Commission des Travaux Publics",
+      "chamber": "National Assembly",
+      "seats": 21,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/"
+    },
+    {
+      "id": "mg-c-63",
+      "name": "Commission du Climat des Affaires, de la promotion de l’entreprenariat et des investissements",
+      "chamber": "National Assembly",
+      "seats": 7,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/"
+    },
+    {
+      "id": "mg-c-64",
+      "name": "Commission du Commerce",
+      "chamber": "National Assembly",
+      "seats": 18,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/"
+    },
+    {
+      "id": "mg-c-48",
+      "name": "Commission du Développement Numérique, des Postes et des Télécommunications",
+      "chamber": "National Assembly",
+      "seats": 12,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/"
+    },
+    {
+      "id": "mg-c-47",
+      "name": "Commission du Tourisme et de l’Artisanat",
+      "chamber": "National Assembly",
+      "seats": 18,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/"
+    },
+    {
+      "id": "mg-c-52",
+      "name": "Commission du Travail, de l’Emploi et de la Fonction Publique",
+      "chamber": "National Assembly",
+      "seats": 9,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/"
+    },
+    {
+      "id": "mg-c-38",
+      "name": "Commission Économie et Finances",
+      "chamber": "National Assembly",
+      "seats": 25,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/"
+    },
+    {
+      "id": "mg-c-37",
+      "name": "Commission Juridique",
+      "chamber": "National Assembly",
+      "seats": 18,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://assemblee-nationale.mg/opendata/api/commissions/"
+    }
+  ],
+  "note": "Official National Assembly open-data API. 36 commissions collected (cap 80)."
 }

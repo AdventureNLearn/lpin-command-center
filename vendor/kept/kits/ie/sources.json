@@ -44,10 +44,66 @@
       "basis": "Evidence"
     },
     {
+      "id": "official-members",
+      "label": "Oireachtas open API members",
+      "url": "https://api.oireachtas.ie/v1/members",
+      "kind": "official-api",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-houses",
+      "label": "Oireachtas open API houses",
+      "url": "https://api.oireachtas.ie/v1/houses",
+      "kind": "official-api",
+      "basis": "Evidence"
+    },
+    {
       "id": "wd-q651981",
       "label": "Dáil Éireann (Wikidata)",
       "url": "https://www.wikidata.org/wiki/Q651981",
       "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-votes",
+      "label": "Official roll-call / division source",
+      "url": "https://api.oireachtas.ie/v1/divisions?limit=50",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-lobby",
+      "label": "Register of Lobbying (Standards in Public Office Commission)",
+      "url": "https://www.lobbying.ie/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-orgs",
+      "label": "Official registered political parties / committees",
+      "url": "https://api.oireachtas.ie/v1/parties",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-ethics",
+      "label": "Official MP financial-interest / disclosure register",
+      "url": "https://www.sipo.ie/en/form/3f466-disclosing-interests-forms/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://api.oireachtas.ie/v1/divisions?chamber_type=committee",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-money",
+      "label": "Official money",
+      "url": "https://www.sipo.ie",
+      "kind": "primary",
       "basis": "Evidence"
     }
   ],

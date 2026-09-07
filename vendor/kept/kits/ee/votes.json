@@ -1,7 +1,274 @@
 {
   "iso2": "ee",
-  "items": [],
-  "incomplete": true,
+  "chamber": "Riigikogu",
+  "session": "2026",
+  "source_url": "https://api.riigikogu.ee/api/votings?startDate=2026-01-01&endDate=2026-09-06&lang=en",
   "retrieved": "2026-09-06",
-  "note": "No sourced votes for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "ee-vot-997bb40a-9a8a-45b0-bc76-95b8576dd0cc",
+      "date": "2026-01-12",
+      "title": "Kohaloleku kontroll",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://api.riigikogu.ee/api/votings/997bb40a-9a8a-45b0-bc76-95b8576dd0cc?lang=en"
+    },
+    {
+      "id": "ee-vot-3f9696e4-3b72-4cac-a68f-45ed4144b2a8",
+      "date": "2026-01-12",
+      "title": "Päevakorra kinnitamine",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://api.riigikogu.ee/api/votings/3f9696e4-3b72-4cac-a68f-45ed4144b2a8?lang=en"
+    },
+    {
+      "id": "ee-vot-6b9a1038-b928-4100-b781-0b6686251f39",
+      "date": "2026-01-13",
+      "title": "Kohaloleku kontroll",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://api.riigikogu.ee/api/votings/6b9a1038-b928-4100-b781-0b6686251f39?lang=en"
+    },
+    {
+      "id": "ee-vot-dc865f10-cd70-413b-a282-880b37c9a700",
+      "date": "2026-01-13",
+      "title": "Lõpphääletus",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://api.riigikogu.ee/api/votings/dc865f10-cd70-413b-a282-880b37c9a700?lang=en"
+    },
+    {
+      "id": "ee-vot-0c4442ec-9b96-43f0-a600-b8af613102e8",
+      "date": "2026-01-14",
+      "title": "Kohaloleku kontroll",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://api.riigikogu.ee/api/votings/0c4442ec-9b96-43f0-a600-b8af613102e8?lang=en"
+    },
+    {
+      "id": "ee-vot-4088840f-5fae-4296-a186-ebf135b45931",
+      "date": "2026-01-14",
+      "title": "Lõpphääletus",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://api.riigikogu.ee/api/votings/4088840f-5fae-4296-a186-ebf135b45931?lang=en"
+    },
+    {
+      "id": "ee-vot-07389d91-5d93-42e6-894a-012ff8c4a659",
+      "date": "2026-01-14",
+      "title": "Tagasi lükkamine",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://api.riigikogu.ee/api/votings/07389d91-5d93-42e6-894a-012ff8c4a659?lang=en"
+    },
+    {
+      "id": "ee-vot-fb6c685d-dffa-4efc-ad76-09df390798e1",
+      "date": "2026-01-15",
+      "title": "Kohaloleku kontroll",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://api.riigikogu.ee/api/votings/fb6c685d-dffa-4efc-ad76-09df390798e1?lang=en"
+    },
+    {
+      "id": "ee-vot-1474a3f1-f47b-4485-b25e-d6a6d0c3fec4",
+      "date": "2026-01-19",
+      "title": "Päevakorra kinnitamine",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://api.riigikogu.ee/api/votings/1474a3f1-f47b-4485-b25e-d6a6d0c3fec4?lang=en"
+    },
+    {
+      "id": "ee-vot-62f5ac4d-7a53-4087-940a-9ba5e32002db",
+      "date": "2026-01-19",
+      "title": "Kohaloleku kontroll",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://api.riigikogu.ee/api/votings/62f5ac4d-7a53-4087-940a-9ba5e32002db?lang=en"
+    },
+    {
+      "id": "ee-vot-78c8cbcb-f8ee-469f-86b0-fb91b0d585b3",
+      "date": "2026-01-20",
+      "title": "Tagasi lükkamine",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://api.riigikogu.ee/api/votings/78c8cbcb-f8ee-469f-86b0-fb91b0d585b3?lang=en"
+    },
+    {
+      "id": "ee-vot-8bfc52ca-3f1a-48c3-8d45-7946896a16ab",
+      "date": "2026-01-20",
+      "title": "Tööaja pikendamine",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://api.riigikogu.ee/api/votings/8bfc52ca-3f1a-48c3-8d45-7946896a16ab?lang=en"
+    },
+    {
+      "id": "ee-vot-3b5921b1-061a-4715-a28d-fe5ee227dd55",
+      "date": "2026-01-20",
+      "title": "Kohaloleku kontroll",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://api.riigikogu.ee/api/votings/3b5921b1-061a-4715-a28d-fe5ee227dd55?lang=en"
+    },
+    {
+      "id": "ee-vot-a86e13d4-1186-4572-b190-a1ac7db1d781",
+      "date": "2026-01-21",
+      "title": "Kohaloleku kontroll",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://api.riigikogu.ee/api/votings/a86e13d4-1186-4572-b190-a1ac7db1d781?lang=en"
+    },
+    {
+      "id": "ee-vot-cf51972c-fb1d-483f-a60d-f709a8feb730",
+      "date": "2026-01-21",
+      "title": "Lõpphääletus",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://api.riigikogu.ee/api/votings/cf51972c-fb1d-483f-a60d-f709a8feb730?lang=en"
+    },
+    {
+      "id": "ee-vot-419009cb-0e4a-4e96-ad74-26bdafebb0ba",
+      "date": "2026-01-21",
+      "title": "1. muudatusettepanek",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://api.riigikogu.ee/api/votings/419009cb-0e4a-4e96-ad74-26bdafebb0ba?lang=en"
+    },
+    {
+      "id": "ee-vot-72d53a24-6dcb-4ac7-a3f7-f4a3e4b5d84f",
+      "date": "2026-01-21",
+      "title": "2. muudatusettepanek",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://api.riigikogu.ee/api/votings/72d53a24-6dcb-4ac7-a3f7-f4a3e4b5d84f?lang=en"
+    },
+    {
+      "id": "ee-vot-1f4cda54-b095-4419-86bf-3e19e0535b12",
+      "date": "2026-01-21",
+      "title": "3. muudatusettepanek",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://api.riigikogu.ee/api/votings/1f4cda54-b095-4419-86bf-3e19e0535b12?lang=en"
+    },
+    {
+      "id": "ee-vot-da9278fc-6465-4244-b961-26cc9671fcb1",
+      "date": "2026-01-21",
+      "title": "II lugemise katkestamine",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://api.riigikogu.ee/api/votings/da9278fc-6465-4244-b961-26cc9671fcb1?lang=en"
+    },
+    {
+      "id": "ee-vot-dc600c3d-b400-4d34-b415-4c833c5d6a32",
+      "date": "2026-01-22",
+      "title": "Kohaloleku kontroll",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://api.riigikogu.ee/api/votings/dc600c3d-b400-4d34-b415-4c833c5d6a32?lang=en"
+    },
+    {
+      "id": "ee-vot-f3eeed58-42f6-474a-b9c7-14317abfe043",
+      "date": "2026-01-22",
+      "title": "Tööaja pikendamine",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://api.riigikogu.ee/api/votings/f3eeed58-42f6-474a-b9c7-14317abfe043?lang=en"
+    },
+    {
+      "id": "ee-vot-dfca10ea-9017-457b-bae9-bb4d21f9e7e3",
+      "date": "2026-01-26",
+      "title": "Kohaloleku kontroll",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://api.riigikogu.ee/api/votings/dfca10ea-9017-457b-bae9-bb4d21f9e7e3?lang=en"
+    },
+    {
+      "id": "ee-vot-7967ee4e-0dd8-40ed-ab48-a4276e8c9565",
+      "date": "2026-01-26",
+      "title": "Lõpphääletus",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://api.riigikogu.ee/api/votings/7967ee4e-0dd8-40ed-ab48-a4276e8c9565?lang=en"
+    },
+    {
+      "id": "ee-vot-e559e682-3a7b-4c02-94e1-d08cead0053d",
+      "date": "2026-01-26",
+      "title": "Päevakorra kinnitamine",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://api.riigikogu.ee/api/votings/e559e682-3a7b-4c02-94e1-d08cead0053d?lang=en"
+    },
+    {
+      "id": "ee-vot-405abd4c-5b76-4ecc-a56d-28022a1c55f5",
+      "date": "2026-01-27",
+      "title": "Kohaloleku kontroll",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://api.riigikogu.ee/api/votings/405abd4c-5b76-4ecc-a56d-28022a1c55f5?lang=en"
+    },
+    {
+      "id": "ee-vot-10c01bbf-75f3-417d-9b11-af865d507873",
+      "date": "2026-01-28",
+      "title": "Kohaloleku kontroll",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://api.riigikogu.ee/api/votings/10c01bbf-75f3-417d-9b11-af865d507873?lang=en"
+    },
+    {
+      "id": "ee-vot-67749008-6402-4744-ac9c-4e16a24375c6",
+      "date": "2026-01-28",
+      "title": "Lõpphääletus",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://api.riigikogu.ee/api/votings/67749008-6402-4744-ac9c-4e16a24375c6?lang=en"
+    },
+    {
+      "id": "ee-vot-f49ca4de-b422-4605-aea1-ce02f91f5c08",
+      "date": "2026-01-28",
+      "title": "3. muudatusettepanek",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://api.riigikogu.ee/api/votings/f49ca4de-b422-4605-aea1-ce02f91f5c08?lang=en"
+    },
+    {
+      "id": "ee-vot-4904ebf0-600c-4920-967b-74935fa12816",
+      "date": "2026-01-28",
+      "title": "5. muudatusettepanek",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://api.riigikogu.ee/api/votings/4904ebf0-600c-4920-967b-74935fa12816?lang=en"
+    },
+    {
+      "id": "ee-vot-09c18c4b-f58e-4926-a961-df41844cf087",
+      "date": "2026-01-28",
+      "title": "II lugemise katkestamine",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://api.riigikogu.ee/api/votings/09c18c4b-f58e-4926-a961-df41844cf087?lang=en"
+    },
+    {
+      "id": "ee-vot-8ddb9aff-04e9-4868-89d3-4b04f849c43c",
+      "date": "2026-01-28",
+      "title": "1. muudatusettepanek",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://api.riigikogu.ee/api/votings/8ddb9aff-04e9-4868-89d3-4b04f849c43c?lang=en"
+    },
+    {
+      "id": "ee-vot-25054a29-7726-4d9d-bef2-38058687c0eb",
+      "date": "2026-01-28",
+      "title": "Tagasi lükkamine",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://api.riigikogu.ee/api/votings/25054a29-7726-4d9d-bef2-38058687c0eb?lang=en"
+    },
+    {
+      "id": "ee-vot-795f292d-5125-4b29-a961-d39d4bd28d6c",
+      "date": "2026-01-29",
+      "title": "Kohaloleku kontroll",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://api.riigikogu.ee/api/votings/795f292d-5125-4b29-a961-d39d4bd28d6c?lang=en"
+    }
+  ]
 }

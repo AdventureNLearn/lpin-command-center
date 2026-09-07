@@ -1,5 +1,65 @@
 {
   "iso2": "no",
   "named_donors": false,
-  "buckets": []
+  "unit": "NOK",
+  "sitting_total_reconstructed": 1046991741,
+  "buckets": [
+    {
+      "label": "Statlig støtte",
+      "amount": 542143206
+    },
+    {
+      "label": "Kommunal/fylkeskommunal støtte",
+      "amount": 76638229
+    },
+    {
+      "label": "Annen offentlig støtte",
+      "amount": 16201963
+    },
+    {
+      "label": "Kontingent",
+      "amount": 71585245
+    },
+    {
+      "label": "Lotteriinntekter og lignende",
+      "amount": 17184920
+    },
+    {
+      "label": "Kapitalinntekter",
+      "amount": 46998645
+    },
+    {
+      "label": "Forretningsvirksomhet",
+      "amount": 24767358
+    },
+    {
+      "label": "Annet fra egen virksomhet",
+      "amount": 34343696
+    },
+    {
+      "label": "Bidrag fra privatpersoner (aggregate)",
+      "amount": 50702578
+    },
+    {
+      "label": "Bidrag fra kommersielle foretak (aggregate)",
+      "amount": 58806619
+    },
+    {
+      "label": "Bidrag fra organisasjoner i arbeidslivet (aggregate)",
+      "amount": 65874333
+    },
+    {
+      "label": "Bidrag fra andre organisasjoner (aggregate)",
+      "amount": 37563470
+    },
+    {
+      "label": "Bidrag fra andre, ikke kategoriserte givere (aggregate)",
+      "amount": 4181479
+    }
+  ],
+  "incomplete": true,
+  "source_url": "https://data.ssb.no/api/v0/no/table/11233",
+  "extra_source_url": "https://www.ssb.no/valg/partifinansiering/statistikk/finansiering-av-politiske-partier",
+  "retrieved": "2026-09-06",
+  "note": "SSB StatBank table 11233 official statistics, all parties, calendar year 2025, Partifinansiering (kr), retrieved 2026-09-06 via PxWeb JSON-stat2 (table updated 2026-08-24). Non-overlapping source-type leaf rows; bucket sum 1046991741 equals official Inntekter i alt. Nested parent rows Offentlig støtte / Egen virksomhet / Bidrag i alt not stored (would double-count). Not sitting-Storting-only (includes municipal and county party units and youth organisations per SSB). Named private donors on partifinansiering.no not collected. Amounts are official source-type aggregates, not person-level NOK."
 }

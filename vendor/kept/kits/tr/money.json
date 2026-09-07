@@ -1,7 +1,24 @@
 {
   "iso2": "tr",
-  "items": [],
+  "named_donors": false,
+  "unit": "TRY thousand",
+  "sitting_total_reconstructed": 6432770,
+  "buckets": [
+    {
+      "label": "siyasi partilere yardım",
+      "amount": 6432770
+    },
+    {
+      "label": "siyasi partilere yardım (2026 appropriation)",
+      "amount": 6412813
+    },
+    {
+      "label": "siyasi partilere yardım (2025 year-end)",
+      "amount": 5068173
+    }
+  ],
   "incomplete": true,
-  "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "source_url": "https://www.sbb.gov.tr/wp-content/uploads/2026/07/2026-Merkezi-Yonetim-Butce-Gerceklesmeleri-ve-Beklentiler-Raporu.pdf",
+  "retrieved": "2026-08-21",
+  "note": "Official SBB 2026 Merkezi Yönetim Bütçe Gerçekleşmeleri ve Beklentiler Raporu (July 2026), analytical table unit (Bin TL). Kept existing H1 2026 Siyasi Partilere Yardım outturn. Added official public-finance lines from the same SBB table only: 2026 appropriation 6.412.813; 2025 year-end 5.068.173; TBMM institution line not parsed — not invented. Not occupation-of-donor. Not a sitting-member campaign total. YSK party TRY splits not copied. Named private donors not collected."
 }

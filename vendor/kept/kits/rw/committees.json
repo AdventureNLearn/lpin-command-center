@@ -1,7 +1,89 @@
 {
   "iso2": "rw",
-  "source_url": "https://www.wikidata.org/wiki/Q4162795",
+  "source_url": "https://www.parliament.gov.rw/",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "items": [
+    {
+      "id": "rw-sc-gov-gender",
+      "name": "Committee on Governance and Gender Affairs",
+      "chamber": "Chamber of Deputies",
+      "kind": "standing",
+      "origin": "clerk",
+      "source_url": "https://www.parliament.gov.rw/"
+    },
+    {
+      "id": "rw-sc-economy-trade",
+      "name": "Committee on Economy and Trade",
+      "chamber": "Chamber of Deputies",
+      "kind": "standing",
+      "origin": "clerk",
+      "source_url": "https://www.parliament.gov.rw/"
+    },
+    {
+      "id": "rw-sc-education",
+      "name": "Committee on Education, Technology, Culture, Sports and Youth",
+      "chamber": "Chamber of Deputies",
+      "kind": "standing",
+      "origin": "clerk",
+      "source_url": "https://www.parliament.gov.rw/"
+    },
+    {
+      "id": "rw-sc-foreign",
+      "name": "Committee on Foreign Affairs, Cooperation and Security",
+      "chamber": "Chamber of Deputies",
+      "kind": "standing",
+      "origin": "clerk",
+      "source_url": "https://www.parliament.gov.rw/"
+    },
+    {
+      "id": "rw-sc-social",
+      "name": "Committee on Social Affairs",
+      "chamber": "Chamber of Deputies",
+      "kind": "standing",
+      "origin": "clerk",
+      "source_url": "https://www.parliament.gov.rw/"
+    },
+    {
+      "id": "rw-sc-unity",
+      "name": "Committee on Unity, Human Rights and Fight against Genocide",
+      "chamber": "Chamber of Deputies",
+      "kind": "standing",
+      "origin": "clerk",
+      "source_url": "https://www.parliament.gov.rw/"
+    },
+    {
+      "id": "rw-sc-budget",
+      "name": "Committee on State Budget and Patrimony",
+      "chamber": "Chamber of Deputies",
+      "kind": "standing",
+      "origin": "clerk",
+      "source_url": "https://www.parliament.gov.rw/"
+    },
+    {
+      "id": "rw-sc-land",
+      "name": "Committee on Land, Agriculture, Livestock and Environment",
+      "chamber": "Chamber of Deputies",
+      "kind": "standing",
+      "origin": "clerk",
+      "source_url": "https://www.parliament.gov.rw/"
+    },
+    {
+      "id": "rw-sc-pac",
+      "name": "Public Accounts Committee",
+      "chamber": "Chamber of Deputies",
+      "kind": "standing",
+      "origin": "clerk",
+      "source_url": "https://www.parliament.gov.rw/"
+    },
+    {
+      "id": "rw-sc-assessment",
+      "name": "Committee in charge of Assessment of the Chamber of Deputies Activities, Deputies' Conduct, Discipline and Immunity",
+      "chamber": "Chamber of Deputies",
+      "kind": "other",
+      "origin": "clerk",
+      "source_url": "https://www.parliament.gov.rw/"
+    }
+  ],
+  "note": "Capped sample from official source."
 }

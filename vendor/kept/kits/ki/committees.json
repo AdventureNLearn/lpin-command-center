@@ -1,7 +1,41 @@
 {
   "iso2": "ki",
-  "source_url": "https://www.wikidata.org/wiki/Q1281107",
+  "chamber": "House of Assembly of Kiribati",
+  "source_url": "https://www.parliament.gov.ki/index.php/parliament-business/rules-of-procedures",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 3,
+  "items": [
+    {
+      "id": "ki-c-1",
+      "name": "Business Committee",
+      "chamber": "House of Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.gov.ki/index.php/parliament-business/rules-of-procedures"
+    },
+    {
+      "id": "ki-c-2",
+      "name": "Public Accounts Committee",
+      "chamber": "House of Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.gov.ki/index.php/parliament-business/rules-of-procedures"
+    },
+    {
+      "id": "ki-c-3",
+      "name": "Privilege Committee",
+      "chamber": "House of Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.gov.ki/index.php/parliament-business/rules-of-procedures"
+    }
+  ],
+  "note": "Rules of Procedures HTTP 200. Collected 3 standing committee names."
 }

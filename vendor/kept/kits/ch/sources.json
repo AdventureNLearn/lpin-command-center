@@ -140,6 +140,41 @@
       "url": "https://www.wikidata.org/wiki/Q124628617",
       "kind": "index",
       "basis": "Evidence"
+    },
+    {
+      "id": "official-pledges",
+      "label": "Official party manifesto / programme",
+      "url": "https://www.svp.ch/positionen/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-votes",
+      "label": "Official roll-call / division source",
+      "url": "https://ws.parlament.ch/odata.svc/Vote?$top=50&$format=json&$orderby=VoteEnd%20desc",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://www.parlament.ch/en/organe/committees",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-orgs",
+      "label": "Official registered political parties / committees",
+      "url": "https://ws.parlament.ch/odata.svc/Party?$top=40&$filter=Language eq 'DE'",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-ethics",
+      "label": "Official MP financial-interest / disclosure register",
+      "url": "https://ws.parlament.ch/odata.svc/PersonInterest?$top=40&$filter=Language eq 'DE'",
+      "kind": "primary",
+      "basis": "Evidence"
     }
   ],
   "incomplete": false

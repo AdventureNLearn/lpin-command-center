@@ -1,7 +1,329 @@
 {
   "iso2": "ke",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/",
   "retrieved": "2026-09-06",
-  "note": "No sourced filers for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "united-patriotic-movement-party",
+      "name": "United Patriotic Movement Party",
+      "abbrev": "UPM",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "peoples-forum-for-rebuilding-democracy",
+      "name": "Peoples’ Forum for Rebuilding Democracy",
+      "abbrev": "PFRD",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "kenya-united-generation-party",
+      "name": "Kenya United Generation Party",
+      "abbrev": "KUG",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "msingi-wa-utaifa-party",
+      "name": "Msingi wa Utaifa Party",
+      "abbrev": "MUP",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "people-s-renaissance-movement",
+      "name": "People’s Renaissance Movement",
+      "abbrev": "PM",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "national-economic-development-party",
+      "name": "National Economic Development Party",
+      "abbrev": "NEDP",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "democracy-for-the-citizens-party",
+      "name": "Democracy for the Citizens Party",
+      "abbrev": "DCP",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "the-we-alliance-party",
+      "name": "The We Alliance Party",
+      "abbrev": "TWAP",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "azimio-la-umoja-one-kenya-coalition-party",
+      "name": "Azimio la Umoja One Kenya Coalition Party",
+      "abbrev": "Azimio",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "the-equitable-party",
+      "name": "The Equitable Party",
+      "abbrev": "TEP",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "chama-ya-mapatano-of-kenya",
+      "name": "Chama ya Mapatano of Kenya",
+      "abbrev": "CYMK",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "universal-unity-party",
+      "name": "Universal Unity Party",
+      "abbrev": "UUP",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "unified-change-party",
+      "name": "Unified Change Party",
+      "abbrev": "UCP",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "national-democracy-expansion-party",
+      "name": "National Democracy Expansion Party",
+      "abbrev": "NDEP",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "green-thinking-action-party",
+      "name": "Green Thinking Action Party",
+      "abbrev": "GTAP",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "party-for-growth-and-prosperity",
+      "name": "Party for Growth and Prosperity",
+      "abbrev": "PGP",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "entrust-pioneer-party",
+      "name": "Entrust Pioneer Party",
+      "abbrev": "EPP",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "mabadiliko-party-of-kenya",
+      "name": "Mabadiliko Party of Kenya",
+      "abbrev": "MAPK",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "pamoja-african-alliance",
+      "name": "Pamoja African Alliance",
+      "abbrev": "PAA",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "umoja-summit-party",
+      "name": "Umoja Summit Party",
+      "abbrev": "USP",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "kenya-union-party",
+      "name": "Kenya Union Party",
+      "abbrev": "KUP",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "tujibebe-wakenya-party",
+      "name": "Tujibebe Wakenya Party",
+      "abbrev": "JIBEBE",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "chama-cha-kazi",
+      "name": "Chama Cha Kazi",
+      "abbrev": "KAZI",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "party-for-peace-and-development",
+      "name": "Party for Peace and Development",
+      "abbrev": "PPD",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "democratic-action-party-kenya",
+      "name": "Democratic Action Party-Kenya",
+      "abbrev": "DAP-K",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "national-reconstruction-alliance",
+      "name": "National Reconstruction Alliance",
+      "abbrev": "NRA",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "national-ordinary-people-empowerment-union",
+      "name": "National Ordinary People Empowerment Union",
+      "abbrev": "NOPEU",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "the-service-party",
+      "name": "The Service Party",
+      "abbrev": "TSP",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "united-progressive-alliance",
+      "name": "United Progressive Alliance",
+      "abbrev": "UPA",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "usawa-kwa-wote",
+      "name": "Usawa Kwa Wote",
+      "abbrev": "UKW",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "united-green-movement",
+      "name": "United Green Movement",
+      "abbrev": "UGM",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "grand-dream-development-party",
+      "name": "Grand Dream Development Party",
+      "abbrev": "GDDP",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "justice-and-freedom-party-of-kenya",
+      "name": "Justice and Freedom Party of Kenya",
+      "abbrev": "JFP",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "third-way-alliance-kenya",
+      "name": "Third Way Alliance Kenya.",
+      "abbrev": "TAKE",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "empowerment-and-liberation-party",
+      "name": "Empowerment and Liberation Party",
+      "abbrev": "ELP",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "ukweli-party",
+      "name": "Ukweli Party",
+      "abbrev": "UP",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "alternative-leadership-party-of-kenya",
+      "name": "Alternative Leadership Party Of Kenya",
+      "abbrev": "ALP-K",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "movement-for-democracy-and-growth",
+      "name": "Movement for Democracy and Growth",
+      "abbrev": "MDG",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "national-liberal-party",
+      "name": "National Liberal Party",
+      "abbrev": "NLP",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    },
+    {
+      "id": "green-congress-of-kenya",
+      "name": "Green Congress of Kenya",
+      "abbrev": "GCK",
+      "kind": "political-party",
+      "origin": "orpp",
+      "source_url": "https://orpp.or.ke/fully-registered-political-parties-2/"
+    }
+  ],
+  "note": "ORPP fully-registered parties table HTTP 200. Collected 40 party names (abbrev only; addresses not copied). Harvest kit not rewritten."
 }

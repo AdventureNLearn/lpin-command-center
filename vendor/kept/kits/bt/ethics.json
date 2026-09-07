@@ -1,7 +1,18 @@
 {
   "iso2": "bt",
-  "items": [],
+  "source_url": "https://www.acc.org.bt/press-release/",
+  "retrieved": "2026-09-07",
   "incomplete": true,
-  "retrieved": "2026-09-06",
-  "note": "No sourced ethics for this ISO. Not invented."
+  "items": [
+    {
+      "member_id": null,
+      "category": "asset-declaration-rules",
+      "public": true,
+      "amount_band": null,
+      "origin": "official-page",
+      "source_url": "https://www.acc.org.bt/press-release/",
+      "note": "Official ACC asset-declaration framework page. Per-person filings and amounts not collected."
+    }
+  ],
+  "note": "Capped sample from official source."
 }

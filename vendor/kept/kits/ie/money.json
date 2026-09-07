@@ -1,7 +1,23 @@
 {
   "iso2": "ie",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://www.sipo.ie",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "incomplete": true,
+  "named_donors": false,
+  "buckets": [
+    {
+      "label": "political-donations",
+      "source_url": "https://www.sipo.ie"
+    },
+    {
+      "label": "election-spending",
+      "source_url": "https://www.sipo.ie"
+    },
+    {
+      "label": "parliamentary-activities-allowance",
+      "source_url": "https://www.sipo.ie"
+    }
+  ],
+  "unit": "",
+  "note": "Official source-type buckets from SIPO. Named private donors not collected."
 }

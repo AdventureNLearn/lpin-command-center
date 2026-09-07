@@ -1,7 +1,332 @@
 {
   "iso2": "br",
-  "items": [],
+  "named_donors": false,
+  "unit": "sitting members",
+  "sitting_total_reconstructed": 513,
+  "buckets": [
+    {
+      "label": "Empresário",
+      "amount": 79
+    },
+    {
+      "label": "Advogado",
+      "amount": 76
+    },
+    {
+      "label": "Administrador",
+      "amount": 32
+    },
+    {
+      "label": "Médico",
+      "amount": 27
+    },
+    {
+      "label": "Engenheiro",
+      "amount": 20
+    },
+    {
+      "label": "Advogada",
+      "amount": 18
+    },
+    {
+      "label": "Jornalista",
+      "amount": 17
+    },
+    {
+      "label": "Policial",
+      "amount": 17
+    },
+    {
+      "label": "Professor",
+      "amount": 16
+    },
+    {
+      "label": "Professora",
+      "amount": 14
+    },
+    {
+      "label": "Agricultor",
+      "amount": 13
+    },
+    {
+      "label": "Servidor público",
+      "amount": 13
+    },
+    {
+      "label": "undeclared",
+      "amount": 13
+    },
+    {
+      "label": "Comunicador",
+      "amount": 11
+    },
+    {
+      "label": "Delegado de polícia",
+      "amount": 10
+    },
+    {
+      "label": "Economista",
+      "amount": 10
+    },
+    {
+      "label": "Agropecuarista",
+      "amount": 8
+    },
+    {
+      "label": "Comerciário",
+      "amount": 7
+    },
+    {
+      "label": "Administradora",
+      "amount": 6
+    },
+    {
+      "label": "Pastor",
+      "amount": 6
+    },
+    {
+      "label": "Profissão não declarada",
+      "amount": 5
+    },
+    {
+      "label": "Empresária",
+      "amount": 4
+    },
+    {
+      "label": "Militar",
+      "amount": 4
+    },
+    {
+      "label": "Atleta profissional",
+      "amount": 3
+    },
+    {
+      "label": "Gestor público",
+      "amount": 3
+    },
+    {
+      "label": "Padre",
+      "amount": 3
+    },
+    {
+      "label": "Pecuarista",
+      "amount": 3
+    },
+    {
+      "label": "Pedagoga",
+      "amount": 3
+    },
+    {
+      "label": "Servidora pública",
+      "amount": 3
+    },
+    {
+      "label": "Teólogo",
+      "amount": 3
+    },
+    {
+      "label": "Arquiteto",
+      "amount": 2
+    },
+    {
+      "label": "Assistente social",
+      "amount": 2
+    },
+    {
+      "label": "Ator",
+      "amount": 2
+    },
+    {
+      "label": "Consultor",
+      "amount": 2
+    },
+    {
+      "label": "Contador",
+      "amount": 2
+    },
+    {
+      "label": "Corretor",
+      "amount": 2
+    },
+    {
+      "label": "Delegada de polícia",
+      "amount": 2
+    },
+    {
+      "label": "Empregado público",
+      "amount": 2
+    },
+    {
+      "label": "Enfermeira",
+      "amount": 2
+    },
+    {
+      "label": "Enfermeiro",
+      "amount": 2
+    },
+    {
+      "label": "Engenheira",
+      "amount": 2
+    },
+    {
+      "label": "Escritor",
+      "amount": 2
+    },
+    {
+      "label": "Estudante",
+      "amount": 2
+    },
+    {
+      "label": "Gestora pública",
+      "amount": 2
+    },
+    {
+      "label": "Médica",
+      "amount": 2
+    },
+    {
+      "label": "Profissional técnico",
+      "amount": 2
+    },
+    {
+      "label": "Agricultora",
+      "amount": 1
+    },
+    {
+      "label": "Agrônoma",
+      "amount": 1
+    },
+    {
+      "label": "Arquiteta",
+      "amount": 1
+    },
+    {
+      "label": "Auxiliar de enfermagem",
+      "amount": 1
+    },
+    {
+      "label": "Bancária",
+      "amount": 1
+    },
+    {
+      "label": "Bancário",
+      "amount": 1
+    },
+    {
+      "label": "Bibliotecária",
+      "amount": 1
+    },
+    {
+      "label": "Bispo",
+      "amount": 1
+    },
+    {
+      "label": "Bombeiro",
+      "amount": 1
+    },
+    {
+      "label": "Cientista política",
+      "amount": 1
+    },
+    {
+      "label": "Cientista político",
+      "amount": 1
+    },
+    {
+      "label": "Comunicadora",
+      "amount": 1
+    },
+    {
+      "label": "Defensor público",
+      "amount": 1
+    },
+    {
+      "label": "Eletricista",
+      "amount": 1
+    },
+    {
+      "label": "Farmacêutica",
+      "amount": 1
+    },
+    {
+      "label": "Fisioterapeuta",
+      "amount": 1
+    },
+    {
+      "label": "Fotógrafo",
+      "amount": 1
+    },
+    {
+      "label": "Geólogo",
+      "amount": 1
+    },
+    {
+      "label": "Historiadora",
+      "amount": 1
+    },
+    {
+      "label": "Médico veterinário",
+      "amount": 1
+    },
+    {
+      "label": "Metalúrgico",
+      "amount": 1
+    },
+    {
+      "label": "Motorista profissional",
+      "amount": 1
+    },
+    {
+      "label": "Música",
+      "amount": 1
+    },
+    {
+      "label": "Músico",
+      "amount": 1
+    },
+    {
+      "label": "Pedagogo",
+      "amount": 1
+    },
+    {
+      "label": "Pescador",
+      "amount": 1
+    },
+    {
+      "label": "Profissional autônoma",
+      "amount": 1
+    },
+    {
+      "label": "Profissional gráfico",
+      "amount": 1
+    },
+    {
+      "label": "Promotor de justiça",
+      "amount": 1
+    },
+    {
+      "label": "Psicólogo",
+      "amount": 1
+    },
+    {
+      "label": "Publicitária",
+      "amount": 1
+    },
+    {
+      "label": "Sanitarista",
+      "amount": 1
+    },
+    {
+      "label": "Sindicalista",
+      "amount": 1
+    },
+    {
+      "label": "Socióloga",
+      "amount": 1
+    }
+  ],
   "incomplete": true,
-  "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "source_url": "https://dadosabertos.camara.leg.br/arquivos/deputadosProfissoes/json/deputadosProfissoes.json",
+  "note": "Occupation buckets are sitting-member counts from Câmara Dados Abertos deputadosProfissoes.json joined to the current legislatura 57 deputados list (513 sitting; API 513). First declared profession titulo only; 123 deputies had additional titles and were not double-counted. 13 sitting members had a blank titulo and are stored as undeclared. Official Câmara labels as published (gendered titles kept separate). Not occupation-of-donor. Not campaign-reais. RelDepProfissao.asp sitting report HTTP 404. deputadosOcupacoes.json is historical jobs/entities for all-time members and was not stored. TSE FEFC 2022/2026 (HTTP 200/200) is the all-office public fund allocation, not a Chamber sitting-campaign occupation/source aggregate, so reais were not stored as kit totals. DivulgaCandContas and dados abertos publicação of named PF donors and DS_ORIGEM_RECEITA microdata were not collected. IBGE home/SIDRA 2022 (HTTP 200/200) has no sitting-deputy occupation table. Named private donors not collected. Reais not invented from TSE prestação.",
+  "retrieved": "2026-08-20"
 }

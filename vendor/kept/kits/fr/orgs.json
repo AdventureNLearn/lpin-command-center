@@ -1,7 +1,75 @@
 {
   "iso2": "fr",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://www.assemblee-nationale.fr/dyn/les-groupes-politiques",
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "rassemblement-national",
+      "name": "Rassemblement National",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.assemblee-nationale.fr/dyn/les-groupes-politiques"
+    },
+    {
+      "id": "ensemble-pour-la-republique",
+      "name": "Ensemble pour la République",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.assemblee-nationale.fr/dyn/les-groupes-politiques"
+    },
+    {
+      "id": "la-france-insoumise-nouveau-front-populaire",
+      "name": "La France insoumise - Nouveau Front Populaire",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.assemblee-nationale.fr/dyn/les-groupes-politiques"
+    },
+    {
+      "id": "socialistes-et-apparentes",
+      "name": "Socialistes et apparentés",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.assemblee-nationale.fr/dyn/les-groupes-politiques"
+    },
+    {
+      "id": "droite-republicaine",
+      "name": "Droite Républicaine",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.assemblee-nationale.fr/dyn/les-groupes-politiques"
+    },
+    {
+      "id": "ecologiste-et-social",
+      "name": "Écologiste et Social",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.assemblee-nationale.fr/dyn/les-groupes-politiques"
+    },
+    {
+      "id": "les-democrates",
+      "name": "Les Démocrates",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.assemblee-nationale.fr/dyn/les-groupes-politiques"
+    },
+    {
+      "id": "horizons-independants",
+      "name": "Horizons & Indépendants",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.assemblee-nationale.fr/dyn/les-groupes-politiques"
+    },
+    {
+      "id": "libertes-independants-outre-mer-et-territoires",
+      "name": "Libertés, Indépendants, Outre-mer et Territoires",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.assemblee-nationale.fr/dyn/les-groupes-politiques"
+    },
+    {
+      "id": "gauche-democrate-et-republicaine",
+      "name": "Gauche Démocrate et Républicaine",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.assemblee-nationale.fr/dyn/les-groupes-politiques"
+    },
+    {
+      "id": "union-des-droites-pour-la-republique",
+      "name": "Union des droites pour la République",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.assemblee-nationale.fr/dyn/les-groupes-politiques"
+    }
+  ],
+  "note": "Assemblée nationale official parliamentary groups (les-groupes-politiques). Non-inscrits omitted. CNCCFP full register not sampled (includes local labels). Harvest write because orgs kit was empty. Cap 40. Incomplete."
 }

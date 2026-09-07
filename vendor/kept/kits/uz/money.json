@@ -1,7 +1,24 @@
 {
   "iso2": "uz",
-  "items": [],
+  "named_donors": false,
+  "unit": "UZS",
+  "sitting_total_reconstructed": null,
+  "buckets": [
+    {
+      "label": "state funds allocated per Legislative Chamber candidate",
+      "amount": 10832000
+    },
+    {
+      "label": "state budget financing of political-party election participation (source-type)",
+      "source_url": "https://saylov.uz/storage/cec-decisions/February2024/j1M4BfoXtvpnb9aRVWti.pdf"
+    },
+    {
+      "label": "CEC cost plan for preparation and holding of Legislative Chamber elections (annexes not extracted)",
+      "source_url": "https://saylov.uz/storage/cec-decisions/February2024/j1M4BfoXtvpnb9aRVWti.pdf"
+    }
+  ],
   "incomplete": true,
+  "source_url": "https://saylov.uz/storage/cec-decisions/February2024/j1M4BfoXtvpnb9aRVWti.pdf",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "CEC resolution on the cost plan for Legislative Chamber elections HTTP 200 (probed 2026-09-07). Printed per-candidate state allocation for a Legislative Chamber deputy candidate: 10 832 000 soums. Combined all-party transfer total not printed on the English resolution (annexes 1–2 referred to Russian/Uzbek versions; not extracted). Subnational per-candidate rates not stored. Named private donors not collected. sitting_total_reconstructed left null — per-candidate rate is not a combined sitting total. Amounts not invented."
 }

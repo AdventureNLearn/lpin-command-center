@@ -1,7 +1,55 @@
 {
   "iso2": "za",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://results.elections.org.za/home/PartyFundingReports/8/4/8_4_Published_Declarations_Report.pdf",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "iec-ppfa-q4-2025-26-all",
+      "period": "2025/26-Q4",
+      "label": "IEC published declarations — all parties quarter total",
+      "amount_zar": 97227735.55,
+      "unit": "ZAR",
+      "named_donors": false,
+      "source_url": "https://results.elections.org.za/home/PartyFundingReports/8/4/8_4_Published_Declarations_Report.pdf",
+      "note": "Party-level total from official PDF. Named donors not copied."
+    },
+    {
+      "id": "iec-ppfa-q4-2025-26-da",
+      "period": "2025/26-Q4",
+      "party": "Democratic Alliance",
+      "amount_zar": 57317303.55,
+      "unit": "ZAR",
+      "named_donors": false,
+      "source_url": "https://results.elections.org.za/home/PartyFundingReports/8/4/8_4_Published_Declarations_Report.pdf"
+    },
+    {
+      "id": "iec-ppfa-q4-2025-26-rise",
+      "period": "2025/26-Q4",
+      "party": "RISE Mzansi",
+      "amount_zar": 30000000,
+      "unit": "ZAR",
+      "named_donors": false,
+      "source_url": "https://results.elections.org.za/home/PartyFundingReports/8/4/8_4_Published_Declarations_Report.pdf"
+    },
+    {
+      "id": "iec-ppfa-q4-2025-26-anc",
+      "period": "2025/26-Q4",
+      "party": "African National Congress",
+      "amount_zar": 10019100,
+      "unit": "ZAR",
+      "named_donors": false,
+      "source_url": "https://results.elections.org.za/home/PartyFundingReports/8/4/8_4_Published_Declarations_Report.pdf"
+    },
+    {
+      "id": "iec-ppfa-q4-2025-26-ifp",
+      "period": "2025/26-Q4",
+      "party": "Inkatha Freedom Party",
+      "amount_zar": 186726,
+      "unit": "ZAR",
+      "named_donors": false,
+      "source_url": "https://results.elections.org.za/home/PartyFundingReports/8/4/8_4_Published_Declarations_Report.pdf"
+    }
+  ],
+  "note": "Capped sample from official source."
 }

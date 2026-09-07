@@ -3,92 +3,12 @@
   "chamber": "Cámara de Diputados",
   "retrieved": "2026-08-20",
   "incomplete": true,
-  "note": "Public Ley 25.188 categories only. No pesos. No confidential annex.",
+  "note": "Public Ley 25.188 categories only. No pesos. No confidential annex. Deduped 8 duplicate ethics rows 2026-09-06.",
   "items": [
     {
       "member_id": null,
       "category": "bienes-inmuebles",
       "label_en": "Real estate (ubicación, destino, fecha y valor de adquisición)",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "http://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/60847/texact.htm",
-      "note": "Ley 25.188 Art. 6. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "derechos-reales-inmuebles",
-      "label_en": "Real rights over immovable property",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "http://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/60847/texact.htm",
-      "note": "Ley 25.188 Art. 6. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "bienes-muebles-registrables",
-      "label_en": "Registrable movable property",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "http://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/60847/texact.htm",
-      "note": "Ley 25.188 Art. 6. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "otros-bienes",
-      "label_en": "Other goods above the statutory threshold",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "http://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/60847/texact.htm",
-      "note": "Ley 25.188 Art. 6. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "depositos",
-      "label_en": "Deposits in banks and financial entities",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "http://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/60847/texact.htm",
-      "note": "Ley 25.188 Art. 6. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "titulos-acciones",
-      "label_en": "Securities, shares and other holdings",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "http://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/60847/texact.htm",
-      "note": "Ley 25.188 Art. 6. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "creditos",
-      "label_en": "Credits and mortgage or pledge rights",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "http://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/60847/texact.htm",
-      "note": "Ley 25.188 Art. 6. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "deudas",
-      "label_en": "Debts and obligations",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "http://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/60847/texact.htm",
-      "note": "Ley 25.188 Art. 6. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "cargos-societarios",
-      "label_en": "Offices in companies and civil entities",
       "public": true,
       "amount_band": null,
       "origin": "statute",

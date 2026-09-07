@@ -1,7 +1,40 @@
 {
   "iso2": "ad",
-  "items": [],
+  "source_url": "https://www.consellgeneral.ad/ca/composicio-actual/els-grups-parlamentaris",
+  "items": [
+    {
+      "id": "ad-gp-democrata",
+      "name": "Grup Parlamentari Democrata",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.consellgeneral.ad/ca/composicio-actual/els-grups-parlamentaris/grup-parlamentari-democrata"
+    },
+    {
+      "id": "ad-gp-concordia",
+      "name": "Grup Parlamentari de Concordia",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.consellgeneral.ad/ca/composicio-actual/els-grups-parlamentaris/grup-parlamentari-de_concordia"
+    },
+    {
+      "id": "ad-gp-socialdemocrata",
+      "name": "Grup Parlamentari Socialdemocrata",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.consellgeneral.ad/ca/composicio-actual/els-grups-parlamentaris/grup_parlamentari_socialdemocrata"
+    },
+    {
+      "id": "ad-gp-andorra-endavant",
+      "name": "Grup Parlamentari Andorra Endavant",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.consellgeneral.ad/ca/composicio-actual/els-grups-parlamentaris/grup-parlamentari-andorra-endavant"
+    },
+    {
+      "id": "ad-gp-ciutadans",
+      "name": "Grup Parlamentari Ciutadans Compromesos",
+      "kind": "parliamentary-group",
+      "source_url": "https://www.consellgeneral.ad/ca/composicio-actual/els-grups-parlamentaris/grup-parlamentari-ciutadans-compromesos"
+    }
+  ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "origin": "crawl-merge",
+  "note": "Merged from crawl collected.orgs (official source). Cap 40. Incomplete."
 }

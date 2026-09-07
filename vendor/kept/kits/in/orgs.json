@@ -1,7 +1,250 @@
 {
   "iso2": "in",
-  "items": [],
+  "source_url": "https://sansad.in/api_ls/member?loksabha=18",
+  "items": [
+    {
+      "id": "bjp",
+      "name": "Bharatiya Janata Party",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "inc",
+      "name": "Indian National Congress",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "sp",
+      "name": "Samajwadi Party",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "aitc",
+      "name": "All India Trinamool Congress",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "dmk",
+      "name": "Dravida Munnetra Kazhagam",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "tdp",
+      "name": "Telugu Desam Party",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "ss",
+      "name": "Shiv Sena",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "jd-u",
+      "name": "Janata Dal (United)",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "ncpsp",
+      "name": "Nationalist Congress Party - Sharadchandra Pawar",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "ljsp-rv",
+      "name": "Lok Jan Shakti Party (Ram Vilas)",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "rjd",
+      "name": "Rashtriya Janata Dal",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "cpi-m",
+      "name": "Communist Party of India (Marxist)",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "ysr-congress-party",
+      "name": "Yuvajana Sramika Rythu Congress Party",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "shsubt",
+      "name": "Shiv Sena (Uddhav Balasaheb Thackrey)",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "iuml",
+      "name": "Indian Union Muslim League",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "aap",
+      "name": "Aam Aadmi Party",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "jmm",
+      "name": "Jharkhand Mukti Morcha",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "j-knc",
+      "name": "Jammu and Kashmir National Conference",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "jsp",
+      "name": "Janasena Party",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "rld",
+      "name": "Rashtriya Lok Dal",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "vck",
+      "name": "Viduthalai Chiruthaigal Katchi",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "jd-s",
+      "name": "Janata Dal (Secular)",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "cpi-ml-l",
+      "name": "Communist Party of India (Marxist-Leninist) Liberation",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "cpi",
+      "name": "Communist Party of India",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "apna-dal-s",
+      "name": "Apna Dal (Soneylal)",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "aimim",
+      "name": "All India Majlis-E-Ittehadul Muslimeen",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "ajsu",
+      "name": "AJSU Party",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "asp-kr",
+      "name": "Azad Samaj Party (Kanshi Ram)",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "mdmk",
+      "name": "Marumalarchi Dravida Munnetra Kazhagam",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "rlp",
+      "name": "Rashtriya Loktantrik Party",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "sad",
+      "name": "Shiromani Akali Dal",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "skm",
+      "name": "Sikkim Krantikari Morcha",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "ham-s",
+      "name": "Hindustani Awam Morcha (Secular)",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "uppl",
+      "name": "United Peoples Party, Liberal",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "kec",
+      "name": "Kerala Congress",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "rsp",
+      "name": "Revolutionary Socialist Party",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "agp",
+      "name": "Asom Gana Parishad",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "bap",
+      "name": "Bharat Adivasi Party",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "zpm",
+      "name": "Zoram Peoples Movement",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    },
+    {
+      "id": "ncp",
+      "name": "Nationalist Congress Party",
+      "kind": "political-party",
+      "source_url": "https://sansad.in/api_ls/member?loksabha=18"
+    }
+  ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "origin": "parties-index",
+  "note": "Thin org list derived from official parties.json (non-wikidata). Incomplete. origin:parties-index."
 }

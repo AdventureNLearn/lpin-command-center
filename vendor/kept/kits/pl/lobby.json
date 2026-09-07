@@ -1,7 +1,17 @@
 {
   "iso2": "pl",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://www.gov.pl/web/mswia/dzialalnosc-lobbingowa",
   "retrieved": "2026-09-06",
-  "note": "No sourced lobby for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "mswia-professional-lobby-register",
+      "category": "rejestr-podmiotow-wykonujacych-zawodowa-dzialalnosc-lobbingowa",
+      "public": true,
+      "origin": "clerk",
+      "source_url": "https://www.gov.pl/attachment/6b36c156-f6ee-40a4-a2af-04876f8181b5",
+      "note": "Official MSWiA register PDF HTTP 200. Entity names not extracted this pass. Not invented."
+    }
+  ],
+  "note": "Capped sample from official source."
 }

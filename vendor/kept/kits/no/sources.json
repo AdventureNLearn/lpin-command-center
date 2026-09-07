@@ -5,6 +5,55 @@
       "id": "wikidata",
       "label": "Wikidata sitting members",
       "url": "https://www.wikidata.org/wiki/Q109016"
+    },
+    {
+      "id": "official-orgs",
+      "label": "Official registered political parties / committees",
+      "url": "https://data.brreg.no/partiregisteret/api/lastned/csv",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://data.stortinget.no/eksport/komiteer",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-votes",
+      "label": "Official roll-call / division source",
+      "url": "https://data.stortinget.no/eksport/voteringer?sakid=63033",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-ethics",
+      "label": "Official MP financial-interest / disclosure register",
+      "url": "https://www.stortinget.no/no/Stortinget-og-demokratiet/Representantene/Okonomiske-interesser/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-money",
+      "label": "SSB political party financing (table 11233)",
+      "url": "https://data.ssb.no/api/v0/no/table/11233",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-filers",
+      "label": "Official disclosure-filer / registrant list",
+      "url": "https://www.partifinansiering.no",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-members",
+      "label": "Stortinget current representatives (period export)",
+      "url": "https://data.stortinget.no/eksport/representanter",
+      "kind": "primary",
+      "basis": "Evidence"
     }
   ]
 }

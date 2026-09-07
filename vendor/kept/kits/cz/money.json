@@ -1,7 +1,27 @@
 {
   "iso2": "cz",
-  "items": [],
+  "named_donors": false,
+  "unit": "",
+  "buckets": [
+    {
+      "label": "příspěvek ze státního rozpočtu na úhradu volebních nákladů",
+      "source_url": "https://udh.gov.cz/"
+    },
+    {
+      "label": "příspěvek ze státního rozpočtu na činnost strany a hnutí",
+      "source_url": "https://udh.gov.cz/"
+    },
+    {
+      "label": "členské příspěvky",
+      "source_url": "https://udh.gov.cz/"
+    },
+    {
+      "label": "dary, dědictví a bezúplatná plnění (aggregate)",
+      "source_url": "https://udh.gov.cz/"
+    }
+  ],
   "incomplete": true,
+  "source_url": "https://udh.gov.cz/",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "ÚDH (Office for Supervision of the Management of Political Parties and Movements) HTTP 200. Source-type income-statement buckets from the official výroční finanční zpráva schema. All-party CZK totals not extracted this pass (per-party HTML exists; not summed, not invented). Named private donors not collected."
 }

@@ -1,7 +1,31 @@
 {
   "iso2": "cl",
-  "source_url": "https://www.wikidata.org/wiki/Q1968468",
+  "chamber": "National Congress of Chile",
+  "source_url": "https://opendata.camara.cl/camaradiputados/WServices/WSComision.asmx/retornarComisionesVigentes",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 2,
+  "items": [
+    {
+      "id": "544",
+      "name": "Ética y Transparencia",
+      "chamber": "Chamber of Deputies",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://opendata.camara.cl/camaradiputados/WServices/WSComision.asmx/retornarComisionesVigentes"
+    },
+    {
+      "id": "411",
+      "name": "Salud",
+      "chamber": "Chamber of Deputies",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://opendata.camara.cl/camaradiputados/WServices/WSComision.asmx/retornarComisionesVigentes"
+    }
+  ],
+  "note": "WSComision retornarComisionesVigentes HTTP 200. retornarComisiones GET is 500. Sample is the payload as returned (2 rows)."
 }

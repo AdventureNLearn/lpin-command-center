@@ -1,7 +1,81 @@
 {
   "iso2": "mu",
-  "source_url": "https://www.wikidata.org/wiki/Q1854129",
+  "chamber": "National Assembly of Mauritius",
+  "source_url": "https://mauritiusassembly.govmu.org/mauritiusassembly/index.php/committees-2024/",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 7,
+  "items": [
+    {
+      "id": "mu-selection",
+      "name": "Committee of Selection",
+      "chamber": "National Assembly of Mauritius",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://mauritiusassembly.govmu.org/mauritiusassembly/index.php/committees-2024/"
+    },
+    {
+      "id": "mu-pac",
+      "name": "Public Accounts Committee",
+      "chamber": "National Assembly of Mauritius",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://mauritiusassembly.govmu.org/mauritiusassembly/index.php/committees-2024/"
+    },
+    {
+      "id": "mu-standing-orders",
+      "name": "Standing Orders Committee",
+      "chamber": "National Assembly of Mauritius",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://mauritiusassembly.govmu.org/mauritiusassembly/index.php/committees-2024/"
+    },
+    {
+      "id": "mu-house",
+      "name": "House Committee",
+      "chamber": "National Assembly of Mauritius",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://mauritiusassembly.govmu.org/mauritiusassembly/index.php/committees-2024/"
+    },
+    {
+      "id": "mu-broadcasting",
+      "name": "Broadcasting Committee",
+      "chamber": "National Assembly of Mauritius",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://mauritiusassembly.govmu.org/mauritiusassembly/index.php/committees-2024/"
+    },
+    {
+      "id": "mu-gender-caucus",
+      "name": "Parliamentary Gender Caucus",
+      "chamber": "National Assembly of Mauritius",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://mauritiusassembly.govmu.org/mauritiusassembly/index.php/committees-2024/"
+    },
+    {
+      "id": "mu-fcc",
+      "name": "Parliamentary Committee on the Financial Crimes Commission",
+      "chamber": "National Assembly of Mauritius",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://mauritiusassembly.govmu.org/mauritiusassembly/index.php/committees-2024/"
+    }
+  ],
+  "note": "Eighth National Assembly committee roster. Member names not copied."
 }

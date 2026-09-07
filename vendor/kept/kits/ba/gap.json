@@ -22,12 +22,32 @@
       "basis": "Evidence"
     },
     {
-      "id": "committees",
-      "hole": "No sourced committee list.",
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "orgs",
+      "hole": "No sourced org list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members-coverage",
+      "hole": "Named members 46 of statutory 57. Vacancies not padded. Names not invented without a current-term official list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members-overcount",
+      "hole": "House of Peoples named 16 exceed statutory 15. House of Representatives named 29 of statutory 42. Names not deleted without a current-term official list.",
       "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: Parliamentary Assembly of Bosnia and Herzegovina · House of Peoples of Bosnia and Herzegovina · House of Representatives of Bosnia and Herzegovina. Sitting 46. Empty objects not invented."
+  "note": "Category coverage 2026-09-06. Empty categories are holes, not zeros invented."
 }

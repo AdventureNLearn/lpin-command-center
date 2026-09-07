@@ -1,7 +1,329 @@
 {
   "iso2": "si",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
   "retrieved": "2026-09-06",
-  "note": "No sourced pledges for this ISO. Not invented."
+  "incomplete": true,
+  "note": "Quote+URL from official party manifesto / programme HTML. Not invented. Cap 40.",
+  "items": [
+    {
+      "id": "si-p-the-left-taxes-53efa6",
+      "party_id": "the-left",
+      "quote": "In je obljuba, da bomo tudi v prihodnje ostali zvesti svojim načelom, da bomo svojo besedo še naprej držali in to pričakovali tudi od svojih partnerjev ter da se tudi v prihodnje ne bomo pustili niti ustrahovati niti kupiti lobijem in klientelističnim omrežjem.",
+      "issue_id": "taxes",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-taxes-7cda14",
+      "party_id": "the-left",
+      "quote": "Zato bomo ohranjali in okrepili javni zdravstveni sistem z dodatnimi sredstvi in se uprli pritiskom, usmerjenim k njegovi razgradnji in privatizaciji.",
+      "issue_id": "taxes",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-border-d800b5",
+      "party_id": "the-left",
+      "quote": "Ukinili bomo dopolnilno zdravstveno zavarovanje, dodatna sredstva bomo namenili krajšanju čakalnih vrst, vse prebivalce in prebivalke Slovenije bomo vključili v obvezno zdravstveno zavarovanje in razširili košarico pravic.",
+      "issue_id": "border",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-crime-e1eb39",
+      "party_id": "the-left",
+      "quote": "Odločno se bomo zoperstavili korupciji in dobičkarstvu pri nabavi medicinskih materialov in zdravil ter onemogočili outsourcanje dejavnosti in popoldansko delo.",
+      "issue_id": "crime",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-energy-f3168a",
+      "party_id": "the-left",
+      "quote": "Odločno bomo zastopali neodvisnost in okrepitev okoljevarstvenih in naravovarstvenih državnih institucij ter upoštevanje stroke.",
+      "issue_id": "energy",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-energy-2e04bd",
+      "party_id": "the-left",
+      "quote": "V času prihodnjih dveh vlad bomo morali izpuste toplogrednih plinov zmanjšati za 60 % glede na leto 2005.",
+      "issue_id": "energy",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-border-a2c400",
+      "party_id": "the-left",
+      "quote": "Prizadevali si bomo za razvojno politiko, ki bo v ospredje postavila dostojno plačilo in delovne pogoje, konec prekarnosti in izkoriščanja ter krepila ekonomsko demokracijo.",
+      "issue_id": "border",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-border-9a73c8",
+      "party_id": "the-left",
+      "quote": "Spodbujali bomo sodelovanje delavcev in delavk pri upravljanju ter oblike delavskega lastništva podjetij.",
+      "issue_id": "border",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-border-1f0839",
+      "party_id": "the-left",
+      "quote": "V partnerstvu s sindikati se bomo zoperstavili prekarizaciji dela, ki ogroža socialno varnost ter moč delavcev in delavk v podjetjih.",
+      "issue_id": "border",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-crime-db9da6",
+      "party_id": "the-left",
+      "quote": "Povečali bomo vlogo delavcev in delavk in širše javnosti pri upravljanju podjetij v državni lasti ter uvedli varovalke pred korupcijo in konflikti interesov pri kadrovanju v teh podjetjih.",
+      "issue_id": "crime",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-border-5bcdc6",
+      "party_id": "the-left",
+      "quote": "Posebno pozornost bomo posvetili povečanju transparentnosti, odgovornosti in demokratičnosti vodenja raziskovalnih skupin in vzpostavljanju mehanizmov za preprečevanje zlorab.",
+      "issue_id": "border",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-border-19f56e",
+      "party_id": "the-left",
+      "quote": "Zato bomo socialne transferje dvignili na raven, ki omogoča preživetje, in se spopadli s prenašanjem revščine iz generacije v generacijo.",
+      "issue_id": "border",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-border-897f40",
+      "party_id": "the-left",
+      "quote": "Iz sistema denarnih socialnih prejemkov bomo postopoma razvili sistem temeljnega dohodka, za katerega se ne bodo uporabljala ponižujoča merila, njegovim prejemnikom in prejemnicam pa ne bo treba sprejeti vsake zaposlitve in bodo izkoriščanje lahko zavrnili.",
+      "issue_id": "border",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-border-f2dd40",
+      "party_id": "the-left",
+      "quote": "Pokojnine bomo dvignili na raven, ki bo omogočala dostojno starost; prioriteta bodo najnižje pokojnine.",
+      "issue_id": "border",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-border-ce99fe",
+      "party_id": "the-left",
+      "quote": "Zagotovili bomo, da bo streha nad glavo razumljena kot temeljna človekova pravica, ne pa kot špekulativna naložba na dobičkonosnem trgu.",
+      "issue_id": "border",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-border-2dff06",
+      "party_id": "the-left",
+      "quote": "Povišali bomo proračunska sredstva za Stanovanjski sklad Republike Slovenije, da bo lahko do leta 2030 zgradil 30.000 javnih neprofitnih stanovanj.",
+      "issue_id": "border",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-border-bc1429",
+      "party_id": "the-left",
+      "quote": "Podprli bomo razvoj stanovanjskih zadrug in drugih neprofitnih stanovanjskih organizacij, ki izvajajo javni interes na področju stanovanjske preskrbe.",
+      "issue_id": "border",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-border-1c9d04",
+      "party_id": "the-left",
+      "quote": "Okrepili bomo regulacijo najemnega trga z omejevanjem višine tržnih najemnin.",
+      "issue_id": "border",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-taxes-772ac6",
+      "party_id": "the-left",
+      "quote": "Uvedli bomo progresivni davek na nepremičnine in rente iz oddajanja stanovanj in davek na prazna stanovanja.",
+      "issue_id": "taxes",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-border-8ad4c9",
+      "party_id": "the-left",
+      "quote": "Vsem otrokom ter mladostnikom in mladostnicam bomo pod enakimi pogoji zagotovili dostop do kakovostne brezplačne vzgoje in izobrazbe ter okrepili izobraževanje odraslih.",
+      "issue_id": "border",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-border-9bba50",
+      "party_id": "the-left",
+      "quote": "Borili se bomo proti krčenju sredstev, prekarizaciji zaposlitev in povečanju delovnih obremenitev zaposlenih.",
+      "issue_id": "border",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-border-8d37c2",
+      "party_id": "the-left",
+      "quote": "Zagotovili bomo debirokratizacijo vzgojno-izobraževalnega sistema, ki bo strokovnim delavcem in delavkam zagotovila strokovno avtonomijo in omogočila, da bodo lahko bolj posvetili pedagoškemu delu z vsemi otroki, učenci in učenkami ter dijaki in dijakinjami, še posebej tistimi iz deprivilegiranih okolij.",
+      "issue_id": "border",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-border-3b3623",
+      "party_id": "the-left",
+      "quote": "Pripravili bomo načrt za nevtralizacijo izobraževalnih mankov ter pomoč otrokom in mladostnikom in mladostnicam po epidemiji, ki bo usklajen s pedagoško stroko, šolami in zaposlenimi.",
+      "issue_id": "border",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-border-8e9a22",
+      "party_id": "the-left",
+      "quote": "Za njegovo izvedbo bomo zagotovili potrebne materialne, kadrovske in finančne vire.",
+      "issue_id": "border",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-border-881d0b",
+      "party_id": "the-left",
+      "quote": "V sodelovanju z reprezentativnim sindikatom bomo pripravili ukrepe, ki bodo nevtralizirali negativne posledice epidemije na kadrovskem področju, in primerno ovrednotili začasne obremenitve in tveganja zaposlenih med epidemijo.",
+      "issue_id": "border",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-border-ed911a",
+      "party_id": "the-left",
+      "quote": "Sprejeli bomo ukrepe, ki bodo v sprejemanje ključnih politik vključili javnost ter zagotovili transparentne in vključujoče postopke sprejemanja vseh ključnih aktov na državni in lokalni ravni.",
+      "issue_id": "border",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-border-488199",
+      "party_id": "the-left",
+      "quote": "Za ključne razvojne in dolgoročne politične usmeritve bomo zagotovili ustrezno podporo s strani civilne družbe.",
+      "issue_id": "border",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-border-970c7f",
+      "party_id": "the-left",
+      "quote": "Uvedli bomo participativni proračun na občinski in državni ravni ter možnost odpoklica političnih funkcionarjev in funkcionark.",
+      "issue_id": "border",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-border-7942f5",
+      "party_id": "the-left",
+      "quote": "Spopadli se bomo s političnimi pritiski na svobodo izražanja in medijem zagotovili potrebno avtonomijo v odnosu do politične oblasti in političnih strank ter pritiskov iz tujine.",
+      "issue_id": "border",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-border-9ecaaf",
+      "party_id": "the-left",
+      "quote": "Še naprej se bomo zoperstavljali težnjam po militarizaciji Slovenije in povečevanju izdatkov za orožje.",
+      "issue_id": "border",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-border-6be774",
+      "party_id": "the-left",
+      "quote": "Zavzemali se bomo za nevtralno zunanjo politiko in za to, da bo Slovenija v mednarodni skupnosti glas miru, pravic zatiranih, socialne pravičnosti, enakopravnih odnosov vseh držav in globalno pravične podnebne tranzicije.",
+      "issue_id": "border",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-border-4f9ba4",
+      "party_id": "the-left",
+      "quote": "Zavzemali se bomo za to, da država prevzame aktivno vlogo v razvoju domačega gospodarstva.",
+      "issue_id": "border",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-taxes-5823a6",
+      "party_id": "the-left",
+      "quote": "Ustavili bomo privatizacijo podjetij in bank v državni lasti.",
+      "issue_id": "taxes",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-border-63f397",
+      "party_id": "the-left",
+      "quote": "Krovnega upravljavca državnega premoženja (SDH) in razvojno banko v državni lasti (SID) bomo uporabili za demokratično načrtovanje gospodarske dejavnosti z javnimi investicijami, ki bodo namesto največjih možnih profitov zasledovale socialne in okoljske standarde ter skladen regionalni razvoj Slovenije.",
+      "issue_id": "border",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-border-bea151",
+      "party_id": "the-left",
+      "quote": "Okrepitev države v bančnem sektorju: Za potrebe razvojne politike bomo dokapitalizirali SID banko in ji s tem omogočili prevzem vsaj ene od sistemskih bank.",
+      "issue_id": "border",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-border-5c6c75",
+      "party_id": "the-left",
+      "quote": "Prek opolnomočenja SID banke bomo kredite z možnostjo pretvorbe v lastniške deleže načrtno usmerjali v razvoj strateških in pomembnih družb (skladno z novo strategijo upravljanja) ter družb, ki imajo velik vpliv na zaposlovanje (npr.",
+      "issue_id": "border",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-border-fe3b41",
+      "party_id": "the-left",
+      "quote": "Upravljanje kapitalskih naložb: Sprejeli bomo novo strategijo upravljanja kapitalskih naložb države, ki bo skladna z nacionalno razvojno strategijo.",
+      "issue_id": "border",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-border-36f8ad",
+      "party_id": "the-left",
+      "quote": "Upravljanje državnega premoženja pod vodstvom SDH, ki ga bomo uskladili s kreditno politiko SID banke, primarno ne bo več temeljilo na kriterijih donosnosti, temveč bo upoštevalo socialne in okoljske kriterije ter zasledovalo politiko polne zaposlenosti in odpravljanja razvojnih razlik med regijami.",
+      "issue_id": "border",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-border-e422e8",
+      "party_id": "the-left",
+      "quote": "Razvoj in raziskovanje: Povečali bomo financiranje znanosti, raziskovanja in izobraževanja na evropsko primerljivo raven s ciljem 2 % BDP javnih sredstev za raziskave in razvoj do leta 2030.",
+      "issue_id": "border",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "si-p-the-left-border-e804e9",
+      "party_id": "the-left",
+      "quote": "Vzpostavljanje proizvodnih verig: Vzpostavili bomo spodbude za povezovanje slovenskih podjetij v podjetniške verige ali grozde s ciljem proizvodnje končnih izdelkov in domačih tehnologij.",
+      "issue_id": "border",
+      "source_url": "https://www.levica.si/prihodnost-za-vse-ne-le-za-pescico-program-za-drzavnozborske-volitve-2022/",
+      "date": "2022-04-01"
+    }
+  ]
 }

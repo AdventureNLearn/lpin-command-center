@@ -2,12 +2,17 @@
   "iso2": "de",
   "items": [
     {
-      "id": "money",
-      "hole": "No sourced money file.",
+      "id": "members-bundesrat",
+      "hole": "Bundestag harvest 630 filed. Bundesrat members not in members.json. Not invented.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members-party",
+      "hole": "Harvest party_id unknown for most Bundestag rows. Party labels not invented.",
       "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: chauffeur service of the German Bundestag · Library of the German Bundestag · Bundesrat · member of the German Bundestag · Member of the Bundesrat of Germany · Enquete Commission Lessons from Afghanistan for Germany's future networked engagement · Bundesrat Library · Q132798745 · German Bundestag. Sitting 630. Empty objects not invented."
+  "note": "Category coverage 2026-09-06. Empty categories are holes, not zeros invented. Polish 2026-09-06. Member holes noted. Vacancies not invented."
 }

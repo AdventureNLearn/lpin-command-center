@@ -25,9 +25,29 @@
       "id": "committees",
       "hole": "No sourced committee list.",
       "basis": "Evidence"
+    },
+    {
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "orgs",
+      "hole": "No sourced org list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members-overcount",
+      "hole": "Wikidata sitting file 480 vs claimed 302 (Islamic Consultative Assembly 466 + Guardian Council 14). Historical/extra-body mix; sitting filter not applied; rows not replaced.",
+      "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: Islamic Consultative Assembly · Speaker of the Islamic Consultative Assembly · Member of the Islamic Consultative Assembly · Vice-Speaker of the Islamic Consultative Assembly · Guardian Council. Sitting 480. Empty objects not invented."
+  "note": "Category coverage 2026-09-06. Empty categories are holes, not zeros invented."
 }

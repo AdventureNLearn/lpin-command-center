@@ -1,7 +1,34 @@
 {
   "iso2": "de",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://www.bundestag.de/parlament/fraktionen",
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "cdu-csu",
+      "name": "CDU/CSU",
+      "source_url": "https://www.bundestag.de/parlament/fraktionen"
+    },
+    {
+      "id": "spd",
+      "name": "SPD",
+      "source_url": "https://www.bundestag.de/parlament/fraktionen"
+    },
+    {
+      "id": "afd",
+      "name": "AfD",
+      "source_url": "https://www.bundestag.de/parlament/fraktionen"
+    },
+    {
+      "id": "gruene",
+      "name": "Bündnis 90/Die Grünen",
+      "source_url": "https://www.bundestag.de/parlament/fraktionen"
+    },
+    {
+      "id": "linke",
+      "name": "Die Linke",
+      "source_url": "https://www.bundestag.de/parlament/fraktionen"
+    }
+  ],
+  "note": "Capped sample from official source."
 }

@@ -1,7 +1,305 @@
 {
   "iso2": "al",
-  "source_url": "https://www.wikidata.org/wiki/Q1135960",
-  "retrieved": "2026-09-06",
+  "source_url": "https://www.parlament.al/komisionet",
+  "retrieved": "2026-09-07",
   "incomplete": true,
-  "items": []
+  "items": [
+    {
+      "id": "komisioni-per-ekonomine-punesimin-dhe-financat",
+      "name": "Komisioni për Ekonominë, Punësimin dhe Financat",
+      "kind": "standing",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    },
+    {
+      "id": "komisioni-per-ceshtjet-ligjore-dhe-administraten-publike",
+      "name": "Komisioni për Çështjet Ligjore dhe Administratën Publike",
+      "kind": "standing",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    },
+    {
+      "id": "komisioni-per-ceshtjet-e-brendshme-dhe-mbrojtjen",
+      "name": "Komisioni për Çështjet e Brendshme dhe Mbrojtjen",
+      "kind": "standing",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    },
+    {
+      "id": "komisioni-per-edukimin-shkencen-dhe-sportet",
+      "name": "Komisioni për Edukimin, Shkencën dhe Sportet",
+      "kind": "standing",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    },
+    {
+      "id": "komisioni-per-shendetesine-dhe-mireqenien-sociale",
+      "name": "Komisioni për Shëndetësinë dhe Mirëqenien Sociale",
+      "kind": "standing",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    },
+    {
+      "id": "komisioni-per-burimet-natyrore-infrastrukturen-dhe-zhvillimin-e-qendrueshem",
+      "name": "Komisioni për Burimet Natyrore, Infrastrukturën dhe Zhvillimin e Qëndrueshëm",
+      "kind": "standing",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    },
+    {
+      "id": "komisioni-per-te-drejtat-e-njeriut-dhe-mjetet-e-informimit-publik",
+      "name": "Komisioni për të Drejtat e Njeriut dhe Mjetet e Informimit Publik",
+      "kind": "standing",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    },
+    {
+      "id": "komisioni-per-bujqesine-ushqimin-dhe-zhvillimin-rural",
+      "name": "Komisioni për Bujqësinë, Ushqimin dhe Zhvillimin Rural",
+      "kind": "standing",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    },
+    {
+      "id": "komisioni-per-evropen-dhe-punet-e-jashtme",
+      "name": "Komisioni për Evropën dhe Punët e Jashtme",
+      "kind": "standing",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    },
+    {
+      "id": "komisioni-per-kulturen-turizmin-dhe-diasporen",
+      "name": "Komisioni për Kulturën, Turizmin dhe Diasporën",
+      "kind": "standing",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    },
+    {
+      "id": "komisioni-per-nismat-qytetare-bashkepunimin-dhe-mbikeqyrjen-institucionale",
+      "name": "Komisioni për Nismat Qytetare, Bashkëpunimin dhe Mbikëqyrjen Institucionale",
+      "kind": "standing",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    },
+    {
+      "id": "komisioni-per-ceshtjet-ligjore-administraten-publike-dhe-te-drejtat-e-njeriut",
+      "name": "Komisioni për Çështjet Ligjore, Administratën Publike dhe të Drejtat e Njeriut",
+      "kind": "standing",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    },
+    {
+      "id": "komisioni-per-punen-ceshtjet-sociale-dhe-shendetesine",
+      "name": "Komisioni për Punën, Çështjet Sociale dhe Shëndetësinë",
+      "kind": "standing",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    },
+    {
+      "id": "komisioni-per-veprimtarite-prodhuese-tregtine-dhe-mjedisin",
+      "name": "Komisioni për Veprimtaritë Prodhuese, Tregtinë dhe Mjedisin",
+      "kind": "standing",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    },
+    {
+      "id": "komisioni-per-politiken-e-jashtme",
+      "name": "Komisioni për Politikën e Jashtme",
+      "kind": "standing",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    },
+    {
+      "id": "komisioni-per-sigurine-kombetare",
+      "name": "Komisioni për Sigurinë Kombëtare",
+      "kind": "standing",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    },
+    {
+      "id": "komisioni-per-ceshtjet-europiane",
+      "name": "Komisioni për Çështjet Europiane",
+      "kind": "standing",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    },
+    {
+      "id": "komisioni-per-edukimin-dhe-mjetet-e-informimit-publik",
+      "name": "Komisioni për Edukimin dhe Mjetet e Informimit Publik",
+      "kind": "standing",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    },
+    {
+      "id": "komisioni-per-ekonomine-dhe-financat",
+      "name": "Komisioni për Ekonominë dhe Financat",
+      "kind": "standing",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    },
+    {
+      "id": "komisioni-hetimor-per-impiantet-e-trajtimit-te-mbetjeve-urbane",
+      "name": "Komisioni hetimor për impiantet e trajtimit të mbetjeve urbane",
+      "kind": "inquiry",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    },
+    {
+      "id": "komisioni-hetimor-per-zgjedhjet-e-25-prillit-2021",
+      "name": "Komisioni hetimor për zgjedhjet e 25 prillit 2021",
+      "kind": "inquiry",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    },
+    {
+      "id": "komisioni-hetimor-per-trajtimin-e-te-dhenave-te-sistemit-tims",
+      "name": "KOMISIONI HETIMOR PËR TRAJTIMIN E TË DHËNAVE TË SISTEMIT TIMS",
+      "kind": "inquiry",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    },
+    {
+      "id": "komisioni-hetimor-lidhur-me-sherbimet-publike-te-sterilizimit-dhe-te-check-up-ne-shendetes",
+      "name": "KOMISIONI HETIMOR LIDHUR ME SHËRBIMET PUBLIKE TË STERILIZIMIT DHE TË CHECK-UP NË SHËNDETËSI",
+      "kind": "inquiry",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    },
+    {
+      "id": "komisioni-per-te-drejtat-e-njeriut",
+      "name": "komisioni për të Drejtat e Njeriut",
+      "kind": "standing",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    },
+    {
+      "id": "komisioni-per-administraten-publike",
+      "name": "komisioni për Administratën Publike",
+      "kind": "standing",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    },
+    {
+      "id": "komisioni-per-diasporen-dhe-migracionin",
+      "name": "komisioni për diasporën dhe migracionin",
+      "kind": "standing",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    },
+    {
+      "id": "komisioni-per-monitorimin-e-zbatimit-te-buxhetit-te-shtetit-dhe-kontrollin-e-tij",
+      "name": "komisioni për monitorimin e zbatimit të buxhetit të shtetit dhe kontrollin e tij",
+      "kind": "standing",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    },
+    {
+      "id": "komisioni-per-barazine-gjinore-dhe-parandalimin-e-dhunes-ndaj-gruas",
+      "name": "komisioni për barazinë gjinore dhe parandalimin e dhunës ndaj gruas",
+      "kind": "standing",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    },
+    {
+      "id": "komisioni-per-zhvillim-te-qendrueshem",
+      "name": "komisioni për zhvillim të qëndrueshëm",
+      "kind": "standing",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    },
+    {
+      "id": "komisioni-per-qeverisjen-vendore",
+      "name": "komisioni për qeverisjen vendore",
+      "kind": "standing",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    },
+    {
+      "id": "komisioni-per-mbikeqyrjen-e-zbatimit-te-ligjit-per-vetting-un-e-policise",
+      "name": "komisioni për mbikëqyrjen e zbatimit të ligjit për Vetting-un e Policisë",
+      "kind": "standing",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    },
+    {
+      "id": "komisioni-per-mjedisin-dhe-bujqesine",
+      "name": "komisioni për mjedisin dhe bujqësinë",
+      "kind": "standing",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    },
+    {
+      "id": "komisioni-per-auditimin-e-sektorit-publik",
+      "name": "komisioni për Auditimin e Sektorit Publik",
+      "kind": "standing",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    },
+    {
+      "id": "komisioni-per-integritetin-e-informacionit-publik-dezinformimin-dhe-nderhyrjet-e-huaja",
+      "name": "komisioni për Integritetin e Informacionit Publik, Dezinformimin dhe Ndërhyrjet e Huaja",
+      "kind": "standing",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    },
+    {
+      "id": "komisioni-i-posacem-per-reformen-zgjedhore",
+      "name": "Komisioni i Posaçëm për Reformën Zgjedhore",
+      "kind": "special",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    },
+    {
+      "id": "komisioni-i-posacem-per-reformen-administrativo-territoriale",
+      "name": "Komisioni i Posaçëm për Reformën Administrativo-Territoriale",
+      "kind": "special",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    },
+    {
+      "id": "komisioni-posacem-parlamentar-per-reformen-administrativo-territoriale-ne-republiken-e-shq",
+      "name": "Komisioni Posaçëm Parlamentar për Reformën Administrativo-Territoriale në Republikën e Shqipërisë",
+      "kind": "special",
+      "chamber": "Kuvendi",
+      "origin": "clerk",
+      "source_url": "https://www.parlament.al/komisionet"
+    }
+  ],
+  "note": "Named committees from official host JS. Cap 37."
 }

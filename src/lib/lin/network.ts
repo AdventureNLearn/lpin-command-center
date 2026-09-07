@@ -18,7 +18,8 @@ export type LinDeskId =
   | "commerce"
   | "governance"
   | "fifty"
-  | "opencells";
+  | "opencells"
+  | "workbook";
 
 export type LinCell = {
   id: string;
@@ -287,6 +288,25 @@ export const METHOD_DESKS: LinDesk[] = [
     mayScore: true,
     honesty: "Public method. Not a score. Not a ranking. Human final call.",
     command: "open cells desk",
+  },
+  {
+    id: "workbook",
+    kicker: "Workbook",
+    title: "Research workbook",
+    field: "Country and industry, then law, permitting, trades, regulations, money, politics, corporate. Quote plus URL, or blank.",
+    aliases: ["workbook desk", "workbook", "research workbook", "dashboard"],
+    kernel: [
+      "A country and an industry are two facets, not one blended story.",
+      "Law, permitting, trades, and regulations share the same reasoning as funding, political, and corporate. Never one score.",
+      "Dirt is not shingles. Field is not boardroom. A trade quote is not a permit.",
+      "A quote without a URL is not Supported. Retrieved date is part of the claim.",
+      "The catalog aims at everything. The human focuses it. Software never auto-truths.",
+    ],
+    cells: cells("Country", "Industry", "Funding", "Political", "Corporate"),
+    references: [ref("Kept legislatures", "keptglobal.grok.me")],
+    mayScore: true,
+    honesty: "Sourced tabs only. Not an influence score. Not a live filing desk. Human final call.",
+    command: "open workbook",
   },
 ];
 

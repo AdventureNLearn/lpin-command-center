@@ -49,6 +49,13 @@
       "url": "https://www.wikidata.org/wiki/Q202384",
       "kind": "index",
       "basis": "Evidence"
+    },
+    {
+      "id": "official-orgs",
+      "label": "Official parties index (orgs derived)",
+      "url": "https://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_a.htm",
+      "kind": "primary",
+      "basis": "Evidence"
     }
   ],
   "incomplete": false

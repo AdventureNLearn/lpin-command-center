@@ -1,7 +1,25 @@
 {
   "iso2": "si",
-  "items": [],
+  "named_donors": false,
+  "unit": "EUR",
+  "sitting_total_reconstructed": 5698239,
+  "buckets": [
+    {
+      "label": "state budget party co-financing provided 2026 (indicator I05872)",
+      "amount": 5698239
+    },
+    {
+      "label": "state budget party co-financing provided 2025 (indicator I05872)",
+      "amount": 5564686
+    },
+    {
+      "label": "state budget party co-financing provided 2024 (indicator I05872)",
+      "amount": 5014065
+    }
+  ],
   "incomplete": true,
+  "source_url": "https://www.gov.si/assets/ministrstva/MF/Proracun-direktorat/Drzavni-proracun/Sprejeti-proracun/Sprejeti-2026/Obr-splosni-del/OBR26oPOL01oPolSis.pdf",
+  "extra_source_url": "https://www.gov.si/novice/2026-03-27-financni-petek-sofinanciranje-politicnih-strank/",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "Ministrstvo za finance adopted 2026 budget policy explanation (Obrazložitev politik 2026) HTTP 200 PDF (probed 2026-09-06). Indicator I05872 Višina sredstev, zagotovljenih v proračunu RS under C5063/podprogram 010106 Sofinanciranje strank prints EUR 5.698.239,00 (2026), 5.564.686,00 (2025), 5.014.065,00 (2024). Source-type public-funding buckets only. MF Finančni petek 2026-03-27 HTTP 200 says približno šest milijonov evrov — approximate, not stored. AJPES party-register page HTTP 200; annual party reports not summed. Named private donors not collected. sitting_total_reconstructed is the 2026 printed I05872 figure, not a sum of year buckets."
 }

@@ -1,5 +1,33 @@
 {
   "iso2": "bg",
   "named_donors": false,
-  "buckets": []
+  "unit": "BGN",
+  "sitting_total_reconstructed": 17130000,
+  "buckets": [
+    {
+      "label": "state subsidy received 2024 (16 audited parties combined)",
+      "amount": 17130000
+    },
+    {
+      "label": "declared revenues 2024 (audited parties combined)",
+      "amount": 34990000
+    },
+    {
+      "label": "donations 2024 (audited parties combined, aggregate)",
+      "amount": 11733000
+    },
+    {
+      "label": "membership fees 2024 (audited parties combined, aggregate)",
+      "amount": 4568000
+    },
+    {
+      "label": "declared expenses 2024 (audited parties combined)",
+      "amount": 34520000
+    }
+  ],
+  "incomplete": true,
+  "source_url": "https://www.bulnao.government.bg/bg/documents/15556/OD_PP-2024.pdf",
+  "extra_source_url": "https://www.bulnao.government.bg/bg/kontrol-partii/dokladi-subsidii/",
+  "retrieved": "2026-09-06",
+  "note": "National Audit Office audit report OD_PP-2024.pdf HTTP 200 this seat (одит 01.01.2024–31.12.2024). Printed combined: revenues 34 990 хил. лв.; state subsidy 17 130 хил. лв. (16 of 19 audited parties, matching Ministry of Justice transfers); donations 11 733 хил. лв.; membership 4 568 хил. лв.; expenses 34 520 хил. лв. Amounts are хил. лв. × 1000. sitting_total_reconstructed is the printed 2024 state-subsidy combined, not a sum of all buckets. Per-party donor names not collected. Incomplete: 19-party audit sample, not every registered party."
 }

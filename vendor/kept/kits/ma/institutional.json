@@ -38,22 +38,28 @@
       "name": "Parliament of Morocco",
       "kind": "parliament",
       "seats": 0,
-      "url": "https://www.parlement.ma/"
+      "url": "https://www.parlement.ma/",
+      "http_status": 403,
+      "official_http_200": false
     },
     {
       "id": "Q1572773",
       "name": "House of Representatives of Morocco",
       "kind": "chamber",
       "seats": 395,
-      "url": "https://www.chambredesrepresentants.ma"
+      "url": "https://www.chambredesrepresentants.ma",
+      "http_status": 403,
+      "official_http_200": false
     },
     {
       "id": "Q2718576",
       "name": "House of Councillors of Morocco",
       "kind": "chamber",
       "seats": 120,
-      "url": "http://www.chambredesconseillers.ma/"
+      "url": "http://www.chambredesconseillers.ma/",
+      "http_status": 200,
+      "official_http_200": true
     }
   ],
-  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score. polish-iso-08: official parliament URLs noted only on HTTP 200; 403 is a miss. polish-iso-08: official parliament URLs noted only on HTTP 200; 403 is a miss."
 }

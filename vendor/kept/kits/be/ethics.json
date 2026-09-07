@@ -1,7 +1,17 @@
 {
   "iso2": "be",
-  "items": [],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced ethics for this ISO. Not invented."
+  "note": "Public deontology-code classes named on the official Federal Deontological Commission wetgeving page (HTTP 200). Kamer belangen URL remains chrome-only. No amounts. No named filers. Per-member annex not transcribed. Deduped 3 duplicate ethics rows 2026-09-07.",
+  "source_url": "https://www.fed-deontologie.be/nl/wetgeving/",
+  "items": [
+    {
+      "member_id": null,
+      "category": "deontologische code voor de leden van de Kamer van volksvertegenwoordigers",
+      "public": true,
+      "amount_band": null,
+      "origin": "clerk",
+      "source_url": "https://www.fed-deontologie.be/nl/wetgeving/"
+    }
+  ]
 }

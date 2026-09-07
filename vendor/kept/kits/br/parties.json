@@ -1,64 +1,65 @@
 {
   "iso2": "br",
+  "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome",
   "items": [
     {
       "id": "pl",
       "name": "PL",
-      "seats": 98,
+      "seats": 114,
       "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
     },
     {
       "id": "pt",
       "name": "PT",
-      "seats": 64,
-      "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
-    },
-    {
-      "id": "uniao",
-      "name": "UNIÃO",
-      "seats": 52,
+      "seats": 73,
       "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
     },
     {
       "id": "psd",
       "name": "PSD",
-      "seats": 48,
+      "seats": 62,
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
+    },
+    {
+      "id": "uniao",
+      "name": "UNIÃO",
+      "seats": 55,
       "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
     },
     {
       "id": "pp",
       "name": "PP",
-      "seats": 46,
+      "seats": 53,
       "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
     },
     {
       "id": "republicanos",
       "name": "REPUBLICANOS",
-      "seats": 42,
+      "seats": 48,
       "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
     },
     {
       "id": "mdb",
       "name": "MDB",
-      "seats": 38,
+      "seats": 47,
       "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
     },
     {
       "id": "pode",
       "name": "PODE",
-      "seats": 27,
-      "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
-    },
-    {
-      "id": "psdb",
-      "name": "PSDB",
-      "seats": 18,
+      "seats": 30,
       "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
     },
     {
       "id": "psb",
       "name": "PSB",
-      "seats": 17,
+      "seats": 24,
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
+    },
+    {
+      "id": "psdb",
+      "name": "PSDB",
+      "seats": 22,
       "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
     },
     {
@@ -68,15 +69,15 @@
       "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
     },
     {
-      "id": "pcdob",
-      "name": "PCdoB",
+      "id": "pdt",
+      "name": "PDT",
       "seats": 11,
       "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
     },
     {
-      "id": "pdt",
-      "name": "PDT",
-      "seats": 9,
+      "id": "pcdob",
+      "name": "PCdoB",
+      "seats": 11,
       "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
     },
     {
@@ -86,14 +87,14 @@
       "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
     },
     {
-      "id": "novo",
-      "name": "NOVO",
-      "seats": 5,
+      "id": "avante",
+      "name": "AVANTE",
+      "seats": 6,
       "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
     },
     {
-      "id": "avante",
-      "name": "AVANTE",
+      "id": "novo",
+      "name": "NOVO",
       "seats": 5,
       "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
     },
@@ -134,5 +135,6 @@
       "source_url": "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
     }
   ],
-  "incomplete": false
+  "incomplete": true,
+  "note": "Polish 2026-09-06: seats include Câmara + 81 Senado Federal from https://legis.senado.leg.br/dadosabertos/senador/lista/atual.json. Deputies not clobbered."
 }

@@ -1,7 +1,163 @@
 {
   "iso2": "br",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://dadosabertos.camara.leg.br/api/v2/partidos?itens=40&ordem=ASC&ordenarPor=sigla",
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "36898",
+      "name": "Avante",
+      "sigla": "AVANTE",
+      "kind": "political-party",
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/partidos/36898"
+    },
+    {
+      "id": "37905",
+      "name": "Cidadania",
+      "sigla": "CIDADANIA",
+      "kind": "political-party",
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/partidos/37905"
+    },
+    {
+      "id": "37902",
+      "name": "Democracia Cristã",
+      "sigla": "DC",
+      "kind": "political-party",
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/partidos/37902"
+    },
+    {
+      "id": "36899",
+      "name": "Movimento Democrático Brasileiro",
+      "sigla": "MDB",
+      "kind": "political-party",
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899"
+    },
+    {
+      "id": "38011",
+      "name": "Partido Missão",
+      "sigla": "MISSÃO",
+      "kind": "political-party",
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/partidos/38011"
+    },
+    {
+      "id": "37901",
+      "name": "Partido Novo",
+      "sigla": "NOVO",
+      "kind": "political-party",
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/partidos/37901"
+    },
+    {
+      "id": "36779",
+      "name": "Partido Comunista do Brasil",
+      "sigla": "PCdoB",
+      "kind": "political-party",
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/partidos/36779"
+    },
+    {
+      "id": "36786",
+      "name": "Partido Democrático Trabalhista",
+      "sigla": "PDT",
+      "kind": "political-party",
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786"
+    },
+    {
+      "id": "37906",
+      "name": "Partido Liberal",
+      "sigla": "PL",
+      "kind": "political-party",
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906"
+    },
+    {
+      "id": "36896",
+      "name": "Podemos",
+      "sigla": "PODE",
+      "kind": "political-party",
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896"
+    },
+    {
+      "id": "37903",
+      "name": "Progressistas",
+      "sigla": "PP",
+      "kind": "political-party",
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903"
+    },
+    {
+      "id": "38010",
+      "name": "Partido Renovação Democrática",
+      "sigla": "PRD",
+      "kind": "political-party",
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/partidos/38010"
+    },
+    {
+      "id": "36832",
+      "name": "Partido Socialista Brasileiro",
+      "sigla": "PSB",
+      "kind": "political-party",
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832"
+    },
+    {
+      "id": "36834",
+      "name": "Partido Social Democrático",
+      "sigla": "PSD",
+      "kind": "political-party",
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834"
+    },
+    {
+      "id": "36835",
+      "name": "Partido da Social Democracia Brasileira",
+      "sigla": "PSDB",
+      "kind": "political-party",
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835"
+    },
+    {
+      "id": "36839",
+      "name": "Partido Socialismo e Liberdade",
+      "sigla": "PSOL",
+      "kind": "political-party",
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/partidos/36839"
+    },
+    {
+      "id": "36844",
+      "name": "Partido dos Trabalhadores",
+      "sigla": "PT",
+      "kind": "political-party",
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844"
+    },
+    {
+      "id": "36851",
+      "name": "Partido Verde",
+      "sigla": "PV",
+      "kind": "political-party",
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/partidos/36851"
+    },
+    {
+      "id": "36886",
+      "name": "Rede Sustentabilidade",
+      "sigla": "REDE",
+      "kind": "political-party",
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/partidos/36886"
+    },
+    {
+      "id": "37908",
+      "name": "Republicanos",
+      "sigla": "REPUBLICANOS",
+      "kind": "political-party",
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908"
+    },
+    {
+      "id": "37904",
+      "name": "Solidariedade",
+      "sigla": "SOLIDARIEDADE",
+      "kind": "political-party",
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/partidos/37904"
+    },
+    {
+      "id": "38009",
+      "name": "União Brasil",
+      "sigla": "UNIÃO",
+      "kind": "political-party",
+      "source_url": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009"
+    }
+  ],
+  "note": "Capped sample from official source."
 }

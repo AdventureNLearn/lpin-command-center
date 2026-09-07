@@ -1,5 +1,23 @@
 {
   "iso2": "no",
-  "items": [],
-  "incomplete": true
+  "items": [
+    {
+      "id": "pledges",
+      "hole": "No sourced quote+URL pledges.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members-count",
+      "hole": "Wikidata sitting file had 397 names vs statutory 169. Official data.stortinget.no/eksport/representanter HTTP 200 current period 2025-2029 returned 169 named. Replaced Wikidata rows with official list. Not an invented cut.",
+      "basis": "Evidence"
+    }
+  ],
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "note": "Category coverage 2026-09-06. Empty categories are holes, not zeros invented. polish-iso-10 2026-09-06. Empty categories remain holes, not zeros invented."
 }

@@ -22,12 +22,27 @@
       "basis": "Evidence"
     },
     {
-      "id": "committees",
-      "hole": "No sourced committee list.",
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "orgs",
+      "hole": "No sourced org list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members",
+      "hole": "Sourced sitting 56 of claimed_seats 470. Unnamed seats not invented.",
       "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: National Assembly of People's Power · Q21272829. Sitting 56. Empty objects not invented."
+  "note": "Polish 2026-09-06 polish-iso-03. Members 56 of claimed 470 (statutory 470). Dupes removed 0. Vacancies/overcount not invented down."
 }

@@ -1,7 +1,70 @@
 {
   "iso2": "ie",
-  "items": [],
+  "source_url": "https://api.oireachtas.ie/v1/parties",
+  "items": [
+    {
+      "id": "renua",
+      "name": "Renua",
+      "kind": "political-party",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/party/dail/31/Renua"
+    },
+    {
+      "id": "socialist_party",
+      "name": "Socialist Party",
+      "kind": "political-party",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/party/dail/31/Socialist_Party"
+    },
+    {
+      "id": "fine_gael",
+      "name": "Fine Gael",
+      "kind": "political-party",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/party/dail/31/Fine_Gael"
+    },
+    {
+      "id": "anti-austerity_alliance_people_before_profit",
+      "name": "Anti-Austerity Alliance - People Before Profit",
+      "kind": "political-party",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/party/dail/31/Anti-Austerity_Alliance_People_Before_Profit"
+    },
+    {
+      "id": "social_democrats",
+      "name": "Social Democrats",
+      "kind": "political-party",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/party/dail/31/Social_Democrats"
+    },
+    {
+      "id": "sinn_fein",
+      "name": "Sinn Féin",
+      "kind": "political-party",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/party/dail/31/Sinn_Féin"
+    },
+    {
+      "id": "people_before_profit_alliance",
+      "name": "People Before Profit Alliance",
+      "kind": "political-party",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/party/dail/31/People_Before_Profit_Alliance"
+    },
+    {
+      "id": "fianna_fail",
+      "name": "Fianna Fáil",
+      "kind": "political-party",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/party/dail/31/Fianna_Fáil"
+    },
+    {
+      "id": "labour_party",
+      "name": "Labour Party",
+      "kind": "political-party",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/party/dail/31/Labour_Party"
+    },
+    {
+      "id": "workers_and_unemployed_action",
+      "name": "Workers and Unemployed Action",
+      "kind": "political-party",
+      "source_url": "https://data.oireachtas.ie/ie/oireachtas/party/dail/31/Workers_and_Unemployed_Action"
+    }
+  ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "origin": "crawl-merge",
+  "note": "Merged from crawl collected.orgs (official source). Cap 40. Incomplete."
 }

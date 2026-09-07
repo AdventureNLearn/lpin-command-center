@@ -1,7 +1,15 @@
 {
   "iso2": "sm",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://www.consigliograndeegenerale.sm/on-line/home/composizione/bilanci-partiti/bilanci-partiti-2025.html",
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "repubblica-di-san-marino-consiglio-grande-e-generale",
+      "name": "Repubblica di San Marino - Consiglio Grande e Generale",
+      "kind": "political-party",
+      "source_url": "https://www.consigliograndeegenerale.sm/on-line/home.html"
+    }
+  ],
+  "note": "Party labels from official 2025 council budget index. Amounts/PDFs not scraped. Cap 40."
 }

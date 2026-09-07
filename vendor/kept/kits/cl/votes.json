@@ -1,7 +1,258 @@
 {
   "iso2": "cl",
-  "items": [],
-  "incomplete": true,
+  "chamber": "National Congress of Chile",
+  "session": "",
+  "source_url": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionesXAnno?prmAnno=2026",
   "retrieved": "2026-09-06",
-  "note": "No sourced votes for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "89955",
+      "date": "2026-09-02",
+      "title": "Boletín N° 18464-14",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionDetalle?prmVotacionId=89955"
+    },
+    {
+      "id": "89954",
+      "date": "2026-09-02",
+      "title": "Boletín N° 18401-31",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionDetalle?prmVotacionId=89954"
+    },
+    {
+      "id": "89953",
+      "date": "2026-09-02",
+      "title": "Proyecto de Resolución N° 53",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionDetalle?prmVotacionId=89953"
+    },
+    {
+      "id": "89952",
+      "date": "2026-09-02",
+      "title": "Proyecto de Resolución N° 52",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionDetalle?prmVotacionId=89952"
+    },
+    {
+      "id": "89951",
+      "date": "2026-09-02",
+      "title": "Proyecto de Resolución N° 50",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionDetalle?prmVotacionId=89951"
+    },
+    {
+      "id": "89950",
+      "date": "2026-09-02",
+      "title": "Proyecto de Resolución N° 49",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionDetalle?prmVotacionId=89950"
+    },
+    {
+      "id": "89949",
+      "date": "2026-09-02",
+      "title": "1-Otros",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionDetalle?prmVotacionId=89949"
+    },
+    {
+      "id": "89947",
+      "date": "2026-09-02",
+      "title": "3-Creacion Comision Investigadora",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionDetalle?prmVotacionId=89947"
+    },
+    {
+      "id": "89946",
+      "date": "2026-09-02",
+      "title": "5-Cambio de Trámite",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionDetalle?prmVotacionId=89946"
+    },
+    {
+      "id": "89939",
+      "date": "2026-09-01",
+      "title": "1-Otros",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionDetalle?prmVotacionId=89939"
+    },
+    {
+      "id": "89937",
+      "date": "2026-09-01",
+      "title": "Boletín N° 15295-07",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionDetalle?prmVotacionId=89937"
+    },
+    {
+      "id": "89936",
+      "date": "2026-09-01",
+      "title": "Boletín N° 17914-13",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionDetalle?prmVotacionId=89936"
+    },
+    {
+      "id": "89934",
+      "date": "2026-09-01",
+      "title": "Boletín N° 17662-07",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionDetalle?prmVotacionId=89934"
+    },
+    {
+      "id": "89931",
+      "date": "2026-09-01",
+      "title": "Boletín N° 17818-24",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionDetalle?prmVotacionId=89931"
+    },
+    {
+      "id": "89927",
+      "date": "2026-09-01",
+      "title": "Proyecto de Resolución N° 48",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionDetalle?prmVotacionId=89927"
+    },
+    {
+      "id": "89926",
+      "date": "2026-09-01",
+      "title": "Proyecto de Acuerdo N° 26",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionDetalle?prmVotacionId=89926"
+    },
+    {
+      "id": "89920",
+      "date": "2026-09-01",
+      "title": "4-Informe Comision Investigadora",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionDetalle?prmVotacionId=89920"
+    },
+    {
+      "id": "89919",
+      "date": "2026-09-01",
+      "title": "5-Cambio de Trámite",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionDetalle?prmVotacionId=89919"
+    },
+    {
+      "id": "89909",
+      "date": "2026-08-31",
+      "title": "3-Creacion Comision Investigadora",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionDetalle?prmVotacionId=89909"
+    },
+    {
+      "id": "89867",
+      "date": "2026-08-19",
+      "title": "Boletín N° 17324-33",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionDetalle?prmVotacionId=89867"
+    },
+    {
+      "id": "89866",
+      "date": "2026-08-19",
+      "title": "Boletín N° 16397-15",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionDetalle?prmVotacionId=89866"
+    },
+    {
+      "id": "89865",
+      "date": "2026-08-19",
+      "title": "Boletín N° 18189-14",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionDetalle?prmVotacionId=89865"
+    },
+    {
+      "id": "89862",
+      "date": "2026-08-19",
+      "title": "Boletín N° 18429-10",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionDetalle?prmVotacionId=89862"
+    },
+    {
+      "id": "89861",
+      "date": "2026-08-19",
+      "title": "Proyecto de Resolución N° 47",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionDetalle?prmVotacionId=89861"
+    },
+    {
+      "id": "89860",
+      "date": "2026-08-19",
+      "title": "Proyecto de Resolución N° 46",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionDetalle?prmVotacionId=89860"
+    },
+    {
+      "id": "89859",
+      "date": "2026-08-19",
+      "title": "Proyecto de Acuerdo N° 25",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionDetalle?prmVotacionId=89859"
+    },
+    {
+      "id": "89855",
+      "date": "2026-08-19",
+      "title": "1-Otros",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionDetalle?prmVotacionId=89855"
+    },
+    {
+      "id": "89844",
+      "date": "2026-08-18",
+      "title": "Boletín N° 12786-12",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionDetalle?prmVotacionId=89844"
+    },
+    {
+      "id": "89842",
+      "date": "2026-08-18",
+      "title": "Boletín N° 15387-12",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionDetalle?prmVotacionId=89842"
+    },
+    {
+      "id": "89817",
+      "date": "2026-08-18",
+      "title": "Boletín N° 18525-06",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionDetalle?prmVotacionId=89817"
+    },
+    {
+      "id": "89813",
+      "date": "2026-08-18",
+      "title": "Proyecto de Resolución N° 45",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://opendata.camara.cl/camaradiputados/WServices/WSLegislativo.asmx/retornarVotacionDetalle?prmVotacionId=89813"
+    }
+  ]
 }

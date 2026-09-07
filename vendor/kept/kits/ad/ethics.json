@@ -1,7 +1,17 @@
 {
   "iso2": "ad",
-  "items": [],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced ethics for this ISO. Not invented."
+  "note": "Public Consell General Codi de conducta classes named on the official 2024 application guide (HTTP 200). Private-interest declarations are public (Reglament art. 142). No amounts. No annex. Deduped 3 duplicate ethics rows 2026-09-07.",
+  "source_url": "https://www.consellgeneral.ad/ca/noticies/guia-per-aplicacio-del-codi-de-conducta-dels-consellers-generals",
+  "items": [
+    {
+      "member_id": null,
+      "category": "declaració d'interessos privats",
+      "public": true,
+      "amount_band": null,
+      "origin": "clerk",
+      "source_url": "https://www.consellgeneral.ad/ca/noticies/guia-per-aplicacio-del-codi-de-conducta-dels-consellers-generals"
+    }
+  ]
 }

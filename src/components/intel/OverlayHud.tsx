@@ -32,6 +32,7 @@ import { playScene } from "@/lib/intel/scenes";
 import { copyShareUrl } from "@/lib/intel/share";
 import { flash, hydrateFirstRun, useIntel } from "@/lib/intel/store";
 import { hydrateLin } from "@/lib/lin/session";
+import { hydrateWorkbook } from "@/lib/lin/workbook";
 import { useComms } from "@/lib/intel/comms";
 import { findStation, PRESET_STATIONS, useRadio } from "@/lib/intel/radio";
 import { getWeather } from "@/lib/feeds/world";
@@ -101,6 +102,7 @@ export function OverlayHud() {
   useEffect(() => {
     hydrateFirstRun();
     hydrateLin();
+    hydrateWorkbook();
     const tick = () => setZulu(zuluNow());
     tick();
     const id = window.setInterval(tick, 1000);

@@ -1,7 +1,81 @@
 {
   "iso2": "td",
-  "source_url": "https://www.wikidata.org/wiki/Q1599346",
+  "chamber": "National Assembly",
+  "source_url": "https://senat.td/index.php/commissions/",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 7,
+  "items": [
+    {
+      "id": "commission-1-politique-generale-lois-institutions-et-collectivites",
+      "name": "Commission 1 : Politique générale, lois, institutions et collectivités",
+      "chamber": "Senate of Chad",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://senat.td/index.php/commissions/"
+    },
+    {
+      "id": "commission-2-affaires-economiques-financieres-plan-et-infrastructures",
+      "name": "Commission 2 : Affaires économiques, financières, plan et infrastructures",
+      "chamber": "Senate of Chad",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://senat.td/index.php/commissions/"
+    },
+    {
+      "id": "commission-3-environnement-developpement-durable-amenagement-du-territoire-urbai",
+      "name": "Commission 3 : Environnement, développement durable, aménagement du territoire, urbain et habitat",
+      "chamber": "Senate of Chad",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://senat.td/index.php/commissions/"
+    },
+    {
+      "id": "commission-4-affaires-etrangeres-et-tchadiens-de-l-etranger",
+      "name": "Commission 4 : Affaires étrangères et Tchadiens de l’étranger",
+      "chamber": "Senate of Chad",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://senat.td/index.php/commissions/"
+    },
+    {
+      "id": "commission-5-defense-securite-et-souverainete",
+      "name": "Commission 5 : Défense, sécurité et souveraineté",
+      "chamber": "Senate of Chad",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://senat.td/index.php/commissions/"
+    },
+    {
+      "id": "commission-6-sante-affaires-sociales-et-culturelles",
+      "name": "Commission 6 : Santé, affaires sociales et culturelles",
+      "chamber": "Senate of Chad",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://senat.td/index.php/commissions/"
+    },
+    {
+      "id": "commission-7-education-recherche-sciences-et-technologies",
+      "name": "Commission 7 : Éducation, recherche, sciences et technologies",
+      "chamber": "Senate of Chad",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://senat.td/index.php/commissions/"
+    }
+  ],
+  "note": "Official Senate commissions page HTTP 200 lists seven standing commissions. National Assembly host not collected this seat. Memberships not collected."
 }

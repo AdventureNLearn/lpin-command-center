@@ -37,8 +37,10 @@
       "name": "National Council",
       "kind": "parliament",
       "seats": 24,
-      "url": "https://www.conseil-national.mc/"
+      "url": "https://www.conseil-national.mc/",
+      "http_status": 0,
+      "official_http_200": false
     }
   ],
-  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score. polish-iso-08: official parliament URLs noted only on HTTP 200; 403 is a miss. polish-iso-08: official parliament URLs noted only on HTTP 200; 403 is a miss."
 }

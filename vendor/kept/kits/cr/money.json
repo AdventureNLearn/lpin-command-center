@@ -1,7 +1,16 @@
 {
   "iso2": "cr",
-  "items": [],
+  "named_donors": false,
+  "unit": "CRC",
+  "sitting_total_reconstructed": 39292747760,
+  "buckets": [
+    {
+      "label": "contribución estatal elecciones nacionales 2025-2026 (all parties combined)",
+      "amount": 39292747760
+    }
+  ],
   "incomplete": true,
+  "source_url": "https://servicioselectorales.tse.go.cr/ContribucionEstatal/Variables",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "TSE Simulador de la Contribución Estatal HTTP 200 this pass (civic UA). Official printed combined: Contribución estatal 2025-2026 ₡39,292,747,760.00 (hidden eContribucionEstatal=39292747760). Page cites Resolución N.° 1982-E10-2025. Printed financiamiento anticipado ₡5,893,912,164.00 is the 15% subset of the same pool and is not stored as an additive bucket. www.tse.go.cr HTML is a Radware challenge (HTTP 200 challenge=miss; browser UA retry still challenge; hunt-stop that host). Source-type public-funding bucket only. Per-party rows not stored. Named private donors not collected. sitting_total_reconstructed is the printed 2025-2026 combined total."
 }

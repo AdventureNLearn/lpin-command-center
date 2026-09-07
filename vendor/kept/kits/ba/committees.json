@@ -1,7 +1,61 @@
 {
   "iso2": "ba",
-  "source_url": "https://www.wikidata.org/wiki/Q2604031",
+  "chamber": "Parliamentary Assembly of Bosnia and Herzegovina",
+  "source_url": "https://www.parlament.ba/committee/read/25",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 5,
+  "items": [
+    {
+      "id": "ba-komisija-za-vanjsku-i-trgovinsku-politiku-carine-saobracaj-i-komunikacije",
+      "name": "Komisija za vanjsku i trgovinsku politiku, carine, saobraćaj i komunikacije",
+      "chamber": "Parliamentary Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.ba/committee/read/25"
+    },
+    {
+      "id": "ba-ustavnopravna-komisija-predstavnickog-doma",
+      "name": "Ustavnopravna komisija Predstavničkog doma",
+      "chamber": "Parliamentary Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.ba/committee/read/35"
+    },
+    {
+      "id": "ba-zajednicka-komisija-za-administrativne-poslove",
+      "name": "Zajednička komisija za administrativne poslove",
+      "chamber": "Parliamentary Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.ba/committee/read/37"
+    },
+    {
+      "id": "ba-komisija-za-borbu-protiv-korupcije",
+      "name": "Komisija za borbu protiv korupcije",
+      "chamber": "Parliamentary Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.ba/committee/read/58"
+    },
+    {
+      "id": "ba-komisija-za-izbor-i-pracenje-rada-agencije-za-prevenciju-korupcije-i-koordina",
+      "name": "Komisija za izbor i praćenje rada Agencije za prevenciju korupcije i koordinaciju borbe protiv korupcije",
+      "chamber": "Parliamentary Assembly",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parlament.ba/committee/read/19"
+    }
+  ],
+  "note": "Official committee profile pages HTTP 200. Cap applied."
 }

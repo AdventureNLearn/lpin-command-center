@@ -1,7 +1,265 @@
 {
   "iso2": "at",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://rechnungshof.gv.at/Rechenschaftsberichte",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "at-rh-2024-team-karnten-liste-kofer",
+      "name": "Team Kärnten - Liste Köfer",
+      "year": "2024",
+      "kind": "party-accountability-report",
+      "source_url": "https://rechnungshof.gv.at/Rechenschaftsberichte",
+      "note": "Official Rechenschaftsbericht listed. Amounts and named private donors not collected."
+    },
+    {
+      "id": "at-rh-2024-burgerforum-tirol-liste-fritz-gema-5-partg",
+      "name": "Bürgerforum Tirol - Liste Fritz gemäß § 5 PartG",
+      "year": "2024",
+      "kind": "party-accountability-report",
+      "source_url": "https://rechnungshof.gv.at/Rechenschaftsberichte",
+      "note": "Official Rechenschaftsbericht listed. Amounts and named private donors not collected."
+    },
+    {
+      "id": "at-rh-2024-burgerforum-tirol-liste-fritz",
+      "name": "Bürgerforum Tirol - Liste Fritz",
+      "year": "2024",
+      "kind": "party-accountability-report",
+      "source_url": "https://rechnungshof.gv.at/Rechenschaftsberichte",
+      "note": "Official Rechenschaftsbericht listed. Amounts and named private donors not collected."
+    },
+    {
+      "id": "at-rh-2024-neos",
+      "name": "NEOS",
+      "year": "2024",
+      "kind": "party-accountability-report",
+      "source_url": "https://rechnungshof.gv.at/Rechenschaftsberichte",
+      "note": "Official Rechenschaftsbericht listed. Amounts and named private donors not collected."
+    },
+    {
+      "id": "at-rh-2024-die-grunen",
+      "name": "Die Grünen",
+      "year": "2024",
+      "kind": "party-accountability-report",
+      "source_url": "https://rechnungshof.gv.at/Rechenschaftsberichte",
+      "note": "Official Rechenschaftsbericht listed. Amounts and named private donors not collected."
+    },
+    {
+      "id": "at-rh-2024-die-bierpartei",
+      "name": "Die Bierpartei",
+      "year": "2024",
+      "kind": "party-accountability-report",
+      "source_url": "https://rechnungshof.gv.at/Rechenschaftsberichte",
+      "note": "Official Rechenschaftsbericht listed. Amounts and named private donors not collected."
+    },
+    {
+      "id": "at-rh-2024-spo",
+      "name": "SPÖ",
+      "year": "2024",
+      "kind": "party-accountability-report",
+      "source_url": "https://rechnungshof.gv.at/Rechenschaftsberichte",
+      "note": "Official Rechenschaftsbericht listed. Amounts and named private donors not collected."
+    },
+    {
+      "id": "at-rh-2024-ovp",
+      "name": "ÖVP",
+      "year": "2024",
+      "kind": "party-accountability-report",
+      "source_url": "https://rechnungshof.gv.at/Rechenschaftsberichte",
+      "note": "Official Rechenschaftsbericht listed. Amounts and named private donors not collected."
+    },
+    {
+      "id": "at-rh-2024-kpo",
+      "name": "KPÖ",
+      "year": "2024",
+      "kind": "party-accountability-report",
+      "source_url": "https://rechnungshof.gv.at/Rechenschaftsberichte",
+      "note": "Official Rechenschaftsbericht listed. Amounts and named private donors not collected."
+    },
+    {
+      "id": "at-rh-2024-mfg-osterreich",
+      "name": "MFG - Österreich",
+      "year": "2024",
+      "kind": "party-accountability-report",
+      "source_url": "https://rechnungshof.gv.at/Rechenschaftsberichte",
+      "note": "Official Rechenschaftsbericht listed. Amounts and named private donors not collected."
+    },
+    {
+      "id": "at-rh-2024-fpo",
+      "name": "FPÖ",
+      "year": "2024",
+      "kind": "party-accountability-report",
+      "source_url": "https://rechnungshof.gv.at/Rechenschaftsberichte",
+      "note": "Official Rechenschaftsbericht listed. Amounts and named private donors not collected."
+    },
+    {
+      "id": "at-rh-2023-neos",
+      "name": "NEOS",
+      "year": "2023",
+      "kind": "party-accountability-report",
+      "source_url": "https://rechnungshof.gv.at/Rechenschaftsberichte",
+      "note": "Official Rechenschaftsbericht listed. Amounts and named private donors not collected."
+    },
+    {
+      "id": "at-rh-2023-die-grunen",
+      "name": "Die Grünen",
+      "year": "2023",
+      "kind": "party-accountability-report",
+      "source_url": "https://rechnungshof.gv.at/Rechenschaftsberichte",
+      "note": "Official Rechenschaftsbericht listed. Amounts and named private donors not collected."
+    },
+    {
+      "id": "at-rh-2023-burgerforum-tirol-liste-fritz-gema-5-partg",
+      "name": "Bürgerforum Tirol - Liste Fritz gemäß § 5 PartG",
+      "year": "2023",
+      "kind": "party-accountability-report",
+      "source_url": "https://rechnungshof.gv.at/Rechenschaftsberichte",
+      "note": "Official Rechenschaftsbericht listed. Amounts and named private donors not collected."
+    },
+    {
+      "id": "at-rh-2023-burgerforum-tirol-liste-fritz",
+      "name": "Bürgerforum Tirol - Liste Fritz",
+      "year": "2023",
+      "kind": "party-accountability-report",
+      "source_url": "https://rechnungshof.gv.at/Rechenschaftsberichte",
+      "note": "Official Rechenschaftsbericht listed. Amounts and named private donors not collected."
+    },
+    {
+      "id": "at-rh-2023-team-karnten-liste-kofer",
+      "name": "Team Kärnten - Liste Köfer",
+      "year": "2023",
+      "kind": "party-accountability-report",
+      "source_url": "https://rechnungshof.gv.at/Rechenschaftsberichte",
+      "note": "Official Rechenschaftsbericht listed. Amounts and named private donors not collected."
+    },
+    {
+      "id": "at-rh-2023-die-bierpartei",
+      "name": "Die Bierpartei",
+      "year": "2023",
+      "kind": "party-accountability-report",
+      "source_url": "https://rechnungshof.gv.at/Rechenschaftsberichte",
+      "note": "Official Rechenschaftsbericht listed. Amounts and named private donors not collected."
+    },
+    {
+      "id": "at-rh-2023-mfg-osterreich",
+      "name": "MFG - Österreich",
+      "year": "2023",
+      "kind": "party-accountability-report",
+      "source_url": "https://rechnungshof.gv.at/Rechenschaftsberichte",
+      "note": "Official Rechenschaftsbericht listed. Amounts and named private donors not collected."
+    },
+    {
+      "id": "at-rh-2023-mfg",
+      "name": "MFG",
+      "year": "2023",
+      "kind": "party-accountability-report",
+      "source_url": "https://rechnungshof.gv.at/Rechenschaftsberichte",
+      "note": "Official Rechenschaftsbericht listed. Amounts and named private donors not collected."
+    },
+    {
+      "id": "at-rh-2023-spo",
+      "name": "SPÖ",
+      "year": "2023",
+      "kind": "party-accountability-report",
+      "source_url": "https://rechnungshof.gv.at/Rechenschaftsberichte",
+      "note": "Official Rechenschaftsbericht listed. Amounts and named private donors not collected."
+    },
+    {
+      "id": "at-rh-2023-ovp",
+      "name": "ÖVP",
+      "year": "2023",
+      "kind": "party-accountability-report",
+      "source_url": "https://rechnungshof.gv.at/Rechenschaftsberichte",
+      "note": "Official Rechenschaftsbericht listed. Amounts and named private donors not collected."
+    },
+    {
+      "id": "at-rh-2023-fpo",
+      "name": "FPÖ",
+      "year": "2023",
+      "kind": "party-accountability-report",
+      "source_url": "https://rechnungshof.gv.at/Rechenschaftsberichte",
+      "note": "Official Rechenschaftsbericht listed. Amounts and named private donors not collected."
+    },
+    {
+      "id": "at-rh-2023-kpo",
+      "name": "KPÖ",
+      "year": "2023",
+      "kind": "party-accountability-report",
+      "source_url": "https://rechnungshof.gv.at/Rechenschaftsberichte",
+      "note": "Official Rechenschaftsbericht listed. Amounts and named private donors not collected."
+    },
+    {
+      "id": "at-rh-2022-freiheitliche-partei-osterreichs",
+      "name": "Freiheitliche Partei Österreichs",
+      "year": "2022",
+      "kind": "party-accountability-report",
+      "source_url": "https://rechnungshof.gv.at/Rechenschaftsberichte",
+      "note": "Official Rechenschaftsbericht listed. Amounts and named private donors not collected."
+    },
+    {
+      "id": "at-rh-2022-osterreichische-volkspartei",
+      "name": "Österreichische Volkspartei",
+      "year": "2022",
+      "kind": "party-accountability-report",
+      "source_url": "https://rechnungshof.gv.at/Rechenschaftsberichte",
+      "note": "Official Rechenschaftsbericht listed. Amounts and named private donors not collected."
+    },
+    {
+      "id": "at-rh-2022-sozialdemokratische-partei-osterreichs",
+      "name": "Sozialdemokratische Partei Österreichs",
+      "year": "2022",
+      "kind": "party-accountability-report",
+      "source_url": "https://rechnungshof.gv.at/Rechenschaftsberichte",
+      "note": "Official Rechenschaftsbericht listed. Amounts and named private donors not collected."
+    },
+    {
+      "id": "at-rh-2022-die-bierpartei",
+      "name": "Die Bierpartei",
+      "year": "2022",
+      "kind": "party-accountability-report",
+      "source_url": "https://rechnungshof.gv.at/Rechenschaftsberichte",
+      "note": "Official Rechenschaftsbericht listed. Amounts and named private donors not collected."
+    },
+    {
+      "id": "at-rh-2022-die-grunen-die-grune-alternative",
+      "name": "Die Grünen – Die Grüne Alternative",
+      "year": "2022",
+      "kind": "party-accountability-report",
+      "source_url": "https://rechnungshof.gv.at/Rechenschaftsberichte",
+      "note": "Official Rechenschaftsbericht listed. Amounts and named private donors not collected."
+    },
+    {
+      "id": "at-rh-2022-neos-das-neue-osterreich-und-liberales-forum",
+      "name": "NEOS – Das Neue Österreich und Liberales Forum",
+      "year": "2022",
+      "kind": "party-accountability-report",
+      "source_url": "https://rechnungshof.gv.at/Rechenschaftsberichte",
+      "note": "Official Rechenschaftsbericht listed. Amounts and named private donors not collected."
+    },
+    {
+      "id": "at-rh-2022-burgerforum-tirol-liste-fritz",
+      "name": "Bürgerforum Tirol – Liste Fritz",
+      "year": "2022",
+      "kind": "party-accountability-report",
+      "source_url": "https://rechnungshof.gv.at/Rechenschaftsberichte",
+      "note": "Official Rechenschaftsbericht listed. Amounts and named private donors not collected."
+    },
+    {
+      "id": "at-rh-2021-osterreichische-volkspartei",
+      "name": "Österreichische Volkspartei",
+      "year": "2021",
+      "kind": "party-accountability-report",
+      "source_url": "https://rechnungshof.gv.at/Rechenschaftsberichte",
+      "note": "Official Rechenschaftsbericht listed. Amounts and named private donors not collected."
+    },
+    {
+      "id": "at-rh-2017-liste-peter-pilz",
+      "name": "Liste Peter Pilz",
+      "year": "2017",
+      "kind": "party-accountability-report",
+      "source_url": "https://rechnungshof.gv.at/Rechenschaftsberichte",
+      "note": "Official Rechenschaftsbericht listed. Amounts and named private donors not collected."
+    }
+  ],
+  "note": "Capped sample from official source."
 }

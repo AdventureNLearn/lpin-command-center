@@ -1,7 +1,51 @@
 {
   "iso2": "jm",
-  "source_url": "https://www.wikidata.org/wiki/Q122635",
+  "chamber": "Parliament of Jamaica",
+  "source_url": "https://japarliament.gov.jm/index.php/parliamentary-business/committees",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 4,
+  "items": [
+    {
+      "id": "regulations-house-committee",
+      "name": "Regulations House Committee",
+      "chamber": "Parliament of Jamaica",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://japarliament.gov.jm/index.php/parliamentary-business/committees"
+    },
+    {
+      "id": "joint-select-committee-on-child-diversion-act",
+      "name": "Joint Select Committee on Child Diversion Act",
+      "chamber": "Parliament of Jamaica",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://japarliament.gov.jm/index.php/parliamentary-business/committees"
+    },
+    {
+      "id": "public-administration-and-appropriations-committee-paac",
+      "name": "Public Administration and Appropriations Committee (PAAC)",
+      "chamber": "Parliament of Jamaica",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://japarliament.gov.jm/index.php/parliamentary-business/committees"
+    },
+    {
+      "id": "regulations-senate-committee",
+      "name": "Regulations Senate Committee",
+      "chamber": "Parliament of Jamaica",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://japarliament.gov.jm/index.php/parliamentary-business/committees"
+    }
+  ],
+  "note": "Official committee names from sitting notices (times stripped). Memberships not collected."
 }

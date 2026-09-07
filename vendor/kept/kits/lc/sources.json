@@ -27,7 +27,11 @@
       "label": "Parliament of Saint Lucia",
       "url": "https://parliament.govt.lc/",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 200,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-08",
+      "note": "Official parliament HTTP 200 (polish-iso-08)."
     },
     {
       "id": "wd-q1563736",

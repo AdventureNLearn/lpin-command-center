@@ -1,7 +1,59 @@
 {
   "iso2": "fj",
-  "items": [],
+  "source_url": "https://www.feo.org.fj/audited-accounts/",
+  "retrieved": "2026-09-07",
   "incomplete": true,
-  "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "items": [
+    {
+      "id": "fj-audited-accounts-2021",
+      "name": "2021 Audited Accounts",
+      "year": "2021",
+      "kind": "party-accounts-publication",
+      "named_donors": false,
+      "amount": null,
+      "source_url": "https://www.feo.org.fj/audited-accounts/",
+      "note": "Official FEO publication label. PDF accounts not unpacked. Named donors not collected."
+    },
+    {
+      "id": "fj-audited-accounts-2022",
+      "name": "2022 Audited Accounts",
+      "year": "2022",
+      "kind": "party-accounts-publication",
+      "named_donors": false,
+      "amount": null,
+      "source_url": "https://www.feo.org.fj/audited-accounts/",
+      "note": "Official FEO publication label. PDF accounts not unpacked. Named donors not collected."
+    },
+    {
+      "id": "fj-audited-accounts-2023",
+      "name": "2023 Audited Accounts",
+      "year": "2023",
+      "kind": "party-accounts-publication",
+      "named_donors": false,
+      "amount": null,
+      "source_url": "https://www.feo.org.fj/audited-accounts/",
+      "note": "Official FEO publication label. PDF accounts not unpacked. Named donors not collected."
+    },
+    {
+      "id": "fj-audited-accounts-2024",
+      "name": "2024 Audited Accounts",
+      "year": "2024",
+      "kind": "party-accounts-publication",
+      "named_donors": false,
+      "amount": null,
+      "source_url": "https://www.feo.org.fj/audited-accounts/",
+      "note": "Official FEO publication label. PDF accounts not unpacked. Named donors not collected."
+    },
+    {
+      "id": "fj-audited-accounts-2025",
+      "name": "2025 Audited Accounts",
+      "year": "2025",
+      "kind": "party-accounts-publication",
+      "named_donors": false,
+      "amount": null,
+      "source_url": "https://www.feo.org.fj/audited-accounts/",
+      "note": "Official FEO publication label. PDF accounts not unpacked. Named donors not collected."
+    }
+  ],
+  "note": "FEO audited-accounts year labels. Cap 5. PDFs not unpacked. Named donors not collected."
 }

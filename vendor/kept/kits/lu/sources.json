@@ -13,7 +13,11 @@
       "label": "Chamber of Deputies",
       "url": "https://www.chd.lu/",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 200,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-08",
+      "note": "Official parliament HTTP 200 (polish-iso-08)."
     },
     {
       "id": "wd-q517449",
@@ -34,6 +38,41 @@
       "label": "President of the Chamber of Deputies (Wikidata)",
       "url": "https://www.wikidata.org/wiki/Q51625452",
       "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-lobby",
+      "label": "Chamber of Deputies Transparency Register",
+      "url": "https://www.chd.lu/en/transparency-register",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-votes",
+      "label": "Official roll-call / division source",
+      "url": "https://data.public.lu/en/datasets/liste-des-votes-en-seances-plenieres/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-filers",
+      "label": "Official disclosure-filer / registrant list",
+      "url": "https://www.chd.lu/en/transparency-register",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://data.public.lu/en/datasets/liste-organes-commissions-et-delegations/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-orgs",
+      "label": "Official registered political parties / committees",
+      "url": "https://www.chd.lu/en/political-groups",
+      "kind": "primary",
       "basis": "Evidence"
     }
   ],

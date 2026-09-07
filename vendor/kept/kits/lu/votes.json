@@ -1,7 +1,122 @@
 {
   "iso2": "lu",
-  "items": [],
-  "incomplete": true,
+  "chamber": "Chamber of Deputies",
+  "session": "",
+  "source_url": "https://data.public.lu/en/datasets/liste-des-votes-en-seances-plenieres/",
   "retrieved": "2026-09-06",
-  "note": "No sourced votes for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "lu-vote-1",
+      "date": "2026-07-15",
+      "title": "MO1 - PL8727",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.public.lu/en/datasets/liste-des-votes-en-seances-plenieres/"
+    },
+    {
+      "id": "lu-vote-2",
+      "date": "2026-07-15",
+      "title": "PL 8727 - Services publics autobus",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.public.lu/en/datasets/liste-des-votes-en-seances-plenieres/"
+    },
+    {
+      "id": "lu-vote-3",
+      "date": "2026-07-15",
+      "title": "PL 8689 - Transports intelligents",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.public.lu/en/datasets/liste-des-votes-en-seances-plenieres/"
+    },
+    {
+      "id": "lu-vote-4",
+      "date": "2026-07-15",
+      "title": "PL 8688 - Extension ligne tramway",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.public.lu/en/datasets/liste-des-votes-en-seances-plenieres/"
+    },
+    {
+      "id": "lu-vote-5",
+      "date": "2026-07-15",
+      "title": "PL 8675 - Zones non aedificandi",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.public.lu/en/datasets/liste-des-votes-en-seances-plenieres/"
+    },
+    {
+      "id": "lu-vote-6",
+      "date": "2026-07-15",
+      "title": "PL 8751 - Ressources de l'AID-21",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.public.lu/en/datasets/liste-des-votes-en-seances-plenieres/"
+    },
+    {
+      "id": "lu-vote-7",
+      "date": "2026-07-15",
+      "title": "PL 8671 - Direction contr�le financier",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.public.lu/en/datasets/liste-des-votes-en-seances-plenieres/"
+    },
+    {
+      "id": "lu-vote-8",
+      "date": "2026-07-15",
+      "title": "PL 8595 - Pompes � chaleur",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.public.lu/en/datasets/liste-des-votes-en-seances-plenieres/"
+    },
+    {
+      "id": "lu-vote-9",
+      "date": "2026-07-15",
+      "title": "MO 1 - PL8585",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.public.lu/en/datasets/liste-des-votes-en-seances-plenieres/"
+    },
+    {
+      "id": "lu-vote-10",
+      "date": "2026-07-15",
+      "title": "PL 8585 - Klimabonus Wunnen",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.public.lu/en/datasets/liste-des-votes-en-seances-plenieres/"
+    },
+    {
+      "id": "lu-vote-11",
+      "date": "2026-07-15",
+      "title": "PL 8535 - Logements abordables",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.public.lu/en/datasets/liste-des-votes-en-seances-plenieres/"
+    },
+    {
+      "id": "lu-vote-12",
+      "date": "2026-07-15",
+      "title": "PL 8535 - Logements abordables - Vote s�par� (article 44)",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.public.lu/en/datasets/liste-des-votes-en-seances-plenieres/"
+    },
+    {
+      "id": "lu-vote-13",
+      "date": "2026-07-15",
+      "title": "PL 8534 - Fonds du Logement",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.public.lu/en/datasets/liste-des-votes-en-seances-plenieres/"
+    },
+    {
+      "id": "lu-vote-14",
+      "date": "2026-07-14",
+      "title": "MO 3 - PL8714",
+      "issue_id": "",
+      "origin": "clerk",
+      "source_url": "https://data.public.lu/en/datasets/liste-des-votes-en-seances-plenieres/"
+    }
+  ]
 }

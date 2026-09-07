@@ -2,11 +2,6 @@
   "iso2": "py",
   "items": [
     {
-      "id": "votes",
-      "hole": "No sourced roll-call file.",
-      "basis": "Evidence"
-    },
-    {
       "id": "pledges",
       "hole": "No sourced quote+URL pledges.",
       "basis": "Evidence"
@@ -22,12 +17,22 @@
       "basis": "Evidence"
     },
     {
-      "id": "committees",
-      "hole": "No sourced committee list.",
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members",
+      "hole": "Wikidata 53 vs claimed 125 (Senate 45 + Deputies 80). Official HTML not parsed as roster. Not invented.",
       "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: Senate of Paraguay · Congress of Paraguay · Chamber of Deputies. Sitting 53. Empty objects not invented."
+  "note": "Category coverage 2026-09-06. Empty categories are holes, not zeros invented. Polish-iso-11 members: id/name+chamber dupes 0. Empty/official misses not invented."
 }

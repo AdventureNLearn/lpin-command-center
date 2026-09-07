@@ -1,7 +1,17 @@
 {
   "iso2": "hr",
-  "items": [],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced ethics for this ISO. Not invented."
+  "note": "Public statutory categories from official Conflict-of-Interest Commission page. Amounts and per-person filings not collected. Unique classes restored after null-member_id collapse. Deduped 2 duplicate ethics rows 2026-09-07.",
+  "source_url": "https://www.sukobinteresa.hr",
+  "items": [
+    {
+      "member_id": null,
+      "category": "asset-declaration",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.sukobinteresa.hr"
+    }
+  ]
 }

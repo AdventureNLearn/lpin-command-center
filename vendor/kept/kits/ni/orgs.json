@@ -1,7 +1,21 @@
 {
   "iso2": "ni",
-  "items": [],
+  "source_url": "https://www.cse.gob.ni/",
+  "retrieved": "2026-09-07",
   "incomplete": true,
-  "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "items": [
+    {
+      "id": "partidos-politicos",
+      "name": "Partidos Políticos",
+      "kind": "political-party",
+      "source_url": "https://www.cse.gob.ni/"
+    },
+    {
+      "id": "partidos-politicos-cse-pasar-al-contenido-principal",
+      "name": "Partidos Políticos | CSE Pasar al contenido principal",
+      "kind": "political-party",
+      "source_url": "https://www.cse.gob.ni/partidos-politicos"
+    }
+  ],
+  "note": "CSE official HTML HTTP 200. 2 party names parsed. Not invented."
 }

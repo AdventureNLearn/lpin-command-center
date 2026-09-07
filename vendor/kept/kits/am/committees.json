@@ -1,7 +1,131 @@
 {
   "iso2": "am",
-  "source_url": "https://www.wikidata.org/wiki/Q1337463",
+  "chamber": "National Assembly of Armenia",
+  "source_url": "https://old.parliament.am/committees.php?lang=eng",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 12,
+  "items": [
+    {
+      "id": "am-111226",
+      "name": "Standing Committee on Defense and Security",
+      "chamber": "National Assembly of Armenia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://old.parliament.am/committees.php?do=show&ID=111226&lang=eng"
+    },
+    {
+      "id": "am-111219",
+      "name": "Standing Committee on Economic Affairs",
+      "chamber": "National Assembly of Armenia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://old.parliament.am/committees.php?do=show&ID=111219&lang=eng"
+    },
+    {
+      "id": "am-111228",
+      "name": "Standing Committee on European Integration",
+      "chamber": "National Assembly of Armenia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://old.parliament.am/committees.php?do=show&ID=111228&lang=eng"
+    },
+    {
+      "id": "am-111218",
+      "name": "Standing Committee on Financial-Credit and Budgetary Affairs",
+      "chamber": "National Assembly of Armenia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://old.parliament.am/committees.php?do=show&ID=111218&lang=eng"
+    },
+    {
+      "id": "am-111225",
+      "name": "Standing Committee on Foreign Relations",
+      "chamber": "National Assembly of Armenia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://old.parliament.am/committees.php?do=show&ID=111225&lang=eng"
+    },
+    {
+      "id": "am-111220",
+      "name": "Standing Committee on Health Care",
+      "chamber": "National Assembly of Armenia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://old.parliament.am/committees.php?do=show&ID=111220&lang=eng"
+    },
+    {
+      "id": "am-111217",
+      "name": "Standing Committee on Labor and Social Affairs",
+      "chamber": "National Assembly of Armenia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://old.parliament.am/committees.php?do=show&ID=111217&lang=eng"
+    },
+    {
+      "id": "am-111229",
+      "name": "Standing Committee on Protection of Human Rights and Public Affairs",
+      "chamber": "National Assembly of Armenia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://old.parliament.am/committees.php?do=show&ID=111229&lang=eng"
+    },
+    {
+      "id": "am-111222",
+      "name": "Standing Committee on Regional and Eurasian Integration",
+      "chamber": "National Assembly of Armenia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://old.parliament.am/committees.php?do=show&ID=111222&lang=eng"
+    },
+    {
+      "id": "am-111227",
+      "name": "Standing Committee on Science, Education, Culture, Diaspora, Youth and Sport",
+      "chamber": "National Assembly of Armenia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://old.parliament.am/committees.php?do=show&ID=111227&lang=eng"
+    },
+    {
+      "id": "am-111224",
+      "name": "Standing Committee on State and Legal Affairs",
+      "chamber": "National Assembly of Armenia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://old.parliament.am/committees.php?do=show&ID=111224&lang=eng"
+    },
+    {
+      "id": "am-111221",
+      "name": "Standing Committee on Territorial Administration, Local Self-Government, Agriculture and Environment Protection",
+      "chamber": "National Assembly of Armenia",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://old.parliament.am/committees.php?do=show&ID=111221&lang=eng"
+    }
+  ],
+  "note": "New parliament.am committee routes 404; official archive old.parliament.am committees roster HTTP 200."
 }

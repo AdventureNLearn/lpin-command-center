@@ -28,6 +28,7 @@ import {
   type CivicRef,
 } from "@/lib/lin/network";
 import { noteKey, useLin } from "@/lib/lin/session";
+import { INDUSTRIES, LENSES, useWorkbook } from "@/lib/lin/workbook";
 import { sealInsight } from "@/lib/intel/honesty";
 import { FiftyBoard } from "@/components/lin/FiftyBoard";
 import { OpenCellsBoard } from "@/components/lin/OpenCellsBoard";
@@ -947,6 +948,9 @@ function LinBody({ id }: { id: string }) {
       </div>
     );
   }
+  if (deskId === "workbook") {
+    return <WorkbookBody />;
+  }
   const mine = sources.filter((s) => s.deskId === deskId);
 
   function attach(e: FormEvent) {
@@ -1037,6 +1041,144 @@ function LinBody({ id }: { id: string }) {
         </ul>
       ) : (
         <p className="text-xs text-subtle">No official links here yet. Blank is honest.</p>
+      )}
+      <button
+        type="button"
+        className="min-h-11 rounded-sm bg-panel-2 px-2 text-sm"
+        onClick={() => openLinDesk(linDeskById("network")!)}
+      >
+        Back to the board
+      </button>
+    </div>
+  );
+}
+
+function WorkbookBody() {
+  const w = useWorkbook();
+  const [url, setUrl] = useState("");
+  const [quote, setQuote] = useState("");
+  const [country, setCountry] = useState(w.countryName || w.countryIso2);
+  const [industry, setIndustry] = useState(w.industryId);
+  const tabs = [
+    { id: "country" as const, label: w.countryName || "Country" },
+    { id: "industry" as const, label: w.industryLabel || "Industry" },
+    ...LENSES.map((l) => ({ id: l.id, label: l.label })),
+  ];
+
+  function applyFacets(e: FormEvent) {
+    e.preventDefault();
+    const err = useWorkbook.getState().openFacets(country, industry);
+    flash(err ?? `Workbook · ${useWorkbook.getState().title}`);
+  }
+
+  function attach(e: FormEvent) {
+    e.preventDefault();
+    const err = useWorkbook.getState().addSource(w.tab, url, quote);
+    if (err) {
+      flash(err);
+      return;
+    }
+    setUrl("");
+    setQuote("");
+    flash("Source attached · delayed");
+  }
+
+  const mine = w.sources.filter((s) => s.tab === w.tab);
+  const lens = LENSES.find((l) => l.id === w.tab);
+
+  return (
+    <div className="space-y-3 text-sm">
+      <div>
+        <h2 className="font-display text-xl font-semibold tracking-wide">Research workbook</h2>
+        <p className="mt-1 text-xs text-muted">
+          Country and industry, then law, permitting, trades, regulations, funding, political, corporate. Never one score. Dirt is not shingles. Paste an official link or leave it blank.
+        </p>
+      </div>
+      <form className="space-y-2" onSubmit={applyFacets}>
+        <input
+          className="min-h-11 w-full rounded-sm border border-line bg-panel-2 px-2 text-sm"
+          value={country}
+          onChange={(e) => setCountry(e.target.value)}
+          placeholder="Country on disk"
+          aria-label="Country"
+        />
+        <select
+          className="min-h-11 w-full rounded-sm border border-line bg-panel-2 px-2 text-sm"
+          value={industry}
+          onChange={(e) => setIndustry(e.target.value)}
+          aria-label="Industry"
+        >
+          <option value="">Industry</option>
+          {INDUSTRIES.map((i) => (
+            <option key={i.id} value={i.id}>
+              {i.label}
+            </option>
+          ))}
+        </select>
+        <button type="submit" className="min-h-11 w-full rounded-sm bg-accent px-3 text-accent-fg">
+          Set facets
+        </button>
+      </form>
+      {w.title ? <p className="text-xs">On the board: {w.title}</p> : null}
+      <div className="flex flex-wrap gap-1">
+        {tabs.map((t) => (
+          <button
+            key={t.id}
+            type="button"
+            data-on={w.tab === t.id ? "true" : "false"}
+            className="min-h-9 rounded-sm bg-panel-2 px-2 text-xs"
+            onClick={() => useWorkbook.getState().setTab(t.id)}
+          >
+            {t.label}
+          </button>
+        ))}
+      </div>
+      {lens ? <p className="text-xs text-muted">{lens.ask}</p> : null}
+      <textarea
+        className="min-h-20 w-full resize-y rounded-sm border border-line bg-void px-2 py-1 text-xs"
+        value={w.notes[w.tab] ?? ""}
+        onChange={(e) => useWorkbook.getState().setNote(w.tab, e.target.value)}
+        placeholder="Write what you found. It is not proven until you add an official link."
+        aria-label="Workbook note"
+      />
+      <form className="space-y-2" onSubmit={attach}>
+        <p className="kicker">Add an official link</p>
+        <input
+          className="min-h-11 w-full rounded-sm border border-line bg-panel-2 px-2 text-sm"
+          value={url}
+          onChange={(e) => setUrl(e.target.value)}
+          placeholder="https:// official page"
+          aria-label="Source URL"
+        />
+        <textarea
+          className="min-h-16 w-full resize-y rounded-sm border border-line bg-panel-2 px-2 py-1 text-xs"
+          value={quote}
+          onChange={(e) => setQuote(e.target.value)}
+          placeholder="The smallest sentence that does the work"
+          aria-label="Quote from the official page"
+        />
+        <button type="submit" className="min-h-11 w-full rounded-sm bg-accent px-3 text-accent-fg">
+          Save with link
+        </button>
+      </form>
+      {mine.length > 0 ? (
+        <ul className="space-y-1 text-xs">
+          {mine.map((s) => (
+            <li key={s.id} className="rounded-sm border border-line px-2 py-1.5">
+              <p className="truncate">{s.url}</p>
+              <p className="text-muted">{s.quote}</p>
+              <button
+                type="button"
+                className="mt-1 text-xs underline"
+                onClick={() => useWorkbook.getState().removeSource(s.id)}
+              >
+                Remove
+              </button>
+            </li>
+          ))}
+        </ul>
+      ) : (
+        <p className="text-xs text-subtle">No official links on this tab yet. Blank is honest.</p>
       )}
       <button
         type="button"

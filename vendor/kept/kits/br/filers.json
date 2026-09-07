@@ -1,7 +1,217 @@
 {
   "iso2": "br",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://dadosabertos.tse.jus.br/api/3/action/package_search?q=prestacao&rows=40",
   "retrieved": "2026-09-06",
-  "note": "No sourced filers for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "br-filer-prestacao-de-contas-partidarias-2026",
+      "name": "Prestação de Contas Partidárias - 2026",
+      "kind": "account-filing-dataset",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/prestacao-de-contas-partidarias-2026",
+      "origin": "official-ckan",
+      "note": "Official TSE filing dataset label. Persons not stored. Bulk CSVs not loaded."
+    },
+    {
+      "id": "br-filer-prestacao-de-contas-partidarias-2025",
+      "name": "Prestação de Contas Partidárias - 2025",
+      "kind": "account-filing-dataset",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/prestacao-de-contas-partidarias-2025",
+      "origin": "official-ckan",
+      "note": "Official TSE filing dataset label. Persons not stored. Bulk CSVs not loaded."
+    },
+    {
+      "id": "br-filer-prestacao-de-contas-partidarias-2024",
+      "name": "Prestação de Contas Partidárias - 2024",
+      "kind": "account-filing-dataset",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/prestacao-de-contas-partidarias-2024",
+      "origin": "official-ckan",
+      "note": "Official TSE filing dataset label. Persons not stored. Bulk CSVs not loaded."
+    },
+    {
+      "id": "br-filer-prestacao-de-contas-partidarias-2023",
+      "name": "Prestação de Contas Partidárias - 2023",
+      "kind": "account-filing-dataset",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/prestacao-de-contas-partidarias-2023",
+      "origin": "official-ckan",
+      "note": "Official TSE filing dataset label. Persons not stored. Bulk CSVs not loaded."
+    },
+    {
+      "id": "br-filer-prestacao-de-contas-partidarias-2022",
+      "name": "Prestação de Contas Partidárias - 2022",
+      "kind": "account-filing-dataset",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/prestacao-de-contas-partidarias-2022",
+      "origin": "official-ckan",
+      "note": "Official TSE filing dataset label. Persons not stored. Bulk CSVs not loaded."
+    },
+    {
+      "id": "br-filer-prestacao-de-contas-partidarias-2021",
+      "name": "Prestação de Contas Partidárias - 2021",
+      "kind": "account-filing-dataset",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/prestacao-de-contas-partidarias-2021",
+      "origin": "official-ckan",
+      "note": "Official TSE filing dataset label. Persons not stored. Bulk CSVs not loaded."
+    },
+    {
+      "id": "br-filer-prestacao-de-contas-partidarias-2020",
+      "name": "Prestação de Contas Partidárias - 2020",
+      "kind": "account-filing-dataset",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/prestacao-de-contas-partidarias-2020",
+      "origin": "official-ckan",
+      "note": "Official TSE filing dataset label. Persons not stored. Bulk CSVs not loaded."
+    },
+    {
+      "id": "br-filer-prestacao-de-contas-partidarias-2019",
+      "name": "Prestação de Contas Partidárias - 2019",
+      "kind": "account-filing-dataset",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/prestacao-de-contas-partidarias-2019",
+      "origin": "official-ckan",
+      "note": "Official TSE filing dataset label. Persons not stored. Bulk CSVs not loaded."
+    },
+    {
+      "id": "br-filer-prestacao-de-contas-partidarias-2018",
+      "name": "Prestação de Contas Partidárias - 2018",
+      "kind": "account-filing-dataset",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/prestacao-de-contas-partidarias-2018",
+      "origin": "official-ckan",
+      "note": "Official TSE filing dataset label. Persons not stored. Bulk CSVs not loaded."
+    },
+    {
+      "id": "br-filer-prestacao-de-contas-partidarias-2017",
+      "name": "Prestação de Contas Partidárias - 2017",
+      "kind": "account-filing-dataset",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/prestacao-de-contas-partidarias-2017",
+      "origin": "official-ckan",
+      "note": "Official TSE filing dataset label. Persons not stored. Bulk CSVs not loaded."
+    },
+    {
+      "id": "br-filer-prestacao-de-contas-partidarias-2016",
+      "name": "Prestação de Contas Partidárias - 2016",
+      "kind": "account-filing-dataset",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/prestacao-de-contas-partidarias-2016",
+      "origin": "official-ckan",
+      "note": "Official TSE filing dataset label. Persons not stored. Bulk CSVs not loaded."
+    },
+    {
+      "id": "br-filer-prestacao-de-contas-partidarias-2015",
+      "name": "Prestação de Contas Partidárias - 2015",
+      "kind": "account-filing-dataset",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/prestacao-de-contas-partidarias-2015",
+      "origin": "official-ckan",
+      "note": "Official TSE filing dataset label. Persons not stored. Bulk CSVs not loaded."
+    },
+    {
+      "id": "br-filer-prestacao-de-contas-partidarias-2014",
+      "name": "Prestação de Contas Partidárias - 2014",
+      "kind": "account-filing-dataset",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/prestacao-de-contas-partidarias-2014",
+      "origin": "official-ckan",
+      "note": "Official TSE filing dataset label. Persons not stored. Bulk CSVs not loaded."
+    },
+    {
+      "id": "br-filer-prestacao-de-contas-eleitorais-2026",
+      "name": "Prestação de Contas Eleitorais - 2026",
+      "kind": "account-filing-dataset",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/prestacao-de-contas-eleitorais-2026",
+      "origin": "official-ckan",
+      "note": "Official TSE filing dataset label. Persons not stored. Bulk CSVs not loaded."
+    },
+    {
+      "id": "br-filer-prestacao-de-contas-eleitorais-2024",
+      "name": "Prestação de Contas Eleitorais - 2024",
+      "kind": "account-filing-dataset",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/prestacao-de-contas-eleitorais-2024",
+      "origin": "official-ckan",
+      "note": "Official TSE filing dataset label. Persons not stored. Bulk CSVs not loaded."
+    },
+    {
+      "id": "br-filer-prestacao-de-contas-eleitorais-2020",
+      "name": "Prestação de Contas Eleitorais - 2020",
+      "kind": "account-filing-dataset",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/prestacao-de-contas-eleitorais-2020",
+      "origin": "official-ckan",
+      "note": "Official TSE filing dataset label. Persons not stored. Bulk CSVs not loaded."
+    },
+    {
+      "id": "br-filer-prestacao-de-contas-eleitorais-2018",
+      "name": "Prestação de Contas Eleitorais - 2018",
+      "kind": "account-filing-dataset",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/prestacao-de-contas-eleitorais-2018",
+      "origin": "official-ckan",
+      "note": "Official TSE filing dataset label. Persons not stored. Bulk CSVs not loaded."
+    },
+    {
+      "id": "br-filer-prestacao-de-contas-eleitorais-2016",
+      "name": "Prestação de Contas Eleitorais - 2016",
+      "kind": "account-filing-dataset",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/prestacao-de-contas-eleitorais-2016",
+      "origin": "official-ckan",
+      "note": "Official TSE filing dataset label. Persons not stored. Bulk CSVs not loaded."
+    },
+    {
+      "id": "br-filer-prestacao-de-contas-eleitorais-2014",
+      "name": "Prestação de Contas Eleitorais - 2014",
+      "kind": "account-filing-dataset",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/prestacao-de-contas-eleitorais-2014",
+      "origin": "official-ckan",
+      "note": "Official TSE filing dataset label. Persons not stored. Bulk CSVs not loaded."
+    },
+    {
+      "id": "br-filer-prestacao-de-contas-eleitorais-2012",
+      "name": "Prestação de Contas Eleitorais - 2012",
+      "kind": "account-filing-dataset",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/prestacao-de-contas-eleitorais-2012",
+      "origin": "official-ckan",
+      "note": "Official TSE filing dataset label. Persons not stored. Bulk CSVs not loaded."
+    },
+    {
+      "id": "br-filer-prestacao-de-contas-eleitorais-2010",
+      "name": "Prestação de Contas Eleitorais - 2010",
+      "kind": "account-filing-dataset",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/prestacao-de-contas-eleitorais-2010",
+      "origin": "official-ckan",
+      "note": "Official TSE filing dataset label. Persons not stored. Bulk CSVs not loaded."
+    },
+    {
+      "id": "br-filer-prestacao-de-contas-eleitorais-2008",
+      "name": "Prestação de Contas Eleitorais - 2008",
+      "kind": "account-filing-dataset",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/prestacao-de-contas-eleitorais-2008",
+      "origin": "official-ckan",
+      "note": "Official TSE filing dataset label. Persons not stored. Bulk CSVs not loaded."
+    },
+    {
+      "id": "br-filer-prestacao-de-contas-eleitorais-2006",
+      "name": "Prestação de Contas Eleitorais - 2006",
+      "kind": "account-filing-dataset",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/prestacao-de-contas-eleitorais-2006",
+      "origin": "official-ckan",
+      "note": "Official TSE filing dataset label. Persons not stored. Bulk CSVs not loaded."
+    },
+    {
+      "id": "br-filer-prestacao-de-contas-eleitorais-2004",
+      "name": "Prestação de Contas Eleitorais - 2004",
+      "kind": "account-filing-dataset",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/prestacao-de-contas-eleitorais-2004",
+      "origin": "official-ckan",
+      "note": "Official TSE filing dataset label. Persons not stored. Bulk CSVs not loaded."
+    },
+    {
+      "id": "br-filer-prestacao-de-contas-eleitorais-2002",
+      "name": "Prestação de Contas Eleitorais - 2002",
+      "kind": "account-filing-dataset",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/prestacao-de-contas-eleitorais-2002",
+      "origin": "official-ckan",
+      "note": "Official TSE filing dataset label. Persons not stored. Bulk CSVs not loaded."
+    },
+    {
+      "id": "br-filer-dadosabertos-tse-jus-br-dataset-prestacao-de-contas-eleitorais-2022",
+      "name": "Prestação de Contas Eleitorais - 2022",
+      "kind": "account-filing-dataset",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/dadosabertos-tse-jus-br-dataset-prestacao-de-contas-eleitorais-2022",
+      "origin": "official-ckan",
+      "note": "Official TSE filing dataset label. Persons not stored. Bulk CSVs not loaded."
+    }
+  ],
+  "note": "Point at TSE portal; bulk filer CSVs not loaded."
 }

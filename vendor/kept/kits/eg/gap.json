@@ -10,9 +10,24 @@
       "id": "money",
       "hole": "No sourced money file.",
       "basis": "Evidence"
+    },
+    {
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members-senate",
+      "hole": "House harvest 596 of 596 filed. Senate members not in members.json. Live parliament.gov.eg 404. Harvest not clobbered; Senate names not invented.",
+      "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: Senate of Egypt · Shura Council · Parliament of Egypt · House of Representatives. Sitting 596. Empty objects not invented."
+  "note": "Polish 2026-09-06. Member holes noted. Vacancies not invented."
 }

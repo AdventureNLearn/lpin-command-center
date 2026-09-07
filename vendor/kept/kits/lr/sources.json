@@ -27,13 +27,31 @@
       "label": "Senate of Liberia",
       "url": "https://senate.gov.lr/",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 200,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-08",
+      "note": "Official parliament HTTP 200 (polish-iso-08)."
     },
     {
       "id": "wd-q1142439",
       "label": "Senate of Liberia (Wikidata)",
       "url": "https://www.wikidata.org/wiki/Q1142439",
       "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://senate.gov.lr/membership-assignments/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-votes",
+      "label": "Official votes",
+      "url": "https://senate.gov.lr/votes/",
+      "kind": "primary",
       "basis": "Evidence"
     }
   ],

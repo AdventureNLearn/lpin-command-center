@@ -222,42 +222,123 @@ export const getFires = createServerFn({ method: "POST" })
   }));
 });
 
-type LL2 = {
-  results?: Array<{
-    id: string;
-    name?: string;
-    net?: string;
-    status?: { name?: string };
-    launch_service_provider?: { name?: string };
-    pad?: {
-      name?: string;
-      latitude?: string | number;
-      longitude?: string | number;
-      location?: { name?: string };
-    };
-  }>;
+type LL2Pad = {
+  name?: string;
+  latitude?: string | number;
+  longitude?: string | number;
+  location?: { name?: string };
 };
+
+type LL2Row = {
+  id: string;
+  name?: string;
+  net?: string;
+  status?: { name?: string };
+  lsp_name?: string;
+  launch_service_provider?: { name?: string };
+  location?: string;
+  pad?: string | LL2Pad;
+};
+
+type LL2 = {
+  next?: string | null;
+  results?: LL2Row[];
+};
+
+type PadCoord = { lat: number; lon: number };
+
+function padCoord(latRaw: unknown, lonRaw: unknown): PadCoord | null {
+  const lat = Number(latRaw);
+  const lon = Number(lonRaw);
+  if (!Number.isFinite(lat) || !Number.isFinite(lon)) return null;
+  if (lat < -90 || lat > 90 || lon < -180 || lon > 180) return null;
+  return { lat, lon };
+}
+
+function padIndexKey(name: string, loc: string): string {
+  return `${name}\0${loc}`;
+}
+
+async function officialPadIndex(): Promise<Map<string, PadCoord>> {
+  return cached("ll2-pads", 24 * 60 * 60 * 1000, async () => {
+    const index = new Map<string, PadCoord>();
+    let url: string | null = "https://ll.thespacedevs.com/2.2.0/pad/?limit=100";
+    for (let page = 0; url && page < 8; page += 1) {
+      const data: { next?: string | null; results?: LL2Pad[] } = await fetchJson(url, {
+        timeoutMs: 16_000,
+      });
+      for (const p of data.results ?? []) {
+        const coord = padCoord(p.latitude, p.longitude);
+        if (!coord) continue;
+        const name = String(p.name ?? "").trim();
+        const loc = String(p.location?.name ?? "").trim();
+        if (name && loc) index.set(padIndexKey(name, loc), coord);
+        if (name && name.toLowerCase() !== "unknown pad" && !index.has(name)) {
+          index.set(name, coord);
+        }
+      }
+      url = data.next ?? null;
+    }
+    return index;
+  });
+}
+
+function rowPadName(r: LL2Row): { name: string; loc: string; coord: PadCoord | null } {
+  const pad = r.pad;
+  if (pad && typeof pad === "object") {
+    const name = String(pad.name ?? "").trim() || "Pad";
+    const loc = String(pad.location?.name ?? "").trim();
+    return { name, loc, coord: padCoord(pad.latitude, pad.longitude) };
+  }
+  return {
+    name: String(pad ?? "").trim() || "Pad",
+    loc: String(r.location ?? "").trim(),
+    coord: null,
+  };
+}
+
+function lookupPad(index: Map<string, PadCoord>, name: string, loc: string): PadCoord | null {
+  if (name && loc) {
+    const both = index.get(padIndexKey(name, loc));
+    if (both) return both;
+  }
+  if (name && name.toLowerCase() !== "unknown pad") return index.get(name) ?? null;
+  return null;
+}
+
+function mapLaunches(rows: LL2Row[] | undefined, pads: Map<string, PadCoord>): LaunchSample[] {
+  const items: LaunchSample[] = [];
+  for (const r of rows ?? []) {
+    const pad = rowPadName(r);
+    const coord = pad.coord ?? lookupPad(pads, pad.name, pad.loc);
+    if (!coord) continue;
+    items.push({
+      id: r.id,
+      name: r.name ?? "Launch",
+      provider: r.launch_service_provider?.name ?? r.lsp_name ?? "Unknown",
+      pad: pad.name,
+      lat: coord.lat,
+      lon: coord.lon,
+      net: r.net ?? "",
+      status: r.status?.name ?? "",
+    });
+  }
+  return items;
+}
 
 export const getLaunches = createServerFn({ method: "GET" }).handler(async () => {
   return cached("launches", 30 * 60 * 1000, async () => {
-    const data = await fetchJson<LL2>(
-      "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=16&mode=list",
-    );
-    const items: LaunchSample[] = [];
-    for (const r of data.results ?? []) {
-      const lat = Number(r.pad?.latitude);
-      const lon = Number(r.pad?.longitude);
-      if (!Number.isFinite(lat) || !Number.isFinite(lon)) continue;
-      items.push({
-        id: r.id,
-        name: r.name ?? "Launch",
-        provider: r.launch_service_provider?.name ?? "Unknown",
-        pad: r.pad?.name ?? r.pad?.location?.name ?? "Pad",
-        lat,
-        lon,
-        net: r.net ?? "",
-        status: r.status?.name ?? "",
-      });
+    const listUrl = "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=16&mode=list";
+    const [data, pads] = await Promise.all([
+      fetchJson<LL2>(listUrl),
+      officialPadIndex().catch(() => new Map<string, PadCoord>()),
+    ]);
+    let items = mapLaunches(data.results, pads);
+    if (!items.length && (data.results?.length ?? 0) > 0) {
+      const detailed = await fetchJson<LL2>(
+        "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=16",
+      );
+      items = mapLaunches(detailed.results, pads);
     }
     return { items, source: "Launch Library 2", at: Date.now(), freshness: "live" as const };
   }).catch((err: unknown) => ({

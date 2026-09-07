@@ -1,4 +1,61 @@
 {
   "iso2": "no",
-  "items": []
+  "source_url": "https://data.stortinget.no/eksport/representanter",
+  "items": [
+    {
+      "id": "arbeiderpartiet",
+      "name": "Arbeiderpartiet",
+      "seats": 53,
+      "source_url": "https://data.stortinget.no/eksport/representanter"
+    },
+    {
+      "id": "fremskrittspartiet",
+      "name": "Fremskrittspartiet",
+      "seats": 47,
+      "source_url": "https://data.stortinget.no/eksport/representanter"
+    },
+    {
+      "id": "h-yre",
+      "name": "Høyre",
+      "seats": 24,
+      "source_url": "https://data.stortinget.no/eksport/representanter"
+    },
+    {
+      "id": "sosialistisk-venstreparti",
+      "name": "Sosialistisk Venstreparti",
+      "seats": 9,
+      "source_url": "https://data.stortinget.no/eksport/representanter"
+    },
+    {
+      "id": "senterpartiet",
+      "name": "Senterpartiet",
+      "seats": 9,
+      "source_url": "https://data.stortinget.no/eksport/representanter"
+    },
+    {
+      "id": "r-dt",
+      "name": "Rødt",
+      "seats": 9,
+      "source_url": "https://data.stortinget.no/eksport/representanter"
+    },
+    {
+      "id": "milj-partiet-de-gr-nne",
+      "name": "Miljøpartiet De Grønne",
+      "seats": 8,
+      "source_url": "https://data.stortinget.no/eksport/representanter"
+    },
+    {
+      "id": "kristelig-folkeparti",
+      "name": "Kristelig Folkeparti",
+      "seats": 7,
+      "source_url": "https://data.stortinget.no/eksport/representanter"
+    },
+    {
+      "id": "venstre",
+      "name": "Venstre",
+      "seats": 3,
+      "source_url": "https://data.stortinget.no/eksport/representanter"
+    }
+  ],
+  "incomplete": false
 }

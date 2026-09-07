@@ -12,6 +12,7 @@ import {
 } from "./insight";
 import { insightFromUserText } from "./insight-local";
 import { parseCommand } from "./commands";
+import { workbookClip } from "@/lib/lin/workbook";
 
 export type ChatMsg = {
   id: string;
@@ -34,7 +35,7 @@ type CommsState = {
 const GREETING: ChatMsg = {
   id: "greet",
   role: "assistant",
-  text: "Ask in plain English. Planes, a country legislature, a building desk, the ISS. I will put a card on the globe. You press Look here if you want the map to follow — I will not yank it. Incomplete files stay empty. Radio is the other dial.",
+  text: "Ask in plain English. Planes, a country legislature, a building desk, the ISS. Name a country and an industry to open a research workbook — funding, political, and corporate stay on separate tabs. I will put a card on the globe. You press Look here if you want the map to follow. Incomplete files stay empty.",
 };
 
 function nid() {
@@ -73,6 +74,7 @@ function snapshot(): GlobeContext {
     weather: s.weather,
     layers,
     radio: st ? { station: st.name, playing: r.playing } : null,
+    workbook: workbookClip(),
   };
 }
 
@@ -217,6 +219,8 @@ function parseTaggedAction(
       on?: boolean;
       style?: string;
       id?: string;
+      country?: string;
+      industry?: string;
     };
     const type = o.type ?? "";
     if (type === "flyTo" && o.q) {
@@ -264,6 +268,17 @@ function parseTaggedAction(
         o.style === "snow")
     ) {
       return { text, action: { type: "style", style: o.style }, insight: insighted.insight };
+    }
+    if (type === "workbook") {
+      return {
+        text,
+        action: {
+          type: "workbook",
+          country: typeof o.country === "string" ? o.country : typeof o.q === "string" ? o.q : undefined,
+          industry: typeof o.industry === "string" ? o.industry : typeof o.kind === "string" ? o.kind : undefined,
+        },
+        insight: insighted.insight,
+      };
     }
     if (type === "radio") {
       return {

@@ -1,7 +1,191 @@
 {
   "iso2": "cz",
-  "source_url": "https://www.wikidata.org/wiki/Q2347172",
+  "chamber": "Parliament of the Czech Republic",
+  "source_url": "https://www.psp.cz/sqw/hp.sqw?k=194",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 18,
+  "items": [
+    {
+      "id": "hospodarsky",
+      "name": "Hospodářský výbor",
+      "chamber": "Parliament of the Czech Republic",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.psp.cz/sqw/hp.sqw?k=3500"
+    },
+    {
+      "id": "kontrolni",
+      "name": "Kontrolní výbor",
+      "chamber": "Parliament of the Czech Republic",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.psp.cz/sqw/hp.sqw?k=3600"
+    },
+    {
+      "id": "mandatovy-imunitni",
+      "name": "Mandátový a imunitní výbor",
+      "chamber": "Parliament of the Czech Republic",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.psp.cz/sqw/hp.sqw?k=3700"
+    },
+    {
+      "id": "organizacni",
+      "name": "Organizační výbor",
+      "chamber": "Parliament of the Czech Republic",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.psp.cz/sqw/hp.sqw?k=3800"
+    },
+    {
+      "id": "peticni",
+      "name": "Petiční výbor",
+      "chamber": "Parliament of the Czech Republic",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.psp.cz/sqw/hp.sqw?k=3900"
+    },
+    {
+      "id": "rozpoctovy",
+      "name": "Rozpočtový výbor",
+      "chamber": "Parliament of the Czech Republic",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.psp.cz/sqw/hp.sqw?k=3400"
+    },
+    {
+      "id": "ustavne-pravni",
+      "name": "Ústavně-právní výbor",
+      "chamber": "Parliament of the Czech Republic",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.psp.cz/sqw/hp.sqw?k=4000"
+    },
+    {
+      "id": "bezpecnost",
+      "name": "Výbor pro bezpečnost",
+      "chamber": "Parliament of the Czech Republic",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.psp.cz/sqw/hp.sqw?k=4900"
+    },
+    {
+      "id": "evropske-zalezitosti",
+      "name": "Výbor pro evropské záležitosti",
+      "chamber": "Parliament of the Czech Republic",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.psp.cz/sqw/hp.sqw?k=500"
+    },
+    {
+      "id": "medialni-zalezitosti",
+      "name": "Výbor pro mediální záležitosti",
+      "chamber": "Parliament of the Czech Republic",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.psp.cz/sqw/hp.sqw?k=4100"
+    },
+    {
+      "id": "obrana",
+      "name": "Výbor pro obranu",
+      "chamber": "Parliament of the Czech Republic",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.psp.cz/sqw/hp.sqw?k=5000"
+    },
+    {
+      "id": "socialni-politika",
+      "name": "Výbor pro sociální politiku",
+      "chamber": "Parliament of the Czech Republic",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.psp.cz/sqw/hp.sqw?k=4300"
+    },
+    {
+      "id": "veda-vzdelavani-mladez-sport",
+      "name": "Výbor pro vědu, vzdělávání, mládež a sport",
+      "chamber": "Parliament of the Czech Republic",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.psp.cz/sqw/hp.sqw?k=8800"
+    },
+    {
+      "id": "verejna-sprava-regionalni-rozvoj",
+      "name": "Výbor pro veřejnou správu a regionální rozvoj",
+      "chamber": "Parliament of the Czech Republic",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.psp.cz/sqw/hp.sqw?k=4400"
+    },
+    {
+      "id": "zdravotnictvi",
+      "name": "Výbor pro zdravotnictví",
+      "chamber": "Parliament of the Czech Republic",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.psp.cz/sqw/hp.sqw?k=3200"
+    },
+    {
+      "id": "zivotni-prostredi",
+      "name": "Výbor pro životní prostředí",
+      "chamber": "Parliament of the Czech Republic",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.psp.cz/sqw/hp.sqw?k=4600"
+    },
+    {
+      "id": "zahranicni",
+      "name": "Zahraniční výbor",
+      "chamber": "Parliament of the Czech Republic",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.psp.cz/sqw/hp.sqw?k=3300"
+    },
+    {
+      "id": "zemedelsky",
+      "name": "Zemědělský výbor",
+      "chamber": "Parliament of the Czech Republic",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.psp.cz/sqw/hp.sqw?k=4700"
+    }
+  ],
+  "note": "Chamber výbory page HTTP 200. Standing committees collected."
 }

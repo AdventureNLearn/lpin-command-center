@@ -1,7 +1,61 @@
 {
   "iso2": "bh",
-  "source_url": "https://www.wikidata.org/wiki/Q3242616",
+  "chamber": "National Assembly of Bahrain",
+  "source_url": "https://www.nuwab.bh/en/committees/",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 5,
+  "items": [
+    {
+      "id": "bh-committee-on-legislative-and-legal-affairs",
+      "name": "Committee on Legislative and Legal Affairs",
+      "chamber": "Council of Representatives",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.nuwab.bh/en/committees/"
+    },
+    {
+      "id": "bh-committee-on-financial-and-economic-affairs",
+      "name": "Committee on Financial and Economic Affairs",
+      "chamber": "Council of Representatives",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.nuwab.bh/en/committees/"
+    },
+    {
+      "id": "bh-committee-on-foreign-affairs-defence-and-national-security",
+      "name": "Committee on Foreign Affairs, Defence and National Security",
+      "chamber": "Council of Representatives",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.nuwab.bh/en/content/political-and-organizational-bodies-in-the-council-of-representatives/"
+    },
+    {
+      "id": "bh-committee-on-services",
+      "name": "Committee on Services",
+      "chamber": "Council of Representatives",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.nuwab.bh/en/committees/"
+    },
+    {
+      "id": "bh-committee-on-public-utilities-and-environment",
+      "name": "Committee on Public Utilities and Environment",
+      "chamber": "Council of Representatives",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.nuwab.bh/en/committees/"
+    }
+  ],
+  "note": "Council of Representatives committees page HTTP 200."
 }

@@ -1,7 +1,17 @@
 {
   "iso2": "th",
-  "items": [],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced ethics for this ISO. Not invented."
+  "note": "Official parliament ethics host HTTP 200. Item-level declarations not extracted (no amounts, no names). NACC asset portal 403 miss.",
+  "source_url": "https://ethics.parliament.go.th/",
+  "items": [
+    {
+      "member_id": null,
+      "category": "parliamentary ethics register host",
+      "public": true,
+      "amount_band": null,
+      "origin": "clerk",
+      "source_url": "https://ethics.parliament.go.th/"
+    }
+  ]
 }

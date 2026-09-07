@@ -1,7 +1,17 @@
 {
   "iso2": "cl",
-  "items": [],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced ethics for this ISO. Not invented."
+  "note": "Public InfoProbidad declaration classes named on the official landing page (Ley 20.880). No amounts. No named filers. Unique classes restored after null-member_id collapse. Deduped 3 duplicate ethics rows 2026-09-07.",
+  "source_url": "https://www.infoprobidad.cl",
+  "items": [
+    {
+      "member_id": null,
+      "category": "declaraciones de interés",
+      "public": true,
+      "amount_band": null,
+      "origin": "clerk",
+      "source_url": "https://www.infoprobidad.cl"
+    }
+  ]
 }

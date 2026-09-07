@@ -1,7 +1,9 @@
 {
   "iso2": "au",
-  "items": [],
+  "named_public_filers": false,
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced filers for this ISO. Not invented."
+  "source_url": "https://lobbyists.ag.gov.au",
+  "items": [],
+  "note": "Commonwealth lobbyists register / AEC registered-parties HTTP 200. Entity list is JS-templated; nav labels discarded. Not invented."
 }

@@ -1,7 +1,16 @@
 {
   "iso2": "be",
-  "items": [],
+  "named_donors": false,
+  "unit": "EUR",
+  "sitting_total_reconstructed": 37645000,
+  "buckets": [
+    {
+      "label": "federal party dotation 2026 (all parties combined, DOTPOL)",
+      "amount": 37645000
+    }
+  ],
   "incomplete": true,
+  "source_url": "https://www.dekamer.be/FLWB/PDF/56/1237/56K1237001.pdf",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "Chamber DOC 56 1237/001 HTTP 200 this seat (Comptes 2024 et budget 2026 de la Chambre et financement des partis politiques). Questure printed 'la dotation de 37.645.000 euros résulte de l’application de la loi du 4 juillet 1989' for budget 2026 DOTPOL. Amendments proposing cuts not stored as adopted totals. Controlecommissie page HTTP 200 is chrome; euro campaign-spend rows not parsed. Named private donors not collected."
 }

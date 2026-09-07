@@ -1,7 +1,41 @@
 {
   "iso2": "at",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://www.spoe.at/themeninitiativen/",
   "retrieved": "2026-09-06",
-  "note": "No sourced pledges for this ISO. Not invented."
+  "incomplete": true,
+  "note": "Quote+URL from official party manifesto / programme HTML. Not invented. Cap 40.",
+  "items": [
+    {
+      "id": "at-p-social-democratic-party-of-austria-spending-40f52d",
+      "party_id": "social-democratic-party-of-austria",
+      "quote": "Wir wollen eine Politik, die auf Solidarität setzt, nicht auf die Macht des Reichtums.",
+      "issue_id": "spending",
+      "source_url": "https://www.spoe.at/themeninitiativen/",
+      "date": "2024-09-01"
+    },
+    {
+      "id": "at-p-social-democratic-party-of-austria-spending-662456",
+      "party_id": "social-democratic-party-of-austria",
+      "quote": "Wir setzen uns entschlossen dafür ein, dass in Österreich jedes Kind die gleichen Möglichkeiten hat und Familien nicht ständig an ihre Grenzen stoßen.",
+      "issue_id": "spending",
+      "source_url": "https://www.spoe.at/themeninitiativen/",
+      "date": "2024-09-01"
+    },
+    {
+      "id": "at-p-social-democratic-party-of-austria-spending-c8a19b",
+      "party_id": "social-democratic-party-of-austria",
+      "quote": "Wir setzen uns für eine politische Landschaft ein, welche die kulturelle Vielfalt der Bevölkerung widerspiegelt.",
+      "issue_id": "spending",
+      "source_url": "https://www.spoe.at/themeninitiativen/",
+      "date": "2024-09-01"
+    },
+    {
+      "id": "at-p-neos-education-790094",
+      "party_id": "neos",
+      "quote": "Wir setzen uns deshalb für eine qualitativ hochwertige Bildung in ganz Österreich ein.",
+      "issue_id": "education",
+      "source_url": "https://www.neos.eu/programm/unsere-schwerpunkte",
+      "date": "2024-09-01"
+    }
+  ]
 }

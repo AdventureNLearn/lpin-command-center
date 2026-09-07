@@ -28,6 +28,27 @@
       "url": "https://www.wikidata.org/wiki/Q1969479",
       "kind": "index",
       "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://www.parlamento.ao/pt/orgaos/comissoes/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-money",
+      "label": "Official money / campaign-finance portal",
+      "url": "https://www.cne.ao",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-orgs",
+      "label": "Official orgs",
+      "url": "https://www.cne.ao/partidos",
+      "kind": "primary",
+      "basis": "Evidence"
     }
   ],
   "incomplete": false

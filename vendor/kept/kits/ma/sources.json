@@ -13,7 +13,11 @@
       "label": "Parliament of Morocco",
       "url": "https://www.parlement.ma/",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 403,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-08",
+      "note": "403 is a miss. Not treated as live official this seat."
     },
     {
       "id": "wd-q3004884",
@@ -27,7 +31,11 @@
       "label": "House of Representatives of Morocco",
       "url": "https://www.chambredesrepresentants.ma",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 403,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-08",
+      "note": "403 is a miss. Not treated as live official this seat."
     },
     {
       "id": "wd-q1572773",
@@ -41,13 +49,24 @@
       "label": "House of Councillors of Morocco",
       "url": "http://www.chambredesconseillers.ma/",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 200,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-08",
+      "note": "Official parliament HTTP 200 (polish-iso-08)."
     },
     {
       "id": "wd-q2718576",
       "label": "House of Councillors of Morocco (Wikidata)",
       "url": "https://www.wikidata.org/wiki/Q2718576",
       "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-orgs",
+      "label": "Official orgs",
+      "url": "https://www.chambredesconseillers.ma/ar/%D8%A7%D9%84%D9%81%D8%B1%D9%82-%D9%88%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A9-2021-2027",
+      "kind": "primary",
       "basis": "Evidence"
     }
   ],

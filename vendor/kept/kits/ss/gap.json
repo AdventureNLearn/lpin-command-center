@@ -22,12 +22,32 @@
       "basis": "Evidence"
     },
     {
-      "id": "committees",
-      "hole": "No sourced committee list.",
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "orgs",
+      "hole": "No sourced org list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members-count",
+      "hole": "Wikidata sitting 925 vs claimed_seats 650 / institutional 650. Overcount 275 (historical or multi-body rows likely). Rows not trimmed or invented.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members-cross-chamber",
+      "hole": "5 extra row(s) share a Wikidata person across chambers. Kept: id and name+chamber keys differ. Not collapsed.",
       "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: Speaker of the National Legislature of South Sudan · National Legislative Assembly · Council of States · National Legislature of South Sudan. Sitting 925. Empty objects not invented."
+  "note": "Polish polish-iso-12 2026-09-06. Sitting 925. Dupes removed 0 (id then name+chamber). Overcount 275 vs 650. Empty categories are holes, not zeros invented."
 }

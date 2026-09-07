@@ -1,7 +1,281 @@
 {
   "iso2": "sz",
-  "source_url": "https://www.wikidata.org/wiki/Q7138942",
+  "chamber": "Parliament of Eswatini",
+  "source_url": "https://www.gov.sz/index.php/committees",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 27,
+  "items": [
+    {
+      "id": "sz-cie-gac",
+      "name": "Government Assurance Committee",
+      "chamber": "Parliament of Eswatini",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.gov.sz/index.php/committees"
+    },
+    {
+      "id": "sz-cie-finance",
+      "name": "The Finance Committee",
+      "chamber": "Parliament of Eswatini",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.gov.sz/index.php/committees"
+    },
+    {
+      "id": "sz-cie-hiv",
+      "name": "The HIV/AIDS Committee",
+      "chamber": "Parliament of Eswatini",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.gov.sz/index.php/committees"
+    },
+    {
+      "id": "sz-cie-pac",
+      "name": "Public Accounts Committee",
+      "chamber": "Parliament of Eswatini",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.gov.sz/index.php/committees"
+    },
+    {
+      "id": "sz-cie-children",
+      "name": "Children's Committee",
+      "chamber": "Parliament of Eswatini",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.gov.sz/index.php/committees"
+    },
+    {
+      "id": "sz-cie-wpc",
+      "name": "Women's Parliamentary Caucus",
+      "chamber": "Parliament of Eswatini",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.gov.sz/index.php/committees"
+    },
+    {
+      "id": "sz-cie-pmo",
+      "name": "Prime Minister's Office Portfolio Committee",
+      "chamber": "Parliament of Eswatini",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.gov.sz/index.php/committees"
+    },
+    {
+      "id": "sz-cie-tourism",
+      "name": "Ministry of Tourism and Environmental Affairs Portfolio Committee",
+      "chamber": "Parliament of Eswatini",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.gov.sz/index.php/committees"
+    },
+    {
+      "id": "sz-cie-housing",
+      "name": "Ministry of Housing and Urban Development Portfolio Committee",
+      "chamber": "Parliament of Eswatini",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.gov.sz/index.php/committees"
+    },
+    {
+      "id": "sz-cie-defence",
+      "name": "Ministry of National Defense and Security Portfolio Committee",
+      "chamber": "Parliament of Eswatini",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.gov.sz/index.php/committees"
+    },
+    {
+      "id": "sz-cie-public-service",
+      "name": "Ministry of Public Service Portfolio Committee",
+      "chamber": "Parliament of Eswatini",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.gov.sz/index.php/committees"
+    },
+    {
+      "id": "sz-cie-tinkhundla",
+      "name": "Ministry of Tinkhundla Administration and Development Portfolio Committee",
+      "chamber": "Parliament of Eswatini",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.gov.sz/index.php/committees"
+    },
+    {
+      "id": "sz-cie-nre",
+      "name": "Ministry of Natural Resources and Energy Portfolio Committee",
+      "chamber": "Parliament of Eswatini",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.gov.sz/index.php/committees"
+    },
+    {
+      "id": "sz-cie-agriculture",
+      "name": "Ministry of Agriculture Portfolio Committee",
+      "chamber": "Parliament of Eswatini",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.gov.sz/index.php/committees"
+    },
+    {
+      "id": "sz-cie-dpmo",
+      "name": "Deputy Prime Minister's Office Portfolio Committee",
+      "chamber": "Parliament of Eswatini",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.gov.sz/index.php/committees"
+    },
+    {
+      "id": "sz-cie-commerce",
+      "name": "Ministry of Commerce, Industry and Trade Portfolio Committee",
+      "chamber": "Parliament of Eswatini",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.gov.sz/index.php/committees"
+    },
+    {
+      "id": "sz-cie-foreign",
+      "name": "Ministry of Foreign Affairs and International Cooperation Portfolio Committee",
+      "chamber": "Parliament of Eswatini",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.gov.sz/index.php/committees"
+    },
+    {
+      "id": "sz-cie-labour",
+      "name": "Ministry of Labour and Social Security Portfolio Committee",
+      "chamber": "Parliament of Eswatini",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.gov.sz/index.php/committees"
+    },
+    {
+      "id": "sz-cie-works",
+      "name": "Ministry of Public Works and Transport Portfolio Committee",
+      "chamber": "Parliament of Eswatini",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.gov.sz/index.php/committees"
+    },
+    {
+      "id": "sz-cie-ict",
+      "name": "Ministry of ICT Portfolio Committee",
+      "chamber": "Parliament of Eswatini",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.gov.sz/index.php/committees"
+    },
+    {
+      "id": "sz-cie-planning",
+      "name": "Ministry of Economic Planning and Development Portfolio Committee",
+      "chamber": "Parliament of Eswatini",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.gov.sz/index.php/committees"
+    },
+    {
+      "id": "sz-cie-mof",
+      "name": "Ministry of Finance Portfolio Committee",
+      "chamber": "Parliament of Eswatini",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.gov.sz/index.php/committees"
+    },
+    {
+      "id": "sz-cie-health",
+      "name": "Ministry of Health and social Welfare Portfolio Committee",
+      "chamber": "Parliament of Eswatini",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.gov.sz/index.php/committees"
+    },
+    {
+      "id": "sz-cie-education",
+      "name": "Ministry of Education and Training Portfolio Committee",
+      "chamber": "Parliament of Eswatini",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.gov.sz/index.php/committees"
+    },
+    {
+      "id": "sz-cie-sports",
+      "name": "Ministry of Sports, Culture and youth Affairs Portfolio Committee",
+      "chamber": "Parliament of Eswatini",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.gov.sz/index.php/committees"
+    },
+    {
+      "id": "sz-cie-justice",
+      "name": "Ministry of Justice and Constitutional Affairs Portfolio Committee",
+      "chamber": "Parliament of Eswatini",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.gov.sz/index.php/committees"
+    },
+    {
+      "id": "sz-cie-home",
+      "name": "Ministry of Home Affairs Portfolio Committee",
+      "chamber": "Parliament of Eswatini",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.gov.sz/index.php/committees"
+    }
+  ],
+  "note": "National government portal lists Parliament standing/sessional and portfolio committees. parliament.gov.sz itself did not return HTTP 200 from this probe. Names only."
 }

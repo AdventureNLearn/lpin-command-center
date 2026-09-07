@@ -1,7 +1,16 @@
 {
   "iso2": "fi",
-  "items": [],
+  "named_donors": false,
+  "unit": "EUR",
+  "sitting_total_reconstructed": 34393170,
+  "buckets": [
+    {
+      "label": "state party subsidy (parliamentary parties combined)",
+      "amount": 34393170
+    }
+  ],
   "incomplete": true,
+  "source_url": "https://valtioneuvosto.fi/sv/-/partistoden-for-2026-har-beviljats",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "Finnish Government (Statsrådet) press release 2026-01-22: 2026 party subsidies granted. Official printed combined total Partierna sammanlagt (199): 34 393 170 euro. Per-party rows not stored (source-type public-funding bucket only). Åland territorial political-activity line 172 830 euro printed separately and not stored as sitting Eduskunta campaign finance. Not sitting-member campaign accounts. NAOF vaalirahoitusvalvonta.fi disclosures name donors and were not collected. Named private donors not collected."
 }

@@ -1,7 +1,9 @@
 {
   "iso2": "ie",
-  "items": [],
+  "named_public_filers": false,
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced filers for this ISO. Not invented."
+  "source_url": "https://www.lobbying.ie",
+  "items": [],
+  "note": "Register of Lobbying HTTP 200. Homepage nav/guidance titles are not registrant rows. Bulk filer API not found. Not invented."
 }

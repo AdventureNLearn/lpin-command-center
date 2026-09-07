@@ -1,7 +1,100 @@
 {
   "iso2": "ee",
-  "items": [],
+  "named_public_filers": true,
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced filers for this ISO. Not invented."
+  "source_url": "https://www.erjk.ee/et/aruanded/erakondade-kulud",
+  "items": [
+    {
+      "id": "eesti-keskerakond",
+      "name": "Eesti Keskerakond",
+      "kind": "political-party",
+      "source_url": "https://www.erjk.ee/et/aruanded/erakondade-kulud"
+    },
+    {
+      "id": "eesti-reformierakond",
+      "name": "Eesti Reformierakond",
+      "kind": "political-party",
+      "source_url": "https://www.erjk.ee/et/aruanded/erakondade-kulud"
+    },
+    {
+      "id": "eesti-vabaerakond",
+      "name": "Eesti Vabaerakond",
+      "kind": "political-party",
+      "source_url": "https://www.erjk.ee/et/aruanded/erakondade-kulud"
+    },
+    {
+      "id": "eesti-vasakliit",
+      "name": "Eesti Vasakliit",
+      "kind": "political-party",
+      "source_url": "https://www.erjk.ee/et/aruanded/erakondade-kulud"
+    },
+    {
+      "id": "ekre-eesti-konservatiivne-rahvaerakond",
+      "name": "EKRE - Eesti Konservatiivne Rahvaerakond",
+      "kind": "political-party",
+      "source_url": "https://www.erjk.ee/et/aruanded/erakondade-kulud"
+    },
+    {
+      "id": "elurikkuse-erakond",
+      "name": "Elurikkuse Erakond",
+      "kind": "political-party",
+      "source_url": "https://www.erjk.ee/et/aruanded/erakondade-kulud"
+    },
+    {
+      "id": "erakond-eesti-200",
+      "name": "Erakond Eesti 200",
+      "kind": "political-party",
+      "source_url": "https://www.erjk.ee/et/aruanded/erakondade-kulud"
+    },
+    {
+      "id": "erakond-eestimaa-rohelised",
+      "name": "Erakond Eestimaa Rohelised",
+      "kind": "political-party",
+      "source_url": "https://www.erjk.ee/et/aruanded/erakondade-kulud"
+    },
+    {
+      "id": "erakond-parempoolsed",
+      "name": "Erakond Parempoolsed",
+      "kind": "political-party",
+      "source_url": "https://www.erjk.ee/et/aruanded/erakondade-kulud"
+    },
+    {
+      "id": "erakond-rahva-tahe",
+      "name": "Erakond Rahva Tahe",
+      "kind": "political-party",
+      "source_url": "https://www.erjk.ee/et/aruanded/erakondade-kulud"
+    },
+    {
+      "id": "isamaa-erakond",
+      "name": "ISAMAA Erakond",
+      "kind": "political-party",
+      "source_url": "https://www.erjk.ee/et/aruanded/erakondade-kulud"
+    },
+    {
+      "id": "koos-erakond",
+      "name": "KOOS Erakond",
+      "kind": "political-party",
+      "source_url": "https://www.erjk.ee/et/aruanded/erakondade-kulud"
+    },
+    {
+      "id": "rahva-uhtsuse-erakond",
+      "name": "Rahva Ühtsuse Erakond",
+      "kind": "political-party",
+      "source_url": "https://www.erjk.ee/et/aruanded/erakondade-kulud"
+    },
+    {
+      "id": "sotsiaaldemokraatlik-erakond",
+      "name": "Sotsiaaldemokraatlik Erakond",
+      "kind": "political-party",
+      "source_url": "https://www.erjk.ee/et/aruanded/erakondade-kulud"
+    },
+    {
+      "id": "vabaerakond-aru-pahe",
+      "name": "Vabaerakond Aru Pähe",
+      "kind": "political-party",
+      "source_url": "https://www.erjk.ee/et/aruanded/erakondade-kulud"
+    }
+  ],
+  "note": "Capped sample of organisation names from official register/API. Cap 40. Natural-person names omitted."
 }

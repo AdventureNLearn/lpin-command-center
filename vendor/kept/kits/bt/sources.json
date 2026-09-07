@@ -56,6 +56,27 @@
       "url": "https://www.wikidata.org/wiki/Q2080399",
       "kind": "index",
       "basis": "Evidence"
+    },
+    {
+      "id": "official-votes",
+      "label": "Official roll-call / division source",
+      "url": "https://cms.parliament.gov.bt/uploads/Resolution_of_the_3rd_Session_Fourth_Parliament_Eng_c217d36f9f.pdf",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://nab.parliament.gov.bt/committees",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-ethics",
+      "label": "Official ethics",
+      "url": "https://www.acc.org.bt/press-release/",
+      "kind": "primary",
+      "basis": "Evidence"
     }
   ],
   "incomplete": false

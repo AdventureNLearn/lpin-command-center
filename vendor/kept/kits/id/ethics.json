@@ -3,7 +3,7 @@
   "chamber": "DPR",
   "term": "2024–2029",
   "incomplete": true,
-  "note": "Public LHKPN / UU 28/1999 / UU 31/1999 categories from official KPK explainer pages that returned 200. peraturan.go.id UU 28=unreachable UU 31=unreachable from this host (not looped). e-Announcement portal elhkpn.kpk.go.id status 0 — search form, not a sitting-DPR category register. dpr.go.id skipped (known 403). member_id null. amount_band null. No rupiah. No named private donors. No confidential annex. Honest incomplete.",
+  "note": "Public LHKPN / UU 28/1999 / UU 31/1999 categories from official KPK explainer pages that returned 200. peraturan.go.id UU 28=unreachable UU 31=unreachable from this host (not looped). e-Announcement portal elhkpn.kpk.go.id status 0 — search form, not a sitting-DPR category register. dpr.go.id skipped (known 403). member_id null. amount_band null. No rupiah. No named private donors. No confidential annex. Honest incomplete. Deduped 9 duplicate ethics rows 2026-09-06.",
   "source_url": "https://aclc.kpk.go.id/aksi-informasi/Eksplorasi/20220922-tata-cara-memantau-lhkpn-pejabat-negara",
   "retrieved": "2026-08-20",
   "items": [
@@ -18,42 +18,6 @@
       "source_url": "https://aclc.kpk.go.id/aksi-informasi/Eksplorasi/20220922-tata-cara-memantau-lhkpn-pejabat-negara",
       "article": "LHKPN",
       "note": "KPK ACLC public e-Announcement class. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "vehicles",
-      "label_id": "kendaraan",
-      "label_en": "Vehicles (public LHKPN class)",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "https://aclc.kpk.go.id/aksi-informasi/Eksplorasi/20220922-tata-cara-memantau-lhkpn-pejabat-negara",
-      "article": "LHKPN",
-      "note": "KPK ACLC public e-Announcement class. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "debts-receivables",
-      "label_id": "utang piutang",
-      "label_en": "Debts and receivables (public LHKPN class)",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "https://aclc.kpk.go.id/aksi-informasi/Eksplorasi/20220922-tata-cara-memantau-lhkpn-pejabat-negara",
-      "article": "LHKPN",
-      "note": "KPK ACLC public e-Announcement class. Creditor names and amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "securities",
-      "label_id": "surat-surat berharga",
-      "label_en": "Securities (public LHKPN class)",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "https://aclc.kpk.go.id/aksi-informasi/Eksplorasi/20220922-tata-cara-memantau-lhkpn-pejabat-negara",
-      "article": "LHKPN",
-      "note": "KPK ACLC public e-Announcement class. Holdings and amounts not collected."
     },
     {
       "member_id": null,
@@ -78,78 +42,6 @@
       "source_url": "https://aclc.kpk.go.id/aksi-informasi/Eksplorasi/20220510-kenali-dasar-hukum-pemberantasan-tindak-pidana-korupsi-di-indonesia",
       "article": "UU 31/1999",
       "note": "UU 31/1999 public-law group on official KPK ACLC explainer. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "bribery",
-      "label_id": "suap-menyuap",
-      "label_en": "Bribery (UU 31/1999 group)",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "https://aclc.kpk.go.id/aksi-informasi/Eksplorasi/20220510-kenali-dasar-hukum-pemberantasan-tindak-pidana-korupsi-di-indonesia",
-      "article": "UU 31/1999",
-      "note": "UU 31/1999 public-law group on official KPK ACLC explainer. Named counterparties not collected."
-    },
-    {
-      "member_id": null,
-      "category": "embezzlement-in-office",
-      "label_id": "penggelapan dalam jabatan",
-      "label_en": "Embezzlement in office (UU 31/1999 group)",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "https://aclc.kpk.go.id/aksi-informasi/Eksplorasi/20220510-kenali-dasar-hukum-pemberantasan-tindak-pidana-korupsi-di-indonesia",
-      "article": "UU 31/1999",
-      "note": "UU 31/1999 public-law group on official KPK ACLC explainer. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "extortion",
-      "label_id": "pemerasan",
-      "label_en": "Extortion (UU 31/1999 group)",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "https://aclc.kpk.go.id/aksi-informasi/Eksplorasi/20220510-kenali-dasar-hukum-pemberantasan-tindak-pidana-korupsi-di-indonesia",
-      "article": "UU 31/1999",
-      "note": "UU 31/1999 public-law group on official KPK ACLC explainer. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "gratification",
-      "label_id": "gratifikasi",
-      "label_en": "Gratification (UU 31/1999 group)",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "https://aclc.kpk.go.id/aksi-informasi/Eksplorasi/20220510-kenali-dasar-hukum-pemberantasan-tindak-pidana-korupsi-di-indonesia",
-      "article": "UU 31/1999",
-      "note": "UU 31/1999 public-law group on official KPK ACLC explainer. Penalty figures and named gifts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "fraudulent-acts",
-      "label_id": "perbuatan curang",
-      "label_en": "Fraudulent acts (UU 31/1999 group)",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "https://aclc.kpk.go.id/aksi-informasi/Eksplorasi/20220510-kenali-dasar-hukum-pemberantasan-tindak-pidana-korupsi-di-indonesia",
-      "article": "UU 31/1999",
-      "note": "UU 31/1999 public-law group on official KPK ACLC explainer. Named private counterparties not collected."
-    },
-    {
-      "member_id": null,
-      "category": "procurement-conflict-of-interest",
-      "label_id": "benturan kepentingan dalam pengadaan",
-      "label_en": "Procurement conflict of interest (UU 31/1999 group)",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "https://aclc.kpk.go.id/aksi-informasi/Eksplorasi/20220510-kenali-dasar-hukum-pemberantasan-tindak-pidana-korupsi-di-indonesia",
-      "article": "UU 31/1999",
-      "note": "UU 31/1999 public-law group on official KPK ACLC explainer. Named private holdings not collected."
     }
   ]
 }

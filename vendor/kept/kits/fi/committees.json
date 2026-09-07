@@ -1,7 +1,129 @@
 {
   "iso2": "fi",
-  "source_url": "https://www.wikidata.org/wiki/Q643412",
+  "chamber": "Eduskunta",
+  "source_url": "https://www.eduskunta.fi/valiokunnat",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "items": [
+    {
+      "id": "suuri-valiokunta",
+      "name": "Suuri valiokunta",
+      "chamber": "Eduskunta",
+      "origin": "clerk",
+      "source_url": "https://www.eduskunta.fi/valiokunnat"
+    },
+    {
+      "id": "perustuslakivaliokunta",
+      "name": "Perustuslakivaliokunta",
+      "chamber": "Eduskunta",
+      "origin": "clerk",
+      "source_url": "https://www.eduskunta.fi/valiokunnat"
+    },
+    {
+      "id": "ulkoasiainvaliokunta",
+      "name": "Ulkoasiainvaliokunta",
+      "chamber": "Eduskunta",
+      "origin": "clerk",
+      "source_url": "https://www.eduskunta.fi/valiokunnat"
+    },
+    {
+      "id": "valtiovarainvaliokunta",
+      "name": "Valtiovarainvaliokunta",
+      "chamber": "Eduskunta",
+      "origin": "clerk",
+      "source_url": "https://www.eduskunta.fi/valiokunnat"
+    },
+    {
+      "id": "tarkastusvaliokunta",
+      "name": "Tarkastusvaliokunta",
+      "chamber": "Eduskunta",
+      "origin": "clerk",
+      "source_url": "https://www.eduskunta.fi/valiokunnat"
+    },
+    {
+      "id": "hallintovaliokunta",
+      "name": "Hallintovaliokunta",
+      "chamber": "Eduskunta",
+      "origin": "clerk",
+      "source_url": "https://www.eduskunta.fi/valiokunnat"
+    },
+    {
+      "id": "lakivaliokunta",
+      "name": "Lakivaliokunta",
+      "chamber": "Eduskunta",
+      "origin": "clerk",
+      "source_url": "https://www.eduskunta.fi/valiokunnat"
+    },
+    {
+      "id": "liikenne-ja-viestintavaliokunta",
+      "name": "Liikenne- ja viestintävaliokunta",
+      "chamber": "Eduskunta",
+      "origin": "clerk",
+      "source_url": "https://www.eduskunta.fi/valiokunnat"
+    },
+    {
+      "id": "maa-ja-metsatalousvaliokunta",
+      "name": "Maa- ja metsätalousvaliokunta",
+      "chamber": "Eduskunta",
+      "origin": "clerk",
+      "source_url": "https://www.eduskunta.fi/valiokunnat"
+    },
+    {
+      "id": "puolustusvaliokunta",
+      "name": "Puolustusvaliokunta",
+      "chamber": "Eduskunta",
+      "origin": "clerk",
+      "source_url": "https://www.eduskunta.fi/valiokunnat"
+    },
+    {
+      "id": "sivistysvaliokunta",
+      "name": "Sivistysvaliokunta",
+      "chamber": "Eduskunta",
+      "origin": "clerk",
+      "source_url": "https://www.eduskunta.fi/valiokunnat"
+    },
+    {
+      "id": "sosiaali-ja-terveysvaliokunta",
+      "name": "Sosiaali- ja terveysvaliokunta",
+      "chamber": "Eduskunta",
+      "origin": "clerk",
+      "source_url": "https://www.eduskunta.fi/valiokunnat"
+    },
+    {
+      "id": "talousvaliokunta",
+      "name": "Talousvaliokunta",
+      "chamber": "Eduskunta",
+      "origin": "clerk",
+      "source_url": "https://www.eduskunta.fi/valiokunnat"
+    },
+    {
+      "id": "tiedusteluvalvontavaliokunta",
+      "name": "Tiedusteluvalvontavaliokunta",
+      "chamber": "Eduskunta",
+      "origin": "clerk",
+      "source_url": "https://www.eduskunta.fi/valiokunnat"
+    },
+    {
+      "id": "tulevaisuusvaliokunta",
+      "name": "Tulevaisuusvaliokunta",
+      "chamber": "Eduskunta",
+      "origin": "clerk",
+      "source_url": "https://www.eduskunta.fi/valiokunnat"
+    },
+    {
+      "id": "tyoelama-ja-tasa-arvovaliokunta",
+      "name": "Työelämä- ja tasa-arvovaliokunta",
+      "chamber": "Eduskunta",
+      "origin": "clerk",
+      "source_url": "https://www.eduskunta.fi/valiokunnat"
+    },
+    {
+      "id": "ymparistovaliokunta",
+      "name": "Ympäristövaliokunta",
+      "chamber": "Eduskunta",
+      "origin": "clerk",
+      "source_url": "https://www.eduskunta.fi/valiokunnat"
+    }
+  ],
+  "note": "Standing committees from official Eduskunta valiokunnat CMS names. Hour-iso-04."
 }

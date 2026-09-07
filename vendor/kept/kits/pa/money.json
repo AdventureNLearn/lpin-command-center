@@ -1,7 +1,25 @@
 {
   "iso2": "pa",
-  "items": [],
+  "named_donors": false,
+  "unit": "PAB",
+  "sitting_total_reconstructed": 91682456,
+  "buckets": [
+    {
+      "label": "public party financing quinquenio 2019-2024 (all parties combined)",
+      "amount": 91682456
+    },
+    {
+      "label": "public party financing quinquenio 2014-2019 (all parties combined)",
+      "amount": 69850000
+    },
+    {
+      "label": "public party financing quinquenio 2009-2014 (all parties combined)",
+      "amount": 33700000
+    }
+  ],
   "incomplete": true,
+  "source_url": "https://www.tribunal-electoral.gob.pa/financiamiento-politico/informacion/",
+  "wayback_url": "https://web.archive.org/web/20230119165812/https://www.tribunal-electoral.gob.pa/financiamiento-politico/informacion/",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "Live tribunal-electoral.gob.pa HTTP 403 (harvest UA and browser UA). Hunt-stop that host. Official TE financiamiento table recovered from Wayback capture 2023-01-19 of the same URL (HTTP 200). Printed combined Total del Financiamiento 2019-2024: 91,682,456.00 (Boletín 4256-A; preelectoral 45,841,228.00 + poselectoral 45,841,228.00). Printed combined 2014-2019 69,850,000.00 (Boletín 3806) and 2009-2014 33,700,000.00 (Boletín 2923). Earlier quinquenio rows not stored. 2024-2029 cycle not on this capture. Source-type public-funding buckets only. Named private donors not collected. sitting_total_reconstructed is the 2019-2024 printed combined total, not a sum of year buckets."
 }

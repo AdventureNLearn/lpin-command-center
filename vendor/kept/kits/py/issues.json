@@ -1,7 +1,72 @@
 {
   "iso2": "py",
-  "items": [],
-  "incomplete": true,
-  "retrieved": "2026-09-06",
-  "note": "No sourced issues for this ISO. Not invented."
+  "items": [
+    {
+      "id": "border",
+      "label_en": "border",
+      "label_ko": ""
+    },
+    {
+      "id": "energy",
+      "label_en": "energy",
+      "label_ko": ""
+    },
+    {
+      "id": "taxes",
+      "label_en": "taxes",
+      "label_ko": ""
+    },
+    {
+      "id": "spending",
+      "label_en": "spending",
+      "label_ko": ""
+    },
+    {
+      "id": "abortion",
+      "label_en": "abortion",
+      "label_ko": ""
+    },
+    {
+      "id": "education",
+      "label_en": "education",
+      "label_ko": ""
+    },
+    {
+      "id": "elections",
+      "label_en": "elections",
+      "label_ko": ""
+    },
+    {
+      "id": "crime",
+      "label_en": "crime",
+      "label_ko": ""
+    },
+    {
+      "id": "guns",
+      "label_en": "guns",
+      "label_ko": ""
+    },
+    {
+      "id": "ukraine",
+      "label_en": "ukraine",
+      "label_ko": ""
+    },
+    {
+      "id": "israel",
+      "label_en": "israel",
+      "label_ko": ""
+    },
+    {
+      "id": "china",
+      "label_en": "china",
+      "label_ko": ""
+    },
+    {
+      "id": "defense",
+      "label_en": "defense",
+      "label_ko": ""
+    }
+  ],
+  "incomplete": false,
+  "note": "Shared scoring issue list. Country pledges/votes still empty until sourced."
 }

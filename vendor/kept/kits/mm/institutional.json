@@ -54,7 +54,9 @@
       "name": "Amyotha Hluttaw",
       "kind": "chamber",
       "seats": 224,
-      "url": "http://www.amyothahluttaw.gov.mm/"
+      "url": "http://www.amyothahluttaw.gov.mm/",
+      "http_status": 0,
+      "official_http_200": false
     },
     {
       "id": "Q5069545",
@@ -68,7 +70,9 @@
       "name": "House of Representatives",
       "kind": "chamber",
       "seats": 440,
-      "url": "http://www.pyithuhluttaw.gov.mm/"
+      "url": "http://www.pyithuhluttaw.gov.mm/",
+      "http_status": 0,
+      "official_http_200": false
     },
     {
       "id": "Q50839393",
@@ -82,8 +86,10 @@
       "name": "Assembly of the Union",
       "kind": "parliament",
       "seats": 0,
-      "url": "http://www.pyithuhluttaw.gov.mm/"
+      "url": "http://www.pyithuhluttaw.gov.mm/",
+      "http_status": 0,
+      "official_http_200": false
     }
   ],
-  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score."
+  "note": "Legislature structure from Wikidata P194/P527/houses. Not a score. polish-iso-09: official parliament URLs noted only on HTTP 200; 403 is a miss."
 }

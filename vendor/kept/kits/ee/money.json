@@ -1,7 +1,43 @@
 {
   "iso2": "ee",
-  "items": [],
+  "named_donors": false,
+  "unit": "",
+  "buckets": [
+    {
+      "label": "Poliitilise tegevuse kulud",
+      "source_url": "https://www.erjk.ee/et/aruanded/erakondade-kulud"
+    },
+    {
+      "label": "Reklaamikulud",
+      "source_url": "https://www.erjk.ee/et/aruanded/erakondade-kulud"
+    },
+    {
+      "label": "Suhtekorralduskulud",
+      "source_url": "https://www.erjk.ee/et/aruanded/erakondade-kulud"
+    },
+    {
+      "label": "Publikatsioonide kulud",
+      "source_url": "https://www.erjk.ee/et/aruanded/erakondade-kulud"
+    },
+    {
+      "label": "Avalike ürituste kulud",
+      "source_url": "https://www.erjk.ee/et/aruanded/erakondade-kulud"
+    },
+    {
+      "label": "Muud poliitilise tegevuse kulud",
+      "source_url": "https://www.erjk.ee/et/aruanded/erakondade-kulud"
+    },
+    {
+      "label": "Tööjõukulud",
+      "source_url": "https://www.erjk.ee/et/aruanded/erakondade-kulud"
+    },
+    {
+      "label": "Majandamiskulud",
+      "source_url": "https://www.erjk.ee/et/aruanded/erakondade-kulud"
+    }
+  ],
   "incomplete": true,
+  "source_url": "https://www.erjk.ee/et/aruanded/erakondade-kulud",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "note": "ERJK expense-type labels. Amounts not extracted. Named donors not collected. Hour-iso-04."
 }

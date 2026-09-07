@@ -1,7 +1,57 @@
 {
   "iso2": "ao",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://www.cne.ao/partidos",
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "apn",
+      "name": "APN",
+      "kind": "political-party",
+      "source_url": "https://www.cne.ao/partidos"
+    },
+    {
+      "id": "casa-ce",
+      "name": "CASA-CE",
+      "kind": "political-party",
+      "source_url": "https://www.cne.ao/partidos"
+    },
+    {
+      "id": "fnla",
+      "name": "FNLA",
+      "kind": "political-party",
+      "source_url": "https://www.cne.ao/partidos"
+    },
+    {
+      "id": "mpla",
+      "name": "MPLA",
+      "kind": "political-party",
+      "source_url": "https://www.cne.ao/partidos"
+    },
+    {
+      "id": "p-njango",
+      "name": "P-NJANGO",
+      "kind": "political-party",
+      "source_url": "https://www.cne.ao/partidos"
+    },
+    {
+      "id": "pha",
+      "name": "PHA",
+      "kind": "political-party",
+      "source_url": "https://www.cne.ao/partidos"
+    },
+    {
+      "id": "prs",
+      "name": "PRS",
+      "kind": "political-party",
+      "source_url": "https://www.cne.ao/partidos"
+    },
+    {
+      "id": "unita",
+      "name": "UNITA",
+      "kind": "political-party",
+      "source_url": "https://www.cne.ao/partidos"
+    }
+  ],
+  "note": "Capped sample from official source."
 }

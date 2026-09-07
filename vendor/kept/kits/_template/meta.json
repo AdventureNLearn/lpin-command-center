@@ -1,11 +1,26 @@
 {
   "iso2": "xx",
+  "name": "",
   "chamber": "",
+  "houses": "",
   "session": "",
   "kit": "scoring",
   "lang": ["en"],
   "threshold": 5,
-  "counts": { "members": 0, "sitting": 0, "votes": 0, "committees": 0 },
+  "counts": { "members": 0, "sitting": 0, "votes": 0, "committees": 0, "pledged": 0 },
+  "capabilities": [
+    "members",
+    "pledges",
+    "votes",
+    "issues",
+    "gap",
+    "caucus",
+    "committees",
+    "ethics",
+    "money",
+    "method"
+  ],
   "basis": "Evidence",
-  "incomplete": true
+  "incomplete": true,
+  "note": "Copy of US country-pack object set. Fill from official sources. Honest empty until sourced. Users type their own locality."
 }

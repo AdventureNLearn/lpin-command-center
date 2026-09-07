@@ -1,7 +1,58 @@
 {
   "iso2": "jp",
-  "items": [],
+  "source_url": "https://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_a.htm",
+  "items": [
+    {
+      "id": "ldp",
+      "name": "LDP",
+      "kind": "political-party",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_a.htm"
+    },
+    {
+      "id": "cra",
+      "name": "CRA",
+      "kind": "political-party",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_a.htm"
+    },
+    {
+      "id": "jip",
+      "name": "JIP",
+      "kind": "political-party",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_a.htm"
+    },
+    {
+      "id": "dpfp",
+      "name": "DPFP",
+      "kind": "political-party",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_a.htm"
+    },
+    {
+      "id": "san",
+      "name": "SAN",
+      "kind": "political-party",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_a.htm"
+    },
+    {
+      "id": "mirai",
+      "name": "MIRAI",
+      "kind": "political-party",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_a.htm"
+    },
+    {
+      "id": "ind",
+      "name": "Ind",
+      "kind": "political-party",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_a.htm"
+    },
+    {
+      "id": "jcp",
+      "name": "JCP",
+      "kind": "political-party",
+      "source_url": "https://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_a.htm"
+    }
+  ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "origin": "parties-index",
+  "note": "Thin org list derived from official parties.json (non-wikidata). Incomplete. origin:parties-index."
 }

@@ -1,7 +1,128 @@
 {
   "iso2": "nl",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Fractie",
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "d720f5af-0516-408a-b830-0b6ffb8a581c",
+      "abbr": "ChristenUnie",
+      "name": "ChristenUnie",
+      "seats": 3,
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Fractie(d720f5af-0516-408a-b830-0b6ffb8a581c)"
+    },
+    {
+      "id": "848c3fca-8931-4236-8fe9-33b6a598fa4d",
+      "abbr": "Groep Markuszower",
+      "name": "Groep Markuszower",
+      "seats": 7,
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Fractie(848c3fca-8931-4236-8fe9-33b6a598fa4d)"
+    },
+    {
+      "id": "e0b7b638-de3c-47cc-85bd-341dd65ea33d",
+      "abbr": "FVD",
+      "name": "Forum voor Democratie",
+      "seats": 7,
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Fractie(e0b7b638-de3c-47cc-85bd-341dd65ea33d)"
+    },
+    {
+      "id": "a3689bb6-3914-4d5c-a6a8-42e24582e299",
+      "abbr": "SP",
+      "name": "Socialistische Partij",
+      "seats": 3,
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Fractie(a3689bb6-3914-4d5c-a6a8-42e24582e299)"
+    },
+    {
+      "id": "65129918-f256-4975-9da4-488da34d6695",
+      "abbr": "PVV",
+      "name": "Partij voor de Vrijheid",
+      "seats": 19,
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Fractie(65129918-f256-4975-9da4-488da34d6695)"
+    },
+    {
+      "id": "d3b4d880-ef37-4ce6-99ec-4940266ac466",
+      "abbr": "PvdD",
+      "name": "Partij voor de Dieren",
+      "seats": 3,
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Fractie(d3b4d880-ef37-4ce6-99ec-4940266ac466)"
+    },
+    {
+      "id": "4e9f6f5b-2544-4667-8134-6b85c4ebb4e0",
+      "abbr": "D66",
+      "name": "Democraten 66",
+      "seats": 26,
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Fractie(4e9f6f5b-2544-4667-8134-6b85c4ebb4e0)"
+    },
+    {
+      "id": "77f9b6f1-b1a9-4d1b-a05e-9936e79d8fa5",
+      "abbr": "SGP",
+      "name": "Staatkundig Gereformeerde Partij",
+      "seats": 3,
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Fractie(77f9b6f1-b1a9-4d1b-a05e-9936e79d8fa5)"
+    },
+    {
+      "id": "626555ac-e836-44e3-9978-a6a7f0abc3ce",
+      "abbr": "BBB",
+      "name": "BoerBurgerBeweging",
+      "seats": 3,
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Fractie(626555ac-e836-44e3-9978-a6a7f0abc3ce)"
+    },
+    {
+      "id": "d60f373a-5bb2-477f-9979-a8f3a0514e6b",
+      "abbr": "PRO",
+      "name": "Progressief Nederland",
+      "seats": 20,
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Fractie(d60f373a-5bb2-477f-9979-a8f3a0514e6b)"
+    },
+    {
+      "id": "62c1a13c-85ff-40ed-90f7-a9546d61f869",
+      "abbr": "CDA",
+      "name": "Christen-Democratisch Appèl",
+      "seats": 18,
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Fractie(62c1a13c-85ff-40ed-90f7-a9546d61f869)"
+    },
+    {
+      "id": "deb74bb5-63a9-4ffc-98ed-af577167452e",
+      "abbr": "DENK",
+      "name": "DENK",
+      "seats": 3,
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Fractie(deb74bb5-63a9-4ffc-98ed-af577167452e)"
+    },
+    {
+      "id": "a9e74299-15f9-455c-8330-b84f176d1a7e",
+      "abbr": "50PLUS",
+      "name": "50PLUS",
+      "seats": 2,
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Fractie(a9e74299-15f9-455c-8330-b84f176d1a7e)"
+    },
+    {
+      "id": "7476e97a-3243-4122-9df6-ba7d82a5279b",
+      "abbr": "VVD",
+      "name": "Volkspartij voor Vrijheid en Democratie",
+      "seats": 22,
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Fractie(7476e97a-3243-4122-9df6-ba7d82a5279b)"
+    },
+    {
+      "id": "65b21c25-91e8-4844-a67c-bc5866e457b5",
+      "abbr": "Lid Keijzer",
+      "name": "Lid Keijzer",
+      "seats": 1,
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Fractie(65b21c25-91e8-4844-a67c-bc5866e457b5)"
+    },
+    {
+      "id": "fab6e7e1-9d63-446a-a6e1-e1c74e3f679e",
+      "abbr": "JA21",
+      "name": "JA21",
+      "seats": 9,
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Fractie(fab6e7e1-9d63-446a-a6e1-e1c74e3f679e)"
+    },
+    {
+      "id": "ae48391e-ce4d-47e0-86e3-ee310282f66f",
+      "abbr": "Volt",
+      "name": "Volt",
+      "seats": 1,
+      "source_url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Fractie(ae48391e-ce4d-47e0-86e3-ee310282f66f)"
+    }
+  ],
+  "note": "Capped sample from official source."
 }

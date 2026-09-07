@@ -1,7 +1,81 @@
 {
   "iso2": "mn",
-  "source_url": "https://www.wikidata.org/wiki/Q1544714",
+  "chamber": "State Great Khural",
+  "source_url": "https://www.parliament.mn/nc/subcom/",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 7,
+  "items": [
+    {
+      "id": "mn-c-1",
+      "name": "Төсвийн зарлагын хяналтын дэд хороо",
+      "chamber": "State Great Khural",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.mn/nc/subcom/"
+    },
+    {
+      "id": "mn-c-2",
+      "name": "Боловсрол, шинжлэх ухааны дэд хороо",
+      "chamber": "State Great Khural",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.mn/nc/subcom/"
+    },
+    {
+      "id": "mn-c-3",
+      "name": "Инновац, цахим бодлогын хөгжлийн дэд хороо",
+      "chamber": "State Great Khural",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.mn/nc/subcom/"
+    },
+    {
+      "id": "mn-c-4",
+      "name": "Хүний эрхийн дэд хороо",
+      "chamber": "State Great Khural",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.mn/nc/subcom/"
+    },
+    {
+      "id": "mn-c-5",
+      "name": "Аялал жуулчлалын хөгжлийн дэд хороо",
+      "chamber": "State Great Khural",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.mn/nc/subcom/"
+    },
+    {
+      "id": "mn-c-6",
+      "name": "Жижиг, дунд үйлдвэрлэлийн хөгжлийн дэд хороо",
+      "chamber": "State Great Khural",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.mn/nc/subcom/"
+    },
+    {
+      "id": "mn-c-7",
+      "name": "Тогтвортой хөгжлийн зорилгын дэд хороо",
+      "chamber": "State Great Khural",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.parliament.mn/nc/subcom/"
+    }
+  ],
+  "note": "Official subcommittee listing (Дэд хороод). 7 unique names sampled from page 1 of 119. Cap 80. No PII."
 }

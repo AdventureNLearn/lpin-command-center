@@ -13,7 +13,11 @@
       "label": "Amyotha Hluttaw",
       "url": "http://www.amyothahluttaw.gov.mm/",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 0,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-09",
+      "note": "Official parliament probe miss status 0 (fetch failed)."
     },
     {
       "id": "wd-q2119357",
@@ -34,7 +38,11 @@
       "label": "House of Representatives",
       "url": "http://www.pyithuhluttaw.gov.mm/",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 0,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-09",
+      "note": "Official parliament probe miss status 0 (fetch failed)."
     },
     {
       "id": "wd-q3379823",
@@ -55,13 +63,24 @@
       "label": "Assembly of the Union",
       "url": "http://www.pyithuhluttaw.gov.mm/",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 0,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-09",
+      "note": "Official parliament probe miss status 0 (fetch failed)."
     },
     {
       "id": "wd-q3363019",
       "label": "Assembly of the Union (Wikidata)",
       "url": "https://www.wikidata.org/wiki/Q3363019",
       "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://www.amyothahluttaw.hluttaw.mm/committees",
+      "kind": "primary",
       "basis": "Evidence"
     }
   ],

@@ -1,4 +1,171 @@
 {
   "iso2": "se",
-  "items": []
+  "chamber": "Parliament of Sweden",
+  "source_url": "https://www.riksdagen.se/sv/sa-fungerar-riksdagen/utskotten-och-eu-namnden/",
+  "retrieved": "2026-09-06",
+  "incomplete": true,
+  "claimed": 16,
+  "items": [
+    {
+      "id": "arbetsmarknadsutskottet",
+      "name": "Arbetsmarknadsutskottet",
+      "chamber": "Riksdag",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.riksdagen.se/sv/sa-fungerar-riksdagen/utskotten-och-eu-namnden/arbetsmarknadsutskottet/"
+    },
+    {
+      "id": "civilutskottet",
+      "name": "Civilutskottet",
+      "chamber": "Riksdag",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.riksdagen.se/sv/sa-fungerar-riksdagen/utskotten-och-eu-namnden/civilutskottet/"
+    },
+    {
+      "id": "finansutskottet",
+      "name": "Finansutskottet",
+      "chamber": "Riksdag",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.riksdagen.se/sv/sa-fungerar-riksdagen/utskotten-och-eu-namnden/finansutskottet/"
+    },
+    {
+      "id": "forsvarsutskottet",
+      "name": "Försvarsutskottet",
+      "chamber": "Riksdag",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.riksdagen.se/sv/sa-fungerar-riksdagen/utskotten-och-eu-namnden/forsvarsutskottet/"
+    },
+    {
+      "id": "justitieutskottet",
+      "name": "Justitieutskottet",
+      "chamber": "Riksdag",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.riksdagen.se/sv/sa-fungerar-riksdagen/utskotten-och-eu-namnden/justitieutskottet/"
+    },
+    {
+      "id": "konstitutionsutskottet",
+      "name": "Konstitutionsutskottet",
+      "chamber": "Riksdag",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.riksdagen.se/sv/sa-fungerar-riksdagen/utskotten-och-eu-namnden/konstitutionsutskottet/"
+    },
+    {
+      "id": "kulturutskottet",
+      "name": "Kulturutskottet",
+      "chamber": "Riksdag",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.riksdagen.se/sv/sa-fungerar-riksdagen/utskotten-och-eu-namnden/kulturutskottet/"
+    },
+    {
+      "id": "miljo-och-jordbruksutskottet",
+      "name": "Miljö- och jordbruksutskottet",
+      "chamber": "Riksdag",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.riksdagen.se/sv/sa-fungerar-riksdagen/utskotten-och-eu-namnden/miljo-och-jordbruksutskottet/"
+    },
+    {
+      "id": "naringsutskottet",
+      "name": "Näringsutskottet",
+      "chamber": "Riksdag",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.riksdagen.se/sv/sa-fungerar-riksdagen/utskotten-och-eu-namnden/naringsutskottet/"
+    },
+    {
+      "id": "skatteutskottet",
+      "name": "Skatteutskottet",
+      "chamber": "Riksdag",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.riksdagen.se/sv/sa-fungerar-riksdagen/utskotten-och-eu-namnden/skatteutskottet/"
+    },
+    {
+      "id": "socialforsakringsutskottet",
+      "name": "Socialförsäkringsutskottet",
+      "chamber": "Riksdag",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.riksdagen.se/sv/sa-fungerar-riksdagen/utskotten-och-eu-namnden/socialforsakringsutskottet/"
+    },
+    {
+      "id": "socialutskottet",
+      "name": "Socialutskottet",
+      "chamber": "Riksdag",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.riksdagen.se/sv/sa-fungerar-riksdagen/utskotten-och-eu-namnden/socialutskottet/"
+    },
+    {
+      "id": "trafikutskottet",
+      "name": "Trafikutskottet",
+      "chamber": "Riksdag",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.riksdagen.se/sv/sa-fungerar-riksdagen/utskotten-och-eu-namnden/trafikutskottet/"
+    },
+    {
+      "id": "utbildningsutskottet",
+      "name": "Utbildningsutskottet",
+      "chamber": "Riksdag",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.riksdagen.se/sv/sa-fungerar-riksdagen/utskotten-och-eu-namnden/utbildningsutskottet/"
+    },
+    {
+      "id": "utrikesutskottet",
+      "name": "Utrikesutskottet",
+      "chamber": "Riksdag",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.riksdagen.se/sv/sa-fungerar-riksdagen/utskotten-och-eu-namnden/utrikesutskottet/"
+    },
+    {
+      "id": "eu-namnden",
+      "name": "EU-nämnden",
+      "chamber": "Riksdag",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.riksdagen.se/sv/sa-fungerar-riksdagen/utskotten-och-eu-namnden/eu-namnden/"
+    }
+  ],
+  "note": "Official committees hub. 16 standing committees/EU-nämnden."
 }

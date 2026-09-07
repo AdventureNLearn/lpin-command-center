@@ -1,4 +1,17 @@
 {
   "iso2": "bg",
-  "items": []
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "note": "Conflict-of-interest register. Per-member declaration dump (1.6MB) not stored.",
+  "source_url": "https://www.parliament.bg/api/v1/conflict-register",
+  "items": [
+    {
+      "member_id": null,
+      "category": "conflict-of-interest-register",
+      "public": true,
+      "amount_band": null,
+      "origin": "official-api",
+      "source_url": "https://www.parliament.bg/api/v1/conflict-register"
+    }
+  ]
 }

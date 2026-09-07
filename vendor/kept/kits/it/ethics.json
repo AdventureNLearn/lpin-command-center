@@ -2,7 +2,7 @@
   "iso2": "it",
   "incomplete": true,
   "retrieved": "2026-08-20",
-  "note": "Public statutory/register categories only. No confidential annex. No invented dollar amounts. Per-member filings not transcribed.",
+  "note": "Public statutory/register categories only. No confidential annex. No invented dollar amounts. Per-member filings not transcribed. Deduped 3 duplicate ethics rows 2026-09-06.",
   "items": [
     {
       "member_id": null,
@@ -12,36 +12,6 @@
       "origin": "statute",
       "source_url": "https://www.camera.it/leg19/1269",
       "label_en": "Real estate (dichiarazione patrimoniale)",
-      "note": "Public category. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "mobili-registrati",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "https://www.camera.it/leg19/1269",
-      "label_en": "Registered movable assets",
-      "note": "Public category. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "partecipazioni",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "https://www.camera.it/leg19/1269",
-      "label_en": "Shareholdings",
-      "note": "Public category. Amounts not collected."
-    },
-    {
-      "member_id": null,
-      "category": "redditi",
-      "public": true,
-      "amount_band": null,
-      "origin": "statute",
-      "source_url": "https://www.camera.it/leg19/1269",
-      "label_en": "Income (public filing)",
       "note": "Public category. Amounts not collected."
     }
   ]

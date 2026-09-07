@@ -1,7 +1,15 @@
 {
   "iso2": "th",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://party.ect.go.th/accounts",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "th-ect-party-accounts",
+      "kind": "party-accounts-register",
+      "origin": "register",
+      "source_url": "https://party.ect.go.th/accounts"
+    }
+  ],
+  "note": "Capped sample from official source."
 }

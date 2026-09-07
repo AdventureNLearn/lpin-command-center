@@ -1,7 +1,91 @@
 {
   "iso2": "kg",
-  "source_url": "https://www.wikidata.org/wiki/Q578193",
+  "chamber": "Supreme Council",
+  "source_url": "https://www.kenesh.kg/api/committees",
   "retrieved": "2026-09-06",
   "incomplete": true,
-  "items": []
+  "claimed": 8,
+  "items": [
+    {
+      "id": "kg-c-102",
+      "name": "Комитет по международным делам, обороне, безопасности и миграции",
+      "chamber": "Jogorku Kenesh",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.kenesh.kg/api/committees"
+    },
+    {
+      "id": "kg-c-104",
+      "name": "Комитет по конституционному законодательству, государственному устройству, местному самоуправлению и Регламенту Жогорку Кенеша КР",
+      "chamber": "Jogorku Kenesh",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.kenesh.kg/api/committees"
+    },
+    {
+      "id": "kg-c-106",
+      "name": "Комитет по аграрной политике, водным ресурсам, недропользованию, экологии и охране окружающей среды",
+      "chamber": "Jogorku Kenesh",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.kenesh.kg/api/committees"
+    },
+    {
+      "id": "kg-c-152",
+      "name": "Комитет по судебно-правовым вопросам, правопорядку, борьбе с преступностью и противодействию коррупции",
+      "chamber": "Jogorku Kenesh",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.kenesh.kg/api/committees"
+    },
+    {
+      "id": "kg-c-153",
+      "name": "Комитет по финансам, бюджету, предпринимательству и развитию конкуренции",
+      "chamber": "Jogorku Kenesh",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.kenesh.kg/api/committees"
+    },
+    {
+      "id": "kg-c-154",
+      "name": "Комитет по труду, здравоохранению, делам женщин и социальным вопросам",
+      "chamber": "Jogorku Kenesh",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.kenesh.kg/api/committees"
+    },
+    {
+      "id": "kg-c-155",
+      "name": "Комитет по промышленной политике, транспорту, топливно-энергетическому комплексу, архитектуре и строительству",
+      "chamber": "Jogorku Kenesh",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.kenesh.kg/api/committees"
+    },
+    {
+      "id": "kg-c-202",
+      "name": "Комитет по науке, образованию, инновационному развитию и информационным технологиям, культуре, спорту и делам молодежи",
+      "chamber": "Jogorku Kenesh",
+      "seats": null,
+      "chair_id": null,
+      "member_ids": [],
+      "origin": "clerk",
+      "source_url": "https://www.kenesh.kg/api/committees"
+    }
+  ],
+  "note": "Collected 8 committees."
 }

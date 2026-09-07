@@ -1,7 +1,16 @@
 {
   "iso2": "na",
-  "items": [],
+  "named_donors": false,
+  "unit": "NAD",
+  "sitting_total_reconstructed": 181000000,
+  "buckets": [
+    {
+      "label": "state allocation earmarked for political parties FY 2024/25 (all parties combined)",
+      "amount": 181000000
+    }
+  ],
   "incomplete": true,
-  "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "source_url": "https://www.parliament.na/wp-content/uploads/2024/04/Budget-Motivation-2024-25-Deputy-Minister-april.pdf",
+  "retrieved": "2026-09-07",
+  "note": "National Assembly official Vote 09 (Ministry of Finance) budget motivation FY 2024/25 PDF HTTP 200 (probed 2026-09-07). Printed combined allocation: 'An allocation of N$ 181 million has been earmarked for Political Parties.' Source-type public-funding bucket only. Per-party rows not on the page. Vote 09 FY 2025/26 PDF HTTP 200 has no printed combined political-party total this pass (not invented). Named private donors not collected. sitting_total_reconstructed is the printed N$ 181 million figure."
 }

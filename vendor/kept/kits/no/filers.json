@@ -1,7 +1,64 @@
 {
   "iso2": "no",
-  "named_public_filers": false,
+  "named_public_filers": true,
   "incomplete": true,
-  "items": [],
-  "note": "Itemized public contributors only (FEC or equivalent) with https. Unpublished private names stay out. DAF original donor Unproven unless the filing names them."
+  "retrieved": "2026-09-06",
+  "source_url": "https://www.partifinansiering.no",
+  "items": [
+    {
+      "id": "A",
+      "name": "Arbeiderpartiet",
+      "kind": "political-party",
+      "source_url": "https://partifinansiering.no/"
+    },
+    {
+      "id": "FrP",
+      "name": "Fremskrittspartiet",
+      "kind": "political-party",
+      "source_url": "https://partifinansiering.no/"
+    },
+    {
+      "id": "H",
+      "name": "Høyre",
+      "kind": "political-party",
+      "source_url": "https://partifinansiering.no/"
+    },
+    {
+      "id": "SV",
+      "name": "Sosialistisk Venstreparti",
+      "kind": "political-party",
+      "source_url": "https://partifinansiering.no/"
+    },
+    {
+      "id": "Sp",
+      "name": "Senterpartiet",
+      "kind": "political-party",
+      "source_url": "https://partifinansiering.no/"
+    },
+    {
+      "id": "R",
+      "name": "Rødt",
+      "kind": "political-party",
+      "source_url": "https://partifinansiering.no/"
+    },
+    {
+      "id": "MDG",
+      "name": "Miljøpartiet De Grønne",
+      "kind": "political-party",
+      "source_url": "https://partifinansiering.no/"
+    },
+    {
+      "id": "KrF",
+      "name": "Kristelig Folkeparti",
+      "kind": "political-party",
+      "source_url": "https://partifinansiering.no/"
+    },
+    {
+      "id": "V",
+      "name": "Venstre",
+      "kind": "political-party",
+      "source_url": "https://partifinansiering.no/"
+    }
+  ],
+  "note": "Capped sample of organisation names from official register/API. Cap 40. Natural-person names omitted."
 }

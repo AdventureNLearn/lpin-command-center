@@ -1,7 +1,33 @@
 {
   "iso2": "ie",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://www.greenparty.ie/policies/mental-health-policy",
   "retrieved": "2026-09-06",
-  "note": "No sourced pledges for this ISO. Not invented."
+  "incomplete": true,
+  "note": "Quote+URL from official party manifesto / programme HTML. Not invented. Cap 40.",
+  "items": [
+    {
+      "id": "ie-p-green-party-health-9ec097",
+      "party_id": "green-party",
+      "quote": "We propose nothing less than a complete restructuring and reorientation of services.",
+      "issue_id": "health",
+      "source_url": "https://www.greenparty.ie/policies/mental-health-policy",
+      "date": "2024-11-01"
+    },
+    {
+      "id": "ie-p-green-party-health-849e52",
+      "party_id": "green-party",
+      "quote": "We will provide instant & equal access to effective help to those in crisis, 24/7.",
+      "issue_id": "health",
+      "source_url": "https://www.greenparty.ie/policies/mental-health-policy",
+      "date": "2024-11-01"
+    },
+    {
+      "id": "ie-p-green-party-spending-516865",
+      "party_id": "green-party",
+      "quote": "By drawing on international best practices (such as those in Sweden and Germany) and consulting all stakeholders, we will reform Ireland’s system over the next five years to reduce litigation, lower excessive awards, and cut costs for policyholders.",
+      "issue_id": "spending",
+      "source_url": "https://www.greenparty.ie/policies/insurance-reform-policy",
+      "date": "2024-11-01"
+    }
+  ]
 }

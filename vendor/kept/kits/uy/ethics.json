@@ -1,7 +1,17 @@
 {
   "iso2": "uy",
-  "items": [],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced ethics for this ISO. Not invented."
+  "note": "Public JUTEP Ley 17.060 declaración jurada classes named on the official bienes e ingresos page. No amounts. No PII. Obligated-person list (incl. subnational offices) not stored as rows. Deduped 5 duplicate ethics rows 2026-09-07.",
+  "source_url": "https://www.gub.uy/junta-transparencia-etica-publica/declaraciones-juradas-de-bienes-e-ingresos-0",
+  "items": [
+    {
+      "member_id": null,
+      "category": "declaración jurada de bienes e ingresos",
+      "public": true,
+      "amount_band": null,
+      "origin": "statute",
+      "source_url": "https://www.gub.uy/junta-transparencia-etica-publica/declaraciones-juradas-de-bienes-e-ingresos-0"
+    }
+  ]
 }

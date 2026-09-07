@@ -25,9 +25,29 @@
       "id": "committees",
       "hole": "No sourced committee list.",
       "basis": "Evidence"
+    },
+    {
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "orgs",
+      "hole": "No sourced org list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members-count",
+      "hole": "Wikidata sitting 96 vs claimed_seats 60 / institutional 60. Overcount 36 (historical or multi-body rows likely). Rows not trimmed or invented.",
+      "basis": "Evidence"
     }
   ],
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "Full-ISO fill 2026-09-06. Chambers: Grand and General Council · member of the Grand and General Council of San Marino. Sitting 96. Empty objects not invented."
+  "note": "Polish polish-iso-12 2026-09-06. Sitting 96. Dupes removed 0 (id then name+chamber). Overcount 36 vs 60. Empty categories are holes, not zeros invented."
 }

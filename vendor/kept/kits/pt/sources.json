@@ -28,6 +28,34 @@
       "url": "https://www.wikidata.org/wiki/Q740564",
       "kind": "index",
       "basis": "Evidence"
+    },
+    {
+      "id": "official-orgs",
+      "label": "Official registered political parties / committees",
+      "url": "https://www.tribunalconstitucional.pt/tc/partidos.html",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-ethics",
+      "label": "Official MP financial-interest / disclosure register",
+      "url": "https://www.parlamento.pt/RegistoInteresses",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-committees",
+      "label": "Official committees",
+      "url": "https://www.parlamento.pt/sites/com/XVIILeg/1CACDLG",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-pledges",
+      "label": "Official party manifesto / programme",
+      "url": "https://www.pcp.pt/programa-do-pcp",
+      "kind": "primary",
+      "basis": "Evidence"
     }
   ],
   "incomplete": false

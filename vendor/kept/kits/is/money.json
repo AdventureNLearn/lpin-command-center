@@ -1,7 +1,14 @@
 {
   "iso2": "is",
-  "items": [],
-  "incomplete": true,
+  "named_donors": false,
+  "source_url": "https://island.is/arsreikningar-stjornmalasamtok",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "incomplete": true,
+  "note": "Official political-association annual-accounts desk. Named donors and ISK totals not collected.",
+  "buckets": [
+    {
+      "label": "political-association-annual-accounts",
+      "source_url": "https://island.is/arsreikningar-stjornmalasamtok"
+    }
+  ]
 }

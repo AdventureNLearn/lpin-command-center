@@ -1,7 +1,9 @@
 {
   "iso2": "ch",
-  "items": [],
+  "named_public_filers": false,
   "incomplete": true,
   "retrieved": "2026-09-06",
-  "note": "No sourced filers for this ISO. Not invented."
+  "source_url": "https://politikfinanzierung.efk.admin.ch/",
+  "items": [],
+  "note": "EFK political-funding portal HTTP 200. SPA; canton vote CSV is not a national filer list. Municipality names not stored. Not invented."
 }

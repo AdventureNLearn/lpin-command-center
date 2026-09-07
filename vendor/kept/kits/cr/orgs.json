@@ -1,7 +1,8 @@
 {
   "iso2": "cr",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://www.tse.go.cr/partidos_inscritos.html",
   "retrieved": "2026-09-06",
-  "note": "No sourced orgs for this ISO. Not invented."
+  "incomplete": true,
+  "items": [],
+  "note": "TSE partidos inscritos HTTP 200 Radware block page (not a register dump). Not invented."
 }

@@ -27,13 +27,31 @@
       "label": "People's Majlis",
       "url": "https://majlis.gov.mv/",
       "kind": "primary",
-      "basis": "Evidence"
+      "basis": "Evidence",
+      "http_status": 403,
+      "probed": "2026-09-06",
+      "seat": "polish-iso-09",
+      "note": "403 is a miss. Not treated as live official this seat."
     },
     {
       "id": "wd-q650066",
       "label": "People's Majlis (Wikidata)",
       "url": "https://www.wikidata.org/wiki/Q650066",
       "kind": "index",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-ethics",
+      "label": "Official ethics",
+      "url": "https://www.acc.gov.mv/",
+      "kind": "primary",
+      "basis": "Evidence"
+    },
+    {
+      "id": "official-orgs",
+      "label": "Official orgs",
+      "url": "https://www.elections.gov.mv/en/news/121",
+      "kind": "primary",
       "basis": "Evidence"
     }
   ],

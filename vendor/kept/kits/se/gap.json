@@ -1,5 +1,33 @@
 {
   "iso2": "se",
-  "items": [],
-  "incomplete": true
+  "items": [
+    {
+      "id": "money",
+      "hole": "No sourced money file.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "lobby",
+      "hole": "No sourced lobby register.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "filers",
+      "hole": "No sourced filer list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "orgs",
+      "hole": "No sourced org list.",
+      "basis": "Evidence"
+    },
+    {
+      "id": "members-statutory",
+      "hole": "Riksdag statutory 349; Wikidata sitting 341. No overcount. Undercount 8 vs statutory. Rows not trimmed or invented.",
+      "basis": "Evidence"
+    }
+  ],
+  "incomplete": true,
+  "retrieved": "2026-09-06",
+  "note": "Polish polish-iso-12 2026-09-06. Sitting 341. Dupes removed 0 (id then name+chamber). No Riksdag overcount. Empty categories are holes, not zeros invented."
 }

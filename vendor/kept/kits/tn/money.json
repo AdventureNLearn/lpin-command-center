@@ -1,7 +1,16 @@
 {
   "iso2": "tn",
-  "items": [],
-  "incomplete": true,
+  "source_url": "https://www.courdescomptes.nat.tn/",
   "retrieved": "2026-09-06",
-  "note": "No sourced money for this ISO. Not invented."
+  "incomplete": true,
+  "items": [
+    {
+      "id": "item",
+      "name": "الرقابة على تمويل الحملات الإنتخابية",
+      "origin": "clerk",
+      "source_url": "https://www.courdescomptes.nat.tn/rapports-resultats/?r_cat=2&amp;r_subcat=85",
+      "kind": "oversight-report"
+    }
+  ],
+  "note": "Official campaign-finance oversight host/page. Named private donors not collected."
 }
