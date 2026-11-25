@@ -34,8 +34,8 @@ Google 3D tiles, no accounts, no database.
 
 ## This tree
 
-Private working copy of the Command Center. Live gevradio is a frozen
-reference — do not overwrite it. Do not push `AdventureNLearn/groks-eye-view`.
+Public Command Center tree. Live gevradio (https://gevradio.grok.me/) is a frozen
+reference — do not overwrite it. Separate from `AdventureNLearn/groks-eye-view`.
 Civic data is vendored (Kept harvests + permit catalog). No secrets in this file.
 
 Optional: `XAI_API_KEY` on the server lets Talk answer questions about the
